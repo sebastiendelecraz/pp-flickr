@@ -1,0 +1,11 @@
+1	Crowd	Crowd	_	NNP	_	2	SBJ	43454	_
+2	waiting	wait	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	Main	Main	_	NNP	_	5	NAME	43457	_
+5	Street	Street	_	NNP	_	7	NMOD	43457	_
+6	subway	subway	_	NN	_	7	NMOD	43457	_
+7	platform	platform	_	NN	_	3	PMOD	43457	_
+8	for	for	_	IN	_	7	NMOD	_	2
+9	a	a	_	DT	_	10	NMOD	43455	_
+10	train	train	_	NN	_	8	PMOD	43455	_
+11	.	.	_	.	_	0	ROOT	_	_

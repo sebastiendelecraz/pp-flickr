@@ -1,0 +1,12 @@
+1	Several	several	_	DT	_	2	NMOD	217233	_
+2	people	people	_	NN	_	3	SBJ	217233	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	217234	_
+6	bench	bench	_	NN	_	4	PMOD	217234	_
+7	in front of	in front of	_	IN	_	3	TMP	_	_
+8	a	a	_	DT	_	11	NMOD	217235	_
+9	large	large	_	JJ	_	11	NMOD	217235	_
+10	multi-columned	multi-columned	_	CD	_	11	NMOD	217235	_
+11	building	building	_	NN	_	7	PMOD	217235	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,16 @@
+1	Three	Three	_	CD	_	3	NMOD	177258	_
+2	little	little	_	JJ	_	3	NMOD	177258	_
+3	ballerinas	ballerina	_	NNS	_	4	SBJ	177258	_
+4	attend	attend	_	VBP	_	8	SBJ	_	_
+5	class	class	_	NN	_	4	OBJ	177260	_
+6	but	but	_	CC	_	5	COORD	_	_
+7	one	one	_	CD	_	6	CONJ	177262	_
+8	seems	seem	_	VBZ	_	0	ROOT	_	_
+9	distracted	distract	_	VBN	_	8	VC	_	_
+10	by	by	_	IN	_	9	LGS	_	_
+11	something	something	_	NN	_	10	PMOD	177263	_
+12	off	off	_	IN	_	11	NMOD	_	11
+13	the	the	_	DT	_	15	NMOD	177264	_
+14	dance	dance	_	NN	_	15	NMOD	177264	_
+15	floor	floor	_	NN	_	12	PMOD	177264	_
+16	.	.	_	.	_	8	P	_	_

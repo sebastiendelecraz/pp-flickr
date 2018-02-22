@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	3	NMOD	280887	_
+2	smiling	smile	_	VBG	_	3	NMOD	280887	_
+3	boy	boy	_	NN	_	12	SBJ	280887	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	blond-hair	blond-hair	_	CD	_	4	PMOD	280900	_
+6	and	and	_	CC	_	3	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	280889	_
+8	net	net	_	JJ	_	6	CONJ	280889	_
+9	on	on	_	IN	_	12	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	280894	_
+11	pole	pole	_	NN	_	9	PMOD	280894	_
+12	walks	walk	_	VBZ	_	0	ROOT	_	_
+13	away from	away from	_	IN	_	12	ADV	_	12
+14	the	the	_	DT	_	15	NMOD	280896	_
+15	tide	tide	_	NN	_	13	PMOD	280896	_
+16	on	on	_	IN	_	12	ADV	_	12
+17	a	a	_	DT	_	18	NMOD	280888	_
+18	beach	beach	_	NN	_	16	PMOD	280888	_
+19	strewn	strewn	_	JJ	_	12	GAP-PMOD	_	_
+20	with	with	_	IN	_	12	ADV	_	_
+21	rocks	rock	_	NNS	_	20	PMOD	280897	_
+22	and	and	_	CC	_	21	COORD	_	_
+23	seaweed	seaweed	_	NN	_	22	CONJ	280898	_
+24	.	.	_	.	_	12	P	_	_

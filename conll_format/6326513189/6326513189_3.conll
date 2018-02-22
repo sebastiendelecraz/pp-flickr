@@ -1,0 +1,11 @@
+1	Ice	Ice	_	NNP	_	3	NMOD	252782	_
+2	hockey	hockey	_	NN	_	3	NMOD	252782	_
+3	players	player	_	NNS	_	0	ROOT	252782	_
+4	battling	battle	_	VBG	_	3	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	the	the	_	DT	_	7	NMOD	252787	_
+7	puck	puck	_	NN	_	5	PMOD	252787	_
+8	around	around	_	IN	_	4	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	252786	_
+10	goalie	goalie	_	NN	_	8	PMOD	252786	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	Guy	Guy	_	NNP	_	3	NMOD	262445	_
+2	wearing	wear	_	VBG	_	3	NMOD	_	_
+3	sunglasses	sunglass	_	NNS	_	0	ROOT	262447	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	blue	blue	_	JJ	_	6	NMOD	262446	_
+6	shirt	shirt	_	NN	_	4	CONJ	262446	_
+7	on	on	_	IN	_	3	NMOD	_	_
+8	skateboard	skateboard	_	NN	_	7	PMOD	262448	_
+9	in front of	in front of	_	IN	_	3	NMOD	_	1
+10	a	a	_	DT	_	13	NMOD	262452	_
+11	bright	bright	_	JJ	_	13	NMOD	262452	_
+12	yellow	yellow	_	NN	_	13	NMOD	262452	_
+13	building	building	_	NN	_	9	PMOD	262452	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	palm	palm	_	NN	_	16	NMOD	262450	_
+16	trees	tree	_	NNS	_	14	PMOD	262450	_
+17	.	.	_	.	_	0	ROOT	_	_

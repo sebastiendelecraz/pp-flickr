@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	88136	_
+2	men	man	_	NNS	_	3	SBJ	88136	_
+3	run	run	_	VBP	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	88137	_
+6	field	field	_	NN	_	4	PMOD	88137	_
+7	near	near	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	88139	_
+9	parking	parking	_	NN	_	10	NMOD	88139	_
+10	lot	lot	_	NN	_	7	PMOD	88139	_
+11	.	.	_	.	_	3	P	_	_

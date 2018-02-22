@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	7364	_
+2	woman	woman	_	NN	_	0	ROOT	7364	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	jeans	jean	_	NNS	_	3	PMOD	7369	_
+5	walking	walk	_	VBG	_	4	APPO	_	_
+6	along	along	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	7368	_
+8	pathway	pathway	_	NN	_	6	PMOD	7368	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	green	green	_	JJ	_	11	NMOD	7366	_
+11	railing	railing	_	NN	_	9	PMOD	7366	_
+12	.	.	_	.	_	0	ROOT	_	_

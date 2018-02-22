@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	131080	_
+2	men	man	_	NNS	_	6	SBJ	131080	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	life	life	_	NN	_	5	NMOD	131081	_
+5	jackets	jacket	_	NNS	_	3	PMOD	131081	_
+6	speed	speed	_	VBP	_	0	ROOT	_	_
+7	through	through	_	IN	_	6	ADV	_	6
+8	the	the	_	DT	_	9	NMOD	131082	_
+9	water	water	_	NN	_	7	PMOD	131082	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	an	an	_	DT	_	13	NMOD	131083	_
+12	orange	orange	_	JJ	_	13	NMOD	131083	_
+13	motorboat	motorboat	_	NN	_	10	PMOD	131083	_
+14	.	.	_	.	_	6	P	_	_

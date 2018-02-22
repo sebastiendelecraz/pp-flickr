@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	263182	_
+2	fighter	fighter	_	NN	_	3	SBJ	263182	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	declared	declare	_	VBN	_	3	VC	_	_
+5	the	the	_	DT	_	6	NMOD	263182	_
+6	winner	winner	_	NN	_	4	OBJ	263182	_
+7	after	after	_	IN	_	4	TMP	_	4
+8	the	the	_	DT	_	9	NMOD	263185	_
+9	conclusion	conclusion	_	NN	_	7	PMOD	263185	_
+10	of	of	_	IN	_	9	NMOD	263185	_
+11	a	a	_	DT	_	14	NMOD	263185	_
+12	martial	martial	_	JJ	_	14	NMOD	263185	_
+13	arts	art	_	NNS	_	14	NMOD	263185	_
+14	event	event	_	NN	_	10	PMOD	263185	_
+15	.	.	_	.	_	3	P	_	_

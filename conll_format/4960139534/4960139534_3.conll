@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	2	NMOD	223446	_
+2	back	back	_	NN	_	0	ROOT	223446	_
+3	of	of	_	IN	_	2	NMOD	223446	_
+4	a	a	_	DT	_	5	NMOD	223446	_
+5	man	man	_	NN	_	3	PMOD	223446	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	black	black	_	JJ	_	8	NMOD	223450	_
+8	shorts	short	_	NNS	_	6	PMOD	223450	_
+9	and	and	_	CC	_	5	COORD	_	_
+10	a	a	_	DT	_	12	NMOD	223449	_
+11	white	white	_	JJ	_	12	NMOD	223449	_
+12	shirts	shirt	_	NNS	_	9	CONJ	223449	_
+13	walking	walk	_	VBG	_	12	APPO	_	_
+14	next to	next to	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	223447	_
+16	building	building	_	NN	_	14	PMOD	223447	_
+17	.	.	_	.	_	0	ROOT	_	_

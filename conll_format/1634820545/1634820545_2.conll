@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	2	NMOD	17946	_
+2	women	woman	_	NNS	_	6	SBJ	17946	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	gypsy	gypsy	_	JJ	_	5	NMOD	17949	_
+5	skirts	skirt	_	NNS	_	3	PMOD	17949	_
+6	stand	stand	_	VBP	_	0	ROOT	_	_
+7	around	around	_	RP	_	6	PRT	_	_
+8	the	the	_	DT	_	10	NMOD	17954	_
+9	Parking	parking	_	NN	_	10	NMOD	17954	_
+10	area	area	_	NN	_	6	OBJ	17954	_
+11	for	for	_	IN	_	10	NMOD	_	10
+12	the	the	_	DT	_	14	NMOD	17955	_
+13	Notre	Notre	_	NNP	_	14	NAME	17955	_
+14	Dame	Dame	_	NNP	_	11	PMOD	17955	_
+15	in	in	_	IN	_	14	LOC	_	6
+16	France	France	_	NNP	_	15	PMOD	17953	_
+17	.	.	_	.	_	6	P	_	_

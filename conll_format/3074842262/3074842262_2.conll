@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	91583	_
+2	boy	boy	_	NN	_	6	SBJ	91583	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	blue	blue	_	JJ	_	5	NMOD	91584	_
+5	shirt	shirt	_	NN	_	3	PMOD	91584	_
+6	kicking	kick	_	VBG	_	0	ROOT	_	_
+7	off	off	_	RP	_	6	PRT	_	_
+8	dead	dead	_	JJ	_	9	NMOD	91585	_
+9	leaves	leaf	_	NNS	_	6	OBJ	91585	_
+10	from	from	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	12	NMOD	91585	_
+12	pile	pile	_	NN	_	10	PMOD	91585	_
+13	of	of	_	IN	_	12	NMOD	91585	_
+14	leaves	leaf	_	NNS	_	13	PMOD	91585	_
+15	.	.	_	.	_	0	ROOT	_	_

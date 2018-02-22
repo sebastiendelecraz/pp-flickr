@@ -1,0 +1,15 @@
+1	Many	many	_	DT	_	2	NMOD	7044	_
+2	people	people	_	NN	_	0	ROOT	7044	_
+3	at	at	_	IN	_	2	LOC	_	_
+4	an	an	_	DT	_	6	NMOD	7050	_
+5	outdoor	outdoor	_	JJ	_	6	NMOD	7050	_
+6	gathering	gathering	_	NN	_	3	PMOD	7050	_
+7	with	with	_	IN	_	6	NMOD	_	2
+8	a	a	_	DT	_	9	NMOD	7039	_
+9	guy	guy	_	NN	_	7	PMOD	7039	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	girl	girl	_	NN	_	10	CONJ	7040	_
+12	in	in	_	IN	_	9	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	foreground	foreground	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

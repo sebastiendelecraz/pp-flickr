@@ -1,0 +1,16 @@
+1	Young	Young	_	NNP	_	2	NMOD	75501	_
+2	girls	girl	_	NNS	_	0	ROOT	75501	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	bathing	bath	_	VBG	_	5	NMOD	75503	_
+5	suits	suit	_	NNS	_	3	PMOD	75503	_
+6	playing	play	_	VBG	_	5	APPO	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	75502	_
+9	knee	knee	_	NN	_	7	PMOD	75502	_
+10	deep	deep	_	RB	_	11	NMOD	75502	_
+11	water	water	_	NN	_	12	PMOD	75502	_
+12	beyond	beyond	_	IN	_	9	NMOD	_	6
+13	the	the	_	DT	_	15	NMOD	75504	_
+14	blue	blue	_	JJ	_	15	NMOD	75504	_
+15	railing	railing	_	NN	_	12	PMOD	75504	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,10 @@
+1	Three	Three	_	CD	_	2	NMOD	166839	_
+2	dogs	dog	_	NNS	_	3	SBJ	166839	_
+3	race	race	_	VBP	_	0	ROOT	166839	_
+4	towards	towards	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	166840	_
+6	viewer	viewer	_	NN	_	4	PMOD	166840	_
+7	over	over	_	IN	_	6	NMOD	_	3
+8	a	a	_	DT	_	9	NMOD	166836	_
+9	lawn	lawn	_	NN	_	7	PMOD	166836	_
+10	.	.	_	.	_	3	P	_	_

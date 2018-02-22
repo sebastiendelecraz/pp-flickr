@@ -1,0 +1,16 @@
+1	Man	Man	_	NNP	_	0	ROOT	207500	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	207508	_
+4	green	green	_	JJ	_	5	NMOD	207508	_
+5	jacket	jacket	_	NN	_	2	PMOD	207508	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	moccasins	moccasin	_	NNS	_	6	CONJ	207509	_
+8	sleeping	sleep	_	VBG	_	5	APPO	_	_
+9	on	on	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	12	NMOD	207501	_
+11	blue	blue	_	JJ	_	12	NMOD	207501	_
+12	blanket	blanket	_	NN	_	9	PMOD	207501	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	207503	_
+15	street	street	_	NN	_	13	PMOD	207503	_
+16	.	.	_	.	_	0	ROOT	_	_

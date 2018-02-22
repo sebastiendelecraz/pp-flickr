@@ -1,0 +1,15 @@
+1	Three	Three	_	CD	_	2	NMOD	261959	_
+2	women	woman	_	NNS	_	0	ROOT	261959	_
+3	,	,	_	,	_	0	ROOT	_	_
+4	at	at	_	IN	_	0	ROOT	_	_
+5	tables	table	_	NNS	_	6	SBJ	261965	_
+6	pushed	push	_	VBD	_	4	SUB	_	_
+7	together	together	_	RB	_	6	ADV	_	_
+8	,	,	_	,	_	6	P	_	_
+9	engaged	engage	_	VBN	_	6	ADV	_	_
+10	in	in	_	IN	_	9	ADV	_	_
+11	note	note	_	NN	_	10	PMOD	261963	_
+12	from	from	_	IN	_	9	ADV	_	9
+13	open	open	_	JJ	_	14	NMOD	261964	_
+14	books	book	_	NNS	_	12	PMOD	261964	_
+15	.	.	_	.	_	0	ROOT	_	_

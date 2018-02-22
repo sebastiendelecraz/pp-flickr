@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	144007	_
+2	men	man	_	NNS	_	0	ROOT	144007	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	5	NMOD	144009	_
+5	shirts	shirt	_	NNS	_	3	PMOD	144009	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	six	six	_	CD	_	8	NMOD	144010	_
+8	women	woman	_	NNS	_	6	CONJ	144010	_
+9	in	in	_	IN	_	2	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	144008	_
+11	ballet	ballet	_	NN	_	9	PMOD	144008	_
+12	.	.	_	.	_	0	ROOT	_	_

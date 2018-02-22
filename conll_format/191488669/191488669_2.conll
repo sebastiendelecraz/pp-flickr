@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	23057	_
+2	man	man	_	NN	_	5	SBJ	23057	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	woman	woman	_	NN	_	3	CONJ	23055	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	next to	next to	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	23058	_
+9	rack	rack	_	NN	_	7	PMOD	23058	_
+10	of	of	_	IN	_	9	NMOD	23058	_
+11	polka	polka	_	NN	_	10	PMOD	23058	_
+12	dotted	dot	_	VBN	_	13	NMOD	23058	_
+13	shirts	shirt	_	NNS	_	9	APPO	23058	_
+14	.	.	_	.	_	5	P	_	_

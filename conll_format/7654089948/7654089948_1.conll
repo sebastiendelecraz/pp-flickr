@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	272781	_
+2	jockey	jockey	_	NN	_	3	SBJ	272781	_
+3	rides	ride	_	VBZ	_	0	ROOT	_	_
+4	his	his	_	PRP$	_	6	NMOD	272780	_
+5	brown	brown	_	JJ	_	6	NMOD	272780	_
+6	horse	horse	_	NN	_	3	OBJ	272780	_
+7	as	as	_	IN	_	3	ADV	_	_
+8	the	the	_	DT	_	10	NMOD	272780	_
+9	horse	horse	_	NN	_	10	NMOD	272780	_
+10	gallops	gallop	_	NNS	_	7	PMOD	272780	_
+11	along	along	_	IN	_	10	LOC	_	10
+12	the	the	_	DT	_	13	NMOD	272785	_
+13	track	track	_	NN	_	11	PMOD	272785	_
+14	.	.	_	.	_	3	P	_	_

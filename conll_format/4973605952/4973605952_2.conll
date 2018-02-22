@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	225019	_
+2	woman	woman	_	NN	_	3	SBJ	225019	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	next to	next to	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	225020	_
+6	bicycle	bicycle	_	NN	_	4	PMOD	225020	_
+7	in front of	in front of	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	225021	_
+9	blue	blue	_	JJ	_	10	NMOD	225021	_
+10	building	building	_	NN	_	7	PMOD	225021	_
+11	.	.	_	.	_	3	P	_	_

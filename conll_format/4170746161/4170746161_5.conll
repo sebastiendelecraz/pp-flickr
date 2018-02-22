@@ -1,0 +1,13 @@
+1	two	two	_	CD	_	2	NMOD	157928	_
+2	men	man	_	NNS	_	0	ROOT	157928	_
+3	behind	behind	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	157929	_
+5	circular	circular	_	JJ	_	6	NMOD	157929	_
+6	bar	bar	_	NN	_	3	PMOD	157929	_
+7	in	in	_	IN	_	2	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	157935	_
+9	room	room	_	NN	_	7	PMOD	157935	_
+10	filled	fill	_	VBN	_	9	APPO	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	people	people	_	NN	_	11	PMOD	157937	_
+13	.	.	_	.	_	0	ROOT	_	_

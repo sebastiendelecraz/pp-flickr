@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	74054	_
+2	group	group	_	NN	_	0	ROOT	74054	_
+3	of	of	_	IN	_	2	NMOD	74054	_
+4	police	police	_	NN	_	5	NMOD	74054	_
+5	officers	officer	_	NNS	_	3	PMOD	74054	_
+6	outside	outside	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	74055	_
+8	city	city	_	NN	_	9	NMOD	74055	_
+9	building	building	_	NN	_	6	PMOD	74055	_
+10	.	.	_	.	_	0	ROOT	_	_

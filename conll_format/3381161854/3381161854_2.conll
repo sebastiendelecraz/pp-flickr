@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	114378	_
+2	dogs	dog	_	NNS	_	3	SBJ	114378	_
+3	run	run	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	114379	_
+6	path	path	_	NN	_	4	PMOD	114379	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	114381	_
+9	stone	stone	_	NN	_	10	NMOD	114381	_
+10	bench	bench	_	NN	_	7	PMOD	114381	_
+11	.	.	_	.	_	3	P	_	_

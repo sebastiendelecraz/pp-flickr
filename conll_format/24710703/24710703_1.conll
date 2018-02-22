@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	3	NMOD	51915	_
+2	few	few	_	DT	_	3	NMOD	51915	_
+3	boys	boy	_	NNS	_	0	ROOT	51915	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	a	a	_	DT	_	7	NMOD	51916	_
+6	man	man	_	NN	_	7	NMOD	51916	_
+7	dance	dance	_	NN	_	4	CONJ	_	_
+8	in front of	in front of	_	IN	_	0	ROOT	_	_
+9	a	a	_	DT	_	10	NMOD	51917	_
+10	row	row	_	NN	_	8	PMOD	51917	_
+11	of	of	_	IN	_	10	NMOD	51917	_
+12	fold-up	fold-up	_	CD	_	13	NMOD	51917	_
+13	chairs	chair	_	NNS	_	11	PMOD	51917	_
+14	in	in	_	IN	_	10	LOC	_	7
+15	a	a	_	DT	_	17	NMOD	51924	_
+16	crowded	crowded	_	JJ	_	17	NMOD	51924	_
+17	auditorium	auditorium	_	NN	_	14	PMOD	51924	_
+18	.	.	_	.	_	0	ROOT	_	_

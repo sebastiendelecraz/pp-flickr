@@ -1,0 +1,10 @@
+1	Four	Four	_	CD	_	2	NMOD	229889	_
+2	people	people	_	NN	_	3	SBJ	229889	_
+3	looking	look	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	some	some	_	DT	_	6	NMOD	229899	_
+6	cattle	cattle	_	NN	_	4	PMOD	229899	_
+7	beside	beside	_	IN	_	3	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	229895	_
+9	barn	barn	_	NN	_	7	PMOD	229895	_
+10	.	.	_	.	_	0	ROOT	_	_

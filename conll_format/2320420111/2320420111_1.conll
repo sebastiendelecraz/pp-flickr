@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	41476	_
+2	guy	guy	_	NN	_	3	SBJ	41476	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	riding	ride	_	VBG	_	3	VC	_	_
+5	his	his	_	PRP$	_	6	NMOD	41477	_
+6	bike	bike	_	NN	_	4	OBJ	41477	_
+7	next to	next to	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	10	NMOD	41479	_
+9	brick	brick	_	NN	_	10	NMOD	41479	_
+10	building	building	_	NN	_	7	PMOD	41479	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	bright	bright	_	JJ	_	14	NMOD	41478	_
+13	blue	blue	_	JJ	_	14	NMOD	41478	_
+14	doors	door	_	NNS	_	11	PMOD	41478	_
+15	.	.	_	.	_	3	P	_	_

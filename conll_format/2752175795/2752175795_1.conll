@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	70609	_
+2	people	people	_	NN	_	3	SBJ	70609	_
+3	wait	wait	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	an	an	_	DT	_	8	NMOD	70613	_
+6	enclosed	enclose	_	VBN	_	8	NMOD	70613	_
+7	bus	bus	_	NN	_	8	NMOD	70613	_
+8	stop	stop	_	NN	_	4	PMOD	70613	_
+9	on	on	_	IN	_	3	LOC	_	3
+10	a	a	_	DT	_	11	NMOD	70612	_
+11	bench	bench	_	NN	_	9	PMOD	70612	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	advertisement	advertisement	_	NN	_	12	PMOD	70611	_
+14	present	present	_	JJ	_	11	APPO	70611	_
+15	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	123002	_
+2	man	man	_	NN	_	3	SBJ	123002	_
+3	holds	hold	_	VBZ	_	0	ROOT	_	_
+4	his	his	_	PRP$	_	6	NMOD	123000	_
+5	young	young	_	JJ	_	6	NMOD	123000	_
+6	daughter	daughter	_	NN	_	3	OBJ	123000	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	his	his	_	PRP$	_	9	NMOD	123007	_
+9	shoulders	shoulder	_	NNS	_	7	PMOD	123007	_
+10	walking	walk	_	VBG	_	9	APPO	_	_
+11	on	on	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	123003	_
+13	boardwalk	boardwalk	_	NN	_	11	PMOD	123003	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	123006	_
+16	evening	evening	_	NN	_	14	PMOD	123006	_
+17	.	.	_	.	_	3	P	_	_

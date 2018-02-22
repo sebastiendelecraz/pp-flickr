@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	235106	_
+2	man	man	_	NN	_	3	SBJ	235106	_
+3	smiles	smile	_	VBZ	_	0	ROOT	_	_
+4	while	while	_	IN	_	3	ADV	_	_
+5	holding	hold	_	VBG	_	4	SUB	_	_
+6	a	a	_	DT	_	7	NMOD	235109	_
+7	bundle	bundle	_	NN	_	5	OBJ	235109	_
+8	of	of	_	IN	_	7	NMOD	235109	_
+9	mail	mail	_	NN	_	8	PMOD	235109	_
+10	on	on	_	IN	_	5	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	235108	_
+12	stone	stone	_	NN	_	10	PMOD	235108	_
+13	paved	pave	_	VBN	_	14	NMOD	235108	_
+14	road	road	_	NN	_	5	OBJ	235108	_
+15	next to	next to	_	IN	_	5	ADV	_	3
+16	the	the	_	DT	_	17	NMOD	235111	_
+17	entrance	entrance	_	NN	_	15	PMOD	235111	_
+18	of	of	_	IN	_	17	NMOD	235111	_
+19	a	a	_	DT	_	20	NMOD	235111	_
+20	hotel	hotel	_	NN	_	18	PMOD	235111	_
+21	.	.	_	.	_	3	P	_	_

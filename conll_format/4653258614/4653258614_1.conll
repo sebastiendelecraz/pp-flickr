@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	187085	_
+2	policeman	policeman	_	NN	_	3	SBJ	187085	_
+3	looking	look	_	VBG	_	0	ROOT	_	_
+4	away from	away from	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	0	_
+6	camera	camera	_	NN	_	4	PMOD	0	_
+7	with	with	_	IN	_	3	ADV	_	2
+8	a	a	_	DT	_	10	NMOD	187097	_
+9	couple	couple	_	NN	_	10	NMOD	187097	_
+10	cars	car	_	NNS	_	7	PMOD	187097	_
+11	,	,	_	,	_	10	P	_	_
+12	other	other	_	JJ	_	13	NMOD	187089	_
+13	policemen	policeman	_	NNS	_	10	COORD	187089	_
+14	,	,	_	,	_	13	P	_	_
+15	and	and	_	CC	_	13	COORD	_	_
+16	other	other	_	JJ	_	17	NMOD	187095	_
+17	people	people	_	NN	_	15	CONJ	187095	_
+18	in	in	_	IN	_	17	LOC	_	_
+19	the	the	_	DT	_	20	NMOD	0	_
+20	background	background	_	NN	_	18	PMOD	0	_
+21	all	all	_	DT	_	22	PMOD	187090	_
+22	in front of	in front of	_	IN	_	3	ADV	_	21
+23	a	a	_	DT	_	24	NMOD	187088	_
+24	building	building	_	NN	_	22	PMOD	187088	_
+25	.	.	_	.	_	0	ROOT	_	_

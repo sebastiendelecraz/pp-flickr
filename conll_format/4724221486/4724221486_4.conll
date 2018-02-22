@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	195482	_
+2	man	man	_	NN	_	5	SBJ	195482	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	woman	woman	_	NN	_	3	CONJ	195481	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	195485	_
+9	side	side	_	NN	_	7	PMOD	195485	_
+10	of	of	_	IN	_	9	NMOD	195485	9
+11	a	a	_	DT	_	13	NMOD	195485	_
+12	busy	busy	_	JJ	_	13	NMOD	195485	_
+13	street	street	_	NN	_	10	PMOD	195485	_
+14	.	.	_	.	_	5	P	_	_

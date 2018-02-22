@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	216958	_
+2	brunette	brunette	_	JJ	_	3	NMOD	216958	_
+3	woman	woman	_	NN	_	4	SBJ	216958	_
+4	pours	pour	_	VBZ	_	0	ROOT	_	_
+5	a	a	_	DT	_	7	NMOD	216959	_
+6	red	red	_	JJ	_	7	NMOD	216959	_
+7	drink	drink	_	NN	_	4	OBJ	216959	_
+8	from	from	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	216961	_
+10	pitcher	pitcher	_	NN	_	8	PMOD	216961	_
+11	into	into	_	IN	_	4	ADV	_	4
+12	champagne	champagne	_	NN	_	13	NMOD	216960	_
+13	glasses	glass	_	NNS	_	11	PMOD	216960	_
+14	.	.	_	.	_	4	P	_	_

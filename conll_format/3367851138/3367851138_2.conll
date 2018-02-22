@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	113417	_
+2	man	man	_	NN	_	3	SBJ	113417	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	113421	_
+6	dock	dock	_	NN	_	4	PMOD	113421	_
+7	beside	beside	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	113419	_
+9	building	building	_	NN	_	7	PMOD	113419	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	a	a	_	DT	_	12	NMOD	113418	_
+12	tugboat	tugboat	_	NN	_	10	CONJ	113418	_
+13	.	.	_	.	_	0	ROOT	_	_

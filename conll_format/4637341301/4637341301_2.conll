@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	185295	_
+2	candid	candid	_	JJ	_	3	NMOD	185295	_
+3	shot	shot	_	NN	_	0	ROOT	185295	_
+4	of	of	_	IN	_	3	NMOD	185295	3
+5	a	a	_	DT	_	7	NMOD	185295	_
+6	boat	boat	_	NN	_	7	NMOD	185295	_
+7	marina	marina	_	NN	_	4	PMOD	185295	_
+8	during	during	_	IN	_	3	TMP	_	7
+9	the	the	_	DT	_	10	NMOD	185300	_
+10	day	day	_	NN	_	8	PMOD	185300	_
+11	.	.	_	.	_	0	ROOT	_	_

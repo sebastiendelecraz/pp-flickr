@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	275932	_
+2	biker	biker	_	NN	_	3	SBJ	275932	_
+3	rides	ride	_	VBZ	_	0	ROOT	_	_
+4	his	his	_	PRP$	_	5	NMOD	275933	_
+5	bike	bike	_	NN	_	3	OBJ	275933	_
+6	past	past	_	IN	_	5	NMOD	_	3
+7	rows	row	_	NNS	_	6	PMOD	275937	_
+8	of	of	_	IN	_	7	NMOD	275937	_
+9	immature	immature	_	JJ	_	10	NMOD	275937	_
+10	trees	tree	_	NNS	_	8	PMOD	275937	_
+11	.	.	_	.	_	3	P	_	_

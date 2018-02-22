@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	130103	_
+2	dog	dog	_	NN	_	3	SBJ	130103	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	snow	snow	_	NN	_	4	PMOD	130105	_
+6	with	with	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	9	NMOD	130104	_
+8	big	big	_	JJ	_	9	NMOD	130104	_
+9	tree	tree	_	NN	_	6	PMOD	130104	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	distance	distance	_	NN	_	10	PMOD	0	_
+13	.	.	_	.	_	3	P	_	_

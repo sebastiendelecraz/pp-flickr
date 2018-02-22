@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	140523	_
+2	men	man	_	NNS	_	0	ROOT	140523	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	green	green	_	JJ	_	8	NMOD	140536	_
+5	and	and	_	CC	_	4	COORD	140536	_
+6	black	black	_	JJ	_	5	CONJ	140536	_
+7	clothing	clothing	_	NN	_	8	NMOD	140536	_
+8	ride	ride	_	NN	_	3	PMOD	_	_
+9	high	high	_	RB	_	10	PMOD	_	_
+10	in	in	_	IN	_	2	LOC	_	8
+11	a	a	_	DT	_	13	NMOD	140528	_
+12	basket	basket	_	NN	_	13	NMOD	140528	_
+13	crane	crane	_	NN	_	10	PMOD	140528	_
+14	.	.	_	.	_	0	ROOT	_	_

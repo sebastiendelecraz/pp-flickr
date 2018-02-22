@@ -1,0 +1,15 @@
+1	people	people	_	NN	_	2	SBJ	73065	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	walking	walk	_	VBG	_	2	VC	_	_
+4	under	under	_	IN	_	3	LOC	_	3
+5	an	an	_	DT	_	6	NMOD	73068	_
+6	arcade	arcade	_	NN	_	4	PMOD	73068	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	shops	shop	_	NNS	_	7	PMOD	73063	_
+9	to	to	_	TO	_	3	DIR	_	_
+10	the	the	_	DT	_	11	NMOD	73070	_
+11	side	side	_	NN	_	9	PMOD	73070	_
+12	of	of	_	IN	_	11	NMOD	73070	_
+13	the	the	_	DT	_	14	NMOD	73070	_
+14	walk	walk	_	NN	_	12	PMOD	73070	_
+15	.	.	_	.	_	2	P	_	_

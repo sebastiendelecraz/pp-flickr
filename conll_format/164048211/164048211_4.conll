@@ -1,0 +1,9 @@
+1	Two	Two	_	CD	_	2	NMOD	18006	_
+2	children	child	_	NNS	_	0	ROOT	18006	_
+3	by	by	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	18010	_
+5	tree	tree	_	NN	_	3	PMOD	18010	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	some	some	_	DT	_	8	NMOD	18010	_
+8	water	water	_	NN	_	6	PMOD	18010	_
+9	.	.	_	.	_	0	ROOT	_	_

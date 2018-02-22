@@ -1,0 +1,30 @@
+1	A	a	_	DT	_	3	NMOD	42145	_
+2	young	young	_	JJ	_	3	NMOD	42145	_
+3	man	man	_	NN	_	4	SBJ	42145	_
+4	is	be	_	VBZ	_	26	SBJ	_	_
+5	having	have	_	VBG	_	4	VC	_	_
+6	his	his	_	PRP$	_	7	NMOD	42157	_
+7	picture	picture	_	NN	_	5	OBJ	42157	_
+8	taken	take	_	VBN	_	7	APPO	_	_
+9	in front of	in front of	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	42146	_
+11	picture	picture	_	NN	_	9	PMOD	42146	_
+12	of	of	_	IN	_	11	NMOD	42146	_
+13	an	an	_	DT	_	16	NMOD	42146	_
+14	Asian	Asian	_	JJ	_	16	NMOD	42146	_
+15	sports	sport	_	NNS	_	16	NMOD	42146	_
+16	team	team	_	NN	_	12	PMOD	42146	_
+17	,	,	_	,	_	5	P	_	_
+18	while	while	_	IN	_	5	TMP	_	_
+19	a	a	_	DT	_	20	NMOD	42147	_
+20	child	child	_	NN	_	21	SBJ	42147	_
+21	walks	walk	_	VBZ	_	18	SUB	_	_
+22	in	in	_	IN	_	21	LOC	_	20
+23	a	a	_	DT	_	25	NMOD	42148	_
+24	ball	ball	_	NN	_	25	NMOD	42148	_
+25	cap	cap	_	NN	_	22	PMOD	42148	_
+26	walks	walk	_	VBZ	_	0	ROOT	_	_
+27	in front of	in front of	_	IN	_	26	ADV	_	_
+28	the	the	_	DT	_	29	NMOD	42149	_
+29	picture	picture	_	NN	_	27	PMOD	42149	_
+30	.	.	_	.	_	26	P	_	_

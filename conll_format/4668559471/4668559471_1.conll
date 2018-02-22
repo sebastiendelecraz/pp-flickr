@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	188455	_
+2	men	man	_	NNS	_	6	SBJ	188455	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	plastic	plastic	_	JJ	_	5	NMOD	188460	_
+5	gloves	glove	_	NNS	_	3	OBJ	188460	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	making	make	_	VBG	_	6	VC	_	_
+8	juice	juice	_	NN	_	7	OBJ	188459	_
+9	from	from	_	IN	_	7	ADV	_	7
+10	a	a	_	DT	_	11	NMOD	188456	_
+11	display	display	_	NN	_	9	PMOD	188456	_
+12	of	of	_	IN	_	11	NMOD	188456	_
+13	melons	melon	_	NNS	_	12	PMOD	188456	_
+14	.	.	_	.	_	6	P	_	_

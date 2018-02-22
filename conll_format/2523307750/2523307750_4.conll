@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	55107	_
+2	guy	guy	_	NN	_	7	SBJ	55107	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	55112	_
+5	white	white	_	JJ	_	6	NMOD	55112	_
+6	shirt	shirt	_	NN	_	3	PMOD	55112	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	giving	give	_	VBG	_	7	VC	_	_
+9	a	a	_	DT	_	10	NMOD	55114	_
+10	lecture	lecture	_	NN	_	8	OBJ	55114	_
+11	to	to	_	TO	_	8	DTV	_	_
+12	a	a	_	DT	_	13	NMOD	55109	_
+13	group	group	_	NN	_	11	PMOD	55109	_
+14	of	of	_	IN	_	13	NMOD	55109	_
+15	kids	kid	_	NNS	_	14	PMOD	55109	_
+16	seated	seat	_	VBN	_	15	APPO	_	_
+17	at	at	_	IN	_	16	ADV	_	_
+18	picnic	picnic	_	NN	_	19	NMOD	55110	_
+19	tables	table	_	NNS	_	17	PMOD	55110	_
+20	outside of	outside of	_	IN	_	16	TMP	_	16
+21	a	a	_	DT	_	22	NMOD	55113	_
+22	school	school	_	NN	_	20	PMOD	55113	_
+23	.	.	_	.	_	7	P	_	_

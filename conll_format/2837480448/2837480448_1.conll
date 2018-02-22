@@ -1,0 +1,16 @@
+1	Man	Man	_	NNP	_	2	SBJ	75879	_
+2	takes	take	_	VBZ	_	0	ROOT	_	_
+3	picture	picture	_	NN	_	2	OBJ	75881	_
+4	of	of	_	IN	_	3	NMOD	75881	_
+5	the	the	_	DT	_	6	NMOD	75881	_
+6	face	face	_	NN	_	4	PMOD	75881	_
+7	of	of	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	9	NMOD	75882	_
+9	clock	clock	_	NN	_	7	PMOD	75882	_
+10	from	from	_	IN	_	2	TMP	_	2
+11	the	the	_	DT	_	15	NMOD	75882	_
+12	inside of	inside of	_	JJ	_	15	NMOD	75882	_
+13	a	a	_	DT	_	15	NMOD	75882	_
+14	large	large	_	JJ	_	15	NMOD	75882	_
+15	clock	clock	_	NN	_	10	PMOD	75882	_
+16	.	.	_	.	_	2	P	_	_

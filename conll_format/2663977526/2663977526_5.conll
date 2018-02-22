@@ -1,0 +1,8 @@
+1	Live	Live	_	NNP	_	2	NMOD	64808	_
+2	crabs	crab	_	NNS	_	0	ROOT	64808	_
+3	for	for	_	IN	_	2	NMOD	_	2
+4	sale	sale	_	NN	_	3	PMOD	64815	_
+5	in	in	_	IN	_	2	LOC	_	2
+6	a	a	_	DT	_	7	NMOD	64811	_
+7	bin	bin	_	NN	_	5	PMOD	64811	_
+8	.	.	_	.	_	0	ROOT	_	_

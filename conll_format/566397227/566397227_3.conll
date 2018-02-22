@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	240569	_
+2	small	small	_	JJ	_	3	NMOD	240569	_
+3	boy	boy	_	NN	_	6	SBJ	240569	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	braids	braid	_	NNS	_	4	PMOD	240574	_
+6	runs	run	_	VBZ	_	0	ROOT	_	_
+7	through	through	_	IN	_	6	MNR	_	6
+8	a	a	_	DT	_	9	NMOD	240570	_
+9	field	field	_	NN	_	7	PMOD	240570	_
+10	of	of	_	IN	_	9	NMOD	240570	_
+11	tall	tall	_	JJ	_	13	NMOD	240570	_
+12	green	green	_	JJ	_	13	NMOD	240570	_
+13	grass	grass	_	NN	_	10	PMOD	240570	_
+14	.	.	_	.	_	6	P	_	_

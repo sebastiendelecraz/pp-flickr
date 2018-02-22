@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	104767	_
+2	person	person	_	NN	_	0	ROOT	104767	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	104769	_
+5	blue	blue	_	JJ	_	6	NMOD	104769	_
+6	bench	bench	_	NN	_	3	PMOD	104769	_
+7	under	under	_	IN	_	2	LOC	_	2
+8	a	a	_	DT	_	10	NMOD	104768	_
+9	blue	blue	_	JJ	_	10	NMOD	104768	_
+10	blanket	blanket	_	NN	_	7	PMOD	104768	_
+11	.	.	_	.	_	0	ROOT	_	_

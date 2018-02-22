@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	3	NMOD	140128	_
+2	little	little	_	JJ	_	3	NMOD	140128	_
+3	girl	girl	_	NN	_	7	SBJ	140128	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	140129	_
+6	hat	hat	_	NN	_	4	PMOD	140129	_
+7	sits	sit	_	VBZ	_	0	ROOT	_	_
+8	between	between	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	140133	_
+10	woman	woman	_	NN	_	13	NMOD	140133	_
+11	'	'	_	POS	_	10	SUFFIX	140133	_
+12	s	s	_	NN	_	13	NMOD	140133	_
+13	feet	foot	_	NNS	_	8	PMOD	140133	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	140130	_
+16	sand	sand	_	NN	_	14	PMOD	140130	_
+17	in front of	in front of	_	IN	_	0	ROOT	_	_
+18	a	a	_	DT	_	19	NMOD	140132	_
+19	pair	pair	_	NN	_	17	PMOD	140132	_
+20	of	of	_	IN	_	19	NMOD	140132	_
+21	colorful	colorful	_	JJ	_	22	NMOD	140132	_
+22	tents	tent	_	NNS	_	20	PMOD	140132	_
+23	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	82939	_
+2	man	man	_	NN	_	6	SBJ	82939	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	no	no	_	DT	_	5	NMOD	82946	_
+5	legs	leg	_	NNS	_	3	PMOD	82946	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC-PRD	_	_
+8	a	a	_	DT	_	9	NMOD	82943	_
+9	race	race	_	NN	_	7	PMOD	82943	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	his	his	_	PRP$	_	12	NMOD	82940	_
+12	wheelchair	wheelchair	_	NN	_	10	PMOD	82940	_
+13	.	.	_	.	_	6	P	_	_

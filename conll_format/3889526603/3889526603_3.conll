@@ -1,0 +1,15 @@
+1	People	People	_	NNPS	_	2	NAME	147105	_
+2	meditating	meditate	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	147111	_
+5	bask	bask	_	NN	_	3	PMOD	147111	_
+6	of	of	_	IN	_	5	NMOD	147111	_
+7	the	the	_	DT	_	8	NMOD	147111	_
+8	sunlight	sunlight	_	NN	_	6	PMOD	147111	_
+9	as	as	_	IN	_	2	TMP	_	_
+10	it	it	_	PRP	_	11	SBJ	0	_
+11	shines	shine	_	VBZ	_	9	SUB	_	_
+12	over	over	_	IN	_	11	DIR	_	11
+13	the	the	_	DT	_	14	NMOD	147107	_
+14	mountains	mountain	_	NNS	_	12	PMOD	147107	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	35554	_
+2	young	young	_	JJ	_	4	NMOD	35554	_
+3	Jewish	Jewish	_	JJ	_	4	NMOD	35554	_
+4	boy	boy	_	NN	_	5	SBJ	35554	_
+5	sits	sit	_	VBZ	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	35556	_
+8	chair	chair	_	NN	_	6	PMOD	35556	_
+9	at	at	_	IN	_	5	TMP	_	_
+10	a	a	_	DT	_	11	NMOD	35555	_
+11	party	party	_	NN	_	9	PMOD	35555	_
+12	.	.	_	.	_	5	P	_	_

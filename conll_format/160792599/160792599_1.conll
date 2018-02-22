@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	2	NMOD	17429	_
+2	men	man	_	NNS	_	6	SBJ	17429	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	two	two	_	CD	_	5	NMOD	17430	_
+5	women	woman	_	NNS	_	3	CONJ	17430	_
+6	stand	stand	_	VBP	_	0	ROOT	_	_
+7	facing	face	_	VBG	_	6	VC	_	_
+8	the	the	_	DT	_	9	NMOD	17431	_
+9	ocean	ocean	_	NN	_	7	OBJ	17431	_
+10	from	from	_	IN	_	7	ADV	_	6
+11	the	the	_	DT	_	12	NMOD	17433	_
+12	shore	shore	_	NN	_	10	PMOD	17433	_
+13	on	on	_	IN	_	7	ADV	_	_
+14	a	a	_	DT	_	16	NMOD	17432	_
+15	sunny	sunny	_	JJ	_	16	NMOD	17432	_
+16	day	day	_	NN	_	13	PMOD	17432	_
+17	.	.	_	.	_	6	P	_	_

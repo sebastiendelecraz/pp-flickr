@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	4	NMOD	8207	_
+2	small	small	_	JJ	_	4	NMOD	8207	_
+3	male	male	_	JJ	_	4	NMOD	8207	_
+4	child	child	_	NN	_	5	SBJ	8207	_
+5	running	run	_	VBG	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	8208	_
+8	grass	grass	_	NN	_	6	PMOD	8208	_
+9	with	with	_	IN	_	5	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	8210	_
+11	smile	smile	_	NN	_	9	PMOD	8210	_
+12	on	on	_	IN	_	11	NMOD	_	_
+13	his	his	_	PRP$	_	14	NMOD	8211	_
+14	face	face	_	NN	_	12	PMOD	8211	_
+15	.	.	_	.	_	0	ROOT	_	_

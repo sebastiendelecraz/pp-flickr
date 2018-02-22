@@ -1,0 +1,11 @@
+1	a	a	_	DT	_	2	NMOD	87340	_
+2	boy	boy	_	NN	_	3	SBJ	87340	_
+3	looks	look	_	VBZ	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	ADV	_	3
+5	his	his	_	PRP$	_	6	NMOD	87342	_
+6	telescope	telescope	_	NN	_	4	PMOD	87342	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	87346	_
+9	grassy	grassy	_	JJ	_	10	NMOD	87346	_
+10	field	field	_	NN	_	7	PMOD	87346	_
+11	.	.	_	.	_	3	P	_	_

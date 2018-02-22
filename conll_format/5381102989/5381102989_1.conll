@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	235019	_
+2	group	group	_	NN	_	0	ROOT	235019	_
+3	of	of	_	IN	_	2	NMOD	235019	_
+4	musicians	musician	_	NNS	_	3	PMOD	235019	_
+5	inside of	inside of	_	IN	_	2	LOC	_	2
+6	a	a	_	DT	_	8	NMOD	235020	_
+7	living	live	_	VBG	_	8	NMOD	235020	_
+8	room	room	_	NN	_	5	PMOD	235020	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	white	white	_	JJ	_	11	NMOD	235022	_
+11	walls	wall	_	NNS	_	9	PMOD	235022	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	brown	brown	_	JJ	_	14	NMOD	235023	_
+14	rugs	rug	_	NNS	_	12	CONJ	235023	_
+15	playing	play	_	VBG	_	14	APPO	_	_
+16	their	their	_	PRP$	_	17	NMOD	235024	_
+17	music	music	_	NN	_	15	OBJ	235024	_
+18	.	.	_	.	_	0	ROOT	_	_

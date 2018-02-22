@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	159461	_
+2	person	person	_	NN	_	0	ROOT	159461	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	159467	_
+5	blue	blue	_	JJ	_	6	NMOD	159467	_
+6	jacket	jacket	_	NN	_	3	OBJ	159467	_
+7	walking	walk	_	VBG	_	3	OPRD	_	_
+8	up	up	_	RP	_	7	PRT	_	_
+9	a	a	_	DT	_	10	NMOD	159462	_
+10	hill	hill	_	NN	_	7	OBJ	159462	_
+11	through	through	_	IN	_	7	ADV	_	7
+12	snow	snow	_	NN	_	11	PMOD	159462	_
+13	with	with	_	IN	_	12	NMOD	_	_
+14	red	red	_	JJ	_	15	NMOD	159464	_
+15	skies	sky	_	NNS	_	13	PMOD	159464	_
+16	.	.	_	.	_	0	ROOT	_	_

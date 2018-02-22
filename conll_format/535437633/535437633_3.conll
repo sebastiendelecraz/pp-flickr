@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	234427	_
+2	man	man	_	NN	_	6	SBJ	234427	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	234427	_
+5	woman	woman	_	NN	_	3	CONJ	234427	_
+6	looking	look	_	VBG	_	0	ROOT	_	_
+7	at	at	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	10	NMOD	234429	_
+9	self	self	_	NN	_	10	NMOD	234429	_
+10	check	check	_	NN	_	7	PMOD	234429	_
+11	out	out	_	IN	_	6	ADV	_	10
+12	machine	machine	_	NN	_	11	PMOD	234431	_
+13	.	.	_	.	_	0	ROOT	_	_

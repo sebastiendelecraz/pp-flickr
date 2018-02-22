@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	8232	_
+2	young	young	_	JJ	_	3	NMOD	8232	_
+3	boy	boy	_	NN	_	4	SBJ	8232	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	with	with	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	8233	_
+7	boogie	boogie	_	NN	_	8	NMOD	8233	_
+8	board	board	_	NN	_	5	PMOD	8233	_
+9	into	into	_	IN	_	4	DIR	_	4
+10	the	the	_	DT	_	11	NMOD	8234	_
+11	water	water	_	NN	_	9	PMOD	8234	_
+12	.	.	_	.	_	0	ROOT	_	_

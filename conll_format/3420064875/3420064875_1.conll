@@ -1,0 +1,16 @@
+1	Brown	Brown	_	NNP	_	2	NMOD	116849	_
+2	dog	dog	_	NN	_	6	SBJ	116849	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	brown	brown	_	JJ	_	5	NMOD	116850	_
+5	collar	collar	_	NN	_	3	PMOD	116850	_
+6	looking	look	_	VBG	_	0	ROOT	_	_
+7	to	to	_	TO	_	6	ADV	_	_
+8	left	leave	_	VBD	_	7	PMOD	116855	_
+9	with	with	_	IN	_	8	ADV	_	6
+10	a	a	_	DT	_	13	NMOD	116854	_
+11	clear	clear	_	JJ	_	13	NMOD	116854	_
+12	blue	blue	_	JJ	_	13	NMOD	116854	_
+13	sky	sky	_	NN	_	9	PMOD	116854	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	background	background	_	NN	_	14	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

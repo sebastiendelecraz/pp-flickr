@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	262270	_
+2	man	man	_	NN	_	6	SBJ	262270	_
+3	driving	drive	_	VBG	_	2	APPO	_	_
+4	heavy	heavy	_	JJ	_	5	NMOD	262269	_
+5	machinery	machinery	_	NN	_	3	OBJ	262269	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	going	go	_	VBG	_	6	VC	_	_
+8	through	through	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	262271	_
+10	field	field	_	NN	_	8	PMOD	262271	_
+11	with	with	_	IN	_	7	ADV	_	_
+12	rocks	rock	_	NNS	_	11	PMOD	262274	_
+13	.	.	_	.	_	6	P	_	_

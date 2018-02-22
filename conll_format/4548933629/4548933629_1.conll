@@ -1,0 +1,20 @@
+1	Two	Two	_	CD	_	2	NMOD	177305	_
+2	men	man	_	NNS	_	0	ROOT	177305	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	177307	_
+5	woman	woman	_	NN	_	3	CONJ	177307	_
+6	standing	stand	_	VBG	_	5	APPO	_	_
+7	in front of	in front of	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	12	NMOD	177306	_
+9	Teva	Teva	_	NNP	_	10	NAME	177306	_
+10	Neuroscience	Neuroscience	_	NNP	_	12	NMOD	177306	_
+11	outdoor	outdoor	_	JJ	_	12	NMOD	177306	_
+12	booth	booth	_	NN	_	7	PMOD	177306	_
+13	,	,	_	,	_	6	P	_	_
+14	with	with	_	IN	_	6	ADV	_	_
+15	a	a	_	DT	_	16	NMOD	177308	_
+16	man	man	_	NN	_	14	PMOD	177308	_
+17	behind	behind	_	IN	_	16	LOC	_	16
+18	the	the	_	DT	_	19	NMOD	177310	_
+19	table	table	_	NN	_	17	PMOD	177310	_
+20	.	.	_	.	_	0	ROOT	_	_

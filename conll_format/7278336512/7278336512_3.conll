@@ -1,0 +1,14 @@
+1	Young	Young	_	NNP	_	2	NMOD	267825	_
+2	children	child	_	NNS	_	3	SBJ	267825	_
+3	smile	smile	_	VBP	_	0	ROOT	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	pose	pose	_	VBP	_	4	CONJ	_	_
+6	for	for	_	IN	_	3	ADV	_	5
+7	the	the	_	DT	_	8	NMOD	0	_
+8	camera	camera	_	NN	_	6	PMOD	0	_
+9	while	while	_	IN	_	3	ADV	_	_
+10	holding	hold	_	VBG	_	13	NMOD	_	_
+11	up	up	_	RP	_	10	PRT	_	_
+12	hand	hand	_	NN	_	13	NMOD	267832	_
+13	signals	signal	_	NNS	_	9	PMOD	267832	_
+14	.	.	_	.	_	3	P	_	_

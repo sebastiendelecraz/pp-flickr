@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	24003	_
+2	man	man	_	NN	_	9	SBJ	24003	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	8	NMOD	24004	_
+5	white	white	_	JJ	_	8	NMOD	24004	_
+6	shirt	shirt	_	NN	_	8	NMOD	24004	_
+7	black	black	_	JJ	_	8	NMOD	24008	_
+8	tie	tie	_	NN	_	3	PMOD	24008	_
+9	looks	look	_	VBZ	_	0	ROOT	_	_
+10	out of	out of	_	IN	_	9	ADV	_	9
+11	the	the	_	DT	_	13	NMOD	24005	_
+12	elevator	elevator	_	NN	_	13	NMOD	24005	_
+13	shaft	shaft	_	NN	_	10	PMOD	24005	_
+14	of	of	_	IN	_	13	NMOD	24005	_
+15	a	a	_	DT	_	17	NMOD	24005	_
+16	parking	parking	_	NN	_	17	NMOD	24005	_
+17	garage	garage	_	NN	_	14	PMOD	24005	_
+18	.	.	_	.	_	9	P	_	_

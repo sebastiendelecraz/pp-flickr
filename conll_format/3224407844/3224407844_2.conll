@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	102448	_
+2	group	group	_	NN	_	5	SBJ	102448	_
+3	of	of	_	IN	_	2	NMOD	102448	_
+4	women	woman	_	NNS	_	3	PMOD	102448	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	sitting	sit	_	VBG	_	5	VC	_	_
+7	around	around	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	102451	_
+9	table	table	_	NN	_	7	PMOD	102451	_
+10	working	work	_	VBG	_	9	APPO	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	yarn	yarn	_	NN	_	11	PMOD	102452	_
+13	in	in	_	IN	_	10	LOC	_	10
+14	a	a	_	DT	_	16	NMOD	102450	_
+15	crowded	crowd	_	VBN	_	16	NMOD	102450	_
+16	room	room	_	NN	_	13	PMOD	102450	_
+17	.	.	_	.	_	5	P	_	_

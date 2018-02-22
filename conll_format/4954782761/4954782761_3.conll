@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	222907	_
+2	person	person	_	NN	_	0	ROOT	222907	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	222910	_
+5	striped	stripe	_	VBN	_	6	NMOD	222910	_
+6	shirt	shirt	_	NN	_	3	PMOD	222910	_
+7	sitting	sit	_	VBG	_	6	APPO	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	222909	_
+10	chair	chair	_	NN	_	8	PMOD	222909	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	the	the	_	DT	_	13	NMOD	222911	_
+13	corner	corner	_	NN	_	11	PMOD	222911	_
+14	of	of	_	IN	_	13	NMOD	222911	13
+15	a	a	_	DT	_	16	NMOD	222911	_
+16	building	building	_	NN	_	14	PMOD	222911	_
+17	.	.	_	.	_	0	ROOT	_	_

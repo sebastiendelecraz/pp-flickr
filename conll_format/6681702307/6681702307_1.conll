@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	256850	_
+2	girl	girl	_	NN	_	3	SBJ	256850	_
+3	glances	glance	_	VBZ	_	0	ROOT	_	_
+4	away from	away from	_	IN	_	3	ADV	_	3
+5	her	her	_	PRP$	_	6	NMOD	256852	_
+6	artwork	artwork	_	NN	_	4	PMOD	256852	_
+7	,	,	_	,	_	6	P	_	_
+8	which	which	_	WDT	_	9	SBJ	0	_
+9	consists	consist	_	VBZ	_	6	NMOD	_	_
+10	of	of	_	IN	_	9	ADV	_	_
+11	an	an	_	DT	_	12	NMOD	256854	_
+12	angel	angel	_	NN	_	10	PMOD	256854	_
+13	with	with	_	IN	_	9	ADV	_	12
+14	a	a	_	DT	_	16	NMOD	256853	_
+15	disapproving	disapprove	_	VBG	_	16	NMOD	256853	_
+16	face	face	_	NN	_	13	PMOD	256853	_
+17	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	185686	_
+2	woman	woman	_	NN	_	0	ROOT	185686	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	185694	_
+5	black	black	_	JJ	_	7	NMOD	185694	_
+6	tank	tank	_	NN	_	7	NMOD	185694	_
+7	top	top	_	NN	_	3	PMOD	185694	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	shades	shade	_	NNS	_	8	CONJ	185692	_
+10	with	with	_	IN	_	2	NMOD	_	_
+11	a	a	_	DT	_	12	NMOD	185688	_
+12	tattoo	tattoo	_	NN	_	10	PMOD	185688	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	her	her	_	PRP$	_	15	NMOD	185693	_
+15	arm	arm	_	NN	_	13	PMOD	185693	_
+16	.	.	_	.	_	0	ROOT	_	_

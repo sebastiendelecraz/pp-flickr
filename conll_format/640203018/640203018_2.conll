@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	253912	_
+2	man	man	_	NN	_	6	SBJ	253912	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	253913	_
+5	bike	bike	_	NN	_	3	PMOD	253913	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	seen	see	_	VBN	_	6	VC	_	_
+8	among	among	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	253915	_
+10	crowd	crowd	_	NN	_	8	PMOD	253915	_
+11	of	of	_	IN	_	10	NMOD	253915	_
+12	people	people	_	NN	_	11	PMOD	253915	_
+13	at	at	_	IN	_	7	ADV	_	_
+14	an	an	_	DT	_	16	NMOD	253917	_
+15	outdoor	outdoor	_	JJ	_	16	NMOD	253917	_
+16	event	event	_	NN	_	13	PMOD	253917	_
+17	.	.	_	.	_	6	P	_	_

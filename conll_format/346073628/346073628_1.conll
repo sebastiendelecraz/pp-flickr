@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	119848	_
+2	girl	girl	_	NN	_	0	ROOT	119848	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	119849	_
+5	blue	blue	_	JJ	_	6	NMOD	119849	_
+6	dress	dress	_	NN	_	3	PMOD	119849	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	another	another	_	DT	_	9	NMOD	119848	_
+9	girl	girl	_	NN	_	7	CONJ	119848	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	119851	_
+12	purple	purple	_	NN	_	13	NMOD	119851	_
+13	dress	dress	_	NN	_	10	PMOD	119851	_
+14	,	,	_	,	_	6	P	_	_
+15	both	both	_	DT	_	16	NMOD	0	_
+16	smiling	smile	_	VBG	_	6	APPO	_	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	8256	_
+2	man	man	_	NN	_	0	ROOT	8256	_
+3	pulling	pull	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	8257	_
+5	cart	cart	_	NN	_	3	OBJ	8257	_
+6	filled	fill	_	VBN	_	5	APPO	_	_
+7	with	with	_	IN	_	6	ADV	_	_
+8	many	many	_	DT	_	10	NMOD	8259	_
+9	wooden	wooden	_	JJ	_	10	NMOD	8259	_
+10	chairs	chair	_	NNS	_	7	PMOD	8259	_
+11	down	down	_	IN	_	10	NMOD	_	3
+12	a	a	_	DT	_	14	NMOD	8258	_
+13	city	city	_	NN	_	14	NMOD	8258	_
+14	street	street	_	NN	_	11	PMOD	8258	_
+15	.	.	_	.	_	0	ROOT	_	_

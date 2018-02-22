@@ -1,0 +1,9 @@
+1	Runners	runner	_	NNS	_	0	ROOT	266818	_
+2	jogging	jog	_	VBG	_	1	APPO	_	_
+3	through	through	_	IN	_	2	ADV	_	2
+4	water	water	_	NN	_	3	PMOD	266822	_
+5	with	with	_	IN	_	2	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	266819	_
+7	rainbow	rainbow	_	NN	_	5	PMOD	266819	_
+8	appearing	appear	_	VBG	_	7	APPO	_	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	185116	_
+2	girl	girl	_	NN	_	7	SBJ	185116	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	185120	_
+5	flowered	flower	_	VBN	_	6	NMOD	185120	_
+6	dress	dress	_	NN	_	3	PMOD	185120	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	carrying	carry	_	VBG	_	7	VC	_	_
+9	a	a	_	DT	_	11	NMOD	185117	_
+10	pink	pink	_	NN	_	11	NMOD	185117	_
+11	bucket	bucket	_	NN	_	8	OBJ	185117	_
+12	down	down	_	IN	_	8	ADV	_	8
+13	a	a	_	DT	_	14	NMOD	185119	_
+14	path	path	_	NN	_	12	PMOD	185119	_
+15	next to	next to	_	IN	_	8	TMP	_	8
+16	a	a	_	DT	_	17	NMOD	185121	_
+17	fence	fence	_	NN	_	15	PMOD	185121	_
+18	.	.	_	.	_	7	P	_	_

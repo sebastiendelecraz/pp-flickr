@@ -1,0 +1,10 @@
+1	Young	Young	_	NNP	_	2	NMOD	69751	_
+2	people	people	_	NN	_	3	SBJ	69751	_
+3	pose	pose	_	VBP	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	their	their	_	PRP$	_	6	NMOD	69754	_
+6	picture	picture	_	NN	_	4	PMOD	69754	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	69755	_
+9	countryside	countryside	_	NN	_	7	PMOD	69755	_
+10	.	.	_	.	_	3	P	_	_

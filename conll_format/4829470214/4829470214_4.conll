@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	208171	_
+2	very	very	_	RB	_	3	AMOD	208171	_
+3	old	old	_	JJ	_	4	NMOD	208171	_
+4	woman	woman	_	NN	_	5	SBJ	208171	_
+5	stands	stand	_	VBZ	_	0	ROOT	_	_
+6	gazing	gaze	_	VBG	_	5	OBJ	_	_
+7	at	at	_	IN	_	6	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	0	_
+9	camera	camera	_	NN	_	7	PMOD	0	_
+10	next to	next to	_	IN	_	6	ADV	_	5
+11	a	a	_	DT	_	12	NMOD	208177	_
+12	dock	dock	_	NN	_	10	PMOD	208177	_
+13	.	.	_	.	_	5	P	_	_

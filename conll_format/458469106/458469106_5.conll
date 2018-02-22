@@ -1,0 +1,7 @@
+1	woman	woman	_	NN	_	2	SBJ	180511	_
+2	looking	look	_	VBG	_	0	ROOT	_	_
+3	over	over	_	IN	_	2	ADV	_	2
+4	documents	document	_	NNS	_	3	PMOD	180513	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	folder	folder	_	NN	_	5	PMOD	180512	_
+7	.	.	_	.	_	0	ROOT	_	_

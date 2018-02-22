@@ -1,0 +1,10 @@
+1	Costumed	costume	_	VBN	_	2	NMOD	194387	_
+2	man	man	_	NN	_	3	SBJ	194387	_
+3	performs	perform	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	curious	curious	_	JJ	_	6	NMOD	194390	_
+6	onlookers	onlooker	_	NNS	_	4	PMOD	194390	_
+7	in front of	in front of	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	194389	_
+9	castle	castle	_	NN	_	7	PMOD	194389	_
+10	.	.	_	.	_	3	P	_	_

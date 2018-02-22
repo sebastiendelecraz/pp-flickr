@@ -1,0 +1,16 @@
+1	Four	Four	_	CD	_	2	NMOD	22367	_
+2	kids	kid	_	NNS	_	9	SBJ	22367	_
+3	,	,	_	,	_	2	P	_	_
+4	two	two	_	CD	_	5	NMOD	22369	_
+5	girls	girl	_	NNS	_	2	COORD	22369	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	two	two	_	CD	_	8	NMOD	22366	_
+8	boys	boy	_	NNS	_	6	CONJ	22366	_
+9	going	go	_	VBG	_	0	ROOT	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	an	an	_	DT	_	12	NMOD	22373	_
+12	adventure	adventure	_	NN	_	10	PMOD	22373	_
+13	in	in	_	IN	_	9	LOC	_	9
+14	a	a	_	DT	_	15	NMOD	22372	_
+15	canoe	canoe	_	NN	_	13	PMOD	22372	_
+16	.	.	_	.	_	0	ROOT	_	_

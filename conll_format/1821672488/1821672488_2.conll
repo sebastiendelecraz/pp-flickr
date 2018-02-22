@@ -1,0 +1,11 @@
+1	DHL	DHL	_	NNP	_	2	NMOD	21518	_
+2	employees	employee	_	NNS	_	3	SBJ	21518	_
+3	posing	pose	_	VBG	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	21523	_
+6	company	company	_	NN	_	7	NMOD	21523	_
+7	photo	photo	_	NN	_	4	PMOD	21523	_
+8	in front of	in front of	_	IN	_	3	LOC	_	_
+9	their	their	_	PRP$	_	10	NMOD	21520	_
+10	business	business	_	NN	_	8	PMOD	21520	_
+11	.	.	_	.	_	0	ROOT	_	_

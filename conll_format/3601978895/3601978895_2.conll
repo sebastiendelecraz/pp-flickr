@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	130763	_
+2	men	man	_	NNS	_	3	SBJ	130763	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	near	near	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	130764	_
+6	metal	metal	_	NN	_	7	NMOD	130764	_
+7	structure	structure	_	NN	_	4	PMOD	130764	_
+8	in front of	in front of	_	IN	_	3	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	130766	_
+10	brick	brick	_	NN	_	11	NMOD	130766	_
+11	wall	wall	_	NN	_	8	PMOD	130766	_
+12	.	.	_	.	_	0	ROOT	_	_

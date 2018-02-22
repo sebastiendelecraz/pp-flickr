@@ -1,0 +1,11 @@
+1	Musicians	musician	_	NNS	_	2	SBJ	258992	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	playing	play	_	VBG	_	2	VC	_	_
+4	their	their	_	PRP$	_	5	NMOD	258996	_
+5	instruments	instrument	_	NNS	_	3	OBJ	258996	_
+6	for	for	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	258994	_
+8	crowd	crowd	_	NN	_	6	PMOD	258994	_
+9	of	of	_	IN	_	8	NMOD	258994	_
+10	onlookers	onlooker	_	NNS	_	9	PMOD	258994	_
+11	.	.	_	.	_	2	P	_	_

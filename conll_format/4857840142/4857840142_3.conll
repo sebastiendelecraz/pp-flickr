@@ -1,0 +1,10 @@
+1	Men	Men	_	NNPS	_	4	SBJ	211712	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	women	woman	_	NNS	_	2	CONJ	211715	_
+4	sit	sit	_	VBP	_	0	ROOT	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	chairs	chair	_	NNS	_	5	PMOD	211714	_
+7	outside	outside	_	IN	_	4	LOC	_	4
+8	a	a	_	DT	_	9	NMOD	211709	_
+9	bookstore	bookstore	_	NN	_	7	PMOD	211709	_
+10	.	.	_	.	_	4	P	_	_

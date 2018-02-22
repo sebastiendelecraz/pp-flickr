@@ -1,0 +1,14 @@
+1	Young	Young	_	NNP	_	2	NMOD	230768	_
+2	people	people	_	NN	_	6	SBJ	230768	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	matching	match	_	VBG	_	3	PMOD	230772	_
+5	hairstyles	hairstyle	_	NNS	_	4	OBJ	230772	_
+6	pose	pose	_	VBP	_	0	ROOT	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	the	the	_	DT	_	9	NMOD	0	_
+9	camera	camera	_	NN	_	7	PMOD	0	_
+10	under	under	_	IN	_	6	LOC	_	6
+11	a	a	_	DT	_	13	NMOD	230769	_
+12	white	white	_	JJ	_	13	NMOD	230769	_
+13	umbrella	umbrella	_	NN	_	10	PMOD	230769	_
+14	.	.	_	.	_	6	P	_	_

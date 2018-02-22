@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	151893	_
+2	man	man	_	NN	_	9	SBJ	151893	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	151894	_
+5	bandanna	bandanna	_	NN	_	3	PMOD	151894	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	his	his	_	PRP$	_	8	NMOD	151895	_
+8	head	head	_	NN	_	6	PMOD	151895	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	perched	perch	_	VBN	_	9	VC	_	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	151897	_
+13	tree	tree	_	NN	_	11	PMOD	151897	_
+14	holding	hold	_	VBG	_	13	APPO	_	_
+15	an	an	_	DT	_	16	NMOD	151896	_
+16	ax	ax	_	NN	_	14	OBJ	151896	_
+17	.	.	_	.	_	9	P	_	_

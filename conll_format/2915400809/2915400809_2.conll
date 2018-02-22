@@ -1,0 +1,15 @@
+1	An	an	_	DT	_	3	NMOD	81108	_
+2	Indian	Indian	_	JJ	_	3	NMOD	81108	_
+3	woman	woman	_	NN	_	4	SBJ	81108	_
+4	stands	stand	_	VBZ	_	0	ROOT	_	_
+5	knee	knee	_	NN	_	4	OBJ	81115	_
+6	deep	deep	_	JJ	_	5	APPO	_	_
+7	in	in	_	IN	_	4	LOC	_	4
+8	a	a	_	DT	_	9	NMOD	81113	_
+9	body	body	_	NN	_	7	PMOD	81113	_
+10	of	of	_	IN	_	9	NMOD	81113	_
+11	water	water	_	NN	_	12	NMOD	81113	_
+12	washing	washing	_	NN	_	10	PMOD	_	_
+13	her	her	_	PRP$	_	14	NMOD	81109	_
+14	clothes	clothes	_	NNS	_	9	APPO	81109	_
+15	.	.	_	.	_	4	P	_	_

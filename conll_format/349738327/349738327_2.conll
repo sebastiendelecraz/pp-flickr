@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	122750	_
+2	group	group	_	NN	_	5	SBJ	122750	_
+3	of	of	_	IN	_	2	NMOD	122750	_
+4	people	people	_	NN	_	3	PMOD	122750	_
+5	walk	walk	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	grass	grass	_	NN	_	6	PMOD	122753	_
+8	near	near	_	IN	_	5	LOC	_	5
+9	a	a	_	DT	_	10	NMOD	122751	_
+10	lake	lake	_	NN	_	8	PMOD	122751	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	dogs	dog	_	NNS	_	11	PMOD	122752	_
+13	playing	play	_	VBG	_	10	APPO	_	_
+14	around	around	_	IN	_	13	ADV	_	_
+15	them	them	_	PRP	_	14	PMOD	0	_
+16	.	.	_	.	_	5	P	_	_

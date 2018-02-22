@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	107346	_
+2	man	man	_	NN	_	6	SBJ	107346	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	protective	protective	_	JJ	_	5	NMOD	107348	_
+5	clothing	clothing	_	NN	_	3	OBJ	107348	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	being	be	_	VBG	_	6	VC	_	_
+8	bitten	bite	_	VBN	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	107347	_
+11	arm	arm	_	NN	_	9	PMOD	107347	_
+12	by	by	_	IN	_	8	LGS	_	8
+13	a	a	_	DT	_	14	NMOD	107345	_
+14	dog	dog	_	NN	_	12	PMOD	107345	_
+15	.	.	_	.	_	6	P	_	_

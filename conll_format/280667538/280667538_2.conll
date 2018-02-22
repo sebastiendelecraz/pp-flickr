@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	74000	_
+2	knight	knight	_	NN	_	8	SBJ	74000	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	horseback	horseback	_	NN	_	3	PMOD	74012	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	another	another	_	DT	_	7	NMOD	74001	_
+7	man	man	_	NN	_	5	CONJ	74001	_
+8	reenact	reenact	_	VBP	_	0	ROOT	_	_
+9	a	a	_	DT	_	11	NMOD	74009	_
+10	medieval	medieval	_	JJ	_	11	NMOD	74009	_
+11	scene	scene	_	NN	_	8	OBJ	74009	_
+12	for	for	_	IN	_	8	PRP	_	8
+13	a	a	_	DT	_	14	NMOD	74008	_
+14	group	group	_	NN	_	12	PMOD	74008	_
+15	of	of	_	IN	_	14	NMOD	74008	_
+16	spectators	spectator	_	NNS	_	15	PMOD	74008	_
+17	.	.	_	.	_	8	P	_	_

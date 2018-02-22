@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	95026	_
+2	girls	girl	_	NNS	_	6	NMOD	95026	_
+3	,	,	_	,	_	6	P	_	_
+4	one	one	_	CD	_	6	NMOD	95021	_
+5	wearing	wear	_	VBG	_	6	NMOD	_	_
+6	glasses	glass	_	NNS	_	0	ROOT	95022	_
+7	,	,	_	,	_	6	P	_	_
+8	dressed	dress	_	VBN	_	6	APPO	_	_
+9	in	in	_	IN	_	8	ADV	_	_
+10	cold	cold	_	JJ	_	13	NMOD	95028	_
+11	weather	weather	_	NN	_	12	NMOD	95028	_
+12	clothing	clothing	_	NN	_	13	NMOD	95028	_
+13	smile	smile	_	NN	_	9	PMOD	_	_
+14	for	for	_	IN	_	13	NMOD	_	13
+15	the	the	_	DT	_	16	NMOD	0	_
+16	camera	camera	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	12467	_
+2	man	man	_	NN	_	3	SBJ	12467	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	TMP	_	_
+5	the	the	_	DT	_	6	NMOD	12470	_
+6	end	end	_	NN	_	4	PMOD	12470	_
+7	of	of	_	IN	_	6	NMOD	12470	_
+8	a	a	_	DT	_	9	NMOD	12470	_
+9	pier	pier	_	NN	_	7	PMOD	12470	_
+10	reading	read	_	VBG	_	9	APPO	_	_
+11	a	a	_	DT	_	12	NMOD	12474	_
+12	book	book	_	NN	_	10	OBJ	12474	_
+13	against	against	_	IN	_	12	NMOD	_	3
+14	a	a	_	DT	_	16	NMOD	12468	_
+15	blue	blue	_	JJ	_	16	NMOD	12468	_
+16	sky	sky	_	NN	_	13	PMOD	12468	_
+17	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	35815	_
+2	man	man	_	NN	_	0	ROOT	35815	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	all	all	_	DT	_	6	NMOD	35816	_
+5	black	black	_	JJ	_	6	NMOD	35816	_
+6	runs	run	_	NNS	_	3	PMOD	_	_
+7	down	down	_	IN	_	6	NMOD	_	6
+8	the	the	_	DT	_	9	NMOD	35817	_
+9	road	road	_	NN	_	7	PMOD	35817	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	280150	_
+2	woman	woman	_	NN	_	9	SBJ	280150	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	8	NMOD	280153	_
+5	dark	dark	_	JJ	_	8	NMOD	280153	_
+6	blue	blue	_	JJ	_	8	NMOD	280153	_
+7	running	run	_	VBG	_	8	NMOD	280153	_
+8	outfit	outfit	_	NN	_	3	PMOD	280153	_
+9	runs	run	_	VBZ	_	0	ROOT	_	_
+10	through	through	_	IN	_	9	MNR	_	9
+11	a	a	_	DT	_	12	NMOD	280151	_
+12	field	field	_	NN	_	10	PMOD	280151	_
+13	of	of	_	IN	_	12	NMOD	280151	_
+14	purple	purple	_	JJ	_	15	NMOD	280151	_
+15	flowers	flower	_	NNS	_	13	PMOD	280151	_
+16	.	.	_	.	_	9	P	_	_

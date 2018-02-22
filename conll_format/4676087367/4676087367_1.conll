@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	189409	_
+2	man	man	_	NN	_	14	SBJ	189409	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	10	NMOD	189410	_
+5	blue	blue	_	JJ	_	10	NMOD	189410	_
+6	and	and	_	CC	_	5	COORD	189410	_
+7	white	white	_	JJ	_	6	CONJ	189410	_
+8	trucker	trucker	_	NN	_	9	NMOD	189410	_
+9	style	style	_	NN	_	10	NMOD	189410	_
+10	hat	hat	_	NN	_	3	PMOD	189410	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	a	a	_	DT	_	13	NMOD	189414	_
+13	logo	logo	_	NN	_	11	PMOD	189414	_
+14	is	be	_	VBZ	_	0	ROOT	_	_
+15	wearing	wear	_	VBG	_	14	VC	_	_
+16	glasses	glass	_	NNS	_	15	OBJ	189413	_
+17	in front of	in front of	_	IN	_	15	ADV	_	_
+18	a	a	_	DT	_	19	NMOD	189415	_
+19	man	man	_	NN	_	17	PMOD	189415	_
+20	with	with	_	IN	_	19	NMOD	_	_
+21	a	a	_	DT	_	23	NMOD	189416	_
+22	yellow	yellow	_	JJ	_	23	NMOD	189416	_
+23	shirt	shirt	_	NN	_	20	PMOD	189416	_
+24	.	.	_	.	_	14	P	_	_

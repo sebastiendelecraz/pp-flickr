@@ -1,0 +1,22 @@
+1	An	an	_	DT	_	3	NMOD	216923	_
+2	old	old	_	JJ	_	3	NMOD	216923	_
+3	man	man	_	NN	_	8	SBJ	216923	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	216924	_
+6	striped	stripe	_	VBN	_	7	NMOD	216924	_
+7	shirt	shirt	_	NN	_	4	PMOD	216924	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	glaring	glare	_	VBG	_	8	VC	_	_
+10	away from	away from	_	IN	_	9	ADV	_	9
+11	the	the	_	DT	_	13	NMOD	216925	_
+12	other	other	_	JJ	_	13	NMOD	216925	_
+13	person	person	_	NN	_	10	PMOD	216925	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	the	the	_	DT	_	16	NMOD	216926	_
+16	bench	bench	_	NN	_	14	PMOD	216926	_
+17	,	,	_	,	_	0	ROOT	_	_
+18	most	most	_	DT	_	19	AMOD	_	_
+19	likely	likely	_	JJ	_	0	ROOT	_	_
+20	due to	due to	_	IN	_	19	AMOD	_	_
+21	anxiety	anxiety	_	NN	_	20	PMOD	216931	_
+22	.	.	_	.	_	0	ROOT	_	_

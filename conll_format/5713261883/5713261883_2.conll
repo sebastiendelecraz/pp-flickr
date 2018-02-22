@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	241467	_
+2	old	old	_	JJ	_	3	NMOD	241467	_
+3	man	man	_	NN	_	0	ROOT	241467	_
+4	riding	ride	_	VBG	_	3	APPO	_	_
+5	his	his	_	PRP$	_	6	NMOD	241468	_
+6	bike	bike	_	NN	_	4	OBJ	241468	_
+7	along	along	_	IN	_	6	NMOD	_	4
+8	the	the	_	DT	_	9	NMOD	241470	_
+9	harbor	harbor	_	NN	_	7	PMOD	241470	_
+10	with	with	_	IN	_	9	NMOD	_	4
+11	a	a	_	DT	_	13	NMOD	241469	_
+12	cruise	cruise	_	NN	_	13	NMOD	241469	_
+13	liner	liner	_	NN	_	10	PMOD	241469	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	background	background	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

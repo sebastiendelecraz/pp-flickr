@@ -1,0 +1,11 @@
+1	a	a	_	DT	_	2	NMOD	25623	_
+2	man	man	_	NN	_	3	SBJ	25623	_
+3	jumping	jump	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	25625	_
+6	mud	mud	_	NN	_	7	NMOD	25625	_
+7	puddle	puddle	_	NN	_	4	PMOD	25625	_
+8	in the middle of	in the middle of	_	IN	_	3	TMP	25626	3
+9	the	the	_	DT	_	10	NMOD	25626	_
+10	street	street	_	NN	_	8	PMOD	25626	_
+11	.	.	_	.	_	0	ROOT	_	_

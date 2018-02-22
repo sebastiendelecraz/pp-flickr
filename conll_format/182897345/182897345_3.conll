@@ -1,0 +1,17 @@
+1	Four	Four	_	CD	_	3	NMOD	21631	_
+2	sports	sport	_	NNS	_	3	NMOD	21631	_
+3	fans	fan	_	NNS	_	4	SBJ	21631	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	together with	together with	_	IN	_	4	ADV	_	4
+6	garbage	garbage	_	NN	_	7	NMOD	21633	_
+7	bags	bag	_	NNS	_	5	PMOD	21633	_
+8	on	on	_	IN	_	4	LOC	_	_
+9	their	their	_	PRP$	_	10	NMOD	21637	_
+10	heads	head	_	NNS	_	8	PMOD	21637	_
+11	that	that	_	IN	_	4	OBJ	_	_
+12	read	read	_	VBD	_	11	SUB	21634	_
+13	C	C	_	NNP	_	15	NAME	21634	_
+14	U	U	_	NNP	_	15	NAME	21634	_
+15	B	B	_	NNP	_	16	NAME	21634	_
+16	S	S	_	NNP	_	12	SBJ	21634	_
+17	.	.	_	.	_	0	ROOT	_	_

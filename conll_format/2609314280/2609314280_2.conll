@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	61354	_
+2	woman	woman	_	NN	_	3	SBJ	61354	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	6	NMOD	61356	_
+6	park	park	_	NN	_	4	PMOD	61356	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	two	two	_	CD	_	9	NMOD	61355	_
+9	children	child	_	NNS	_	7	PMOD	61355	_
+10	in	in	_	IN	_	3	LOC	_	_
+11	school	school	_	NN	_	12	NMOD	61357	_
+12	uniforms	uniform	_	NNS	_	10	PMOD	61357	_
+13	.	.	_	.	_	3	P	_	_

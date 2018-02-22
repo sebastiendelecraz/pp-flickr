@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	261245	_
+2	toddler-aged	toddler-aged	_	CD	_	3	NMOD	261245	_
+3	girl	girl	_	NN	_	4	SBJ	261245	_
+4	holding	hold	_	VBG	_	0	ROOT	_	_
+5	a	a	_	DT	_	6	NMOD	261246	_
+6	toothbrush	toothbrush	_	NN	_	4	OBJ	261246	_
+7	in	in	_	IN	_	4	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	261250	_
+9	room	room	_	NN	_	7	PMOD	261250	_
+10	next to	next to	_	IN	_	9	NMOD	_	4
+11	a	a	_	DT	_	13	NMOD	261247	_
+12	tunnel	tunnel	_	NN	_	13	NMOD	261247	_
+13	toy	toy	_	NN	_	10	PMOD	261247	_
+14	.	.	_	.	_	0	ROOT	_	_

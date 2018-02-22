@@ -1,0 +1,15 @@
+1	Four	Four	_	CD	_	3	NMOD	147297	_
+2	young	young	_	JJ	_	3	NMOD	147297	_
+3	men	man	_	NNS	_	4	SBJ	147297	_
+4	look	look	_	VBP	_	0	ROOT	_	_
+5	out	out	_	RP	_	4	PRT	_	_
+6	at	at	_	IN	_	4	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	147299	_
+8	water	water	_	NN	_	6	PMOD	147299	_
+9	from	from	_	IN	_	4	ADV	_	4
+10	the	the	_	DT	_	11	NMOD	147304	_
+11	deck	deck	_	NN	_	9	PMOD	147304	_
+12	of	of	_	IN	_	11	NMOD	147304	_
+13	their	their	_	PRP$	_	14	NMOD	147304	_
+14	boat	boat	_	NN	_	12	PMOD	147304	_
+15	.	.	_	.	_	4	P	_	_

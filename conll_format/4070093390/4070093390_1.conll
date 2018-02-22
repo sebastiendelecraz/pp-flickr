@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	154147	_
+2	bunch	bunch	_	NN	_	0	ROOT	154147	_
+3	of	of	_	IN	_	2	NMOD	154147	_
+4	employees	employee	_	NNS	_	3	PMOD	154147	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	red	red	_	JJ	_	7	NMOD	154152	_
+7	jackets	jacket	_	NNS	_	5	PMOD	154152	_
+8	standing	stand	_	VBG	_	7	APPO	_	_
+9	around	around	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	12	NMOD	154154	_
+11	roped-off	roped-off	_	CD	_	12	NMOD	154154	_
+12	area	area	_	NN	_	9	PMOD	154154	_
+13	.	.	_	.	_	0	ROOT	_	_

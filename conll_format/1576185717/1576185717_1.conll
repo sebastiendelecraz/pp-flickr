@@ -1,0 +1,26 @@
+1	a	a	_	DT	_	2	NMOD	16794	_
+2	girl	girl	_	NN	_	0	ROOT	16794	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	16795	_
+5	red	red	_	JJ	_	7	NMOD	16795	_
+6	top	top	_	NN	_	7	NMOD	16795	_
+7	bowls	bowl	_	NNS	_	3	PMOD	_	_
+8	a	a	_	DT	_	10	NMOD	16792	_
+9	cricket	cricket	_	NN	_	10	NMOD	16792	_
+10	ball	ball	_	NN	_	7	APPO	16792	_
+11	at	at	_	IN	_	10	LOC	_	7
+12	a	a	_	DT	_	13	NMOD	16790	_
+13	boy	boy	_	NN	_	11	PMOD	16790	_
+14	in	in	_	IN	_	7	LOC	_	_
+15	a	a	_	DT	_	17	NMOD	16799	_
+16	yellow	yellow	_	JJ	_	17	NMOD	16799	_
+17	shirt	shirt	_	NN	_	14	PMOD	16799	_
+18	who	who	_	WP	_	19	SBJ	0	_
+19	is	be	_	VBZ	_	17	NMOD	_	_
+20	in front of	in front of	_	IN	_	19	PRD	_	_
+21	the	the	_	DT	_	22	NMOD	16800	_
+22	wicket	wicket	_	NN	_	23	SBJ	16800	_
+23	holding	hold	_	VBG	_	20	PMOD	_	_
+24	a	a	_	DT	_	25	NMOD	16798	_
+25	bat	bat	_	NN	_	23	OBJ	16798	_
+26	.	.	_	.	_	0	ROOT	_	_

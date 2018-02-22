@@ -1,0 +1,12 @@
+1	Firefighters	firefighter	_	NNS	_	0	ROOT	12335	_
+2	on	on	_	IN	_	1	NMOD	_	_
+3	a	a	_	DT	_	4	NMOD	12338	_
+4	scene	scene	_	NN	_	2	PMOD	12338	_
+5	with	with	_	IN	_	4	NMOD	_	4
+6	2	2	_	CD	_	7	NMOD	12330	_
+7	trucks	truck	_	NNS	_	5	PMOD	12330	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	4	4	_	CD	_	10	NMOD	12329	_
+10	firemen	fireman	_	NNS	_	8	CONJ	12329	_
+11	present	present	_	JJ	_	7	APPO	_	_
+12	.	.	_	.	_	0	ROOT	_	_

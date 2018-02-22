@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	146812	_
+2	woman	woman	_	NN	_	3	SBJ	146812	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	being	be	_	VBG	_	3	VC	_	_
+5	dipped	dip	_	VBN	_	4	VC	_	_
+6	by	by	_	IN	_	5	LGS	_	5
+7	a	a	_	DT	_	8	NMOD	146811	_
+8	man	man	_	NN	_	6	PMOD	146811	_
+9	with	with	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	12	NMOD	146811	_
+11	blue	blue	_	JJ	_	12	NMOD	146811	_
+12	button	button	_	NN	_	9	PMOD	146811	_
+13	up	up	_	RP	_	5	PRT	_	_
+14	shirt	shirt	_	NN	_	5	OBJ	146816	_
+15	while	while	_	IN	_	5	ADV	_	_
+16	dancing	dance	_	VBG	_	15	SUB	_	_
+17	.	.	_	.	_	3	P	_	_

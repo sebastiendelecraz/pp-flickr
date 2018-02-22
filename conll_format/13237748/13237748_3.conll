@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	8590	_
+2	man	man	_	NN	_	8	NMOD	8590	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	7	NMOD	8594	_
+5	blue	blue	_	JJ	_	7	NMOD	8594	_
+6	baseball	baseball	_	NN	_	7	NMOD	8594	_
+7	cap	cap	_	NN	_	3	PMOD	8594	_
+8	on	on	_	IN	_	9	SBJ	8597	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	sleeping	sleep	_	VBG	_	9	VC	_	_
+11	against	against	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	8593	_
+13	rock	rock	_	NN	_	11	PMOD	8593	_
+14	.	.	_	.	_	9	P	_	_

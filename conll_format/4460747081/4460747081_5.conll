@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	170372	_
+2	Businessman	Businessman	_	NNP	_	3	SBJ	170372	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	away from	away from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	170374	_
+6	bus	bus	_	NN	_	4	PMOD	170374	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	170373	_
+9	cup	cup	_	NN	_	7	PMOD	170373	_
+10	of	of	_	IN	_	9	NMOD	170373	_
+11	coffee	coffee	_	NN	_	10	PMOD	170373	_
+12	.	.	_	.	_	3	P	_	_

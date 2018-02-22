@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	140103	_
+2	woman	woman	_	NN	_	3	SBJ	140103	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	reading	read	_	VBG	_	3	VC	_	_
+5	literature	literature	_	NN	_	4	OBJ	140109	_
+6	and	and	_	CC	_	4	COORD	_	_
+7	sitting	sit	_	VBG	_	6	CONJ	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	11	NMOD	140107	_
+10	front	front	_	NN	_	11	NMOD	140107	_
+11	stoop	stoop	_	NN	_	8	PMOD	140107	_
+12	of	of	_	IN	_	11	NMOD	140107	11
+13	a	a	_	DT	_	14	NMOD	140107	_
+14	building	building	_	NN	_	12	PMOD	140107	_
+15	.	.	_	.	_	3	P	_	_

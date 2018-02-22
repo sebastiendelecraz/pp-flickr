@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	32147	_
+2	smiling	smile	_	VBG	_	3	NMOD	32147	_
+3	boy	boy	_	NN	_	7	SBJ	32147	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	winter	winter	_	NN	_	6	NMOD	32149	_
+6	clothes	clothes	_	NNS	_	4	PMOD	32149	_
+7	waves	wave	_	VBZ	_	0	ROOT	_	_
+8	his	his	_	PRP$	_	10	NMOD	32153	_
+9	mittened	mittened	_	JJ	_	10	NMOD	32153	_
+10	hands	hand	_	NNS	_	7	OBJ	32153	_
+11	outside	outside	_	IN	_	7	LOC	_	7
+12	a	a	_	DT	_	13	NMOD	32150	_
+13	building	building	_	NN	_	11	PMOD	32150	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	32148	_
+16	snow	snow	_	NN	_	14	PMOD	32148	_
+17	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,13 @@
+1	Man	Man	_	NNP	_	8	SBJ	62682	_
+2	in	in	_	IN	_	8	LOC	_	1
+3	a	a	_	DT	_	5	NMOD	62684	_
+4	cowboy	cowboy	_	NN	_	5	NMOD	62684	_
+5	hat	hat	_	NN	_	2	PMOD	62684	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	jeans	jean	_	NNS	_	6	CONJ	62686	_
+8	stands	stand	_	VBZ	_	0	ROOT	_	_
+9	in front of	in front of	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	62683	_
+11	wooden	wooden	_	JJ	_	12	NMOD	62683	_
+12	building	building	_	NN	_	9	PMOD	62683	_
+13	.	.	_	.	_	8	P	_	_

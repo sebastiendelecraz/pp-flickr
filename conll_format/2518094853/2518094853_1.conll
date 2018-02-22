@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	54702	_
+2	beige	beige	_	JJ	_	3	NMOD	54702	_
+3	dog	dog	_	NN	_	0	ROOT	54702	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	his	his	_	PRP$	_	6	NMOD	54704	_
+6	tongue	tongue	_	NN	_	4	PMOD	54704	_
+7	out	out	_	IN	_	0	ROOT	_	_
+8	is	be	_	VBZ	_	7	SUB	_	_
+9	leaping	leap	_	VBG	_	8	VC	_	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	air	air	_	NN	_	10	PMOD	0	_
+13	above	above	_	IN	_	9	LOC	_	9
+14	the	the	_	DT	_	15	NMOD	54703	_
+15	grass	grass	_	NN	_	13	PMOD	54703	_
+16	.	.	_	.	_	7	P	_	_

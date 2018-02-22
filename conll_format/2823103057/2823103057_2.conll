@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	74910	_
+2	group	group	_	NN	_	5	SBJ	74910	_
+3	of	of	_	IN	_	2	NMOD	74910	_
+4	friends	friend	_	NNS	_	3	PMOD	74910	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	together	together	_	RB	_	5	ADV	_	_
+7	for	for	_	IN	_	5	ADV	_	5
+8	a	a	_	DT	_	9	NMOD	74914	_
+9	picture	picture	_	NN	_	7	PMOD	74914	_
+10	in	in	_	IN	_	5	LOC	_	_
+11	their	their	_	PRP$	_	13	NMOD	74909	_
+12	bathing	bathing	_	NN	_	13	NMOD	74909	_
+13	suits	suit	_	NNS	_	10	PMOD	74909	_
+14	.	.	_	.	_	5	P	_	_

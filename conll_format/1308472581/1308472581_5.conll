@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	8226	_
+2	boy	boy	_	NN	_	0	ROOT	8226	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	5	NMOD	8231	_
+5	shirt	shirt	_	NN	_	3	PMOD	8231	_
+6	splashing	splash	_	VBG	_	5	APPO	_	_
+7	in	in	_	IN	_	6	ADV	_	_
+8	water	water	_	NN	_	7	PMOD	8229	_
+9	under	under	_	IN	_	6	LOC	_	6
+10	a	a	_	DT	_	11	NMOD	8228	_
+11	dock	dock	_	NN	_	9	PMOD	8228	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	64620	_
+2	woman	woman	_	NN	_	0	ROOT	64620	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	64621	_
+5	blue	blue	_	JJ	_	7	NMOD	64621	_
+6	plaid	plaid	_	NN	_	7	NMOD	64621	_
+7	shirt	shirt	_	NN	_	3	PMOD	64621	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	white	white	_	JJ	_	12	NMOD	64626	_
+10	apron	apron	_	NN	_	11	NMOD	64626	_
+11	cooks	cook	_	NNS	_	12	NMOD	_	_
+12	food	food	_	NN	_	8	CONJ	64624	_
+13	in	in	_	IN	_	2	LOC	_	_
+14	a	a	_	DT	_	15	NMOD	64623	_
+15	pot	pot	_	NN	_	13	PMOD	64623	_
+16	next to	next to	_	IN	_	15	NMOD	_	11
+17	vegetables	vegetable	_	NNS	_	16	PMOD	64625	_
+18	and	and	_	CC	_	17	COORD	_	_
+19	rice	rice	_	NN	_	18	CONJ	64622	_
+20	.	.	_	.	_	0	ROOT	_	_

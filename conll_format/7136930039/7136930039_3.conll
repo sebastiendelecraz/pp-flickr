@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	3	NMOD	265872	_
+2	young	young	_	JJ	_	3	NMOD	265872	_
+3	women	woman	_	NNS	_	0	ROOT	265872	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	colorful	colorful	_	JJ	_	7	NMOD	265877	_
+6	clothing	clothing	_	NN	_	7	NMOD	265877	_
+7	walk	walk	_	NN	_	4	PMOD	_	_
+8	through	through	_	IN	_	3	TMP	_	7
+9	wetland	wetland	_	NN	_	8	PMOD	265874	_
+10	.	.	_	.	_	0	ROOT	_	_

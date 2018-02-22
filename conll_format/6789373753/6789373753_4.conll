@@ -1,0 +1,12 @@
+1	No	no	_	DT	_	4	NMOD	258159	_
+2	male	male	_	NN	_	3	NMOD	258159	_
+3	construction	construction	_	NN	_	4	NMOD	258159	_
+4	workers	worker	_	NNS	_	0	ROOT	258159	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	258160	_
+7	work	work	_	NN	_	8	NMOD	258160	_
+8	area	area	_	NN	_	5	PMOD	258160	_
+9	in	in	_	IN	_	8	LOC	_	4
+10	a	a	_	DT	_	11	NMOD	258162	_
+11	city	city	_	NN	_	9	PMOD	258162	_
+12	.	.	_	.	_	0	ROOT	_	_

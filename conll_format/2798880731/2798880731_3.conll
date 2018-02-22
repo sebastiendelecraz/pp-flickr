@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	73594	_
+2	woman	woman	_	NN	_	7	SBJ	73594	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	two	two	_	CD	_	6	NMOD	73600	_
+5	little	little	_	JJ	_	6	NMOD	73600	_
+6	girls	girl	_	NNS	_	3	CONJ	73600	_
+7	celebrate	celebrate	_	VBP	_	0	ROOT	_	_
+8	a	a	_	DT	_	9	NMOD	73595	_
+9	birthday	birthday	_	NN	_	7	OBJ	73595	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	a	a	_	DT	_	12	NMOD	73593	_
+12	man	man	_	NN	_	10	PMOD	73593	_
+13	over	over	_	IN	_	12	NMOD	_	7
+14	a	a	_	DT	_	16	NMOD	73599	_
+15	web	web	_	NN	_	16	NMOD	73599	_
+16	cam	cam	_	NN	_	13	PMOD	73599	_
+17	.	.	_	.	_	7	P	_	_

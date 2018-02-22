@@ -1,0 +1,8 @@
+1	Baby	Baby	_	NNP	_	2	SBJ	28345	_
+2	looking	look	_	VBG	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	ADV	_	2
+4	playpen	playpen	_	NN	_	5	NMOD	28348	_
+5	bars	bar	_	NNS	_	3	PMOD	28348	_
+6	at	at	_	IN	_	2	ADV	_	_
+7	camera	camera	_	NN	_	6	PMOD	28352	_
+8	.	.	_	.	_	0	ROOT	_	_

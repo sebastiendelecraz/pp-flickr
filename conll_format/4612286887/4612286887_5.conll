@@ -1,0 +1,10 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	182682	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	182688	_
+5	shade	shade	_	NN	_	3	PMOD	182688	_
+6	with	with	_	IN	_	5	NMOD	_	2
+7	a	a	_	DT	_	9	NMOD	182685	_
+8	fabric	fabric	_	NN	_	9	NMOD	182685	_
+9	fan	fan	_	NN	_	6	PMOD	182685	_
+10	.	.	_	.	_	0	ROOT	_	_

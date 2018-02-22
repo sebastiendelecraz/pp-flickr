@@ -1,0 +1,12 @@
+1	Six	Six	_	NNP	_	2	NMOD	51577	_
+2	children	child	_	NNS	_	3	SBJ	51577	_
+3	running	run	_	VBG	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	51578	_
+6	field	field	_	NN	_	4	PMOD	51578	_
+7	of	of	_	IN	_	6	NMOD	51578	_
+8	flowers	flower	_	NNS	_	7	PMOD	51578	_
+9	surrounded	surround	_	VBN	_	8	APPO	_	_
+10	by	by	_	IN	_	9	LGS	_	_
+11	trees	tree	_	NNS	_	10	PMOD	51580	_
+12	.	.	_	.	_	0	ROOT	_	_

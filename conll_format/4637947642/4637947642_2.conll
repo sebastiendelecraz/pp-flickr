@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	185411	_
+2	man	man	_	NN	_	0	ROOT	185411	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	185412	_
+5	cigarette	cigarette	_	NN	_	3	PMOD	185412	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	his	his	_	PRP$	_	8	NMOD	185417	_
+8	mouth	mouth	_	NN	_	6	PMOD	185417	_
+9	fixing	fix	_	VBG	_	8	APPO	_	_
+10	a	a	_	DT	_	11	NMOD	185414	_
+11	plate	plate	_	NN	_	9	OBJ	185414	_
+12	of	of	_	IN	_	11	NMOD	185414	_
+13	food	food	_	NN	_	12	PMOD	185414	_
+14	.	.	_	.	_	0	ROOT	_	_

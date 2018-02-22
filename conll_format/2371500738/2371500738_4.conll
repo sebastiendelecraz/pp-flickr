@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	44683	_
+2	child	child	_	NN	_	3	SBJ	44683	_
+3	sleeps	sleep	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	44684	_
+6	fold	fold	_	NN	_	4	PMOD	44684	_
+7	out	out	_	IN	_	3	ADV	_	6
+8	spiderman	spiderman	_	NN	_	9	NMOD	44685	_
+9	chair	chair	_	NN	_	7	PMOD	44685	_
+10	.	.	_	.	_	3	P	_	_

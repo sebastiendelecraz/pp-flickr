@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	283658	_
+2	person	person	_	NN	_	0	ROOT	283658	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	283659	_
+5	black	black	_	JJ	_	6	NMOD	283659	_
+6	jacket	jacket	_	NN	_	3	PMOD	283659	_
+7	in the middle of	in the middle of	_	IN	_	2	NMOD	283660	2
+8	the	the	_	DT	_	9	NMOD	283660	_
+9	road	road	_	NN	_	7	PMOD	283660	_
+10	.	.	_	.	_	0	ROOT	_	_

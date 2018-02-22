@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	204364	_
+2	man	man	_	NN	_	3	SBJ	204364	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	204366	_
+6	patch	patch	_	NN	_	4	PMOD	204366	_
+7	of	of	_	IN	_	6	NMOD	204366	_
+8	grass	grass	_	NN	_	7	PMOD	204366	_
+9	in the middle of	in the middle of	_	IN	_	3	TMP	204368	3
+10	a	a	_	DT	_	11	NMOD	204368	_
+11	street	street	_	NN	_	9	PMOD	204368	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	173524	_
+2	group	group	_	NN	_	7	SBJ	173524	_
+3	of	of	_	IN	_	2	NMOD	173524	_
+4	three	three	_	CD	_	6	NMOD	173524	_
+5	young	young	_	JJ	_	6	NMOD	173524	_
+6	adults	adult	_	NNS	_	3	PMOD	173524	_
+7	stopped	stop	_	VBD	_	0	ROOT	_	_
+8	to	to	_	TO	_	7	OPRD	_	_
+9	pose	pose	_	VB	_	8	IM	_	_
+10	for	for	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	173526	_
+12	picture	picture	_	NN	_	10	PMOD	173526	_
+13	outside	outside	_	IN	_	12	LOC	_	7
+14	a	a	_	DT	_	16	NMOD	173522	_
+15	clothing	clothing	_	NN	_	16	NMOD	173522	_
+16	shop	shop	_	NN	_	13	PMOD	173522	_
+17	.	.	_	.	_	7	P	_	_

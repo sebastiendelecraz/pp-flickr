@@ -1,0 +1,13 @@
+1	Child	Child	_	NNP	_	9	SBJ	134262	_
+2	with	with	_	IN	_	1	NMOD	_	_
+3	Mohawk	Mohawk	_	NNP	_	6	NMOD	134263	_
+4	haircut	haircut	_	NN	_	6	NMOD	134263	_
+5	holding	hold	_	VBG	_	6	NMOD	_	_
+6	mirror	mirror	_	NN	_	2	PMOD	134264	_
+7	for	for	_	IN	_	6	NMOD	_	5
+8	woman	woman	_	NN	_	7	PMOD	134261	_
+9	putting	put	_	VBG	_	0	ROOT	_	_
+10	on	on	_	RP	_	9	PRT	_	_
+11	face	face	_	NN	_	12	NMOD	134265	_
+12	paint	paint	_	NN	_	9	OBJ	134265	_
+13	.	.	_	.	_	0	ROOT	_	_

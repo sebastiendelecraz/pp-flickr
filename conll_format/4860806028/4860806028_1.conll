@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	3	NMOD	212288	_
+2	black	black	_	JJ	_	3	NMOD	212288	_
+3	man	man	_	NN	_	11	NMOD	212288	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	212289	_
+6	black	black	_	JJ	_	7	NMOD	212289	_
+7	hat	hat	_	NN	_	4	PMOD	212289	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	red	red	_	JJ	_	10	NMOD	212298	_
+10	glasses	glass	_	NNS	_	8	CONJ	212298	_
+11	studies	study	_	NNS	_	13	NMOD	_	_
+12	his	his	_	PRP$	_	13	NMOD	212299	_
+13	hands	hand	_	NNS	_	0	ROOT	212299	_
+14	while	while	_	IN	_	23	SBJ	_	_
+15	sitting	sit	_	VBG	_	14	SUB	_	_
+16	next to	next to	_	IN	_	15	ADV	_	15
+17	a	a	_	DT	_	19	NMOD	212294	_
+18	white	white	_	JJ	_	19	NMOD	212294	_
+19	man	man	_	NN	_	16	PMOD	212294	_
+20	with	with	_	IN	_	19	NMOD	_	_
+21	his	his	_	PRP$	_	22	NMOD	212300	_
+22	hands	hand	_	NNS	_	20	PMOD	212300	_
+23	folded	fold	_	VBD	_	13	NMOD	_	_
+24	.	.	_	.	_	0	ROOT	_	_

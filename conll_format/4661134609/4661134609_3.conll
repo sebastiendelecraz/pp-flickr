@@ -1,0 +1,16 @@
+1	4	4	_	CD	_	2	NMOD	187919	_
+2	men	man	_	NNS	_	3	SBJ	187919	_
+3	cleaning	clean	_	VBG	_	0	ROOT	_	_
+4	up	up	_	RP	_	3	PRT	_	_
+5	animal	animal	_	NN	_	6	NMOD	187921	_
+6	droppings	dropping	_	NNS	_	3	OBJ	187921	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	brooms	broom	_	NNS	_	7	PMOD	187927	_
+9	on	on	_	IN	_	3	ADV	_	_
+10	an	an	_	DT	_	12	NMOD	187920	_
+11	urban	urban	_	JJ	_	12	NMOD	187920	_
+12	street	street	_	NN	_	9	PMOD	187920	_
+13	during	during	_	IN	_	3	TMP	_	3
+14	a	a	_	DT	_	15	NMOD	187922	_
+15	parade	parade	_	NN	_	13	PMOD	187922	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	0	ROOT	218421	_
+2	with	with	_	IN	_	0	ROOT	_	_
+3	umbrellas	umbrella	_	NNS	_	2	PMOD	218424	_
+4	walking	walk	_	VBG	_	3	APPO	_	_
+5	past	past	_	IN	_	4	ADV	218430	4
+6	shops	shop	_	NNS	_	5	PMOD	218430	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	218423	_
+9	rain	rain	_	NN	_	7	PMOD	218423	_
+10	.	.	_	.	_	0	ROOT	_	_

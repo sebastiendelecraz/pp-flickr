@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	87938	_
+2	man	man	_	NN	_	3	SBJ	87938	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	87940	_
+6	building	building	_	NN	_	4	PMOD	87940	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	87944	_
+9	phone	phone	_	NN	_	7	PMOD	87944	_
+10	as	as	_	IN	_	0	ROOT	_	_
+11	two	two	_	CD	_	12	NMOD	87939	_
+12	men	man	_	NNS	_	10	PMOD	87939	_
+13	to	to	_	TO	_	0	ROOT	_	_
+14	the	the	_	DT	_	16	NMOD	87946	_
+15	side	side	_	NN	_	16	NMOD	87946	_
+16	pain	pain	_	NN	_	13	PMOD	87946	_
+17	on	on	_	IN	_	16	NMOD	_	_
+18	the	the	_	DT	_	19	NMOD	0	_
+19	side	side	_	NN	_	17	PMOD	0	_
+20	.	.	_	.	_	0	ROOT	_	_

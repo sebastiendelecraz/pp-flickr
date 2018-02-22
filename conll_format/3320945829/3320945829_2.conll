@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	SBJ	109229	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	walking	walk	_	VBG	_	2	VC	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	109228	_
+6	market	market	_	NN	_	4	PMOD	109228	_
+7	under	under	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	11	NMOD	109230	_
+9	brightly	brightly	_	RB	_	10	AMOD	109230	_
+10	decorated	decorate	_	VBN	_	11	NMOD	109230	_
+11	ceiling	ceiling	_	NN	_	7	PMOD	109230	_
+12	.	.	_	.	_	2	P	_	_

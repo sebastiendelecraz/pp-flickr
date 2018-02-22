@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	155939	_
+2	person	person	_	NN	_	3	SBJ	155939	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	,	,	_	,	_	3	P	_	_
+5	alone	alone	_	RB	_	3	ADV	_	_
+6	,	,	_	,	_	3	P	_	_
+7	through	through	_	IN	_	3	MNR	_	3
+8	a	a	_	DT	_	11	NMOD	155940	_
+9	dimly	dimly	_	RB	_	10	AMOD	155940	_
+10	lit	lit	_	JJ	_	11	NMOD	155940	_
+11	area	area	_	NN	_	7	PMOD	155940	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	glass	glass	_	NN	_	14	NMOD	155945	_
+14	walls	wall	_	NNS	_	12	PMOD	155945	_
+15	.	.	_	.	_	3	P	_	_

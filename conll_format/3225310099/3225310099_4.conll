@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	102517	_
+2	boat	boat	_	NN	_	0	ROOT	102517	_
+3	suspended	suspend	_	VBN	_	2	APPO	_	_
+4	by	by	_	IN	_	3	LGS	_	_
+5	a	a	_	DT	_	6	NMOD	102519	_
+6	cable	cable	_	NN	_	4	PMOD	102519	_
+7	over	over	_	IN	_	6	NMOD	_	3
+8	the	the	_	DT	_	9	NMOD	102520	_
+9	water	water	_	NN	_	7	PMOD	102520	_
+10	.	.	_	.	_	0	ROOT	_	_

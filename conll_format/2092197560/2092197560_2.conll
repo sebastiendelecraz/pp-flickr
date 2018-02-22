@@ -1,0 +1,10 @@
+1	Children	child	_	NNS	_	0	ROOT	28200	_
+2	sitting	sit	_	VBG	_	1	APPO	_	_
+3	near	near	_	IN	_	2	LOC	_	2
+4	items	item	_	NNS	_	3	PMOD	28203	_
+5	for	for	_	IN	_	4	NMOD	_	4
+6	sale	sale	_	NN	_	5	PMOD	28207	_
+7	on	on	_	IN	_	4	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	0	_
+9	ground	ground	_	NN	_	7	PMOD	0	_
+10	.	.	_	.	_	0	ROOT	_	_

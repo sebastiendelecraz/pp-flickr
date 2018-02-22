@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	27261	_
+2	view	view	_	NN	_	0	ROOT	27261	_
+3	of	of	_	IN	_	2	NMOD	27261	2
+4	a	a	_	DT	_	5	NMOD	27261	_
+5	boat	boat	_	NN	_	3	PMOD	27261	_
+6	from	from	_	IN	_	2	NMOD	_	2
+7	another	another	_	DT	_	8	NMOD	27257	_
+8	boat	boat	_	NN	_	6	PMOD	27257	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	the	the	_	DT	_	11	NMOD	27259	_
+11	water	water	_	NN	_	9	PMOD	27259	_
+12	.	.	_	.	_	0	ROOT	_	_

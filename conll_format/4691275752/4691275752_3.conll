@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	191594	_
+2	man	man	_	NN	_	0	ROOT	191594	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	black	black	_	JJ	_	5	NMOD	191597	_
+5	pants	pant	_	NNS	_	3	PMOD	191597	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	walks	walk	_	NNS	_	6	PMOD	191602	_
+8	by	by	_	IN	_	2	NMOD	_	7
+9	a	a	_	DT	_	10	NMOD	191595	_
+10	wall	wall	_	NN	_	8	PMOD	191595	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	unique	unique	_	JJ	_	13	NMOD	191596	_
+13	art	art	_	NN	_	11	PMOD	191596	_
+14	painted	paint	_	VBN	_	13	APPO	_	_
+15	on	on	_	IN	_	14	ADV	_	_
+16	it	it	_	PRP	_	15	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

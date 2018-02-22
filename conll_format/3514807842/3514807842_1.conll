@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	3	NMOD	124021	_
+2	young	young	_	JJ	_	3	NMOD	124021	_
+3	men	man	_	NNS	_	0	ROOT	124021	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	bathing	bath	_	VBG	_	6	NMOD	124025	_
+6	suits	suit	_	NNS	_	4	PMOD	124025	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	fence	fence	_	NN	_	8	PMOD	124024	_
+10	on	on	_	IN	_	7	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	124023	_
+12	beach	beach	_	NN	_	10	PMOD	124023	_
+13	.	.	_	.	_	0	ROOT	_	_

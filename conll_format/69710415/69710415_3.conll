@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	262843	_
+2	group	group	_	NN	_	5	SBJ	262843	_
+3	of	of	_	IN	_	2	NMOD	262843	_
+4	people	people	_	NN	_	3	PMOD	262843	_
+5	stand	stand	_	VBP	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	262844	_
+8	edge	edge	_	NN	_	6	PMOD	262844	_
+9	of	of	_	IN	_	8	NMOD	262844	_
+10	a	a	_	DT	_	11	NMOD	262844	_
+11	cliff	cliff	_	NN	_	9	PMOD	262844	_
+12	over	over	_	IN	_	11	NMOD	_	5
+13	the	the	_	DT	_	14	NMOD	262845	_
+14	ocean	ocean	_	NN	_	12	PMOD	262845	_
+15	.	.	_	.	_	5	P	_	_

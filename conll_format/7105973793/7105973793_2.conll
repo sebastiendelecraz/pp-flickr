@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	265513	_
+2	woman	woman	_	NN	_	0	ROOT	265513	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	265514	_
+5	black	black	_	JJ	_	6	NMOD	265514	_
+6	dress	dress	_	NN	_	3	PMOD	265514	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	265515	_
+10	deck	deck	_	NN	_	8	PMOD	265515	_
+11	of	of	_	IN	_	10	NMOD	265515	10
+12	a	a	_	DT	_	13	NMOD	265515	_
+13	boat	boat	_	NN	_	11	PMOD	265515	_
+14	.	.	_	.	_	0	ROOT	_	_

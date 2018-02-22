@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	192828	_
+2	man	man	_	NN	_	6	SBJ	192828	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	192833	_
+5	book	book	_	NN	_	3	PMOD	192833	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	leaning	lean	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	192835	_
+10	pole	pole	_	NN	_	8	PMOD	192835	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	192829	_
+13	sidewalk	sidewalk	_	NN	_	11	PMOD	192829	_
+14	.	.	_	.	_	6	P	_	_

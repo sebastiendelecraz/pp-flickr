@@ -1,0 +1,26 @@
+1	An	an	_	DT	_	3	NMOD	77764	_
+2	older	old	_	JJR	_	3	NMOD	77764	_
+3	woman	woman	_	NN	_	9	SBJ	77764	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	77765	_
+6	dark	dark	_	JJ	_	8	NMOD	77765	_
+7	blue	blue	_	JJ	_	8	NMOD	77765	_
+8	suit	suit	_	NN	_	4	PMOD	77765	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	standing	stand	_	VBG	_	9	VC	_	_
+11	next to	next to	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	77766	_
+13	bookcase	bookcase	_	NN	_	11	PMOD	77766	_
+14	with	with	_	IN	_	10	ADV	_	_
+15	a	a	_	DT	_	16	NMOD	77766	_
+16	plethora	plethora	_	NN	_	14	PMOD	77766	_
+17	of	of	_	IN	_	16	NMOD	77766	_
+18	file	file	_	NN	_	19	NMOD	77766	_
+19	folders	folder	_	NNS	_	17	PMOD	77766	_
+20	making	make	_	VBG	_	19	APPO	_	_
+21	some	some	_	DT	_	22	NMOD	77772	_
+22	kind	kind	_	NN	_	20	OBJ	77772	_
+23	of	of	_	IN	_	22	NMOD	77772	_
+24	hand	hand	_	NN	_	25	NMOD	77772	_
+25	gesture	gesture	_	NN	_	23	PMOD	77772	_
+26	.	.	_	.	_	9	P	_	_

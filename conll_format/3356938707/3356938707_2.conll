@@ -1,0 +1,16 @@
+1	One	One	_	CD	_	2	NMOD	112365	_
+2	man	man	_	NN	_	0	ROOT	112365	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	stripes	stripe	_	NNS	_	3	PMOD	112367	_
+5	and	and	_	CC	_	2	COORD	_	_
+6	one	one	_	CD	_	5	CONJ	112365	_
+7	in	in	_	IN	_	6	NMOD	_	_
+8	leather	leather	_	NN	_	9	NMOD	112369	_
+9	pose	pose	_	NN	_	7	PMOD	_	_
+10	for	for	_	IN	_	9	NMOD	_	9
+11	the	the	_	DT	_	12	NMOD	0	_
+12	camera	camera	_	NN	_	10	PMOD	0	_
+13	in	in	_	IN	_	9	LOC	_	9
+14	a	a	_	DT	_	15	NMOD	112370	_
+15	city	city	_	NN	_	13	PMOD	112370	_
+16	.	.	_	.	_	0	ROOT	_	_

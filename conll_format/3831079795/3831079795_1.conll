@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	144810	_
+2	man	man	_	NN	_	3	SBJ	144810	_
+3	walking	walk	_	VBG	_	12	SBJ	_	_
+4	away	away	_	RB	_	3	DIR	_	_
+5	in	in	_	IN	_	3	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	0	_
+7	distance	distance	_	NN	_	5	PMOD	0	_
+8	along	along	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	11	NMOD	144811	_
+10	huge	huge	_	JJ	_	11	NMOD	144811	_
+11	wall	wall	_	NN	_	8	PMOD	144811	_
+12	constructed	construct	_	VBD	_	0	ROOT	_	_
+13	of	of	_	IN	_	12	ADV	_	_
+14	large	large	_	JJ	_	15	NMOD	144811	_
+15	blocks	block	_	NNS	_	13	PMOD	144811	_
+16	.	.	_	.	_	12	P	_	_

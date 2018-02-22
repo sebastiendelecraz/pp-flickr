@@ -1,0 +1,16 @@
+1	On	on	_	IN	_	8	LOC	_	_
+2	a	a	_	DT	_	3	NMOD	165723	_
+3	street	street	_	NN	_	1	PMOD	165723	_
+4	in	in	_	IN	_	8	TMP	_	3
+5	England	England	_	NNP	_	4	PMOD	165725	_
+6	,	,	_	,	_	8	P	_	_
+7	people	people	_	NN	_	8	SBJ	165721	_
+8	watch	watch	_	VBP	_	0	ROOT	_	_
+9	a	a	_	DT	_	12	NMOD	165720	_
+10	construction	construction	_	NN	_	11	NMOD	165720	_
+11	vehicle	vehicle	_	NN	_	12	NMOD	165720	_
+12	work	work	_	NN	_	8	OBJ	165720	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	the	the	_	DT	_	15	NMOD	165722	_
+15	road	road	_	NN	_	13	PMOD	165722	_
+16	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	166271	_
+2	man	man	_	NN	_	0	ROOT	166271	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	8	NMOD	166273	_
+5	green	green	_	JJ	_	8	NMOD	166273	_
+6	and	and	_	CC	_	5	COORD	166273	_
+7	black	black	_	JJ	_	6	CONJ	166273	_
+8	jacket	jacket	_	NN	_	3	PMOD	166273	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	white	white	_	JJ	_	12	NMOD	166276	_
+11	helmet	helmet	_	NN	_	12	NMOD	166276	_
+12	rides	ride	_	NNS	_	9	CONJ	_	_
+13	a	a	_	DT	_	14	NMOD	166274	_
+14	motorbike	motorbike	_	NN	_	12	APPO	166274	_
+15	in front of	in front of	_	IN	_	2	NMOD	_	12
+16	a	a	_	DT	_	17	NMOD	166272	_
+17	crowd	crowd	_	NN	_	15	PMOD	166272	_
+18	.	.	_	.	_	0	ROOT	_	_

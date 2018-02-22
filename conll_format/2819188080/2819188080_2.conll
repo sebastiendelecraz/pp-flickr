@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	74717	_
+2	group	group	_	NN	_	9	SBJ	74717	_
+3	of	of	_	IN	_	2	NMOD	74717	_
+4	men	man	_	NNS	_	3	PMOD	74717	_
+5	dressed	dress	_	VBN	_	4	APPO	_	_
+6	up	up	_	RP	_	5	PRT	_	_
+7	like	like	_	IN	_	5	ADV	_	5
+8	pirates	pirate	_	NNS	_	7	PMOD	74724	_
+9	stand	stand	_	VBP	_	0	ROOT	_	_
+10	outside	outside	_	IN	_	9	LOC	_	9
+11	The	the	_	DT	_	13	NMOD	74718	_
+12	Cheesecake	Cheesecake	_	NNP	_	13	NAME	74718	_
+13	Factory	Factory	_	NNP	_	10	PMOD	74718	_
+14	with	with	_	IN	_	9	ADV	_	_
+15	signs	sign	_	NNS	_	14	PMOD	74721	_
+16	.	.	_	.	_	9	P	_	_

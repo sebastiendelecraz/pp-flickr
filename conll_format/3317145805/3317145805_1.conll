@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	108944	_
+2	black	black	_	JJ	_	3	NMOD	108944	_
+3	dog	dog	_	NN	_	0	ROOT	108944	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	11	NMOD	108945	_
+6	red	red	_	JJ	_	11	NMOD	108945	_
+7	and	and	_	CC	_	6	COORD	108945	_
+8	white	white	_	JJ	_	7	CONJ	108945	_
+9	rope	rope	_	NN	_	10	NMOD	108945	_
+10	dog	dog	_	NN	_	11	NMOD	108945	_
+11	toy	toy	_	NN	_	4	PMOD	108945	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	its	its	_	PRP$	_	14	NMOD	108946	_
+14	mouth	mouth	_	NN	_	12	PMOD	108946	_
+15	,	,	_	,	_	0	ROOT	_	_
+16	standing	stand	_	VBG	_	0	ROOT	_	_
+17	in front of	in front of	_	IN	_	16	ADV	_	16
+18	a	a	_	DT	_	19	NMOD	108947	_
+19	building	building	_	NN	_	17	PMOD	108947	_
+20	.	.	_	.	_	0	ROOT	_	_

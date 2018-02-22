@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	52226	_
+2	man	man	_	NN	_	0	ROOT	52226	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	52227	_
+5	tank	tank	_	NN	_	3	OBJ	52227	_
+6	top	top	_	JJ	_	7	SBJ	52227	_
+7	is	be	_	VBZ	_	2	NMOD	_	_
+8	positioning	position	_	VBG	_	7	VC	_	_
+9	a	a	_	DT	_	10	NMOD	52228	_
+10	piece	piece	_	NN	_	8	OBJ	52228	_
+11	of	of	_	IN	_	10	NMOD	52228	_
+12	metal	metal	_	NN	_	11	PMOD	52228	_
+13	over	over	_	IN	_	10	NMOD	_	8
+14	his	his	_	PRP$	_	15	NMOD	52229	_
+15	head	head	_	NN	_	13	PMOD	52229	_
+16	.	.	_	.	_	0	ROOT	_	_

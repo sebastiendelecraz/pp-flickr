@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	211104	_
+2	grounds	ground	_	NNS	_	3	NMOD	211104	_
+3	person	person	_	NN	_	0	ROOT	211104	_
+4	at	at	_	IN	_	3	LOC	_	3
+5	Qantas	Qantas	_	NNP	_	6	NAME	211109	_
+6	Airlines	Airlines	_	NNP	_	4	PMOD	211109	_
+7	,	,	_	,	_	0	ROOT	_	_
+8	driving	drive	_	VBG	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	211110	_
+11	tarmac	tarmac	_	NN	_	9	PMOD	211110	_
+12	in between	in between	_	IN	_	8	ADV	_	8
+13	luggage	luggage	_	NN	_	14	NMOD	211102	_
+14	carts	cart	_	NNS	_	12	PMOD	211102	_
+15	.	.	_	.	_	0	ROOT	_	_

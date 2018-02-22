@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	276657	_
+2	people	people	_	NN	_	3	SBJ	276657	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	running	run	_	VBG	_	3	VC	_	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	276659	_
+7	competition	competition	_	NN	_	5	PMOD	276659	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	a	a	_	DT	_	10	NMOD	276661	_
+10	track	track	_	NN	_	8	PMOD	276661	_
+11	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	190023	_
+2	white	white	_	JJ	_	3	NMOD	190023	_
+3	couple	couple	_	NN	_	13	SBJ	190023	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	their	their	_	PRP$	_	9	NMOD	190029	_
+6	30	30	_	CD	_	8	NMOD	190029	_
+7	'	'	_	POS	_	6	SUFFIX	_	_
+8	s	s	_	NN	_	9	NMOD	_	_
+9	dances	dance	_	NNS	_	4	PMOD	_	_
+10	during	during	_	IN	_	3	TMP	_	9
+11	a	a	_	DT	_	12	NMOD	190026	_
+12	street	street	_	NN	_	10	PMOD	190026	_
+13	festival	festival	_	JJ	_	0	ROOT	190026	_
+14	.	.	_	.	_	13	P	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	83538	_
+2	man	man	_	NN	_	3	SBJ	83538	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	doing	do	_	VBG	_	3	VC	_	_
+5	tricks	trick	_	NNS	_	4	OBJ	0	_
+6	with	with	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	83539	_
+8	bicycle	bicycle	_	NN	_	6	PMOD	83539	_
+9	at	at	_	IN	_	4	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	83545	_
+11	skate	skate	_	NN	_	12	NMOD	83545	_
+12	park	park	_	NN	_	9	PMOD	83545	_
+13	.	.	_	.	_	3	P	_	_

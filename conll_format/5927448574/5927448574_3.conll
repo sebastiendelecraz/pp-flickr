@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	245570	_
+2	man	man	_	NN	_	11	SBJ	245570	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	245572	_
+5	gray	gray	_	JJ	_	6	NMOD	245572	_
+6	shirt	shirt	_	NN	_	3	PMOD	245572	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	10	NMOD	245576	_
+9	tag	tag	_	NN	_	10	NMOD	245576	_
+10	bombardier	bombardier	_	NN	_	7	PMOD	245576	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	using	use	_	VBG	_	11	VC	_	_
+13	an	an	_	DT	_	15	NMOD	245571	_
+14	orange	orange	_	JJ	_	15	NMOD	245571	_
+15	flashlight	flashlight	_	NN	_	12	OBJ	245571	_
+16	.	.	_	.	_	11	P	_	_

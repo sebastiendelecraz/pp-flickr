@@ -1,0 +1,14 @@
+1	Three	Three	_	CD	_	3	NMOD	245123	_
+2	construction	construction	_	NN	_	3	NMOD	245123	_
+3	men	man	_	NNS	_	0	ROOT	245123	_
+4	on	on	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	245127	_
+6	beam	beam	_	NN	_	4	PMOD	245127	_
+7	working	work	_	VBG	_	3	APPO	_	_
+8	with	with	_	IN	_	7	ADV	_	_
+9	high	high	_	JJ	_	10	NMOD	245132	_
+10	rises	rise	_	NNS	_	8	PMOD	245132	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	background	background	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

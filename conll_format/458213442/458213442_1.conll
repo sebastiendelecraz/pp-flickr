@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	6	NMOD	180342	_
+2	black	black	_	JJ	_	6	NMOD	180342	_
+3	and	and	_	CC	_	2	COORD	180342	_
+4	white	white	_	JJ	_	3	CONJ	180342	_
+5	dog	dog	_	NN	_	6	NMOD	180342	_
+6	jumps	jump	_	NNS	_	0	ROOT	_	_
+7	over	over	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	180344	_
+9	bar	bar	_	NN	_	7	PMOD	180344	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	an	an	_	DT	_	13	NMOD	180347	_
+12	agility	agility	_	NN	_	13	NMOD	180347	_
+13	test	test	_	NN	_	10	PMOD	180347	_
+14	.	.	_	.	_	0	ROOT	_	_

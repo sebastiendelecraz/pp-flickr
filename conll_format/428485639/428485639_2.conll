@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	161565	_
+2	little	little	_	JJ	_	3	NMOD	161565	_
+3	girl	girl	_	NN	_	8	SBJ	161565	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	161570	_
+6	blue	blue	_	JJ	_	7	NMOD	161570	_
+7	outfit	outfit	_	NN	_	4	PMOD	161570	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	climbing	climb	_	VBG	_	8	VC	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	metal	metal	_	NN	_	12	NMOD	161569	_
+12	railings	railing	_	NNS	_	10	PMOD	161569	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	161568	_
+15	street	street	_	NN	_	13	PMOD	161568	_
+16	.	.	_	.	_	8	P	_	_

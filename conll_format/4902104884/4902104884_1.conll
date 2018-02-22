@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	3	NMOD	216754	_
+2	elderly	elderly	_	JJ	_	3	NMOD	216754	_
+3	women	woman	_	NNS	_	4	SBJ	216754	_
+4	wearing	wear	_	VBG	_	8	SBJ	_	_
+5	hats	hat	_	NNS	_	4	OBJ	216758	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	swimsuits	swimsuit	_	NNS	_	6	CONJ	216757	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	walking	walk	_	VBG	_	8	VC	_	_
+10	through	through	_	IN	_	9	DIR	_	9
+11	shallow	shallow	_	NN	_	12	NMOD	216759	_
+12	water	water	_	NN	_	10	PMOD	216759	_
+13	at	at	_	IN	_	9	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	216756	_
+15	beach	beach	_	NN	_	13	PMOD	216756	_
+16	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	38031	_
+2	man	man	_	NN	_	0	ROOT	38031	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	38032	_
+5	blue	blue	_	JJ	_	6	NMOD	38032	_
+6	suit	suit	_	NN	_	3	PMOD	38032	_
+7	juggling	juggle	_	VBG	_	6	APPO	_	_
+8	balls	ball	_	NNS	_	7	OBJ	38033	_
+9	before	before	_	IN	_	2	TMP	_	7
+10	a	a	_	DT	_	11	NMOD	38034	_
+11	crowd	crowd	_	NN	_	9	PMOD	38034	_
+12	of	of	_	IN	_	11	NMOD	38034	_
+13	people	people	_	NN	_	12	PMOD	38034	_
+14	.	.	_	.	_	0	ROOT	_	_

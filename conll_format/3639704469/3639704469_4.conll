@@ -1,0 +1,16 @@
+1	The	the	_	DT	_	2	NMOD	133470	_
+2	groom	groom	_	NN	_	3	SBJ	133470	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	133475	_
+6	railing	rail	_	VBG	_	4	PMOD	133475	_
+7	by	by	_	IN	_	3	MNR	_	_
+8	the	the	_	DT	_	9	NMOD	133476	_
+9	sea	sea	_	NN	_	7	PMOD	133476	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	his	his	_	PRP$	_	12	NMOD	133482	_
+12	arm	arm	_	NN	_	10	PMOD	133482	_
+13	around	around	_	IN	_	9	LOC	_	12
+14	the	the	_	DT	_	15	NMOD	133471	_
+15	bride	bride	_	NN	_	13	PMOD	133471	_
+16	.	.	_	.	_	3	P	_	_

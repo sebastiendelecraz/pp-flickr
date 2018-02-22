@@ -1,0 +1,14 @@
+1	Looking	look	_	VBG	_	0	ROOT	_	_
+2	through	through	_	IN	_	1	ADV	_	1
+3	a	a	_	DT	_	4	NMOD	86249	_
+4	vehicle	vehicle	_	NN	_	7	NMOD	86249	_
+5	'	'	_	POS	_	4	SUFFIX	86249	_
+6	s	s	_	NN	_	7	NMOD	86249	_
+7	windshield	windshield	_	NN	_	2	PMOD	86249	_
+8	at	at	_	IN	_	1	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	86245	_
+10	dog	dog	_	NN	_	8	PMOD	86245	_
+11	crossing	cross	_	VBG	_	10	APPO	_	_
+12	the	the	_	DT	_	13	NMOD	86247	_
+13	road	road	_	NN	_	11	OBJ	86247	_
+14	.	.	_	.	_	0	ROOT	_	_

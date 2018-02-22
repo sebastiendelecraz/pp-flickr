@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	2	SBJ	93568	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	enjoying	enjoy	_	VBG	_	2	VC	_	_
+4	drinks	drink	_	NNS	_	3	OBJ	93567	_
+5	at	at	_	IN	_	3	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	93566	_
+7	table	table	_	NN	_	5	PMOD	93566	_
+8	outside	outside	_	IN	_	3	LOC	_	7
+9	a	a	_	DT	_	12	NMOD	93565	_
+10	large	large	_	JJ	_	12	NMOD	93565	_
+11	brick	brick	_	NN	_	12	NMOD	93565	_
+12	building	building	_	NN	_	8	PMOD	93565	_
+13	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	4	NMOD	285201	_
+2	male	male	_	JJ	_	4	NMOD	285201	_
+3	construction	construction	_	NN	_	4	NMOD	285201	_
+4	workers	worker	_	NNS	_	5	SBJ	285201	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	working	work	_	VBG	_	5	VC	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	285207	_
+9	street	street	_	NN	_	7	PMOD	285207	_
+10	outside	outside	_	IN	_	6	LOC	_	6
+11	someone	someone	_	NN	_	14	NMOD	285209	_
+12	'	'	_	''	_	13	P	285209	_
+13	s	s	_	NN	_	14	NMOD	285209	_
+14	home	home	_	NN	_	10	PMOD	285209	_
+15	.	.	_	.	_	5	P	_	_

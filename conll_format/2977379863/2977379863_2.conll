@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	85171	_
+2	blond	blond	_	JJ	_	3	NMOD	85171	_
+3	girl	girl	_	NN	_	8	SBJ	85171	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	85172	_
+6	black	black	_	JJ	_	7	NMOD	85172	_
+7	cape	cape	_	NN	_	4	PMOD	85172	_
+8	stands	stand	_	VBZ	_	0	ROOT	_	_
+9	with	with	_	IN	_	8	ADV	_	_
+10	other	other	_	JJ	_	11	NMOD	85173	_
+11	children	child	_	NNS	_	9	PMOD	85173	_
+12	in	in	_	IN	_	8	LOC	_	_
+13	costumes	costume	_	NNS	_	12	PMOD	85174	_
+14	.	.	_	.	_	8	P	_	_

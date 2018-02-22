@@ -1,0 +1,9 @@
+1	Girl	Girl	_	NNP	_	2	SBJ	3960	_
+2	running	run	_	VBG	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	DIR	_	2
+4	the	the	_	DT	_	5	NMOD	3962	_
+5	water	water	_	NN	_	3	PMOD	3962	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	the	the	_	DT	_	8	NMOD	3961	_
+8	shore	shore	_	NN	_	6	PMOD	3961	_
+9	.	.	_	.	_	0	ROOT	_	_

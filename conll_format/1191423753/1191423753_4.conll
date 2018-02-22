@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	4935	_
+2	side	side	_	NN	_	0	ROOT	4935	_
+3	of	of	_	IN	_	2	NMOD	4935	2
+4	a	a	_	DT	_	5	NMOD	4935	_
+5	building	building	_	NN	_	3	PMOD	4935	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	paintings	painting	_	NNS	_	6	PMOD	4943	_
+8	on	on	_	IN	_	5	LOC	_	_
+9	it	it	_	PRP	_	8	PMOD	0	_
+10	.	.	_	.	_	0	ROOT	_	_

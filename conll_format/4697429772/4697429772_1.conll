@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	192434	_
+2	girl	girl	_	NN	_	3	SBJ	192434	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	192437	_
+5	white	white	_	JJ	_	6	NMOD	192437	_
+6	shirt	shirt	_	NN	_	3	OBJ	192437	_
+7	and	and	_	CC	_	3	COORD	_	_
+8	holding	hold	_	VBG	_	7	CONJ	_	_
+9	a	a	_	DT	_	11	NMOD	192436	_
+10	fishing	fishing	_	NN	_	11	NMOD	192436	_
+11	pole	pole	_	NN	_	8	OBJ	192436	_
+12	near	near	_	IN	_	11	LOC	_	8
+13	a	a	_	DT	_	14	NMOD	192435	_
+14	body	body	_	NN	_	12	PMOD	192435	_
+15	of	of	_	IN	_	14	NMOD	192435	_
+16	water	water	_	NN	_	15	PMOD	192435	_
+17	.	.	_	.	_	0	ROOT	_	_

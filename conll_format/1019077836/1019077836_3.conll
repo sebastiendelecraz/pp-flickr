@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	591	_
+2	brown	brown	_	JJ	_	3	NMOD	591	_
+3	dog	dog	_	NN	_	4	SBJ	591	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	594	_
+7	lawn	lawn	_	NN	_	5	PMOD	594	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	a	a	_	DT	_	11	NMOD	592	_
+10	garden	garden	_	NN	_	11	NMOD	592	_
+11	hose	hose	_	NN	_	8	PMOD	592	_
+12	.	.	_	.	_	0	ROOT	_	_

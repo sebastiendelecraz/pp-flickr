@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	148120	_
+2	dressed	dress	_	VBN	_	4	NMOD	148120	_
+3	up	up	_	RP	_	2	PRT	148120	_
+4	man	man	_	NN	_	5	SBJ	148120	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	sitting	sit	_	VBG	_	5	VC	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	148121	_
+9	wagon	wagon	_	NN	_	7	PMOD	148121	_
+10	in the middle of	in the middle of	_	IN	_	6	TMP	148127	6
+11	a	a	_	DT	_	12	NMOD	148127	_
+12	road	road	_	NN	_	10	PMOD	148127	_
+13	.	.	_	.	_	5	P	_	_

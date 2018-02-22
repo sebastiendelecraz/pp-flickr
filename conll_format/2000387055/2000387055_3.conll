@@ -1,0 +1,12 @@
+1	Social	Social	_	NNP	_	3	NMOD	24774	_
+2	awkward	awkward	_	JJ	_	3	NMOD	24774	_
+3	girl	girl	_	NN	_	4	SBJ	24774	_
+4	looking	look	_	VBG	_	0	ROOT	_	_
+5	outside	outside	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	24776	_
+7	window	window	_	NN	_	5	PMOD	24776	_
+8	onto	onto	_	IN	_	4	ADV	_	4
+9	the	the	_	DT	_	10	NMOD	24779	_
+10	street	street	_	NN	_	8	PMOD	24779	_
+11	outside	outside	_	IN	_	10	LOC	_	_
+12	.	.	_	.	_	0	ROOT	_	_

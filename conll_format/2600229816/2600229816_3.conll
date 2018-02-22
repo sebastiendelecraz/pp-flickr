@@ -1,0 +1,14 @@
+1	Four	Four	_	CD	_	3	NMOD	60688	_
+2	young	young	_	JJ	_	3	NMOD	60688	_
+3	adults	adult	_	NNS	_	4	SBJ	60688	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	working	work	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	an	an	_	DT	_	8	NMOD	60689	_
+8	upside	upside	_	NN	_	6	PMOD	60689	_
+9	down	down	_	IN	_	8	NMOD	60689	10
+10	bicycle	bicycle	_	NN	_	9	PMOD	60689	_
+11	in	in	_	IN	_	8	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	60690	_
+13	park	park	_	NN	_	11	PMOD	60690	_
+14	.	.	_	.	_	4	P	_	_

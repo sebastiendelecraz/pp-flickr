@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	2770	_
+2	black	black	_	JJ	_	3	NMOD	2770	_
+3	dog	dog	_	NN	_	0	ROOT	2770	_
+4	playing	play	_	VBG	_	3	APPO	_	_
+5	fetch	fetch	_	NN	_	4	OBJ	2772	_
+6	with	with	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	2771	_
+8	ball	ball	_	NN	_	6	PMOD	2771	_
+9	of	of	_	IN	_	8	NMOD	2771	_
+10	rope	rope	_	NN	_	9	PMOD	2771	_
+11	.	.	_	.	_	0	ROOT	_	_

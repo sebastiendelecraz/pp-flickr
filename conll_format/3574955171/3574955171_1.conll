@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	128734	_
+2	man	man	_	NN	_	0	ROOT	128734	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	128738	_
+5	brown	brown	_	JJ	_	6	NMOD	128738	_
+6	shirt	shirt	_	NN	_	3	PMOD	128738	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	glasses	glass	_	NNS	_	7	PMOD	128737	_
+9	talking	talk	_	VBG	_	8	APPO	_	_
+10	with	with	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	128735	_
+12	woman	woman	_	NN	_	10	PMOD	128735	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	128739	_
+15	white	white	_	JJ	_	16	NMOD	128739	_
+16	shirt	shirt	_	NN	_	13	PMOD	128739	_
+17	.	.	_	.	_	0	ROOT	_	_

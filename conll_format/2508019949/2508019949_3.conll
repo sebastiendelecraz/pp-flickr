@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	4	NMOD	54056	_
+2	oddly	oddly	_	RB	_	3	AMOD	54056	_
+3	dressed	dress	_	VBN	_	4	NMOD	54056	_
+4	man	man	_	NN	_	0	ROOT	54056	_
+5	pushing	push	_	VBG	_	4	APPO	_	_
+6	a	a	_	DT	_	7	NMOD	54062	_
+7	stroller	stroller	_	NN	_	5	OBJ	54062	_
+8	down	down	_	IN	_	5	ADV	_	5
+9	a	a	_	DT	_	10	NMOD	54065	_
+10	sidewalk	sidewalk	_	NN	_	8	PMOD	54065	_
+11	in	in	_	IN	_	5	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	54066	_
+13	park	park	_	NN	_	11	PMOD	54066	_
+14	.	.	_	.	_	0	ROOT	_	_

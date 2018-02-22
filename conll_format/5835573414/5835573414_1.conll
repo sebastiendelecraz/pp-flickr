@@ -1,0 +1,31 @@
+1	A	a	_	DT	_	4	NMOD	243809	_
+2	male	male	_	JJ	_	4	NMOD	243809	_
+3	tap	tap	_	NN	_	4	NMOD	243809	_
+4	dancer	dancer	_	NN	_	5	SBJ	243809	_
+5	wearing	wear	_	VBG	_	12	SBJ	_	_
+6	black	black	_	JJ	_	7	NMOD	243812	_
+7	suspenders	suspender	_	NNS	_	5	OBJ	243812	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	a	a	_	DT	_	11	NMOD	243816	_
+10	dress	dress	_	NN	_	11	NMOD	243816	_
+11	shirt	shirt	_	NN	_	8	CONJ	243816	_
+12	is	be	_	VBZ	_	0	ROOT	_	_
+13	in front of	in front of	_	IN	_	12	PRD	_	_
+14	a	a	_	DT	_	16	NMOD	243818	_
+15	musical	musical	_	JJ	_	16	NMOD	243818	_
+16	trio	trio	_	NN	_	13	PMOD	243818	_
+17	on	on	_	IN	_	12	LOC	_	_
+18	a	a	_	DT	_	19	NMOD	243811	_
+19	stage	stage	_	NN	_	17	PMOD	243811	_
+20	with	with	_	IN	_	0	ROOT	_	_
+21	one	one	_	CD	_	22	NMOD	243824	_
+22	leg	leg	_	NN	_	23	SBJ	243824	_
+23	raised	raise	_	VBD	_	20	SUB	_	_
+24	as	as	_	IN	_	23	TMP	_	_
+25	he	he	_	PRP	_	26	SBJ	0	_
+26	is	be	_	VBZ	_	24	SUB	_	_
+27	in the middle of	in the middle of	_	IN	_	26	PRD	243822	26
+28	a	a	_	DT	_	30	NMOD	243822	_
+29	dance	dance	_	NN	_	30	NMOD	243822	_
+30	move	move	_	NN	_	27	PMOD	243822	_
+31	.	.	_	.	_	0	ROOT	_	_

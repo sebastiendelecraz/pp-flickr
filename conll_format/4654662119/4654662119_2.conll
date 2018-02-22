@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	187339	_
+2	woman	woman	_	NN	_	5	NMOD	187339	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	2	2	_	CD	_	3	CONJ	187345	_
+5	boys	boy	_	NNS	_	6	SBJ	187345	_
+6	playing	play	_	VBG	_	0	ROOT	_	_
+7	with	with	_	IN	_	6	ADV	_	_
+8	kites	kite	_	NNS	_	7	PMOD	187344	_
+9	next to	next to	_	IN	_	6	TMP	_	6
+10	a	a	_	DT	_	11	NMOD	187343	_
+11	lake	lake	_	NN	_	9	PMOD	187343	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	68655	_
+2	smiling	smile	_	VBG	_	3	NMOD	68655	_
+3	woman	woman	_	NN	_	0	ROOT	68655	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	68656	_
+6	bikini	bikini	_	NN	_	4	PMOD	68656	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	0	_
+9	air	air	_	NN	_	7	PMOD	0	_
+10	over	over	_	IN	_	3	NMOD	_	3
+11	a	a	_	DT	_	13	NMOD	68657	_
+12	diving	dive	_	VBG	_	13	NMOD	68657	_
+13	board	board	_	NN	_	10	PMOD	68657	_
+14	.	.	_	.	_	0	ROOT	_	_

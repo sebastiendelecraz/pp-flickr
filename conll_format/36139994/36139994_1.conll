@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	131722	_
+2	woman	woman	_	NN	_	6	SBJ	131722	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	short	short	_	JJ	_	5	NMOD	131727	_
+5	hair	hair	_	NN	_	3	PMOD	131727	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	singing	sing	_	VBG	_	6	VC	_	_
+8	passionately	passionately	_	RB	_	7	MNR	_	_
+9	into	into	_	IN	_	7	ADV	_	7
+10	a	a	_	DT	_	11	NMOD	131723	_
+11	microphone	microphone	_	NN	_	9	PMOD	131723	_
+12	on	on	_	IN	_	11	NMOD	_	_
+13	stage	stage	_	NN	_	12	PMOD	131728	_
+14	.	.	_	.	_	6	P	_	_

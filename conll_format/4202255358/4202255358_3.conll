@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	SBJ	159070	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	the	the	_	DT	_	5	NMOD	159074	_
+5	sidewalk	sidewalk	_	NN	_	3	PMOD	159074	_
+6	next to	next to	_	IN	_	2	LOC	_	2
+7	the	the	_	DT	_	8	NMOD	159071	_
+8	trolley	trolley	_	NN	_	6	PMOD	159071	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	track	track	_	NN	_	9	CONJ	159075	_
+11	.	.	_	.	_	0	ROOT	_	_

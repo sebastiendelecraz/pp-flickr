@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	86463	_
+2	boy	boy	_	NN	_	3	SBJ	86463	_
+3	rides	ride	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	86464	_
+5	surfboard	surfboard	_	NN	_	3	OBJ	86464	_
+6	over	over	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	9	NMOD	86468	_
+8	small	small	_	JJ	_	9	NMOD	86468	_
+9	wave	wave	_	NN	_	6	PMOD	86468	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	bright	bright	_	JJ	_	13	NMOD	86466	_
+12	blue	blue	_	JJ	_	13	NMOD	86466	_
+13	water	water	_	NN	_	10	PMOD	86466	_
+14	.	.	_	.	_	3	P	_	_

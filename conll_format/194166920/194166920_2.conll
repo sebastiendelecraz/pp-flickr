@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	23595	_
+2	man	man	_	NN	_	7	SBJ	23595	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	23598	_
+5	green	green	_	JJ	_	6	NMOD	23598	_
+6	shirt	shirt	_	NN	_	3	PMOD	23598	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	7	VC	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	23599	_
+11	man	man	_	NN	_	9	PMOD	23599	_
+12	in	in	_	IN	_	8	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	23600	_
+14	white	white	_	JJ	_	15	NMOD	23600	_
+15	shirt	shirt	_	NN	_	12	PMOD	23600	_
+16	working	work	_	VBG	_	15	APPO	_	_
+17	on	on	_	IN	_	16	ADV	_	_
+18	a	a	_	DT	_	19	NMOD	23597	_
+19	computer	computer	_	NN	_	17	PMOD	23597	_
+20	.	.	_	.	_	7	P	_	_

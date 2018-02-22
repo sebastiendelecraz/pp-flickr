@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	221692	_
+2	man	man	_	NN	_	9	SBJ	221692	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	221698	_
+5	camera	camera	_	NN	_	3	PMOD	221698	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	his	his	_	PRP$	_	8	NMOD	221701	_
+8	head	head	_	NN	_	6	PMOD	221701	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	with	with	_	IN	_	9	PRD	_	_
+11	two	two	_	CD	_	12	NMOD	221700	_
+12	people	people	_	NN	_	10	PMOD	221700	_
+13	on	on	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	221702	_
+15	airplane	airplane	_	NN	_	13	PMOD	221702	_
+16	.	.	_	.	_	9	P	_	_

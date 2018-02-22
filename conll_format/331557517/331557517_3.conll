@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	108814	_
+2	woman	woman	_	NN	_	3	SBJ	108814	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	next to	next to	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	108817	_
+6	coastline	coastline	_	NN	_	4	PMOD	108817	_
+7	in	in	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	108815	_
+9	blue	blue	_	JJ	_	10	NMOD	108815	_
+10	sweatshirt	sweatshirt	_	NN	_	7	PMOD	108815	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	jeans	jean	_	NNS	_	11	CONJ	108822	_
+13	holding	hold	_	VBG	_	3	ADV	_	_
+14	a	a	_	DT	_	15	NMOD	108819	_
+15	camera	camera	_	NN	_	13	OBJ	108819	_
+16	.	.	_	.	_	3	P	_	_

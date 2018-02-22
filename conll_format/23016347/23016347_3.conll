@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	40120	_
+2	young	young	_	JJ	_	4	NMOD	40120	_
+3	tennis	tennis	_	NN	_	4	NMOD	40120	_
+4	player	player	_	NN	_	5	SBJ	40120	_
+5	stretches	stretch	_	VBZ	_	0	ROOT	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	40121	_
+8	ball	ball	_	NN	_	6	PMOD	40121	_
+9	on	on	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	40123	_
+11	clay	clay	_	NN	_	12	NMOD	40123	_
+12	court	court	_	NN	_	9	PMOD	40123	_
+13	.	.	_	.	_	5	P	_	_

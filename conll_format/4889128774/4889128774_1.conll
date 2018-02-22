@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	215148	_
+2	man	man	_	NN	_	9	SBJ	215148	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	215147	_
+5	colorful	colorful	_	JJ	_	6	NMOD	215147	_
+6	array	array	_	NN	_	3	PMOD	215147	_
+7	of	of	_	IN	_	6	NMOD	215147	_
+8	pinwheels	pinwheel	_	NNS	_	7	PMOD	215147	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	standing	stand	_	VBG	_	9	VC	_	_
+11	in front of	in front of	_	IN	_	10	ADV	_	_
+12	some	some	_	DT	_	13	NMOD	215150	_
+13	people	people	_	NN	_	11	PMOD	215150	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	motorbikes	motorbike	_	NNS	_	14	PMOD	215149	_
+16	.	.	_	.	_	9	P	_	_

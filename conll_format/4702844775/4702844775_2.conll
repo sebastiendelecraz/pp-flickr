@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	192920	_
+2	man	man	_	NN	_	0	ROOT	192920	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	192921	_
+5	black	black	_	JJ	_	6	NMOD	192921	_
+6	sweatshirt	sweatshirt	_	NN	_	3	PMOD	192921	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	blue	blue	_	JJ	_	10	NMOD	192921	_
+9	trim	trim	_	JJ	_	10	NMOD	192921	_
+10	playing	playing	_	NN	_	7	PMOD	_	_
+11	a	a	_	DT	_	13	NMOD	192922	_
+12	slot	slot	_	NN	_	13	NMOD	192922	_
+13	machine	machine	_	NN	_	7	PMOD	192922	_
+14	.	.	_	.	_	0	ROOT	_	_

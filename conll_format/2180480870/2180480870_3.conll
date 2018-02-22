@@ -1,0 +1,11 @@
+1	a	a	_	DT	_	4	NMOD	32559	_
+2	little	little	_	JJ	_	4	NMOD	32559	_
+3	brown	brown	_	NN	_	4	NMOD	32559	_
+4	dog	dog	_	NN	_	5	SBJ	32559	_
+5	running	run	_	VBG	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	a	a	_	DT	_	8	NMOD	32560	_
+8	field	field	_	NN	_	6	PMOD	32560	_
+9	of	of	_	IN	_	8	NMOD	32560	_
+10	grass	grass	_	NN	_	9	PMOD	32560	_
+11	.	.	_	.	_	0	ROOT	_	_

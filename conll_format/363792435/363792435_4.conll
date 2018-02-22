@@ -1,0 +1,12 @@
+1	Several	several	_	DT	_	3	NMOD	133244	_
+2	bike	bike	_	NN	_	3	NMOD	133244	_
+3	riders	rider	_	NNS	_	4	SBJ	133244	_
+4	line	line	_	VBP	_	0	ROOT	_	_
+5	up	up	_	RP	_	4	PRT	_	_
+6	for	for	_	IN	_	4	ADV	_	4
+7	the	the	_	DT	_	8	NMOD	133247	_
+8	start	start	_	NN	_	6	PMOD	133247	_
+9	of	of	_	IN	_	8	NMOD	133247	_
+10	a	a	_	DT	_	11	NMOD	133247	_
+11	race	race	_	NN	_	9	PMOD	133247	_
+12	.	.	_	.	_	4	P	_	_

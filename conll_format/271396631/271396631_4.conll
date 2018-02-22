@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	68113	_
+2	man	man	_	NN	_	0	ROOT	68113	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	68120	_
+5	black	black	_	JJ	_	7	NMOD	68120	_
+6	shirt	shirt	_	NN	_	7	NMOD	68120	_
+7	fishing	fishing	_	NN	_	3	PMOD	_	_
+8	on	on	_	IN	_	2	NMOD	_	_
+9	a	a	_	DT	_	11	NMOD	68114	_
+10	rocky	rocky	_	JJ	_	11	NMOD	68114	_
+11	shore	shore	_	NN	_	8	PMOD	68114	_
+12	.	.	_	.	_	0	ROOT	_	_

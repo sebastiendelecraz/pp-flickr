@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	3	NMOD	29488	_
+2	little	little	_	JJ	_	3	NMOD	29488	_
+3	boy	boy	_	NN	_	0	ROOT	29488	_
+4	all	all	_	DT	_	5	NMOD	29490	_
+5	bundled	bundle	_	VBN	_	0	ROOT	_	_
+6	up	up	_	RP	_	5	PRT	_	_
+7	in	in	_	IN	_	5	LOC	_	5
+8	a	a	_	DT	_	12	NMOD	29491	_
+9	blue	blue	_	JJ	_	12	NMOD	29491	_
+10	and	and	_	CC	_	9	COORD	29491	_
+11	red	red	_	JJ	_	10	CONJ	29491	_
+12	snowsuit	snowsuit	_	NN	_	7	PMOD	29491	_
+13	sitting	sit	_	VBG	_	12	APPO	_	_
+14	on	on	_	IN	_	13	ADV	_	_
+15	pile	pile	_	NN	_	14	PMOD	29490	_
+16	of	of	_	IN	_	15	NMOD	29490	_
+17	snow	snow	_	NN	_	16	PMOD	29490	_
+18	next to	next to	_	IN	_	13	LOC	_	13
+19	a	a	_	DT	_	20	NMOD	29492	_
+20	shovel	shovel	_	NN	_	18	PMOD	29492	_
+21	.	.	_	.	_	0	ROOT	_	_

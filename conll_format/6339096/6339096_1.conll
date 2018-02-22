@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	253113	_
+2	man	man	_	NN	_	0	ROOT	253113	_
+3	waiting	wait	_	VBG	_	2	APPO	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	253120	_
+6	results	result	_	NNS	_	4	PMOD	253120	_
+7	of	of	_	IN	_	6	NMOD	253120	_
+8	the	the	_	DT	_	9	NMOD	253120	_
+9	machine	machine	_	NN	_	7	PMOD	253120	_
+10	after	after	_	IN	_	3	TMP	_	_
+11	doing	do	_	VBG	_	10	PMOD	_	_
+12	an	an	_	DT	_	13	NMOD	253115	_
+13	experiment	experiment	_	NN	_	11	OBJ	253115	_
+14	in	in	_	IN	_	11	LOC	_	_
+15	his	his	_	PRP$	_	16	NMOD	253121	_
+16	laboratory	laboratory	_	NN	_	14	PMOD	253121	_
+17	.	.	_	.	_	0	ROOT	_	_

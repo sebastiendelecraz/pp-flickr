@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	162894	_
+2	man	man	_	NN	_	0	ROOT	162894	_
+3	holding	hold	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	162895	_
+5	boy	boy	_	NN	_	3	OBJ	162895	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	162896	_
+8	store	store	_	NN	_	6	PMOD	162896	_
+9	near	near	_	IN	_	8	LOC	_	3
+10	the	the	_	DT	_	13	NMOD	162896	_
+11	cold	cold	_	JJ	_	12	NMOD	162896	_
+12	items	item	_	NNS	_	13	NMOD	162896	_
+13	section	section	_	NN	_	9	PMOD	162896	_
+14	of	of	_	IN	_	13	NMOD	162896	_
+15	the	the	_	DT	_	16	NMOD	162896	_
+16	store	store	_	NN	_	14	PMOD	162896	_
+17	.	.	_	.	_	0	ROOT	_	_

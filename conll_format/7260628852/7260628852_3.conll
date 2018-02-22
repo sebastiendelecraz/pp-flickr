@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	267641	_
+2	male	male	_	JJ	_	3	NMOD	267641	_
+3	dancers	dancer	_	NNS	_	4	SBJ	267641	_
+4	performing	perform	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	stage	stage	_	NN	_	5	PMOD	267642	_
+7	with	with	_	IN	_	6	NMOD	_	4
+8	a	a	_	DT	_	10	NMOD	267646	_
+9	female	female	_	JJ	_	10	NMOD	267646	_
+10	performer	performer	_	NN	_	7	PMOD	267646	_
+11	clapping	clap	_	VBG	_	10	APPO	267646	_
+12	behind	behind	_	IN	_	11	LOC	_	_
+13	them	them	_	PRP	_	12	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

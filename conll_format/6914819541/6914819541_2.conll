@@ -1,0 +1,18 @@
+1	Two	Two	_	CD	_	2	NMOD	261179	_
+2	men	man	_	NNS	_	0	ROOT	261179	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	one	one	_	CD	_	5	NMOD	261180	_
+5	woman	woman	_	NN	_	3	CONJ	261180	_
+6	trying	try	_	VBG	_	2	APPO	_	_
+7	to	to	_	TO	_	6	OPRD	_	_
+8	sled	sled	_	VB	_	7	IM	_	_
+9	in	in	_	IN	_	8	ADV	_	_
+10	show	show	_	NN	_	9	PMOD	261186	_
+11	,	,	_	,	_	8	P	_	_
+12	using	use	_	VBG	_	13	NMOD	_	_
+13	coats	coat	_	NNS	_	8	OBJ	261184	_
+14	and	and	_	CC	_	13	COORD	_	_
+15	plastic	plastic	_	JJ	_	14	CONJ	262000	_
+16	instead of	instead of	_	IN	_	8	TMP	_	12
+17	sleigh	sleigh	_	NN	_	16	PMOD	261187	_
+18	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Closeup	Closeup	_	NNP	_	2	NMOD	211630	_
+2	picture	picture	_	NN	_	0	ROOT	211630	_
+3	of	of	_	IN	_	2	NMOD	211630	_
+4	a	a	_	DT	_	5	NMOD	211630	_
+5	lady	lady	_	NN	_	3	PMOD	211630	_
+6	in	in	_	IN	_	2	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	211633	_
+8	busy	busy	_	JJ	_	9	NMOD	211633	_
+9	street	street	_	NN	_	6	PMOD	211633	_
+10	talking	talk	_	VBG	_	9	APPO	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	the	the	_	DT	_	13	NMOD	211632	_
+13	phone	phone	_	NN	_	11	PMOD	211632	_
+14	.	.	_	.	_	0	ROOT	_	_

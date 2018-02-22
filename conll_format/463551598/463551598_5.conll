@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	185039	_
+2	busy	busy	_	JJ	_	3	NMOD	185039	_
+3	day	day	_	NN	_	0	ROOT	185039	_
+4	for	for	_	IN	_	3	NMOD	_	3
+5	citizens	citizen	_	NNS	_	4	PMOD	185041	_
+6	at	at	_	IN	_	3	LOC	_	_
+7	a	a	_	DT	_	10	NMOD	185045	_
+8	local	local	_	JJ	_	10	NMOD	185045	_
+9	city	city	_	NN	_	10	NMOD	185045	_
+10	court	court	_	NN	_	6	PMOD	185045	_
+11	.	.	_	.	_	0	ROOT	_	_

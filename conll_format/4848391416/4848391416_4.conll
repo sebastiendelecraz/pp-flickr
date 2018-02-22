@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	210226	_
+2	man	man	_	NN	_	11	NMOD	210226	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	behind	behind	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	210230	_
+6	typewriter	typewriter	_	NN	_	4	PMOD	210230	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	210228	_
+9	street	street	_	NN	_	7	PMOD	210228	_
+10	selling	sell	_	VBG	_	11	NMOD	_	_
+11	poetry	poetry	_	NN	_	0	ROOT	210235	_
+12	.	.	_	.	_	0	ROOT	_	_

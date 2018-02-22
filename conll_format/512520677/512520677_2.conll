@@ -1,0 +1,9 @@
+1	Crowd	Crowd	_	NNP	_	2	SBJ	229449	_
+2	gathered	gather	_	VBD	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	229452	_
+5	group	group	_	NN	_	3	PMOD	229452	_
+6	of	of	_	IN	_	5	NMOD	229452	_
+7	young	young	_	JJ	_	8	NMOD	229452	_
+8	performers	performer	_	NNS	_	6	PMOD	229452	_
+9	.	.	_	.	_	2	P	_	_

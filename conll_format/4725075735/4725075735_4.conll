@@ -1,0 +1,14 @@
+1	Back	Back	_	NNP	_	2	NMOD	195636	_
+2	side	side	_	NN	_	10	SBJ	195636	_
+3	of	of	_	IN	_	2	NMOD	195636	_
+4	a	a	_	DT	_	5	NMOD	195636	_
+5	woman	woman	_	NN	_	3	PMOD	195636	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	195637	_
+8	black	black	_	JJ	_	9	NMOD	195637	_
+9	dress	dress	_	NN	_	6	PMOD	195637	_
+10	walking	walk	_	VBG	_	0	ROOT	_	_
+11	down	down	_	RP	_	10	PRT	_	_
+12	a	a	_	DT	_	13	NMOD	195639	_
+13	boardwalk	boardwalk	_	NN	_	10	OBJ	195639	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	246585	_
+2	young	young	_	JJ	_	3	NMOD	246585	_
+3	boy	boy	_	NN	_	4	SBJ	246585	_
+4	looks	look	_	VBZ	_	0	ROOT	_	_
+5	at	at	_	IN	_	4	ADV	_	_
+6	an	an	_	DT	_	7	NMOD	246589	_
+7	insect	insect	_	NN	_	5	PMOD	246589	_
+8	under	under	_	IN	_	4	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	246587	_
+10	microscope	microscope	_	NN	_	8	PMOD	246587	_
+11	.	.	_	.	_	4	P	_	_

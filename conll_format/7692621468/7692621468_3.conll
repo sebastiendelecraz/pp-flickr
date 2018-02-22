@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	273447	_
+2	jockey	jockey	_	NN	_	8	SBJ	273447	_
+3	,	,	_	,	_	8	P	_	_
+4	atop	atop	_	IN	_	8	ADV	_	2
+5	their	their	_	PRP$	_	6	NMOD	273446	_
+6	horse	horse	_	NN	_	4	PMOD	273446	_
+7	,	,	_	,	_	8	P	_	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	in	in	_	IN	_	8	PRD	_	_
+10	mid	mid	_	JJ	_	11	NMOD	0	_
+11	jump	jump	_	NN	_	9	PMOD	0	_
+12	in	in	_	IN	_	11	NMOD	_	_
+13	an	an	_	DT	_	15	NMOD	273448	_
+14	equestrian	equestrian	_	JJ	_	15	NMOD	273448	_
+15	competition	competition	_	NN	_	12	PMOD	273448	_
+16	.	.	_	.	_	8	P	_	_

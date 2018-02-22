@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	3	NMOD	122819	_
+2	gray	gray	_	JJ	_	3	NMOD	122819	_
+3	dog	dog	_	NN	_	4	SBJ	122819	_
+4	swimming	swim	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	MNR	_	4
+6	a	a	_	DT	_	7	NMOD	122820	_
+7	river	river	_	NN	_	5	PMOD	122820	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	122821	_
+10	stick	stick	_	NN	_	8	PMOD	122821	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	his	his	_	PRP$	_	13	NMOD	122822	_
+13	mouth	mouth	_	NN	_	11	PMOD	122822	_
+14	.	.	_	.	_	0	ROOT	_	_

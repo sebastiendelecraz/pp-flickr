@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	52067	_
+2	women	woman	_	NNS	_	6	SBJ	52067	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	52066	_
+5	man	man	_	NN	_	3	CONJ	52066	_
+6	removing	remove	_	VBG	_	0	ROOT	_	_
+7	brush	brush	_	NN	_	6	OBJ	52065	_
+8	weed	wee	_	VBD	_	6	OPRD	52065	_
+9	out of	out of	_	IN	_	8	ADV	_	6
+10	their	their	_	PRP$	_	11	NMOD	52071	_
+11	yard	yard	_	NN	_	9	PMOD	52071	_
+12	after	after	_	IN	_	8	TMP	_	6
+13	a	a	_	DT	_	14	NMOD	52073	_
+14	storm	storm	_	NN	_	12	PMOD	52073	_
+15	.	.	_	.	_	0	ROOT	_	_

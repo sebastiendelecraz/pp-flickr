@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	203223	_
+2	man	man	_	NN	_	3	SBJ	203223	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	near	near	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	203224	_
+6	pile	pile	_	NN	_	4	PMOD	203224	_
+7	of	of	_	IN	_	6	NMOD	203224	_
+8	trash	trash	_	NN	_	7	PMOD	203224	_
+9	.	.	_	.	_	0	ROOT	_	_

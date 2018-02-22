@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	227601	_
+2	woman	woman	_	NN	_	3	SBJ	227601	_
+3	cuts	cut	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	227602	_
+5	cake	cake	_	NN	_	3	OBJ	227602	_
+6	while	while	_	IN	_	0	ROOT	_	_
+7	the	the	_	DT	_	8	NMOD	227603	_
+8	woman	woman	_	NN	_	0	ROOT	227603	_
+9	next to	next to	_	IN	_	8	NMOD	_	8
+10	her	her	_	PRP$	_	11	NMOD	0	_
+11	holds	hold	_	NNS	_	9	PMOD	_	_
+12	out	out	_	IN	_	8	NMOD	_	11
+13	a	a	_	DT	_	14	NMOD	227604	_
+14	plate	plate	_	NN	_	12	PMOD	227604	_
+15	.	.	_	.	_	0	ROOT	_	_

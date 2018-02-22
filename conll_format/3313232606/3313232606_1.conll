@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	108652	_
+2	team	team	_	NN	_	9	SBJ	108652	_
+3	of	of	_	IN	_	2	NMOD	108652	_
+4	soccer	soccer	_	NN	_	5	NMOD	108652	_
+5	players	player	_	NNS	_	3	PMOD	108652	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	white	white	_	JJ	_	8	NMOD	108658	_
+8	strips	strip	_	NNS	_	6	PMOD	108658	_
+9	are	be	_	VBP	_	0	ROOT	_	_
+10	running	run	_	VBG	_	9	VC	_	_
+11	around	around	_	IN	_	10	ADV	_	10
+12	cones	cone	_	NNS	_	11	PMOD	108654	_
+13	on	on	_	IN	_	12	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	108653	_
+15	sports	sport	_	NNS	_	16	NMOD	108653	_
+16	field	field	_	NN	_	13	PMOD	108653	_
+17	.	.	_	.	_	9	P	_	_

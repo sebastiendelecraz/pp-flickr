@@ -1,0 +1,11 @@
+1	a	a	_	DT	_	3	NMOD	64593	_
+2	young	young	_	JJ	_	3	NMOD	64593	_
+3	child	child	_	NN	_	0	ROOT	64593	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	64596	_
+6	yellow	yellow	_	JJ	_	7	NMOD	64596	_
+7	shirt	shirt	_	NN	_	4	PMOD	64596	_
+8	on	on	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	10	NMOD	64594	_
+10	bed	bed	_	NN	_	8	PMOD	64594	_
+11	.	.	_	.	_	0	ROOT	_	_

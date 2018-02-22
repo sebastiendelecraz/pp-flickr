@@ -1,0 +1,19 @@
+1	One	One	_	CD	_	2	NMOD	278614	_
+2	boy	boy	_	NN	_	12	SBJ	278614	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	278623	_
+5	blue	blue	_	JJ	_	6	NMOD	278623	_
+6	shirt	shirt	_	NN	_	3	PMOD	278623	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	jeans	jean	_	NNS	_	7	CONJ	278624	_
+9	on	on	_	IN	_	2	NMOD	_	2
+10	a	a	_	DT	_	11	NMOD	278615	_
+11	bicycle	bicycle	_	NN	_	9	PMOD	278615	_
+12	jumping	jump	_	VBG	_	0	ROOT	_	_
+13	over	over	_	RP	_	12	PRT	_	_
+14	concrete	concrete	_	JJ	_	15	NMOD	278617	_
+15	steps	step	_	NNS	_	12	OBJ	278617	_
+16	in front of	in front of	_	IN	_	15	NMOD	_	12
+17	a	a	_	DT	_	18	NMOD	278616	_
+18	building	building	_	NN	_	16	PMOD	278616	_
+19	.	.	_	.	_	0	ROOT	_	_

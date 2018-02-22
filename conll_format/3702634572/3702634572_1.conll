@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	137989	_
+2	girl	girl	_	NN	_	3	SBJ	137989	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	performing	perform	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	137990	_
+6	wheelie	wheelie	_	NN	_	4	OBJ	137990	_
+7	on	on	_	IN	_	4	ADV	_	_
+8	her	her	_	PRP$	_	9	NMOD	137990	_
+9	bicycle	bicycle	_	NN	_	7	PMOD	137990	_
+10	in front of	in front of	_	IN	_	4	ADV	_	4
+11	a	a	_	DT	_	15	NMOD	137994	_
+12	gray	gray	_	JJ	_	15	NMOD	137994	_
+13	cinder	cinder	_	NN	_	15	NMOD	137994	_
+14	block	block	_	NN	_	15	NMOD	137994	_
+15	building	building	_	NN	_	10	PMOD	137994	_
+16	.	.	_	.	_	3	P	_	_

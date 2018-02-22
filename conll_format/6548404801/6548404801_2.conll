@@ -1,0 +1,11 @@
+1	An	an	_	DT	_	3	NMOD	255469	_
+2	african	african	_	NN	_	3	NMOD	255469	_
+3	american	american	_	NN	_	0	ROOT	255469	_
+4	carving	carve	_	VBG	_	3	APPO	_	_
+5	images	image	_	NNS	_	4	OBJ	255476	_
+6	into	into	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	255470	_
+8	plank	plank	_	NN	_	6	PMOD	255470	_
+9	of	of	_	IN	_	8	NMOD	255470	_
+10	wood	wood	_	NN	_	9	PMOD	255470	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	four	four	_	CD	_	2	NMOD	133028	_
+2	boys	boy	_	NNS	_	0	ROOT	133028	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	133033	_
+5	black	black	_	JJ	_	6	NMOD	133033	_
+6	top	top	_	NN	_	3	PMOD	133033	_
+7	with	with	_	IN	_	2	NMOD	_	2
+8	a	a	_	DT	_	12	NMOD	133029	_
+9	green	green	_	JJ	_	12	NMOD	133029	_
+10	and	and	_	CC	_	9	COORD	133029	_
+11	yellow	yellow	_	JJ	_	10	CONJ	133029	_
+12	basketball	basketball	_	NN	_	7	PMOD	133029	_
+13	.	.	_	.	_	0	ROOT	_	_

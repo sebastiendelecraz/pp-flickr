@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	8366	_
+2	young	young	_	JJ	_	3	NMOD	8366	_
+3	girl	girl	_	NN	_	4	SBJ	8366	_
+4	floats	float	_	VBZ	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	her	her	_	PRP$	_	7	NMOD	8370	_
+7	back	back	_	NN	_	5	PMOD	8370	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	water	water	_	NN	_	8	PMOD	8366	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	peers	peer	_	NNS	_	10	CONJ	8371	_
+12	over	over	_	IN	_	7	NMOD	_	11
+13	her	her	_	PRP$	_	15	NMOD	8367	_
+14	life	life	_	NN	_	15	NMOD	8367	_
+15	jacket	jacket	_	NN	_	12	PMOD	8367	_
+16	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,20 @@
+1	Kids	kid	_	NNS	_	0	ROOT	1630	_
+2	riding	ride	_	VBG	_	1	APPO	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	their	their	_	PRP$	_	5	NMOD	1633	_
+5	bicycles	bicycle	_	NNS	_	3	PMOD	1633	_
+6	near	near	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	1631	_
+8	mound	mound	_	NN	_	6	PMOD	1631	_
+9	of	of	_	IN	_	8	NMOD	1631	_
+10	dirt	dirt	_	NN	_	9	PMOD	1631	_
+11	with	with	_	IN	_	2	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	1635	_
+13	hovel	hovel	_	NN	_	11	PMOD	1635	_
+14	from	from	_	IN	_	2	ADV	_	2
+15	a	a	_	DT	_	16	NMOD	1635	_
+16	backhoe	backhoe	_	NN	_	14	PMOD	1635	_
+17	in front of	in front of	_	IN	_	2	LOC	_	_
+18	the	the	_	DT	_	19	NMOD	1631	_
+19	mound	mound	_	NN	_	17	PMOD	1631	_
+20	.	.	_	.	_	0	ROOT	_	_

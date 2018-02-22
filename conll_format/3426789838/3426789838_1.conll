@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	117375	_
+2	young	young	_	JJ	_	3	NMOD	117375	_
+3	girl	girl	_	NN	_	4	SBJ	117375	_
+4	jumps	jump	_	VBZ	_	0	ROOT	_	_
+5	off	off	_	RP	_	4	PRT	_	_
+6	the	the	_	DT	_	7	NMOD	117377	_
+7	hands	hand	_	NNS	_	4	OBJ	117377	_
+8	of	of	_	IN	_	7	NMOD	117377	_
+9	a	a	_	DT	_	10	NMOD	117377	_
+10	man	man	_	NN	_	8	PMOD	117377	_
+11	in	in	_	IN	_	4	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	117378	_
+13	pool	pool	_	NN	_	11	PMOD	117378	_
+14	near	near	_	IN	_	13	LOC	_	4
+15	the	the	_	DT	_	16	NMOD	117379	_
+16	ocean	ocean	_	NN	_	14	PMOD	117379	_
+17	.	.	_	.	_	4	P	_	_

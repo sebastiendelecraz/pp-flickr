@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	186220	_
+2	brooding	brood	_	VBG	_	0	ROOT	_	_
+3	about	about	_	IN	_	2	ADV	_	2
+4	their	their	_	PRP$	_	5	NMOD	186225	_
+5	lives	life	_	NNS	_	3	PMOD	186225	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	186226	_
+8	crowded	crowded	_	JJ	_	9	NMOD	186226	_
+9	train	train	_	NN	_	6	PMOD	186226	_
+10	.	.	_	.	_	0	ROOT	_	_

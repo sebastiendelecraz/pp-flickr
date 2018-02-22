@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	208881	_
+2	man	man	_	NN	_	3	SBJ	208881	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	208888	_
+6	sidewalk	sidewalk	_	NN	_	4	PMOD	208888	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	208886	_
+9	lamp	lamp	_	NN	_	10	NMOD	208886	_
+10	post	post	_	NN	_	7	PMOD	208886	_
+11	as well as	as well as	_	IN	_	3	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	208892	_
+13	pillar	pillar	_	NN	_	11	PMOD	208892	_
+14	forming	form	_	VBG	_	3	ADV	_	_
+15	part	part	_	NN	_	14	OBJ	208887	_
+16	of	of	_	IN	_	15	NMOD	208887	_
+17	an	an	_	DT	_	18	NMOD	208887	_
+18	edifice	edifice	_	NN	_	16	PMOD	208887	_
+19	.	.	_	.	_	3	P	_	_

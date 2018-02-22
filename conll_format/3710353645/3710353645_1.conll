@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	138521	_
+2	young	young	_	JJ	_	3	NMOD	138521	_
+3	girl	girl	_	NN	_	8	SBJ	138521	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	138523	_
+6	pink	pink	_	NN	_	7	NMOD	138523	_
+7	dress	dress	_	NN	_	4	OBJ	138523	_
+8	jumps	jump	_	VBZ	_	0	ROOT	_	_
+9	through	through	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	0	_
+11	air	air	_	NN	_	9	PMOD	0	_
+12	over	over	_	IN	_	8	TMP	_	8
+13	playground	playground	_	NN	_	14	NMOD	138522	_
+14	equipment	equipment	_	NN	_	12	PMOD	138522	_
+15	.	.	_	.	_	8	P	_	_

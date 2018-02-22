@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	284808	_
+2	girls	girl	_	NNS	_	3	SBJ	284808	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	walking	walk	_	VBG	_	3	VC	_	_
+5	arm	arm	_	NN	_	4	OBJ	284814	_
+6	in	in	_	IN	_	4	LOC	_	_
+7	arm	arm	_	NN	_	6	PMOD	284815	_
+8	past	past	_	IN	_	4	ADV	_	4
+9	an	an	_	DT	_	11	NMOD	284810	_
+10	amusement	amusement	_	NN	_	11	NMOD	284810	_
+11	arcade	arcade	_	NN	_	8	PMOD	284810	_
+12	.	.	_	.	_	3	P	_	_

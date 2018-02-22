@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	175194	_
+2	girl	girl	_	NN	_	3	SBJ	175194	_
+3	dancing	dance	_	VBG	_	0	ROOT	_	_
+4	in the middle of	in the middle of	_	IN	_	3	ADV	175190	3
+5	a	a	_	DT	_	6	NMOD	175190	_
+6	group	group	_	NN	_	4	PMOD	175190	_
+7	of	of	_	IN	_	6	NMOD	175190	_
+8	people	people	_	NN	_	7	PMOD	175190	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	175191	_
+11	park	park	_	NN	_	9	PMOD	175191	_
+12	.	.	_	.	_	0	ROOT	_	_

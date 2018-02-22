@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	212137	_
+2	women	woman	_	NNS	_	3	SBJ	212137	_
+3	jogging	jog	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	212140	_
+6	paved	pave	_	VBN	_	7	NMOD	212140	_
+7	trail	trail	_	NN	_	4	PMOD	212140	_
+8	around	around	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	212138	_
+10	lake	lake	_	NN	_	8	PMOD	212138	_
+11	.	.	_	.	_	0	ROOT	_	_

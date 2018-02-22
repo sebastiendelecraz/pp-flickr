@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	5	NMOD	67587	_
+2	young	young	_	JJ	_	5	NMOD	67587	_
+3	,	,	_	,	_	5	P	67587	_
+4	white	white	_	JJ	_	5	NMOD	67587	_
+5	boys	boy	_	NNS	_	7	SBJ	67587	_
+6	,	,	_	,	_	7	P	_	_
+7	are	be	_	VBP	_	0	ROOT	_	_
+8	running	run	_	VBG	_	7	VC	_	_
+9	from	from	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	67588	_
+11	beach	beach	_	NN	_	9	PMOD	67588	_
+12	into	into	_	IN	_	8	DIR	_	8
+13	the	the	_	DT	_	14	NMOD	67589	_
+14	ocean	ocean	_	NN	_	12	PMOD	67589	_
+15	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,13 @@
+1	Man	Man	_	NNP	_	7	SBJ	105160	_
+2	in	in	_	IN	_	7	LOC	_	_
+3	colorful	colorful	_	JJ	_	4	NMOD	105161	_
+4	jersey	jersey	_	NN	_	2	PMOD	105161	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	cap	cap	_	NN	_	5	CONJ	105162	_
+7	performs	perform	_	VBZ	_	0	ROOT	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	crowd	crowd	_	NN	_	8	PMOD	105159	_
+10	in	in	_	IN	_	7	LOC	_	_
+11	urban	urban	_	JJ	_	12	NMOD	105163	_
+12	area	area	_	NN	_	10	PMOD	105163	_
+13	.	.	_	.	_	7	P	_	_

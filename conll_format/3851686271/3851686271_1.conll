@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	3	NMOD	145650	_
+2	Latin	Latin	_	JJ	_	3	NMOD	145650	_
+3	dancers	dancer	_	NNS	_	0	ROOT	145650	_
+4	dancing	dance	_	VBG	_	3	APPO	_	_
+5	with	with	_	IN	_	4	ADV	_	_
+6	Mariachi	Mariachi	_	NNP	_	5	PMOD	145652	_
+7	band	band	_	VB	_	4	OPRD	_	_
+8	playing	play	_	VBG	_	7	OPRD	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	background	background	_	NN	_	9	PMOD	0	_
+12	with	with	_	IN	_	8	ADV	_	8
+13	a	a	_	DT	_	14	NMOD	145651	_
+14	crowd	crowd	_	NN	_	12	PMOD	145651	_
+15	watching	watch	_	VBG	_	14	APPO	_	_
+16	.	.	_	.	_	0	ROOT	_	_

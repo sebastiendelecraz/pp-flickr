@@ -1,0 +1,11 @@
+1	Man	Man	_	NNP	_	2	SBJ	280671	_
+2	taking	take	_	VBG	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	280666	_
+4	photograph	photograph	_	NN	_	2	OBJ	280666	_
+5	of	of	_	IN	_	4	NMOD	280666	_
+6	four	four	_	CD	_	7	NMOD	280666	_
+7	ladies	lady	_	NNS	_	5	PMOD	280666	_
+8	in	in	_	IN	_	4	LOC	_	2
+9	a	a	_	DT	_	10	NMOD	280670	_
+10	bar	bar	_	NN	_	8	PMOD	280670	_
+11	.	.	_	.	_	0	ROOT	_	_

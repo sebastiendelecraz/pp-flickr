@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	DEP	281195	_
+2	youn	youn	_	CD	_	3	NMOD	281195	_
+3	boys	boy	_	NNS	_	0	ROOT	281195	_
+4	lay	lay	_	VBN	_	3	APPO	_	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	8	NMOD	281196	_
+7	dog	dog	_	NN	_	8	NMOD	281196	_
+8	house	house	_	NN	_	5	PMOD	281196	_
+9	with	with	_	IN	_	4	ADV	_	_
+10	their	their	_	PRP$	_	11	NMOD	281197	_
+11	dog	dog	_	NN	_	9	PMOD	281197	_
+12	.	.	_	.	_	0	ROOT	_	_

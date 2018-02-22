@@ -1,0 +1,17 @@
+1	Four	Four	_	CD	_	2	NMOD	247696	_
+2	scuba	scuba	_	NN	_	3	NMOD	247696	_
+3	divers	divers	_	SYM	_	0	ROOT	247696	_
+4	with	with	_	IN	_	0	ROOT	_	_
+5	red	red	_	JJ	_	8	NMOD	247703	_
+6	and	and	_	CC	_	5	COORD	247703	_
+7	black	black	_	JJ	_	6	CONJ	247703	_
+8	fins	fin	_	NNS	_	4	PMOD	247703	_
+9	standing	stand	_	VBG	_	8	APPO	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	247701	_
+12	wooden	wooden	_	JJ	_	13	NMOD	247701	_
+13	surface	surface	_	NN	_	10	PMOD	247701	_
+14	next to	next to	_	IN	_	9	LOC	_	9
+15	the	the	_	DT	_	16	NMOD	247704	_
+16	water	water	_	NN	_	14	PMOD	247704	_
+17	.	.	_	.	_	0	ROOT	_	_

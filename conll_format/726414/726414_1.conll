@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	267674	_
+2	skydiver	skydiver	_	NN	_	3	SBJ	267674	_
+3	hangs	hang	_	VBZ	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	267675	_
+6	undercarriage	undercarriage	_	NN	_	4	PMOD	267675	_
+7	of	of	_	IN	_	6	NMOD	267675	_
+8	an	an	_	DT	_	9	NMOD	267675	_
+9	airplane	airplane	_	NN	_	7	PMOD	267675	_
+10	or	or	_	CC	_	9	COORD	_	_
+11	some	some	_	DT	_	12	NMOD	267675	_
+12	sort	sort	_	NN	_	10	CONJ	267675	_
+13	of	of	_	IN	_	12	NMOD	267675	_
+14	air	air	_	NN	_	15	NMOD	267675	_
+15	gliding	gliding	_	NN	_	16	NMOD	267675	_
+16	device	device	_	NN	_	13	PMOD	267675	_
+17	.	.	_	.	_	3	P	_	_

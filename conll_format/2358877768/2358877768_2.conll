@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	43980	_
+2	young	young	_	JJ	_	4	NMOD	43980	_
+3	bare-chested	bare-chested	_	CD	_	4	NMOD	43980	_
+4	man	man	_	NN	_	0	ROOT	43980	_
+5	talking	talk	_	VBG	_	4	APPO	_	_
+6	with	with	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	10	NMOD	43982	_
+8	casually	casually	_	RB	_	9	AMOD	43982	_
+9	dressed	dress	_	VBN	_	10	NMOD	43982	_
+10	man	man	_	NN	_	6	PMOD	43982	_
+11	along	along	_	IN	_	10	NMOD	_	5
+12	a	a	_	DT	_	15	NMOD	43983	_
+13	lonely	lonely	_	JJ	_	15	NMOD	43983	_
+14	desert	desert	_	NN	_	15	NMOD	43983	_
+15	road	road	_	NN	_	11	PMOD	43983	_
+16	.	.	_	.	_	0	ROOT	_	_

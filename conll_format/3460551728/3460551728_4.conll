@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	119842	_
+2	long-distance	long-distance	_	JJ	_	3	NMOD	119842	_
+3	shot	shot	_	NN	_	0	ROOT	119842	_
+4	of	of	_	IN	_	3	NMOD	119842	3
+5	a	a	_	DT	_	6	NMOD	119842	_
+6	beach	beach	_	NN	_	4	PMOD	119842	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	people	people	_	NN	_	7	PMOD	119837	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	animals	animal	_	NNS	_	9	CONJ	119843	_
+11	.	.	_	.	_	0	ROOT	_	_

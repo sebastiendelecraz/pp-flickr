@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	183675	_
+2	man	man	_	NN	_	0	ROOT	183675	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	183677	_
+5	white	white	_	JJ	_	6	NMOD	183677	_
+6	turban	turban	_	NN	_	3	PMOD	183677	_
+7	with	with	_	IN	_	6	NMOD	_	2
+8	a	a	_	DT	_	10	NMOD	183676	_
+9	blue	blue	_	JJ	_	10	NMOD	183676	_
+10	shirt	shirt	_	NN	_	7	PMOD	183676	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	a	a	_	DT	_	15	NMOD	183681	_
+14	plaid	plaid	_	NN	_	15	NMOD	183681	_
+15	shirt	shirt	_	NN	_	12	CONJ	183681	_
+16	underneath	underneath	_	IN	_	15	NMOD	183681	_
+17	.	.	_	.	_	0	ROOT	_	_

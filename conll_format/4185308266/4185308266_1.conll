@@ -1,0 +1,13 @@
+1	Several	several	_	DT	_	2	NMOD	158394	_
+2	chairs	chair	_	NNS	_	3	SBJ	158394	_
+3	lined	line	_	VBD	_	0	ROOT	_	_
+4	against	against	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	158397	_
+6	wall	wall	_	NN	_	4	PMOD	158397	_
+7	,	,	_	,	_	3	P	_	_
+8	with	with	_	IN	_	3	ADV	_	_
+9	children	child	_	NNS	_	8	PMOD	158393	_
+10	sitting	sit	_	VBG	_	9	APPO	_	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	them	them	_	PRP	_	11	PMOD	0	_
+13	.	.	_	.	_	3	P	_	_

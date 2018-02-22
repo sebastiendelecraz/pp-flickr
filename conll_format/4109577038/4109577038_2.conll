@@ -1,0 +1,10 @@
+1	man	man	_	NN	_	2	SBJ	155894	_
+2	cooking	cook	_	VBG	_	0	ROOT	_	_
+3	with	with	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	5	NMOD	155897	_
+5	pan	pan	_	NN	_	3	PMOD	155897	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	155895	_
+8	commercial	commercial	_	JJ	_	9	NMOD	155895	_
+9	kitchen	kitchen	_	NN	_	6	PMOD	155895	_
+10	.	.	_	.	_	0	ROOT	_	_

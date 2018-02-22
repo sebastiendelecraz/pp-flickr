@@ -1,0 +1,14 @@
+1	Outdoors	Outdoors	_	NNP	_	8	DEP	60344	_
+2	in	in	_	IN	_	8	LOC	_	_
+3	a	a	_	DT	_	4	NMOD	60341	_
+4	park	park	_	NN	_	2	PMOD	60341	_
+5	,	,	_	,	_	8	P	_	_
+6	eight	eight	_	CD	_	7	NMOD	60339	_
+7	people	people	_	NN	_	8	SBJ	60339	_
+8	stand	stand	_	VBP	_	0	ROOT	_	_
+9	close to	close to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	13	NMOD	60340	_
+11	cluttered	clutter	_	VBN	_	13	NMOD	60340	_
+12	picnic	picnic	_	NN	_	13	NMOD	60340	_
+13	table	table	_	NN	_	9	PMOD	60340	_
+14	.	.	_	.	_	8	P	_	_

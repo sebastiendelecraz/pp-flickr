@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	3	NMOD	181143	_
+2	marathon	marathon	_	NN	_	3	NMOD	181143	_
+3	runner	runner	_	NN	_	0	ROOT	181143	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	181139	_
+6	dinosaur	dinosaur	_	NN	_	4	PMOD	181139	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	181146	_
+9	middle	middle	_	NN	_	7	PMOD	181146	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	161805	_
+2	guy	guy	_	NN	_	0	ROOT	161805	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	161808	_
+5	yellow	yellow	_	JJ	_	6	NMOD	161808	_
+6	outfit	outfit	_	NN	_	3	PMOD	161808	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	standing	stand	_	VBG	_	7	PMOD	_	_
+9	behind	behind	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	161806	_
+11	microphone	microphone	_	NN	_	9	PMOD	161806	_
+12	under	under	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	14	NMOD	161805	_
+14	tent	tent	_	NN	_	12	PMOD	161805	_
+15	.	.	_	.	_	0	ROOT	_	_

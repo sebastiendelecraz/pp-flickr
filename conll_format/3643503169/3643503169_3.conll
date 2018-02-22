@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	133699	_
+2	lady	lady	_	NN	_	3	SBJ	133699	_
+3	naps	nap	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	133700	_
+6	child	child	_	NN	_	4	PMOD	133700	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	11	NMOD	133701	_
+9	sandy	sandy	_	JJ	_	11	NMOD	133701	_
+10	beach	beach	_	NN	_	11	NMOD	133701	_
+11	area	area	_	NN	_	7	PMOD	133701	_
+12	.	.	_	.	_	3	P	_	_

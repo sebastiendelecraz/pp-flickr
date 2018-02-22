@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	7068	_
+2	man	man	_	NN	_	3	SBJ	7068	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	along	along	_	RP	_	3	PRT	_	_
+5	a	a	_	DT	_	7	NMOD	7070	_
+6	crowded	crowd	_	VBN	_	7	NMOD	7070	_
+7	beach	beach	_	NN	_	3	OBJ	7070	_
+8	searching	search	_	VBG	_	7	APPO	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	items	item	_	NNS	_	9	PMOD	7074	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	a	a	_	DT	_	14	NMOD	7069	_
+13	metal	metal	_	NN	_	14	NMOD	7069	_
+14	detector	detector	_	NN	_	11	PMOD	7069	_
+15	.	.	_	.	_	3	P	_	_

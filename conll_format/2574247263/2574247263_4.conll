@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	3	NMOD	59034	_
+2	older	old	_	JJR	_	3	NMOD	59034	_
+3	man	man	_	NN	_	7	SBJ	59034	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	blue	blue	_	JJ	_	6	NMOD	59035	_
+6	pants	pant	_	NNS	_	4	PMOD	59035	_
+7	is	be	_	VBZ	_	15	OBJ	_	_
+8	sitting	sit	_	VBG	_	7	VC	_	_
+9	across	across	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	59039	_
+11	bench	bench	_	NN	_	9	PMOD	59039	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	his	his	_	PRP$	_	14	NMOD	59043	_
+14	eyes	eye	_	NNS	_	12	PMOD	59043	_
+15	closed	close	_	VBD	_	0	ROOT	_	_
+16	.	.	_	.	_	15	P	_	_

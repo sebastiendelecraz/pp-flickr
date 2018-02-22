@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	107692	_
+2	person	person	_	NN	_	0	ROOT	107692	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	107693	_
+5	green	green	_	JJ	_	6	NMOD	107693	_
+6	shirt	shirt	_	NN	_	3	PMOD	107693	_
+7	jumping	jump	_	VBG	_	6	APPO	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	107694	_
+10	lawn	lawn	_	NN	_	8	PMOD	107694	_
+11	near	near	_	IN	_	10	LOC	_	7
+12	several	several	_	DT	_	14	NMOD	107696	_
+13	other	other	_	JJ	_	14	NMOD	107696	_
+14	crowds	crowd	_	NNS	_	11	PMOD	107696	_
+15	of	of	_	IN	_	14	NMOD	107696	_
+16	people	people	_	NN	_	15	PMOD	107696	_
+17	.	.	_	.	_	0	ROOT	_	_

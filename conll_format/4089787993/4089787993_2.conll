@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	154914	_
+2	woman	woman	_	NN	_	3	SBJ	154914	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	0	ROOT	_	_
+5	a	a	_	DT	_	0	ROOT	154920	_
+6	caged	cage	_	VBN	_	0	ROOT	154920	_
+7	in	in	_	IN	_	6	ADV	_	_
+8	area	area	_	NN	_	7	PMOD	154916	_
+9	with	with	_	IN	_	8	NMOD	_	3
+10	a	a	_	DT	_	11	NMOD	154913	_
+11	cat	cat	_	NN	_	9	PMOD	154913	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	two	two	_	CD	_	14	NMOD	154917	_
+14	bunnies	bunny	_	NNS	_	12	CONJ	154917	_
+15	.	.	_	.	_	0	ROOT	_	_

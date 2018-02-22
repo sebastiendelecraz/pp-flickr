@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	258355	_
+2	little	little	_	JJ	_	3	NMOD	258355	_
+3	girls	girl	_	NNS	_	4	SBJ	258355	_
+4	pose	pose	_	VBP	_	0	ROOT	_	_
+5	smiling	smile	_	VBG	_	4	OPRD	_	_
+6	in	in	_	IN	_	5	LOC	_	4
+7	a	a	_	DT	_	8	NMOD	258356	_
+8	bath	bath	_	NN	_	6	PMOD	258356	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	soap	soap	_	NN	_	9	PMOD	258359	_
+11	on	on	_	IN	_	8	LOC	_	_
+12	their	their	_	PRP$	_	13	NMOD	258357	_
+13	faces	face	_	NNS	_	11	PMOD	258357	_
+14	.	.	_	.	_	4	P	_	_

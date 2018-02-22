@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	136412	_
+2	player	player	_	NN	_	8	SBJ	136412	_
+3	on	on	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	7	NMOD	136418	_
+5	Boston	Boston	_	NNP	_	7	NAME	136418	_
+6	Red	Red	_	NNP	_	7	NAME	136418	_
+7	Sox	Sox	_	NNP	_	3	PMOD	136418	_
+8	prepares	prepare	_	VBZ	_	0	ROOT	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	136416	_
+11	pitch	pitch	_	NN	_	9	PMOD	136416	_
+12	during	during	_	IN	_	8	TMP	_	8
+13	a	a	_	DT	_	14	NMOD	136414	_
+14	game	game	_	NN	_	12	PMOD	136414	_
+15	.	.	_	.	_	8	P	_	_

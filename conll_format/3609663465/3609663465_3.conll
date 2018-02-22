@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	131381	_
+2	view	view	_	NN	_	0	ROOT	131381	_
+3	through	through	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	131376	_
+5	doorway	doorway	_	NN	_	3	PMOD	131376	_
+6	of	of	_	IN	_	5	NMOD	131376	_
+7	a	a	_	DT	_	8	NMOD	131376	_
+8	man	man	_	NN	_	6	PMOD	131376	_
+9	shoveling	shovel	_	VBG	_	8	APPO	_	_
+10	dirt	dirt	_	NN	_	9	OBJ	131380	_
+11	into	into	_	IN	_	9	ADV	_	9
+12	a	a	_	DT	_	13	NMOD	131379	_
+13	wheelbarrow	wheelbarrow	_	NN	_	11	PMOD	131379	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	People	People	_	NNPS	_	2	NAME	31134	_
+2	looking	look	_	VBG	_	0	ROOT	_	_
+3	at	at	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	31136	_
+5	birthday	birthday	_	NN	_	6	NMOD	31136	_
+6	cake	cake	_	NN	_	3	PMOD	31136	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	candles	candle	_	NNS	_	7	PMOD	31137	_
+9	lit	lit	_	JJ	_	6	APPO	_	_
+10	trying	try	_	VBG	_	9	AMOD	_	_
+11	to	to	_	TO	_	10	OPRD	_	_
+12	blow	blow	_	VB	_	11	IM	_	_
+13	them	them	_	PRP	_	12	OBJ	0	_
+14	out	out	_	RP	_	12	PRT	_	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,9 @@
+1	Family	Family	_	NNP	_	2	SBJ	5393	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	5391	_
+5	bench	bench	_	NN	_	3	PMOD	5391	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	the	the	_	DT	_	8	NMOD	5392	_
+8	beach	beach	_	NN	_	6	PMOD	5392	_
+9	.	.	_	.	_	0	ROOT	_	_

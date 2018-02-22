@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	256078	_
+2	band	band	_	NN	_	0	ROOT	256078	_
+3	that	that	_	WDT	_	4	SBJ	0	_
+4	is	be	_	VBZ	_	2	NMOD	_	_
+5	performing	perform	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	stage	stage	_	NN	_	6	PMOD	256083	_
+8	for	for	_	IN	_	7	NMOD	_	5
+9	a	a	_	DT	_	10	NMOD	256081	_
+10	crowd	crowd	_	NN	_	8	PMOD	256081	_
+11	.	.	_	.	_	0	ROOT	_	_

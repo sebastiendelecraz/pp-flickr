@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	81794	_
+2	crowd	crowd	_	NN	_	3	SBJ	81794	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	81801	_
+6	wide	wide	_	JJ	_	7	NMOD	81801	_
+7	track	track	_	NN	_	4	PMOD	81801	_
+8	for	for	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	10	NMOD	81803	_
+10	race	race	_	NN	_	8	PMOD	81803	_
+11	.	.	_	.	_	3	P	_	_

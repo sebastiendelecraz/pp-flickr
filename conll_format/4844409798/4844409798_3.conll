@@ -1,0 +1,14 @@
+1	Man	Man	_	NNP	_	0	ROOT	209861	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	red	red	_	JJ	_	4	NMOD	209862	_
+4	shirt	shirt	_	NN	_	2	PMOD	209862	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	blue	blue	_	JJ	_	7	NMOD	209866	_
+7	jeans	jean	_	NNS	_	5	CONJ	209866	_
+8	walking	walk	_	VBG	_	0	ROOT	_	_
+9	with	with	_	IN	_	8	ADV	_	_
+10	child	child	_	NN	_	9	PMOD	209860	_
+11	in the middle of	in the middle of	_	IN	_	8	ADV	209870	8
+12	a	a	_	DT	_	13	NMOD	209870	_
+13	street	street	_	NN	_	11	PMOD	209870	_
+14	.	.	_	.	_	0	ROOT	_	_

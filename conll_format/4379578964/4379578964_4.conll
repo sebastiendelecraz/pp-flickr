@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	165599	_
+2	woman	woman	_	NN	_	7	SBJ	165599	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	165600	_
+5	black	black	_	JJ	_	6	NMOD	165600	_
+6	shirt	shirt	_	NN	_	3	PMOD	165600	_
+7	has	have	_	VBZ	_	0	ROOT	_	_
+8	her	her	_	PRP$	_	9	NMOD	165602	_
+9	arm	arm	_	NN	_	7	OBJ	165602	_
+10	around	around	_	IN	_	7	LOC	_	7
+11	a	a	_	DT	_	12	NMOD	165596	_
+12	woman	woman	_	NN	_	10	PMOD	165596	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	165601	_
+15	red	red	_	JJ	_	16	NMOD	165601	_
+16	shirt	shirt	_	NN	_	13	PMOD	165601	_
+17	.	.	_	.	_	7	P	_	_

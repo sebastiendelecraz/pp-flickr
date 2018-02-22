@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	98150	_
+2	young	young	_	JJ	_	3	NMOD	98150	_
+3	boy	boy	_	NN	_	0	ROOT	98150	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	98152	_
+6	blue	blue	_	JJ	_	7	NMOD	98152	_
+7	cap	cap	_	NN	_	4	PMOD	98152	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	red	red	_	JJ	_	10	NMOD	98153	_
+10	stripes	stripe	_	NNS	_	8	PMOD	98153	_
+11	sitting	sit	_	VBG	_	10	APPO	_	_
+12	on	on	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	98154	_
+14	concrete	concrete	_	JJ	_	15	NMOD	98154	_
+15	ledge	ledge	_	NN	_	12	PMOD	98154	_
+16	.	.	_	.	_	0	ROOT	_	_

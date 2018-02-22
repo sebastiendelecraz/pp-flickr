@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	260069	_
+2	man	man	_	NN	_	8	NMOD	260069	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	7	NMOD	260071	_
+5	yellow	yellow	_	JJ	_	7	NMOD	260071	_
+6	hard	hard	_	JJ	_	7	NMOD	260071	_
+7	hat	hat	_	NN	_	3	PMOD	260071	_
+8	on	on	_	IN	_	9	SBJ	_	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	working	work	_	VBG	_	9	VC	_	_
+11	above	above	_	IN	_	10	LOC	_	10
+12	some	some	_	DT	_	13	NMOD	260073	_
+13	water	water	_	NN	_	11	PMOD	260073	_
+14	.	.	_	.	_	9	P	_	_

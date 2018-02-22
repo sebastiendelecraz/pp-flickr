@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	200321	_
+2	family	family	_	NN	_	3	SBJ	200321	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	preparing	prepare	_	VBG	_	3	VC	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	200324	_
+7	barbecue	barbecue	_	NN	_	5	PMOD	200324	_
+8	on	on	_	IN	_	4	ADV	_	_
+9	their	their	_	PRP$	_	10	NMOD	200325	_
+10	deck	deck	_	NN	_	8	PMOD	200325	_
+11	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	230737	_
+2	being	be	_	VBG	_	0	ROOT	_	_
+3	pulled	pull	_	VBN	_	2	VC	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	230738	_
+6	boat	boat	_	NN	_	4	PMOD	230738	_
+7	on	on	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	10	NMOD	230740	_
+9	yellow	yellow	_	JJ	_	10	NMOD	230740	_
+10	tube	tube	_	NN	_	7	PMOD	230740	_
+11	across	across	_	IN	_	3	LOC	_	3
+12	the	the	_	DT	_	13	NMOD	230739	_
+13	lake	lake	_	NN	_	11	PMOD	230739	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	Kids	kid	_	NNS	_	4	SBJ	23340	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	adults	adult	_	NNS	_	2	CONJ	23342	_
+4	playing	play	_	VBG	_	0	ROOT	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	shallow	shallow	_	NN	_	7	NMOD	23341	_
+7	water	water	_	NN	_	5	PMOD	23341	_
+8	in	in	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	23348	_
+10	city	city	_	NN	_	8	PMOD	23348	_
+11	.	.	_	.	_	0	ROOT	_	_

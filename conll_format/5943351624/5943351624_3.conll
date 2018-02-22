@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	245803	_
+2	jockey	jockey	_	NN	_	4	AMOD	245803	_
+3	in	in	_	IN	_	4	AMOD	_	_
+4	blue	blue	_	JJ	_	9	SBJ	245807	_
+5	on	on	_	IN	_	9	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	245806	_
+7	race	race	_	NN	_	8	NMOD	245806	_
+8	horse	horse	_	NN	_	5	PMOD	245806	_
+9	trails	trail	_	VBZ	_	0	ROOT	_	_
+10	behind	behind	_	IN	_	9	LOC	_	9
+11	the	the	_	DT	_	12	NMOD	245811	_
+12	jockey	jockey	_	NN	_	10	PMOD	245811	_
+13	in	in	_	IN	_	14	AMOD	_	_
+14	orange	orange	_	JJ	_	9	OPRD	245814	_
+15	.	.	_	.	_	9	P	_	_

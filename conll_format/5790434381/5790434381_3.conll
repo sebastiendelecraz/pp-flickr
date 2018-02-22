@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	243069	_
+2	truck	truck	_	NN	_	9	NMOD	243069	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	243072	_
+5	crane	crane	_	NN	_	3	PMOD	243072	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	3	3	_	CD	_	8	NMOD	243070	_
+8	workers	worker	_	NNS	_	6	CONJ	243070	_
+9	on	on	_	IN	_	11	SBJ	_	_
+10	it	it	_	PRP	_	9	PMOD	0	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	in front of	in front of	_	IN	_	11	PRD	_	11
+13	a	a	_	DT	_	15	NMOD	243071	_
+14	construction	construction	_	NN	_	15	NMOD	243071	_
+15	project	project	_	NN	_	12	PMOD	243071	_
+16	that	that	_	WDT	_	17	SBJ	0	_
+17	has	have	_	VBZ	_	15	NMOD	_	_
+18	a	a	_	DT	_	20	NMOD	243073	_
+19	green	green	_	JJ	_	20	NMOD	243073	_
+20	covering	covering	_	NN	_	17	OBJ	243073	_
+21	.	.	_	.	_	11	P	_	_

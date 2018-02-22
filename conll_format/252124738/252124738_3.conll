@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	54912	_
+2	woman	woman	_	NN	_	5	SBJ	54912	_
+3	in	in	_	IN	_	2	LOC	54913	_
+4	yellow	yellow	_	JJ	_	3	PMOD	54913	_
+5	sitting	sit	_	VBG	_	0	ROOT	_	_
+6	next to	next to	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	54907	_
+8	man	man	_	NN	_	6	PMOD	54907	_
+9	with	with	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	54910	_
+11	cob	cob	_	NN	_	9	PMOD	54910	_
+12	of	of	_	IN	_	11	NMOD	54910	_
+13	corn	corn	_	NN	_	12	PMOD	54910	_
+14	.	.	_	.	_	0	ROOT	_	_

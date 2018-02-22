@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	41707	_
+2	man	man	_	NN	_	3	SBJ	41707	_
+3	speaking	speak	_	VBG	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	41709	_
+6	microphone	microphone	_	NN	_	4	PMOD	41709	_
+7	by	by	_	IN	_	3	MNR	_	3
+8	a	a	_	DT	_	10	NMOD	41711	_
+9	drink	drink	_	NN	_	10	NMOD	41711	_
+10	banner	banner	_	NN	_	7	PMOD	41711	_
+11	.	.	_	.	_	0	ROOT	_	_

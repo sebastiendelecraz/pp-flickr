@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	197064	_
+2	man	man	_	NN	_	3	SBJ	197064	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	an	an	_	DT	_	9	NMOD	197070	_
+5	elaborate	elaborate	_	JJ	_	9	NMOD	197070	_
+6	hat	hat	_	NN	_	9	NMOD	197070	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	costume	costume	_	NN	_	7	CONJ	197073	_
+9	sits	sit	_	NNS	_	3	OBJ	_	_
+10	on	on	_	IN	_	3	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	197065	_
+12	bench	bench	_	NN	_	10	PMOD	197065	_
+13	next to	next to	_	IN	_	3	TMP	_	9
+14	his	his	_	PRP$	_	15	NMOD	197066	_
+15	luggage	luggage	_	NN	_	13	PMOD	197066	_
+16	.	.	_	.	_	0	ROOT	_	_

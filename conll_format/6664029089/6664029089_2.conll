@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	256671	_
+2	man	man	_	NN	_	16	SBJ	256671	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	black	black	_	JJ	_	5	NMOD	256679	_
+5	oxfords	oxford	_	NNS	_	3	PMOD	256679	_
+6	,	,	_	,	_	5	P	_	_
+7	jeans	jean	_	NNS	_	5	COORD	256674	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	a	a	_	DT	_	11	NMOD	256677	_
+10	layered	layer	_	VBN	_	11	NMOD	256677	_
+11	green	green	_	JJ	_	8	CONJ	256677	_
+12	over	over	_	IN	_	11	NMOD	_	_
+13	black	black	_	JJ	_	14	NMOD	256673	_
+14	shirt	shirt	_	NN	_	12	PMOD	256673	_
+15	,	,	_	,	_	2	P	_	_
+16	jumps	jump	_	VBZ	_	0	ROOT	_	_
+17	in front of	in front of	_	IN	_	16	ADV	_	_
+18	a	a	_	DT	_	19	NMOD	256678	_
+19	run	run	_	NN	_	17	PMOD	256678	_
+20	down	down	_	IN	_	19	NMOD	_	19
+21	industrial	industrial	_	JJ	_	22	NMOD	256683	_
+22	building	building	_	NN	_	20	PMOD	256683	_
+23	.	.	_	.	_	16	P	_	_

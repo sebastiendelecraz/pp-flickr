@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	88708	_
+2	little	little	_	JJ	_	3	NMOD	88708	_
+3	girl	girl	_	NN	_	0	ROOT	88708	_
+4	playing	play	_	VBG	_	3	APPO	_	_
+5	piggyback	piggyback	_	NN	_	4	OBJ	88715	_
+6	with	with	_	IN	_	4	ADV	_	_
+7	her	her	_	PRP$	_	8	NMOD	88709	_
+8	father	father	_	NN	_	6	PMOD	88709	_
+9	on	on	_	IN	_	4	LOC	_	4
+10	a	a	_	DT	_	11	NMOD	88710	_
+11	blanket	blanket	_	NN	_	9	PMOD	88710	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	88713	_
+14	park	park	_	NN	_	12	PMOD	88713	_
+15	.	.	_	.	_	0	ROOT	_	_

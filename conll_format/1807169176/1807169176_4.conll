@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	SBJ	21087	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	clustered	cluster	_	VBN	_	2	VC	_	_
+4	around	around	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	21088	_
+6	bonfire	bonfire	_	NN	_	4	PMOD	21088	_
+7	at	at	_	IN	_	3	ADV	_	_
+8	night	night	_	NN	_	7	PMOD	21089	_
+9	.	.	_	.	_	2	P	_	_

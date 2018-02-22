@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	2	NMOD	13487	_
+2	dogs	dog	_	NNS	_	3	SBJ	13487	_
+3	fight	fight	_	VBP	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	8	NMOD	13483	_
+6	green	green	_	JJ	_	8	NMOD	13483	_
+7	chew	chew	_	NN	_	8	NMOD	13483	_
+8	toy	toy	_	NN	_	4	PMOD	13483	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	12	NMOD	13488	_
+11	stone	stone	_	NN	_	12	NMOD	13488	_
+12	walkway	walkway	_	NN	_	9	PMOD	13488	_
+13	.	.	_	.	_	3	P	_	_

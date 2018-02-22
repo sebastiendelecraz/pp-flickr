@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	177671	_
+2	group	group	_	NN	_	0	ROOT	177671	_
+3	of	of	_	IN	_	2	NMOD	177671	_
+4	people	people	_	NN	_	3	PMOD	177671	_
+5	gathered	gather	_	VBN	_	4	APPO	_	_
+6	together	together	_	RB	_	5	ADV	_	_
+7	at	at	_	IN	_	5	ADV	_	_
+8	night	night	_	NN	_	7	PMOD	177677	_
+9	outside	outside	_	IN	_	8	LOC	_	5
+10	a	a	_	DT	_	12	NMOD	177676	_
+11	brick	brick	_	NN	_	12	NMOD	177676	_
+12	building	building	_	NN	_	9	PMOD	177676	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	2	NMOD	4435	_
+2	man	man	_	NN	_	3	SBJ	4435	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	4437	_
+6	bar	bar	_	NN	_	4	PMOD	4437	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	11	NMOD	4438	_
+9	neon	neon	_	NN	_	10	NMOD	4438	_
+10	beer	beer	_	NN	_	11	NMOD	4438	_
+11	sign	sign	_	NN	_	7	PMOD	4438	_
+12	hanging	hang	_	VBG	_	11	APPO	_	_
+13	on	on	_	IN	_	12	ADV	_	_
+14	the	the	_	DT	_	15	NMOD	4440	_
+15	wall	wall	_	NN	_	13	PMOD	4440	_
+16	.	.	_	.	_	0	ROOT	_	_

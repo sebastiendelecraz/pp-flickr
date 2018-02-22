@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	3191	_
+2	man	man	_	NN	_	3	SBJ	3191	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	beside	beside	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	3192	_
+6	back	back	_	NN	_	4	PMOD	3192	_
+7	of	of	_	IN	_	6	NMOD	3192	_
+8	a	a	_	DT	_	10	NMOD	3192	_
+9	nude	nude	_	JJ	_	10	NMOD	3192	_
+10	statue	statue	_	NN	_	7	PMOD	3192	_
+11	.	.	_	.	_	0	ROOT	_	_

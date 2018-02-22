@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	230787	_
+2	man	man	_	NN	_	0	ROOT	230787	_
+3	ascending	ascend	_	VBG	_	2	APPO	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	230789	_
+6	tall	tall	_	JJ	_	7	NMOD	230789	_
+7	rock	rock	_	NN	_	4	PMOD	230789	_
+8	by	by	_	IN	_	3	MNR	_	3
+9	a	a	_	DT	_	10	NMOD	230790	_
+10	harness	harness	_	NN	_	8	PMOD	230790	_
+11	.	.	_	.	_	0	ROOT	_	_

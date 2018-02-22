@@ -1,0 +1,17 @@
+1	White-haired	White-haired	_	NNP	_	2	NMOD	4186	_
+2	man	man	_	NN	_	0	ROOT	4186	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	gray	gray	_	JJ	_	5	NMOD	4190	_
+5	sweater	sweater	_	NN	_	3	PMOD	4190	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	9	NMOD	4188	_
+8	straw	straw	_	NN	_	9	NMOD	4188	_
+9	hat	hat	_	NN	_	6	CONJ	4188	_
+10	sitting	sit	_	VBG	_	9	APPO	_	_
+11	on	on	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	4187	_
+13	bench	bench	_	NN	_	11	PMOD	4187	_
+14	under	under	_	IN	_	10	LOC	_	10
+15	a	a	_	DT	_	16	NMOD	4189	_
+16	tree	tree	_	NN	_	14	PMOD	4189	_
+17	.	.	_	.	_	0	ROOT	_	_

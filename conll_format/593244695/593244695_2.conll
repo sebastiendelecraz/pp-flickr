@@ -1,0 +1,10 @@
+1	a	a	_	DT	_	2	NMOD	245672	_
+2	man	man	_	NN	_	0	ROOT	245672	_
+3	at the bottom of	at the bottom of	_	IN	_	2	NMOD	245674	2
+4	a	a	_	DT	_	6	NMOD	245674	_
+5	concrete	concrete	_	JJ	_	6	NMOD	245674	_
+6	hole	hole	_	NN	_	3	PMOD	245674	_
+7	with	with	_	IN	_	2	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	245675	_
+9	rope	rope	_	NN	_	7	PMOD	245675	_
+10	.	.	_	.	_	0	ROOT	_	_

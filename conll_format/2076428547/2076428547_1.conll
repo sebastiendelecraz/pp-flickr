@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	27208	_
+2	man	man	_	NN	_	0	ROOT	27208	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	27215	_
+5	hiking	hike	_	VBG	_	6	NMOD	27215	_
+6	backpack	backpack	_	NN	_	3	PMOD	27215	_
+7	on	on	_	IN	_	2	NMOD	_	_
+8	is	be	_	VBZ	_	7	PMOD	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	in front of	in front of	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	27210	_
+12	lake	lake	_	NN	_	10	PMOD	27210	_
+13	with	with	_	IN	_	9	ADV	_	9
+14	a	a	_	DT	_	15	NMOD	27209	_
+15	forest	forest	_	NN	_	13	PMOD	27209	_
+16	in	in	_	IN	_	15	LOC	_	_
+17	the	the	_	DT	_	18	NMOD	0	_
+18	background	background	_	NN	_	16	PMOD	0	_
+19	.	.	_	.	_	0	ROOT	_	_

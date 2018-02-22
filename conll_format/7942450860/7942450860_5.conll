@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	276810	_
+2	mechanic	mechanic	_	JJ	_	3	DEP	276810	_
+3	for	for	_	IN	_	8	SBJ	_	2
+4	a	a	_	DT	_	7	NMOD	276815	_
+5	race	race	_	NN	_	7	NMOD	276815	_
+6	car	car	_	NN	_	7	NMOD	276815	_
+7	team	team	_	NN	_	3	PMOD	276815	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	working	work	_	VBG	_	8	VC	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	the	the	_	DT	_	12	NMOD	276812	_
+12	wheels	wheel	_	NNS	_	10	PMOD	276812	_
+13	of	of	_	IN	_	12	NMOD	276812	_
+14	a	a	_	DT	_	16	NMOD	276812	_
+15	race	race	_	NN	_	16	NMOD	276812	_
+16	car	car	_	NN	_	13	PMOD	276812	_
+17	.	.	_	.	_	8	P	_	_

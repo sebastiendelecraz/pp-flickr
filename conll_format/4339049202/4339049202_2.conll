@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	163973	_
+2	group	group	_	NN	_	0	ROOT	163973	_
+3	of	of	_	IN	_	2	NMOD	163973	_
+4	children	child	_	NNS	_	3	PMOD	163973	_
+5	standing	stand	_	VBG	_	4	APPO	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	163975	_
+8	statue	statue	_	NN	_	6	PMOD	163975	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	163974	_
+11	lobby	lobby	_	NN	_	9	PMOD	163974	_
+12	.	.	_	.	_	0	ROOT	_	_

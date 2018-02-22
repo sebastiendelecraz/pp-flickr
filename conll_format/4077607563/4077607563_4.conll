@@ -1,0 +1,12 @@
+1	SouthEast	SouthEast	_	NNP	_	2	NAME	154434	_
+2	Asian	Asian	_	NNP	_	3	NMOD	154434	_
+3	couple	couple	_	NN	_	4	SBJ	154434	_
+4	riding	ride	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	154435	_
+7	tractor	tractor	_	NN	_	5	PMOD	154435	_
+8	through	through	_	IN	_	4	MNR	_	4
+9	a	a	_	DT	_	11	NMOD	154438	_
+10	beach	beach	_	NN	_	11	NMOD	154438	_
+11	landscape	landscape	_	NN	_	8	PMOD	154438	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	Children	child	_	NNS	_	0	ROOT	41668	_
+2	with	with	_	IN	_	1	NMOD	_	_
+3	pastries	pastry	_	NNS	_	2	PMOD	41663	_
+4	posing	pose	_	VBG	_	3	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	41671	_
+7	picture	picture	_	NN	_	5	PMOD	41671	_
+8	for	for	_	IN	_	7	NMOD	_	4
+9	their	their	_	PRP$	_	10	NMOD	41672	_
+10	parents	parent	_	NNS	_	8	PMOD	41672	_
+11	.	.	_	.	_	0	ROOT	_	_

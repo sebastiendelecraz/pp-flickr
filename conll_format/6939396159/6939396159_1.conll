@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	6	NMOD	261970	_
+2	young	young	_	JJ	_	6	NMOD	261970	_
+3	boy	boy	_	NN	_	4	NMOD	261970	_
+4	juggling	juggling	_	NN	_	6	NMOD	_	_
+5	colorful	colorful	_	JJ	_	6	NMOD	261972	_
+6	balls	ball	_	NNS	_	0	ROOT	261972	_
+7	between	between	_	IN	_	6	NMOD	_	4
+8	cars	car	_	NNS	_	7	PMOD	261969	_
+9	in	in	_	IN	_	6	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	261971	_
+11	parking	parking	_	NN	_	12	NMOD	261971	_
+12	lot	lot	_	NN	_	9	PMOD	261971	_
+13	.	.	_	.	_	0	ROOT	_	_

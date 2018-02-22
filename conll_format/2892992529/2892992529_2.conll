@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	5	NMOD	79572	_
+2	black	black	_	JJ	_	5	NMOD	79572	_
+3	and	and	_	CC	_	2	COORD	79572	_
+4	white	white	_	JJ	_	3	CONJ	79572	_
+5	dog	dog	_	NN	_	0	ROOT	79572	_
+6	with	with	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	79573	_
+8	Frisbee	Frisbee	_	NNP	_	6	PMOD	79573	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	his	his	_	PRP$	_	11	NMOD	79575	_
+11	mouth	mouth	_	NN	_	9	PMOD	79575	_
+12	on	on	_	IN	_	11	NMOD	_	_
+13	his	his	_	PRP$	_	15	NMOD	79576	_
+14	hind	hind	_	JJ	_	15	NMOD	79576	_
+15	legs	leg	_	NNS	_	12	PMOD	79576	_
+16	.	.	_	.	_	0	ROOT	_	_

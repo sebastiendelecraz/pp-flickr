@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	251928	_
+2	squirrel	squirrel	_	NN	_	7	SBJ	251928	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	251934	_
+5	fluffy	fluffy	_	JJ	_	6	NMOD	251934	_
+6	tail	tail	_	NN	_	3	PMOD	251934	_
+7	sits	sit	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	251930	_
+10	tree	tree	_	NN	_	11	NMOD	251930	_
+11	branch	branch	_	NN	_	8	PMOD	251930	_
+12	among	among	_	IN	_	11	LOC	_	7
+13	yellow	yellow	_	JJ	_	14	NMOD	251931	_
+14	leaves	leaf	_	NNS	_	12	PMOD	251931	_
+15	.	.	_	.	_	7	P	_	_

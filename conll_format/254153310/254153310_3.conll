@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	56870	_
+2	group	group	_	NN	_	5	SBJ	56870	_
+3	of	of	_	IN	_	2	NMOD	56870	_
+4	people	people	_	NN	_	3	PMOD	56870	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	gathered	gather	_	VBN	_	5	VC	_	_
+7	near	near	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	56874	_
+9	pool	pool	_	NN	_	10	NMOD	56874	_
+10	table	table	_	NN	_	7	PMOD	56874	_
+11	in	in	_	IN	_	6	LOC	_	6
+12	a	a	_	DT	_	13	NMOD	56871	_
+13	basement	basement	_	NN	_	11	PMOD	56871	_
+14	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	129379	_
+2	young	young	_	JJ	_	3	NMOD	129379	_
+3	child	child	_	NN	_	4	SBJ	129379	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	swinging	swing	_	VBG	_	4	VC	_	_
+6	from	from	_	IN	_	5	ADV	_	5
+7	the	the	_	DT	_	9	NMOD	129382	_
+8	support	support	_	NN	_	9	NMOD	129382	_
+9	bar	bar	_	NN	_	6	PMOD	129382	_
+10	of	of	_	IN	_	9	NMOD	129382	_
+11	a	a	_	DT	_	12	NMOD	129382	_
+12	swing	swing	_	NN	_	10	PMOD	129382	_
+13	set	set	_	VBN	_	12	APPO	_	_
+14	.	.	_	.	_	4	P	_	_

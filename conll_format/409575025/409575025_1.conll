@@ -1,0 +1,14 @@
+1	Woman	Woman	_	NNP	_	3	NMOD	155293	_
+2	cupping	cup	_	VBG	_	3	NMOD	_	_
+3	water	water	_	NN	_	11	SBJ	155300	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	hands	hand	_	NNS	_	4	PMOD	155299	_
+6	over	over	_	IN	_	3	NMOD	_	5
+7	bathroom	bathroom	_	NN	_	8	NMOD	155294	_
+8	sink	sink	_	NN	_	6	PMOD	155294	_
+9	as	as	_	IN	_	3	NMOD	_	_
+10	child	child	_	NN	_	9	PMOD	155295	_
+11	stands	stand	_	VBZ	_	0	ROOT	_	_
+12	beside	beside	_	IN	_	0	ROOT	_	_
+13	her	her	_	PRP$	_	0	ROOT	0	_
+14	.	.	_	.	_	0	ROOT	_	_

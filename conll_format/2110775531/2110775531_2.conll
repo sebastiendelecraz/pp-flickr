@@ -1,0 +1,14 @@
+1	Colorfully	colorfully	_	RB	_	2	AMOD	29330	_
+2	dressed	dress	_	VBN	_	4	NMOD	29330	_
+3	female	female	_	JJ	_	4	NMOD	29330	_
+4	dancers	dancer	_	NNS	_	5	SBJ	29330	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	performing	perform	_	VBG	_	5	VC	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	stage	stage	_	NN	_	7	PMOD	29331	_
+9	with	with	_	IN	_	6	ADV	_	6
+10	a	a	_	DT	_	11	NMOD	29334	_
+11	background	background	_	NN	_	9	PMOD	29334	_
+12	of	of	_	IN	_	11	NMOD	29334	_
+13	stars	star	_	NNS	_	12	PMOD	29334	_
+14	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,17 @@
+1	Boys	Boys	_	NNP	_	2	SBJ	157773	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	sitting	sit	_	VBG	_	2	VC	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	standing	stand	_	VBG	_	4	CONJ	_	_
+6	near	near	_	IN	_	3	LOC	_	5
+7	water	water	_	NN	_	6	PMOD	157775	_
+8	and	and	_	CC	_	6	COORD	_	_
+9	in	in	_	IN	_	8	CONJ	_	_
+10	the	the	_	DT	_	11	NMOD	157775	_
+11	water	water	_	NN	_	9	PMOD	157775	_
+12	with	with	_	IN	_	3	ADV	_	5
+13	a	a	_	DT	_	16	NMOD	157774	_
+14	big	big	_	JJ	_	16	NMOD	157774	_
+15	bamboo	bamboo	_	JJ	_	16	NMOD	157774	_
+16	umbrella	umbrella	_	NN	_	12	PMOD	157774	_
+17	.	.	_	.	_	2	P	_	_

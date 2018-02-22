@@ -1,0 +1,9 @@
+1	Man	Man	_	NNP	_	0	ROOT	77746	_
+2	on	on	_	IN	_	0	ROOT	_	_
+3	bench	bench	_	NN	_	2	PMOD	77747	_
+4	sleeping	sleep	_	VBG	_	3	APPO	_	_
+5	under	under	_	IN	_	4	ADV	_	4
+6	umbrella	umbrella	_	NN	_	5	PMOD	77748	_
+7	for	for	_	IN	_	6	NMOD	_	6
+8	shade	shade	_	NN	_	7	PMOD	77751	_
+9	.	.	_	.	_	0	ROOT	_	_

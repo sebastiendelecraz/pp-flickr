@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	175482	_
+2	man	man	_	NN	_	5	SBJ	175482	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	woman	woman	_	NN	_	3	CONJ	175486	_
+5	go	go	_	VBP	_	0	ROOT	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	175481	_
+8	walk	walk	_	NN	_	6	PMOD	175481	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	175480	_
+11	city	city	_	NN	_	9	PMOD	175480	_
+12	.	.	_	.	_	5	P	_	_

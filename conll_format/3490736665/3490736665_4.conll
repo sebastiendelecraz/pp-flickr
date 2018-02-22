@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	122184	_
+2	dog	dog	_	NN	_	3	SBJ	122184	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	his	his	_	PRP$	_	7	NMOD	122187	_
+6	hind	hind	_	JJ	_	7	NMOD	122187	_
+7	legs	leg	_	NNS	_	4	PMOD	122187	_
+8	amid	amid	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	122186	_
+10	shower	shower	_	NN	_	8	PMOD	122186	_
+11	of	of	_	IN	_	10	NMOD	122186	_
+12	tennis	tennis	_	NN	_	13	NMOD	122186	_
+13	balls	ball	_	NNS	_	11	PMOD	122186	_
+14	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	70609	_
+2	men	man	_	NNS	_	3	SBJ	70609	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC	_	_
+5	opposite	opposite	_	IN	_	4	PMOD	70611	_
+6	sides	side	_	NNS	_	5	PMOD	70611	_
+7	of	of	_	IN	_	6	NMOD	70611	_
+8	an	an	_	DT	_	9	NMOD	70611	_
+9	advertisement	advertisement	_	NN	_	7	PMOD	70611	_
+10	in	in	_	IN	_	9	LOC	_	3
+11	a	a	_	DT	_	13	NMOD	70613	_
+12	bus	bus	_	NN	_	13	NMOD	70613	_
+13	shelter	shelter	_	NN	_	10	PMOD	70613	_
+14	.	.	_	.	_	3	P	_	_

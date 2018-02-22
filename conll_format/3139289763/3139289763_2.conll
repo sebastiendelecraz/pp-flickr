@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	96125	_
+2	woman	woman	_	NN	_	0	ROOT	96125	_
+3	at	at	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	96128	_
+5	desk	desk	_	NN	_	3	PMOD	96128	_
+6	working	work	_	VBG	_	5	APPO	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	96129	_
+9	laptop	laptop	_	NN	_	7	PMOD	96129	_
+10	with	with	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	12	NMOD	96130	_
+12	binder	binder	_	NN	_	10	PMOD	96130	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	her	her	_	PRP$	_	15	NMOD	96135	_
+15	lap	lap	_	NN	_	13	PMOD	96135	_
+16	.	.	_	.	_	0	ROOT	_	_

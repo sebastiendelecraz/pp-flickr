@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	148277	_
+2	man	man	_	NN	_	0	ROOT	148277	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	148280	_
+5	red	red	_	JJ	_	7	NMOD	148280	_
+6	hooded	hood	_	VBN	_	7	NMOD	148280	_
+7	sweatshirt	sweatshirt	_	NN	_	3	PMOD	148280	_
+8	sitting	sit	_	VBG	_	7	APPO	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	148278	_
+11	backpack	backpack	_	NN	_	9	PMOD	148278	_
+12	on	on	_	IN	_	8	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	148279	_
+14	wooden	wooden	_	JJ	_	15	NMOD	148279	_
+15	bench	bench	_	NN	_	12	PMOD	148279	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	3	NMOD	239440	_
+2	young	young	_	JJ	_	3	NMOD	239440	_
+3	boy	boy	_	NN	_	9	SBJ	239440	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	dark	dark	_	JJ	_	6	NMOD	239443	_
+6	hair	hair	_	NN	_	4	PMOD	239443	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	skin	skin	_	NN	_	7	CONJ	239446	_
+9	leaning	lean	_	VBG	_	0	ROOT	_	_
+10	out of	out of	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	239441	_
+12	window	window	_	NN	_	10	PMOD	239441	_
+13	of	of	_	IN	_	12	NMOD	239441	_
+14	a	a	_	DT	_	16	NMOD	239441	_
+15	white	white	_	JJ	_	16	NMOD	239441	_
+16	bus	bus	_	NN	_	13	PMOD	239441	_
+17	with	with	_	IN	_	16	NMOD	_	_
+18	green	green	_	JJ	_	21	NMOD	239444	_
+19	and	and	_	CC	_	18	COORD	239444	_
+20	orange	orange	_	JJ	_	19	CONJ	239444	_
+21	stripes	stripe	_	NNS	_	17	PMOD	239444	_
+22	.	.	_	.	_	0	ROOT	_	_

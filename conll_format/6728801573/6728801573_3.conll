@@ -1,0 +1,12 @@
+1	Woman	Woman	_	NNP	_	4	NMOD	257247	_
+2	wearing	wear	_	VBG	_	4	NMOD	_	_
+3	brown	brown	_	NN	_	4	NMOD	257256	_
+4	shirt	shirt	_	NN	_	0	ROOT	257256	_
+5	working	work	_	VBG	_	4	APPO	_	_
+6	with	with	_	IN	_	5	ADV	_	_
+7	tools	tool	_	NNS	_	6	PMOD	257259	_
+8	on	on	_	IN	_	5	ADV	_	5
+9	a	a	_	DT	_	11	NMOD	257248	_
+10	bike	bike	_	NN	_	11	NMOD	257248	_
+11	frame	frame	_	NN	_	8	PMOD	257248	_
+12	.	.	_	.	_	0	ROOT	_	_

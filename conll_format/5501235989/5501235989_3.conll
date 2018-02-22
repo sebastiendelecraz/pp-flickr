@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	237633	_
+2	kid	kid	_	NN	_	3	SBJ	237633	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	raising	raise	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	7	NMOD	237637	_
+6	soccer	soccer	_	NN	_	7	NMOD	237637	_
+7	trophy	trophy	_	NN	_	4	OBJ	237637	_
+8	above	above	_	IN	_	4	LOC	_	4
+9	his	his	_	PRP$	_	10	NMOD	237638	_
+10	head	head	_	NN	_	8	PMOD	237638	_
+11	in	in	_	IN	_	4	TMP	_	_
+12	a	a	_	DT	_	13	NMOD	237635	_
+13	kitchen	kitchen	_	NN	_	11	PMOD	237635	_
+14	.	.	_	.	_	3	P	_	_

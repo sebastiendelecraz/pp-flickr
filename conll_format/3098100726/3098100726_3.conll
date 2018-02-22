@@ -1,0 +1,11 @@
+1	Lady	Lady	_	NNP	_	2	SBJ	93444	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	in front of	in front of	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	93448	_
+5	building	building	_	NN	_	3	PMOD	93448	_
+6	with	with	_	IN	_	2	ADV	_	2
+7	a	a	_	DT	_	10	NMOD	93446	_
+8	green	green	_	JJ	_	10	NMOD	93446	_
+9	construction	construction	_	NN	_	10	NMOD	93446	_
+10	hat	hat	_	NN	_	6	PMOD	93446	_
+11	.	.	_	.	_	0	ROOT	_	_

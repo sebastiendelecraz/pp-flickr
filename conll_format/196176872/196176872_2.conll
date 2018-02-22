@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	24142	_
+2	man	man	_	NN	_	0	ROOT	24142	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	24144	_
+5	motorcycle	motorcycle	_	NN	_	3	PMOD	24144	_
+6	with	with	_	IN	_	5	NMOD	_	2
+7	a	a	_	DT	_	8	NMOD	24143	_
+8	cigarette	cigarette	_	NN	_	6	PMOD	24143	_
+9	hanging	hang	_	VBG	_	8	APPO	_	_
+10	from	from	_	IN	_	9	DIR	_	9
+11	his	his	_	PRP$	_	12	NMOD	24145	_
+12	mouth	mouth	_	NN	_	10	PMOD	24145	_
+13	.	.	_	.	_	0	ROOT	_	_

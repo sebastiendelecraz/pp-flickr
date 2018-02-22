@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	96558	_
+2	man	man	_	NN	_	0	ROOT	96558	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	96559	_
+5	bicycle	bicycle	_	NN	_	3	PMOD	96559	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	96563	_
+8	man	man	_	NN	_	6	CONJ	96563	_
+9	on	on	_	IN	_	2	NMOD	_	_
+10	foot	foot	_	NN	_	9	PMOD	96566	_
+11	in	in	_	IN	_	2	LOC	_	8
+12	a	a	_	DT	_	13	NMOD	96560	_
+13	crosswalk	crosswalk	_	NN	_	11	PMOD	96560	_
+14	.	.	_	.	_	0	ROOT	_	_

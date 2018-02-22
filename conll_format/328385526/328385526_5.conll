@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	5	DEP	106835	_
+2	male	male	_	JJ	_	5	SBJ	106835	_
+3	and	and	_	CC	_	2	COORD	106835	_
+4	female	female	_	JJ	_	3	CONJ	106835	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	LOC-PRD	_	_
+7	a	a	_	DT	_	8	NMOD	106837	_
+8	table	table	_	NN	_	6	PMOD	106837	_
+9	with	with	_	IN	_	5	ADV	_	5
+10	a	a	_	DT	_	11	NMOD	106832	_
+11	drink	drink	_	NN	_	9	PMOD	106832	_
+12	.	.	_	.	_	5	P	_	_

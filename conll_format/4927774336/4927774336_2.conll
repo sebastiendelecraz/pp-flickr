@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	219156	_
+2	woman	woman	_	NN	_	3	SBJ	219156	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	outside	outside	_	IN	_	3	LOC	_	_
+5	in	in	_	IN	_	4	PMOD	_	_
+6	the	the	_	DT	_	7	NMOD	219157	_
+7	sun	sun	_	NN	_	5	PMOD	219157	_
+8	with	with	_	IN	_	3	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	219158	_
+10	jacket	jacket	_	NN	_	8	PMOD	219158	_
+11	over	over	_	IN	_	10	NMOD	_	10
+12	her	her	_	PRP$	_	13	NMOD	219160	_
+13	head	head	_	NN	_	11	PMOD	219160	_
+14	and	and	_	CC	_	10	COORD	_	_
+15	a	a	_	DT	_	17	NMOD	219159	_
+16	rainbow	rainbow	_	NN	_	17	NMOD	219159	_
+17	umbrella	umbrella	_	NN	_	14	CONJ	219159	_
+18	next to	next to	_	IN	_	0	ROOT	_	_
+19	her	her	_	PRP$	_	0	ROOT	0	_
+20	.	.	_	.	_	0	ROOT	_	_

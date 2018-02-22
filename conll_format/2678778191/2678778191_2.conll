@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	65697	_
+2	young	young	_	JJ	_	3	NMOD	65697	_
+3	man	man	_	NN	_	0	ROOT	65697	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	odd	odd	_	JJ	_	6	NMOD	65706	_
+6	clothes	clothes	_	NNS	_	4	PMOD	65706	_
+7	leaning	lean	_	VBG	_	6	APPO	_	_
+8	against	against	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	65698	_
+10	brick	brick	_	NN	_	11	NMOD	65698	_
+11	wall	wall	_	NN	_	8	PMOD	65698	_
+12	with	with	_	IN	_	11	NMOD	_	11
+13	a	a	_	DT	_	14	NMOD	65702	_
+14	garden	garden	_	NN	_	12	PMOD	65702	_
+15	in	in	_	IN	_	11	LOC	_	_
+16	it	it	_	PRP	_	15	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

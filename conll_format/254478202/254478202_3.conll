@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	57167	_
+2	group	group	_	NN	_	0	ROOT	57167	_
+3	of	of	_	IN	_	2	NMOD	57167	_
+4	people	people	_	NN	_	3	PMOD	57167	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	57169	_
+8	table	table	_	NN	_	6	PMOD	57169	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	drinks	drink	_	NNS	_	9	PMOD	57173	_
+11	.	.	_	.	_	0	ROOT	_	_

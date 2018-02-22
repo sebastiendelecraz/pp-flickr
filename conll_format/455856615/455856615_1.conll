@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	2	NMOD	178392	_
+2	feet	foot	_	NNS	_	0	ROOT	178392	_
+3	of	of	_	IN	_	2	NMOD	178392	_
+4	a	a	_	DT	_	5	NMOD	178392	_
+5	skier	skier	_	NN	_	3	PMOD	178392	_
+6	with	with	_	IN	_	2	NMOD	_	_
+7	one	one	_	CD	_	8	NMOD	178396	_
+8	boot	boot	_	NN	_	6	PMOD	178396	_
+9	coming	come	_	VBG	_	8	APPO	_	_
+10	out of	out of	_	IN	_	9	DIR	_	9
+11	the	the	_	DT	_	12	NMOD	178393	_
+12	ski	ski	_	NN	_	10	PMOD	178393	_
+13	and	and	_	CC	_	9	COORD	_	_
+14	casting	cast	_	VBG	_	13	CONJ	_	_
+15	a	a	_	DT	_	16	NMOD	178395	_
+16	shadow	shadow	_	NN	_	14	OBJ	178395	_
+17	.	.	_	.	_	0	ROOT	_	_

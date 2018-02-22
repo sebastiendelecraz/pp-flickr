@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	139352	_
+2	group	group	_	NN	_	5	SBJ	139352	_
+3	of	of	_	IN	_	2	NMOD	139352	_
+4	girls	girl	_	NNS	_	3	PMOD	139352	_
+5	walking	walk	_	VBG	_	0	ROOT	_	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	talking	talk	_	VBG	_	6	CONJ	_	_
+8	along	along	_	IN	_	5	LOC	_	7
+9	the	the	_	DT	_	10	NMOD	139353	_
+10	beach	beach	_	NN	_	8	PMOD	139353	_
+11	with	with	_	IN	_	5	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	139354	_
+13	building	building	_	NN	_	11	PMOD	139354	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	background	background	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

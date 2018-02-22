@@ -1,0 +1,11 @@
+1	Blue	Blue	_	NNP	_	2	NMOD	195137	_
+2	sky	sky	_	NN	_	0	ROOT	195137	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	fluffy	fluffy	_	JJ	_	6	NMOD	195142	_
+5	white	white	_	JJ	_	6	NMOD	195142	_
+6	clouds	cloud	_	NNS	_	3	PMOD	195142	_
+7	over	over	_	IN	_	2	NMOD	_	2
+8	a	a	_	DT	_	10	NMOD	195134	_
+9	brick	brick	_	NN	_	10	NMOD	195134	_
+10	building	building	_	NN	_	7	PMOD	195134	_
+11	.	.	_	.	_	0	ROOT	_	_

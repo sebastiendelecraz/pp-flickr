@@ -1,0 +1,9 @@
+1	Diners	diner	_	NNS	_	0	ROOT	32547	_
+2	at	at	_	IN	_	1	LOC	_	_
+3	a	a	_	DT	_	5	NMOD	32543	_
+4	restaurant	restaurant	_	NN	_	5	NMOD	32543	_
+5	pose	pose	_	NN	_	2	PMOD	_	_
+6	for	for	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	32549	_
+8	photo	photo	_	NN	_	6	PMOD	32549	_
+9	.	.	_	.	_	0	ROOT	_	_

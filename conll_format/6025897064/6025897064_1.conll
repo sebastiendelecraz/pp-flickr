@@ -1,0 +1,13 @@
+1	a	a	_	DT	_	2	NMOD	246723	_
+2	guitarist	guitarist	_	NN	_	0	ROOT	246723	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	246726	_
+5	black	black	_	JJ	_	6	NMOD	246726	_
+6	shirt	shirt	_	NN	_	3	PMOD	246726	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	stage	stage	_	NN	_	10	NMOD	246725	_
+9	playing	playing	_	NN	_	10	NMOD	_	_
+10	guitar	guitar	_	NN	_	7	PMOD	246724	_
+11	and	and	_	CC	_	6	COORD	_	_
+12	singing	sing	_	VBG	_	11	CONJ	_	_
+13	.	.	_	.	_	0	ROOT	_	_

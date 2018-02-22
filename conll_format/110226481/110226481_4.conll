@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	2577	_
+2	man	man	_	NN	_	3	SBJ	2577	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	4	PMOD	2579	_
+6	under	under	_	IN	_	3	LOC	2579	3
+7	the	the	_	DT	_	8	NMOD	2578	_
+8	hood	hood	_	NN	_	6	PMOD	2578	_
+9	of	of	_	IN	_	8	NMOD	2578	8
+10	a	a	_	DT	_	12	NMOD	2578	_
+11	blue	blue	_	JJ	_	12	NMOD	2578	_
+12	truck	truck	_	NN	_	9	PMOD	2578	_
+13	.	.	_	.	_	3	P	_	_

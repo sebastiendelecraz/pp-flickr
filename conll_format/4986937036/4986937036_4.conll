@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	226287	_
+2	girls	girl	_	NNS	_	11	SBJ	226287	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	226288	_
+5	bed	bed	_	NN	_	3	PMOD	226288	_
+6	of	of	_	IN	_	5	NMOD	226288	_
+7	flowers	flower	_	NNS	_	6	PMOD	226288	_
+8	with	with	_	IN	_	2	NMOD	_	_
+9	their	their	_	PRP$	_	10	NMOD	226289	_
+10	arms	arm	_	NNS	_	8	PMOD	226289	_
+11	stretched	stretch	_	VBN	_	0	ROOT	_	_
+12	out	out	_	RP	_	11	PRT	_	_
+13	.	.	_	.	_	11	P	_	_

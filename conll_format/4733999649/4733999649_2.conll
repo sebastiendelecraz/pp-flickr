@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	196868	_
+2	man	man	_	NN	_	3	NMOD	196868	_
+3	practices	practice	_	NNS	_	4	NMOD	_	_
+4	karate	karate	_	NN	_	5	SBJ	196874	_
+5	moves	move	_	VBZ	_	0	ROOT	196874	_
+6	in	in	_	IN	_	5	ADV	_	_
+7	silhouette	silhouette	_	NN	_	6	PMOD	196875	_
+8	with	with	_	IN	_	5	ADV	_	3
+9	a	a	_	DT	_	10	NMOD	196873	_
+10	backdrop	backdrop	_	NN	_	8	PMOD	196873	_
+11	of	of	_	IN	_	10	NMOD	196873	_
+12	a	a	_	DT	_	15	NMOD	196873	_
+13	colorful	colorful	_	JJ	_	15	NMOD	196873	_
+14	beach	beach	_	NN	_	15	NMOD	196873	_
+15	sunset	sunset	_	NN	_	11	PMOD	196873	_
+16	.	.	_	.	_	5	P	_	_

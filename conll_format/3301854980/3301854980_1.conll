@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	107968	_
+2	snowboarder	snowboarder	_	NN	_	3	SBJ	107968	_
+3	rides	ride	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	107971	_
+5	snowboard	snowboard	_	NN	_	3	OBJ	107971	_
+6	down	down	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	107970	_
+8	railing	rail	_	VBG	_	6	PMOD	107970	_
+9	beside	beside	_	IN	_	3	LOC	_	3
+10	a	a	_	DT	_	11	NMOD	107972	_
+11	flight	flight	_	NN	_	9	PMOD	107972	_
+12	of	of	_	IN	_	11	NMOD	107972	_
+13	steps	step	_	NNS	_	12	PMOD	107972	_
+14	.	.	_	.	_	3	P	_	_

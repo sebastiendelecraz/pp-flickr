@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	79316	_
+2	man	man	_	NN	_	0	ROOT	79316	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	79319	_
+5	striped	stripe	_	VBN	_	6	NMOD	79319	_
+6	shirt	shirt	_	NN	_	3	PMOD	79319	_
+7	selling	sell	_	VBG	_	6	APPO	_	_
+8	green	green	_	JJ	_	11	NMOD	79318	_
+9	and	and	_	CC	_	8	COORD	79318	_
+10	yellow	yellow	_	JJ	_	9	CONJ	79318	_
+11	melon	melon	_	NN	_	7	OBJ	79318	_
+12	out of	out of	_	IN	_	7	ADV	_	7
+13	the	the	_	DT	_	14	NMOD	79322	_
+14	back	back	_	NN	_	12	PMOD	79322	_
+15	of	of	_	IN	_	14	NMOD	79322	_
+16	a	a	_	DT	_	17	NMOD	79322	_
+17	pick	pick	_	NN	_	15	PMOD	79322	_
+18	up	up	_	RP	_	17	NMOD	_	_
+19	.	.	_	.	_	0	ROOT	_	_

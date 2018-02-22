@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	3	NMOD	157122	_
+2	riding	ride	_	VBG	_	3	NMOD	_	_
+3	escalator	escalator	_	NN	_	0	ROOT	157124	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	157129	_
+6	hopping	hop	_	VBG	_	7	NMOD	157129	_
+7	mall	mall	_	NN	_	4	PMOD	157129	_
+8	during	during	_	IN	_	3	TMP	_	2
+9	the	the	_	DT	_	11	NMOD	157128	_
+10	holiday	holiday	_	NN	_	11	NMOD	157128	_
+11	season	season	_	NN	_	8	PMOD	157128	_
+12	.	.	_	.	_	0	ROOT	_	_

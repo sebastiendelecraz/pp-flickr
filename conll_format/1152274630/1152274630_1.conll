@@ -1,0 +1,25 @@
+1	Three	Three	_	CD	_	2	NMOD	3968	_
+2	people	people	_	NN	_	5	NMOD	3968	_
+3	,	,	_	,	_	2	P	_	_
+4	two	two	_	CD	_	5	NMOD	3969	_
+5	males	mal	_	NNS	_	10	SBJ	3969	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	3970	_
+8	female	female	_	JJ	_	6	CONJ	3970	_
+9	,	,	_	,	_	10	P	_	_
+10	are	be	_	VBP	_	0	ROOT	_	_
+11	sitting	sit	_	VBG	_	10	VC	_	_
+12	in front of	in front of	_	IN	_	11	ADV	_	_
+13	a	a	_	DT	_	15	NMOD	3971	_
+14	tall	tall	_	JJ	_	15	NMOD	3971	_
+15	tree	tree	_	NN	_	12	PMOD	3971	_
+16	on	on	_	IN	_	11	LOC	_	_
+17	the	the	_	DT	_	18	NMOD	0	_
+18	ground	ground	_	NN	_	16	PMOD	0	_
+19	during	during	_	IN	_	11	TMP	_	11
+20	a	a	_	DT	_	21	NMOD	3982	_
+21	rest	rest	_	NN	_	19	PMOD	3982	_
+22	from	from	_	IN	_	11	ADV	_	21
+23	a	a	_	DT	_	24	NMOD	3980	_
+24	hike	hike	_	NN	_	22	PMOD	3980	_
+25	.	.	_	.	_	10	P	_	_

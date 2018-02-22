@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	267765	_
+2	man	man	_	NN	_	11	SBJ	267765	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	braids	braid	_	NNS	_	3	PMOD	267772	_
+5	,	,	_	,	_	2	P	_	_
+6	a	a	_	DT	_	7	NMOD	267773	_
+7	t-shirt	t-shirt	_	NN	_	2	COORD	267773	_
+8	,	,	_	,	_	7	P	_	_
+9	and	and	_	CC	_	7	COORD	_	_
+10	sweatpants	sweatpants	_	NN	_	9	CONJ	267774	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	dancing	dance	_	VBG	_	11	VC	_	_
+13	in front of	in front of	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	267767	_
+15	crowd	crowd	_	NN	_	13	PMOD	267767	_
+16	of	of	_	IN	_	15	NMOD	267767	_
+17	people	people	_	NN	_	16	PMOD	267767	_
+18	.	.	_	.	_	11	P	_	_

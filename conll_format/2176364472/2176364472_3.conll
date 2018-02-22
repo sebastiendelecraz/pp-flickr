@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	32430	_
+2	brown	brown	_	JJ	_	4	NMOD	32430	_
+3	lab	lab	_	NN	_	4	NMOD	32430	_
+4	dog	dog	_	NN	_	5	SBJ	32430	_
+5	runs	run	_	VBZ	_	0	ROOT	_	_
+6	over	over	_	IN	_	5	ADV	_	5
+7	an	an	_	DT	_	8	NMOD	32431	_
+8	obstacle	obstacle	_	NN	_	6	PMOD	32431	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	32434	_
+11	course	course	_	NN	_	9	PMOD	32434	_
+12	.	.	_	.	_	5	P	_	_

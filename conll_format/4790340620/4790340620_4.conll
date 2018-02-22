@@ -1,0 +1,7 @@
+1	Lady	Lady	_	NNP	_	2	SBJ	203074	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	DIR	_	2
+4	rows	row	_	NNS	_	3	PMOD	203077	_
+5	of	of	_	IN	_	4	NMOD	203077	_
+6	children	child	_	NNS	_	5	PMOD	203077	_
+7	.	.	_	.	_	0	ROOT	_	_

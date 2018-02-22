@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	224081	_
+2	man	man	_	NN	_	6	SBJ	224081	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	224093	_
+5	suit	suit	_	NN	_	3	OBJ	224093	_
+6	walks	walk	_	VBZ	_	0	ROOT	_	_
+7	next to	next to	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	11	NMOD	224082	_
+9	building	building	_	NN	_	10	NMOD	224082	_
+10	support	support	_	NN	_	11	NMOD	224082	_
+11	column	column	_	NN	_	7	PMOD	224082	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	palm	palm	_	NN	_	14	NMOD	224090	_
+14	trees	tree	_	NNS	_	12	PMOD	224090	_
+15	in	in	_	IN	_	14	LOC	_	_
+16	the	the	_	DT	_	17	NMOD	0	_
+17	background	background	_	NN	_	15	PMOD	0	_
+18	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	172179	_
+2	man	man	_	NN	_	0	ROOT	172179	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	172181	_
+5	coat	coat	_	NN	_	3	PMOD	172181	_
+6	talking	talk	_	VBG	_	5	APPO	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	his	his	_	PRP$	_	9	NMOD	172182	_
+9	phone	phone	_	NN	_	7	PMOD	172182	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	the	the	_	DT	_	12	NMOD	172184	_
+12	street	street	_	NN	_	10	PMOD	172184	_
+13	.	.	_	.	_	0	ROOT	_	_

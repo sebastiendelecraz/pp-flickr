@@ -1,0 +1,13 @@
+1	a	a	_	DT	_	2	NMOD	80998	_
+2	man	man	_	NN	_	0	ROOT	80998	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	80999	_
+5	guitar	guitar	_	NN	_	3	PMOD	80999	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	81001	_
+8	band	band	_	NN	_	6	PMOD	81001	_
+9	singing	sing	_	VBG	_	8	APPO	_	_
+10	into	into	_	IN	_	9	DIR	_	9
+11	a	a	_	DT	_	12	NMOD	81000	_
+12	microphone	microphone	_	NN	_	10	PMOD	81000	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	133291	_
+2	horses	horse	_	NNS	_	3	SBJ	133291	_
+3	look	look	_	VBP	_	0	ROOT	_	_
+4	over	over	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	133292	_
+6	fence	fence	_	NN	_	4	PMOD	133292	_
+7	at	at	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	133290	_
+9	child	child	_	NN	_	7	PMOD	133290	_
+10	wearing	wear	_	VBG	_	9	APPO	_	_
+11	a	a	_	DT	_	13	NMOD	133297	_
+12	red	red	_	JJ	_	13	NMOD	133297	_
+13	sweatshirt	sweatshirt	_	NN	_	10	OBJ	133297	_
+14	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	40722	_
+2	sled	sled	_	NN	_	3	NMOD	40722	_
+3	dog	dog	_	NN	_	4	NMOD	40722	_
+4	team	team	_	NN	_	5	SBJ	40722	_
+5	running	run	_	VBG	_	0	ROOT	_	_
+6	from	from	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	40729	_
+8	perspective	perspective	_	NN	_	6	PMOD	40729	_
+9	of	of	_	IN	_	8	NMOD	40729	_
+10	the	the	_	DT	_	11	NMOD	40729	_
+11	rider	rider	_	NN	_	9	PMOD	40729	_
+12	.	.	_	.	_	0	ROOT	_	_

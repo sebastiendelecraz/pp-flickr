@@ -1,0 +1,16 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	8946	_
+2	smiling	smile	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	8935	_
+5	bubble	bubble	_	NN	_	6	NMOD	8935	_
+6	bath	bath	_	NN	_	3	PMOD	8935	_
+7	with	with	_	IN	_	2	ADV	_	_
+8	only	only	_	CD	_	10	NMOD	8941	_
+9	her	her	_	PRP$	_	10	NMOD	8941	_
+10	head	head	_	NN	_	7	PMOD	8941	_
+11	visible	visible	_	JJ	_	10	APPO	_	_
+12	above	above	_	IN	_	11	AMOD	_	_
+13	the	the	_	DT	_	15	NMOD	8935	_
+14	foamy	foamy	_	JJ	_	15	NMOD	8935	_
+15	water	water	_	NN	_	12	PMOD	8935	_
+16	.	.	_	.	_	0	ROOT	_	_

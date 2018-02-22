@@ -1,0 +1,15 @@
+1	An	an	_	DT	_	3	NMOD	171746	_
+2	Asian	Asian	_	JJ	_	3	NMOD	171746	_
+3	women	woman	_	NNS	_	10	SBJ	171746	_
+4	,	,	_	,	_	10	P	_	_
+5	with	with	_	IN	_	10	ADV	_	3
+6	a	a	_	DT	_	8	NMOD	171755	_
+7	burgundy	burgundy	_	NN	_	8	NMOD	171755	_
+8	scarf	scarf	_	NN	_	5	PMOD	171755	_
+9	,	,	_	,	_	10	P	_	_
+10	moves	move	_	VBZ	_	0	ROOT	_	_
+11	through	through	_	IN	_	10	DIR	_	10
+12	a	a	_	DT	_	14	NMOD	171747	_
+13	misty	misty	_	JJ	_	14	NMOD	171747	_
+14	city	city	_	NN	_	11	PMOD	171747	_
+15	.	.	_	.	_	10	P	_	_

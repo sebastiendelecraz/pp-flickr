@@ -1,0 +1,15 @@
+1	This	this	_	DT	_	2	NMOD	101529	_
+2	group	group	_	NN	_	5	SBJ	101529	_
+3	of	of	_	IN	_	2	NMOD	101529	_
+4	people	people	_	NN	_	3	PMOD	101529	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	swimming	swim	_	VBG	_	5	VC	_	_
+7	with	with	_	IN	_	6	ADV	_	_
+8	their	their	_	PRP$	_	9	NMOD	101530	_
+9	hands	hand	_	NNS	_	7	PMOD	101530	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	legs	leg	_	NNS	_	10	CONJ	101531	_
+12	out of	out of	_	IN	_	6	TMP	_	6
+13	the	the	_	DT	_	14	NMOD	101532	_
+14	water	water	_	NN	_	12	PMOD	101532	_
+15	.	.	_	.	_	5	P	_	_

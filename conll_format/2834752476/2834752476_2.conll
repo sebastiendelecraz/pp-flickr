@@ -1,0 +1,15 @@
+1	Young	Young	_	NNP	_	2	NMOD	75683	_
+2	man	man	_	NN	_	7	SBJ	75683	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	75686	_
+5	black	black	_	JJ	_	6	NMOD	75686	_
+6	shirt	shirt	_	NN	_	3	PMOD	75686	_
+7	smokes	smoke	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	75685	_
+10	sofa	sofa	_	NN	_	8	PMOD	75685	_
+11	in	in	_	IN	_	7	LOC	_	7
+12	a	a	_	DT	_	14	NMOD	75688	_
+13	colorful	colorful	_	JJ	_	14	NMOD	75688	_
+14	room	room	_	NN	_	11	PMOD	75688	_
+15	.	.	_	.	_	7	P	_	_

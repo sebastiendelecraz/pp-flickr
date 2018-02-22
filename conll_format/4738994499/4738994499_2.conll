@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	197405	_
+2	man	man	_	NN	_	3	SBJ	197405	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	outside of	outside of	_	IN	_	12	TMP	197407	3
+5	a	a	_	DT	_	6	NMOD	197407	_
+6	store	store	_	NN	_	8	NMOD	197407	_
+7	playing	play	_	VBG	_	8	NMOD	_	_
+8	violin	violin	_	NN	_	4	PMOD	197406	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	his	his	_	PRP$	_	11	NMOD	197411	_
+11	case	case	_	NN	_	9	PMOD	197411	_
+12	open	open	_	VB	_	3	OBJ	_	_
+13	on	on	_	IN	_	12	ADV	_	_
+14	the	the	_	DT	_	15	NMOD	197408	_
+15	floor	floor	_	NN	_	13	PMOD	197408	_
+16	,	,	_	,	_	12	P	_	_
+17	waiting	wait	_	VBG	_	12	ADV	_	_
+18	for	for	_	IN	_	17	ADV	_	17
+19	offerings	offering	_	NNS	_	18	PMOD	197412	_
+20	.	.	_	.	_	3	P	_	_

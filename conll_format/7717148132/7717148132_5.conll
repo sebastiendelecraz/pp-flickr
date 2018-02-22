@@ -1,0 +1,10 @@
+1	Four	Four	_	CD	_	2	NMOD	273964	_
+2	people	people	_	NN	_	3	SBJ	273964	_
+3	sin	sin	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	273966	_
+6	rock	rock	_	NN	_	4	PMOD	273966	_
+7	in the middle of	in the middle of	_	IN	_	3	TMP	273967	3
+8	the	the	_	DT	_	9	NMOD	273967	_
+9	water	water	_	NN	_	7	PMOD	273967	_
+10	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,15 @@
+1	child	child	_	NN	_	0	ROOT	131027	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	tan	tan	_	NN	_	4	NMOD	131034	_
+4	shorts	short	_	NNS	_	2	PMOD	131034	_
+5	,	,	_	,	_	0	ROOT	_	_
+6	blue	blue	_	JJ	_	8	NMOD	131031	_
+7	striped	stripe	_	VBN	_	8	NMOD	131031	_
+8	shirt	shirt	_	NN	_	0	ROOT	131031	_
+9	playing	play	_	VBG	_	8	APPO	_	_
+10	on	on	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	131030	_
+12	beach	beach	_	NN	_	10	PMOD	131030	_
+13	with	with	_	IN	_	12	NMOD	_	_
+14	birds	bird	_	NNS	_	13	PMOD	131033	_
+15	.	.	_	.	_	0	ROOT	_	_

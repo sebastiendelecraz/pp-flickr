@@ -1,0 +1,26 @@
+1	A	a	_	DT	_	2	NMOD	284629	_
+2	girl	girl	_	NN	_	11	SBJ	284629	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	black	black	_	JJ	_	4	PMOD	284630	_
+6	and	and	_	CC	_	5	COORD	284630	_
+7	white	white	_	JJ	_	6	CONJ	284630	_
+8	with	with	_	IN	_	3	ADV	_	_
+9	mime	mime	_	NN	_	10	NMOD	284638	_
+10	makeup	makeup	_	NN	_	8	PMOD	284638	_
+11	stands	stand	_	VBZ	_	0	ROOT	_	_
+12	in the middle of	in the middle of	_	IN	_	11	ADV	284632	11
+13	a	a	_	DT	_	14	NMOD	284632	_
+14	street	street	_	NN	_	12	PMOD	284632	_
+15	with	with	_	IN	_	11	ADV	_	_
+16	a	a	_	DT	_	18	NMOD	284631	_
+17	white	white	_	JJ	_	18	NMOD	284631	_
+18	umbrella	umbrella	_	NN	_	15	PMOD	284631	_
+19	and	and	_	CC	_	18	COORD	_	_
+20	black	black	_	JJ	_	22	NMOD	284636	_
+21	top	top	_	NN	_	22	NMOD	284636	_
+22	hat	hat	_	NN	_	19	CONJ	284636	_
+23	in	in	_	IN	_	22	LOC	_	_
+24	her	her	_	PRP$	_	25	NMOD	284637	_
+25	hand	hand	_	NN	_	23	PMOD	284637	_
+26	.	.	_	.	_	11	P	_	_

@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	SBJ	39851	_
+2	gather	gather	_	VBP	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	39852	_
+5	bridge	bridge	_	NN	_	3	PMOD	39852	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	10	NMOD	39856	_
+8	weeping	weep	_	VBG	_	10	NMOD	39856	_
+9	willow	willow	_	NN	_	10	NMOD	_	_
+10	tree	tree	_	NN	_	6	PMOD	39856	_
+11	.	.	_	.	_	2	P	_	_

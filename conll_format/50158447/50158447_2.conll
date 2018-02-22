@@ -1,0 +1,15 @@
+1	People	People	_	NNPS	_	2	SBJ	226954	_
+2	sit	sit	_	VBP	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	226957	_
+5	table	table	_	NN	_	3	PMOD	226957	_
+6	with	with	_	IN	_	2	ADV	_	_
+7	a	a	_	DT	_	9	NMOD	226957	_
+8	red	red	_	JJ	_	9	NMOD	226957	_
+9	tablecloth	tablecloth	_	NN	_	6	PMOD	226957	_
+10	that	that	_	WDT	_	11	SBJ	0	_
+11	has	have	_	VBZ	_	9	NMOD	_	_
+12	food	food	_	NN	_	11	OBJ	226956	_
+13	on	on	_	IN	_	11	ADV	_	_
+14	it	it	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	2	P	_	_

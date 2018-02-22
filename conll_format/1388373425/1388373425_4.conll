@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	10839	_
+2	woman	woman	_	NN	_	0	ROOT	10839	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	10841	_
+5	backpack	backpack	_	NN	_	3	PMOD	10841	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	outside	outside	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	10847	_
+9	building	building	_	NN	_	7	PMOD	10847	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	others	other	_	NNS	_	10	PMOD	10846	_
+12	.	.	_	.	_	0	ROOT	_	_

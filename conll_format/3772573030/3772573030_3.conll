@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	141990	_
+2	man	man	_	NN	_	0	ROOT	141990	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	141991	_
+5	green	green	_	JJ	_	7	NMOD	141991	_
+6	shirt	shirt	_	NN	_	7	NMOD	141991	_
+7	rides	ride	_	NNS	_	3	PMOD	_	_
+8	a	a	_	DT	_	9	NMOD	141994	_
+9	skateboard	skateboard	_	NN	_	7	ADV	141994	_
+10	down	down	_	IN	_	2	NMOD	_	7
+11	a	a	_	DT	_	13	NMOD	141992	_
+12	rural	rural	_	JJ	_	13	NMOD	141992	_
+13	street	street	_	NN	_	10	PMOD	141992	_
+14	.	.	_	.	_	0	ROOT	_	_

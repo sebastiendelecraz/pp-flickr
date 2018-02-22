@@ -1,0 +1,15 @@
+1	Young	Young	_	NNP	_	3	NMOD	259153	_
+2	male	male	_	JJ	_	3	NMOD	259153	_
+3	soldiers	soldier	_	NNS	_	0	ROOT	259153	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	camouflage	camouflage	_	NN	_	6	NMOD	259152	_
+6	pants	pant	_	NNS	_	4	PMOD	259152	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	helmets	helmet	_	NNS	_	7	CONJ	260000	_
+9	clean	clean	_	JJ	_	6	APPO	_	_
+10	up	up	_	IN	_	9	AMOD	_	_
+11	debris	debris	_	NN	_	10	PMOD	259157	_
+12	outside	outside	_	IN	_	6	LOC	_	9
+13	a	a	_	DT	_	14	NMOD	259154	_
+14	building	building	_	NN	_	12	PMOD	259154	_
+15	.	.	_	.	_	0	ROOT	_	_

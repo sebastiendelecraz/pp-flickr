@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	8330	_
+2	guys	guy	_	NNS	_	3	SBJ	8330	_
+3	gather	gather	_	VBP	_	0	ROOT	_	_
+4	around	around	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	8331	_
+6	table	table	_	NN	_	4	PMOD	8331	_
+7	with	with	_	IN	_	3	MNR	_	_
+8	two	two	_	CD	_	9	NMOD	8337	_
+9	girls	girl	_	NNS	_	7	PMOD	8337	_
+10	while	while	_	IN	_	3	ADV	_	_
+11	drinking	drink	_	VBG	_	10	SUB	_	_
+12	.	.	_	.	_	3	P	_	_

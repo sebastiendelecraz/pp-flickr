@@ -1,0 +1,14 @@
+1	Guy	Guy	_	NNP	_	4	SBJ	52003	_
+2	with	with	_	IN	_	1	NMOD	_	_
+3	sunglasses	sunglass	_	NNS	_	2	PMOD	52005	_
+4	holding	hold	_	VBG	_	0	ROOT	_	_
+5	up	up	_	RP	_	4	PRT	_	_
+6	a	a	_	DT	_	7	NMOD	52007	_
+7	fish	fish	_	NN	_	4	OBJ	52007	_
+8	on	on	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	52006	_
+10	boat	boat	_	NN	_	8	PMOD	52006	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	52008	_
+13	ocean	ocean	_	NN	_	11	PMOD	52008	_
+14	.	.	_	.	_	0	ROOT	_	_

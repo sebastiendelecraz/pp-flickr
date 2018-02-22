@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	3	NMOD	96654	_
+2	tan	tan	_	NN	_	3	NMOD	96654	_
+3	dog	dog	_	NN	_	4	SBJ	96654	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	96658	_
+7	grass	grass	_	NN	_	5	PMOD	96658	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	the	the	_	DT	_	10	NMOD	0	_
+10	background	background	_	NN	_	8	PMOD	0	_
+11	blurry	blurry	_	JJ	_	7	APPO	_	_
+12	.	.	_	.	_	0	ROOT	_	_

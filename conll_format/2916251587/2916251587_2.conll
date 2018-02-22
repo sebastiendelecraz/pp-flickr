@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	81211	_
+2	man	man	_	NN	_	3	SBJ	81211	_
+3	hunts	hunt	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	treasure	treasure	_	NN	_	4	PMOD	81219	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	the	the	_	DT	_	8	NMOD	81212	_
+8	beach	beach	_	NN	_	6	PMOD	81212	_
+9	using	use	_	VBG	_	3	ADV	_	_
+10	his	his	_	PRP$	_	12	NMOD	81215	_
+11	metal	metal	_	NN	_	12	NMOD	81215	_
+12	detector	detector	_	NN	_	9	OBJ	81215	_
+13	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,24 @@
+1	An	an	_	DT	_	3	NMOD	250362	_
+2	older	old	_	JJR	_	3	NMOD	250362	_
+3	woman	woman	_	NN	_	4	SBJ	250362	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	looking	look	_	VBG	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	250367	_
+8	pair	pair	_	NN	_	6	PMOD	250367	_
+9	of	of	_	IN	_	8	NMOD	250367	_
+10	binoculars	binocular	_	NNS	_	9	PMOD	250367	_
+11	at	at	_	IN	_	5	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	250366	_
+13	pier	pier	_	NN	_	11	PMOD	250366	_
+14	while	while	_	IN	_	0	ROOT	_	_
+15	a	a	_	DT	_	16	NMOD	250361	_
+16	man	man	_	NN	_	0	ROOT	250361	_
+17	next to	next to	_	IN	_	16	NMOD	_	_
+18	her	her	_	PRP$	_	19	SBJ	0	_
+19	is	be	_	VBZ	_	17	SUB	_	_
+20	holding	hold	_	VBG	_	19	VC	_	_
+21	a	a	_	DT	_	23	NMOD	250364	_
+22	black	black	_	JJ	_	23	NMOD	250364	_
+23	camera	camera	_	NN	_	20	OBJ	250364	_
+24	.	.	_	.	_	0	ROOT	_	_

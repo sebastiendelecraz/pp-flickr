@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	218565	_
+2	people	people	_	NN	_	3	SBJ	218565	_
+3	walk	walk	_	VBP	_	0	ROOT	_	_
+4	down	down	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	218566	_
+6	brick	brick	_	NN	_	7	NMOD	218566	_
+7	sidewalk	sidewalk	_	NN	_	4	PMOD	218566	_
+8	by	by	_	IN	_	3	MNR	_	3
+9	a	a	_	DT	_	13	NMOD	218567	_
+10	yellow	yellow	_	JJ	_	13	NMOD	218567	_
+11	and	and	_	CC	_	10	COORD	218567	_
+12	white	white	_	JJ	_	11	CONJ	218567	_
+13	building	building	_	NN	_	8	PMOD	218567	_
+14	.	.	_	.	_	3	P	_	_

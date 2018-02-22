@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	109918	_
+2	little	little	_	JJ	_	3	NMOD	109918	_
+3	girl	girl	_	NN	_	4	SBJ	109918	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	looking	look	_	VBG	_	4	VC	_	_
+6	at	at	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	109919	_
+8	bunch	bunch	_	NN	_	6	PMOD	109919	_
+9	of	of	_	IN	_	8	NMOD	109919	_
+10	activity	activity	_	NN	_	11	NMOD	109919	_
+11	books	book	_	NNS	_	9	PMOD	109919	_
+12	.	.	_	.	_	4	P	_	_

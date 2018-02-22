@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	33610	_
+2	snowboarder	snowboarder	_	NN	_	3	SBJ	33610	_
+3	jumps	jump	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	0	_
+6	air	air	_	NN	_	4	PMOD	0	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	their	their	_	PRP$	_	9	NMOD	33611	_
+9	snowboard	snowboard	_	NN	_	7	PMOD	33611	_
+10	.	.	_	.	_	3	P	_	_

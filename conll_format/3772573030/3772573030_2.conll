@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	141990	_
+2	young	young	_	JJ	_	3	NMOD	141990	_
+3	man	man	_	NN	_	0	ROOT	141990	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	long	long	_	JJ	_	7	NMOD	141990	_
+6	blond-hair	blond-hair	_	CD	_	7	NMOD	141990	_
+7	skateboards	skateboard	_	NNS	_	4	PMOD	141990	_
+8	down	down	_	IN	_	7	NMOD	_	7
+9	an	an	_	DT	_	11	NMOD	141992	_
+10	inclined	incline	_	VBN	_	11	NMOD	141992	_
+11	road	road	_	NN	_	8	PMOD	141992	_
+12	.	.	_	.	_	0	ROOT	_	_

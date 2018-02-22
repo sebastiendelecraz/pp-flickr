@@ -1,0 +1,13 @@
+1	Man	Man	_	NNP	_	2	SBJ	18256	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	18260	_
+5	bench	bench	_	NN	_	6	NMOD	18260	_
+6	drink	drink	_	NN	_	3	PMOD	18260	_
+7	from	from	_	IN	_	2	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	18258	_
+9	mug	mug	_	NN	_	7	PMOD	18258	_
+10	surrounded	surround	_	VBN	_	9	APPO	_	_
+11	by	by	_	IN	_	10	LGS	_	_
+12	rugs	rug	_	NNS	_	11	PMOD	18259	_
+13	.	.	_	.	_	0	ROOT	_	_

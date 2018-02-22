@@ -1,0 +1,20 @@
+1	People	People	_	NNPS	_	2	SBJ	195884	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	the	the	_	DT	_	8	NMOD	195887	_
+5	open	open	_	JJ	_	8	NMOD	195887	_
+6	,	,	_	,	_	8	P	195887	_
+7	top	top	_	JJ	_	8	NMOD	195887	_
+8	level	level	_	NN	_	3	PMOD	195887	_
+9	of	of	_	IN	_	8	NMOD	195887	8
+10	a	a	_	DT	_	14	NMOD	195887	_
+11	blue	blue	_	JJ	_	14	NMOD	195887	_
+12	and	and	_	CC	_	11	COORD	195887	_
+13	red	red	_	JJ	_	12	CONJ	195887	_
+14	bus	bus	_	NN	_	9	PMOD	195887	_
+15	and	and	_	CC	_	2	COORD	_	_
+16	passing	pass	_	VBG	_	15	CONJ	_	_
+17	in front of	in front of	_	RP	_	16	PRT	_	_
+18	a	a	_	DT	_	19	NMOD	195886	_
+19	window	window	_	NN	_	16	OBJ	195886	_
+20	.	.	_	.	_	0	ROOT	_	_

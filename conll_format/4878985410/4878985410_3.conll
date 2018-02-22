@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	3	NMOD	214170	_
+2	blue	blue	_	JJ	_	3	NMOD	214170	_
+3	car	car	_	NN	_	0	ROOT	214170	_
+4	in front of	in front of	_	IN	_	3	NMOD	_	_
+5	people	people	_	NN	_	4	PMOD	214171	_
+6	under	under	_	IN	_	3	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	214174	_
+8	tent	tent	_	NN	_	6	PMOD	214174	_
+9	.	.	_	.	_	0	ROOT	_	_

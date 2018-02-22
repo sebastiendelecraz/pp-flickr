@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	164823	_
+2	person	person	_	NN	_	0	ROOT	164823	_
+3	walking	walk	_	VBG	_	2	APPO	_	_
+4	by	by	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	7	NMOD	164824	_
+6	red	red	_	JJ	_	7	NMOD	164824	_
+7	building	building	_	NN	_	4	PMOD	164824	_
+8	with	with	_	IN	_	3	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	164825	_
+10	jet	jet	_	NN	_	8	PMOD	164825	_
+11	on top of	on top of	_	IN	_	3	ADV	_	_
+12	it	it	_	PRP	_	11	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	NAME	188321	_
+2	socializing	socialize	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	188323	_
+5	boardwalk	boardwalk	_	NN	_	3	PMOD	188323	_
+6	on	on	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	188322	_
+8	Summer	Summer	_	NNP	_	9	NMOD	188322	_
+9	night	night	_	NN	_	6	PMOD	188322	_
+10	.	.	_	.	_	0	ROOT	_	_

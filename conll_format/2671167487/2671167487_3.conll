@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	65248	_
+2	boater	boater	_	NN	_	3	SBJ	65248	_
+3	pulls	pull	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	65252	_
+5	weight	weight	_	NN	_	3	OBJ	65252	_
+6	on	on	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	65253	_
+8	rope	rope	_	NN	_	6	PMOD	65253	_
+9	out of	out of	_	IN	_	3	LOC	_	3
+10	the	the	_	DT	_	11	NMOD	65255	_
+11	water	water	_	NN	_	9	PMOD	65255	_
+12	.	.	_	.	_	3	P	_	_

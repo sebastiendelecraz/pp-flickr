@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	31396	_
+2	people	people	_	NN	_	3	SBJ	31396	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC-PRD	_	3
+5	a	a	_	DT	_	6	NMOD	31398	_
+6	canoe	canoe	_	NN	_	4	PMOD	31398	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	31397	_
+9	river	river	_	NN	_	7	PMOD	31397	_
+10	in	in	_	IN	_	3	LOC	_	_
+11	misty	misty	_	JJ	_	12	NMOD	31400	_
+12	conditions	condition	_	NNS	_	10	PMOD	31400	_
+13	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	90945	_
+2	man	man	_	NN	_	3	SBJ	90945	_
+3	holds	hold	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	90946	_
+5	large	large	_	JJ	_	6	NMOD	90946	_
+6	tool	tool	_	NN	_	3	OBJ	90946	_
+7	while	while	_	IN	_	3	ADV	_	_
+8	sitting	sit	_	VBG	_	7	SUB	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	90947	_
+11	table	table	_	NN	_	9	PMOD	90947	_
+12	with	with	_	IN	_	8	ADV	_	_
+13	two	two	_	CD	_	14	NMOD	90948	_
+14	beers	beer	_	NNS	_	12	PMOD	90948	_
+15	.	.	_	.	_	3	P	_	_

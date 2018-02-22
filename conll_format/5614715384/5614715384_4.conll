@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	239727	_
+2	woman	woman	_	NN	_	7	SBJ	239727	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	239728	_
+5	brown	brown	_	JJ	_	6	NMOD	239728	_
+6	dress	dress	_	NN	_	3	PMOD	239728	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	jumps	jump	_	NNS	_	7	PRD	_	_
+9	off	off	_	IN	_	7	LOC	_	8
+10	some	some	_	DT	_	11	NMOD	239732	_
+11	stairs	stair	_	NNS	_	9	PMOD	239732	_
+12	outside	outside	_	IN	_	7	LOC	_	8
+13	a	a	_	DT	_	14	NMOD	239734	_
+14	building	building	_	NN	_	12	PMOD	239734	_
+15	.	.	_	.	_	7	P	_	_

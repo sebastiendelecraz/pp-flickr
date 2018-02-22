@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	38787	_
+2	band	band	_	NN	_	3	SBJ	38787	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	playing	play	_	VBG	_	3	VC	_	_
+5	music	music	_	NN	_	4	OBJ	38796	_
+6	on	on	_	IN	_	4	ADV	_	_
+7	stage	stage	_	NN	_	6	PMOD	38792	_
+8	at	at	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	38794	_
+10	concert	concert	_	NN	_	8	PMOD	38794	_
+11	.	.	_	.	_	3	P	_	_

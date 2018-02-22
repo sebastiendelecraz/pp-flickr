@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	75776	_
+2	young	young	_	JJ	_	3	NMOD	75776	_
+3	boy	boy	_	NN	_	10	SBJ	75776	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	75777	_
+6	bicycle	bicycle	_	NN	_	4	PMOD	75777	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	75779	_
+9	road	road	_	NN	_	7	PMOD	75779	_
+10	going	go	_	VBG	_	0	ROOT	_	_
+11	through	through	_	IN	_	10	MNR	_	10
+12	a	a	_	DT	_	13	NMOD	75781	_
+13	forest	forest	_	NN	_	11	PMOD	75781	_
+14	.	.	_	.	_	0	ROOT	_	_

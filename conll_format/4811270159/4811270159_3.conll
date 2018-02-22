@@ -1,0 +1,11 @@
+1	Woman	Woman	_	NNP	_	0	ROOT	205544	_
+2	with	with	_	IN	_	1	NMOD	_	_
+3	gray	gray	_	JJ	_	4	NMOD	205554	_
+4	hair	hair	_	NN	_	2	PMOD	205554	_
+5	behind	behind	_	IN	_	1	LOC	_	1
+6	a	a	_	DT	_	7	NMOD	205551	_
+7	stall	stall	_	NN	_	5	PMOD	205551	_
+8	selling	sell	_	VBG	_	7	APPO	_	_
+9	fresh	fresh	_	JJ	_	10	NMOD	205549	_
+10	produce	produce	_	NN	_	8	OBJ	205549	_
+11	.	.	_	.	_	0	ROOT	_	_

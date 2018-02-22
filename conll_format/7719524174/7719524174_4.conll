@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	274075	_
+2	small	small	_	JJ	_	3	NMOD	274075	_
+3	child	child	_	NN	_	4	SBJ	274075	_
+4	drilling	drill	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	274076	_
+7	board	board	_	NN	_	5	PMOD	274076	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	274077	_
+10	power	power	_	NN	_	11	NMOD	274077	_
+11	drill	drill	_	NN	_	8	PMOD	274077	_
+12	.	.	_	.	_	0	ROOT	_	_

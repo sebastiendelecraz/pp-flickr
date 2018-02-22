@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	2	NMOD	33281	_
+2	group	group	_	NN	_	0	ROOT	33281	_
+3	of	of	_	IN	_	2	NMOD	33281	_
+4	mostly	mostly	_	RB	_	5	AMOD	33281	_
+5	nude	nude	_	JJ	_	6	NMOD	33281	_
+6	children	child	_	NNS	_	3	PMOD	33281	_
+7	playing	play	_	VBG	_	6	APPO	_	_
+8	on	on	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	33286	_
+10	bridge	bridge	_	NN	_	8	PMOD	33286	_
+11	over	over	_	IN	_	7	TMP	_	7
+12	some	some	_	DT	_	13	NMOD	33283	_
+13	water	water	_	NN	_	11	PMOD	33283	_
+14	.	.	_	.	_	0	ROOT	_	_

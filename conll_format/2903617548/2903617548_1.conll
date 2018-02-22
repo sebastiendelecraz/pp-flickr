@@ -1,0 +1,15 @@
+1	The	the	_	DT	_	3	NMOD	80332	_
+2	little	little	_	JJ	_	3	NMOD	80332	_
+3	boy	boy	_	NN	_	4	SBJ	80332	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	playing	play	_	VBG	_	4	VC	_	_
+6	with	with	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	9	NMOD	80335	_
+8	croquet	croquet	_	NN	_	9	NMOD	80335	_
+9	hammer	hammer	_	NN	_	6	PMOD	80335	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	ball	ball	_	NN	_	10	CONJ	80333	_
+12	beside	beside	_	IN	_	5	LOC	_	5
+13	the	the	_	DT	_	14	NMOD	80334	_
+14	car	car	_	NN	_	12	PMOD	80334	_
+15	.	.	_	.	_	4	P	_	_

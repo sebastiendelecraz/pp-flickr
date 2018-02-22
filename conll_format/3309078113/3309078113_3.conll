@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	108406	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	along	along	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	108408	_
+5	sidewalk	sidewalk	_	NN	_	3	PMOD	108408	_
+6	by	by	_	IN	_	2	LGS	_	2
+7	a	a	_	DT	_	9	NMOD	108407	_
+8	brick	brick	_	NN	_	9	NMOD	108407	_
+9	building	building	_	NN	_	6	PMOD	108407	_
+10	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	200556	_
+2	people	people	_	NN	_	10	SBJ	200556	_
+3	,	,	_	,	_	2	P	_	_
+4	a	a	_	DT	_	5	NMOD	200557	_
+5	man	man	_	NN	_	2	COORD	200557	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	200559	_
+8	woman	woman	_	NN	_	6	CONJ	200559	_
+9	,	,	_	,	_	2	P	_	_
+10	are	be	_	VBP	_	0	ROOT	_	_
+11	on	on	_	IN	_	10	LOC-PRD	_	_
+12	a	a	_	DT	_	13	NMOD	200558	_
+13	stage	stage	_	NN	_	11	PMOD	200558	_
+14	at	at	_	IN	_	10	TMP	_	10
+15	a	a	_	DT	_	16	NMOD	200556	_
+16	band	band	_	NN	_	14	PMOD	200556	_
+17	.	.	_	.	_	10	P	_	_

@@ -1,0 +1,15 @@
+1	This	this	_	DT	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	188031	_
+4	random	random	_	JJ	_	5	NMOD	188031	_
+5	man	man	_	NN	_	2	PRD	188031	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	188034	_
+8	tattoo	tattoo	_	NN	_	6	PMOD	188034	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	his	his	_	PRP$	_	11	NMOD	188035	_
+11	leg	leg	_	NN	_	9	PMOD	188035	_
+12	running	run	_	VBG	_	11	APPO	_	_
+13	towards	towards	_	IN	_	12	ADV	_	12
+14	something	something	_	NN	_	13	PMOD	188040	_
+15	.	.	_	.	_	2	P	_	_

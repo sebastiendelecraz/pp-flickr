@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	149216	_
+2	reporter	reporter	_	NN	_	5	SBJ	149216	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	cameraman	cameraman	_	NN	_	3	CONJ	150000	_
+5	doing	do	_	VBG	_	0	ROOT	_	_
+6	a	a	_	DT	_	7	NMOD	149221	_
+7	report	report	_	NN	_	5	OBJ	149221	_
+8	about	about	_	IN	_	7	NMOD	_	7
+9	a	a	_	DT	_	11	NMOD	149218	_
+10	public	public	_	JJ	_	11	NMOD	149218	_
+11	show	show	_	NN	_	8	PMOD	149218	_
+12	of	of	_	IN	_	11	NMOD	149218	_
+13	some	some	_	DT	_	14	NMOD	149218	_
+14	kind	kind	_	NN	_	12	PMOD	149218	_
+15	.	.	_	.	_	0	ROOT	_	_

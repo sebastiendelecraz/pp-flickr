@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	179898	_
+2	group	group	_	NN	_	0	ROOT	179898	_
+3	of	of	_	IN	_	2	NMOD	179898	_
+4	girls	girl	_	NNS	_	3	PMOD	179898	_
+5	posing	pose	_	VBG	_	4	APPO	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	179905	_
+8	picture	picture	_	NN	_	6	PMOD	179905	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	179899	_
+11	street	street	_	NN	_	9	PMOD	179899	_
+12	.	.	_	.	_	0	ROOT	_	_

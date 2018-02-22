@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	33636	_
+2	dog	dog	_	NN	_	0	ROOT	33636	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	33637	_
+5	green	green	_	JJ	_	7	NMOD	33637	_
+6	collar	collar	_	NN	_	7	NMOD	33637	_
+7	fetches	fetch	_	NNS	_	3	PMOD	_	_
+8	a	a	_	DT	_	9	NMOD	33638	_
+9	stick	stick	_	NN	_	7	ADV	33638	_
+10	from	from	_	IN	_	2	NMOD	_	7
+11	the	the	_	DT	_	13	NMOD	33640	_
+12	dead	dead	_	JJ	_	13	NMOD	33640	_
+13	leaves	leaf	_	NNS	_	10	PMOD	33640	_
+14	.	.	_	.	_	0	ROOT	_	_

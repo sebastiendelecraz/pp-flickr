@@ -1,0 +1,12 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	185116	_
+2	carrying	carry	_	VBG	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	185117	_
+4	bucket	bucket	_	NN	_	2	OBJ	185117	_
+5	of	of	_	IN	_	4	NMOD	185117	_
+6	water	water	_	NN	_	5	PMOD	185117	_
+7	down	down	_	IN	_	4	NMOD	_	2
+8	a	a	_	DT	_	11	NMOD	185119	_
+9	tranquil	tranquil	_	JJ	_	11	NMOD	185119	_
+10	dirt	dirt	_	NN	_	11	NMOD	185119	_
+11	path	path	_	NN	_	7	PMOD	185119	_
+12	.	.	_	.	_	0	ROOT	_	_

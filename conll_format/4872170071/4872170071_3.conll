@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	213521	_
+2	large	large	_	JJ	_	3	NMOD	213521	_
+3	dock	dock	_	NN	_	4	SBJ	213521	_
+4	runs	run	_	VBZ	_	0	ROOT	_	_
+5	into	into	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	213523	_
+7	lake	lake	_	NN	_	5	PMOD	213523	_
+8	next to	next to	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	213522	_
+10	group	group	_	NN	_	8	PMOD	213522	_
+11	of	of	_	IN	_	10	NMOD	213522	_
+12	people	people	_	NN	_	11	PMOD	213522	_
+13	swimming	swim	_	VBG	_	12	APPO	_	_
+14	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	225011	_
+2	people	people	_	NN	_	3	SBJ	225011	_
+3	stand	stand	_	VBP	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	225012	_
+6	building	building	_	NN	_	4	PMOD	225012	_
+7	with	with	_	IN	_	3	MNR	_	_
+8	graffiti	graffito	_	NNS	_	7	PMOD	225014	_
+9	that	that	_	WDT	_	10	SBJ	0	_
+10	reads	read	_	VBZ	_	0	ROOT	_	_
+11	"	"	_	CD	_	14	NMOD	_	_
+12	Boss	Boss	_	NNP	_	14	NMOD	225014	_
+13	Life	Life	_	NNP	_	14	NMOD	225014	_
+14	"	"	_	CD	_	10	OBJ	_	_
+15	.	.	_	.	_	10	P	_	_

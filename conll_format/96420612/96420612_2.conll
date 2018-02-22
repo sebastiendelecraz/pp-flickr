@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	284394	_
+2	man	man	_	NN	_	6	SBJ	284394	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	5	NMOD	284396	_
+5	trunks	trunk	_	NNS	_	3	PMOD	284396	_
+6	flies	fly	_	VBZ	_	0	ROOT	_	_
+7	through	through	_	IN	_	6	DIR	_	6
+8	the	the	_	DT	_	9	NMOD	0	_
+9	air	air	_	NN	_	7	PMOD	0	_
+10	with	with	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	13	NMOD	284395	_
+12	boogie	boogie	_	NN	_	13	NMOD	284395	_
+13	board	board	_	NN	_	10	PMOD	284395	_
+14	.	.	_	.	_	6	P	_	_

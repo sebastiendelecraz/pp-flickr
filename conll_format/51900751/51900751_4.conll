@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	230601	_
+2	man	man	_	NN	_	3	SBJ	230601	_
+3	uses	use	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	230604	_
+5	ladder	ladder	_	NN	_	3	OBJ	230604	_
+6	to	to	_	TO	_	5	NMOD	_	_
+7	stand	stand	_	VB	_	6	IM	_	_
+8	next to	next to	_	IN	_	3	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	230602	_
+10	bay	bay	_	NN	_	8	PMOD	230602	_
+11	of	of	_	IN	_	10	NMOD	230602	_
+12	wheat	wheat	_	NN	_	11	PMOD	230602	_
+13	.	.	_	.	_	3	P	_	_

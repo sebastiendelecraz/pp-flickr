@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	169458	_
+2	people	people	_	NN	_	0	ROOT	169458	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	cold	cold	_	JJ	_	7	NMOD	169462	_
+6	weather	weather	_	NN	_	7	NMOD	169462	_
+7	sit	sit	_	NN	_	4	PMOD	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	chairs	chair	_	NNS	_	8	PMOD	169461	_
+10	next to	next to	_	IN	_	3	ADV	_	7
+11	a	a	_	DT	_	12	NMOD	169459	_
+12	body	body	_	NN	_	10	PMOD	169459	_
+13	of	of	_	IN	_	12	NMOD	169459	_
+14	water	water	_	NN	_	13	PMOD	169459	_
+15	.	.	_	.	_	0	ROOT	_	_

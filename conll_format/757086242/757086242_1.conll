@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	271517	_
+2	man	man	_	NN	_	8	SBJ	271517	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	271519	_
+5	gray	gray	_	JJ	_	7	NMOD	271519	_
+6	hooded	hood	_	VBN	_	7	NMOD	271519	_
+7	sweatshirt	sweatshirt	_	NN	_	3	PMOD	271519	_
+8	holds	hold	_	VBZ	_	0	ROOT	_	_
+9	a	a	_	DT	_	11	NMOD	271520	_
+10	paper	paper	_	NN	_	11	NMOD	271520	_
+11	plate	plate	_	NN	_	8	OBJ	271520	_
+12	and	and	_	CC	_	8	COORD	_	_
+13	smiles	smile	_	VBZ	_	12	CONJ	271521	_
+14	in front of	in front of	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	271515	_
+16	crowd	crowd	_	NN	_	14	PMOD	271515	_
+17	of	of	_	IN	_	16	NMOD	271515	_
+18	people	people	_	NN	_	17	PMOD	271515	_
+19	.	.	_	.	_	8	P	_	_

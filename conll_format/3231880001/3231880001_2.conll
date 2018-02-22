@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	5	NMOD	102919	_
+2	boy	boy	_	NN	_	5	NMOD	102919	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	girl	girl	_	NN	_	3	CONJ	102920	_
+5	pose	pose	_	NN	_	0	ROOT	_	_
+6	for	for	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	102922	_
+8	picture	picture	_	NN	_	6	PMOD	102922	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	13	NMOD	102917	_
+11	large	large	_	JJ	_	13	NMOD	102917	_
+12	red	red	_	JJ	_	13	NMOD	102917	_
+13	flower	flower	_	NN	_	9	PMOD	102917	_
+14	above	above	_	IN	_	13	LOC	_	13
+15	their	their	_	PRP$	_	16	NMOD	102921	_
+16	heads	head	_	NNS	_	14	PMOD	102921	_
+17	.	.	_	.	_	0	ROOT	_	_

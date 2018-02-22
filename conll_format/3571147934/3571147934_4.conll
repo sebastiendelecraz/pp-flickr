@@ -1,0 +1,9 @@
+1	Peoople	Peoople	_	NNP	_	2	SBJ	128491	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	outside	outside	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	128493	_
+5	building	building	_	NN	_	3	PMOD	128493	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	128496	_
+8	street	street	_	NN	_	6	PMOD	128496	_
+9	.	.	_	.	_	2	P	_	_

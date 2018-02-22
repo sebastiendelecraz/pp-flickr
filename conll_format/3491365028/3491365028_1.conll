@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	122265	_
+2	men	man	_	NNS	_	0	ROOT	122265	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	business	business	_	NN	_	5	NMOD	122268	_
+5	attire	attire	_	NN	_	3	PMOD	122268	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	green	green	_	JJ	_	9	NMOD	122269	_
+9	chairs	chair	_	NNS	_	7	PMOD	122269	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	a	a	_	DT	_	12	NMOD	122267	_
+12	room	room	_	NN	_	10	PMOD	122267	_
+13	with	with	_	IN	_	12	NMOD	_	12
+14	a	a	_	DT	_	16	NMOD	122266	_
+15	blue	blue	_	JJ	_	16	NMOD	122266	_
+16	rug	rug	_	NN	_	13	PMOD	122266	_
+17	.	.	_	.	_	0	ROOT	_	_

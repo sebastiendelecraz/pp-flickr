@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	259927	_
+2	group	group	_	NN	_	5	SBJ	259927	_
+3	of	of	_	IN	_	2	NMOD	259927	_
+4	people	people	_	NN	_	3	PMOD	259927	_
+5	racing	race	_	VBG	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	bikes	bike	_	NNS	_	6	PMOD	259937	_
+8	around	around	_	IN	_	5	LOC	_	5
+9	a	a	_	DT	_	10	NMOD	259929	_
+10	track	track	_	NN	_	8	PMOD	259929	_
+11	.	.	_	.	_	0	ROOT	_	_

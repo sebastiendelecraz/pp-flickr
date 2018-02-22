@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	197390	_
+2	girl	girl	_	NN	_	10	SBJ	197390	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	blue	blue	_	JJ	_	5	NMOD	197393	_
+5	hair	hair	_	NN	_	3	PMOD	197393	_
+6	and	and	_	CC	_	2	COORD	_	_
+7	a	a	_	DT	_	9	NMOD	197394	_
+8	blue	blue	_	JJ	_	9	NMOD	197394	_
+9	shirt	shirt	_	NN	_	6	CONJ	197394	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	standing	stand	_	VBG	_	10	VC	_	_
+12	near	near	_	IN	_	11	LOC	_	11
+13	a	a	_	DT	_	14	NMOD	197391	_
+14	group	group	_	NN	_	12	PMOD	197391	_
+15	of	of	_	IN	_	14	NMOD	197391	_
+16	people	people	_	NN	_	15	PMOD	197391	_
+17	.	.	_	.	_	10	P	_	_

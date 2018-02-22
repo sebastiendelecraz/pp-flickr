@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	229462	_
+2	group	group	_	NN	_	6	SBJ	229462	_
+3	of	of	_	IN	_	2	NMOD	229462	_
+4	four	four	_	CD	_	5	NMOD	229462	_
+5	girls	girl	_	NNS	_	3	PMOD	229462	_
+6	meets	meet	_	VBZ	_	0	ROOT	_	_
+7	with	with	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	229464	_
+9	group	group	_	NN	_	7	PMOD	229464	_
+10	of	of	_	IN	_	9	NMOD	229464	_
+11	elderly	elderly	_	JJ	_	12	NMOD	229464	_
+12	women	woman	_	NNS	_	10	PMOD	229464	_
+13	.	.	_	.	_	6	P	_	_

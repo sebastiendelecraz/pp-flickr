@@ -1,0 +1,11 @@
+1	Construction	construction	_	NN	_	2	NMOD	123757	_
+2	workers	worker	_	NNS	_	3	SBJ	123757	_
+3	pose	pose	_	VBP	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	123763	_
+6	picture	picture	_	NN	_	4	PMOD	123763	_
+7	on	on	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	123759	_
+9	work	work	_	NN	_	10	NMOD	123759	_
+10	site	site	_	NN	_	7	PMOD	123759	_
+11	.	.	_	.	_	3	P	_	_

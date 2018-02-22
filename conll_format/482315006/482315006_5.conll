@@ -1,0 +1,8 @@
+1	Couple	Couple	_	NNP	_	2	SBJ	207247	_
+2	laying	lay	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	the	the	_	DT	_	5	NMOD	207252	_
+5	grass	grass	_	NN	_	3	PMOD	207252	_
+6	by	by	_	IN	_	5	NMOD	_	_
+7	water	water	_	NN	_	6	PMOD	207250	_
+8	.	.	_	.	_	0	ROOT	_	_

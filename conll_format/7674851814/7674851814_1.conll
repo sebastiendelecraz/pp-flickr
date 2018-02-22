@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	273212	_
+2	child	child	_	NN	_	3	SBJ	273212	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	273213	_
+6	hill	hill	_	NN	_	4	PMOD	273213	_
+7	above	above	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	273214	_
+9	village	village	_	NN	_	7	PMOD	273214	_
+10	holding	hold	_	VBG	_	3	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	273217	_
+12	piece	piece	_	NN	_	10	OBJ	273217	_
+13	of	of	_	IN	_	12	NMOD	273217	_
+14	cloth	cloth	_	NN	_	13	PMOD	273217	_
+15	and	and	_	CC	_	14	COORD	_	_
+16	papers	paper	_	NNS	_	15	CONJ	273215	_
+17	.	.	_	.	_	3	P	_	_

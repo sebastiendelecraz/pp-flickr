@@ -1,0 +1,17 @@
+1	People	People	_	NNPS	_	2	SBJ	223391	_
+2	mill	mill	_	VBP	_	0	ROOT	223391	_
+3	in front of	in front of	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	223388	_
+5	building	building	_	NN	_	3	PMOD	223388	_
+6	that	that	_	WDT	_	7	SBJ	_	_
+7	features	feature	_	VBZ	_	5	NMOD	223394	_
+8	a	a	_	DT	_	9	NMOD	223392	_
+9	colonnade	colonnade	_	NN	_	7	OBJ	223392	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	posters	poster	_	NNS	_	10	CONJ	223390	_
+12	of	of	_	IN	_	11	NMOD	223390	_
+13	words	word	_	NNS	_	12	PMOD	223390	_
+14	in	in	_	IN	_	11	LOC	_	_
+15	stylized	stylize	_	VBN	_	16	NMOD	223395	_
+16	type	type	_	NN	_	14	PMOD	223395	_
+17	.	.	_	.	_	2	P	_	_

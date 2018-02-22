@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	217366	_
+2	man	man	_	NN	_	3	SBJ	217366	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	217370	_
+6	liquor	liquor	_	NN	_	7	NMOD	217370	_
+7	store	store	_	NN	_	4	PMOD	217370	_
+8	with	with	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	11	NMOD	217367	_
+10	bright	bright	_	JJ	_	11	NMOD	217367	_
+11	display	display	_	NN	_	8	PMOD	217367	_
+12	.	.	_	.	_	3	P	_	_

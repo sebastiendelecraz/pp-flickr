@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	264588	_
+2	juggler	juggler	_	NN	_	7	SBJ	264588	_
+3	on	on	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	264589	_
+5	Unicycle	Unicycle	_	NNP	_	6	NMOD	264589	_
+6	throwing	throwing	_	NN	_	3	PMOD	_	_
+7	red	red	_	VBD	_	0	ROOT	264595	_
+8	pins	pin	_	NNS	_	7	OBJ	264595	_
+9	in	in	_	IN	_	7	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	air	air	_	NN	_	9	PMOD	0	_
+12	with	with	_	IN	_	7	ADV	_	_
+13	a	a	_	DT	_	15	NMOD	264592	_
+14	little	little	_	JJ	_	15	NMOD	264592	_
+15	girl	girl	_	NN	_	12	PMOD	264592	_
+16	next to	next to	_	IN	_	7	ADV	_	_
+17	him	him	_	PRP	_	16	PMOD	0	_
+18	dancing	dance	_	VBG	_	7	ADV	_	_
+19	in	in	_	IN	_	18	LOC	_	18
+20	a	a	_	DT	_	21	NMOD	264590	_
+21	crowd	crowd	_	NN	_	19	PMOD	264590	_
+22	of	of	_	IN	_	21	NMOD	264590	_
+23	onlookers	onlooker	_	NNS	_	22	PMOD	264590	_
+24	.	.	_	.	_	7	P	_	_

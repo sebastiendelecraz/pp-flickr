@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	260314	_
+2	bearded	beard	_	VBN	_	3	NMOD	260314	_
+3	man	man	_	NN	_	11	SBJ	260314	_
+4	,	,	_	,	_	11	P	_	_
+5	wearing	wear	_	VBG	_	11	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	260321	_
+7	hat	hat	_	NN	_	5	OBJ	260321	_
+8	and	and	_	CC	_	5	COORD	_	_
+9	vest	vest	_	VBD	_	8	CONJ	260322	_
+10	,	,	_	,	_	11	P	_	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	standing	stand	_	VBG	_	11	VC	_	_
+13	next to	next to	_	IN	_	12	ADV	_	12
+14	an	an	_	DT	_	16	NMOD	260315	_
+15	open	open	_	JJ	_	16	NMOD	260315	_
+16	fire	fire	_	NN	_	13	PMOD	260315	_
+17	from	from	_	IN	_	16	NMOD	_	16
+18	a	a	_	DT	_	19	NMOD	260319	_
+19	stove	stove	_	NN	_	17	PMOD	260319	_
+20	.	.	_	.	_	11	P	_	_

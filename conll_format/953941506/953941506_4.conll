@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	284080	_
+2	beagle	beagle	_	NN	_	3	SBJ	284080	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	284081	_
+6	beach	beach	_	NN	_	4	PMOD	284081	_
+7	next to	next to	_	IN	_	3	LOC	_	3
+8	some	some	_	DT	_	9	NMOD	284083	_
+9	waves	wave	_	NNS	_	7	PMOD	284083	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	143204	_
+2	group	group	_	NN	_	5	SBJ	143204	_
+3	of	of	_	IN	_	2	NMOD	143204	_
+4	people	people	_	NN	_	3	PMOD	143204	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	gathered	gather	_	VBN	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	143209	_
+9	woods	wood	_	NNS	_	7	PMOD	143209	_
+10	around	around	_	IN	_	6	LOC	_	6
+11	trees	tree	_	NNS	_	10	PMOD	143207	_
+12	and	and	_	CC	_	5	COORD	_	_
+13	a	a	_	DT	_	14	NMOD	143206	_
+14	ladder	ladder	_	NN	_	12	CONJ	143206	_
+15	.	.	_	.	_	5	P	_	_

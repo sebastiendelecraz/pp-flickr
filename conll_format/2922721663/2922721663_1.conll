@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	81562	_
+2	men	man	_	NNS	_	6	SBJ	81562	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	robes	robe	_	NNS	_	4	PMOD	81564	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC-PRD	_	6
+8	a	a	_	DT	_	11	NMOD	81571	_
+9	brightly	brightly	_	RB	_	10	AMOD	81571	_
+10	decorated	decorate	_	VBN	_	11	NMOD	81571	_
+11	room	room	_	NN	_	7	PMOD	81571	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	candles	candle	_	NNS	_	12	PMOD	81567	_
+14	.	.	_	.	_	6	P	_	_

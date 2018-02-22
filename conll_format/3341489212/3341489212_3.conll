@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	110958	_
+2	young	young	_	JJ	_	3	NMOD	110958	_
+3	girl	girl	_	NN	_	4	SBJ	110958	_
+4	whips	whip	_	VBZ	_	0	ROOT	_	_
+5	her	her	_	PRP$	_	6	NMOD	110960	_
+6	hair	hair	_	NN	_	4	OBJ	110960	_
+7	over	over	_	IN	_	4	ADV	_	4
+8	her	her	_	PRP$	_	9	NMOD	110961	_
+9	head	head	_	NN	_	7	PMOD	110961	_
+10	in	in	_	IN	_	4	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	110958	_
+12	public	public	_	JJ	_	13	NMOD	110958	_
+13	pool	pool	_	NN	_	10	PMOD	110958	_
+14	.	.	_	.	_	4	P	_	_

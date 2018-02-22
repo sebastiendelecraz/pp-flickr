@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	2	NMOD	226922	_
+2	baby	baby	_	NN	_	0	ROOT	226922	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	226923	_
+5	bed	bed	_	NN	_	3	PMOD	226923	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	226924	_
+8	hooded	hood	_	VBN	_	9	NMOD	226924	_
+9	jacket	jacket	_	NN	_	6	PMOD	226924	_
+10	holding	hold	_	VBG	_	9	APPO	_	_
+11	a	a	_	DT	_	13	NMOD	226925	_
+12	light	light	_	JJ	_	13	NMOD	226925	_
+13	stick	stick	_	NN	_	10	OBJ	226925	_
+14	.	.	_	.	_	0	ROOT	_	_

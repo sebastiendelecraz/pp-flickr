@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	37772	_
+2	woman	woman	_	NN	_	3	SBJ	37772	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	8	NMOD	37775	_
+6	fancy	fancy	_	NN	_	8	NMOD	37775	_
+7	blue	blue	_	JJ	_	8	NMOD	37775	_
+8	car	car	_	NN	_	4	PMOD	37775	_
+9	in front of	in front of	_	IN	_	3	LOC	_	_
+10	Nathalie	Nathalie	_	NNP	_	12	NMOD	37773	_
+11	'	'	_	POS	_	10	SUFFIX	37773	_
+12	s	s	_	NN	_	9	PMOD	37773	_
+13	DollHouse	DollHouse	_	NNP	_	12	APPO	37773	_
+14	.	.	_	.	_	0	ROOT	_	_

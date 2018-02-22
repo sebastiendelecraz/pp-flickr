@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	127941	_
+2	bald	bald	_	JJ	_	3	NMOD	127941	_
+3	man	man	_	NN	_	4	SBJ	127941	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	taking	take	_	VBG	_	4	VC	_	_
+6	shots	shot	_	NNS	_	5	OBJ	127942	_
+7	of	of	_	IN	_	6	NMOD	127942	6
+8	a	a	_	DT	_	9	NMOD	127942	_
+9	body	body	_	NN	_	7	PMOD	127942	_
+10	of	of	_	IN	_	9	NMOD	127942	_
+11	water	water	_	NN	_	10	PMOD	127942	_
+12	from	from	_	IN	_	6	NMOD	_	5
+13	a	a	_	DT	_	14	NMOD	127944	_
+14	camera	camera	_	NN	_	12	PMOD	127944	_
+15	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	146648	_
+2	man	man	_	NN	_	3	SBJ	146648	_
+3	paddles	paddle	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	146653	_
+6	canoe	canoe	_	NN	_	4	PMOD	146653	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	calm	calm	_	NN	_	9	NMOD	146650	_
+9	water	water	_	NN	_	7	PMOD	146650	_
+10	.	.	_	.	_	3	P	_	_

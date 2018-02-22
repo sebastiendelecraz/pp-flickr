@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	5989	_
+2	artist	artist	_	NN	_	3	NMOD	5989	_
+3	consults	consult	_	NNS	_	5	NMOD	_	_
+4	the	the	_	DT	_	5	NMOD	5990	_
+5	plan	plan	_	NN	_	0	ROOT	5990	_
+6	for	for	_	IN	_	5	NMOD	_	3
+7	her	her	_	PRP$	_	8	NMOD	5994	_
+8	section	section	_	NN	_	6	PMOD	5994	_
+9	of	of	_	IN	_	8	NMOD	5994	_
+10	an	an	_	DT	_	12	NMOD	5994	_
+11	elaborate	elaborate	_	JJ	_	12	NMOD	5994	_
+12	chalk	chalk	_	NN	_	9	PMOD	5994	_
+13	drawing	draw	_	VBG	_	12	APPO	_	_
+14	on	on	_	IN	_	13	ADV	_	_
+15	a	a	_	DT	_	16	NMOD	5991	_
+16	sidewalk	sidewalk	_	NN	_	14	PMOD	5991	_
+17	.	.	_	.	_	0	ROOT	_	_

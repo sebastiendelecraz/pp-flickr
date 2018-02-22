@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	4	NMOD	6461	_
+2	restaurant	restaurant	_	NN	_	3	NMOD	6461	_
+3	employees	employee	_	NNS	_	4	NMOD	6461	_
+4	exchange	exchange	_	NN	_	6	NMOD	_	_
+5	a	a	_	DT	_	6	NMOD	6464	_
+6	plate	plate	_	NN	_	0	ROOT	6464	_
+7	of	of	_	IN	_	6	NMOD	6464	_
+8	food	food	_	NN	_	7	PMOD	6464	_
+9	under	under	_	IN	_	6	LOC	_	4
+10	a	a	_	DT	_	14	NMOD	6459	_
+11	Mongolian	Mongolian	_	JJ	_	14	NMOD	6459	_
+12	BBQ	BBQ	_	NNP	_	14	NMOD	6459	_
+13	neon	neon	_	NN	_	14	NMOD	6459	_
+14	sign	sign	_	NN	_	9	PMOD	6459	_
+15	.	.	_	.	_	0	ROOT	_	_

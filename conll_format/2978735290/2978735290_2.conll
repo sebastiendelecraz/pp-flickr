@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	85244	_
+2	boy	boy	_	NN	_	3	SBJ	85244	_
+3	makes	make	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	85244	_
+5	jumping	jump	_	VBG	_	6	NMOD	85244	_
+6	dive	dive	_	NN	_	3	OBJ	85244	_
+7	toward	toward	_	IN	_	6	NMOD	_	3
+8	another	another	_	DT	_	9	NMOD	85244	_
+9	boy	boy	_	NN	_	7	PMOD	85244	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	a	a	_	DT	_	13	NMOD	85246	_
+12	soccer	soccer	_	NN	_	13	NMOD	85246	_
+13	ball	ball	_	NN	_	10	PMOD	85246	_
+14	near	near	_	IN	_	13	LOC	_	_
+15	.	.	_	.	_	3	P	_	_

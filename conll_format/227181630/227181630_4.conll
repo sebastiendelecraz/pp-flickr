@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	38174	_
+2	guys	guy	_	NNS	_	3	SBJ	38174	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	38175	_
+6	bench	bench	_	NN	_	4	PMOD	38175	_
+7	outside of	outside of	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	38176	_
+9	beverage	beverage	_	NN	_	10	NMOD	38176	_
+10	shop	shop	_	NN	_	7	PMOD	38176	_
+11	talking	talk	_	VBG	_	10	APPO	_	_
+12	.	.	_	.	_	3	P	_	_

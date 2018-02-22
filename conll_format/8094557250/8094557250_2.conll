@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	278987	_
+2	woman	woman	_	NN	_	3	SBJ	278987	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	looking	look	_	VBG	_	3	VC	_	_
+5	out	out	_	RP	_	4	PRT	_	_
+6	onto	onto	_	IN	_	4	ADV	_	4
+7	the	the	_	DT	_	8	NMOD	278993	_
+8	water	water	_	NN	_	6	PMOD	278993	_
+9	with	with	_	IN	_	4	ADV	_	4
+10	a	a	_	DT	_	13	NMOD	278988	_
+11	beautiful	beautiful	_	JJ	_	13	NMOD	278988	_
+12	city	city	_	NN	_	13	NMOD	278988	_
+13	scenery	scenery	_	NN	_	9	PMOD	278988	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	background	background	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	3	P	_	_

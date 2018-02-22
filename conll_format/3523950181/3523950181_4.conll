@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	124691	_
+2	group	group	_	NN	_	0	ROOT	124691	_
+3	of	of	_	IN	_	2	NMOD	124691	_
+4	hockey	hockey	_	NN	_	5	NMOD	124691	_
+5	players	player	_	NNS	_	3	PMOD	124691	_
+6	around	around	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	124693	_
+8	goal	goal	_	NN	_	6	PMOD	124693	_
+9	.	.	_	.	_	0	ROOT	_	_

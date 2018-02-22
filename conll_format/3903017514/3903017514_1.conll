@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	3	NMOD	147540	_
+2	blond	blond	_	JJ	_	3	NMOD	147540	_
+3	man	man	_	NN	_	0	ROOT	147540	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	147547	_
+6	tan	tan	_	NN	_	4	PMOD	147547	_
+7	colored	color	_	VBN	_	8	NMOD	147547	_
+8	shirt	shirt	_	NN	_	9	SBJ	147547	_
+9	is	be	_	VBZ	_	3	NMOD	_	_
+10	leaning	lean	_	VBG	_	9	VC	_	_
+11	against	against	_	IN	_	10	ADV	_	10
+12	the	the	_	DT	_	13	NMOD	147542	_
+13	window	window	_	NN	_	11	PMOD	147542	_
+14	on	on	_	IN	_	10	TMP	_	_
+15	the	the	_	DT	_	16	NMOD	147541	_
+16	inside of	inside of	_	JJ	_	14	PMOD	147541	_
+17	a	a	_	DT	_	18	NMOD	147541	_
+18	building	building	_	NN	_	16	NMOD	147541	_
+19	with	with	_	IN	_	16	NMOD	_	_
+20	a	a	_	DT	_	21	NMOD	147548	_
+21	fish	fish	_	NN	_	19	PMOD	147548	_
+22	like	like	_	IN	_	21	NMOD	_	23
+23	design	design	_	NN	_	22	PMOD	147542	_
+24	on	on	_	IN	_	21	LOC	_	_
+25	the	the	_	DT	_	26	NMOD	147546	_
+26	windows	window	_	NNS	_	24	PMOD	147546	_
+27	.	.	_	.	_	0	ROOT	_	_

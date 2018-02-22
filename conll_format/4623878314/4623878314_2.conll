@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	2	NMOD	183949	_
+2	man	man	_	NN	_	8	SBJ	183949	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	183950	_
+5	cigarette	cigarette	_	NN	_	3	PMOD	183950	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	hand	hand	_	NN	_	6	PMOD	183952	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	looking	look	_	VBG	_	8	VC	_	_
+10	at	at	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	183959	_
+12	car	car	_	NN	_	10	PMOD	183959	_
+13	in front of	in front of	_	IN	_	9	ADV	_	_
+14	him	him	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	8	P	_	_

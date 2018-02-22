@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	21954	_
+2	blond	blond	_	JJ	_	3	NMOD	21954	_
+3	boy	boy	_	NN	_	4	SBJ	21954	_
+4	smiles	smile	_	VBZ	_	0	ROOT	_	_
+5	with	with	_	IN	_	4	ADV	_	_
+6	his	his	_	PRP$	_	7	NMOD	21955	_
+7	eyes	eye	_	NNS	_	8	SBJ	21955	_
+8	closed	close	_	VBD	_	5	SUB	_	_
+9	,	,	_	,	_	8	P	_	_
+10	buried	bury	_	VBN	_	8	ADV	_	_
+11	up to	up to	_	IN	_	10	AMOD	_	10
+12	his	his	_	PRP$	_	13	NMOD	21956	_
+13	neck	neck	_	NN	_	11	PMOD	21956	_
+14	in	in	_	IN	_	10	LOC	_	_
+15	sand	sand	_	NN	_	14	PMOD	21958	_
+16	.	.	_	.	_	4	P	_	_

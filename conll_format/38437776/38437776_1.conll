@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	145277	_
+2	men	man	_	NNS	_	3	SBJ	145277	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	atop	atop	_	IN	_	3	LOC-PRD	_	3
+5	a	a	_	DT	_	7	NMOD	145281	_
+6	white	white	_	JJ	_	7	NMOD	145281	_
+7	surface	surface	_	NN	_	4	PMOD	145281	_
+8	within	within	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	11	NMOD	145278	_
+10	cloudy	cloudy	_	JJ	_	11	NMOD	145278	_
+11	waterfront	waterfront	_	NN	_	8	PMOD	145278	_
+12	setting	set	_	VBG	_	11	APPO	_	_
+13	.	.	_	.	_	3	P	_	_

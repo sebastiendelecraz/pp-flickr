@@ -1,0 +1,11 @@
+1	Some	some	_	DT	_	2	SBJ	27567	_
+2	were	be	_	VBD	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC-PRD	_	2
+4	a	a	_	DT	_	5	NMOD	27569	_
+5	city	city	_	NN	_	3	PMOD	27569	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	tall	tall	_	JJ	_	8	NMOD	27572	_
+8	buildings	building	_	NNS	_	6	PMOD	27572	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	people	people	_	NN	_	9	CONJ	27571	_
+11	.	.	_	.	_	2	P	_	_

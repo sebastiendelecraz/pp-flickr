@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	25844	_
+2	woman	woman	_	NN	_	0	ROOT	25844	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	25845	_
+5	black	black	_	JJ	_	6	NMOD	25845	_
+6	cap	cap	_	NN	_	3	PMOD	25845	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	outfit	outfit	_	NN	_	9	NMOD	25846	_
+9	sits	sit	_	NNS	_	7	CONJ	_	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	25844	_
+12	sand	sand	_	NN	_	10	PMOD	25844	_
+13	.	.	_	.	_	0	ROOT	_	_

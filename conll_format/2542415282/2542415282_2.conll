@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	3	NMOD	57040	_
+2	young	young	_	JJ	_	3	NMOD	57040	_
+3	girls	girl	_	NNS	_	0	ROOT	57040	_
+4	making	make	_	VBG	_	3	APPO	_	_
+5	upside	upside	_	RB	_	6	PMOD	57041	_
+6	down	down	_	IN	_	4	ADV	57041	8
+7	cupcake	cupcake	_	NN	_	8	NMOD	57041	_
+8	shapes	shape	_	NNS	_	6	PMOD	57041	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	57044	_
+11	sand	sand	_	NN	_	9	PMOD	57044	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	4	NMOD	222501	_
+2	black	black	_	JJ	_	4	NMOD	222501	_
+3	little	little	_	JJ	_	4	NMOD	222501	_
+4	boys	boy	_	NNS	_	5	SBJ	222501	_
+5	hanging	hang	_	VBG	_	13	ADV	_	_
+6	over	over	_	IN	_	5	ADV	_	5
+7	an	an	_	DT	_	8	NMOD	222502	_
+8	upside	upside	_	NN	_	6	PMOD	222502	_
+9	down	down	_	IN	_	8	NMOD	222502	10
+10	bicycle	bicycle	_	NN	_	9	PMOD	222502	_
+11	,	,	_	,	_	13	P	_	_
+12	one	one	_	CD	_	13	SBJ	222503	_
+13	examining	examine	_	VBG	_	0	ROOT	_	_
+14	the	the	_	DT	_	15	NMOD	222504	_
+15	pedal	pedal	_	NN	_	13	OBJ	222504	_
+16	.	.	_	.	_	0	ROOT	_	_

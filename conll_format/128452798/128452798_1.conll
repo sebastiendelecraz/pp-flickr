@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	7267	_
+2	kid	kid	_	NN	_	3	SBJ	7267	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	pulling	pull	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	7268	_
+6	man	man	_	NN	_	4	OBJ	7268	_
+7	trying	try	_	VBG	_	6	APPO	_	_
+8	to	to	_	TO	_	7	OPRD	_	_
+9	get	get	_	VB	_	8	IM	_	_
+10	him	him	_	PRP	_	9	OBJ	0	_
+11	to	to	_	TO	_	9	OPRD	_	_
+12	do	do	_	VB	_	11	IM	_	_
+13	something	something	_	NN	_	12	OBJ	7277	_
+14	in front of	in front of	_	IN	_	12	ADV	_	12
+15	a	a	_	DT	_	16	NMOD	7269	_
+16	crowd	crowd	_	NN	_	14	PMOD	7269	_
+17	of	of	_	IN	_	16	NMOD	7269	_
+18	people	people	_	NN	_	17	PMOD	7269	_
+19	.	.	_	.	_	3	P	_	_

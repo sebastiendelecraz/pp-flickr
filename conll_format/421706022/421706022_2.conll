@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	159355	_
+2	man	man	_	NN	_	0	ROOT	159355	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	black	black	_	JJ	_	5	NMOD	159362	_
+5	stands	stand	_	NNS	_	3	PMOD	_	_
+6	between	between	_	IN	_	5	NMOD	_	5
+7	two	two	_	CD	_	10	NMOD	159360	_
+8	huge	huge	_	JJ	_	10	NMOD	159360	_
+9	soft	soft	_	JJ	_	10	NMOD	159360	_
+10	toys	toy	_	NNS	_	6	PMOD	159360	_
+11	at	at	_	IN	_	2	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	159361	_
+13	fairground	fairground	_	NN	_	11	PMOD	159361	_
+14	.	.	_	.	_	0	ROOT	_	_

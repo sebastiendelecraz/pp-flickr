@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	5	NMOD	157401	_
+2	orange	orange	_	JJ	_	5	NMOD	157401	_
+3	and	and	_	CC	_	2	COORD	157401	_
+4	yellow	yellow	_	JJ	_	3	CONJ	157401	_
+5	ambulance	ambulance	_	NN	_	0	ROOT	157401	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	157408	_
+8	street	street	_	NN	_	6	PMOD	157408	_
+9	next to	next to	_	IN	_	5	NMOD	_	5
+10	a	a	_	DT	_	11	NMOD	157410	_
+11	crane	crane	_	NN	_	9	PMOD	157410	_
+12	.	.	_	.	_	0	ROOT	_	_

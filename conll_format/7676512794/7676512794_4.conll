@@ -1,0 +1,14 @@
+1	One	One	_	CD	_	4	NMOD	273234	_
+2	Asian	Asian	_	JJ	_	4	NMOD	273234	_
+3	cook	cook	_	NN	_	4	NMOD	273234	_
+4	watches	watch	_	NNS	_	6	NMOD	_	_
+5	another	another	_	DT	_	6	NMOD	273240	_
+6	cook	cook	_	NN	_	0	ROOT	273240	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	273237	_
+9	griddle	griddle	_	NN	_	7	PMOD	273237	_
+10	in	in	_	IN	_	6	LOC	_	6
+11	a	a	_	DT	_	13	NMOD	273236	_
+12	commercial	commercial	_	JJ	_	13	NMOD	273236	_
+13	kitchen	kitchen	_	NN	_	10	PMOD	273236	_
+14	.	.	_	.	_	0	ROOT	_	_

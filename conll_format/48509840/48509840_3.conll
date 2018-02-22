@@ -1,0 +1,15 @@
+1	Men	Men	_	NNPS	_	0	ROOT	210582	_
+2	with	with	_	IN	_	0	ROOT	_	_
+3	shovels	shovel	_	NNS	_	4	SBJ	210587	_
+4	work	work	_	VBP	_	2	SUB	_	_
+5	to	to	_	TO	_	4	OPRD	_	_
+6	pick	pick	_	VB	_	5	IM	_	_
+7	up	up	_	RP	_	6	PRT	_	_
+8	a	a	_	DT	_	9	NMOD	210588	_
+9	pile	pile	_	NN	_	6	OBJ	210588	_
+10	of	of	_	IN	_	9	NMOD	210588	_
+11	dirt	dirt	_	NN	_	10	PMOD	210588	_
+12	from	from	_	IN	_	9	NMOD	_	6
+13	a	a	_	DT	_	14	NMOD	210586	_
+14	street	street	_	NN	_	12	PMOD	210586	_
+15	.	.	_	.	_	0	ROOT	_	_

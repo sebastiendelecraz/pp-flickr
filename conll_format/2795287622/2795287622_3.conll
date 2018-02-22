@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	73303	_
+2	girl	girl	_	NN	_	3	SBJ	73303	_
+3	jumps	jump	_	VBZ	_	0	ROOT	_	_
+4	off	off	_	RP	_	3	PRT	_	_
+5	of	of	_	IN	_	3	ADV	_	_
+6	a	a	_	DT	_	8	NMOD	73304	_
+7	diving	dive	_	VBG	_	8	NMOD	73304	_
+8	board	board	_	NN	_	5	PMOD	73304	_
+9	into	into	_	IN	_	3	ADV	_	3
+10	a	a	_	DT	_	11	NMOD	73305	_
+11	pool	pool	_	NN	_	9	PMOD	73305	_
+12	.	.	_	.	_	3	P	_	_

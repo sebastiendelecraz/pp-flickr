@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	235855	_
+2	dock	dock	_	NN	_	0	ROOT	235855	_
+3	full	full	_	JJ	_	2	APPO	235855	_
+4	of	of	_	IN	_	3	AMOD	235855	_
+5	people	people	_	NN	_	4	PMOD	235855	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	235858	_
+8	vendor	vendor	_	NN	_	6	PMOD	235858	_
+9	under	under	_	IN	_	5	LOC	_	8
+10	a	a	_	DT	_	12	NMOD	235864	_
+11	red	red	_	JJ	_	12	NMOD	235864	_
+12	umbrella	umbrella	_	NN	_	9	PMOD	235864	_
+13	.	.	_	.	_	0	ROOT	_	_

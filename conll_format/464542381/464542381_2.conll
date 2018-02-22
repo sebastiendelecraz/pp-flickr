@@ -1,0 +1,14 @@
+1	people	people	_	NN	_	9	SBJ	186173	_
+2	sitting	sit	_	VBG	_	1	APPO	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	wood	wood	_	NN	_	5	NMOD	186176	_
+5	chairs	chair	_	NNS	_	3	PMOD	186176	_
+6	along	along	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	186177	_
+8	palm	palm	_	NN	_	6	PMOD	186177	_
+9	lined	line	_	VBD	_	0	ROOT	_	_
+10	street	street	_	NN	_	9	OBJ	186175	_
+11	with	with	_	IN	_	9	ADV	_	_
+12	tall	tall	_	JJ	_	13	NMOD	186181	_
+13	lanterns	lantern	_	NNS	_	11	PMOD	186181	_
+14	.	.	_	.	_	9	P	_	_

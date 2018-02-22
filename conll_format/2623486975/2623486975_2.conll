@@ -1,0 +1,15 @@
+1	Construction	construction	_	NN	_	2	NMOD	62175	_
+2	workers	worker	_	NNS	_	3	SBJ	62175	_
+3	stand	stand	_	VBP	_	0	ROOT	_	_
+4	next to	next to	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	10	NMOD	62178	_
+6	green	green	_	JJ	_	10	NMOD	62178	_
+7	and	and	_	CC	_	6	COORD	62178	_
+8	white	white	_	JJ	_	7	CONJ	62178	_
+9	cement	cement	_	NN	_	10	NMOD	62178	_
+10	mixer	mixer	_	NN	_	4	PMOD	62178	_
+11	at	at	_	IN	_	3	LOC	_	3
+12	a	a	_	DT	_	14	NMOD	62183	_
+13	construction	construction	_	NN	_	14	NMOD	62183	_
+14	site	site	_	NN	_	11	PMOD	62183	_
+15	.	.	_	.	_	3	P	_	_

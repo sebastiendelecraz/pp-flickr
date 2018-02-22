@@ -1,0 +1,15 @@
+1	Woman	Woman	_	NNP	_	4	SBJ	3587	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	man	man	_	NN	_	2	CONJ	3588	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	across	across	_	IN	_	4	DIR	_	4
+6	wooden	wooden	_	JJ	_	8	NMOD	3589	_
+7	rope	rope	_	NN	_	8	NMOD	3589	_
+8	bridge	bridge	_	NN	_	5	PMOD	3589	_
+9	with	with	_	IN	_	8	NMOD	_	4
+10	a	a	_	DT	_	12	NMOD	3590	_
+11	caution	caution	_	NN	_	12	NMOD	3590	_
+12	sign	sign	_	NN	_	9	PMOD	3590	_
+13	beside	beside	_	IN	_	4	DIR	_	_
+14	it	it	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

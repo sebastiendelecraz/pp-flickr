@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	31935	_
+2	family	family	_	NN	_	0	ROOT	31935	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	the	the	_	DT	_	5	NMOD	31932	_
+5	shores	shore	_	NNS	_	3	PMOD	31932	_
+6	of	of	_	IN	_	5	NMOD	31932	5
+7	a	a	_	DT	_	8	NMOD	31932	_
+8	beach	beach	_	NN	_	6	PMOD	31932	_
+9	looking	look	_	VBG	_	5	APPO	_	_
+10	for	for	_	IN	_	9	ADV	_	9
+11	crabs	crab	_	NNS	_	10	PMOD	31942	_
+12	wondering	wonder	_	VBG	_	11	APPO	_	_
+13	around	around	_	IN	_	12	DIR	_	_
+14	on	on	_	IN	_	12	ADV	_	_
+15	the	the	_	DT	_	16	NMOD	31933	_
+16	rocks	rock	_	NNS	_	14	PMOD	31933	_
+17	.	.	_	.	_	0	ROOT	_	_

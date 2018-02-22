@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	254437	_
+2	elderly	elderly	_	NN	_	3	NMOD	254437	_
+3	man	man	_	NN	_	7	SBJ	254437	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	254439	_
+6	party	party	_	NN	_	4	PMOD	254439	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	picking	pick	_	VBG	_	7	VC	_	_
+9	up	up	_	RP	_	8	PRT	_	_
+10	something	something	_	NN	_	8	OBJ	254436	_
+11	from	from	_	IN	_	10	NMOD	_	8
+12	a	a	_	DT	_	13	NMOD	254441	_
+13	tray	tray	_	NN	_	11	PMOD	254441	_
+14	on	on	_	IN	_	10	NMOD	_	_
+15	a	a	_	DT	_	16	NMOD	254435	_
+16	table	table	_	NN	_	14	PMOD	254435	_
+17	.	.	_	.	_	7	P	_	_

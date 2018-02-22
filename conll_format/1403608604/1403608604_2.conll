@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	11423	_
+2	woman	woman	_	NN	_	7	SBJ	11423	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	11420	_
+5	young	young	_	JJ	_	6	NMOD	11420	_
+6	man	man	_	NN	_	3	CONJ	11420	_
+7	are	be	_	VBP	_	0	ROOT	_	_
+8	setting	set	_	VBG	_	7	VC	_	_
+9	at	at	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	11425	_
+11	table	table	_	NN	_	9	PMOD	11425	_
+12	in	in	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	15	NMOD	11426	_
+14	Mexican	Mexican	_	JJ	_	15	NMOD	11426	_
+15	restaurant	restaurant	_	NN	_	12	PMOD	11426	_
+16	.	.	_	.	_	7	P	_	_

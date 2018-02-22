@@ -1,0 +1,14 @@
+1	Women	woman	_	NNS	_	4	SBJ	36645	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	dresses	dress	_	NNS	_	2	PMOD	36649	_
+4	touch	touch	_	VBP	_	0	ROOT	36655	_
+5	up	up	_	RP	_	4	PRT	_	_
+6	their	their	_	PRP$	_	7	NMOD	36653	_
+7	makeup	makeup	_	NN	_	4	OBJ	36653	_
+8	in front of	in front of	_	IN	_	7	NMOD	_	_
+9	mirrors	mirror	_	NNS	_	8	PMOD	36646	_
+10	in	in	_	IN	_	7	LOC	_	4
+11	a	a	_	DT	_	13	NMOD	36652	_
+12	dressing	dressing	_	NN	_	13	NMOD	36652	_
+13	room	room	_	NN	_	10	PMOD	36652	_
+14	.	.	_	.	_	4	P	_	_

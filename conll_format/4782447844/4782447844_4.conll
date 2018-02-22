@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	202275	_
+2	man	man	_	NN	_	3	SBJ	202275	_
+3	takes	take	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	202281	_
+5	picture	picture	_	NN	_	3	OBJ	202281	_
+6	of	of	_	IN	_	5	NMOD	202281	5
+7	a	a	_	DT	_	8	NMOD	202281	_
+8	bird	bird	_	NN	_	6	PMOD	202281	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	202277	_
+11	water	water	_	NN	_	9	PMOD	202277	_
+12	.	.	_	.	_	3	P	_	_

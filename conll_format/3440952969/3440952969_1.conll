@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	118484	_
+2	long-haired	long-haired	_	JJ	_	3	NMOD	118484	_
+3	skateboarder	skateboarder	_	NN	_	4	SBJ	118484	_
+4	is	be	_	VBZ	_	11	SBJ	_	_
+5	airborne	airborne	_	JJ	_	4	PRD	_	_
+6	above	above	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	8	NMOD	118487	_
+8	set	set	_	NN	_	6	PMOD	118487	_
+9	of	of	_	IN	_	8	NMOD	118487	_
+10	cements	cement	_	NNS	_	9	PMOD	118487	_
+11	steps	step	_	VBZ	_	0	ROOT	118487	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	a	a	_	DT	_	14	NMOD	118485	_
+14	metal	metal	_	NN	_	15	TITLE	118485	_
+15	Bannister	Bannister	_	NNP	_	12	CONJ	118485	_
+16	.	.	_	.	_	11	P	_	_

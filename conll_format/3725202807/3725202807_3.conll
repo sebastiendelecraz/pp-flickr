@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	139812	_
+2	man	man	_	NN	_	0	ROOT	139812	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	139816	_
+5	woman	woman	_	NN	_	6	NMOD	139816	_
+6	walk	walk	_	NN	_	3	CONJ	_	_
+7	past	past	_	IN	_	2	NMOD	_	6
+8	a	a	_	DT	_	10	NMOD	139813	_
+9	red	red	_	JJ	_	10	NMOD	139813	_
+10	car	car	_	NN	_	7	PMOD	139813	_
+11	with	with	_	IN	_	2	NMOD	_	_
+12	a	a	_	DT	_	15	NMOD	139814	_
+13	silver	silver	_	NN	_	14	NMOD	139814	_
+14	hood	hood	_	NN	_	15	NMOD	139814	_
+15	ornament	ornament	_	NN	_	11	PMOD	139814	_
+16	.	.	_	.	_	0	ROOT	_	_

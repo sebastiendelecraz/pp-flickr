@@ -1,0 +1,17 @@
+1	Asian	Asian	_	JJ	_	2	NMOD	52003	_
+2	fisherman	fisherman	_	NN	_	3	SBJ	52003	_
+3	holding	hold	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	52007	_
+5	fish	fish	_	NN	_	3	OBJ	52007	_
+6	up	up	_	RP	_	3	PRT	_	_
+7	posing	pose	_	VBG	_	3	OPRD	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	52009	_
+10	picture	picture	_	NN	_	8	PMOD	52009	_
+11	on	on	_	IN	_	7	ADV	_	7
+12	a	a	_	DT	_	13	NMOD	52006	_
+13	boat	boat	_	NN	_	11	PMOD	52006	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	52008	_
+16	ocean	ocean	_	NN	_	14	PMOD	52008	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	73859	_
+2	man	man	_	NN	_	0	ROOT	73859	_
+3	that	that	_	WDT	_	4	SBJ	0	_
+4	looks	look	_	VBZ	_	2	NMOD	_	_
+5	like	like	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	73863	_
+7	statue	statue	_	NN	_	5	PMOD	73863	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	the	the	_	DT	_	10	NMOD	73865	_
+10	sidewalk	sidewalk	_	NN	_	8	PMOD	73865	_
+11	.	.	_	.	_	0	ROOT	_	_

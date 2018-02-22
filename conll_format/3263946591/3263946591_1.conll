@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	105489	_
+2	motor-cross	motor-cross	_	CD	_	3	NMOD	105489	_
+3	rider	rider	_	NN	_	0	ROOT	105489	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	red	red	_	JJ	_	6	NMOD	105489	_
+6	splashes	splash	_	NNS	_	4	PMOD	105489	_
+7	through	through	_	IN	_	3	TMP	_	6
+8	mud	mud	_	NN	_	7	PMOD	105491	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	rain	rain	_	NN	_	9	CONJ	105495	_
+11	with	with	_	IN	_	3	NMOD	_	_
+12	his	his	_	PRP$	_	13	NMOD	105490	_
+13	motorcycle	motorcycle	_	NN	_	11	PMOD	105490	_
+14	.	.	_	.	_	0	ROOT	_	_

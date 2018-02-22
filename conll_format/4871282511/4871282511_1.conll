@@ -1,0 +1,15 @@
+1	On	on	_	IN	_	0	ROOT	_	_
+2	rainy	rainy	_	JJ	_	3	NMOD	213424	_
+3	streets	street	_	NNS	_	1	PMOD	213424	_
+4	a	a	_	DT	_	5	NMOD	213422	_
+5	motorcycle	motorcycle	_	NN	_	0	ROOT	213422	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	two	two	_	CD	_	10	NMOD	213421	_
+8	helmeted	helmeted	_	JJ	_	10	NMOD	213421	_
+9	people	people	_	NN	_	10	NMOD	213421	_
+10	stops	stop	_	NNS	_	6	PMOD	_	_
+11	for	for	_	IN	_	10	NMOD	_	10
+12	a	a	_	DT	_	14	NMOD	213427	_
+13	white	white	_	JJ	_	14	NMOD	213427	_
+14	car	car	_	NN	_	11	PMOD	213427	_
+15	.	.	_	.	_	0	ROOT	_	_

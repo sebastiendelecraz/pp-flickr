@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	3	NMOD	128223	_
+2	extreme	extreme	_	NN	_	3	NMOD	128223	_
+3	cyclist	cyclist	_	NN	_	4	SBJ	128223	_
+4	flying	fly	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	0	_
+7	air	air	_	NN	_	5	PMOD	0	_
+8	on	on	_	IN	_	4	LOC	_	_
+9	his	his	_	PRP$	_	11	NMOD	128224	_
+10	green	green	_	JJ	_	11	NMOD	128224	_
+11	bike	bike	_	NN	_	8	PMOD	128224	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	128226	_
+14	rural	rural	_	JJ	_	15	NMOD	128226	_
+15	area	area	_	NN	_	12	PMOD	128226	_
+16	.	.	_	.	_	0	ROOT	_	_

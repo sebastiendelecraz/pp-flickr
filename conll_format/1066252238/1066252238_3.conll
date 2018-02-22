@@ -1,0 +1,13 @@
+1	3	3	_	CD	_	3	NMOD	1650	_
+2	young	young	_	JJ	_	3	NMOD	1650	_
+3	boys	boy	_	NNS	_	4	SBJ	1650	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	riding	ride	_	VBG	_	4	VC	_	_
+6	their	their	_	PRP$	_	7	NMOD	1653	_
+7	bikes	bike	_	NNS	_	5	OBJ	1653	_
+8	around	around	_	IN	_	5	LOC	_	5
+9	a	a	_	DT	_	10	NMOD	1651	_
+10	mound	mound	_	NN	_	8	PMOD	1651	_
+11	of	of	_	IN	_	10	NMOD	1651	_
+12	dirt	dirt	_	NN	_	11	PMOD	1651	_
+13	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	3	NMOD	232118	_
+2	young	young	_	JJ	_	3	NMOD	232118	_
+3	boy	boy	_	NN	_	8	SBJ	232118	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	an	an	_	DT	_	7	NMOD	232120	_
+6	orange	orange	_	JJ	_	7	NMOD	232120	_
+7	shirt	shirt	_	NN	_	4	PMOD	232120	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	laughing	laugh	_	VBG	_	8	VC	_	_
+10	next to	next to	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	13	NMOD	232119	_
+12	young	young	_	JJ	_	13	NMOD	232119	_
+13	boy	boy	_	NN	_	10	PMOD	232119	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	a	a	_	DT	_	17	NMOD	232121	_
+16	yellow	yellow	_	JJ	_	17	NMOD	232121	_
+17	shirt	shirt	_	NN	_	14	PMOD	232121	_
+18	.	.	_	.	_	8	P	_	_

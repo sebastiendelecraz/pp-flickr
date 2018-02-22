@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	169554	_
+2	man	man	_	NN	_	3	SBJ	169554	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	by	by	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	7	NMOD	169555	_
+6	large	large	_	JJ	_	7	NMOD	169555	_
+7	photo	photo	_	NN	_	4	PMOD	169555	_
+8	of	of	_	IN	_	7	NMOD	169555	_
+9	a	a	_	DT	_	10	NMOD	169555	_
+10	person	person	_	NN	_	8	PMOD	169555	_
+11	squeezing	squeeze	_	VBG	_	10	APPO	_	_
+12	their	their	_	PRP$	_	14	NMOD	169558	_
+13	own	own	_	JJ	_	14	NMOD	169558	_
+14	cheeks	cheek	_	NNS	_	11	OBJ	169558	_
+15	.	.	_	.	_	3	P	_	_

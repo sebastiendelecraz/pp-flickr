@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	181364	_
+2	people	people	_	NN	_	3	SBJ	181364	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	LOC-PRD	_	_
+5	a	a	_	DT	_	7	NMOD	181371	_
+6	vegetable	vegetable	_	JJ	_	7	NMOD	181371	_
+7	stand	stand	_	NN	_	4	PMOD	181371	_
+8	by	by	_	IN	_	3	LGS	_	3
+9	a	a	_	DT	_	11	NMOD	181373	_
+10	white	white	_	JJ	_	11	NMOD	181373	_
+11	truck	truck	_	NN	_	8	PMOD	181373	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	35672	_
+2	woman	woman	_	NN	_	3	SBJ	35672	_
+3	works	work	_	VBZ	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	35673	_
+6	chopping	chop	_	VBG	_	7	NMOD	35673	_
+7	board	board	_	NN	_	4	PMOD	35673	_
+8	on	on	_	IN	_	3	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	35674	_
+10	table	table	_	NN	_	8	PMOD	35674	_
+11	holding	hold	_	VBG	_	10	APPO	_	_
+12	large	large	_	JJ	_	13	NMOD	35675	_
+13	containers	container	_	NNS	_	11	OBJ	35675	_
+14	of	of	_	IN	_	13	NMOD	35675	_
+15	prepared	prepare	_	VBN	_	16	NMOD	35675	_
+16	food	food	_	NN	_	14	PMOD	35675	_
+17	.	.	_	.	_	3	P	_	_

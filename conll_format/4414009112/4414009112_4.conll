@@ -1,0 +1,10 @@
+1	Male	Male	_	NNP	_	3	NMOD	166943	_
+2	guitar	guitar	_	NN	_	3	NMOD	166943	_
+3	player	player	_	NN	_	0	ROOT	166943	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	stage	stage	_	NN	_	4	PMOD	166948	_
+6	in	in	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	9	NMOD	166946	_
+8	black	black	_	JJ	_	9	NMOD	166946	_
+9	shirt	shirt	_	NN	_	6	PMOD	166946	_
+10	.	.	_	.	_	0	ROOT	_	_

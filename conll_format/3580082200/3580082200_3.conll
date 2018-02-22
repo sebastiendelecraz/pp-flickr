@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	129234	_
+2	man	man	_	NN	_	3	SBJ	129234	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	training	train	_	VBG	_	3	VC	_	_
+5	his	his	_	PRP$	_	6	NMOD	129235	_
+6	dog	dog	_	NN	_	4	OBJ	129235	_
+7	in	in	_	IN	_	4	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	129235	_
+9	field	field	_	NN	_	7	PMOD	129235	_
+10	near	near	_	IN	_	4	LOC	_	4
+11	the	the	_	DT	_	12	NMOD	129239	_
+12	homes	home	_	NNS	_	10	PMOD	129239	_
+13	.	.	_	.	_	3	P	_	_

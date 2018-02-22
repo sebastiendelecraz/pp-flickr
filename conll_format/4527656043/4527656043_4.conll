@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	175670	_
+2	group	group	_	NN	_	0	ROOT	175670	_
+3	of	of	_	IN	_	2	NMOD	175670	_
+4	people	people	_	NN	_	3	PMOD	175670	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	at	at	_	IN	_	5	LOC	_	_
+7	tables	table	_	NNS	_	6	PMOD	175673	_
+8	near	near	_	IN	_	5	LOC	_	5
+9	a	a	_	DT	_	10	NMOD	175672	_
+10	beach	beach	_	NN	_	8	PMOD	175672	_
+11	.	.	_	.	_	0	ROOT	_	_

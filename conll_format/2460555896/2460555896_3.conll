@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	51184	_
+2	man	man	_	NN	_	0	ROOT	51184	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	51192	_
+5	beard	beard	_	NN	_	3	PMOD	51192	_
+6	in	in	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	51188	_
+8	captain	captain	_	NN	_	9	NMOD	51188	_
+9	suit	suit	_	NN	_	6	PMOD	51188	_
+10	with	with	_	IN	_	9	NMOD	_	2
+11	a	a	_	DT	_	12	NMOD	51186	_
+12	bike	bike	_	NN	_	14	NMOD	51186	_
+13	next	next	_	JJ	_	14	NMOD	_	_
+14	time	time	_	NN	_	10	PMOD	_	_
+15	him	him	_	PRP	_	14	NMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

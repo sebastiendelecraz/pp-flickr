@@ -1,0 +1,14 @@
+1	People	People	_	NNPS	_	2	SBJ	174848	_
+2	swing	swing	_	VBP	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	5	NMOD	174850	_
+5	swing	swing	_	NN	_	3	PMOD	174850	_
+6	set	set	_	VBN	_	5	APPO	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	174849	_
+9	park	park	_	NN	_	7	PMOD	174849	_
+10	outside	outside	_	IN	_	9	LOC	_	2
+11	several	several	_	DT	_	13	NMOD	174856	_
+12	apartment	apartment	_	NN	_	13	NMOD	174856	_
+13	buildings	building	_	NNS	_	10	PMOD	174856	_
+14	.	.	_	.	_	2	P	_	_

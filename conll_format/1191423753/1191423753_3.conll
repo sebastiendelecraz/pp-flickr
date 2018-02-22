@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	NAME	4934	_
+2	waiting	wait	_	VBG	_	0	ROOT	_	_
+3	outside	outside	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	4935	_
+5	building	building	_	NN	_	3	PMOD	4935	_
+6	next to	next to	_	IN	_	2	TMP	_	2
+7	a	a	_	DT	_	8	NMOD	4943	_
+8	mural	mural	_	NN	_	6	PMOD	4943	_
+9	.	.	_	.	_	0	ROOT	_	_

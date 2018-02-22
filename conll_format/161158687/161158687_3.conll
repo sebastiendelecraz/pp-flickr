@@ -1,0 +1,14 @@
+1	Onlookers	onlooker	_	NNS	_	2	SBJ	17454	_
+2	question	question	_	VBP	_	12	SBJ	_	_
+3	the	the	_	DT	_	5	NMOD	17452	_
+4	bus	bus	_	NN	_	5	NMOD	17452	_
+5	driver	driver	_	NN	_	2	OBJ	17452	_
+6	after	after	_	IN	_	2	TMP	_	2
+7	a	a	_	DT	_	8	NMOD	17451	_
+8	man	man	_	NN	_	6	PMOD	17451	_
+9	on	on	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	17457	_
+11	bike	bike	_	NN	_	9	PMOD	17457	_
+12	is	be	_	VBZ	_	0	ROOT	_	_
+13	hit	hit	_	VBN	_	0	ROOT	_	_
+14	.	.	_	.	_	0	ROOT	_	_

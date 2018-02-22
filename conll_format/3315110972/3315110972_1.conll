@@ -1,0 +1,11 @@
+1	a	a	_	DT	_	3	NMOD	108783	_
+2	white	white	_	JJ	_	3	NMOD	108783	_
+3	crane	crane	_	NN	_	4	SBJ	108783	_
+4	flying	fly	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	0	_
+7	air	air	_	NN	_	5	PMOD	0	_
+8	over	over	_	IN	_	4	TMP	_	4
+9	some	some	_	DT	_	10	NMOD	108784	_
+10	water	water	_	NN	_	8	PMOD	108784	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	16642	_
+2	man	man	_	NN	_	3	SBJ	16642	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	spraying	spray	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	16646	_
+6	fluid	fluid	_	JJ	_	4	OBJ	16646	_
+7	from	from	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	10	NMOD	16648	_
+9	long	long	_	JJ	_	10	NMOD	16648	_
+10	hose	hose	_	NN	_	7	PMOD	16648	_
+11	at	at	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	16643	_
+13	beach	beach	_	NN	_	11	PMOD	16643	_
+14	.	.	_	.	_	3	P	_	_

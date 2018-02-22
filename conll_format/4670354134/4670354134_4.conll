@@ -1,0 +1,16 @@
+1	Old	Old	_	NNP	_	2	NMOD	188735	_
+2	man	man	_	NN	_	0	ROOT	188735	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	188737	_
+5	yellow	yellow	_	JJ	_	6	NMOD	188737	_
+6	shirt	shirt	_	NN	_	3	PMOD	188737	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	in front of	in front of	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	188736	_
+10	yellow	yellow	_	JJ	_	11	NMOD	188736	_
+11	building	building	_	NN	_	8	PMOD	188736	_
+12	next to	next to	_	IN	_	7	LOC	_	7
+13	a	a	_	DT	_	15	NMOD	188738	_
+14	pay	pay	_	NN	_	15	NMOD	188738	_
+15	phone	phone	_	NN	_	12	PMOD	188738	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	182284	_
+2	man	man	_	NN	_	3	SBJ	182284	_
+3	taking	take	_	VBG	_	0	ROOT	_	_
+4	down	down	_	RP	_	3	PRT	_	_
+5	a	a	_	DT	_	6	NMOD	182286	_
+6	banner	banner	_	JJ	_	3	OBJ	182286	_
+7	from	from	_	IN	_	3	ADV	_	3
+8	the	the	_	DT	_	10	NMOD	182285	_
+9	fire	fire	_	NN	_	10	NMOD	182285	_
+10	escape	escape	_	NN	_	7	PMOD	182285	_
+11	of	of	_	IN	_	10	NMOD	182285	10
+12	a	a	_	DT	_	13	NMOD	182285	_
+13	building	building	_	NN	_	11	PMOD	182285	_
+14	.	.	_	.	_	0	ROOT	_	_

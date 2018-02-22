@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	77868	_
+2	young	young	_	JJ	_	3	NMOD	77868	_
+3	girl	girl	_	NN	_	5	NMOD	77868	_
+4	wearing	wear	_	VBG	_	5	NMOD	_	_
+5	pink	pink	_	NN	_	6	SBJ	77872	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	riding	ride	_	VBG	_	6	VC	_	_
+8	her	her	_	PRP$	_	9	NMOD	77869	_
+9	bike	bike	_	NN	_	7	OBJ	77869	_
+10	in front of	in front of	_	IN	_	7	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	77871	_
+12	store	store	_	NN	_	10	PMOD	77871	_
+13	on	on	_	IN	_	7	ADV	_	7
+14	a	a	_	DT	_	15	NMOD	77870	_
+15	boardwalk	boardwalk	_	NN	_	13	PMOD	77870	_
+16	.	.	_	.	_	6	P	_	_

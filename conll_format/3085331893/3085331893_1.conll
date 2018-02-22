@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	3	NMOD	92222	_
+2	basketball	basketball	_	NN	_	3	NMOD	92222	_
+3	players	player	_	NNS	_	4	SBJ	92222	_
+4	laying	lay	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	the	the	_	DT	_	7	NMOD	92227	_
+7	floor	floor	_	NN	_	5	PMOD	92227	_
+8	of	of	_	IN	_	7	NMOD	92227	7
+9	a	a	_	DT	_	11	NMOD	92227	_
+10	basketball	basketball	_	NN	_	11	NMOD	92227	_
+11	court	court	_	NN	_	8	PMOD	92227	_
+12	with	with	_	IN	_	7	NMOD	_	_
+13	other	other	_	JJ	_	14	NMOD	92226	_
+14	players	player	_	NNS	_	12	PMOD	92226	_
+15	surrounding	surround	_	VBG	_	14	APPO	_	_
+16	them	them	_	PRP	_	15	OBJ	0	_
+17	.	.	_	.	_	0	ROOT	_	_

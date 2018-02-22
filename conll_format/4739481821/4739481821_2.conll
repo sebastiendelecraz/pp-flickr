@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	197454	_
+2	woman	woman	_	NN	_	6	SBJ	197454	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	197455	_
+5	bikini	bikini	_	NN	_	3	PMOD	197455	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	laying	lay	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	197456	_
+10	blanket	blanket	_	NN	_	8	PMOD	197456	_
+11	on	on	_	IN	_	7	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	197457	_
+13	dock	dock	_	NN	_	11	PMOD	197457	_
+14	over	over	_	IN	_	13	NMOD	_	7
+15	the	the	_	DT	_	16	NMOD	197459	_
+16	water	water	_	NN	_	14	PMOD	197459	_
+17	.	.	_	.	_	6	P	_	_

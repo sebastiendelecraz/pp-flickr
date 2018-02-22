@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	218684	_
+2	woman	woman	_	NN	_	0	ROOT	218684	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	her	her	_	PRP$	_	6	NMOD	218686	_
+5	baby	baby	_	NN	_	6	NMOD	218686	_
+6	pose	pose	_	NN	_	3	PMOD	_	_
+7	in front of	in front of	_	IN	_	2	NMOD	_	6
+8	a	a	_	DT	_	12	NMOD	218688	_
+9	giant	giant	_	NN	_	12	NMOD	218688	_
+10	red	red	_	JJ	_	12	NMOD	218688	_
+11	Chinese	Chinese	_	JJ	_	12	NMOD	218688	_
+12	lantern	lantern	_	NN	_	7	PMOD	218688	_
+13	at	at	_	IN	_	2	LOC	_	_
+14	a	a	_	DT	_	15	NMOD	218689	_
+15	monument	monument	_	NN	_	13	PMOD	218689	_
+16	.	.	_	.	_	0	ROOT	_	_

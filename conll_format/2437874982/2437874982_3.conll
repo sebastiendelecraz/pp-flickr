@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	49458	_
+2	group	group	_	NN	_	6	SBJ	49458	_
+3	of	of	_	IN	_	2	NMOD	49458	_
+4	seven	seven	_	CD	_	5	NMOD	49458	_
+5	friends	friend	_	NNS	_	3	PMOD	49458	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	jumping	jump	_	VBG	_	6	VC	_	_
+8	near	near	_	IN	_	7	LOC	_	7
+9	the	the	_	DT	_	10	NMOD	49461	_
+10	bank	bank	_	NN	_	8	PMOD	49461	_
+11	of	of	_	IN	_	10	NMOD	49461	10
+12	a	a	_	DT	_	14	NMOD	49461	_
+13	brown	brown	_	JJ	_	14	NMOD	49461	_
+14	river	river	_	NN	_	11	PMOD	49461	_
+15	.	.	_	.	_	6	P	_	_

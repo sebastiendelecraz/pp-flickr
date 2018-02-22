@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	100277	_
+2	white	white	_	JJ	_	3	NMOD	100277	_
+3	dog	dog	_	NN	_	4	SBJ	100277	_
+4	carries	carry	_	VBZ	_	0	ROOT	_	_
+5	something	something	_	NN	_	4	OBJ	100279	_
+6	in	in	_	IN	_	4	LOC	_	_
+7	its	its	_	PRP$	_	8	NMOD	100281	_
+8	mouth	mouth	_	NN	_	6	PMOD	100281	_
+9	through	through	_	IN	_	4	MNR	_	4
+10	the	the	_	DT	_	11	NMOD	100278	_
+11	snow	snow	_	NN	_	9	PMOD	100278	_
+12	.	.	_	.	_	4	P	_	_

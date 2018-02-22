@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	281340	_
+2	boy	boy	_	NN	_	3	SBJ	281340	_
+3	plays	play	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	281341	_
+6	soccer	soccer	_	NN	_	7	NMOD	281341	_
+7	ball	ball	_	NN	_	4	PMOD	281341	_
+8	under	under	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	281342	_
+10	clothesline	clothesline	_	NN	_	8	PMOD	281342	_
+11	in	in	_	IN	_	3	LOC	_	_
+12	an	an	_	DT	_	13	NMOD	281343	_
+13	alley	alley	_	NN	_	11	PMOD	281343	_
+14	.	.	_	.	_	3	P	_	_

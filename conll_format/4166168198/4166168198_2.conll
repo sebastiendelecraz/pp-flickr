@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	157734	_
+2	woman	woman	_	NN	_	9	SBJ	157734	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	157741	_
+5	black	black	_	JJ	_	6	NMOD	157741	_
+6	dress	dress	_	NN	_	3	PMOD	157741	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	apron	apron	_	NN	_	7	CONJ	157736	_
+9	looks	look	_	VBZ	_	0	ROOT	_	_
+10	upon	upon	_	IN	_	9	ADV	_	9
+11	the	the	_	DT	_	12	NMOD	157739	_
+12	shelves	shelf	_	NNS	_	10	PMOD	157739	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	bread	bread	_	NN	_	13	PMOD	157738	_
+15	.	.	_	.	_	9	P	_	_

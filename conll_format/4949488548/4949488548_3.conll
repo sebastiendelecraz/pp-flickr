@@ -1,0 +1,16 @@
+1	Man	Man	_	NNP	_	4	SBJ	222197	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	women	woman	_	NNS	_	2	CONJ	222199	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	back	back	_	RB	_	4	DIR	_	_
+6	to	to	_	TO	_	4	ADV	_	_
+7	their	their	_	PRP$	_	8	NMOD	222207	_
+8	hotel	hotel	_	NN	_	6	PMOD	222207	_
+9	with	with	_	IN	_	4	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	222202	_
+11	package	package	_	NN	_	9	PMOD	222202	_
+12	in	in	_	IN	_	4	LOC	_	_
+13	hand	hand	_	NN	_	12	PMOD	222204	_
+14	from	from	_	IN	_	4	DIR	_	4
+15	shopping	shopping	_	NN	_	14	PMOD	222205	_
+16	.	.	_	.	_	0	ROOT	_	_

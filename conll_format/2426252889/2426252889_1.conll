@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	48573	_
+2	choir	choir	_	NN	_	3	SBJ	48573	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	singing	sing	_	VBG	_	3	VC	_	_
+5	with	with	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	48574	_
+7	conductor	conductor	_	NN	_	5	PMOD	48574	_
+8	guiding	guide	_	VBG	_	7	APPO	_	_
+9	a	a	_	DT	_	10	NMOD	48581	_
+10	symphony	symphony	_	NN	_	8	OBJ	48581	_
+11	in	in	_	IN	_	8	LOC	_	_
+12	a	a	_	DT	_	15	NMOD	48580	_
+13	roman	roman	_	JJ	_	15	NMOD	48580	_
+14	style	style	_	NN	_	15	NMOD	48580	_
+15	building	building	_	NN	_	11	PMOD	48580	_
+16	in front of	in front of	_	IN	_	4	ADV	_	_
+17	a	a	_	DT	_	20	NMOD	48575	_
+18	large	large	_	JJ	_	20	NMOD	48575	_
+19	gold	gold	_	NN	_	20	NMOD	48575	_
+20	statue	statue	_	NN	_	16	PMOD	48575	_
+21	of	of	_	IN	_	20	NMOD	48575	_
+22	a	a	_	DT	_	23	NMOD	48575	_
+23	woman	woman	_	NN	_	21	PMOD	48575	_
+24	and	and	_	CC	_	23	COORD	_	_
+25	a	a	_	DT	_	26	NMOD	48576	_
+26	snake	snake	_	NN	_	24	CONJ	48576	_
+27	.	.	_	.	_	3	P	_	_

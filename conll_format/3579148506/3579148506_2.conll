@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	129168	_
+2	man	man	_	NN	_	7	SBJ	129168	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	129169	_
+5	flannel	flannel	_	NN	_	6	NMOD	129169	_
+6	shirt	shirt	_	NN	_	3	PMOD	129169	_
+7	stands	stand	_	VBZ	_	0	ROOT	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	129175	_
+10	wooden	wooden	_	JJ	_	11	NMOD	129175	_
+11	wall	wall	_	NN	_	8	PMOD	129175	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	a	a	_	DT	_	15	NMOD	129171	_
+14	framed	frame	_	VBN	_	15	NMOD	129171	_
+15	drawing	draw	_	VBG	_	12	CONJ	129171	_
+16	of	of	_	IN	_	15	NMOD	129171	_
+17	a	a	_	DT	_	18	NMOD	129171	_
+18	man	man	_	NN	_	16	PMOD	129171	_
+19	in	in	_	IN	_	15	LOC	_	_
+20	a	a	_	DT	_	22	NMOD	129174	_
+21	top	top	_	JJ	_	22	NMOD	129174	_
+22	hat	hat	_	NN	_	19	PMOD	129174	_
+23	.	.	_	.	_	7	P	_	_

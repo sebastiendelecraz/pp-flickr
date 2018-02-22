@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	114621	_
+2	man	man	_	NN	_	3	SBJ	114621	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	114622	_
+7	bike	bike	_	NN	_	5	PMOD	114622	_
+8	in the middle of	in the middle of	_	IN	_	4	LOC	114628	4
+9	the	the	_	DT	_	10	NMOD	114628	_
+10	woods	wood	_	NNS	_	8	PMOD	114628	_
+11	.	.	_	.	_	3	P	_	_

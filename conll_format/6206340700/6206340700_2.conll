@@ -1,0 +1,16 @@
+1	The	the	_	DT	_	3	NMOD	250054	_
+2	football	football	_	NN	_	3	NMOD	250054	_
+3	player	player	_	NN	_	0	ROOT	250054	_
+4	in	in	_	IN	_	0	ROOT	_	_
+5	brown	brown	_	JJ	_	4	PMOD	250062	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	running	run	_	VBG	_	6	VC	_	_
+8	with	with	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	250056	_
+10	ball	ball	_	NN	_	8	PMOD	250056	_
+11	from	from	_	IN	_	7	ADV	_	7
+12	the	the	_	DT	_	13	NMOD	250061	_
+13	players	player	_	NNS	_	11	PMOD	250061	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	white	white	_	JJ	_	14	PMOD	_	_
+16	.	.	_	.	_	6	P	_	_

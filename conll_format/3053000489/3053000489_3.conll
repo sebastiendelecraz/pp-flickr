@@ -1,0 +1,15 @@
+1	Three	Three	_	CD	_	2	NMOD	90458	_
+2	people	people	_	NN	_	6	SBJ	90458	_
+3	of	of	_	IN	_	2	NMOD	90458	_
+4	various	various	_	JJ	_	5	NMOD	90458	_
+5	ages	age	_	NNS	_	3	PMOD	90458	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	relaxing	relax	_	VBG	_	6	VC	_	_
+8	near	near	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	90455	_
+10	log	log	_	NN	_	8	PMOD	90455	_
+11	in	in	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	14	NMOD	90456	_
+13	grassy	grassy	_	JJ	_	14	NMOD	90456	_
+14	area	area	_	NN	_	11	PMOD	90456	_
+15	.	.	_	.	_	6	P	_	_

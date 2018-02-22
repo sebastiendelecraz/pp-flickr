@@ -1,0 +1,12 @@
+1	Group	Group	_	NNP	_	0	ROOT	85122	_
+2	of	of	_	IN	_	1	NMOD	85122	_
+3	young	young	_	JJ	_	4	NMOD	85122	_
+4	children	child	_	NNS	_	2	PMOD	85122	_
+5	posing	pose	_	VBG	_	4	APPO	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	85132	_
+8	picture	picture	_	NN	_	6	PMOD	85132	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	85126	_
+11	field	field	_	NN	_	9	PMOD	85126	_
+12	.	.	_	.	_	0	ROOT	_	_

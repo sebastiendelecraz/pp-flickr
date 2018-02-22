@@ -1,0 +1,16 @@
+1	It	it	_	PRP	_	3	SBJ	0	_
+2	'	'	_	''	_	3	P	_	_
+3	s	s	_	VBZ	_	9	SBJ	_	_
+4	Summer	Summer	_	NNP	_	5	NMOD	30744	_
+5	time	time	_	NN	_	3	OBJ	30744	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	two	two	_	CD	_	8	NMOD	30742	_
+8	girls	girl	_	NNS	_	6	CONJ	30742	_
+9	play	play	_	VBP	_	0	ROOT	_	_
+10	with	with	_	IN	_	9	ADV	_	_
+11	bubbles	bubble	_	NNS	_	10	PMOD	30741	_
+12	near	near	_	IN	_	11	LOC	_	9
+13	a	a	_	DT	_	15	NMOD	30745	_
+14	boat	boat	_	NN	_	15	NMOD	30745	_
+15	dock	dock	_	NN	_	12	PMOD	30745	_
+16	.	.	_	.	_	9	P	_	_

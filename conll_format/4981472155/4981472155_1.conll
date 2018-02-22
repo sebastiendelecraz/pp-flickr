@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	225845	_
+2	man	man	_	NN	_	10	SBJ	225845	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	225852	_
+5	white	white	_	JJ	_	6	NMOD	225852	_
+6	sweatshirt	sweatshirt	_	NN	_	3	PMOD	225852	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	dark	dark	_	JJ	_	9	NMOD	225853	_
+9	pants	pant	_	NNS	_	7	CONJ	225853	_
+10	stands	stand	_	VBZ	_	0	ROOT	_	_
+11	close to	close to	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	225846	_
+13	girl	girl	_	NN	_	11	PMOD	225846	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	a	a	_	DT	_	17	NMOD	225854	_
+16	pink	pink	_	NN	_	17	NMOD	225854	_
+17	sweatshirt	sweatshirt	_	NN	_	14	PMOD	225854	_
+18	and	and	_	CC	_	17	COORD	_	_
+19	blue	blue	_	JJ	_	20	NMOD	225855	_
+20	jeans	jean	_	NNS	_	18	CONJ	225855	_
+21	on	on	_	IN	_	13	NMOD	_	_
+22	an	an	_	DT	_	23	NMOD	225847	_
+23	escalator	escalator	_	NN	_	21	PMOD	225847	_
+24	.	.	_	.	_	10	P	_	_

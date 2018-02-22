@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	242126	_
+2	man	man	_	NN	_	7	SBJ	242126	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	242132	_
+5	black	black	_	JJ	_	6	NMOD	242132	_
+6	vest	vest	_	NN	_	3	PMOD	242132	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	pulling	pull	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	242138	_
+11	woman	woman	_	NN	_	14	NMOD	242138	_
+12	'	'	_	POS	_	11	SUFFIX	242138	_
+13	s	s	_	NN	_	14	NMOD	242138	_
+14	hand	hand	_	NN	_	9	PMOD	242138	_
+15	in front of	in front of	_	IN	_	8	TMP	_	_
+16	a	a	_	DT	_	17	NMOD	242126	_
+17	man	man	_	NN	_	15	PMOD	242126	_
+18	wearing	wear	_	VBG	_	17	APPO	_	_
+19	all	all	_	DT	_	20	NMOD	242135	_
+20	black	black	_	JJ	_	18	OBJ	242135	_
+21	.	.	_	.	_	7	P	_	_

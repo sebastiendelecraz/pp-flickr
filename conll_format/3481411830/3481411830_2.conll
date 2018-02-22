@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	121488	_
+2	clown	clown	_	NN	_	0	ROOT	121488	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	colorful	colorful	_	JJ	_	5	NMOD	121493	_
+5	pants	pant	_	NNS	_	3	PMOD	121493	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	on	on	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	121489	_
+9	bench	bench	_	NN	_	7	PMOD	121489	_
+10	of	of	_	IN	_	9	NMOD	121489	_
+11	a	a	_	DT	_	13	NMOD	121489	_
+12	old	old	_	JJ	_	13	NMOD	121489	_
+13	building	building	_	NN	_	10	PMOD	121489	_
+14	.	.	_	.	_	0	ROOT	_	_

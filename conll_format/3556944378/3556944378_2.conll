@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	127371	_
+2	man	man	_	NN	_	8	SBJ	127371	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	127375	_
+5	center	center	_	NN	_	3	PMOD	127375	_
+6	of	of	_	IN	_	5	NMOD	127375	_
+7	travel	travel	_	NN	_	6	PMOD	127375	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	carrying	carry	_	VBG	_	8	VC	_	_
+10	many	many	_	DT	_	11	NMOD	127374	_
+11	things	thing	_	NNS	_	9	OBJ	127374	_
+12	.	.	_	.	_	8	P	_	_

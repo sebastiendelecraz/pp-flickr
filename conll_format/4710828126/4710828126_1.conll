@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	4	NMOD	193827	_
+2	young	young	_	JJ	_	4	NMOD	193827	_
+3	African	African	_	JJ	_	4	NMOD	193827	_
+4	boy	boy	_	NN	_	5	SBJ	193827	_
+5	sits	sit	_	VBZ	_	0	ROOT	_	_
+6	perched	perch	_	VBN	_	5	VC	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	10	NMOD	193829	_
+9	gate	gate	_	NN	_	10	NMOD	193829	_
+10	post	post	_	NN	_	7	PMOD	193829	_
+11	next to	next to	_	IN	_	6	LOC	_	5
+12	a	a	_	DT	_	14	NMOD	193832	_
+13	stop	stop	_	NN	_	14	NMOD	193832	_
+14	sign	sign	_	NN	_	11	PMOD	193832	_
+15	.	.	_	.	_	5	P	_	_

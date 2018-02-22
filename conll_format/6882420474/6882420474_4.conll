@@ -1,0 +1,13 @@
+1	This	this	_	DT	_	3	NMOD	260294	_
+2	a	a	_	DT	_	3	NMOD	260294	_
+3	man	man	_	NN	_	0	ROOT	260294	_
+4	on	on	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	260295	_
+6	boat	boat	_	NN	_	4	PMOD	260295	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	calm	calm	_	NN	_	9	NMOD	260296	_
+9	water	water	_	NN	_	7	PMOD	260296	_
+10	surrounded	surround	_	VBN	_	9	APPO	_	_
+11	by	by	_	IN	_	10	LGS	_	_
+12	trees	tree	_	NNS	_	11	PMOD	260298	_
+13	.	.	_	.	_	0	ROOT	_	_

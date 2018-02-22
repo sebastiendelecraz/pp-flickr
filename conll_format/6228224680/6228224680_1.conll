@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	250589	_
+2	man	man	_	NN	_	0	ROOT	250589	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	250590	_
+5	beard	beard	_	NN	_	3	PMOD	250590	_
+6	and	and	_	CC	_	5	COORD	250590	_
+7	mustache	mustache	_	NN	_	6	CONJ	250590	_
+8	working	work	_	VBG	_	2	APPO	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	250593	_
+11	mechanical	mechanical	_	JJ	_	12	NMOD	250593	_
+12	components	component	_	NNS	_	9	PMOD	250593	_
+13	under	under	_	IN	_	8	LOC	_	8
+14	a	a	_	DT	_	15	NMOD	250592	_
+15	hood	hood	_	NN	_	13	PMOD	250592	_
+16	.	.	_	.	_	0	ROOT	_	_

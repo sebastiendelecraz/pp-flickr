@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	179784	_
+2	priest	priest	_	NN	_	3	SBJ	179784	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	speaking	speak	_	VBG	_	3	VC	_	_
+5	into	into	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	179786	_
+7	microphone	microphone	_	NN	_	5	PMOD	179786	_
+8	within	within	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	179785	_
+10	church	church	_	NN	_	8	PMOD	179785	_
+11	,	,	_	,	_	13	P	_	_
+12	arms	arm	_	NNS	_	13	SBJ	179787	_
+13	open	open	_	VBP	_	0	ROOT	_	_
+14	wide	wide	_	JJ	_	13	PRD	_	_
+15	.	.	_	.	_	13	P	_	_

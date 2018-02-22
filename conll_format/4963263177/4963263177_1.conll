@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	223715	_
+2	man	man	_	NN	_	0	ROOT	223715	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	223717	_
+5	bat	bat	_	NN	_	6	NMOD	223717	_
+6	swings	swing	_	NNS	_	3	PMOD	_	_
+7	at	at	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	223716	_
+9	ball	ball	_	NN	_	7	PMOD	223716	_
+10	coming	come	_	VBG	_	6	APPO	_	_
+11	towards	towards	_	IN	_	10	ADV	_	_
+12	him	him	_	PRP	_	11	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

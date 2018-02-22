@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	203366	_
+2	girl	girl	_	NN	_	0	ROOT	203366	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	203375	_
+5	blue	blue	_	JJ	_	6	NMOD	203375	_
+6	shirt	shirt	_	NN	_	3	PMOD	203375	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	red	red	_	JJ	_	10	NMOD	203373	_
+9	trim	trim	_	NN	_	10	NMOD	203373	_
+10	touching	touching	_	NN	_	7	PMOD	_	_
+11	her	her	_	PRP$	_	12	NMOD	203376	_
+12	forehead	forehead	_	NN	_	10	APPO	203376	_
+13	.	.	_	.	_	0	ROOT	_	_

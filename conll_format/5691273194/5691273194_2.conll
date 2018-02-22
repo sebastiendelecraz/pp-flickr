@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	241102	_
+2	group	group	_	NN	_	10	SBJ	241102	_
+3	of	of	_	IN	_	2	NMOD	241102	_
+4	five	five	_	CD	_	5	NMOD	241102	_
+5	men	man	_	NNS	_	3	PMOD	241102	_
+6	in	in	_	IN	_	5	NMOD	_	_
+7	t-shirts	t-shirt	_	NNS	_	6	PMOD	241105	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	shorts	short	_	NNS	_	8	CONJ	241110	_
+10	jog	jog	_	VBP	_	0	ROOT	241110	_
+11	on	on	_	IN	_	10	LOC	_	10
+12	a	a	_	DT	_	14	NMOD	241103	_
+13	brick	brick	_	NN	_	14	NMOD	241103	_
+14	walkway	walkway	_	NN	_	11	PMOD	241103	_
+15	.	.	_	.	_	10	P	_	_

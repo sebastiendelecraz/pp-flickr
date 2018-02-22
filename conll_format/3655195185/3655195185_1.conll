@@ -1,0 +1,15 @@
+1	Young	Young	_	NNP	_	6	NMOD	134575	_
+2	boy	boy	_	NN	_	6	NMOD	134575	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	girl	girl	_	NN	_	3	CONJ	134579	_
+5	squeeze	squeeze	_	NN	_	6	NMOD	_	_
+6	tubes	tube	_	NNS	_	0	ROOT	134578	_
+7	of	of	_	IN	_	6	NMOD	134578	_
+8	frosting	frost	_	VBG	_	7	PMOD	134578	_
+9	onto	onto	_	IN	_	8	ADV	_	5
+10	cupcakes	cupcake	_	NNS	_	9	PMOD	134577	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	adults	adult	_	NNS	_	11	PMOD	134580	_
+13	around	around	_	IN	_	8	ADV	_	_
+14	them	them	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

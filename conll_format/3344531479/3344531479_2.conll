@@ -1,0 +1,12 @@
+1	The	the	_	DT	_	3	NMOD	111284	_
+2	tennis	tennis	_	NN	_	3	NMOD	111284	_
+3	player	player	_	NN	_	4	SBJ	111284	_
+4	holds	hold	_	VBZ	_	0	ROOT	_	_
+5	his	his	_	PRP$	_	6	NMOD	111287	_
+6	racket	racket	_	NN	_	4	OBJ	111287	_
+7	in	in	_	IN	_	4	ADV	_	_
+8	preparation	preparation	_	NN	_	7	PMOD	111289	_
+9	for	for	_	IN	_	8	NMOD	_	8
+10	the	the	_	DT	_	11	NMOD	111290	_
+11	ball	ball	_	NN	_	9	PMOD	111290	_
+12	.	.	_	.	_	4	P	_	_

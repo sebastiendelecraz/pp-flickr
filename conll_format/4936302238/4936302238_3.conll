@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	220534	_
+2	couple	couple	_	NN	_	3	SBJ	220534	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	posing	pose	_	VBG	_	3	VC	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	220542	_
+7	picture	picture	_	NN	_	5	PMOD	220542	_
+8	in front of	in front of	_	IN	_	4	LOC	_	_
+9	the	the	_	DT	_	12	NMOD	220538	_
+10	Arc	Arc	_	NNP	_	12	NAME	220538	_
+11	de	de	_	NNP	_	12	NAME	220538	_
+12	Triomphe	Triomphe	_	NNP	_	8	PMOD	220538	_
+13	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	202336	_
+2	woman	woman	_	NN	_	0	ROOT	202336	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	202341	_
+5	white	white	_	JJ	_	6	NMOD	202341	_
+6	shirt	shirt	_	NN	_	3	PMOD	202341	_
+7	being	be	_	VBG	_	6	APPO	_	_
+8	arrested	arrest	_	VBN	_	7	VC	_	_
+9	by	by	_	IN	_	8	LGS	_	8
+10	a	a	_	DT	_	13	NMOD	202338	_
+11	female	female	_	JJ	_	13	NMOD	202338	_
+12	police	police	_	NN	_	13	NMOD	202338	_
+13	officer	officer	_	NN	_	9	PMOD	202338	_
+14	next to	next to	_	IN	_	8	ADV	_	8
+15	a	a	_	DT	_	17	NMOD	202344	_
+16	gray	gray	_	JJ	_	17	NMOD	202344	_
+17	car	car	_	NN	_	14	PMOD	202344	_
+18	.	.	_	.	_	0	ROOT	_	_

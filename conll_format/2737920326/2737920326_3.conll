@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	69592	_
+2	five	five	_	CD	_	3	NMOD	69592	_
+3	person	person	_	NN	_	4	NMOD	69592	_
+4	band	band	_	NN	_	5	SBJ	69592	_
+5	performs	perform	_	VBZ	_	0	ROOT	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	an	an	_	DT	_	8	NMOD	69596	_
+8	audience	audience	_	NN	_	6	PMOD	69596	_
+9	in front of	in front of	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	69597	_
+11	store	store	_	NN	_	12	NMOD	69597	_
+12	window	window	_	NN	_	9	PMOD	69597	_
+13	.	.	_	.	_	5	P	_	_

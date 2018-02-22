@@ -1,0 +1,15 @@
+1	Middle-aged	Middle-aged	_	NNP	_	2	NMOD	205023	_
+2	woman	woman	_	NN	_	3	SBJ	205023	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	205027	_
+5	white	white	_	JJ	_	6	NMOD	205027	_
+6	blouse	blouse	_	NN	_	3	OBJ	205027	_
+7	,	,	_	,	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	0	ROOT	_	_
+9	at	at	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	205025	_
+11	table	table	_	NN	_	9	PMOD	205025	_
+12	outside	outside	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	14	NMOD	205029	_
+14	restaurant	restaurant	_	NN	_	12	PMOD	205029	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	This	this	_	DT	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	65449	_
+4	crowded	crowded	_	JJ	_	5	NMOD	65449	_
+5	intersection	intersection	_	NN	_	2	PRD	65449	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	65457	_
+8	big	big	_	JJ	_	9	NMOD	65457	_
+9	city	city	_	NN	_	6	PMOD	65457	_
+10	at	at	_	IN	_	5	TMP	_	_
+11	night	night	_	NN	_	10	PMOD	65454	_
+12	.	.	_	.	_	2	P	_	_

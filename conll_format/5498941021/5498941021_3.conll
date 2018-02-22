@@ -1,0 +1,14 @@
+1	Under	under	_	IN	_	7	LOC	_	7
+2	sunny	sunny	_	JJ	_	3	NMOD	237540	_
+3	skies	sky	_	NNS	_	1	PMOD	237540	_
+4	,	,	_	,	_	7	P	_	_
+5	a	a	_	DT	_	6	NMOD	237535	_
+6	worker	worker	_	NN	_	7	SBJ	237535	_
+7	helps	help	_	VBZ	_	0	ROOT	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	237536	_
+10	framing	framing	_	NN	_	8	PMOD	237536	_
+11	of	of	_	IN	_	10	NMOD	237536	_
+12	new	new	_	JJ	_	13	NMOD	237536	_
+13	building	building	_	NN	_	11	PMOD	237536	_
+14	.	.	_	.	_	7	P	_	_

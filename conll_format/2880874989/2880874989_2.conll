@@ -1,0 +1,17 @@
+1	a	a	_	DT	_	2	NMOD	78625	_
+2	toddler	toddler	_	NN	_	6	SBJ	78625	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	stripy	stripy	_	JJ	_	5	NMOD	78628	_
+5	pants	pant	_	NNS	_	3	PMOD	78628	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	reaching	reach	_	VBG	_	6	VC	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	78627	_
+10	white	white	_	JJ	_	11	NMOD	78627	_
+11	stove	stove	_	NN	_	8	PMOD	78627	_
+12	in	in	_	IN	_	7	LOC	_	_
+13	a	a	_	DT	_	16	NMOD	78630	_
+14	red	red	_	JJ	_	16	NMOD	78630	_
+15	floored	floor	_	VBN	_	16	NMOD	78630	_
+16	kitchen	kitchen	_	NN	_	12	PMOD	78630	_
+17	.	.	_	.	_	6	P	_	_

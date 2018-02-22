@@ -1,0 +1,11 @@
+1	Men	Men	_	NNPS	_	0	ROOT	284972	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	women	woman	_	NNS	_	2	CONJ	284973	_
+4	in	in	_	IN	_	0	ROOT	_	_
+5	swimsuits	swimsuit	_	NNS	_	4	PMOD	284982	_
+6	hangout	hangout	_	NN	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	rocks	rock	_	NNS	_	7	PMOD	284975	_
+9	above	above	_	IN	_	8	NMOD	_	6
+10	water	water	_	NN	_	9	PMOD	284979	_
+11	.	.	_	.	_	0	ROOT	_	_

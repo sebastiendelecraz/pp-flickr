@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	180935	_
+2	man	man	_	NN	_	3	SBJ	180935	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	letting	let	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	180936	_
+6	child	child	_	NN	_	4	OBJ	180936	_
+7	in	in	_	IN	_	4	LOC	_	6
+8	a	a	_	DT	_	11	NMOD	180937	_
+9	brown	brown	_	JJ	_	11	NMOD	180937	_
+10	jacket	jacket	_	NN	_	11	NMOD	180937	_
+11	ride	ride	_	NN	_	7	PMOD	_	_
+12	on	on	_	IN	_	4	ADV	_	_
+13	his	his	_	PRP$	_	14	NMOD	180938	_
+14	shoulders	shoulder	_	NNS	_	12	PMOD	180938	_
+15	.	.	_	.	_	3	P	_	_

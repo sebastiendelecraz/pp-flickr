@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	273846	_
+2	athlete	athlete	_	NN	_	3	SBJ	273846	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	7	NMOD	273847	_
+6	racing	race	_	VBG	_	7	NMOD	273847	_
+7	lanes	lane	_	NNS	_	4	PMOD	273847	_
+8	on	on	_	IN	_	3	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	273847	_
+10	track	track	_	NN	_	8	PMOD	273847	_
+11	.	.	_	.	_	3	P	_	_

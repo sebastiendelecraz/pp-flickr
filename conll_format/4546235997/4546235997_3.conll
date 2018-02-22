@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	177017	_
+2	man	man	_	NN	_	8	SBJ	177017	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	177018	_
+5	bleeding	bleed	_	VBG	_	7	NMOD	177018	_
+6	flag	flag	_	NN	_	7	NMOD	177018	_
+7	shirt	shirt	_	NN	_	3	PMOD	177018	_
+8	poses	pose	_	VBZ	_	0	ROOT	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	0	_
+11	jump	jump	_	NN	_	9	PMOD	0	_
+12	in front of	in front of	_	IN	_	11	NMOD	_	_
+13	city	city	_	NN	_	14	NMOD	177017	_
+14	buildings	building	_	NNS	_	12	PMOD	177017	_
+15	.	.	_	.	_	8	P	_	_

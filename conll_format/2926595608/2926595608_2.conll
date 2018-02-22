@@ -1,0 +1,17 @@
+1	In	in	_	IN	_	15	LOC	_	5
+2	this	this	_	DT	_	3	NMOD	81978	_
+3	picture	picture	_	NN	_	1	PMOD	81978	_
+4	all	all	_	DT	_	5	NMOD	81970	_
+5	men	man	_	NNS	_	15	SBJ	81970	_
+6	from	from	_	IN	_	5	NMOD	_	5
+7	both	both	_	DT	_	9	NMOD	81979	_
+8	basketball	basketball	_	NN	_	9	NMOD	81979	_
+9	teams	team	_	NNS	_	6	PMOD	81979	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	red	red	_	JJ	_	14	NMOD	81971	_
+12	and	and	_	CC	_	11	COORD	81971	_
+13	green	green	_	JJ	_	12	CONJ	81971	_
+14	jerseys	jersey	_	NNS	_	10	PMOD	81971	_
+15	are	be	_	VBP	_	0	ROOT	_	_
+16	jumping	jump	_	VBG	_	15	VC	_	_
+17	.	.	_	.	_	15	P	_	_

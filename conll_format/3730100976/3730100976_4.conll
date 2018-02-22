@@ -1,0 +1,10 @@
+1	Four	Four	_	CD	_	2	NMOD	140156	_
+2	people	people	_	NN	_	3	SBJ	140156	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	140155	_
+6	boat	boat	_	NN	_	4	PMOD	140155	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	9	NMOD	140158	_
+9	lake	lake	_	NN	_	7	PMOD	140158	_
+10	.	.	_	.	_	0	ROOT	_	_

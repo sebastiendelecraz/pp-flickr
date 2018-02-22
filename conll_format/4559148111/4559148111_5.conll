@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	178458	_
+2	group	group	_	NN	_	0	ROOT	178458	_
+3	of	of	_	IN	_	2	NMOD	178458	_
+4	women	woman	_	NNS	_	3	PMOD	178458	_
+5	walking	walk	_	VBG	_	4	APPO	_	_
+6	by	by	_	IN	_	5	LGS	_	5
+7	a	a	_	DT	_	8	NMOD	178459	_
+8	man	man	_	NN	_	6	PMOD	178459	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	the	the	_	DT	_	11	NMOD	178461	_
+11	sidewalk	sidewalk	_	NN	_	9	PMOD	178461	_
+12	.	.	_	.	_	0	ROOT	_	_

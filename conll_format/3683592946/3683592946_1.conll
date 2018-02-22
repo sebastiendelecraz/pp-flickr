@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	3	NMOD	136605	_
+2	mommy	mommy	_	NN	_	3	NMOD	136605	_
+3	duck	duck	_	NN	_	4	SBJ	136605	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	along	along	_	IN	_	4	LOC	_	4
+6	some	some	_	DT	_	7	NMOD	136609	_
+7	rocks	rock	_	NNS	_	5	PMOD	136609	_
+8	with	with	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	136606	_
+10	group	group	_	NN	_	8	PMOD	136606	_
+11	of	of	_	IN	_	10	NMOD	136606	_
+12	baby	baby	_	NN	_	13	NMOD	136606	_
+13	ducks	duck	_	NNS	_	11	PMOD	136606	_
+14	.	.	_	.	_	0	ROOT	_	_

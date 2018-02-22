@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	187108	_
+2	man	man	_	NN	_	0	ROOT	187108	_
+3	holding	hold	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	187109	_
+5	blond	blond	_	JJ	_	6	NMOD	187109	_
+6	woman	woman	_	NN	_	3	OBJ	187109	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	187113	_
+9	white	white	_	JJ	_	10	NMOD	187113	_
+10	tank	tank	_	NN	_	7	PMOD	187113	_
+11	top	top	_	JJ	_	10	APPO	187113	_
+12	at	at	_	IN	_	11	AMOD	_	_
+13	night	night	_	NN	_	12	PMOD	187111	_
+14	in	in	_	IN	_	6	TMP	_	3
+15	a	a	_	DT	_	16	NMOD	187112	_
+16	city	city	_	NN	_	14	PMOD	187112	_
+17	.	.	_	.	_	0	ROOT	_	_

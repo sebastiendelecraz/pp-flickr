@@ -1,0 +1,9 @@
+1	Sightseers	sightseer	_	NNS	_	2	SBJ	130009	_
+2	look	look	_	VBP	_	0	ROOT	_	_
+3	across	across	_	IN	_	2	ADV	_	2
+4	the	the	_	DT	_	5	NMOD	130011	_
+5	water	water	_	NN	_	3	PMOD	130011	_
+6	at	at	_	IN	_	2	ADV	_	2
+7	a	a	_	DT	_	8	NMOD	130012	_
+8	city	city	_	NN	_	6	PMOD	130012	_
+9	.	.	_	.	_	2	P	_	_

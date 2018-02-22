@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	32348	_
+2	person	person	_	NN	_	3	SBJ	32348	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	performing	perform	_	VBG	_	3	VC	_	_
+5	yoga	yoga	_	NN	_	4	OBJ	32355	_
+6	in	in	_	IN	_	4	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	32353	_
+8	ocean	ocean	_	NN	_	6	PMOD	32353	_
+9	under	under	_	IN	_	4	LOC	_	4
+10	an	an	_	DT	_	12	NMOD	32350	_
+11	orange	orange	_	JJ	_	12	NMOD	32350	_
+12	sky	sky	_	NN	_	9	PMOD	32350	_
+13	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	People	People	_	NNPS	_	2	SBJ	8765	_
+2	waiting	wait	_	VBG	_	0	ROOT	_	_
+3	to	to	_	TO	_	2	OPRD	_	_
+4	cross	cross	_	VB	_	3	IM	_	_
+5	the	the	_	DT	_	6	NMOD	8766	_
+6	street	street	_	NN	_	4	OBJ	8766	_
+7	in front of	in front of	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	8763	_
+9	pharmacy	pharmacy	_	NN	_	7	PMOD	8763	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	lit	lit	_	JJ	_	10	PMOD	8771	_
+12	up	up	_	IN	_	9	NMOD	_	11
+13	sign	sign	_	NN	_	12	PMOD	8764	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,26 @@
+1	a	a	_	DT	_	2	NMOD	250536	_
+2	man	man	_	NN	_	6	SBJ	250536	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	his	his	_	PRP$	_	5	NMOD	250544	_
+5	arm	arm	_	NN	_	3	PMOD	250544	_
+6	stretched	stretch	_	VBD	_	0	ROOT	_	_
+7	out	out	_	RP	_	6	PRT	_	_
+8	above	above	_	IN	_	6	ADV	_	_
+9	him	him	_	PRP	_	8	PMOD	0	_
+10	and	and	_	CC	_	6	COORD	_	_
+11	right	right	_	RB	_	12	ADV	250545	_
+12	leg	leg	_	VB	_	10	CONJ	250545	_
+13	extended	extend	_	VBN	_	12	VC	_	_
+14	in front of	in front of	_	IN	_	13	ADV	_	_
+15	him	him	_	PRP	_	17	NMOD	0	_
+16	mid	mid	_	JJ	_	17	NMOD	0	_
+17	jump	jump	_	NN	_	14	PMOD	0	_
+18	,	,	_	,	_	0	ROOT	_	_
+19	hurdles	hurdle	_	NNS	_	0	ROOT	250540	_
+20	over	over	_	IN	_	19	NMOD	_	19
+21	a	a	_	DT	_	22	NMOD	250538	_
+22	hurdle	hurdle	_	NN	_	20	PMOD	250538	_
+23	in	in	_	IN	_	19	LOC	_	_
+24	a	a	_	DT	_	25	NMOD	250541	_
+25	race	race	_	NN	_	23	PMOD	250541	_
+26	.	.	_	.	_	0	ROOT	_	_

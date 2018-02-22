@@ -1,0 +1,14 @@
+1	Aaron	Aaron	_	NNP	_	2	NAME	253728	_
+2	Rogers	Rogers	_	NNP	_	6	SBJ	253728	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	Donald	Donald	_	NNP	_	5	NAME	253729	_
+5	Driver	Driver	_	NNP	_	3	CONJ	253729	_
+6	celebrating	celebrate	_	VBG	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	253732	_
+9	field	field	_	NN	_	7	PMOD	253732	_
+10	after	after	_	IN	_	6	TMP	_	6
+11	a	a	_	DT	_	13	NMOD	253738	_
+12	good	good	_	JJ	_	13	NMOD	253738	_
+13	play	play	_	NN	_	10	PMOD	253738	_
+14	.	.	_	.	_	0	ROOT	_	_

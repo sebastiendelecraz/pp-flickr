@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	59811	_
+2	girl	girl	_	NN	_	0	ROOT	59811	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	59812	_
+5	blue	blue	_	JJ	_	7	NMOD	59812	_
+6	shirt	shirt	_	NN	_	7	NMOD	59812	_
+7	leaps	leap	_	NNS	_	3	PMOD	_	_
+8	into	into	_	IN	_	2	DIR	_	7
+9	the	the	_	DT	_	10	NMOD	0	_
+10	air	air	_	NN	_	8	PMOD	0	_
+11	.	.	_	.	_	0	ROOT	_	_

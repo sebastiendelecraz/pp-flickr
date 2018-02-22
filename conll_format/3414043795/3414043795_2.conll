@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	116319	_
+2	gymnast	gymnast	_	NN	_	7	SBJ	116319	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	116325	_
+5	purple	purple	_	NN	_	6	NMOD	116325	_
+6	outfits	outfit	_	NNS	_	3	OBJ	_	_
+7	poses	pose	_	VBZ	_	0	ROOT	_	_
+8	with	with	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	116320	_
+10	hula	hula	_	NN	_	11	NMOD	116320	_
+11	hoop	hoop	_	NN	_	8	PMOD	116320	_
+12	around	around	_	IN	_	11	LOC	_	11
+13	her	her	_	PRP$	_	14	NMOD	116323	_
+14	neck	neck	_	NN	_	12	PMOD	116323	_
+15	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,8 @@
+1	People	People	_	NNPS	_	2	SBJ	39851	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	39852	_
+5	bridge	bridge	_	NN	_	3	PMOD	39852	_
+6	over	over	_	IN	_	5	NMOD	_	2
+7	water	water	_	NN	_	6	PMOD	39853	_
+8	.	.	_	.	_	2	P	_	_

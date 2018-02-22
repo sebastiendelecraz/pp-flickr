@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	234379	_
+2	group	group	_	NN	_	5	SBJ	234379	_
+3	of	of	_	IN	_	2	NMOD	234379	_
+4	people	people	_	NN	_	3	PMOD	234379	_
+5	camp	camp	_	VBP	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	tents	tent	_	NNS	_	6	PMOD	234381	_
+8	near	near	_	IN	_	7	LOC	_	5
+9	some	some	_	DT	_	10	NMOD	234380	_
+10	trees	tree	_	NNS	_	8	PMOD	234380	_
+11	.	.	_	.	_	5	P	_	_

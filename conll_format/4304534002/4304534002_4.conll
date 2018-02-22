@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	162501	_
+2	group	group	_	NN	_	5	SBJ	162501	_
+3	of	of	_	IN	_	2	NMOD	162501	_
+4	people	people	_	NN	_	3	PMOD	162501	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	sitting	sit	_	VBG	_	5	VC	_	_
+7	under	under	_	IN	_	6	LOC	_	6
+8	umbrellas	umbrella	_	NNS	_	7	PMOD	162508	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	the	the	_	DT	_	11	NMOD	162502	_
+11	beach	beach	_	NN	_	9	PMOD	162502	_
+12	.	.	_	.	_	5	P	_	_

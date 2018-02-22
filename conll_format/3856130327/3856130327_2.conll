@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	145811	_
+2	group	group	_	NN	_	0	ROOT	145811	_
+3	of	of	_	IN	_	2	NMOD	145811	_
+4	healthcare	healthcare	_	NN	_	5	NMOD	145811	_
+5	workers	worker	_	NNS	_	3	PMOD	145811	_
+6	posing	pose	_	VBG	_	5	APPO	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	145820	_
+9	picture	picture	_	NN	_	7	PMOD	145820	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	their	their	_	PRP$	_	12	NMOD	145817	_
+12	uniforms	uniform	_	NNS	_	10	PMOD	145817	_
+13	at	at	_	IN	_	6	ADV	_	_
+14	work	work	_	NN	_	13	PMOD	145818	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	32726	_
+2	child	child	_	NN	_	0	ROOT	32726	_
+3	playing	play	_	VBG	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	32732	_
+6	sand	sand	_	NN	_	4	PMOD	32732	_
+7	of	of	_	IN	_	6	NMOD	32732	6
+8	a	a	_	DT	_	9	NMOD	32732	_
+9	beach	beach	_	NN	_	7	PMOD	32732	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	the	the	_	DT	_	12	NMOD	32727	_
+12	sun	sun	_	NN	_	10	PMOD	32727	_
+13	low	low	_	JJ	_	12	NMOD	_	_
+14	on	on	_	IN	_	12	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	32728	_
+16	horizon	horizon	_	NN	_	14	PMOD	32728	_
+17	.	.	_	.	_	0	ROOT	_	_

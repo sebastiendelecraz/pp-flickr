@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	3	NMOD	79207	_
+2	men	man	_	NNS	_	3	NMOD	79207	_
+3	cyclists	cyclist	_	NNS	_	0	ROOT	79207	_
+4	examining	examine	_	VBG	_	3	APPO	_	_
+5	the	the	_	DT	_	6	NMOD	79211	_
+6	chain	chain	_	NN	_	4	OBJ	79211	_
+7	on	on	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	79208	_
+9	bike	bike	_	NN	_	7	PMOD	79208	_
+10	at	at	_	IN	_	4	ADV	_	_
+11	night	night	_	NN	_	10	PMOD	79210	_
+12	.	.	_	.	_	0	ROOT	_	_

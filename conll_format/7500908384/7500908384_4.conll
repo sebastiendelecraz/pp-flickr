@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	270571	_
+2	young	young	_	JJ	_	3	NMOD	270571	_
+3	boy	boy	_	NN	_	8	SBJ	270571	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	270577	_
+6	green	green	_	JJ	_	7	NMOD	270577	_
+7	bag	bag	_	NN	_	4	PMOD	270577	_
+8	stands	stand	_	VBZ	_	0	ROOT	_	_
+9	behind	behind	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	270572	_
+11	pole	pole	_	NN	_	9	PMOD	270572	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	270578	_
+14	subway	subway	_	NN	_	15	NMOD	270578	_
+15	station	station	_	NN	_	12	PMOD	270578	_
+16	.	.	_	.	_	8	P	_	_

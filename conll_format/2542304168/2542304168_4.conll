@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	57023	_
+2	group	group	_	NN	_	5	SBJ	57023	_
+3	of	of	_	IN	_	2	NMOD	57023	_
+4	men	man	_	NNS	_	3	PMOD	57023	_
+5	pose	pose	_	VBP	_	0	ROOT	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	57033	_
+8	picture	picture	_	NN	_	6	PMOD	57033	_
+9	,	,	_	,	_	5	P	_	_
+10	all	all	_	DT	_	5	DEP	57023	_
+11	in	in	_	IN	_	5	LOC	_	_
+12	orange	orange	_	JJ	_	14	NMOD	57026	_
+13	reflective	reflective	_	JJ	_	14	NMOD	57026	_
+14	vests	vest	_	NNS	_	11	PMOD	57026	_
+15	.	.	_	.	_	5	P	_	_

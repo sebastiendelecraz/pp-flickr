@@ -1,0 +1,14 @@
+1	Four	Four	_	CD	_	2	NMOD	196543	_
+2	people	people	_	NN	_	3	SBJ	196543	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	riding	ride	_	VBG	_	3	VC	_	_
+5	bicycles	bicycle	_	NNS	_	4	OBJ	196546	_
+6	on	on	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	9	NMOD	196548	_
+8	bike	bike	_	NN	_	9	NMOD	196548	_
+9	path	path	_	NN	_	6	PMOD	196548	_
+10	near	near	_	IN	_	9	LOC	_	4
+11	a	a	_	DT	_	13	NMOD	196544	_
+12	busy	busy	_	JJ	_	13	NMOD	196544	_
+13	street	street	_	NN	_	10	PMOD	196544	_
+14	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	263687	_
+2	man	man	_	NN	_	3	SBJ	263687	_
+3	splashes	splash	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	7	NMOD	263688	_
+6	water	water	_	NN	_	7	NMOD	263688	_
+7	obstacle	obstacle	_	NN	_	4	PMOD	263688	_
+8	during	during	_	IN	_	3	TMP	_	3
+9	a	a	_	DT	_	11	NMOD	263693	_
+10	track	track	_	NN	_	11	NMOD	263693	_
+11	competition	competition	_	NN	_	8	PMOD	263693	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,22 @@
+1	An	an	_	DT	_	3	NMOD	194387	_
+2	older	old	_	JJR	_	3	NMOD	194387	_
+3	gentleman	gentleman	_	NN	_	4	SBJ	194387	_
+4	wearing	wear	_	VBG	_	13	SBJ	_	_
+5	a	a	_	DT	_	9	NMOD	194388	_
+6	black	black	_	JJ	_	9	NMOD	194388	_
+7	and	and	_	CC	_	6	COORD	194388	_
+8	red	red	_	JJ	_	7	CONJ	194388	_
+9	costume	costume	_	NN	_	4	OBJ	194388	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	top	top	_	JJ	_	12	NMOD	194391	_
+12	hat	hat	_	NN	_	10	CONJ	194391	_
+13	is	be	_	VBZ	_	0	ROOT	_	_
+14	talking	talk	_	VBG	_	13	VC	_	_
+15	to	to	_	TO	_	14	OPRD	_	_
+16	group	group	_	VB	_	15	IM	194390	_
+17	of	of	_	IN	_	16	ADV	194390	_
+18	bystanders	bystander	_	NNS	_	17	PMOD	194390	_
+19	in front of	in front of	_	IN	_	16	TMP	_	14
+20	a	a	_	DT	_	21	NMOD	194389	_
+21	castle	castle	_	NN	_	19	PMOD	194389	_
+22	.	.	_	.	_	13	P	_	_

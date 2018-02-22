@@ -1,0 +1,13 @@
+1	Ovodafone	Ovodafone	_	NNP	_	2	NMOD	118863	_
+2	sponsors	sponsor	_	NNS	_	6	NMOD	_	_
+3	the	the	_	DT	_	6	NMOD	118858	_
+4	Emirates	Emirates	_	NNPS	_	6	NMOD	118858	_
+5	soccer	soccer	_	NN	_	6	NMOD	118858	_
+6	team	team	_	NN	_	0	ROOT	118858	_
+7	during	during	_	IN	_	6	TMP	_	2
+8	a	a	_	DT	_	10	NMOD	118865	_
+9	long	long	_	JJ	_	10	NMOD	118865	_
+10	day	day	_	NN	_	7	PMOD	118865	_
+11	at	at	_	IN	_	6	LOC	_	_
+12	Barcelona	Barcelona	_	NNP	_	11	PMOD	118862	_
+13	.	.	_	.	_	0	ROOT	_	_

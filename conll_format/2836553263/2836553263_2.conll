@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	75776	_
+2	boy	boy	_	NN	_	3	SBJ	75776	_
+3	stopped	stop	_	VBD	_	14	SBJ	_	_
+4	on	on	_	RP	_	3	PRT	_	_
+5	his	his	_	PRP$	_	6	NMOD	75777	_
+6	bike	bike	_	NN	_	3	OBJ	75777	_
+7	on	on	_	IN	_	6	NMOD	_	2
+8	a	a	_	DT	_	10	NMOD	75780	_
+9	bike	bike	_	NN	_	10	NMOD	75780	_
+10	trail	trail	_	NN	_	7	PMOD	75780	_
+11	as	as	_	IN	_	6	NMOD	_	_
+12	a	a	_	DT	_	13	NMOD	75785	_
+13	woman	woman	_	NN	_	11	PMOD	75785	_
+14	passes	pass	_	VBZ	_	0	ROOT	_	_
+15	by	by	_	IN	_	14	MNR	_	_
+16	.	.	_	.	_	14	P	_	_

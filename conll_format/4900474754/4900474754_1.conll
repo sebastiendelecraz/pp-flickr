@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	216564	_
+2	man	man	_	NN	_	6	SBJ	216564	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	216567	_
+5	woman	woman	_	NN	_	3	CONJ	216567	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	outside of	outside of	_	IN	_	7	ADV	_	7
+9	subway	subway	_	NN	_	8	PMOD	216565	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	their	their	_	PRP$	_	13	NMOD	216568	_
+12	travel	travel	_	NN	_	13	NMOD	216568	_
+13	luggage	luggage	_	NN	_	10	PMOD	216568	_
+14	and	and	_	CC	_	9	COORD	_	_
+15	sleeping	sleep	_	VBG	_	16	NMOD	216570	_
+16	bags	bag	_	NNS	_	14	CONJ	216570	_
+17	.	.	_	.	_	6	P	_	_

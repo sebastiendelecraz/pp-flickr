@@ -1,0 +1,12 @@
+1	Several	several	_	DT	_	2	NMOD	168509	_
+2	people	people	_	NN	_	3	SBJ	168509	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	168514	_
+7	public	public	_	JJ	_	8	NMOD	168514	_
+8	space	space	_	NN	_	5	PMOD	168514	_
+9	on	on	_	IN	_	4	LOC	_	4
+10	a	a	_	DT	_	11	NMOD	168511	_
+11	bench	bench	_	NN	_	9	PMOD	168511	_
+12	.	.	_	.	_	3	P	_	_

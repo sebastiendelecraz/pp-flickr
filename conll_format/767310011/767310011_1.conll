@@ -1,0 +1,17 @@
+1	Male	Male	_	NNP	_	2	NMOD	273170	_
+2	figures	figure	_	NNS	_	0	ROOT	273170	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	T-shirts	T-shirts	_	JJ	_	6	NMOD	273174	_
+5	carry	carry	_	NN	_	6	NMOD	_	_
+6	lengths	length	_	NNS	_	3	PMOD	273171	_
+7	of	of	_	IN	_	6	NMOD	273171	_
+8	construction	construction	_	NN	_	9	NMOD	273171	_
+9	material	material	_	NN	_	7	PMOD	273171	_
+10	along	along	_	IN	_	9	NMOD	_	_
+11	the	the	_	DT	_	12	NMOD	273169	_
+12	top	top	_	JJ	_	10	PMOD	273169	_
+13	of	of	_	IN	_	12	NMOD	273169	_
+14	incomplete	incomplete	_	JJ	_	16	NMOD	273169	_
+15	seated	seat	_	VBN	_	16	NMOD	273169	_
+16	bleachers	bleacher	_	NNS	_	13	PMOD	273169	_
+17	.	.	_	.	_	0	ROOT	_	_

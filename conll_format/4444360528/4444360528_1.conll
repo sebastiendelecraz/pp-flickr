@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	168807	_
+2	young	young	_	JJ	_	3	NMOD	168807	_
+3	male	male	_	JJ	_	0	ROOT	168807	_
+4	in	in	_	IN	_	0	ROOT	_	_
+5	shorts	short	_	NNS	_	4	PMOD	168813	_
+6	standing	stand	_	VBG	_	5	APPO	_	_
+7	under	under	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	168810	_
+9	wooden	wooden	_	JJ	_	10	NMOD	168810	_
+10	structure	structure	_	NN	_	7	PMOD	168810	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	shallow	shallow	_	NN	_	13	NMOD	168812	_
+13	water	water	_	NN	_	11	PMOD	168812	_
+14	.	.	_	.	_	0	ROOT	_	_

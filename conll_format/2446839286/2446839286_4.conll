@@ -1,0 +1,10 @@
+1	Five	Five	_	CD	_	2	NMOD	50238	_
+2	people	people	_	NN	_	3	SBJ	50238	_
+3	jump	jump	_	VBP	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	joy	joy	_	NN	_	4	PMOD	50245	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	50242	_
+8	wedding	wedding	_	NN	_	9	NMOD	50242	_
+9	photo	photo	_	NN	_	6	PMOD	50242	_
+10	.	.	_	.	_	3	P	_	_

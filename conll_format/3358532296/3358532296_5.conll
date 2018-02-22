@@ -1,0 +1,10 @@
+1	Kids	kid	_	NNS	_	0	ROOT	112476	_
+2	at	at	_	IN	_	1	LOC	_	_
+3	a	a	_	DT	_	5	NMOD	112478	_
+4	park	park	_	NN	_	5	NMOD	112478	_
+5	play	play	_	NN	_	2	PMOD	_	_
+6	on	on	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	9	NMOD	112477	_
+8	basketball	basketball	_	NN	_	9	NMOD	112477	_
+9	court	court	_	NN	_	6	PMOD	112477	_
+10	.	.	_	.	_	0	ROOT	_	_

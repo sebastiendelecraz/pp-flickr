@@ -1,0 +1,23 @@
+1	People	People	_	NNPS	_	0	ROOT	128258	_
+2	with	with	_	IN	_	0	ROOT	_	_
+3	umbrellas	umbrella	_	NNS	_	2	PMOD	128261	_
+4	standing	stand	_	VBG	_	3	APPO	_	_
+5	in front of	in front of	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	128259	_
+7	house	house	_	NN	_	5	PMOD	128259	_
+8	decorated	decorate	_	VBN	_	7	APPO	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	Christmas	Christmas	_	NNP	_	9	PMOD	128264	_
+11	with	with	_	IN	_	8	ADV	_	_
+12	trees	tree	_	NNS	_	11	PMOD	128273	_
+13	,	,	_	,	_	12	P	_	_
+14	lights	light	_	NNS	_	12	COORD	128257	_
+15	,	,	_	,	_	14	P	_	_
+16	and	and	_	CC	_	14	COORD	_	_
+17	a	a	_	DT	_	19	NMOD	128265	_
+18	biblical	biblical	_	JJ	_	19	NMOD	128265	_
+19	scene	scene	_	NN	_	16	CONJ	128265	_
+20	on	on	_	IN	_	12	NMOD	_	_
+21	a	a	_	DT	_	22	NMOD	128271	_
+22	wall	wall	_	NN	_	20	PMOD	128271	_
+23	.	.	_	.	_	0	ROOT	_	_

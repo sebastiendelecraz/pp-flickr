@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	3	NMOD	258185	_
+2	basketball	basketball	_	NN	_	3	NMOD	258185	_
+3	player	player	_	NN	_	0	ROOT	258185	_
+4	in	in	_	IN	_	0	ROOT	_	_
+5	white	white	_	JJ	_	4	PMOD	258187	_
+6	in	in	_	IN	_	0	ROOT	_	_
+7	red	red	_	JJ	_	8	SBJ	258197	_
+8	goes	go	_	VBZ	_	6	SUB	_	_
+9	up	up	_	RP	_	8	PRT	_	_
+10	for	for	_	IN	_	8	ADV	_	8
+11	the	the	_	DT	_	12	NMOD	258198	_
+12	shot	shot	_	NN	_	10	PMOD	258198	_
+13	as	as	_	IN	_	8	ADV	_	_
+14	two	two	_	CD	_	16	NMOD	258186	_
+15	defensive	defensive	_	JJ	_	16	NMOD	258186	_
+16	men	man	_	NNS	_	13	PMOD	258186	_
+17	in	in	_	IN	_	16	LOC	_	_
+18	red	red	_	JJ	_	19	NMOD	0	_
+19	jump	jump	_	NN	_	17	PMOD	0	_
+20	up to	up to	_	IN	_	19	NMOD	_	19
+21	block	block	_	NN	_	20	PMOD	_	_
+22	the	the	_	DT	_	23	NMOD	258193	_
+23	shot	shot	_	NN	_	19	APPO	258193	_
+24	.	.	_	.	_	0	ROOT	_	_

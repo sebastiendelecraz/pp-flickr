@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	179613	_
+2	ladies	lady	_	NNS	_	3	SBJ	179613	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	179616	_
+7	bedroom	bedroom	_	NN	_	5	PMOD	179616	_
+8	at	at	_	IN	_	4	LOC	_	_
+9	night	night	_	NN	_	10	NMOD	179617	_
+10	throwing	throwing	_	NN	_	8	PMOD	_	_
+11	brightly	brightly	_	RB	_	12	ADV	179609	_
+12	colored	color	_	VBD	_	4	ADV	179609	_
+13	beads	bead	_	NNS	_	12	OBJ	179609	_
+14	out of	out of	_	IN	_	12	ADV	_	10
+15	the	the	_	DT	_	16	NMOD	179611	_
+16	window	window	_	NN	_	14	PMOD	179611	_
+17	.	.	_	.	_	3	P	_	_

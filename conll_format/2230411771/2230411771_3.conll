@@ -1,0 +1,12 @@
+1	Many	many	_	DT	_	2	NMOD	35603	_
+2	people	people	_	NN	_	3	SBJ	35603	_
+3	talking	talk	_	VBG	_	0	ROOT	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	eating	eat	_	VBG	_	4	CONJ	_	_
+6	at	at	_	IN	_	3	ADV	_	_
+7	an	an	_	DT	_	8	NMOD	35610	_
+8	event	event	_	NN	_	6	PMOD	35610	_
+9	during	during	_	IN	_	8	TMP	_	5
+10	the	the	_	DT	_	11	NMOD	35611	_
+11	day	day	_	NN	_	9	PMOD	35611	_
+12	.	.	_	.	_	0	ROOT	_	_

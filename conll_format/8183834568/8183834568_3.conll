@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	280171	_
+2	elderly	elderly	_	NN	_	3	NMOD	280171	_
+3	man	man	_	NN	_	4	SBJ	280171	_
+4	plays	play	_	VBZ	_	0	ROOT	_	_
+5	a	a	_	DT	_	6	NMOD	280172	_
+6	tambourine	tambourine	_	NN	_	4	OBJ	280172	_
+7	in	in	_	IN	_	6	LOC	_	4
+8	a	a	_	DT	_	9	NMOD	280181	_
+9	concert	concert	_	NN	_	7	PMOD	280181	_
+10	,	,	_	,	_	4	P	_	_
+11	with	with	_	IN	_	4	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	280175	_
+13	trumpet	trumpet	_	NN	_	11	PMOD	280175	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	his	his	_	PRP$	_	16	NMOD	280176	_
+16	lap	lap	_	NN	_	14	PMOD	280176	_
+17	.	.	_	.	_	4	P	_	_

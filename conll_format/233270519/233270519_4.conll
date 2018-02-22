@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	42203	_
+2	man	man	_	NN	_	3	SBJ	42203	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	batting	bat	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	42205	_
+6	ball	ball	_	NN	_	4	OBJ	42205	_
+7	on	on	_	IN	_	4	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	42208	_
+9	beach	beach	_	NN	_	7	PMOD	42208	_
+10	beside	beside	_	IN	_	4	TMP	_	4
+11	the	the	_	DT	_	12	NMOD	42209	_
+12	ocean	ocean	_	NN	_	10	PMOD	42209	_
+13	.	.	_	.	_	3	P	_	_

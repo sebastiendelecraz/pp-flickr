@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	3	NMOD	115994	_
+2	young	young	_	JJ	_	3	NMOD	115994	_
+3	women	woman	_	NNS	_	4	SBJ	115994	_
+4	talking	talk	_	VBG	_	0	ROOT	_	_
+5	at	at	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	115997	_
+7	table	table	_	NN	_	5	PMOD	115997	_
+8	in	in	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	115995	_
+10	cafe	cafe	_	NN	_	8	PMOD	115995	_
+11	.	.	_	.	_	0	ROOT	_	_

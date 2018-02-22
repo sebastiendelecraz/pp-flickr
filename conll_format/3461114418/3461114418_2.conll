@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	119911	_
+2	man	man	_	NN	_	0	ROOT	119911	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	119916	_
+5	yellow	yellow	_	JJ	_	6	NMOD	119916	_
+6	helmet	helmet	_	NN	_	3	PMOD	119916	_
+7	riding	ride	_	VBG	_	6	APPO	_	_
+8	his	his	_	PRP$	_	9	NMOD	119912	_
+9	bike	bike	_	NN	_	7	OBJ	119912	_
+10	on	on	_	IN	_	7	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	119913	_
+12	trail	trail	_	NN	_	10	PMOD	119913	_
+13	through	through	_	IN	_	7	DIR	_	7
+14	the	the	_	DT	_	15	NMOD	119918	_
+15	woods	wood	_	NNS	_	13	PMOD	119918	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	3	NMOD	219249	_
+2	young	young	_	JJ	_	3	NMOD	219249	_
+3	men	man	_	NNS	_	7	SBJ	219249	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	long	long	_	JJ	_	6	NMOD	219253	_
+6	jackets	jacket	_	NNS	_	4	PMOD	219253	_
+7	stand	stand	_	VBP	_	0	ROOT	_	_
+8	under	under	_	IN	_	7	LOC	_	7
+9	an	an	_	DT	_	10	NMOD	219250	_
+10	umbrella	umbrella	_	NN	_	8	PMOD	219250	_
+11	in front of	in front of	_	IN	_	7	LOC	_	7
+12	a	a	_	DT	_	14	NMOD	219251	_
+13	brick	brick	_	NN	_	14	NMOD	219251	_
+14	wall	wall	_	NN	_	11	PMOD	219251	_
+15	with	with	_	IN	_	14	NMOD	_	_
+16	graffiti	graffito	_	NNS	_	15	PMOD	219251	_
+17	.	.	_	.	_	7	P	_	_

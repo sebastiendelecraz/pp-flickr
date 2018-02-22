@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	133379	_
+2	group	group	_	NN	_	10	SBJ	133379	_
+3	of	of	_	IN	_	2	NMOD	133379	_
+4	people	people	_	NN	_	3	PMOD	133379	_
+5	at	at	_	IN	_	4	LOC	_	2
+6	a	a	_	DT	_	9	NMOD	133383	_
+7	Domestic	Domestic	_	NNP	_	9	NAME	133383	_
+8	Violence	Violence	_	NNP	_	9	NAME	133383	_
+9	Awareness	Awareness	_	NNP	_	5	PMOD	133383	_
+10	show	show	_	VBP	_	0	ROOT	133383	_
+11	.	.	_	.	_	10	P	_	_

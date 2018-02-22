@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	129857	_
+2	young	young	_	JJ	_	3	NMOD	129857	_
+3	boy	boy	_	NN	_	10	SBJ	129857	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	9	NMOD	129859	_
+6	blue	blue	_	JJ	_	9	NMOD	129859	_
+7	and	and	_	CC	_	6	COORD	129859	_
+8	white	white	_	JJ	_	7	CONJ	129859	_
+9	uniform	uniform	_	NN	_	4	PMOD	129859	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	up to	up to	_	IN	_	10	PRD	_	10
+12	bat	bat	_	NN	_	11	PMOD	_	_
+13	at	at	_	IN	_	10	LOC	_	10
+14	a	a	_	DT	_	16	NMOD	129858	_
+15	baseball	baseball	_	NN	_	16	NMOD	129858	_
+16	game	game	_	NN	_	13	PMOD	129858	_
+17	.	.	_	.	_	10	P	_	_

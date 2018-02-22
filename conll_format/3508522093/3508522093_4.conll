@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	123634	_
+2	boy	boy	_	NN	_	3	NMOD	123634	_
+3	belly-surfing	belly-surfing	_	CD	_	5	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	123636	_
+5	skateboard	skateboard	_	NN	_	11	SBJ	123636	_
+6	into	into	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	8	NMOD	123635	_
+8	pile	pile	_	NN	_	6	PMOD	123635	_
+9	of	of	_	IN	_	8	NMOD	123635	_
+10	autumn	autumn	_	NN	_	9	PMOD	123635	_
+11	leaves	leave	_	VBZ	_	0	ROOT	123635	_
+12	.	.	_	.	_	11	P	_	_

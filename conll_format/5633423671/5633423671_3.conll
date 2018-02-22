@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	240086	_
+2	concert	concert	_	NN	_	0	ROOT	240086	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	7	NMOD	240081	_
+5	blue	blue	_	JJ	_	7	NMOD	240081	_
+6	shirted	shirt	_	VBN	_	7	NMOD	240081	_
+7	boy	boy	_	NN	_	3	PMOD	240081	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	240092	_
+10	front	front	_	NN	_	8	PMOD	240092	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	light	light	_	JJ	_	13	NMOD	240085	_
+13	shining	shining	_	NN	_	11	CONJ	_	_
+14	in	in	_	IN	_	10	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	240091	_
+16	back	back	_	NN	_	14	PMOD	240091	_
+17	.	.	_	.	_	0	ROOT	_	_

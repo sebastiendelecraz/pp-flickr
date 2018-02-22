@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	60586	_
+2	man	man	_	NN	_	10	NMOD	60586	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	60588	_
+5	cowboy	cowboy	_	NN	_	6	NMOD	60588	_
+6	hat	hat	_	NN	_	3	PMOD	60588	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	blue	blue	_	JJ	_	9	NMOD	60587	_
+9	shirt	shirt	_	NN	_	7	CONJ	60587	_
+10	on	on	_	IN	_	11	SBJ	60598	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	cooking	cook	_	VBG	_	11	VC	_	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	60594	_
+15	festival	festival	_	JJ	_	16	NMOD	60594	_
+16	tent	tent	_	NN	_	13	PMOD	_	_
+17	.	.	_	.	_	11	P	_	_

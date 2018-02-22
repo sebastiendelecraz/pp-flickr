@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	4	NMOD	60140	_
+2	small	small	_	JJ	_	4	NMOD	60140	_
+3	white	white	_	JJ	_	4	NMOD	60140	_
+4	dog	dog	_	NN	_	5	SBJ	60140	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	playing	play	_	VBG	_	5	VC	_	_
+7	with	with	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	11	NMOD	60141	_
+9	bigger	big	_	JJR	_	11	NMOD	60141	_
+10	brown	brown	_	NN	_	11	NMOD	60141	_
+11	dog	dog	_	NN	_	7	PMOD	60141	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	60144	_
+14	woods	wood	_	NNS	_	12	PMOD	60144	_
+15	.	.	_	.	_	5	P	_	_

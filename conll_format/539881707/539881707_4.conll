@@ -1,0 +1,14 @@
+1	Man	Man	_	NNP	_	5	NMOD	235456	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	woman	woman	_	VB	_	2	CONJ	235458	_
+4	playing	play	_	VBG	_	5	NMOD	_	_
+5	guitar	guitar	_	NN	_	0	ROOT	235461	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	stage	stage	_	NN	_	6	PMOD	235466	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	both	both	_	DT	_	10	NMOD	0	_
+10	singing	sing	_	VBG	_	8	CONJ	_	_
+11	into	into	_	IN	_	5	NMOD	_	10
+12	a	a	_	DT	_	13	NMOD	235462	_
+13	microphone	microphone	_	NN	_	11	PMOD	235462	_
+14	.	.	_	.	_	0	ROOT	_	_

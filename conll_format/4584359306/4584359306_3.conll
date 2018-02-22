@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	4	NMOD	180484	_
+2	African	African	_	JJ	_	4	NMOD	180484	_
+3	American	American	_	JJ	_	4	NMOD	180484	_
+4	girls	girl	_	NNS	_	5	SBJ	180484	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	eating	eat	_	VBG	_	5	VC	_	_
+7	lunch	lunch	_	NN	_	6	OBJ	180487	_
+8	at	at	_	IN	_	6	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	180486	_
+10	table	table	_	NN	_	8	PMOD	180486	_
+11	in	in	_	IN	_	6	LOC	_	6
+12	a	a	_	DT	_	13	NMOD	180485	_
+13	cafeteria	cafeteria	_	NN	_	11	PMOD	180485	_
+14	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,14 @@
+1	Competitive	Competitive	_	NNP	_	2	NMOD	154344	_
+2	swimmers	swimmer	_	NNS	_	3	SBJ	154344	_
+3	leap	leap	_	VBP	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	154345	_
+6	edge	edge	_	NN	_	4	PMOD	154345	_
+7	of	of	_	IN	_	6	NMOD	154345	_
+8	a	a	_	DT	_	9	NMOD	154345	_
+9	pool	pool	_	NN	_	7	PMOD	154345	_
+10	,	,	_	,	_	3	P	_	_
+11	towards	towards	_	IN	_	3	ADV	_	3
+12	the	the	_	DT	_	13	NMOD	154346	_
+13	water	water	_	NN	_	11	PMOD	154346	_
+14	.	.	_	.	_	3	P	_	_

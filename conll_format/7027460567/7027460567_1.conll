@@ -1,0 +1,17 @@
+1	Five	Five	_	CD	_	2	NMOD	264264	_
+2	men	man	_	NNS	_	3	SBJ	264264	_
+3	run	run	_	VBP	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	264267	_
+5	race	race	_	NN	_	3	OBJ	264267	_
+6	past	past	_	IN	_	3	ADV	_	3
+7	an	an	_	DT	_	8	NMOD	264269	_
+8	ambulance	ambulance	_	NN	_	6	PMOD	264269	_
+9	through	through	_	IN	_	3	MNR	_	3
+10	crowded	crowded	_	JJ	_	12	NMOD	264265	_
+11	city	city	_	NN	_	12	NMOD	264265	_
+12	streets	street	_	NNS	_	9	PMOD	264265	_
+13	while	while	_	IN	_	3	TMP	_	_
+14	spectators	spectator	_	NNS	_	15	SBJ	264272	_
+15	look	look	_	VBP	_	13	SUB	_	_
+16	on	on	_	IN	_	15	ADV	_	_
+17	.	.	_	.	_	3	P	_	_

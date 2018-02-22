@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	84223	_
+2	woman	woman	_	NN	_	6	SBJ	84223	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	84225	_
+5	stick	stick	_	NN	_	3	PMOD	84225	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	playing	play	_	VBG	_	6	VC	_	_
+8	with	with	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	84224	_
+10	dog	dog	_	NN	_	8	PMOD	84224	_
+11	in	in	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	14	NMOD	84227	_
+13	red	red	_	JJ	_	14	NMOD	84227	_
+14	collar	collar	_	NN	_	11	PMOD	84227	_
+15	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	50877	_
+2	boy	boy	_	NN	_	3	SBJ	50877	_
+3	throws	throw	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	50878	_
+5	soccer	soccer	_	NN	_	6	NMOD	50878	_
+6	ball	ball	_	NN	_	3	OBJ	50878	_
+7	from	from	_	IN	_	3	ADV	_	3
+8	the	the	_	DT	_	9	NMOD	50883	_
+9	sidelines	sideline	_	NNS	_	7	PMOD	50883	_
+10	in	in	_	IN	_	3	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	50882	_
+12	soccer	soccer	_	NN	_	13	NMOD	50882	_
+13	game	game	_	NN	_	10	PMOD	50882	_
+14	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	208704	_
+2	group	group	_	NN	_	7	SBJ	208704	_
+3	of	of	_	IN	_	2	NMOD	208704	_
+4	men	man	_	NNS	_	3	PMOD	208704	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	women	woman	_	NNS	_	5	CONJ	208710	_
+7	are	be	_	VBP	_	0	ROOT	_	_
+8	gathered	gather	_	VBN	_	7	VC	_	_
+9	under	under	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	208703	_
+11	tree	tree	_	NN	_	9	PMOD	208703	_
+12	outside of	outside of	_	IN	_	8	TMP	208703	8
+13	a	a	_	DT	_	14	NMOD	208703	_
+14	building	building	_	NN	_	12	PMOD	208703	_
+15	.	.	_	.	_	7	P	_	_

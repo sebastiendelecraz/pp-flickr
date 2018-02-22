@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	22851	_
+2	man	man	_	NN	_	3	SBJ	22851	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	green	green	_	JJ	_	5	NMOD	22852	_
+5	goggles	goggle	_	NNS	_	6	NMOD	22852	_
+6	watches	watch	_	NNS	_	3	OBJ	_	_
+7	as	as	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	22853	_
+9	woman	woman	_	NN	_	7	PMOD	22853	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	green	green	_	JJ	_	12	NMOD	22852	_
+12	goggles	goggle	_	NNS	_	10	PMOD	22852	_
+13	and	and	_	CC	_	3	COORD	_	_
+14	holding	hold	_	VBG	_	13	CONJ	_	_
+15	a	a	_	DT	_	17	NMOD	22854	_
+16	torch	torch	_	NN	_	17	NMOD	22854	_
+17	solders	solder	_	NNS	_	14	OBJ	_	_
+18	some	some	_	DT	_	19	NMOD	22855	_
+19	metal	metal	_	NN	_	14	OBJ	22855	_
+20	on top of	on top of	_	IN	_	14	ADV	_	19
+21	wooden	wooden	_	JJ	_	22	NMOD	22856	_
+22	blocks	block	_	NNS	_	20	PMOD	22856	_
+23	.	.	_	.	_	0	ROOT	_	_

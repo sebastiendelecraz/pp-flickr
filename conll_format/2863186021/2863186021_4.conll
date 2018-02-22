@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	77504	_
+2	person	person	_	NN	_	3	SBJ	77504	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	walking	walk	_	VBG	_	3	VC	_	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	77506	_
+7	city	city	_	NN	_	5	PMOD	77506	_
+8	with	with	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	77505	_
+10	group	group	_	NN	_	8	PMOD	77505	_
+11	of	of	_	IN	_	10	NMOD	77505	_
+12	birds	bird	_	NNS	_	11	PMOD	77505	_
+13	.	.	_	.	_	3	P	_	_

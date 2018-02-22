@@ -1,0 +1,11 @@
+1	Woman	Woman	_	NNP	_	0	ROOT	2173	_
+2	with	with	_	IN	_	0	ROOT	_	_
+3	three	three	_	CD	_	4	NMOD	2174	_
+4	children	child	_	NNS	_	2	PMOD	2174	_
+5	fishing	fish	_	VBG	_	4	APPO	_	_
+6	over	over	_	IN	_	5	ADV	_	5
+7	boardwalk	boardwalk	_	NN	_	6	PMOD	2175	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	2180	_
+10	evening	evening	_	NN	_	8	PMOD	2180	_
+11	.	.	_	.	_	0	ROOT	_	_

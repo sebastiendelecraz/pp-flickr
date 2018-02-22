@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	2	NMOD	81122	_
+2	children	child	_	NNS	_	3	SBJ	81122	_
+3	wait	wait	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	81124	_
+6	table	table	_	NN	_	4	PMOD	81124	_
+7	for	for	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	81129	_
+9	cake	cake	_	NN	_	7	PMOD	81129	_
+10	to	to	_	TO	_	9	NMOD	_	_
+11	be	be	_	VB	_	10	IM	_	_
+12	sliced	slice	_	VBN	_	11	VC	_	_
+13	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	32379	_
+2	man	man	_	NN	_	3	SBJ	32379	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	riding	ride	_	VBG	_	3	VC	_	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	32380	_
+7	boat	boat	_	NN	_	5	PMOD	32380	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	the	the	_	DT	_	10	NMOD	32381	_
+10	water	water	_	NN	_	8	PMOD	32381	_
+11	.	.	_	.	_	3	P	_	_

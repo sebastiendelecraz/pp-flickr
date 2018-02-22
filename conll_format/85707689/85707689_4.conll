@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	281762	_
+2	man	man	_	NN	_	0	ROOT	281762	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	281764	_
+5	roof	roof	_	NN	_	3	PMOD	281764	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	10	NMOD	281765	_
+8	3rd	3rd	_	CD	_	10	NMOD	281765	_
+9	world	world	_	NN	_	10	NMOD	281765	_
+10	country	country	_	NN	_	6	PMOD	281765	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	2	NMOD	106591	_
+2	individual	individual	_	NN	_	3	SBJ	106591	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	down	down	_	RP	_	4	PRT	_	_
+6	a	a	_	DT	_	0	ROOT	106593	_
+7	set	set	_	VBN	_	0	ROOT	106593	_
+8	of	of	_	IN	_	7	ADV	106593	_
+9	steps	step	_	NNS	_	8	PMOD	106593	_
+10	with	with	_	IN	_	9	NMOD	_	4
+11	a	a	_	DT	_	12	NMOD	106594	_
+12	bag	bag	_	NN	_	10	PMOD	106594	_
+13	in	in	_	IN	_	9	LOC	_	_
+14	their	their	_	PRP$	_	16	NMOD	106597	_
+15	left	left	_	JJ	_	16	NMOD	106597	_
+16	hand	hand	_	NN	_	13	PMOD	106597	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,23 @@
+1	An	an	_	DT	_	3	NMOD	212385	_
+2	Asian	Asian	_	JJ	_	3	NMOD	212385	_
+3	woman	woman	_	NN	_	0	ROOT	212385	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	212386	_
+6	black	black	_	JJ	_	7	NMOD	212386	_
+7	dress	dress	_	NN	_	4	PMOD	212386	_
+8	sitting	sit	_	VBG	_	7	APPO	_	_
+9	down	down	_	RP	_	8	PRT	_	_
+10	next to	next to	_	IN	_	8	LOC	_	8
+11	her	her	_	PRP$	_	12	NMOD	212391	_
+12	purse	purse	_	NN	_	10	PMOD	212391	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	dog	dog	_	NN	_	13	CONJ	212388	_
+15	on	on	_	IN	_	8	LOC	_	_
+16	a	a	_	DT	_	18	NMOD	212390	_
+17	gravel	gravel	_	NN	_	18	NMOD	212390	_
+18	wall	wall	_	NN	_	15	PMOD	212390	_
+19	looking	look	_	VBG	_	18	APPO	_	_
+20	at	at	_	IN	_	19	ADV	_	_
+21	her	her	_	PRP$	_	22	NMOD	212387	_
+22	phone	phone	_	NN	_	20	PMOD	212387	_
+23	.	.	_	.	_	0	ROOT	_	_

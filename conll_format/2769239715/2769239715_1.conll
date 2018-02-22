@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	71719	_
+2	man	man	_	NN	_	0	ROOT	71719	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	71720	_
+5	checkered	checker	_	VBN	_	6	NMOD	71720	_
+6	shirt	shirt	_	NN	_	3	PMOD	71720	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	his	his	_	PRP$	_	9	NMOD	71727	_
+9	arm	arm	_	NN	_	7	PMOD	71727	_
+10	around	around	_	IN	_	0	ROOT	_	_
+11	a	a	_	DT	_	12	NMOD	71721	_
+12	woman	woman	_	NN	_	10	PMOD	71721	_
+13	in	in	_	IN	_	12	LOC	_	12
+14	a	a	_	DT	_	16	NMOD	71722	_
+15	brown	brown	_	JJ	_	16	NMOD	71722	_
+16	jacket	jacket	_	NN	_	13	PMOD	71722	_
+17	.	.	_	.	_	0	ROOT	_	_

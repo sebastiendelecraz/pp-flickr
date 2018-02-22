@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	95396	_
+2	males	mal	_	NNS	_	3	SBJ	95396	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	95398	_
+6	sidewalk	sidewalk	_	NN	_	4	PMOD	95398	_
+7	next to	next to	_	IN	_	3	LOC	_	3
+8	the	the	_	DT	_	9	NMOD	95398	_
+9	street	street	_	NN	_	7	PMOD	95398	_
+10	.	.	_	.	_	0	ROOT	_	_

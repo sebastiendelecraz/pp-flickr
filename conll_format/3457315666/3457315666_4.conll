@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	119579	_
+2	bearded	beard	_	VBN	_	4	NMOD	119579	_
+3	collie	collie	_	NN	_	4	NMOD	119579	_
+4	jumps	jump	_	NNS	_	0	ROOT	_	_
+5	over	over	_	IN	_	4	NMOD	_	4
+6	bars	bar	_	NNS	_	5	PMOD	119580	_
+7	at	at	_	IN	_	6	LOC	_	_
+8	an	an	_	DT	_	11	NMOD	119582	_
+9	agility	agility	_	NN	_	10	NMOD	119582	_
+10	test	test	_	NN	_	11	NMOD	119582	_
+11	course	course	_	NN	_	7	PMOD	119582	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	44255	_
+2	well	well	_	RB	_	3	AMOD	44255	_
+3	dressed	dress	_	VBN	_	4	NMOD	44255	_
+4	man	man	_	NN	_	5	SBJ	44255	_
+5	speaks	speak	_	VBZ	_	0	ROOT	_	_
+6	into	into	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	44259	_
+8	microphone	microphone	_	NN	_	6	PMOD	44259	_
+9	at	at	_	IN	_	8	LOC	_	5
+10	a	a	_	DT	_	12	NMOD	44256	_
+11	Tech	Tech	_	NNP	_	12	NAME	44256	_
+12	Summit	Summit	_	NNP	_	9	PMOD	44256	_
+13	.	.	_	.	_	5	P	_	_

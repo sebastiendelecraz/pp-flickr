@@ -1,0 +1,16 @@
+1	Man	Man	_	NNP	_	0	ROOT	212371	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	212373	_
+4	blue	blue	_	JJ	_	5	NMOD	212373	_
+5	jacket	jacket	_	NN	_	2	PMOD	212373	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	khaki	khaki	_	JJ	_	8	NMOD	212376	_
+8	pants	pant	_	NNS	_	6	CONJ	212376	_
+9	bicycling	bicycle	_	VBG	_	0	ROOT	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	212375	_
+12	sidewalk	sidewalk	_	NN	_	10	PMOD	212375	_
+13	next to	next to	_	IN	_	9	ADV	_	9
+14	a	a	_	DT	_	15	NMOD	212377	_
+15	tree	tree	_	NN	_	13	PMOD	212377	_
+16	.	.	_	.	_	0	ROOT	_	_

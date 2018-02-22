@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	28271	_
+2	young	young	_	JJ	_	3	NMOD	28271	_
+3	guy	guy	_	NN	_	0	ROOT	28271	_
+4	posing	pose	_	VBG	_	3	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	28280	_
+7	picture	picture	_	NN	_	5	PMOD	28280	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	13	NMOD	28278	_
+10	Joao	Joao	_	NNP	_	12	NAME	28278	_
+11	de	de	_	NNP	_	12	NAME	_	_
+12	Souza	Souza	_	NNP	_	13	NMOD	28279	_
+13	street	street	_	NN	_	8	PMOD	28279	_
+14	.	.	_	.	_	0	ROOT	_	_

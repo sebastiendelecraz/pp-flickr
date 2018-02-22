@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	185175	_
+2	group	group	_	NN	_	0	ROOT	185175	_
+3	of	of	_	IN	_	2	NMOD	185175	_
+4	people	people	_	NN	_	3	PMOD	185175	_
+5	crowded	crowd	_	VBN	_	4	APPO	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	185178	_
+8	bike	bike	_	NN	_	6	PMOD	185178	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	its	its	_	PRP$	_	11	NMOD	185174	_
+11	rider	rider	_	NN	_	9	CONJ	185174	_
+12	on	on	_	IN	_	8	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	185179	_
+14	street	street	_	NN	_	12	PMOD	185179	_
+15	.	.	_	.	_	0	ROOT	_	_

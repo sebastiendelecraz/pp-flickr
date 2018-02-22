@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	223580	_
+2	woman	woman	_	NN	_	8	SBJ	223580	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	223581	_
+5	green	green	_	JJ	_	7	NMOD	223581	_
+6	tank	tank	_	NN	_	7	NMOD	223581	_
+7	top	top	_	NN	_	3	PMOD	223581	_
+8	runs	run	_	VBZ	_	0	ROOT	_	_
+9	in	in	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	223579	_
+11	crowd	crowd	_	NN	_	9	PMOD	223579	_
+12	of	of	_	IN	_	11	NMOD	223579	_
+13	men	man	_	NNS	_	12	PMOD	223579	_
+14	during	during	_	IN	_	8	TMP	_	8
+15	a	a	_	DT	_	16	NMOD	223583	_
+16	race	race	_	NN	_	14	PMOD	223583	_
+17	.	.	_	.	_	8	P	_	_

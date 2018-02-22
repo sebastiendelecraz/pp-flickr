@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	131783	_
+2	man	man	_	NN	_	9	SBJ	131783	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	131785	_
+5	cigarette	cigarette	_	NN	_	3	PMOD	131785	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	his	his	_	PRP$	_	8	NMOD	131787	_
+8	mouth	mouth	_	NN	_	6	PMOD	131787	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	playing	play	_	VBG	_	9	VC	_	_
+11	pool	pool	_	NN	_	10	OBJ	131788	_
+12	.	.	_	.	_	9	P	_	_

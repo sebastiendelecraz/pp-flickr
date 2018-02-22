@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	170124	_
+2	doll	doll	_	NN	_	6	NMOD	170124	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	stuffed	stuff	_	VBD	_	3	CONJ	170125	_
+5	dog	dog	_	NN	_	6	NMOD	170125	_
+6	sit	sit	_	NN	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	10	NMOD	170126	_
+9	back	back	_	NN	_	10	NMOD	170126	_
+10	window	window	_	NN	_	7	PMOD	170126	_
+11	of	of	_	IN	_	10	NMOD	170126	10
+12	a	a	_	DT	_	13	NMOD	170126	_
+13	car	car	_	NN	_	11	PMOD	170126	_
+14	.	.	_	.	_	0	ROOT	_	_

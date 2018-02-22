@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	35848	_
+2	naked	naked	_	JJ	_	3	NMOD	35848	_
+3	child	child	_	NN	_	4	SBJ	35848	_
+4	stands	stand	_	VBZ	_	0	ROOT	_	_
+5	looking	look	_	VBG	_	4	OPRD	_	_
+6	into	into	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	35849	_
+8	body	body	_	NN	_	6	PMOD	35849	_
+9	of	of	_	IN	_	8	NMOD	35849	_
+10	water	water	_	NN	_	9	PMOD	35849	_
+11	.	.	_	.	_	4	P	_	_

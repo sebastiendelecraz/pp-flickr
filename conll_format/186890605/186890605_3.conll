@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	22280	_
+2	man	man	_	NN	_	3	SBJ	22280	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	rope-swinging	rope-swinging	_	CD	_	3	PRD	_	_
+5	off	off	_	IN	_	3	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	22283	_
+7	tree	tree	_	NN	_	5	PMOD	22283	_
+8	into	into	_	IN	_	3	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	22281	_
+10	lake	lake	_	NN	_	8	PMOD	22281	_
+11	.	.	_	.	_	3	P	_	_

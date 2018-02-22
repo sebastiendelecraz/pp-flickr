@@ -1,0 +1,14 @@
+1	Three	Three	_	CD	_	2	NMOD	62654	_
+2	people	people	_	NN	_	6	SBJ	62654	_
+3	on	on	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	5	NMOD	62658	_
+5	boats	boat	_	NNS	_	3	PMOD	62658	_
+6	paddle	paddle	_	VBP	_	0	ROOT	62658	_
+7	through	through	_	IN	_	6	ADV	_	6
+8	water	water	_	NN	_	7	PMOD	62655	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	mountains	mountain	_	NNS	_	9	PMOD	62656	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	background	background	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,14 @@
+1	The	the	_	DT	_	2	NMOD	4970	_
+2	girl	girl	_	NN	_	6	SBJ	4970	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	the	the	_	DT	_	5	NMOD	4971	_
+5	unicycle	unicycle	_	NN	_	3	PMOD	4971	_
+6	reaches	reach	_	VBZ	_	0	ROOT	_	_
+7	out	out	_	RP	_	6	PRT	_	_
+8	for	for	_	IN	_	6	ADV	_	6
+9	the	the	_	DT	_	10	NMOD	4973	_
+10	child	child	_	NN	_	8	PMOD	4973	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	the	the	_	DT	_	13	NMOD	4972	_
+13	scooter	scooter	_	NN	_	11	PMOD	4972	_
+14	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,31 @@
+1	An	an	_	DT	_	3	NMOD	252502	_
+2	African-American	African-American	_	NNP	_	3	NMOD	252502	_
+3	female	female	_	NN	_	4	SBJ	252502	_
+4	sits	sit	_	VBZ	_	0	ROOT	_	_
+5	outside of	outside of	_	IN	_	0	ROOT	0	_
+6	a	a	_	DT	_	8	NMOD	0	_
+7	village	village	_	NN	_	8	NMOD	0	_
+8	side	side	_	NN	_	5	PMOD	0	_
+9	in	in	_	IN	_	0	ROOT	_	_
+10	a	a	_	DT	_	12	NMOD	252506	_
+11	foreign	foreign	_	JJ	_	12	NMOD	252506	_
+12	country	country	_	NN	_	9	PMOD	252506	_
+13	as	as	_	IN	_	0	ROOT	_	_
+14	she	she	_	PRP	_	15	SBJ	0	_
+15	works	work	_	VBZ	_	13	SUB	_	_
+16	on	on	_	IN	_	15	ADV	_	_
+17	sewing	sew	_	VBG	_	16	PMOD	_	_
+18	on	on	_	IN	_	17	ADV	_	_
+19	some	some	_	DT	_	21	NMOD	252509	_
+20	unknown	unknown	_	JJ	_	21	NMOD	252509	_
+21	material	material	_	NN	_	18	PMOD	252509	_
+22	as	as	_	IN	_	17	TMP	_	_
+23	she	she	_	PRP	_	24	SBJ	0	_
+24	sets	set	_	VBZ	_	22	SUB	_	_
+25	on	on	_	IN	_	24	ADV	_	_
+26	another	another	_	DT	_	27	NMOD	252504	_
+27	material	material	_	NN	_	25	PMOD	252504	_
+28	on top of	on top of	_	IN	_	24	LOC	_	24
+29	the	the	_	DT	_	30	NMOD	252505	_
+30	dirt	dirt	_	NN	_	28	PMOD	252505	_
+31	.	.	_	.	_	0	ROOT	_	_

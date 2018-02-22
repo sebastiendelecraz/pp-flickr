@@ -1,0 +1,12 @@
+1	The	the	_	DT	_	2	NMOD	148539	_
+2	bike	bike	_	NN	_	6	SBJ	148539	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	the	the	_	DT	_	5	NMOD	148540	_
+5	boy	boy	_	NN	_	3	CONJ	148540	_
+6	jumped	jump	_	VBD	_	0	ROOT	_	_
+7	over	over	_	IN	_	6	TMP	_	6
+8	the	the	_	DT	_	9	NMOD	148542	_
+9	mound	mound	_	NN	_	7	PMOD	148542	_
+10	of	of	_	IN	_	9	NMOD	148542	_
+11	dirt	dirt	_	NN	_	10	PMOD	148542	_
+12	.	.	_	.	_	6	P	_	_

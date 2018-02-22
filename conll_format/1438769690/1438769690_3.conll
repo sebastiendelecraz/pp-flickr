@@ -1,0 +1,17 @@
+1	this	this	_	DT	_	2	NMOD	13095	_
+2	Man	Man	_	NNP	_	10	SBJ	13095	_
+3	,	,	_	,	_	10	P	_	_
+4	with	with	_	IN	_	10	ADV	_	2
+5	a	a	_	DT	_	9	NAME	13099	_
+6	Red	Red	_	NNP	_	9	NAME	13099	_
+7	&	&	_	NNP	_	9	NAME	13099	_
+8	White	White	_	NNP	_	9	NAME	13099	_
+9	Shirt	Shirt	_	NNP	_	4	PMOD	13099	_
+10	has	have	_	VBZ	_	0	ROOT	_	_
+11	Water	water	_	NN	_	12	NMOD	13093	_
+12	Bottles	bottle	_	NNS	_	10	OBJ	13093	_
+13	on	on	_	IN	_	10	LOC	_	_
+14	this	this	_	DT	_	16	NMOD	13092	_
+15	White	White	_	NNP	_	16	NAME	13092	_
+16	Truck	Truck	_	NNP	_	13	PMOD	13092	_
+17	.	.	_	.	_	10	P	_	_

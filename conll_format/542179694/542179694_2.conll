@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	236186	_
+2	jogger	jogger	_	NN	_	0	ROOT	236186	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	236188	_
+5	dog	dog	_	NN	_	3	PMOD	236188	_
+6	running	run	_	VBG	_	5	APPO	_	_
+7	towards	towards	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	236185	_
+9	firetruck	firetruck	_	NN	_	7	PMOD	236185	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	extended	extend	_	VBN	_	12	NMOD	236190	_
+12	ladder	ladder	_	NN	_	10	PMOD	236190	_
+13	on	on	_	IN	_	9	NMOD	_	_
+14	a	a	_	DT	_	15	NMOD	236189	_
+15	road	road	_	NN	_	13	PMOD	236189	_
+16	.	.	_	.	_	0	ROOT	_	_

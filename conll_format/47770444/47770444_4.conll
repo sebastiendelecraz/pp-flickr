@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	201792	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	driving	drive	_	VBG	_	2	VC	_	_
+4	scooters	scooter	_	NNS	_	3	OBJ	201793	_
+5	down	down	_	IN	_	3	ADV	_	3
+6	the	the	_	DT	_	7	NMOD	201795	_
+7	street	street	_	NN	_	5	AMOD	201795	_
+8	at	at	_	IN	_	3	ADV	_	_
+9	night	night	_	NN	_	8	PMOD	201798	_
+10	.	.	_	.	_	2	P	_	_

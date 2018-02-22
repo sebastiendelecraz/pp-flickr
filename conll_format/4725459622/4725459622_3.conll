@@ -1,0 +1,13 @@
+1	Men	Men	_	NNPS	_	6	SBJ	195688	_
+2	in	in	_	IN	_	6	TMP	_	_
+3	fancy	fancy	_	JJ	_	5	NMOD	195692	_
+4	military	military	_	JJ	_	5	NMOD	195692	_
+5	uniforms	uniform	_	NNS	_	2	PMOD	195692	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	riding	ride	_	VBG	_	6	VC	_	_
+8	through	through	_	IN	_	7	MNR	_	7
+9	a	a	_	DT	_	10	NMOD	195690	_
+10	field	field	_	NN	_	8	PMOD	195690	_
+11	on	on	_	IN	_	7	ADV	_	_
+12	horseback	horseback	_	NN	_	11	PMOD	195691	_
+13	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,13 @@
+1	The	the	_	DT	_	5	NMOD	252758	_
+2	three	three	_	CD	_	3	NMOD	252758	_
+3	field	field	_	NN	_	5	NMOD	252758	_
+4	hockey	hockey	_	NN	_	5	NMOD	252758	_
+5	players	player	_	NNS	_	6	SBJ	252758	_
+6	dressed	dress	_	VBD	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	orange	orange	_	JJ	_	9	NMOD	252765	_
+9	make	make	_	NN	_	7	PMOD	_	_
+10	for	for	_	IN	_	9	NMOD	_	9
+11	the	the	_	DT	_	12	NMOD	252767	_
+12	ball	ball	_	NN	_	10	PMOD	252767	_
+13	.	.	_	.	_	6	P	_	_

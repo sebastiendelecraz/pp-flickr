@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	269553	_
+2	men	man	_	NNS	_	3	SBJ	269553	_
+3	look	look	_	VBP	_	0	ROOT	_	_
+4	out of	out of	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	7	NMOD	269557	_
+6	control	control	_	NN	_	7	NMOD	269557	_
+7	tower	tower	_	NN	_	4	PMOD	269557	_
+8	of	of	_	IN	_	7	NMOD	269557	_
+9	a	a	_	DT	_	14	NMOD	269557	_
+10	sea	sea	_	NN	_	11	NMOD	269557	_
+11	tanker	tanker	_	NN	_	14	NMOD	269557	_
+12	-	-	_	HYPH	_	11	HYPH	_	_
+13	one	one	_	CD	_	11	HMOD	269556	_
+14	waves	wave	_	NNS	_	8	PMOD	269556	_
+15	.	.	_	.	_	3	P	_	_

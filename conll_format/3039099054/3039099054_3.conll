@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	89328	_
+2	group	group	_	NN	_	0	ROOT	89328	_
+3	of	of	_	IN	_	2	NMOD	89328	_
+4	people	people	_	NN	_	3	PMOD	89328	_
+5	outside	outside	_	IN	_	4	LOC	_	2
+6	,	,	_	,	_	5	P	_	_
+7	a	a	_	DT	_	8	NMOD	89329	_
+8	girl	girl	_	NN	_	5	PMOD	89329	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	white	white	_	JJ	_	13	NMOD	89338	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	2	2	_	CD	_	11	CONJ	89337	_
+13	guys	guy	_	NNS	_	9	PMOD	89337	_
+14	facing	face	_	VBG	_	13	APPO	_	_
+15	forward	forward	_	RB	_	14	DIR	_	_
+16	.	.	_	.	_	0	ROOT	_	_

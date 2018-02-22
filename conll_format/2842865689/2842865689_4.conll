@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	76284	_
+2	people	people	_	NN	_	0	ROOT	76284	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	76288	_
+6	blue	blue	_	JJ	_	7	NMOD	76288	_
+7	room	room	_	NN	_	4	PMOD	76288	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	ratty	ratty	_	JJ	_	11	NMOD	76285	_
+10	wooden	wooden	_	JJ	_	11	NMOD	76285	_
+11	seats	seat	_	NNS	_	8	PMOD	76285	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	tables	table	_	NNS	_	12	CONJ	76282	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	191186	_
+2	woman	woman	_	NN	_	4	NMOD	191186	_
+3	wearing	wear	_	VBG	_	4	NMOD	_	_
+4	sunglasses	sunglass	_	NNS	_	5	SBJ	191189	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	holding	hold	_	VBG	_	5	VC	_	_
+7	an	an	_	DT	_	8	NMOD	191187	_
+8	infant	infant	_	NN	_	6	OBJ	191187	_
+9	with	with	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	12	NMOD	191188	_
+11	colorful	colorful	_	JJ	_	12	NMOD	191188	_
+12	hat	hat	_	NN	_	9	PMOD	191188	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	her	her	_	PRP$	_	15	NMOD	191193	_
+15	arms	arm	_	NNS	_	13	PMOD	191193	_
+16	.	.	_	.	_	5	P	_	_

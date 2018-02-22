@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	131650	_
+2	man	man	_	NN	_	0	ROOT	131650	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	his	his	_	PRP$	_	5	NMOD	131651	_
+5	bike	bike	_	NN	_	3	PMOD	131651	_
+6	amid	amid	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	131652	_
+8	demolished	demolish	_	VBN	_	9	NMOD	131652	_
+9	building	building	_	NN	_	6	PMOD	131652	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	5	NMOD	118536	_
+2	brown	brown	_	JJ	_	5	NMOD	118536	_
+3	and	and	_	CC	_	2	COORD	118536	_
+4	white	white	_	JJ	_	3	CONJ	118536	_
+5	dog	dog	_	NN	_	6	SBJ	118536	_
+6	runs	run	_	VBZ	_	0	ROOT	_	_
+7	through	through	_	IN	_	6	DIR	_	6
+8	the	the	_	DT	_	9	NMOD	118537	_
+9	water	water	_	NN	_	7	PMOD	118537	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	trees	tree	_	NNS	_	10	PMOD	118538	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	branches	branch	_	NNS	_	12	CONJ	118539	_
+14	around	around	_	IN	_	9	LOC	_	_
+15	.	.	_	.	_	6	P	_	_

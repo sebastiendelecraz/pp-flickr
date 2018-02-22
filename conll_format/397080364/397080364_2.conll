@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	150259	_
+2	skier	skier	_	NN	_	3	SBJ	150259	_
+3	wearing	wear	_	VBG	_	12	SBJ	_	_
+4	white	white	_	JJ	_	5	NMOD	150263	_
+5	pants	pant	_	NNS	_	3	OBJ	150263	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	150264	_
+8	purple	purple	_	NN	_	6	CONJ	150264	_
+9	and	and	_	CC	_	8	COORD	150264	_
+10	black	black	_	JJ	_	11	NMOD	150264	_
+11	jacket	jacket	_	NN	_	9	CONJ	150264	_
+12	poses	pose	_	VBZ	_	0	ROOT	_	_
+13	for	for	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	150268	_
+15	picture	picture	_	NN	_	13	PMOD	150268	_
+16	next to	next to	_	IN	_	12	ADV	_	12
+17	a	a	_	DT	_	18	NMOD	150261	_
+18	sign	sign	_	NN	_	16	PMOD	150261	_
+19	near	near	_	IN	_	18	LOC	_	12
+20	the	the	_	DT	_	22	NMOD	150265	_
+21	ski	ski	_	NN	_	22	NMOD	150265	_
+22	lift	lift	_	NN	_	19	PMOD	150265	_
+23	.	.	_	.	_	12	P	_	_

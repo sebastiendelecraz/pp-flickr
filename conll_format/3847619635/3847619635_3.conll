@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	145435	_
+2	Man	Man	_	NNP	_	3	SBJ	145435	_
+3	doing	do	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	7	NMOD	145441	_
+5	high	high	_	JJ	_	7	NMOD	145441	_
+6	up	up	_	NN	_	7	NMOD	_	_
+7	jump	jump	_	NN	_	3	OBJ	0	_
+8	on	on	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	10	NMOD	145436	_
+10	bike	bike	_	NN	_	8	PMOD	145436	_
+11	with	with	_	IN	_	7	NMOD	_	3
+12	a	a	_	DT	_	13	NMOD	145439	_
+13	cityscape	cityscape	_	NN	_	11	PMOD	145439	_
+14	behind	behind	_	IN	_	13	LOC	_	_
+15	him	him	_	PRP	_	14	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

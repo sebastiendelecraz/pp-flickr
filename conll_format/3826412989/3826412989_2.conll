@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	SBJ	144340	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	traveling	travel	_	VBG	_	2	VC	_	_
+4	via	via	_	IN	_	3	MNR	_	3
+5	donkey	donkey	_	NN	_	4	PMOD	144345	_
+6	with	with	_	IN	_	3	ADV	_	_
+7	their	their	_	PRP$	_	8	NMOD	144349	_
+8	belongings	belonging	_	NNS	_	6	PMOD	144349	_
+9	on	on	_	IN	_	3	ADV	_	_
+10	back	back	_	RB	_	9	PMOD	144344	_
+11	.	.	_	.	_	2	P	_	_

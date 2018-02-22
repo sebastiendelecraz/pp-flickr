@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	215381	_
+2	colorful	colorful	_	JJ	_	3	NMOD	215381	_
+3	rickshaw	rickshaw	_	NN	_	0	ROOT	215381	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	two	two	_	CD	_	6	NMOD	215383	_
+6	patrons	patron	_	NNS	_	4	PMOD	215383	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	215386	_
+9	beach	beach	_	NN	_	7	PMOD	215386	_
+10	stopping	stop	_	VBG	_	9	APPO	_	_
+11	at	at	_	IN	_	10	LOC	_	10
+12	a	a	_	DT	_	14	NMOD	215388	_
+13	coke	coke	_	NN	_	14	NMOD	215388	_
+14	kiosk	kiosk	_	NN	_	11	PMOD	215388	_
+15	.	.	_	.	_	0	ROOT	_	_

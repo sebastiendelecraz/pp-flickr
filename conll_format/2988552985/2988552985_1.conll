@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	85792	_
+2	man	man	_	NN	_	0	ROOT	85792	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	85794	_
+5	jacket	jacket	_	NN	_	3	PMOD	85794	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	mask	mask	_	NN	_	8	NMOD	85799	_
+8	stands	stand	_	NNS	_	6	CONJ	_	_
+9	behind	behind	_	IN	_	2	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	85795	_
+11	series	series	_	NN	_	9	PMOD	85795	_
+12	of	of	_	IN	_	11	NMOD	85795	_
+13	wires	wire	_	NNS	_	12	PMOD	85795	_
+14	next to	next to	_	IN	_	0	ROOT	_	_
+15	a	a	_	DT	_	16	NMOD	85793	_
+16	flag	flag	_	NN	_	14	PMOD	85793	_
+17	.	.	_	.	_	0	ROOT	_	_

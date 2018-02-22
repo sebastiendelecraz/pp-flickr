@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	2	NMOD	266990	_
+2	man	man	_	NN	_	8	SBJ	266990	_
+3	,	,	_	,	_	8	P	_	_
+4	with	with	_	IN	_	8	ADV	_	_
+5	no	no	_	DT	_	6	NMOD	266995	_
+6	shirt	shirt	_	NN	_	4	PMOD	266995	_
+7	,	,	_	,	_	8	P	_	_
+8	reaches	reach	_	VBZ	_	0	ROOT	_	_
+9	into	into	_	IN	_	8	DIR	_	8
+10	a	a	_	DT	_	11	NMOD	266991	_
+11	bucket	bucket	_	NN	_	9	PMOD	266991	_
+12	to	to	_	TO	_	8	PRP	_	_
+13	extract	extract	_	VB	_	12	IM	_	_
+14	the	the	_	DT	_	15	NMOD	266997	_
+15	substance	substance	_	NN	_	13	OBJ	266997	_
+16	inside	inside	_	IN	_	13	LOC	_	_
+17	.	.	_	.	_	8	P	_	_

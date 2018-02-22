@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	218102	_
+2	child	child	_	NN	_	0	ROOT	218102	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	218107	_
+5	green	green	_	JJ	_	6	NMOD	218107	_
+6	jacket	jacket	_	NN	_	3	PMOD	218107	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	blue	blue	_	JJ	_	10	NMOD	218106	_
+9	hat	hat	_	NN	_	10	NMOD	218106	_
+10	sits	sit	_	NNS	_	7	CONJ	_	_
+11	on	on	_	IN	_	2	NMOD	_	10
+12	a	a	_	DT	_	13	NMOD	218105	_
+13	bench	bench	_	NN	_	11	PMOD	218105	_
+14	eating	eat	_	VBG	_	13	APPO	_	_
+15	ice	ice	_	NN	_	16	NMOD	218109	_
+16	cream	cream	_	NN	_	14	OBJ	218109	_
+17	out of	out of	_	IN	_	0	ROOT	_	_
+18	a	a	_	DT	_	19	NMOD	218108	_
+19	cup	cup	_	NN	_	17	PMOD	218108	_
+20	.	.	_	.	_	0	ROOT	_	_

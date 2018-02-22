@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	154249	_
+2	Rabbi	Rabbi	_	NNP	_	7	SBJ	154249	_
+3	in	in	_	IN	_	7	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	154253	_
+5	blue	blue	_	JJ	_	6	NMOD	154253	_
+6	yarmulke	yarmulke	_	NN	_	3	PMOD	154253	_
+7	kisses	kiss	_	VBZ	_	0	ROOT	_	_
+8	the	the	_	DT	_	9	NMOD	154254	_
+9	head	head	_	NN	_	7	SBJ	154254	_
+10	of	of	_	IN	_	9	NMOD	154254	_
+11	a	a	_	DT	_	12	NMOD	154254	_
+12	man	man	_	NN	_	10	PMOD	154254	_
+13	with	with	_	IN	_	12	NMOD	_	_
+14	bowed	bow	_	VBN	_	15	NMOD	154254	_
+15	head	head	_	NN	_	13	PMOD	154254	_
+16	.	.	_	.	_	7	P	_	_

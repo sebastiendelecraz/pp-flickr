@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	227023	_
+2	men	man	_	NNS	_	0	ROOT	227023	_
+3	waiting	wait	_	VBG	_	2	APPO	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	227025	_
+6	train	train	_	NN	_	4	PMOD	227025	_
+7	at	at	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	11	NMOD	227024	_
+9	4	4	_	CD	_	10	NMOD	227024	_
+10	avenue	avenue	_	NN	_	11	NMOD	227024	_
+11	stop	stop	_	NN	_	7	PMOD	227024	_
+12	.	.	_	.	_	0	ROOT	_	_

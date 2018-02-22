@@ -1,0 +1,11 @@
+1	Policeman	Policeman	_	NNP	_	2	SBJ	221228	_
+2	taping	tape	_	VBG	_	0	ROOT	_	_
+3	off	off	_	RP	_	2	PRT	_	_
+4	an	an	_	DT	_	5	NMOD	221231	_
+5	area	area	_	NN	_	2	OBJ	221231	_
+6	by	by	_	IN	_	2	MNR	_	2
+7	a	a	_	DT	_	8	NMOD	221233	_
+8	group	group	_	NN	_	6	PMOD	221233	_
+9	of	of	_	IN	_	8	NMOD	221233	_
+10	firemen	fireman	_	NNS	_	9	PMOD	221233	_
+11	.	.	_	.	_	0	ROOT	_	_

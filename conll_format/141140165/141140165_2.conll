@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	11821	_
+2	boys	boy	_	NNS	_	0	ROOT	11821	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	oppsite	oppsite	_	CD	_	5	NMOD	11821	_
+5	sides	side	_	NNS	_	3	PMOD	11821	_
+6	of	of	_	IN	_	5	NMOD	11821	_
+7	the	the	_	DT	_	9	NMOD	11821	_
+8	baseball	baseball	_	NN	_	9	NMOD	11821	_
+9	teams	team	_	NNS	_	6	PMOD	11821	_
+10	arguing	argue	_	VBG	_	9	APPO	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	each	each	_	DT	_	13	NMOD	0	_
+13	other	other	_	JJ	_	11	PMOD	0	_
+14	at	at	_	IN	_	10	LOC	_	10
+15	a	a	_	DT	_	16	NMOD	11822	_
+16	base	base	_	NN	_	14	PMOD	11822	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	19957	_
+2	men	man	_	NNS	_	0	ROOT	19957	_
+3	having	have	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	19958	_
+5	conversation	conversation	_	NN	_	3	OBJ	19958	_
+6	about	about	_	IN	_	5	NMOD	_	5
+7	business	business	_	NN	_	6	PMOD	19959	_
+8	over	over	_	IN	_	5	NMOD	_	3
+9	beers	beer	_	NNS	_	8	PMOD	19961	_
+10	.	.	_	.	_	0	ROOT	_	_

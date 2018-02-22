@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	20890	_
+2	man	man	_	NN	_	8	SBJ	20890	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	20895	_
+5	white	white	_	JJ	_	7	NMOD	20895	_
+6	tank	tank	_	NN	_	7	NMOD	20895	_
+7	shirt	shirt	_	NN	_	3	PMOD	20895	_
+8	holds	hold	_	VBZ	_	0	ROOT	_	_
+9	a	a	_	DT	_	10	NMOD	20891	_
+10	laptop	laptop	_	NN	_	8	OBJ	20891	_
+11	while	while	_	IN	_	8	ADV	_	_
+12	sitting	sit	_	VBG	_	11	SUB	_	_
+13	next to	next to	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	16	NMOD	20897	_
+15	white	white	_	JJ	_	16	NMOD	20897	_
+16	column	column	_	NN	_	13	PMOD	20897	_
+17	with	with	_	IN	_	16	NMOD	_	_
+18	a	a	_	DT	_	19	NMOD	20893	_
+19	statue	statue	_	NN	_	17	PMOD	20893	_
+20	on top of	on top of	_	IN	_	12	ADV	_	_
+21	it	it	_	PRP	_	20	PMOD	0	_
+22	.	.	_	.	_	8	P	_	_

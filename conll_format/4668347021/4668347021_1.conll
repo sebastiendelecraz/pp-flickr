@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	188441	_
+2	group	group	_	NN	_	0	ROOT	188441	_
+3	of	of	_	IN	_	2	NMOD	188441	_
+4	people	people	_	NN	_	3	PMOD	188441	_
+5	walking	walk	_	VBG	_	4	APPO	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	an	an	_	DT	_	8	NMOD	188444	_
+8	alley	alley	_	NN	_	6	PMOD	188444	_
+9	along	along	_	IN	_	8	NMOD	_	5
+10	a	a	_	DT	_	12	NMOD	188443	_
+11	cobblestone	cobblestone	_	JJ	_	12	NMOD	188443	_
+12	street	street	_	NN	_	9	PMOD	188443	_
+13	,	,	_	,	_	5	P	_	_
+14	between	between	_	IN	_	0	ROOT	_	_
+15	two	two	_	CD	_	16	NMOD	188447	_
+16	buildings	building	_	NNS	_	14	PMOD	188447	_
+17	.	.	_	.	_	0	ROOT	_	_

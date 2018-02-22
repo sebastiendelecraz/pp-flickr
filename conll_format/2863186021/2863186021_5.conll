@@ -1,0 +1,12 @@
+1	Pigeons	pigeon	_	NNS	_	2	SBJ	77505	_
+2	gather	gather	_	VBP	_	0	ROOT	_	_
+3	at	at	_	IN	_	2	LOC-PRD	_	_
+4	the	the	_	DT	_	5	NMOD	77509	_
+5	edge	edge	_	NN	_	3	PMOD	77509	_
+6	of	of	_	IN	_	5	NMOD	77509	_
+7	a	a	_	DT	_	8	NMOD	77509	_
+8	park	park	_	NN	_	6	PMOD	77509	_
+9	in	in	_	IN	_	5	LOC	_	2
+10	a	a	_	DT	_	11	NMOD	77506	_
+11	city	city	_	NN	_	9	PMOD	77506	_
+12	.	.	_	.	_	2	P	_	_

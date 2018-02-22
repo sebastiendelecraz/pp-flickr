@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	65708	_
+2	little	little	_	JJ	_	3	NMOD	65708	_
+3	girl	girl	_	NN	_	0	ROOT	65708	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	65710	_
+6	blue	blue	_	JJ	_	7	NMOD	65710	_
+7	shirt	shirt	_	NN	_	4	PMOD	65710	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	eating	eat	_	VBG	_	9	CONJ	_	_
+11	some	some	_	DT	_	12	NMOD	65711	_
+12	type	type	_	NN	_	8	PMOD	65711	_
+13	of	of	_	IN	_	12	NMOD	65711	_
+14	red	red	_	JJ	_	15	NMOD	65711	_
+15	drink	drink	_	NN	_	13	PMOD	65711	_
+16	.	.	_	.	_	0	ROOT	_	_

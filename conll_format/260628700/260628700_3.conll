@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	61187	_
+2	crowd	crowd	_	NN	_	3	SBJ	61187	_
+3	watches	watch	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	61190	_
+5	woman	woman	_	NN	_	3	OBJ	61190	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	61193	_
+8	sledgehammer	sledgehammer	_	NN	_	6	PMOD	61193	_
+9	next to	next to	_	IN	_	0	ROOT	_	_
+10	a	a	_	DT	_	11	NMOD	61188	_
+11	man	man	_	NN	_	9	PMOD	61188	_
+12	with	with	_	IN	_	11	NMOD	_	11
+13	a	a	_	DT	_	15	NMOD	61191	_
+14	cinder	cinder	_	NN	_	15	NMOD	61191	_
+15	block	block	_	NN	_	12	PMOD	61191	_
+16	on	on	_	IN	_	11	NMOD	_	_
+17	his	his	_	PRP$	_	18	NMOD	61192	_
+18	stomach	stomach	_	NN	_	16	PMOD	61192	_
+19	.	.	_	.	_	0	ROOT	_	_

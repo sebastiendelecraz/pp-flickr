@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	195488	_
+2	people	people	_	NN	_	0	ROOT	195488	_
+3	waiting	wait	_	VBG	_	2	APPO	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	195498	_
+6	taxi	taxi	_	NN	_	4	PMOD	195498	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	195485	_
+9	side	side	_	NN	_	7	PMOD	195485	_
+10	of	of	_	IN	_	9	NMOD	195485	_
+11	the	the	_	DT	_	12	NMOD	195485	_
+12	road	road	_	NN	_	10	PMOD	195485	_
+13	in	in	_	IN	_	12	LOC	_	3
+14	New	New	_	NNP	_	15	NAME	195487	_
+15	York	York	_	NNP	_	13	PMOD	195487	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	95734	_
+2	people	people	_	NN	_	6	SBJ	95734	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	winter	winter	_	NN	_	5	NMOD	95741	_
+5	clothes	clothes	_	NNS	_	3	OBJ	95741	_
+6	stand	stand	_	VBP	_	0	ROOT	_	_
+7	near	near	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	95735	_
+9	pole	pole	_	NN	_	7	PMOD	95735	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	95737	_
+12	winter	winter	_	NN	_	13	NMOD	95737	_
+13	scene	scene	_	NN	_	10	PMOD	95737	_
+14	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	123373	_
+2	person	person	_	NN	_	0	ROOT	123373	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	123374	_
+5	ladder	ladder	_	NN	_	3	PMOD	123374	_
+6	with	with	_	IN	_	2	NMOD	_	2
+7	a	a	_	DT	_	8	NMOD	123372	_
+8	baby	baby	_	NN	_	6	PMOD	123372	_
+9	underneath	underneath	_	IN	_	8	NMOD	123372	_
+10	.	.	_	.	_	0	ROOT	_	_

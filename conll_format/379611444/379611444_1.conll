@@ -1,0 +1,14 @@
+1	Four	Four	_	CD	_	3	NMOD	142899	_
+2	speed	speed	_	NN	_	3	NMOD	142899	_
+3	skaters	skater	_	NNS	_	7	SBJ	142899	_
+4	representing	represent	_	VBG	_	3	APPO	_	_
+5	different	different	_	JJ	_	6	NMOD	142903	_
+6	countries	country	_	NNS	_	4	OBJ	142903	_
+7	are	be	_	VBP	_	0	ROOT	_	_
+8	racing	race	_	VBG	_	7	VC	_	_
+9	across	across	_	IN	_	8	DIR	_	8
+10	ice	ice	_	NN	_	9	PMOD	142900	_
+11	in front of	in front of	_	IN	_	8	ADV	_	_
+12	camera	camera	_	NN	_	13	NMOD	142902	_
+13	people	people	_	NN	_	11	PMOD	142902	_
+14	.	.	_	.	_	7	P	_	_

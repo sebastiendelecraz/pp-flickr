@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	180944	_
+2	man	man	_	NN	_	3	SBJ	180944	_
+3	riding	ride	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	180945	_
+6	bicycle	bicycle	_	NN	_	4	PMOD	180945	_
+7	by	by	_	IN	_	3	MNR	_	_
+8	side	side	_	NN	_	7	PMOD	180946	_
+9	of	of	_	IN	_	8	NMOD	180946	_
+10	building	building	_	NN	_	9	PMOD	180946	_
+11	.	.	_	.	_	0	ROOT	_	_

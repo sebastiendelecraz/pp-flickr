@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	282040	_
+2	man	man	_	NN	_	3	SBJ	282040	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	snoozing	snooze	_	VBG	_	3	VC	_	_
+5	while	while	_	IN	_	4	ADV	_	_
+6	sitting	sit	_	VBG	_	5	SUB	_	_
+7	near	near	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	282041	_
+9	bunch	bunch	_	NN	_	7	PMOD	282041	_
+10	of	of	_	IN	_	9	NMOD	282041	_
+11	melons	melon	_	NNS	_	10	PMOD	282041	_
+12	.	.	_	.	_	3	P	_	_

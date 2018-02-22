@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	267031	_
+2	friends	friend	_	NNS	_	3	SBJ	267031	_
+3	get	get	_	VBP	_	0	ROOT	_	_
+4	caught	caught	_	VBN	_	3	VC	_	_
+5	up	up	_	RP	_	4	PRT	_	_
+6	over	over	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	267033	_
+8	beer	beer	_	NN	_	6	PMOD	267033	_
+9	in	in	_	IN	_	4	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	267032	_
+11	local	local	_	JJ	_	12	NMOD	267032	_
+12	restaurant	restaurant	_	NN	_	9	PMOD	267032	_
+13	.	.	_	.	_	3	P	_	_

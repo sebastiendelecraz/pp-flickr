@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	2	NMOD	234025	_
+2	boy	boy	_	NN	_	3	SBJ	234025	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	carrying	carry	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	234028	_
+6	paddle	paddle	_	NN	_	4	OBJ	234028	_
+7	whilst	whilst	_	IN	_	4	MNR	_	_
+8	walking	walk	_	VBG	_	7	PMOD	_	_
+9	through	through	_	IN	_	8	DIR	_	8
+10	the	the	_	DT	_	11	NMOD	234030	_
+11	water	water	_	NN	_	9	PMOD	234030	_
+12	on	on	_	IN	_	8	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	234026	_
+14	beach	beach	_	NN	_	12	PMOD	234026	_
+15	.	.	_	.	_	3	P	_	_

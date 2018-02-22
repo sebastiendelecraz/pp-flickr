@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	117033	_
+2	raft	raft	_	NN	_	8	SBJ	117033	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	117032	_
+5	group	group	_	NN	_	3	PMOD	117032	_
+6	of	of	_	IN	_	5	NMOD	117032	_
+7	people	people	_	NN	_	6	PMOD	117032	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	turned	turn	_	VBN	_	8	VC	_	_
+10	over	over	_	RP	_	9	PRT	_	_
+11	after	after	_	IN	_	9	TMP	_	9
+12	a	a	_	DT	_	14	NMOD	117035	_
+13	crashing	crash	_	VBG	_	14	NMOD	117035	_
+14	wave	wave	_	NN	_	11	PMOD	117035	_
+15	.	.	_	.	_	8	P	_	_

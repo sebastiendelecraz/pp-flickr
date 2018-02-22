@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	15421	_
+2	woman	woman	_	NN	_	3	SBJ	15421	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	15422	_
+5	shirt	shirt	_	NN	_	3	OBJ	15422	_
+6	that	that	_	WDT	_	7	SBJ	0	_
+7	has	have	_	VBZ	_	5	NMOD	_	_
+8	risen	rise	_	VBN	_	7	VC	_	_
+9	up	up	_	RP	_	8	PRT	_	_
+10	from	from	_	IN	_	8	ADV	_	8
+11	the	the	_	DT	_	12	NMOD	15424	_
+12	waist	waist	_	NN	_	10	PMOD	15424	_
+13	of	of	_	IN	_	12	NMOD	15424	_
+14	her	her	_	PRP$	_	15	NMOD	15424	_
+15	jeans	jean	_	NNS	_	13	PMOD	15424	_
+16	.	.	_	.	_	0	ROOT	_	_

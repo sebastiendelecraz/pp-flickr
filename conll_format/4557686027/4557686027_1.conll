@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	178300	_
+2	group	group	_	NN	_	5	SBJ	178300	_
+3	of	of	_	IN	_	2	NMOD	178300	_
+4	people	people	_	NN	_	3	PMOD	178300	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	waiting	wait	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	178301	_
+9	line	line	_	NN	_	7	PMOD	178301	_
+10	outside of	outside of	_	IN	_	6	TMP	_	6
+11	a	a	_	DT	_	12	NMOD	178303	_
+12	building	building	_	NN	_	10	PMOD	178303	_
+13	.	.	_	.	_	5	P	_	_

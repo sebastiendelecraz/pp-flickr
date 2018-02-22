@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	248738	_
+2	boys	boy	_	NNS	_	6	SBJ	248738	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	248743	_
+5	woman	woman	_	NN	_	3	CONJ	248743	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	posing	pose	_	VBG	_	6	VC	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	248751	_
+10	picture	picture	_	NN	_	8	PMOD	248751	_
+11	with	with	_	IN	_	10	NMOD	_	7
+12	a	a	_	DT	_	15	NMOD	248741	_
+13	canned	canned	_	JJ	_	15	NMOD	248741	_
+14	drink	drink	_	NN	_	15	NMOD	248741	_
+15	advertisement	advertisement	_	NN	_	11	PMOD	248741	_
+16	.	.	_	.	_	6	P	_	_

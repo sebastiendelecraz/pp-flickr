@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	214370	_
+2	dog	dog	_	NN	_	3	SBJ	214370	_
+3	running	run	_	VBG	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	MNR	_	3
+5	water	water	_	NN	_	4	PMOD	214374	_
+6	with	with	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	214371	_
+8	ball	ball	_	NN	_	6	PMOD	214371	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	its	its	_	PRP$	_	11	NMOD	214375	_
+11	mouth	mouth	_	NN	_	9	PMOD	214375	_
+12	.	.	_	.	_	0	ROOT	_	_

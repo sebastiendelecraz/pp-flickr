@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	3	NMOD	129559	_
+2	gray-haired	gray-haired	_	JJ	_	3	NMOD	129559	_
+3	couples	couple	_	NNS	_	4	SBJ	129559	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	dancing	dance	_	VBG	_	4	VC	_	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	129563	_
+8	room	room	_	NN	_	6	PMOD	129563	_
+9	with	with	_	IN	_	8	NMOD	_	5
+10	a	a	_	DT	_	13	NMOD	129560	_
+11	few	few	_	DT	_	13	NMOD	129560	_
+12	other	other	_	JJ	_	13	NMOD	129560	_
+13	people	people	_	NN	_	9	PMOD	129560	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	background	background	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	242106	_
+2	man	man	_	NN	_	3	SBJ	242106	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	giving	give	_	VBG	_	3	VC	_	_
+5	two	two	_	CD	_	6	NMOD	242110	_
+6	thumbs	thumb	_	NNS	_	4	OBJ	242110	_
+7	up to	up to	_	IN	_	4	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	242108	_
+9	crowd	crowd	_	NN	_	7	PMOD	242108	_
+10	of	of	_	IN	_	9	NMOD	242108	_
+11	people	people	_	NN	_	10	PMOD	242108	_
+12	.	.	_	.	_	3	P	_	_

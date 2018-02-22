@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	222505	_
+2	young	young	_	JJ	_	3	NMOD	222505	_
+3	women	woman	_	NNS	_	4	SBJ	222505	_
+4	sitting	sit	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	222506	_
+7	bench	bench	_	NN	_	5	PMOD	222506	_
+8	across	across	_	IN	_	4	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	222508	_
+10	street	street	_	NN	_	8	PMOD	222508	_
+11	from	from	_	IN	_	4	ADV	_	8
+12	a	a	_	DT	_	13	NMOD	222507	_
+13	nightclub	nightclub	_	NN	_	11	PMOD	222507	_
+14	.	.	_	.	_	0	ROOT	_	_

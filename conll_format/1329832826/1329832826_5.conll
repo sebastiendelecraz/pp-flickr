@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	8767	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	outside of	outside of	_	IN	_	2	LOC	_	2
+4	the	the	_	DT	_	7	NMOD	8763	_
+5	Rite	Rite	_	NNP	_	6	NAME	8763	_
+6	Aid	Aid	_	NNP	_	7	NMOD	8763	_
+7	pharmacy	pharmacy	_	NN	_	3	PMOD	8763	_
+8	on	on	_	IN	_	7	LOC	_	_
+9	Broadway	Broadway	_	NNP	_	8	PMOD	8769	_
+10	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	283547	_
+2	girls	girl	_	NNS	_	3	SBJ	283547	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	beside	beside	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	283548	_
+6	water	water	_	NN	_	4	PMOD	283548	_
+7	near	near	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	283549	_
+9	tree	tree	_	NN	_	7	PMOD	283549	_
+10	.	.	_	.	_	0	ROOT	_	_

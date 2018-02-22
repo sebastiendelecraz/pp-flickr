@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	96802	_
+2	happy	happy	_	JJ	_	3	NMOD	96802	_
+3	child	child	_	NN	_	4	SBJ	96802	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	getting	get	_	VBG	_	4	VC	_	_
+6	a	a	_	DT	_	8	NMOD	96804	_
+7	helping	help	_	VBG	_	8	NMOD	96804	_
+8	hand	hand	_	NN	_	5	OBJ	96804	_
+9	out of	out of	_	IN	_	5	ADV	_	5
+10	the	the	_	DT	_	11	NMOD	96808	_
+11	box	box	_	NN	_	9	PMOD	96808	_
+12	of	of	_	IN	_	11	NMOD	96808	_
+13	nerf	nerf	_	CD	_	14	NMOD	96808	_
+14	balls	ball	_	NNS	_	12	PMOD	96808	_
+15	.	.	_	.	_	4	P	_	_

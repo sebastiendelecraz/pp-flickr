@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	182059	_
+2	young	young	_	JJ	_	3	NMOD	182059	_
+3	athletes	athlete	_	NNS	_	0	ROOT	182059	_
+4	battling	battle	_	VBG	_	3	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	the	the	_	DT	_	7	NMOD	182061	_
+7	ball	ball	_	NN	_	5	PMOD	182061	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	182060	_
+10	game	game	_	NN	_	8	PMOD	182060	_
+11	of	of	_	IN	_	10	NMOD	182060	_
+12	field	field	_	NN	_	13	NMOD	182060	_
+13	hockey	hockey	_	NN	_	11	PMOD	182060	_
+14	.	.	_	.	_	0	ROOT	_	_

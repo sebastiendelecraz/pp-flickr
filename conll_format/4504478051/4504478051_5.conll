@@ -1,0 +1,9 @@
+1	Little	Little	_	NNP	_	2	NMOD	173658	_
+2	girl	girl	_	NN	_	0	ROOT	173658	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	173659	_
+5	tree	tree	_	NN	_	3	PMOD	173659	_
+6	during	during	_	IN	_	2	TMP	_	2
+7	the	the	_	DT	_	8	NMOD	173661	_
+8	winter	winter	_	NN	_	6	PMOD	173661	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	An	an	_	DT	_	3	NMOD	97722	_
+2	Arab	Arab	_	JJ	_	3	NMOD	97722	_
+3	man	man	_	NN	_	4	SBJ	97722	_
+4	leads	lead	_	VBZ	_	0	ROOT	_	_
+5	three	three	_	CD	_	6	NMOD	97723	_
+6	camels	camel	_	NNS	_	4	OBJ	97723	_
+7	across	across	_	IN	_	4	LOC	_	4
+8	a	a	_	DT	_	10	NMOD	97727	_
+9	sand	sand	_	NN	_	10	NMOD	97727	_
+10	dune	dune	_	NN	_	7	PMOD	97727	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	a	a	_	DT	_	14	NMOD	0	_
+13	rocky	rocky	_	JJ	_	14	NMOD	0	_
+14	background	background	_	NN	_	11	PMOD	0	_
+15	.	.	_	.	_	4	P	_	_

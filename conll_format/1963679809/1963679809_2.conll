@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	24167	_
+2	man	man	_	NN	_	7	SBJ	24167	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	24170	_
+5	blue	blue	_	JJ	_	6	NMOD	24170	_
+6	motorcycle	motorcycle	_	NN	_	3	PMOD	24170	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	waiting	wait	_	VBG	_	7	VC	_	_
+9	in	in	_	IN	_	8	ADV	_	_
+10	traffic	traffic	_	NN	_	9	PMOD	24172	_
+11	on	on	_	IN	_	8	ADV	_	_
+12	a	a	_	DT	_	15	NMOD	24168	_
+13	busy	busy	_	JJ	_	15	NMOD	24168	_
+14	city	city	_	NN	_	15	NMOD	24168	_
+15	street	street	_	NN	_	11	PMOD	24168	_
+16	.	.	_	.	_	7	P	_	_

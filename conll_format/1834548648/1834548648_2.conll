@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	3	NMOD	21713	_
+2	young	young	_	JJ	_	3	NMOD	21713	_
+3	girl	girl	_	NN	_	11	SBJ	21713	_
+4	dressed	dress	_	VBN	_	3	APPO	_	_
+5	in	in	_	IN	_	4	ADV	_	_
+6	white	white	_	JJ	_	5	PMOD	21717	_
+7	with	with	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	10	NMOD	21719	_
+9	pink	pink	_	NN	_	10	NMOD	21719	_
+10	scarf	scarf	_	NN	_	7	PMOD	21719	_
+11	smiles	smile	_	VBZ	_	0	ROOT	_	_
+12	as	as	_	IN	_	11	ADV	_	_
+13	she	she	_	PRP	_	14	SBJ	0	_
+14	poses	pose	_	VBZ	_	12	SUB	_	_
+15	next to	next to	_	IN	_	14	ADV	_	14
+16	a	a	_	DT	_	17	NMOD	21715	_
+17	fire	fire	_	NN	_	15	PMOD	21715	_
+18	in	in	_	IN	_	14	LOC	_	17
+19	a	a	_	DT	_	20	NMOD	21714	_
+20	chimney	chimney	_	NN	_	18	PMOD	21714	_
+21	.	.	_	.	_	11	P	_	_

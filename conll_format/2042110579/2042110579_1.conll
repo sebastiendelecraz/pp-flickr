@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	25544	_
+2	man	man	_	NN	_	3	SBJ	25544	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	putting	put	_	VBG	_	3	VC	_	_
+5	up	up	_	RP	_	4	PRT	_	_
+6	tile	tile	_	NN	_	4	OBJ	25547	_
+7	in	in	_	IN	_	4	PUT	_	4
+8	a	a	_	DT	_	9	NMOD	25546	_
+9	bathroom	bathroom	_	NN	_	7	PMOD	25546	_
+10	behind	behind	_	IN	_	9	LOC	_	4
+11	the	the	_	DT	_	12	NMOD	25549	_
+12	sink	sink	_	NN	_	10	PMOD	25549	_
+13	.	.	_	.	_	3	P	_	_

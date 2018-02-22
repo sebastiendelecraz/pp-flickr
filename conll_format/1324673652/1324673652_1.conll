@@ -1,0 +1,26 @@
+1	An	an	_	DT	_	3	NMOD	8624	_
+2	African	African	_	JJ	_	3	NMOD	8624	_
+3	man	man	_	NN	_	0	ROOT	8624	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	8627	_
+6	maroon	maroon	_	NN	_	7	NMOD	8627	_
+7	suit	suit	_	NN	_	4	OBJ	8627	_
+8	top	top	_	JJ	_	9	SBJ	8627	_
+9	is	be	_	VBZ	_	3	NMOD	_	_
+10	leaning	lean	_	VBG	_	9	VC	_	_
+11	next to	next to	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	15	NMOD	8625	_
+13	tall	tall	_	JJ	_	15	NMOD	8625	_
+14	tied	tie	_	VBN	_	15	NMOD	8625	_
+15	bundle	bundle	_	NN	_	11	PMOD	8625	_
+16	of	of	_	IN	_	15	NMOD	8625	_
+17	sticks	stick	_	NNS	_	16	PMOD	8625	_
+18	,	,	_	,	_	10	P	_	_
+19	with	with	_	IN	_	10	ADV	_	_
+20	bales	bale	_	NNS	_	19	PMOD	8629	_
+21	of	of	_	IN	_	20	NMOD	8629	_
+22	leaves	leaf	_	NNS	_	21	PMOD	8629	_
+23	in	in	_	IN	_	22	LOC	_	_
+24	the	the	_	DT	_	25	NMOD	0	_
+25	background	background	_	NN	_	23	PMOD	0	_
+26	.	.	_	.	_	0	ROOT	_	_

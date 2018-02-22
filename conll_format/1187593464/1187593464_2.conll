@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	4	NMOD	4797	_
+2	big	big	_	JJ	_	4	NMOD	4797	_
+3	tan	tan	_	NN	_	4	NMOD	4797	_
+4	dog	dog	_	NN	_	5	SBJ	4797	_
+5	runs	run	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	grass	grass	_	NN	_	6	PMOD	4799	_
+8	with	with	_	IN	_	7	NMOD	_	5
+9	a	a	_	DT	_	11	NMOD	4798	_
+10	big	big	_	JJ	_	11	NMOD	4798	_
+11	stick	stick	_	NN	_	8	PMOD	4798	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	his	his	_	PRP$	_	14	NMOD	4800	_
+14	mouth	mouth	_	NN	_	12	PMOD	4800	_
+15	.	.	_	.	_	5	P	_	_

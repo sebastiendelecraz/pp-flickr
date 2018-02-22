@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	93968	_
+2	woman	woman	_	NN	_	5	SBJ	93968	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	child	child	_	NN	_	3	CONJ	93972	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	blowing	blow	_	VBG	_	5	VC	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	93970	_
+9	candle	candle	_	NN	_	7	PMOD	93970	_
+10	in	in	_	IN	_	6	LOC	_	9
+11	a	a	_	DT	_	12	NMOD	93973	_
+12	cupcake	cupcake	_	NN	_	10	PMOD	93973	_
+13	.	.	_	.	_	5	P	_	_

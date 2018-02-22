@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	18499	_
+2	man	man	_	NN	_	0	ROOT	18499	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	18501	_
+5	blue	blue	_	JJ	_	6	NMOD	18501	_
+6	jacket	jacket	_	NN	_	3	PMOD	18501	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	18502	_
+10	bus	bus	_	NN	_	8	PMOD	18502	_
+11	smiling	smile	_	VBG	_	10	APPO	_	_
+12	with	with	_	IN	_	11	ADV	_	_
+13	his	his	_	PRP$	_	15	NMOD	18508	_
+14	back	back	_	RB	_	15	NMOD	18508	_
+15	hand	hand	_	NN	_	12	PMOD	18508	_
+16	in	in	_	IN	_	11	LOC	_	_
+17	his	his	_	PRP$	_	18	NMOD	18506	_
+18	pocket	pocket	_	NN	_	16	PMOD	18506	_
+19	.	.	_	.	_	0	ROOT	_	_

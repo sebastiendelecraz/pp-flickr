@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	68210	_
+2	girl	girl	_	NN	_	3	SBJ	68210	_
+3	jumps	jump	_	VBZ	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	an	an	_	DT	_	7	NMOD	68212	_
+6	orange	orange	_	JJ	_	7	NMOD	68212	_
+7	raft	raft	_	NN	_	4	PMOD	68212	_
+8	into	into	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	10	NMOD	68211	_
+10	lake	lake	_	NN	_	8	PMOD	68211	_
+11	.	.	_	.	_	3	P	_	_

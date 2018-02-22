@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	133528	_
+2	skateboarder	skateboarder	_	NN	_	3	SBJ	133528	_
+3	does	do	_	VBZ	_	0	ROOT	_	_
+4	an	an	_	DT	_	5	NMOD	133531	_
+5	ollie	ollie	_	CD	_	3	OBJ	133531	_
+6	off	off	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	9	NMOD	133529	_
+8	black	black	_	JJ	_	9	NMOD	133529	_
+9	ramp	ramp	_	NN	_	6	PMOD	133529	_
+10	near	near	_	IN	_	9	LOC	_	3
+11	a	a	_	DT	_	14	NMOD	133530	_
+12	colorfully	colorfully	_	RB	_	13	AMOD	133530	_
+13	painted	paint	_	VBN	_	14	NMOD	133530	_
+14	building	building	_	NN	_	10	PMOD	133530	_
+15	.	.	_	.	_	3	P	_	_

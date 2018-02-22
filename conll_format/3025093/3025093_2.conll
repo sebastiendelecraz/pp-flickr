@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	88230	_
+2	picture	picture	_	NN	_	0	ROOT	88230	_
+3	of	of	_	IN	_	2	NMOD	88230	_
+4	a	a	_	DT	_	5	NMOD	88230	_
+5	man	man	_	NN	_	3	PMOD	88230	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	10	NMOD	88231	_
+8	green	green	_	JJ	_	10	NMOD	88231	_
+9	work	work	_	NN	_	10	NMOD	88231	_
+10	uniform	uniform	_	NN	_	6	PMOD	88231	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	his	his	_	PRP$	_	13	NMOD	88232	_
+13	motorcycle	motorcycle	_	NN	_	11	PMOD	88232	_
+14	taken	take	_	VBN	_	13	APPO	_	_
+15	from	from	_	IN	_	14	ADV	_	14
+16	the	the	_	DT	_	17	NMOD	88238	_
+17	window	window	_	NN	_	15	PMOD	88238	_
+18	of	of	_	IN	_	17	NMOD	88238	_
+19	a	a	_	DT	_	20	NMOD	88238	_
+20	car	car	_	NN	_	18	PMOD	88238	_
+21	next to	next to	_	IN	_	14	ADV	_	_
+22	him	him	_	PRP	_	21	PMOD	0	_
+23	.	.	_	.	_	0	ROOT	_	_

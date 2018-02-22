@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	152627	_
+2	group	group	_	NN	_	5	SBJ	152627	_
+3	of	of	_	IN	_	2	NMOD	152627	_
+4	people	people	_	NN	_	3	PMOD	152627	_
+5	are	be	_	VBP	_	10	SBJ	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	152626	_
+9	bar	bar	_	NN	_	7	PMOD	152626	_
+10	lined	line	_	VBD	_	0	ROOT	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	many	many	_	DT	_	14	NMOD	152630	_
+13	different	different	_	JJ	_	14	NMOD	152630	_
+14	bottles	bottle	_	NNS	_	11	PMOD	152630	_
+15	of	of	_	IN	_	14	NMOD	152630	_
+16	alcohol	alcohol	_	NN	_	15	PMOD	152630	_
+17	.	.	_	.	_	10	P	_	_

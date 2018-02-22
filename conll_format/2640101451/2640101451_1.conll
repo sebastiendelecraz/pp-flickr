@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	63237	_
+2	child	child	_	NN	_	0	ROOT	63237	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	63238	_
+5	woman	woman	_	NN	_	6	NMOD	63238	_
+6	lay	lay	_	NN	_	3	CONJ	_	_
+7	out	out	_	IN	_	2	LOC	_	6
+8	some	some	_	DT	_	9	NMOD	63239	_
+9	papers	paper	_	NNS	_	7	PMOD	63239	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	children	child	_	NNS	_	14	NMOD	63240	_
+12	'	'	_	POS	_	11	SUFFIX	63240	_
+13	s	s	_	NN	_	14	NMOD	63240	_
+14	drawings	drawing	_	NNS	_	10	PMOD	63240	_
+15	on	on	_	IN	_	9	NMOD	_	_
+16	them	them	_	PRP	_	15	PMOD	0	_
+17	,	,	_	,	_	0	ROOT	_	_
+18	on top of	on top of	_	IN	_	0	ROOT	_	_
+19	some	some	_	DT	_	20	NMOD	63241	_
+20	sort	sort	_	NN	_	18	PMOD	63241	_
+21	of	of	_	IN	_	20	NMOD	63241	_
+22	large	large	_	JJ	_	24	NMOD	63241	_
+23	white	white	_	JJ	_	24	NMOD	63241	_
+24	block	block	_	NN	_	21	PMOD	63241	_
+25	.	.	_	.	_	0	ROOT	_	_

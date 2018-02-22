@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	195745	_
+2	man	man	_	NN	_	14	SBJ	195745	_
+3	inside of	inside of	_	IN	_	2	NMOD	_	12
+4	a	a	_	DT	_	5	NMOD	195746	_
+5	shop	shop	_	NN	_	3	PMOD	195746	_
+6	with	with	_	IN	_	2	NMOD	_	2
+7	a	a	_	DT	_	9	NMOD	195754	_
+8	black	black	_	JJ	_	9	NMOD	195754	_
+9	shirt	shirt	_	NN	_	6	PMOD	195754	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	pants	pant	_	NNS	_	10	CONJ	195755	_
+12	taking	take	_	VBG	_	2	APPO	_	_
+13	someones	someone	_	NNS	_	12	OBJ	195753	_
+14	order	order	_	VBP	_	0	ROOT	195753	_
+15	in	in	_	IN	_	14	LOC	_	_
+16	a	a	_	DT	_	17	NMOD	195746	_
+17	shop	shop	_	NN	_	15	PMOD	195746	_
+18	.	.	_	.	_	14	P	_	_

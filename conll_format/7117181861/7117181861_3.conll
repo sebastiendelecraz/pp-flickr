@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	265601	_
+2	male	male	_	JJ	_	3	NMOD	265601	_
+3	photographer	photographer	_	NN	_	0	ROOT	265601	_
+4	taking	take	_	VBG	_	3	APPO	_	_
+5	photos	photo	_	NNS	_	4	OBJ	265604	_
+6	of	of	_	IN	_	5	NMOD	265604	_
+7	a	a	_	DT	_	8	NMOD	265604	_
+8	couple	couple	_	NN	_	6	PMOD	265604	_
+9	sitting	sit	_	VBG	_	8	APPO	_	_
+10	on	on	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	265606	_
+12	grass	grass	_	NN	_	10	PMOD	265606	_
+13	near	near	_	IN	_	12	LOC	_	9
+14	a	a	_	DT	_	15	NMOD	265603	_
+15	lake	lake	_	NN	_	13	PMOD	265603	_
+16	.	.	_	.	_	0	ROOT	_	_

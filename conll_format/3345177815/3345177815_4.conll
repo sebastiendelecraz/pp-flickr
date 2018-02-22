@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	111371	_
+2	man	man	_	NN	_	6	SBJ	111371	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	the	the	_	DT	_	5	NMOD	111372	_
+5	street	street	_	NN	_	3	PMOD	111372	_
+6	has	have	_	VBZ	_	0	ROOT	_	_
+7	a	a	_	DT	_	8	NMOD	111373	_
+8	parrot	parrot	_	JJ	_	6	OBJ	111373	_
+9	in	in	_	IN	_	6	LOC	_	6
+10	a	a	_	DT	_	11	NMOD	111374	_
+11	cage	cage	_	NN	_	9	PMOD	111374	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	the	the	_	DT	_	14	NMOD	111379	_
+14	door	door	_	NN	_	12	PMOD	111379	_
+15	open	open	_	JJ	_	6	OPRD	_	_
+16	.	.	_	.	_	6	P	_	_

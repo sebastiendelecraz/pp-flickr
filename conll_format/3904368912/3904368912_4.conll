@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	5	NMOD	147597	_
+2	working	work	_	VBG	_	5	NMOD	_	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	selling	sell	_	VBG	_	3	CONJ	_	_
+5	goods	good	_	NNS	_	0	ROOT	147607	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	147595	_
+8	market	market	_	NN	_	6	PMOD	147595	_
+9	in	in	_	IN	_	5	LOC	_	4
+10	Southeast	Southeast	_	NNP	_	11	NAME	147603	_
+11	Asia	Asia	_	NNP	_	9	PMOD	147603	_
+12	.	.	_	.	_	0	ROOT	_	_

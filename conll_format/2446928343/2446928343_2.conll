@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	2	NMOD	50286	_
+2	adults	adult	_	NNS	_	3	SBJ	50286	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	50291	_
+6	front	front	_	NN	_	4	PMOD	50291	_
+7	of	of	_	IN	_	6	NMOD	50291	_
+8	a	a	_	DT	_	9	NMOD	50291	_
+9	classroom	classroom	_	NN	_	7	PMOD	50291	_
+10	while	while	_	IN	_	3	TMP	_	_
+11	one	one	_	CD	_	12	NMOD	50281	_
+12	woman	woman	_	NN	_	13	SBJ	50281	_
+13	stands	stand	_	VBZ	_	10	SUB	_	_
+14	behind	behind	_	IN	_	13	LOC	_	13
+15	a	a	_	DT	_	16	NMOD	50287	_
+16	desk	desk	_	NN	_	14	PMOD	50287	_
+17	.	.	_	.	_	3	P	_	_

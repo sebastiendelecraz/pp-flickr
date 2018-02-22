@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	2	NMOD	64949	_
+2	girl	girl	_	NN	_	3	SBJ	64949	_
+3	dressed	dress	_	VBD	_	11	OBJ	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	purple	purple	_	NN	_	6	NMOD	64955	_
+6	walks	walk	_	NNS	_	4	PMOD	_	_
+7	through	through	_	IN	_	3	TMP	_	6
+8	the	the	_	DT	_	9	NMOD	64951	_
+9	alley	alley	_	NN	_	7	PMOD	64951	_
+10	,	,	_	,	_	11	P	_	_
+11	followed	follow	_	VBD	_	0	ROOT	_	_
+12	by	by	_	IN	_	11	MNR	_	11
+13	a	a	_	DT	_	14	NMOD	64949	_
+14	girl	girl	_	NN	_	12	PMOD	64949	_
+15	in	in	_	IN	_	11	LOC	_	_
+16	pink	pink	_	NN	_	15	PMOD	64953	_
+17	.	.	_	.	_	11	P	_	_

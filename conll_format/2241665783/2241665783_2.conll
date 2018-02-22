@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	36259	_
+2	child	child	_	NN	_	7	SBJ	36259	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	36260	_
+5	red	red	_	JJ	_	6	NMOD	36260	_
+6	backpack	backpack	_	NN	_	3	PMOD	36260	_
+7	following	follow	_	VBG	_	0	ROOT	_	_
+8	an	an	_	DT	_	9	NMOD	36261	_
+9	adult	adult	_	JJ	_	7	OBJ	36261	_
+10	on	on	_	IN	_	7	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	36263	_
+12	hike	hike	_	NN	_	10	PMOD	36263	_
+13	through	through	_	IN	_	7	DIR	_	7
+14	the	the	_	DT	_	15	NMOD	36266	_
+15	woods	wood	_	NNS	_	13	PMOD	36266	_
+16	.	.	_	.	_	0	ROOT	_	_

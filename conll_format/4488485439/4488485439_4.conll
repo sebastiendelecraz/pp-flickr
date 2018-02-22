@@ -1,0 +1,12 @@
+1	an	an	_	DT	_	3	NMOD	172603	_
+2	elderly	elderly	_	JJ	_	3	NMOD	172603	_
+3	woman	woman	_	NN	_	4	SBJ	172603	_
+4	going	go	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	her	her	_	PRP$	_	7	NMOD	172605	_
+7	purse	purse	_	NN	_	5	PMOD	172605	_
+8	on	on	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	172604	_
+10	busy	busy	_	JJ	_	11	NMOD	172604	_
+11	street	street	_	NN	_	8	PMOD	172604	_
+12	.	.	_	.	_	0	ROOT	_	_

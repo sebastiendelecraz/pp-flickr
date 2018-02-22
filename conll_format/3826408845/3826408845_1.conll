@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	3	NMOD	144311	_
+2	furry	furry	_	JJ	_	3	NMOD	144311	_
+3	mammal	mammal	_	NN	_	8	SBJ	144311	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	144317	_
+6	brown	brown	_	JJ	_	7	NMOD	144317	_
+7	rump	rump	_	NN	_	4	PMOD	144317	_
+8	stands	stand	_	VBZ	_	0	ROOT	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	144322	_
+11	wall	wall	_	NN	_	9	PMOD	144322	_
+12	and	and	_	CC	_	9	COORD	_	_
+13	in front of	in front of	_	IN	_	12	CONJ	_	_
+14	a	a	_	DT	_	15	NMOD	144313	_
+15	group	group	_	NN	_	13	PMOD	144313	_
+16	of	of	_	IN	_	15	NMOD	144313	_
+17	a	a	_	DT	_	19	NMOD	144313	_
+18	young	young	_	JJ	_	19	NMOD	144313	_
+19	person	person	_	NN	_	16	PMOD	144313	_
+20	with	with	_	IN	_	19	NMOD	_	19
+21	a	a	_	DT	_	23	NMOD	144323	_
+22	colorful	colorful	_	JJ	_	23	NMOD	144323	_
+23	hat	hat	_	NN	_	20	PMOD	144323	_
+24	.	.	_	.	_	8	P	_	_

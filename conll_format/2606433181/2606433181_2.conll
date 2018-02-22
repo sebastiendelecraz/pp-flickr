@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	3	NMOD	61198	_
+2	white	white	_	JJ	_	3	NMOD	61198	_
+3	dogs	dog	_	NNS	_	4	SBJ	61198	_
+4	run	run	_	VB	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	the	the	_	DT	_	7	NMOD	61199	_
+7	grass	grass	_	NN	_	5	PMOD	61199	_
+8	next to	next to	_	IN	_	4	TMP	_	4
+9	a	a	_	DT	_	10	NMOD	61200	_
+10	road	road	_	NN	_	8	PMOD	61200	_
+11	.	.	_	.	_	0	ROOT	_	_

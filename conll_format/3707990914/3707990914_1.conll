@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	138414	_
+2	girl	girl	_	NN	_	0	ROOT	138414	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	pink	pink	_	NN	_	3	PMOD	138418	_
+5	and	and	_	CC	_	4	COORD	138418	_
+6	yellow	yellow	_	JJ	_	5	CONJ	138418	_
+7	on	on	_	IN	_	2	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	138415	_
+9	pink	pink	_	NN	_	7	PMOD	138415	_
+10	and	and	_	CC	_	9	COORD	138415	_
+11	orange	orange	_	JJ	_	13	NMOD	138415	_
+12	surfboard	surfboard	_	NN	_	13	NMOD	138415	_
+13	cuts	cut	_	NNS	_	10	CONJ	_	_
+14	through	through	_	IN	_	2	TMP	_	13
+15	the	the	_	DT	_	16	NMOD	138416	_
+16	wave	wave	_	NN	_	14	PMOD	138416	_
+17	.	.	_	.	_	0	ROOT	_	_

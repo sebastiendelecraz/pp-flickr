@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	39540	_
+2	group	group	_	NN	_	5	SBJ	39540	_
+3	of	of	_	IN	_	2	NMOD	39540	_
+4	children	child	_	NNS	_	3	PMOD	39540	_
+5	run	run	_	VBP	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	MNR	_	5
+7	a	a	_	DT	_	9	NMOD	39544	_
+8	museum	museum	_	NN	_	9	NMOD	39544	_
+9	exhibit	exhibit	_	NN	_	6	PMOD	39544	_
+10	,	,	_	,	_	5	P	_	_
+11	toward	toward	_	IN	_	5	ADV	_	5
+12	a	a	_	DT	_	15	NMOD	39541	_
+13	large	large	_	JJ	_	15	NMOD	39541	_
+14	tree	tree	_	NN	_	15	NMOD	39541	_
+15	trunk	trunk	_	NN	_	11	PMOD	39541	_
+16	.	.	_	.	_	5	P	_	_

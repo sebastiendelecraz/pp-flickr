@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	5	NMOD	59213	_
+2	young	young	_	JJ	_	5	NMOD	59213	_
+3	male	male	_	JJ	_	4	NMOD	59213	_
+4	mixes	mix	_	NNS	_	5	NMOD	_	_
+5	food	food	_	NN	_	0	ROOT	59214	_
+6	in	in	_	IN	_	5	LOC	_	4
+7	a	a	_	DT	_	8	NMOD	59218	_
+8	bowl	bowl	_	NN	_	6	PMOD	59218	_
+9	with	with	_	IN	_	5	NMOD	_	_
+10	a	a	_	DT	_	13	NMOD	59219	_
+11	large	large	_	JJ	_	13	NMOD	59219	_
+12	stirring	stir	_	VBG	_	13	NMOD	59219	_
+13	stick	stick	_	NN	_	9	PMOD	59219	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	13237	_
+2	woman	woman	_	NN	_	17	ADV	13237	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	13238	_
+5	black	black	_	JJ	_	6	NMOD	13238	_
+6	shirt	shirt	_	NN	_	3	PMOD	13238	_
+7	holding	hold	_	VBG	_	6	APPO	_	_
+8	a	a	_	DT	_	10	NMOD	13239	_
+9	cherry	cherry	_	JJ	_	10	NMOD	13239	_
+10	pie	pie	_	NN	_	7	OBJ	13239	_
+11	on top of	on top of	_	IN	_	2	NMOD	_	7
+12	her	her	_	PRP$	_	13	NMOD	13240	_
+13	head	head	_	NN	_	11	PMOD	13240	_
+14	,	,	_	,	_	17	P	_	_
+15	the	the	_	DT	_	16	NMOD	13239	_
+16	pie	pie	_	NN	_	17	SBJ	13239	_
+17	is	be	_	VBZ	_	0	ROOT	_	_
+18	still	still	_	RB	_	17	ADV	_	_
+19	in	in	_	IN	_	17	LOC-PRD	_	_
+20	the	the	_	DT	_	22	NMOD	13241	_
+21	baking	bake	_	VBG	_	22	NMOD	13241	_
+22	dish	dish	_	NN	_	19	PMOD	13241	_
+23	.	.	_	.	_	17	P	_	_

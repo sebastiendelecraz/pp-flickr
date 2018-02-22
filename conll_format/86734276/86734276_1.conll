@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	282461	_
+2	female	female	_	JJ	_	3	NMOD	282461	_
+3	teacher	teacher	_	NN	_	11	SBJ	282461	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	three	three	_	CD	_	6	NMOD	282468	_
+6	students	student	_	NNS	_	4	PMOD	282468	_
+7	at	at	_	IN	_	3	LOC	_	_
+8	her	her	_	PRP$	_	9	NMOD	0	_
+9	side	side	_	NN	_	7	PMOD	0	_
+10	,	,	_	,	_	3	P	_	_
+11	work	work	_	VBP	_	0	ROOT	282469	_
+12	on	on	_	IN	_	11	ADV	_	_
+13	the	the	_	DT	_	14	NMOD	282463	_
+14	chalkboard	chalkboard	_	NN	_	12	PMOD	282463	_
+15	in front of	in front of	_	IN	_	11	LOC	_	11
+16	a	a	_	DT	_	17	NMOD	282464	_
+17	class	class	_	NN	_	15	PMOD	282464	_
+18	of	of	_	IN	_	17	NMOD	282464	_
+19	students	student	_	NNS	_	18	PMOD	282464	_
+20	.	.	_	.	_	11	P	_	_

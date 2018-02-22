@@ -1,0 +1,10 @@
+1	Three	Three	_	CD	_	2	NMOD	204390	_
+2	men	man	_	NNS	_	3	SBJ	204390	_
+3	walk	walk	_	VBP	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	204391	_
+6	park	park	_	NN	_	4	PMOD	204391	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	204392	_
+9	river	river	_	NN	_	7	PMOD	204392	_
+10	.	.	_	.	_	3	P	_	_

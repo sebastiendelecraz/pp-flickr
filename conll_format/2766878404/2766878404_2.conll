@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	71554	_
+2	young	young	_	JJ	_	3	NMOD	71554	_
+3	girl	girl	_	NN	_	0	ROOT	71554	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	8	NMOD	71558	_
+6	pink	pink	_	NN	_	8	NMOD	71558	_
+7	top	top	_	JJ	_	8	NMOD	71558	_
+8	looks	look	_	NNS	_	4	PMOD	_	_
+9	at	at	_	IN	_	3	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	71556	_
+11	stack	stack	_	NN	_	9	PMOD	71556	_
+12	of	of	_	IN	_	11	NMOD	71556	_
+13	newspapers	newspaper	_	NNS	_	12	PMOD	71556	_
+14	in front of	in front of	_	IN	_	3	NMOD	_	8
+15	a	a	_	DT	_	16	NMOD	71555	_
+16	fence	fence	_	NN	_	14	PMOD	71555	_
+17	.	.	_	.	_	0	ROOT	_	_

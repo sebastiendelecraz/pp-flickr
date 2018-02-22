@@ -1,0 +1,22 @@
+1	The	the	_	DT	_	3	NMOD	192623	_
+2	little	little	_	JJ	_	3	NMOD	192623	_
+3	girl	girl	_	NN	_	4	SBJ	192623	_
+4	has	have	_	VBZ	_	0	ROOT	_	_
+5	heart	heart	_	NN	_	7	NMOD	192626	_
+6	shaped	shape	_	VBN	_	7	NMOD	192626	_
+7	wings	wing	_	NNS	_	4	OBJ	192626	_
+8	made	make	_	VBD	_	0	ROOT	_	_
+9	out of	out of	_	IN	_	0	ROOT	_	_
+10	long	long	_	JJ	_	12	NMOD	192626	_
+11	twisted	twist	_	VBN	_	12	NMOD	192626	_
+12	balloons	balloon	_	NNS	_	9	PMOD	192626	_
+13	and	and	_	CC	_	0	ROOT	_	_
+14	is	be	_	VBZ	_	13	CONJ	_	_
+15	dressed	dress	_	VBN	_	14	VC	_	_
+16	in	in	_	IN	_	15	ADV	_	_
+17	pink	pink	_	NN	_	16	PMOD	192624	_
+18	from	from	_	IN	_	17	NMOD	_	15
+19	head	head	_	NN	_	18	PMOD	_	_
+20	to	to	_	TO	_	17	NMOD	_	_
+21	toe	toe	_	VB	_	20	IM	_	_
+22	.	.	_	.	_	0	ROOT	_	_

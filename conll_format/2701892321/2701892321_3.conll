@@ -1,0 +1,14 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	6	DEP	_	_
+3	a	a	_	DT	_	5	NMOD	67020	_
+4	chun	chun	_	CD	_	5	NMOD	67020	_
+5	kuk	kuk	_	CD	_	6	SBJ	67020	_
+6	do	do	_	VBP	_	0	ROOT	_	_
+7	tournament	tournament	_	NN	_	6	OBJ	67025	_
+8	with	with	_	IN	_	6	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	67022	_
+10	group	group	_	NN	_	8	PMOD	67022	_
+11	of	of	_	IN	_	10	NMOD	67022	_
+12	spectators	spectator	_	NNS	_	11	PMOD	67022	_
+13	watching	watch	_	VBG	_	12	APPO	_	_
+14	.	.	_	.	_	6	P	_	_

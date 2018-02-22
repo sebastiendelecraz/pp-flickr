@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	241839	_
+2	group	group	_	NN	_	7	SBJ	241839	_
+3	of	of	_	IN	_	2	NMOD	241839	_
+4	men	man	_	NNS	_	3	PMOD	241839	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	women	woman	_	NNS	_	5	CONJ	241849	_
+7	walk	walk	_	VBP	_	0	ROOT	_	_
+8	across	across	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	241842	_
+10	stage	stage	_	NN	_	8	PMOD	241842	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	beads	bead	_	NNS	_	11	PMOD	241845	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	background	background	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	7	P	_	_

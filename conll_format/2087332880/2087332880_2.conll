@@ -1,0 +1,14 @@
+1	woman	woman	_	NN	_	0	ROOT	27805	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	a	a	_	DT	_	4	NMOD	27805	_
+4	man	man	_	NN	_	2	CONJ	27805	_
+5	standing	stand	_	VBG	_	4	APPO	_	_
+6	across	across	_	IN	_	5	ADV	_	5
+7	street	street	_	NN	_	6	PMOD	27804	_
+8	from	from	_	IN	_	5	ADV	_	_
+9	each	each	_	DT	_	10	NMOD	0	_
+10	other	other	_	JJ	_	8	PMOD	0	_
+11	at	at	_	IN	_	5	LOC	_	5
+12	a	a	_	DT	_	13	NMOD	27801	_
+13	crosswalk	crosswalk	_	NN	_	11	PMOD	27801	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	187738	_
+2	view	view	_	NN	_	0	ROOT	187738	_
+3	of	of	_	IN	_	2	NMOD	187738	_
+4	a	a	_	DT	_	6	NMOD	187738	_
+5	swatch	swatch	_	NN	_	6	NMOD	187738	_
+6	store	store	_	NN	_	3	PMOD	187738	_
+7	from	from	_	IN	_	2	NMOD	_	2
+8	a	a	_	DT	_	10	NMOD	187739	_
+9	street	street	_	NN	_	10	NMOD	187739	_
+10	corner	corner	_	NN	_	7	PMOD	187739	_
+11	.	.	_	.	_	0	ROOT	_	_

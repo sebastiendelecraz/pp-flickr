@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	166658	_
+2	man	man	_	NN	_	3	SBJ	166658	_
+3	leaning	lean	_	VBG	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	166664	_
+6	hole	hole	_	NN	_	4	PMOD	166664	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	166663	_
+9	counter	counter	_	NN	_	7	PMOD	166663	_
+10	.	.	_	.	_	0	ROOT	_	_

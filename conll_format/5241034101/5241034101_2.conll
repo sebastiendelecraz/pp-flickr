@@ -1,0 +1,20 @@
+1	Two	Two	_	CD	_	3	NMOD	231875	_
+2	utility	utility	_	NN	_	3	NMOD	231875	_
+3	workers	worker	_	NNS	_	11	SBJ	231875	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	blue	blue	_	JJ	_	8	NMOD	231879	_
+6	and	and	_	CC	_	5	COORD	231879	_
+7	yellow	yellow	_	JJ	_	6	CONJ	231879	_
+8	suits	suit	_	NNS	_	4	PMOD	231879	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	shovels	shovel	_	NNS	_	9	PMOD	231887	_
+11	are	be	_	VBP	_	0	ROOT	_	_
+12	standing	stand	_	VBG	_	11	VC	_	_
+13	on	on	_	IN	_	12	ADV	_	_
+14	the	the	_	DT	_	15	NMOD	231883	_
+15	sidewalk	sidewalk	_	NN	_	13	PMOD	231883	_
+16	next to	next to	_	IN	_	12	ADV	_	12
+17	a	a	_	DT	_	19	NMOD	231876	_
+18	flooded	flood	_	VBN	_	19	NMOD	231876	_
+19	street	street	_	NN	_	16	PMOD	231876	_
+20	.	.	_	.	_	11	P	_	_

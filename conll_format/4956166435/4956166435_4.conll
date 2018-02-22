@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	223019	_
+2	man	man	_	NN	_	3	SBJ	223019	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	parakiting	parakiting	_	CD	_	3	PRD	_	_
+5	on	on	_	IN	_	3	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	223020	_
+7	body	body	_	NN	_	5	PMOD	223020	_
+8	of	of	_	IN	_	7	NMOD	223020	_
+9	water	water	_	NN	_	8	PMOD	223020	_
+10	.	.	_	.	_	3	P	_	_

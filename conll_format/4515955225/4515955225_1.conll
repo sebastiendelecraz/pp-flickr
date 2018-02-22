@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	174770	_
+2	baseball	baseball	_	NN	_	3	NMOD	174770	_
+3	player	player	_	NN	_	4	SBJ	174770	_
+4	wearing	wear	_	VBG	_	10	SBJ	_	_
+5	a	a	_	DT	_	9	NMOD	174775	_
+6	white	white	_	JJ	_	9	NMOD	174775	_
+7	and	and	_	CC	_	6	COORD	174775	_
+8	blue	blue	_	JJ	_	7	CONJ	174775	_
+9	uniform	uniform	_	NN	_	4	OBJ	174775	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	throwing	throw	_	VBG	_	10	VC	_	_
+12	a	a	_	DT	_	13	NMOD	174767	_
+13	baseball	baseball	_	NN	_	11	OBJ	174767	_
+14	in front of	in front of	_	IN	_	11	ADV	_	11
+15	a	a	_	DT	_	16	NMOD	174771	_
+16	crowd	crowd	_	NN	_	14	PMOD	174771	_
+17	at	at	_	IN	_	16	LOC	_	_
+18	the	the	_	DT	_	19	NMOD	174774	_
+19	park	park	_	NN	_	17	PMOD	174774	_
+20	.	.	_	.	_	10	P	_	_

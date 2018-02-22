@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	122365	_
+2	racing	race	_	VBG	_	3	NMOD	122365	_
+3	motorcycle	motorcycle	_	NN	_	0	ROOT	122365	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	motorcyclist	motorcyclist	_	NN	_	4	CONJ	122364	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	red	red	_	JJ	_	8	NMOD	122367	_
+8	leaning	leaning	_	NN	_	6	PMOD	_	_
+9	into	into	_	IN	_	3	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	122368	_
+11	turn	turn	_	NN	_	9	PMOD	122368	_
+12	.	.	_	.	_	0	ROOT	_	_

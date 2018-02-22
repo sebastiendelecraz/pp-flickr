@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	30069	_
+2	crowd	crowd	_	NN	_	0	ROOT	30069	_
+3	of	of	_	IN	_	2	NMOD	30069	_
+4	suburban	suburban	_	JJ	_	6	NMOD	30069	_
+5	youth	youth	_	NN	_	6	NMOD	30069	_
+6	wait	wait	_	NN	_	3	PMOD	_	_
+7	for	for	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	30070	_
+9	performance	performance	_	NN	_	7	PMOD	30070	_
+10	to	to	_	TO	_	6	NMOD	_	_
+11	begin	begin	_	VB	_	10	IM	_	_
+12	.	.	_	.	_	0	ROOT	_	_

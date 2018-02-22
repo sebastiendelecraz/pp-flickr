@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	55876	_
+2	man	man	_	NN	_	0	ROOT	55876	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	glasses	glass	_	NNS	_	3	PMOD	55880	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	a	a	_	DT	_	8	NMOD	55877	_
+7	tootsie	tootsie	_	NN	_	8	NMOD	55877	_
+8	pop	pop	_	NN	_	5	CONJ	55877	_
+9	,	,	_	,	_	2	P	_	_
+10	browsing	browse	_	VBG	_	2	APPO	_	_
+11	through	through	_	IN	_	10	ADV	_	10
+12	pictures	picture	_	NNS	_	11	PMOD	55879	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	his	his	_	PRP$	_	16	NMOD	55878	_
+15	digital	digital	_	JJ	_	16	NMOD	55878	_
+16	camera	camera	_	NN	_	13	PMOD	55878	_
+17	.	.	_	.	_	0	ROOT	_	_

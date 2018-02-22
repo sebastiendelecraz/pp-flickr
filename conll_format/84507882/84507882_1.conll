@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	281368	_
+2	boys	boy	_	NNS	_	6	SBJ	281368	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	281371	_
+5	sand	sand	_	NN	_	3	PMOD	281371	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	near	near	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	281373	_
+10	structure	structure	_	NN	_	8	PMOD	281373	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	yellow	yellow	_	JJ	_	13	NMOD	281377	_
+13	railings	railing	_	NNS	_	11	PMOD	281377	_
+14	.	.	_	.	_	6	P	_	_

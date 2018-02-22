@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	3	NMOD	13464	_
+2	elderly	elderly	_	NN	_	3	NMOD	13464	_
+3	man	man	_	NN	_	8	SBJ	13464	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	13465	_
+6	blue	blue	_	JJ	_	7	NMOD	13465	_
+7	jacket	jacket	_	NN	_	4	PMOD	13465	_
+8	sits	sit	_	VBZ	_	0	ROOT	_	_
+9	with	with	_	IN	_	8	ADV	_	_
+10	others	other	_	NNS	_	9	PMOD	13470	_
+11	on	on	_	IN	_	10	NMOD	_	8
+12	a	a	_	DT	_	13	NMOD	13463	_
+13	boat	boat	_	NN	_	11	PMOD	13463	_
+14	.	.	_	.	_	8	P	_	_

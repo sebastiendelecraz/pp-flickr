@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	53706	_
+2	man	man	_	NN	_	0	ROOT	53706	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	53707	_
+5	toy	toy	_	NN	_	3	PMOD	53707	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	his	his	_	PRP$	_	8	NMOD	53711	_
+8	hand	hand	_	NN	_	6	PMOD	53711	_
+9	on	on	_	IN	_	2	NMOD	_	12
+10	a	a	_	DT	_	11	NMOD	53708	_
+11	beach	beach	_	NN	_	9	PMOD	53708	_
+12	playing	play	_	VBG	_	11	APPO	_	_
+13	with	with	_	IN	_	12	ADV	_	_
+14	his	his	_	PRP$	_	15	NMOD	53705	_
+15	dog	dog	_	NN	_	13	PMOD	53705	_
+16	.	.	_	.	_	0	ROOT	_	_

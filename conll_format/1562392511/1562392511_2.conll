@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	16424	_
+2	men	man	_	NNS	_	3	SBJ	16424	_
+3	handle	handle	_	VBP	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	16423	_
+5	gray	gray	_	JJ	_	6	NMOD	16423	_
+6	dog	dog	_	NN	_	3	OBJ	16423	_
+7	with	with	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	11	NMOD	16425	_
+9	blue	blue	_	JJ	_	11	NMOD	16425	_
+10	knotted	knot	_	VBN	_	11	NMOD	16425	_
+11	rope	rope	_	NN	_	7	PMOD	16425	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	its	its	_	PRP$	_	14	NMOD	16426	_
+14	mouth	mouth	_	NN	_	12	PMOD	16426	_
+15	.	.	_	.	_	3	P	_	_

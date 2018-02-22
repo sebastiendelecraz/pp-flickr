@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	4	NMOD	219443	_
+2	old	old	_	JJ	_	4	NMOD	219443	_
+3	skinny	skinny	_	NN	_	4	NMOD	219443	_
+4	man	man	_	NN	_	5	SBJ	219443	_
+5	wearing	wear	_	VBG	_	0	ROOT	_	_
+6	the	the	_	DT	_	9	NMOD	219447	_
+7	dirty	dirty	_	JJ	_	9	NMOD	219447	_
+8	white	white	_	JJ	_	9	NMOD	219447	_
+9	shirt	shirt	_	NN	_	5	OBJ	219447	_
+10	riding	ride	_	VBG	_	9	APPO	_	_
+11	on	on	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	219444	_
+13	bicycle	bicycle	_	NN	_	11	PMOD	219444	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	the	the	_	DT	_	16	NMOD	219445	_
+16	street	street	_	NN	_	14	PMOD	219445	_
+17	.	.	_	.	_	0	ROOT	_	_

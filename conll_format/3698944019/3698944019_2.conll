@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	137733	_
+2	blond	blond	_	JJ	_	3	NMOD	137733	_
+3	toddler	toddler	_	NN	_	0	ROOT	137733	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	green	green	_	JJ	_	6	NMOD	137737	_
+6	trousers	trouser	_	NNS	_	7	NMOD	137737	_
+7	peeks	peek	_	NNS	_	4	PMOD	137737	_
+8	through	through	_	IN	_	3	TMP	_	7
+9	a	a	_	DT	_	10	NMOD	137734	_
+10	fence	fence	_	NN	_	8	PMOD	137734	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	34581	_
+2	group	group	_	NN	_	6	SBJ	34581	_
+3	of	of	_	IN	_	2	NMOD	34581	_
+4	construction	construction	_	NN	_	5	NMOD	34581	_
+5	workers	worker	_	NNS	_	3	PMOD	34581	_
+6	work	work	_	VBP	_	0	ROOT	_	_
+7	next to	next to	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	34583	_
+9	road	road	_	NN	_	7	PMOD	34583	_
+10	at	at	_	IN	_	6	TMP	_	_
+11	night	night	_	NN	_	10	PMOD	34584	_
+12	.	.	_	.	_	6	P	_	_

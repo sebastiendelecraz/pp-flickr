@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	233674	_
+2	hand	hand	_	NN	_	3	SBJ	233674	_
+3	poking	poke	_	VBG	_	9	SBJ	_	_
+4	out of	out of	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	8	NMOD	233681	_
+6	black	black	_	JJ	_	8	NMOD	233681	_
+7	sweater	sweater	_	NN	_	8	NMOD	233681	_
+8	sleeve	sleeve	_	NN	_	4	PMOD	233681	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	mixing	mix	_	VBG	_	9	VC	_	_
+11	an	an	_	DT	_	12	NMOD	233676	_
+12	egg	egg	_	NN	_	10	OBJ	233676	_
+13	into	into	_	IN	_	10	ADV	_	10
+14	a	a	_	DT	_	15	NMOD	233677	_
+15	flour	flour	_	NN	_	13	PMOD	233677	_
+16	well	well	_	RB	_	10	MNR	_	_
+17	with	with	_	IN	_	10	ADV	_	10
+18	a	a	_	DT	_	19	NMOD	233678	_
+19	fork	fork	_	NN	_	17	PMOD	233678	_
+20	.	.	_	.	_	9	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	65003	_
+2	man	man	_	NN	_	0	ROOT	65003	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	old	old	_	JJ	_	6	NMOD	65012	_
+5	costume	costume	_	NN	_	6	NMOD	65012	_
+6	leaps	leap	_	NNS	_	3	PMOD	_	_
+7	across	across	_	IN	_	6	LOC	_	6
+8	an	an	_	DT	_	10	NMOD	65006	_
+9	English	english	_	NN	_	10	NMOD	65006	_
+10	street	street	_	NN	_	7	PMOD	65006	_
+11	besides	besides	_	IN	_	2	NMOD	_	6
+12	a	a	_	DT	_	13	NMOD	65013	_
+13	Peugeot	Peugeot	_	NNP	_	11	PMOD	65013	_
+14	.	.	_	.	_	0	ROOT	_	_

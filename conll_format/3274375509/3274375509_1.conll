@@ -1,0 +1,14 @@
+1	The	the	_	DT	_	2	NMOD	106140	_
+2	woman	woman	_	NN	_	3	SBJ	106140	_
+3	holds	hold	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	106141	_
+5	small	small	_	JJ	_	6	NMOD	106141	_
+6	infant	infant	_	NN	_	3	OBJ	106141	_
+7	in	in	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	106142	_
+9	baby	baby	_	NN	_	10	NMOD	106142	_
+10	carrier	carrier	_	NN	_	7	PMOD	106142	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	her	her	_	PRP$	_	13	NMOD	106143	_
+13	chest	chest	_	NN	_	11	PMOD	106143	_
+14	.	.	_	.	_	3	P	_	_

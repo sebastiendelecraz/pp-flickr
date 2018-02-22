@@ -1,0 +1,9 @@
+1	Old	Old	_	NNP	_	2	NMOD	32044	_
+2	man	man	_	NN	_	3	SBJ	32044	_
+3	poses	pose	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	picture	picture	_	NN	_	4	PMOD	32048	_
+6	in front of	in front of	_	IN	_	5	NMOD	_	_
+7	construction	construction	_	NN	_	8	NMOD	32047	_
+8	site	site	_	NN	_	6	PMOD	32047	_
+9	.	.	_	.	_	3	P	_	_

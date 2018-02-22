@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	NAME	108440	_
+2	meeting	meet	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	108442	_
+5	Utah	Utah	_	NNP	_	6	NMOD	108442	_
+6	building	building	_	NN	_	3	PMOD	108442	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	nice	nice	_	JJ	_	9	NMOD	108447	_
+9	artwork	artwork	_	NN	_	7	PMOD	108447	_
+10	.	.	_	.	_	0	ROOT	_	_

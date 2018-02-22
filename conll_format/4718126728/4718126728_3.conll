@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	NAME	194790	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	ADV	_	_
+4	line	line	_	NN	_	3	PMOD	194798	_
+5	of	of	_	IN	_	4	NMOD	194798	4
+6	a	a	_	DT	_	10	NMOD	194798	_
+7	beer	beer	_	NN	_	10	NMOD	194798	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	curry	curry	_	NN	_	8	CONJ	194797	_
+10	line	line	_	NN	_	5	PMOD	194797	_
+11	.	.	_	.	_	0	ROOT	_	_

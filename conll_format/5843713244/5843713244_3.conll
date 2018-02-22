@@ -1,0 +1,14 @@
+1	2	2	_	CD	_	3	NMOD	243922	_
+2	gypsy	gypsy	_	JJ	_	3	NMOD	243922	_
+3	women	woman	_	NNS	_	0	ROOT	243922	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	colorful	colorful	_	JJ	_	6	NMOD	243928	_
+6	dress	dress	_	NN	_	4	PMOD	243928	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	cutoff	cutoff	_	NN	_	9	NMOD	243926	_
+9	shirts	shirt	_	NNS	_	7	PMOD	243926	_
+10	dancing	dance	_	VBG	_	9	APPO	_	_
+11	in	in	_	IN	_	10	LOC	_	10
+12	a	a	_	DT	_	13	NMOD	243923	_
+13	circle	circle	_	NN	_	11	PMOD	243923	_
+14	.	.	_	.	_	0	ROOT	_	_

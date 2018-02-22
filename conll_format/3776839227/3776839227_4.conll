@@ -1,0 +1,14 @@
+1	Man	Man	_	NNP	_	4	SBJ	142212	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	woman	woman	_	VB	_	2	CONJ	142215	_
+4	standing	stand	_	VBG	_	0	ROOT	_	_
+5	next to	next to	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	142213	_
+7	hang	hang	_	NN	_	8	NMOD	142213	_
+8	glider	glider	_	NN	_	5	PMOD	142213	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	mountains	mountain	_	NNS	_	9	PMOD	142216	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	background	background	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

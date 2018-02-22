@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	144920	_
+2	man	man	_	NN	_	3	SBJ	144920	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	welding	weld	_	VBG	_	3	VC	_	_
+5	something	something	_	NN	_	4	OBJ	144926	_
+6	made	make	_	VBN	_	5	APPO	_	_
+7	of	of	_	IN	_	6	ADV	_	_
+8	metal	metal	_	NN	_	7	PMOD	144925	_
+9	near	near	_	IN	_	8	LOC	_	4
+10	many	many	_	DT	_	11	NMOD	144924	_
+11	tools	tool	_	NNS	_	9	PMOD	144924	_
+12	.	.	_	.	_	3	P	_	_

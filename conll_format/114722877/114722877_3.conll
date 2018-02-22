@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	3827	_
+2	man	man	_	NN	_	3	SBJ	3827	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	3829	_
+6	railroad	railroad	_	NN	_	7	NMOD	3829	_
+7	track	track	_	NN	_	4	PMOD	3829	_
+8	looking	look	_	VBG	_	7	APPO	_	_
+9	through	through	_	IN	_	8	ADV	_	8
+10	his	his	_	PRP$	_	11	NMOD	3833	_
+11	binoculars	binocular	_	NNS	_	9	PMOD	3833	_
+12	at	at	_	IN	_	8	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	3828	_
+14	river	river	_	NN	_	12	PMOD	3828	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	27523	_
+2	children	child	_	NNS	_	3	SBJ	27523	_
+3	jump	jump	_	VBP	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	7	NMOD	27524	_
+6	hotel	hotel	_	NN	_	7	NMOD	27524	_
+7	pool	pool	_	NN	_	4	PMOD	27524	_
+8	from	from	_	IN	_	3	ADV	_	3
+9	an	an	_	DT	_	11	NMOD	27526	_
+10	artificial	artificial	_	JJ	_	11	NMOD	27526	_
+11	island	island	_	NN	_	8	PMOD	27526	_
+12	.	.	_	.	_	3	P	_	_

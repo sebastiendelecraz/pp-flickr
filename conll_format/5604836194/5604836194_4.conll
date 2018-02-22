@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	239492	_
+2	surfer	surfer	_	NN	_	0	ROOT	239492	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	239499	_
+5	wetsuit	wetsuit	_	CD	_	6	NMOD	239499	_
+6	falls	fall	_	NNS	_	3	PMOD	_	_
+7	off	off	_	IN	_	10	LOC	_	_
+8	his	his	_	PRP$	_	9	NMOD	239495	_
+9	board	board	_	NN	_	7	PMOD	239495	_
+10	into	into	_	IN	_	2	NMOD	_	6
+11	a	a	_	DT	_	12	NMOD	239494	_
+12	wave	wave	_	NN	_	10	PMOD	239494	_
+13	.	.	_	.	_	0	ROOT	_	_

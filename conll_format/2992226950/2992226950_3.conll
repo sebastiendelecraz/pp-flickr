@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	86029	_
+2	green	green	_	JJ	_	4	NMOD	86029	_
+3	pull	pull	_	NN	_	4	NMOD	86029	_
+4	wagon	wagon	_	NN	_	5	SBJ	86029	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	parked	park	_	VBN	_	5	VC	_	_
+7	under	under	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	86032	_
+9	tree	tree	_	NN	_	7	PMOD	86032	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	86030	_
+12	shaded	shade	_	VBN	_	13	NMOD	86030	_
+13	area	area	_	NN	_	10	PMOD	86030	_
+14	.	.	_	.	_	5	P	_	_

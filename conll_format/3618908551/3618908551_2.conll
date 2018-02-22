@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	2	NMOD	131973	_
+2	boy	boy	_	NN	_	7	SBJ	131973	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	131974	_
+5	blue	blue	_	JJ	_	6	NMOD	131974	_
+6	t-shirt	t-shirt	_	NN	_	3	PMOD	131974	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	airborne	airborne	_	JJ	_	7	PRD	_	_
+9	on	on	_	IN	_	7	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	131975	_
+11	skateboard	skateboard	_	NN	_	9	PMOD	131975	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	131976	_
+14	skate	skate	_	NN	_	15	NMOD	131976	_
+15	park	park	_	NN	_	12	PMOD	131976	_
+16	.	.	_	.	_	7	P	_	_

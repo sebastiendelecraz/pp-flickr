@@ -1,0 +1,16 @@
+1	Boys	Boys	_	NNP	_	0	ROOT	119046	_
+2	at	at	_	IN	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	119049	_
+4	party	party	_	NN	_	2	PMOD	119049	_
+5	drawing	draw	_	VBG	_	4	APPO	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	their	their	_	PRP$	_	8	NMOD	119048	_
+8	friend	friend	_	NN	_	10	NMOD	119048	_
+9	'	'	_	POS	_	8	SUFFIX	119048	_
+10	s	s	_	NN	_	6	PMOD	119048	_
+11	back	back	_	RB	_	10	NMOD	119048	_
+12	with	with	_	IN	_	10	NMOD	_	5
+13	a	a	_	DT	_	15	NMOD	119047	_
+14	black	black	_	JJ	_	15	NMOD	119047	_
+15	marker	marker	_	NN	_	12	PMOD	119047	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	167412	_
+2	man	man	_	NN	_	10	SBJ	167412	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	167414	_
+5	black	black	_	JJ	_	6	NMOD	167414	_
+6	jacket	jacket	_	NN	_	3	PMOD	167414	_
+7	with	with	_	IN	_	6	NMOD	_	2
+8	a	a	_	DT	_	9	NMOD	167413	_
+9	guitar	guitar	_	NN	_	7	PMOD	167413	_
+10	talks	talk	_	VBZ	_	0	ROOT	_	_
+11	to	to	_	TO	_	10	ADV	_	_
+12	another	another	_	DT	_	13	NMOD	167415	_
+13	man	man	_	NN	_	11	PMOD	167415	_
+14	.	.	_	.	_	10	P	_	_

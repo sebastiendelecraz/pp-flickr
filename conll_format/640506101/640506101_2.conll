@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	253964	_
+2	man	man	_	NN	_	0	ROOT	253964	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	253965	_
+5	dog	dog	_	NN	_	6	NMOD	253965	_
+6	tussle	tussle	_	NN	_	3	CONJ	253965	_
+7	over	over	_	IN	_	2	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	253966	_
+9	toy	toy	_	NN	_	7	PMOD	253966	_
+10	in	in	_	IN	_	2	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	253969	_
+12	grassy	grassy	_	JJ	_	13	NMOD	253969	_
+13	yard	yard	_	NN	_	10	PMOD	253969	_
+14	.	.	_	.	_	0	ROOT	_	_

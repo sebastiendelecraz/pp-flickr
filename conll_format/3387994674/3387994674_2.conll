@@ -1,0 +1,11 @@
+1	Three	Three	_	CD	_	2	NMOD	114683	_
+2	guys	guy	_	NNS	_	3	SBJ	114683	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	DIR	_	3
+5	the	the	_	DT	_	6	NMOD	114686	_
+6	intersection	intersection	_	NN	_	4	PMOD	114686	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	114685	_
+9	city	city	_	NN	_	10	NMOD	114685	_
+10	street	street	_	NN	_	7	PMOD	114685	_
+11	.	.	_	.	_	0	ROOT	_	_

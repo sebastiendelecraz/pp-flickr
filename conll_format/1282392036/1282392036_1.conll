@@ -1,0 +1,20 @@
+1	two	two	_	CD	_	2	NMOD	7152	_
+2	women	woman	_	NNS	_	6	SBJ	7152	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	7153	_
+5	child	child	_	NN	_	3	CONJ	7153	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	sitting	sit	_	VBG	_	6	VC	_	_
+8	by	by	_	IN	_	7	MNR	_	7
+9	a	a	_	DT	_	10	NMOD	7159	_
+10	cart	cart	_	NN	_	8	PMOD	7159	_
+11	of	of	_	IN	_	10	NMOD	7159	_
+12	arrows	arrow	_	NNS	_	11	PMOD	7159	_
+13	in front of	in front of	_	IN	_	7	ADV	_	_
+14	a	a	_	DT	_	15	NMOD	7156	_
+15	booth	booth	_	NN	_	13	PMOD	7156	_
+16	at	at	_	IN	_	7	LOC	_	_
+17	a	a	_	DT	_	19	NMOD	7155	_
+18	medieval	medieval	_	JJ	_	19	NMOD	7155	_
+19	Fayre	Fayre	_	NNP	_	16	PMOD	7155	_
+20	.	.	_	.	_	6	P	_	_

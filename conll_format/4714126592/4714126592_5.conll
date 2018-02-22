@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	194106	_
+2	child	child	_	NN	_	0	ROOT	194106	_
+3	riding	ride	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	194107	_
+5	bike	bike	_	NN	_	3	OBJ	194107	_
+6	in	in	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	194110	_
+8	circle	circle	_	NN	_	6	PMOD	194110	_
+9	by	by	_	IN	_	2	NMOD	_	3
+10	a	a	_	DT	_	11	NMOD	194108	_
+11	body	body	_	NN	_	9	PMOD	194108	_
+12	of	of	_	IN	_	11	NMOD	194108	_
+13	water	water	_	NN	_	12	PMOD	194108	_
+14	.	.	_	.	_	0	ROOT	_	_

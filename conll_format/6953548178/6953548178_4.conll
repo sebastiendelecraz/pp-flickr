@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	262351	_
+2	city	city	_	NN	_	0	ROOT	262351	_
+3	of	of	_	IN	_	2	NMOD	262351	_
+4	people	people	_	NN	_	3	PMOD	262351	_
+5	gathered	gather	_	VBN	_	4	APPO	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	the	the	_	DT	_	8	NMOD	262352	_
+8	construction	construction	_	NN	_	6	PMOD	262352	_
+9	of	of	_	IN	_	8	NMOD	262352	_
+10	a	a	_	DT	_	11	NMOD	262352	_
+11	statue	statue	_	NN	_	9	PMOD	262352	_
+12	.	.	_	.	_	0	ROOT	_	_

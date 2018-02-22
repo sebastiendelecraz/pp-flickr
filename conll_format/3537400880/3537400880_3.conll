@@ -1,0 +1,13 @@
+1	The	the	_	DT	_	2	NMOD	125794	_
+2	girl	girl	_	NN	_	3	SBJ	125794	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	jumping	jump	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	125795	_
+7	trampoline	trampoline	_	NN	_	5	PMOD	125795	_
+8	,	,	_	,	_	4	P	_	_
+9	outdoors	outdoors	_	RB	_	4	ADV	125797	_
+10	in	in	_	IN	_	4	LOC	_	4
+11	a	a	_	DT	_	12	NMOD	125796	_
+12	backyard	backyard	_	NN	_	10	PMOD	125796	_
+13	.	.	_	.	_	3	P	_	_

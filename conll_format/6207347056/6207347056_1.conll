@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	250071	_
+2	motocross	motocross	_	NN	_	3	NMOD	250071	_
+3	rider	rider	_	NN	_	0	ROOT	250071	_
+4	in	in	_	IN	_	9	PMOD	_	_
+5	white	white	_	JJ	_	8	NMOD	250080	_
+6	and	and	_	CC	_	5	COORD	250080	_
+7	red	red	_	JJ	_	6	CONJ	250080	_
+8	leans	lean	_	NNS	_	4	PMOD	_	_
+9	into	into	_	IN	_	3	NMOD	_	8
+10	a	a	_	DT	_	12	NMOD	250073	_
+11	dirt	dirt	_	NN	_	12	NMOD	250073	_
+12	berm	berm	_	NN	_	9	PMOD	250073	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	his	his	_	PRP$	_	15	NMOD	250074	_
+15	cycle	cycle	_	NN	_	13	PMOD	250074	_
+16	.	.	_	.	_	0	ROOT	_	_

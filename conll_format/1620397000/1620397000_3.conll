@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	17722	_
+2	white	white	_	JJ	_	3	NMOD	17722	_
+3	dog	dog	_	NN	_	0	ROOT	17722	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	black	black	_	JJ	_	6	NMOD	17724	_
+6	spots	spot	_	NNS	_	7	NMOD	17724	_
+7	jumps	jump	_	NNS	_	4	PMOD	_	_
+8	over	over	_	IN	_	3	NMOD	_	7
+9	a	a	_	DT	_	10	NMOD	17723	_
+10	stream	stream	_	NN	_	8	PMOD	17723	_
+11	.	.	_	.	_	0	ROOT	_	_

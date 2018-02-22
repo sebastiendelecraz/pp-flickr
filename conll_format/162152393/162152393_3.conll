@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	17738	_
+2	person	person	_	NN	_	3	SBJ	17738	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	17741	_
+7	wall	wall	_	NN	_	5	PMOD	17741	_
+8	beside	beside	_	IN	_	4	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	17740	_
+10	beach	beach	_	NN	_	8	PMOD	17740	_
+11	.	.	_	.	_	3	P	_	_

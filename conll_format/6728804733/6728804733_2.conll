@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	257260	_
+2	smiling	smile	_	VBG	_	3	NMOD	257260	_
+3	man	man	_	NN	_	8	SBJ	257260	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	257264	_
+6	blue	blue	_	JJ	_	7	NMOD	257264	_
+7	shirt	shirt	_	NN	_	4	PMOD	257264	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	working	work	_	VBG	_	8	VC	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	the	the	_	DT	_	12	NMOD	257266	_
+12	spokes	spoke	_	NNS	_	10	PMOD	257266	_
+13	of	of	_	IN	_	12	NMOD	257266	12
+14	a	a	_	DT	_	16	NMOD	257266	_
+15	bicycle	bicycle	_	NN	_	16	NMOD	257266	_
+16	wheel	wheel	_	NN	_	13	PMOD	257266	_
+17	.	.	_	.	_	8	P	_	_

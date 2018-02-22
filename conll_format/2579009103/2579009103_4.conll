@@ -1,0 +1,8 @@
+1	Asians	Asians	_	JJ	_	2	NMOD	59316	_
+2	eating	eat	_	VBG	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	59317	_
+5	table	table	_	NN	_	3	PMOD	59317	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	restaurant	restaurant	_	NN	_	6	PMOD	59322	_
+8	.	.	_	.	_	0	ROOT	_	_

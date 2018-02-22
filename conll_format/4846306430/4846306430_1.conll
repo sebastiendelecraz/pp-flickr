@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	210012	_
+2	woman	woman	_	NN	_	3	SBJ	210012	_
+3	lies	lie	_	VBZ	_	0	ROOT	_	_
+4	naked	naked	_	JJ	_	0	ROOT	_	_
+5	,	,	_	,	_	0	ROOT	_	_
+6	wrapped	wrap	_	VBN	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	210013	_
+9	net	net	_	JJ	_	7	PMOD	210013	_
+10	on top of	on top of	_	IN	_	6	ADV	_	3
+11	a	a	_	DT	_	12	NMOD	210014	_
+12	rock	rock	_	NN	_	10	PMOD	210014	_
+13	by	by	_	IN	_	6	LGS	_	_
+14	the	the	_	DT	_	15	NMOD	210017	_
+15	ocean	ocean	_	NN	_	13	PMOD	210017	_
+16	.	.	_	.	_	0	ROOT	_	_

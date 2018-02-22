@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	133547	_
+2	mountain	mountain	_	NN	_	3	NMOD	133547	_
+3	biker	biker	_	NN	_	4	SBJ	133547	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	jumping	jump	_	VBG	_	4	VC	_	_
+6	his	his	_	PRP$	_	7	NMOD	133548	_
+7	bike	bike	_	NN	_	5	OBJ	133548	_
+8	over	over	_	IN	_	7	NMOD	_	5
+9	a	a	_	DT	_	11	NMOD	133549	_
+10	tree	tree	_	NN	_	11	NMOD	133549	_
+11	stump	stump	_	NN	_	8	PMOD	133549	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	133550	_
+14	woods	wood	_	NNS	_	12	PMOD	133550	_
+15	.	.	_	.	_	4	P	_	_

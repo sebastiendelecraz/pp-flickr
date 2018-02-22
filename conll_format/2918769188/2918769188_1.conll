@@ -1,0 +1,15 @@
+1	The	the	_	DT	_	2	NMOD	81365	_
+2	arm	arm	_	NN	_	6	SBJ	81365	_
+3	of	of	_	IN	_	2	NMOD	81365	_
+4	a	a	_	DT	_	5	NMOD	81365	_
+5	swimmer	swimmer	_	NN	_	3	PMOD	81365	_
+6	rises	rise	_	VBZ	_	0	ROOT	_	_
+7	from	from	_	IN	_	6	ADV	_	6
+8	the	the	_	DT	_	9	NMOD	81363	_
+9	water	water	_	NN	_	7	PMOD	81363	_
+10	inside	inside	_	IN	_	6	LOC	_	6
+11	the	the	_	DT	_	14	NMOD	81362	_
+12	striped	stripe	_	VBN	_	14	NMOD	81362	_
+13	lane	lane	_	JJ	_	14	NMOD	81362	_
+14	marker	marker	_	NN	_	10	PMOD	81362	_
+15	.	.	_	.	_	6	P	_	_

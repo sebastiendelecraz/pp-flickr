@@ -1,0 +1,22 @@
+1	Two	Two	_	CD	_	2	NMOD	242581	_
+2	men	man	_	NNS	_	9	SBJ	242581	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	camouflage	camouflage	_	NN	_	5	NMOD	242592	_
+5	fatigues	fatigue	_	NNS	_	3	PMOD	242592	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	brown	brown	_	JJ	_	8	NMOD	242587	_
+8	shirts	shirt	_	NNS	_	6	CONJ	242587	_
+9	hold	hold	_	VBP	_	0	ROOT	_	_
+10	a	a	_	DT	_	11	NMOD	242583	_
+11	piece	piece	_	NN	_	9	OBJ	242583	_
+12	of	of	_	IN	_	11	NMOD	242583	_
+13	wood	wood	_	NN	_	12	PMOD	242583	_
+14	with	with	_	IN	_	11	NMOD	_	9
+15	a	a	_	DT	_	16	NMOD	242589	_
+16	clamp	clamp	_	NN	_	14	PMOD	242589	_
+17	next to	next to	_	IN	_	9	ADV	_	_
+18	a	a	_	DT	_	20	NMOD	242590	_
+19	red	red	_	JJ	_	20	NMOD	242590	_
+20	circular	circular	_	NN	_	21	SBJ	242590	_
+21	saw	see	_	VBD	_	17	SUB	_	_
+22	.	.	_	.	_	9	P	_	_

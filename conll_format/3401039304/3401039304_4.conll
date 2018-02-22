@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	NAME	115698	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	folding	fold	_	VBG	_	2	PMOD	115701	_
+4	chairs	chair	_	NNS	_	3	OBJ	115701	_
+5	take	take	_	VB	_	3	OPRD	_	_
+6	in	in	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	115699	_
+8	view	view	_	NN	_	6	PMOD	115699	_
+9	from	from	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	115699	_
+11	cliff	cliff	_	NN	_	9	PMOD	115699	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	61423	_
+2	bride	bride	_	NN	_	3	SBJ	61423	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	8	NMOD	61426	_
+7	wooden	wooden	_	JJ	_	8	NMOD	61426	_
+8	rail	rail	_	NN	_	5	PMOD	61426	_
+9	looking	look	_	VBG	_	8	APPO	_	_
+10	at	at	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	61425	_
+12	bouquet	bouquet	_	NN	_	10	PMOD	61425	_
+13	of	of	_	IN	_	12	NMOD	61425	_
+14	flowers	flower	_	NNS	_	13	PMOD	61425	_
+15	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	128189	_
+2	guy	guy	_	NN	_	7	SBJ	128189	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	128193	_
+5	yellow	yellow	_	JJ	_	6	NMOD	128193	_
+6	shirt	shirt	_	NN	_	3	PMOD	128193	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	receiving	receive	_	VBG	_	7	VC	_	_
+9	service	service	_	NN	_	8	OBJ	128200	_
+10	from	from	_	IN	_	8	ADV	_	8
+11	a	a	_	DT	_	12	NMOD	128190	_
+12	guy	guy	_	NN	_	10	PMOD	128190	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	128198	_
+15	gray	gray	_	JJ	_	16	NMOD	128198	_
+16	shirt	shirt	_	NN	_	13	PMOD	128198	_
+17	.	.	_	.	_	7	P	_	_

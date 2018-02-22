@@ -1,0 +1,12 @@
+1	The	the	_	DT	_	2	NMOD	176286	_
+2	children	child	_	NNS	_	5	SBJ	176286	_
+3	in	in	_	IN	_	5	TMP	_	_
+4	blue	blue	_	JJ	_	3	PMOD	176288	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	singing	sing	_	VBG	_	5	VC	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	176287	_
+9	group	group	_	NN	_	7	PMOD	176287	_
+10	of	of	_	IN	_	9	NMOD	176287	_
+11	people	people	_	NN	_	10	PMOD	176287	_
+12	.	.	_	.	_	5	P	_	_

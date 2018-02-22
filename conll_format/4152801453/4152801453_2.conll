@@ -1,0 +1,10 @@
+1	Pedestrians	pedestrian	_	NNS	_	2	SBJ	157195	_
+2	strolling	stroll	_	VBG	_	0	ROOT	_	_
+3	about	about	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	157201	_
+5	plaza	plaza	_	NN	_	3	PMOD	157201	_
+6	in front of	in front of	_	IN	_	2	ADV	_	_
+7	a	a	_	DT	_	9	NMOD	157196	_
+8	large	large	_	JJ	_	9	NMOD	157196	_
+9	building	building	_	NN	_	6	PMOD	157196	_
+10	.	.	_	.	_	0	ROOT	_	_

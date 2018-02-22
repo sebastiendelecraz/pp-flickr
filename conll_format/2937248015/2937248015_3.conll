@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	82600	_
+2	men	man	_	NNS	_	6	SBJ	82600	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	business	business	_	NN	_	5	NMOD	82602	_
+5	attire	attire	_	NN	_	3	PMOD	82602	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	talking	talk	_	VBG	_	6	VC	_	_
+8	by	by	_	IN	_	7	MNR	_	7
+9	a	a	_	DT	_	13	NMOD	82601	_
+10	large	large	_	JJ	_	13	NMOD	82601	_
+11	,	,	_	,	_	13	P	82601	_
+12	red	red	_	JJ	_	13	NMOD	82601	_
+13	sculpture	sculpture	_	NN	_	8	PMOD	82601	_
+14	of	of	_	IN	_	13	NMOD	82601	_
+15	a	a	_	DT	_	16	NMOD	82601	_
+16	cube	cube	_	NN	_	14	PMOD	82601	_
+17	.	.	_	.	_	6	P	_	_

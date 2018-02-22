@@ -1,0 +1,36 @@
+1	A	a	_	DT	_	2	NMOD	193283	_
+2	woman	woman	_	NN	_	3	SBJ	193283	_
+3	wearing	wear	_	VBG	_	13	SBJ	_	_
+4	a	a	_	DT	_	6	NMOD	193279	_
+5	black	black	_	JJ	_	6	NMOD	193279	_
+6	shirt	shirt	_	NN	_	3	OBJ	193279	_
+7	and	and	_	CC	_	3	COORD	_	_
+8	holding	hold	_	VBG	_	7	CONJ	_	_
+9	a	a	_	DT	_	12	NMOD	193286	_
+10	red	red	_	JJ	_	12	NMOD	193286	_
+11	plastic	plastic	_	NN	_	12	NMOD	193286	_
+12	cup	cup	_	NN	_	8	OBJ	193286	_
+13	sits	sit	_	VBZ	_	0	ROOT	_	_
+14	on	on	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	193276	_
+16	bench	bench	_	NN	_	14	PMOD	193276	_
+17	in front of	in front of	_	IN	_	13	LOC	_	_
+18	a	a	_	DT	_	20	NMOD	193275	_
+19	Cigar	Cigar	_	NNP	_	20	NAME	193275	_
+20	Company	Company	_	NNP	_	17	PMOD	193275	_
+21	while	while	_	IN	_	0	ROOT	_	_
+22	a	a	_	DT	_	23	NMOD	193282	_
+23	man	man	_	NN	_	24	SBJ	193282	_
+24	wearing	wear	_	VBG	_	0	ROOT	_	_
+25	sunglasses	sunglass	_	NNS	_	24	OBJ	193280	_
+26	and	and	_	CC	_	25	COORD	_	_
+27	black	black	_	JJ	_	28	NMOD	193281	_
+28	clothing	clothing	_	NN	_	29	NMOD	193281	_
+29	sits	sit	_	NNS	_	26	CONJ	_	_
+30	in	in	_	IN	_	0	ROOT	_	_
+31	a	a	_	DT	_	33	NMOD	193277	_
+32	wood	wood	_	NN	_	33	NMOD	193277	_
+33	chair	chair	_	NN	_	0	ROOT	193277	_
+34	next to	next to	_	IN	_	0	ROOT	_	_
+35	her	her	_	PRP$	_	0	ROOT	0	_
+36	.	.	_	.	_	0	ROOT	_	_

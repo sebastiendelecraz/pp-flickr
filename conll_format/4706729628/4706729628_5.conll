@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	3	NMOD	193378	_
+2	old	old	_	JJ	_	3	NMOD	193378	_
+3	man	man	_	NN	_	0	ROOT	193378	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	193380	_
+6	cigarette	cigarette	_	NN	_	4	PMOD	193380	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	his	his	_	PRP$	_	9	NMOD	193385	_
+9	mouth	mouth	_	NN	_	7	PMOD	193385	_
+10	.	.	_	.	_	0	ROOT	_	_

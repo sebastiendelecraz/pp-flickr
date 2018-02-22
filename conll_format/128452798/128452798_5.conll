@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	7269	_
+2	group	group	_	NN	_	5	SBJ	7269	_
+3	of	of	_	IN	_	2	NMOD	7269	_
+4	people	people	_	NN	_	3	PMOD	7269	_
+5	collect	collect	_	VBP	_	0	ROOT	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	7268	_
+8	man	man	_	NN	_	6	PMOD	7268	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	7271	_
+11	suit	suit	_	NN	_	9	PMOD	7271	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	a	a	_	DT	_	15	NMOD	7267	_
+14	little	little	_	JJ	_	15	NMOD	7267	_
+15	boy	boy	_	NN	_	12	CONJ	7267	_
+16	.	.	_	.	_	5	P	_	_

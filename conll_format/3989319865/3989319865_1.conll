@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	151056	_
+2	man	man	_	NN	_	11	SBJ	151056	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	151063	_
+5	cutoff	cutoff	_	NN	_	3	PMOD	151063	_
+6	V-neck	V-neck	_	NNP	_	5	APPO	151063	_
+7	with	with	_	IN	_	2	NMOD	_	_
+8	a	a	_	DT	_	10	NMOD	151058	_
+9	shoulder	shoulder	_	NN	_	10	NMOD	151058	_
+10	tattoo	tattoo	_	NN	_	7	PMOD	151058	_
+11	plays	play	_	VBZ	_	0	ROOT	_	_
+12	an	an	_	DT	_	13	NMOD	151057	_
+13	accordion	accordion	_	JJ	_	11	OBJ	151057	_
+14	.	.	_	.	_	11	P	_	_

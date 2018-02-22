@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	283882	_
+2	man	man	_	NN	_	6	SBJ	283882	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	283888	_
+5	cap	cap	_	NN	_	3	PMOD	283888	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	inside	inside	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	11	NMOD	283883	_
+10	red	red	_	JJ	_	11	NMOD	283883	_
+11	truck	truck	_	NN	_	8	PMOD	283883	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	the	the	_	DT	_	14	NMOD	283884	_
+14	window	window	_	NN	_	12	PMOD	283884	_
+15	open	open	_	JJ	_	7	OPRD	_	_
+16	.	.	_	.	_	6	P	_	_

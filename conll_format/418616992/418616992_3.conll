@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	158416	_
+2	white	white	_	JJ	_	3	NMOD	158416	_
+3	dog	dog	_	NN	_	4	SBJ	158416	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	158419	_
+7	water	water	_	NN	_	5	PMOD	158419	_
+8	on	on	_	IN	_	4	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	158417	_
+10	shore	shore	_	NN	_	13	NMOD	158417	_
+11	'	'	_	POS	_	10	SUFFIX	158417	_
+12	s	s	_	NN	_	13	NMOD	158417	_
+13	edge	edge	_	NN	_	8	PMOD	158417	_
+14	.	.	_	.	_	0	ROOT	_	_

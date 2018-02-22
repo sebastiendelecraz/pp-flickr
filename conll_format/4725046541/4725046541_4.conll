@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	195629	_
+2	woman	woman	_	NN	_	7	SBJ	195629	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	195631	_
+5	blue	blue	_	JJ	_	6	NMOD	195631	_
+6	sweater	sweater	_	NN	_	3	PMOD	195631	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	195630	_
+11	bench	bench	_	NN	_	9	PMOD	195630	_
+12	next to	next to	_	IN	_	8	TMP	_	8
+13	a	a	_	DT	_	14	NMOD	195632	_
+14	tree	tree	_	NN	_	12	PMOD	195632	_
+15	.	.	_	.	_	7	P	_	_

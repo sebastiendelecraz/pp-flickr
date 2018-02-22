@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	4	NMOD	38935	_
+2	large	large	_	JJ	_	4	NMOD	38935	_
+3	tan	tan	_	NN	_	4	NMOD	38935	_
+4	bulldog	bulldog	_	NN	_	5	SBJ	38935	_
+5	walking	walk	_	VBG	_	0	ROOT	_	_
+6	along	along	_	IN	_	5	LOC	_	5
+7	the	the	_	DT	_	9	NMOD	38937	_
+8	rocky	rocky	_	JJ	_	9	NMOD	38937	_
+9	shore	shore	_	NN	_	6	PMOD	38937	_
+10	of	of	_	IN	_	9	NMOD	38937	_
+11	a	a	_	DT	_	13	NMOD	38937	_
+12	small	small	_	JJ	_	13	NMOD	38937	_
+13	stream	stream	_	NN	_	10	PMOD	38937	_
+14	.	.	_	.	_	0	ROOT	_	_

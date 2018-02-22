@@ -1,0 +1,15 @@
+1	Three	Three	_	CD	_	2	NMOD	165910	_
+2	teenagers	teenager	_	NNS	_	3	SBJ	165910	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	next to	next to	_	IN	_	11	SBJ	_	3
+5	two	two	_	CD	_	7	NMOD	165917	_
+6	older	old	_	JJR	_	7	NMOD	165917	_
+7	men	man	_	NNS	_	4	PMOD	165917	_
+8	in	in	_	IN	_	7	LOC	_	3
+9	Boy	Boy	_	NNP	_	10	NAME	165918	_
+10	Scout	Scout	_	NNP	_	8	PMOD	165918	_
+11	uniforms	uniform	_	VBZ	_	3	OBJ	165918	_
+12	on	on	_	IN	_	11	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	165909	_
+14	stage	stage	_	NN	_	12	PMOD	165909	_
+15	.	.	_	.	_	3	P	_	_

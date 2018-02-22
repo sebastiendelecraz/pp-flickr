@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	DEP	114378	_
+2	tri-colored	tri-colored	_	CD	_	4	NMOD	114378	_
+3	short	short	_	JJ	_	4	NMOD	114378	_
+4	dogs	dog	_	NNS	_	5	SBJ	114378	_
+5	run	run	_	VBP	_	0	ROOT	_	_
+6	away from	away from	_	IN	_	5	ADV	_	5
+7	the	the	_	DT	_	8	NMOD	0	_
+8	camera	camera	_	NN	_	6	PMOD	0	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	114380	_
+11	trees	tree	_	NNS	_	9	PMOD	114380	_
+12	.	.	_	.	_	5	P	_	_

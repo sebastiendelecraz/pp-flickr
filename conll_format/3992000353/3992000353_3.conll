@@ -1,0 +1,14 @@
+1	Three	Three	_	CD	_	3	NMOD	151141	_
+2	young	young	_	JJ	_	3	NMOD	151141	_
+3	women	woman	_	NNS	_	0	ROOT	151141	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	9	NMOD	151144	_
+6	window	window	_	NN	_	7	NMOD	151144	_
+7	strike	strike	_	NN	_	9	NMOD	151144	_
+8	campy	campy	_	JJ	_	9	NMOD	_	_
+9	poses	pose	_	NNS	_	4	PMOD	_	_
+10	for	for	_	IN	_	9	NMOD	_	9
+11	the	the	_	DT	_	13	NMOD	151148	_
+12	amused	amuse	_	VBN	_	13	NMOD	151148	_
+13	onlookers	onlooker	_	NNS	_	10	PMOD	151148	_
+14	.	.	_	.	_	0	ROOT	_	_

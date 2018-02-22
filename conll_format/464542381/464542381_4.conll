@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	NAME	186173	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	chairs	chair	_	NNS	_	3	PMOD	186176	_
+5	along	along	_	IN	_	2	LOC	_	2
+6	a	a	_	DT	_	8	NMOD	186175	_
+7	tree-lined	tree-lined	_	JJ	_	8	NMOD	186175	_
+8	sidewalk	sidewalk	_	NN	_	5	PMOD	186175	_
+9	.	.	_	.	_	0	ROOT	_	_

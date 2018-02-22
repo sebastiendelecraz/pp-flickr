@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	264588	_
+2	chef	chef	_	NN	_	6	SBJ	264588	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	264589	_
+5	unicycle	unicycle	_	NN	_	3	PMOD	264589	_
+6	juggles	juggle	_	VBZ	_	0	ROOT	_	_
+7	through	through	_	IN	_	6	MNR	_	6
+8	a	a	_	DT	_	9	NMOD	264590	_
+9	crowd	crowd	_	NN	_	7	PMOD	264590	_
+10	of	of	_	IN	_	9	NMOD	264590	_
+11	spectators	spectator	_	NNS	_	10	PMOD	264590	_
+12	.	.	_	.	_	6	P	_	_

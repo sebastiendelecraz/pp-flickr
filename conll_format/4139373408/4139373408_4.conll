@@ -1,0 +1,9 @@
+1	Men	Men	_	NNPS	_	2	NAME	156705	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	at	at	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	156706	_
+5	table	table	_	NN	_	3	PMOD	156706	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	156708	_
+8	church	church	_	NN	_	6	PMOD	156708	_
+9	.	.	_	.	_	0	ROOT	_	_

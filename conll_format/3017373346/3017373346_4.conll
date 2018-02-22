@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	5	NMOD	87619	_
+2	black	black	_	JJ	_	5	NMOD	87619	_
+3	and	and	_	CC	_	2	COORD	87619	_
+4	brown	brown	_	JJ	_	3	CONJ	87619	_
+5	dog	dog	_	NN	_	0	ROOT	87619	_
+6	playing	play	_	VBG	_	5	APPO	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	87620	_
+9	water	water	_	NN	_	7	PMOD	87620	_
+10	at	at	_	IN	_	6	TMP	_	6
+11	a	a	_	DT	_	12	NMOD	87620	_
+12	beach	beach	_	NN	_	10	PMOD	87620	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	123244	_
+2	male	male	_	JJ	_	3	NMOD	123244	_
+3	bicyclist	bicyclist	_	NN	_	0	ROOT	123244	_
+4	trying	try	_	VBG	_	3	APPO	_	_
+5	to	to	_	TO	_	4	OPRD	_	_
+6	get	get	_	VB	_	5	IM	_	_
+7	something	something	_	NN	_	6	OBJ	123251	_
+8	from	from	_	IN	_	7	NMOD	_	6
+9	his	his	_	PRP$	_	10	NMOD	123247	_
+10	backpack	backpack	_	NN	_	8	PMOD	123247	_
+11	on	on	_	IN	_	7	NMOD	_	_
+12	a	a	_	DT	_	14	NMOD	123252	_
+13	busy	busy	_	JJ	_	14	NMOD	123252	_
+14	street	street	_	NN	_	11	PMOD	123252	_
+15	.	.	_	.	_	0	ROOT	_	_

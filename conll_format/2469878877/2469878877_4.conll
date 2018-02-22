@@ -1,0 +1,13 @@
+1	a	a	_	DT	_	2	NMOD	51805	_
+2	woman	woman	_	NN	_	0	ROOT	51805	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	brown	brown	_	JJ	_	5	NMOD	51809	_
+5	hair	hair	_	NN	_	3	PMOD	51809	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	on	on	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	51807	_
+9	bench	bench	_	NN	_	7	PMOD	51807	_
+10	outside	outside	_	IN	_	6	LOC	_	6
+11	a	a	_	DT	_	12	NMOD	51811	_
+12	cafe	cafe	_	NN	_	10	PMOD	51811	_
+13	.	.	_	.	_	0	ROOT	_	_

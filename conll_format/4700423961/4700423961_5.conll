@@ -1,0 +1,9 @@
+1	Man	Man	_	NNP	_	2	SBJ	192633	_
+2	hanging	hang	_	VBG	_	0	ROOT	_	_
+3	from	from	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	192635	_
+5	pole	pole	_	NN	_	3	PMOD	192635	_
+6	outside	outside	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	192634	_
+8	building	building	_	NN	_	6	PMOD	192634	_
+9	.	.	_	.	_	0	ROOT	_	_

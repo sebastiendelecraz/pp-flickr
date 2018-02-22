@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	110216	_
+2	small	small	_	JJ	_	3	NMOD	110216	_
+3	dog	dog	_	NN	_	0	ROOT	110216	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	110217	_
+6	ball	ball	_	NN	_	4	PMOD	110217	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	its	its	_	PRP$	_	9	NMOD	110221	_
+9	mouth	mouth	_	NN	_	7	PMOD	110221	_
+10	running	run	_	VBG	_	9	APPO	_	_
+11	through	through	_	IN	_	10	DIR	_	10
+12	a	a	_	DT	_	13	NMOD	110219	_
+13	course	course	_	NN	_	11	PMOD	110219	_
+14	.	.	_	.	_	0	ROOT	_	_

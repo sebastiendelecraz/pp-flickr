@@ -1,0 +1,11 @@
+1	Three	Three	_	CD	_	2	NMOD	206809	_
+2	people	people	_	NN	_	3	SBJ	206809	_
+3	lounge	lounge	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	206812	_
+6	dark	dark	_	JJ	_	7	NMOD	206812	_
+7	prairie	prairie	_	NN	_	4	PMOD	206812	_
+8	in front of	in front of	_	IN	_	3	TMP	_	3
+9	a	a	_	DT	_	10	NMOD	206810	_
+10	campfire	campfire	_	NN	_	8	PMOD	206810	_
+11	.	.	_	.	_	3	P	_	_

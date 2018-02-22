@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	68336	_
+2	shirtless	shirtless	_	JJ	_	3	NMOD	68336	_
+3	man	man	_	NN	_	4	SBJ	68336	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	resting	rest	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	68338	_
+8	log	log	_	NN	_	6	PMOD	68338	_
+9	next to	next to	_	IN	_	5	LOC	_	5
+10	his	his	_	PRP$	_	11	NMOD	68335	_
+11	house	house	_	NN	_	9	PMOD	68335	_
+12	.	.	_	.	_	4	P	_	_

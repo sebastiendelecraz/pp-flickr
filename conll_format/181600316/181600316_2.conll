@@ -1,0 +1,14 @@
+1	man	man	_	NN	_	2	NMOD	21336	_
+2	sweeps	sweep	_	NNS	_	3	SBJ	_	_
+3	ground	grind	_	VBD	_	0	ROOT	0	_
+4	along	along	_	IN	_	3	ADV	_	2
+5	side	side	_	NN	_	6	NMOD	_	_
+6	bundles	bundle	_	NNS	_	4	PMOD	21339	_
+7	of	of	_	IN	_	6	NMOD	21339	_
+8	cardboard	cardboard	_	JJ	_	7	PMOD	21339	_
+9	and	and	_	CC	_	6	COORD	_	_
+10	paper	paper	_	NN	_	9	CONJ	21341	_
+11	outside of	outside of	_	IN	_	3	TMP	21341	2
+12	a	a	_	DT	_	13	NMOD	21341	_
+13	building	building	_	NN	_	11	PMOD	21341	_
+14	.	.	_	.	_	3	P	_	_

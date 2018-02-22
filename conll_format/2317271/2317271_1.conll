@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	5	NMOD	41257	_
+2	large	large	_	JJ	_	5	NMOD	41257	_
+3	formally	formally	_	RB	_	4	AMOD	41257	_
+4	dressed	dress	_	VBN	_	5	NMOD	41257	_
+5	family	family	_	NN	_	6	SBJ	41257	_
+6	poses	pose	_	VBZ	_	0	ROOT	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	41264	_
+9	photo	photo	_	NN	_	7	PMOD	41264	_
+10	in front of	in front of	_	IN	_	6	ADV	_	_
+11	a	a	_	DT	_	14	NMOD	41258	_
+12	large	large	_	JJ	_	14	NMOD	41258	_
+13	wooden	wooden	_	JJ	_	14	NMOD	41258	_
+14	door	door	_	NN	_	10	PMOD	41258	_
+15	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	143283	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	walking	walk	_	VBG	_	2	VC	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	143290	_
+6	street	street	_	NN	_	4	PMOD	143290	_
+7	outside of	outside of	_	IN	_	3	LOC	_	3
+8	the	the	_	DT	_	9	NMOD	143289	_
+9	store	store	_	NN	_	7	PMOD	143289	_
+10	.	.	_	.	_	2	P	_	_

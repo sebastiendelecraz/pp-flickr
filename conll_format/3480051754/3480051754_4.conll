@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	2	SBJ	121455	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	gathered	gather	_	VBN	_	2	VC	_	_
+4	by	by	_	IN	_	3	LGS	_	3
+5	a	a	_	DT	_	6	NMOD	121459	_
+6	tree	tree	_	NN	_	4	PMOD	121459	_
+7	beside	beside	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	121456	_
+9	line	line	_	NN	_	7	PMOD	121456	_
+10	of	of	_	IN	_	9	NMOD	121456	_
+11	white	white	_	JJ	_	12	NMOD	121456	_
+12	tents	tent	_	NNS	_	10	PMOD	121456	_
+13	.	.	_	.	_	2	P	_	_

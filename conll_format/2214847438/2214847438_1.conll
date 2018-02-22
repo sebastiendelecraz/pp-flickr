@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	34627	_
+2	dark-haired	dark-haired	_	JJ	_	3	NMOD	34627	_
+3	boy	boy	_	NN	_	8	SBJ	34627	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	34628	_
+6	gold	gold	_	NN	_	7	NMOD	34628	_
+7	shirt	shirt	_	NN	_	4	PMOD	34628	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	inside	inside	_	IN	_	8	PRD	_	8
+10	a	a	_	DT	_	11	NMOD	34629	_
+11	piece	piece	_	NN	_	9	PMOD	34629	_
+12	of	of	_	IN	_	11	NMOD	34629	_
+13	blue	blue	_	JJ	_	16	NMOD	34629	_
+14	plastic	plastic	_	NN	_	15	NMOD	34629	_
+15	play	play	_	NN	_	16	NMOD	34629	_
+16	equipment	equipment	_	NN	_	12	PMOD	34629	_
+17	.	.	_	.	_	8	P	_	_

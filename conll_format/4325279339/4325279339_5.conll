@@ -1,0 +1,8 @@
+1	Group	Group	_	NNP	_	0	ROOT	163136	_
+2	of	of	_	IN	_	1	NMOD	163136	_
+3	men	man	_	NNS	_	2	PMOD	163136	_
+4	at	at	_	IN	_	3	LOC	_	1
+5	a	a	_	DT	_	7	NMOD	163138	_
+6	business	business	_	NN	_	7	NMOD	163138	_
+7	meeting	meeting	_	NN	_	4	PMOD	_	_
+8	.	.	_	.	_	0	ROOT	_	_

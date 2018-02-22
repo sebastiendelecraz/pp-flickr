@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	3	NMOD	191537	_
+2	oriental	oriental	_	JJ	_	3	NMOD	191537	_
+3	women	woman	_	NNS	_	0	ROOT	191537	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	kimonos	kimono	_	NNS	_	4	PMOD	191540	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	below	below	_	IN	_	6	LOC	_	6
+8	an	an	_	DT	_	9	NMOD	191538	_
+9	umbrella	umbrella	_	NN	_	7	PMOD	191538	_
+10	on	on	_	IN	_	6	LOC	_	_
+11	concrete	concrete	_	JJ	_	12	NMOD	191539	_
+12	seats	seat	_	NNS	_	10	PMOD	191539	_
+13	.	.	_	.	_	0	ROOT	_	_

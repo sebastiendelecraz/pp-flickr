@@ -1,0 +1,22 @@
+1	An	an	_	DT	_	3	NMOD	22490	_
+2	older	old	_	JJR	_	3	NMOD	22490	_
+3	woman	woman	_	NN	_	14	SBJ	22490	_
+4	dressed	dress	_	VBN	_	3	APPO	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	an	an	_	DT	_	9	NMOD	22494	_
+7	ill-fitting	ill-fitting	_	CD	_	9	NMOD	22494	_
+8	yellow	yellow	_	JJ	_	9	NMOD	22494	_
+9	shirt	shirt	_	NN	_	5	PMOD	22494	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	blue	blue	_	JJ	_	13	NMOD	22495	_
+12	plaid	plaid	_	NN	_	13	NMOD	22495	_
+13	skirt	skirt	_	NN	_	10	CONJ	22495	_
+14	is	be	_	VBZ	_	0	ROOT	_	_
+15	sitting	sit	_	VBG	_	14	VC	_	_
+16	on	on	_	IN	_	15	ADV	_	_
+17	the	the	_	DT	_	18	NMOD	0	_
+18	ground	ground	_	NN	_	16	PMOD	0	_
+19	next to	next to	_	IN	_	15	TMP	_	15
+20	two	two	_	CD	_	21	NMOD	22492	_
+21	pails	pail	_	NNS	_	19	PMOD	22492	_
+22	.	.	_	.	_	14	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	130319	_
+2	lady	lady	_	NN	_	3	SBJ	130319	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	cutting	cut	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	130320	_
+6	page	page	_	NN	_	4	OBJ	130320	_
+7	out of	out of	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	130320	_
+9	book	book	_	NN	_	7	PMOD	130320	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	scissors	scissor	_	NNS	_	10	PMOD	130322	_
+12	.	.	_	.	_	3	P	_	_

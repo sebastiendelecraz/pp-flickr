@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	51129	_
+2	young	young	_	JJ	_	3	NMOD	51129	_
+3	boy	boy	_	NN	_	4	SBJ	51129	_
+4	wearing	wear	_	VBG	_	8	SBJ	_	_
+5	an	an	_	DT	_	7	NMOD	51132	_
+6	orange	orange	_	JJ	_	7	NMOD	51132	_
+7	uniform	uniform	_	NN	_	4	OBJ	51132	_
+8	stands	stand	_	VBZ	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	51133	_
+11	field	field	_	NN	_	9	PMOD	51133	_
+12	near	near	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	15	NMOD	51130	_
+14	colorful	colorful	_	JJ	_	15	NMOD	51130	_
+15	ball	ball	_	NN	_	12	PMOD	51130	_
+16	.	.	_	.	_	8	P	_	_

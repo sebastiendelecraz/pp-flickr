@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	2	NMOD	92571	_
+2	guys	guy	_	NNS	_	3	SBJ	92571	_
+3	talking	talk	_	VBG	_	0	ROOT	_	_
+4	while	while	_	IN	_	0	ROOT	_	_
+5	standing	stand	_	VBG	_	0	ROOT	_	_
+6	outside of	outside of	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	92573	_
+8	building	building	_	NN	_	6	PMOD	92573	_
+9	on	on	_	IN	_	5	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	92574	_
+11	rainy	rainy	_	JJ	_	12	NMOD	92574	_
+12	day	day	_	NN	_	9	PMOD	92574	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	Many	many	_	DT	_	2	NMOD	125732	_
+2	people	people	_	NN	_	0	ROOT	125732	_
+3	walking	walk	_	VBG	_	2	APPO	_	_
+4	together	together	_	RB	_	3	ADV	_	_
+5	on	on	_	IN	_	3	ADV	_	_
+6	pavement	pavement	_	NN	_	5	PMOD	125733	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	125735	_
+9	brick	brick	_	NN	_	10	NMOD	125735	_
+10	building	building	_	NN	_	7	PMOD	125735	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	other	other	_	JJ	_	13	NMOD	125731	_
+13	people	people	_	NN	_	11	PMOD	125731	_
+14	looking	look	_	VBG	_	13	APPO	_	_
+15	on	on	_	IN	_	14	ADV	_	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	12040	_
+2	boy	boy	_	NN	_	5	SBJ	12040	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	girl	girl	_	NN	_	3	CONJ	12041	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	playing	play	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	bed	bed	_	NN	_	7	PMOD	12043	_
+9	on top of	on top of	_	IN	_	6	LOC	_	6
+10	their	their	_	PRP$	_	11	NMOD	12044	_
+11	father	father	_	NN	_	9	PMOD	12044	_
+12	.	.	_	.	_	5	P	_	_

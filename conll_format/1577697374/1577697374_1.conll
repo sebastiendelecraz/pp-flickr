@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	16831	_
+2	woman	woman	_	NN	_	6	SBJ	16831	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	her	her	_	PRP$	_	5	NMOD	16830	_
+5	daughter	daughter	_	NN	_	3	CONJ	16830	_
+6	measuring	measure	_	VBG	_	0	ROOT	_	_
+7	themselves	themselves	_	PRP	_	6	OBJ	0	_
+8	against	against	_	IN	_	6	ADV	_	6
+9	a	a	_	DT	_	11	NMOD	16832	_
+10	giant	giant	_	NN	_	11	NMOD	16832	_
+11	ruler	ruler	_	NN	_	8	PMOD	16832	_
+12	at	at	_	IN	_	6	ADV	_	_
+13	"	"	_	CD	_	15	NMOD	16836	_
+14	Washington	Washington	_	NNP	_	15	NAME	16836	_
+15	Farms	Farms	_	NNPS	_	12	PMOD	16836	_
+16	"	"	_	POS	_	15	SUFFIX	_	_
+17	.	.	_	.	_	0	ROOT	_	_

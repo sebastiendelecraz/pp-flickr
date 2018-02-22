@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	3	NMOD	159927	_
+2	asian	asian	_	NN	_	3	NMOD	159927	_
+3	woman	woman	_	NN	_	5	SBJ	159927	_
+4	,	,	_	,	_	3	P	_	_
+5	stands	stand	_	VBZ	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	159933	_
+8	checkout	checkout	_	NN	_	9	NMOD	159933	_
+9	counter	counter	_	NN	_	6	PMOD	159933	_
+10	,	,	_	,	_	5	P	_	_
+11	holding	hold	_	VBG	_	12	NMOD	_	_
+12	money	money	_	NN	_	5	OBJ	159930	_
+13	in	in	_	IN	_	5	LOC	_	_
+14	her	her	_	PRP$	_	15	NMOD	159931	_
+15	hand	hand	_	NN	_	13	PMOD	159931	_
+16	.	.	_	.	_	5	P	_	_

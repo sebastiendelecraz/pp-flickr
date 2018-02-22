@@ -1,0 +1,12 @@
+1	Mom	Mom	_	NNP	_	2	SBJ	183457	_
+2	takes	take	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	183465	_
+4	ride	ride	_	NN	_	2	OBJ	183465	_
+5	through	through	_	IN	_	2	MNR	_	2
+6	the	the	_	DT	_	7	NMOD	183464	_
+7	park	park	_	NN	_	5	PMOD	183464	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	kid	kid	_	NN	_	8	PMOD	183461	_
+10	in	in	_	IN	_	7	LOC	_	_
+11	tow	tow	_	NN	_	10	PMOD	183458	_
+12	.	.	_	.	_	2	P	_	_

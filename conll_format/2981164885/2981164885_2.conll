@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	85395	_
+2	man	man	_	NN	_	9	SBJ	85395	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	85399	_
+5	sweatshirt	sweatshirt	_	NN	_	3	PMOD	85399	_
+6	with	with	_	IN	_	5	NMOD	_	2
+7	a	a	_	DT	_	8	NMOD	85403	_
+8	hat	hat	_	NN	_	6	PMOD	85403	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	looking	look	_	VBG	_	9	VC	_	_
+11	over	over	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	85397	_
+13	bridge	bridge	_	NN	_	11	PMOD	85397	_
+14	at	at	_	IN	_	10	ADV	_	_
+15	a	a	_	DT	_	16	NMOD	85400	_
+16	lake	lake	_	NN	_	14	PMOD	85400	_
+17	.	.	_	.	_	9	P	_	_

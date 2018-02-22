@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	61208	_
+2	crowd	crowd	_	NN	_	5	SBJ	61208	_
+3	of	of	_	IN	_	2	NMOD	61208	_
+4	people	people	_	NN	_	3	PMOD	61208	_
+5	running	run	_	VBG	_	0	ROOT	_	_
+6	together	together	_	RB	_	5	ADV	_	_
+7	in	in	_	IN	_	5	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	61212	_
+9	marathon	marathon	_	NN	_	11	NMOD	61212	_
+10	'	'	_	POS	_	9	SUFFIX	61214	_
+11	Race	Race	_	NNP	_	7	PMOD	61214	_
+12	for	for	_	IN	_	5	ADV	_	11
+13	the	the	_	DT	_	14	NMOD	61210	_
+14	Cure	Cure	_	NNP	_	12	PMOD	61210	_
+15	'	'	_	POS	_	14	SUFFIX	_	_
+16	.	.	_	.	_	0	ROOT	_	_

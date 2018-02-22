@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	111078	_
+2	person	person	_	NN	_	3	SBJ	111078	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	protective	protective	_	JJ	_	5	NMOD	111083	_
+5	gear	gear	_	NN	_	3	OBJ	111083	_
+6	on	on	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	111080	_
+8	snowboard	snowboard	_	NN	_	6	PMOD	111080	_
+9	in	in	_	IN	_	3	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	air	air	_	NN	_	9	PMOD	0	_
+12	above	above	_	IN	_	3	ADV	_	2
+13	snow	snow	_	NN	_	12	PMOD	111084	_
+14	.	.	_	.	_	0	ROOT	_	_

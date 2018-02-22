@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	274154	_
+2	baseball	baseball	_	NN	_	3	NMOD	274154	_
+3	player	player	_	NN	_	4	SBJ	274154	_
+4	getting	get	_	VBG	_	0	ROOT	_	_
+5	tagged	tag	_	VBN	_	4	VC	_	_
+6	out	out	_	RP	_	5	PRT	_	_
+7	while	while	_	IN	_	5	ADV	_	_
+8	sliding	slide	_	VBG	_	7	SUB	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	home	home	_	NN	_	9	PMOD	274158	_
+11	during	during	_	IN	_	8	TMP	_	8
+12	a	a	_	DT	_	13	NMOD	274156	_
+13	game	game	_	NN	_	11	PMOD	274156	_
+14	.	.	_	.	_	0	ROOT	_	_

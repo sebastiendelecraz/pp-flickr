@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	3	NMOD	145889	_
+2	healthcare	healthcare	_	NN	_	3	NMOD	145889	_
+3	professionals	professional	_	NNS	_	4	SBJ	145889	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	looking	look	_	VBG	_	4	VC	_	_
+6	over	over	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	145890	_
+8	chart	chart	_	NN	_	6	PMOD	145890	_
+9	or	or	_	CC	_	8	COORD	145890	_
+10	brochure	brochure	_	NN	_	9	CONJ	145890	_
+11	in	in	_	IN	_	8	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	145892	_
+13	nurse	nurse	_	NN	_	16	NMOD	145892	_
+14	'	'	_	POS	_	13	SUFFIX	145892	_
+15	s	s	_	NN	_	16	NMOD	145892	_
+16	station	station	_	NN	_	11	PMOD	145892	_
+17	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	171060	_
+2	child	child	_	NN	_	8	SBJ	171060	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	jeans	jean	_	NNS	_	3	PMOD	171064	_
+5	and	and	_	CC	_	2	COORD	_	_
+6	no	no	_	DT	_	7	NMOD	171062	_
+7	shirt	shirt	_	NN	_	5	CONJ	171062	_
+8	sits	sit	_	VBZ	_	0	ROOT	_	_
+9	at the top of	at the top of	_	IN	_	8	ADV	171061	8
+10	a	a	_	DT	_	11	NMOD	171061	_
+11	mound	mound	_	NN	_	9	PMOD	171061	_
+12	of	of	_	IN	_	11	NMOD	_	_
+13	rocks	rock	_	NNS	_	12	PMOD	171061	_
+14	.	.	_	.	_	8	P	_	_

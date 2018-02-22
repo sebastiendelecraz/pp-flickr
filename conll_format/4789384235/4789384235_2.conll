@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	202991	_
+2	man	man	_	NN	_	7	SBJ	202991	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	202996	_
+5	black	black	_	JJ	_	6	NMOD	202996	_
+6	vest	vest	_	NN	_	3	PMOD	202996	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	whispering	whisper	_	VBG	_	7	VC	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	202993	_
+11	ear	ear	_	NN	_	9	PMOD	202993	_
+12	of	of	_	IN	_	11	NMOD	202993	_
+13	a	a	_	DT	_	15	NMOD	202993	_
+14	smiling	smile	_	VBG	_	15	NMOD	202993	_
+15	girl	girl	_	NN	_	12	PMOD	202993	_
+16	.	.	_	.	_	7	P	_	_

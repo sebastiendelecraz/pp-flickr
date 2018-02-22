@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	110154	_
+2	man	man	_	NN	_	0	ROOT	110154	_
+3	lighting	light	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	110156	_
+5	cigarette	cigarette	_	NN	_	3	OBJ	110156	_
+6	near	near	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	110157	_
+8	dumpster	dumpster	_	NN	_	6	PMOD	110157	_
+9	in	in	_	IN	_	3	LOC	_	_
+10	an	an	_	DT	_	11	NMOD	110159	_
+11	ally	ally	_	NN	_	9	PMOD	110159	_
+12	.	.	_	.	_	0	ROOT	_	_

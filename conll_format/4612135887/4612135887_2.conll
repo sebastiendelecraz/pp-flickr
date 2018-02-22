@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	182634	_
+2	young	young	_	JJ	_	3	NMOD	182634	_
+3	boy	boy	_	NN	_	8	SBJ	182634	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	a	a	_	DT	_	7	NMOD	182637	_
+6	young	young	_	JJ	_	7	NMOD	182637	_
+7	girl	girl	_	NN	_	4	CONJ	182637	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	walking	walk	_	VBG	_	8	VC	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	rock	rock	_	NN	_	10	PMOD	182632	_
+12	across	across	_	IN	_	9	LOC	_	9
+13	a	a	_	DT	_	14	NMOD	182631	_
+14	body	body	_	NN	_	12	PMOD	182631	_
+15	of	of	_	IN	_	14	NMOD	182631	_
+16	water	water	_	NN	_	15	PMOD	182631	_
+17	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	119400	_
+2	black	black	_	JJ	_	3	NMOD	119400	_
+3	dog	dog	_	NN	_	4	SBJ	119400	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	the	the	_	DT	_	7	NMOD	119401	_
+7	beach	beach	_	NN	_	5	PMOD	119401	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	119401	_
+10	shore	shore	_	NN	_	8	PMOD	119401	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	189576	_
+2	man	man	_	NN	_	0	ROOT	189576	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	11	NMOD	189578	_
+5	dark	dark	_	JJ	_	11	NMOD	189578	_
+6	blue	blue	_	JJ	_	7	NMOD	189578	_
+7	shirt	shirt	_	NN	_	11	NMOD	189578	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	hat	hat	_	NN	_	8	CONJ	189577	_
+10	wears	wear	_	NNS	_	11	NMOD	_	_
+11	glasses	glass	_	NNS	_	3	PMOD	189580	_
+12	next to	next to	_	IN	_	2	NMOD	_	10
+13	a	a	_	DT	_	14	NMOD	189579	_
+14	taxi	taxi	_	NN	_	12	PMOD	189579	_
+15	.	.	_	.	_	0	ROOT	_	_

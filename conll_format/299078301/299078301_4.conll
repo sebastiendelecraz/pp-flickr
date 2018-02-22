@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	2	NMOD	85879	_
+2	musicians	musician	_	NNS	_	3	SBJ	85879	_
+3	practicing	practice	_	VBG	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	their	their	_	PRP$	_	7	NMOD	85880	_
+6	musical	musical	_	JJ	_	7	NMOD	85880	_
+7	instruments	instrument	_	NNS	_	4	PMOD	85880	_
+8	for	for	_	IN	_	7	NMOD	_	3
+9	tonight	tonight	_	NN	_	12	NMOD	85886	_
+10	'	'	_	''	_	12	P	85886	_
+11	s	s	_	NN	_	12	NMOD	85886	_
+12	show	show	_	NN	_	8	PMOD	85886	_
+13	.	.	_	.	_	0	ROOT	_	_

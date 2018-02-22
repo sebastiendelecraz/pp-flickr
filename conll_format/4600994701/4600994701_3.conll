@@ -1,0 +1,15 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	181587	_
+4	little	little	_	JJ	_	5	NMOD	181587	_
+5	boy	boy	_	NN	_	2	PRD	181587	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	his	his	_	PRP$	_	8	NMOD	181589	_
+8	mouth	mouth	_	NN	_	6	PMOD	181589	_
+9	open	open	_	JJ	_	5	APPO	_	_
+10	next to	next to	_	IN	_	5	NMOD	_	5
+11	a	a	_	DT	_	12	NMOD	181588	_
+12	lot	lot	_	NN	_	10	PMOD	181588	_
+13	of	of	_	IN	_	12	NMOD	181588	_
+14	sunflowers	sunflower	_	NNS	_	13	PMOD	181588	_
+15	.	.	_	.	_	2	P	_	_

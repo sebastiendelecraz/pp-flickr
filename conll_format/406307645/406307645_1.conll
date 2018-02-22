@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	153900	_
+2	skateboarder	skateboarder	_	NN	_	0	ROOT	153900	_
+3	,	,	_	,	_	0	ROOT	_	_
+4	in	in	_	IN	_	0	ROOT	_	_
+5	a	a	_	DT	_	7	NMOD	153902	_
+6	black	black	_	JJ	_	7	NMOD	153902	_
+7	shirt	shirt	_	NN	_	4	PMOD	153902	_
+8	,	,	_	,	_	0	ROOT	_	_
+9	attempting	attempt	_	VBG	_	0	ROOT	_	_
+10	to	to	_	TO	_	9	OPRD	_	_
+11	perform	perform	_	VB	_	10	IM	_	_
+12	a	a	_	DT	_	13	NMOD	0	_
+13	trick	trick	_	NN	_	11	OBJ	0	_
+14	next to	next to	_	IN	_	11	ADV	_	11
+15	a	a	_	DT	_	16	NMOD	153903	_
+16	body	body	_	NN	_	14	PMOD	153903	_
+17	of	of	_	IN	_	16	NMOD	153903	_
+18	water	water	_	NN	_	17	PMOD	153903	_
+19	.	.	_	.	_	0	ROOT	_	_

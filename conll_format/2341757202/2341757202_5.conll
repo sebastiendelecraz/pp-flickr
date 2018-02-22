@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	42849	_
+2	child	child	_	NN	_	3	SBJ	42849	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	8	NMOD	42852	_
+6	bright	bright	_	JJ	_	8	NMOD	42852	_
+7	pink	pink	_	NN	_	8	NMOD	42852	_
+8	ball	ball	_	NN	_	4	PMOD	42852	_
+9	in	in	_	IN	_	3	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	42856	_
+11	field	field	_	NN	_	9	PMOD	42856	_
+12	near	near	_	IN	_	3	LOC	_	3
+13	a	a	_	DT	_	14	NMOD	42857	_
+14	street	street	_	NN	_	12	PMOD	42857	_
+15	.	.	_	.	_	3	P	_	_

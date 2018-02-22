@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	62288	_
+2	people	people	_	NN	_	0	ROOT	62288	_
+3	standing	stand	_	VBG	_	2	APPO	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	8	NMOD	62291	_
+6	naked	naked	_	JJ	_	8	NMOD	62291	_
+7	guitar	guitar	_	NN	_	8	NMOD	62291	_
+8	player	player	_	NN	_	4	PMOD	62291	_
+9	in	in	_	IN	_	8	LOC	_	3
+10	a	a	_	DT	_	12	NMOD	62289	_
+11	busy	busy	_	JJ	_	12	NMOD	62289	_
+12	street	street	_	NN	_	9	PMOD	62289	_
+13	.	.	_	.	_	0	ROOT	_	_

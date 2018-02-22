@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	20727	_
+2	blond	blond	_	JJ	_	3	NMOD	20727	_
+3	woman	woman	_	NN	_	4	SBJ	20727	_
+4	pours	pour	_	VBZ	_	0	ROOT	_	_
+5	a	a	_	DT	_	6	NMOD	20730	_
+6	glass	glass	_	NN	_	4	OBJ	20730	_
+7	of	of	_	IN	_	6	NMOD	20730	_
+8	wine	wine	_	NN	_	7	PMOD	20730	_
+9	in	in	_	IN	_	6	LOC	_	4
+10	a	a	_	DT	_	12	NMOD	20728	_
+11	dim	dim	_	JJ	_	12	NMOD	20728	_
+12	restaurant	restaurant	_	NN	_	9	PMOD	20728	_
+13	.	.	_	.	_	4	P	_	_

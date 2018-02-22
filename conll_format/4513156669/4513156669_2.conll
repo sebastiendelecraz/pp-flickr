@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	174558	_
+2	man	man	_	NN	_	0	ROOT	174558	_
+3	talking	talk	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	174560	_
+5	photo	photo	_	NN	_	3	OBJ	174560	_
+6	of	of	_	IN	_	5	NMOD	174560	5
+7	a	a	_	DT	_	8	NMOD	174560	_
+8	band	band	_	NN	_	6	PMOD	174560	_
+9	with	with	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	174564	_
+11	drummer	drummer	_	NN	_	9	PMOD	174564	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	a	a	_	DT	_	14	NMOD	174559	_
+14	guitarist	guitarist	_	NN	_	12	CONJ	174559	_
+15	.	.	_	.	_	0	ROOT	_	_

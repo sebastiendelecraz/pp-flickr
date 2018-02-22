@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	67607	_
+2	little	little	_	JJ	_	3	NMOD	67607	_
+3	boy	boy	_	NN	_	13	SBJ	67607	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	6	NMOD	67610	_
+6	mess	mess	_	NN	_	4	PMOD	67610	_
+7	all	all	_	DT	_	8	PMOD	_	_
+8	over	over	_	IN	_	3	NMOD	_	6
+9	his	his	_	PRP$	_	10	NMOD	67611	_
+10	face	face	_	NN	_	8	PMOD	67611	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	feet	foot	_	NNS	_	11	CONJ	67612	_
+13	stands	stand	_	VBZ	_	0	ROOT	_	_
+14	next to	next to	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	67613	_
+16	door	door	_	NN	_	14	PMOD	67613	_
+17	.	.	_	.	_	13	P	_	_

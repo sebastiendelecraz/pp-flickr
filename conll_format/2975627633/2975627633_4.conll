@@ -1,0 +1,9 @@
+1	Couple	Couple	_	NNP	_	2	SBJ	85038	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	85036	_
+5	chairs	chair	_	NNS	_	3	PMOD	85036	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	85040	_
+8	backyard	backyard	_	NN	_	6	PMOD	85040	_
+9	.	.	_	.	_	0	ROOT	_	_

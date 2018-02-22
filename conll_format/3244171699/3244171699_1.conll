@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	2	NMOD	103789	_
+2	people	people	_	NN	_	3	SBJ	103789	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	talk	talk	_	VBP	_	4	CONJ	_	_
+6	about	about	_	IN	_	5	ADV	_	5
+7	the	the	_	DT	_	8	NMOD	103793	_
+8	menu	menu	_	NN	_	6	PMOD	103793	_
+9	at	at	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	12	NMOD	103791	_
+11	chinese	chinese	_	JJ	_	12	NMOD	103791	_
+12	restaurant	restaurant	_	NN	_	9	PMOD	103791	_
+13	.	.	_	.	_	3	P	_	_

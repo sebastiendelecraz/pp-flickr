@@ -1,0 +1,14 @@
+1	Overlooking	overlook	_	VBG	_	0	ROOT	_	_
+2	a	a	_	DT	_	3	NMOD	191305	_
+3	street	street	_	NN	_	1	OBJ	191305	_
+4	with	with	_	IN	_	1	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	191309	_
+6	sign	sign	_	NN	_	4	PMOD	191309	_
+7	above	above	_	IN	_	1	LOC	_	6
+8	shops	shop	_	NNS	_	7	PMOD	191312	_
+9	that	that	_	WDT	_	10	SBJ	0	_
+10	states	state	_	VBZ	_	0	ROOT	_	_
+11	Welcome	Welcome	_	NNP	_	13	NAME	191308	_
+12	To	To	_	NNP	_	13	NAME	_	_
+13	Golden	Golden	_	NNP	_	10	OBJ	191307	_
+14	.	.	_	.	_	10	P	_	_

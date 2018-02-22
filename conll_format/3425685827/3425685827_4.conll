@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	NAME	117263	_
+2	outside	outside	_	IN	_	0	ROOT	_	_
+3	sitting	sit	_	VBG	_	2	PMOD	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	117265	_
+6	grass	grass	_	NN	_	4	PMOD	117265	_
+7	under	under	_	IN	_	3	LOC	_	3
+8	cherry	cherry	_	JJ	_	10	NMOD	117264	_
+9	blossom	blossom	_	NN	_	10	NMOD	117264	_
+10	trees	tree	_	NNS	_	7	PMOD	117264	_
+11	.	.	_	.	_	0	ROOT	_	_

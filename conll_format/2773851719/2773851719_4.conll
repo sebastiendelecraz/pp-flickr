@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	72099	_
+2	lady	lady	_	NN	_	5	SBJ	72099	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	red-hair	red-hair	_	CD	_	3	PMOD	72104	_
+5	peeking	peek	_	VBG	_	0	ROOT	_	_
+6	into	into	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	72100	_
+8	back	back	_	NN	_	6	PMOD	72100	_
+9	of	of	_	IN	_	8	NMOD	72100	8
+10	a	a	_	DT	_	11	NMOD	72100	_
+11	car	car	_	NN	_	9	PMOD	72100	_
+12	.	.	_	.	_	0	ROOT	_	_

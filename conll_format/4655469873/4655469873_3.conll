@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	187402	_
+2	waiter	waiter	_	NN	_	3	SBJ	187402	_
+3	waits	wait	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	187404	_
+6	man	man	_	NN	_	9	NMOD	187404	_
+7	'	'	_	POS	_	6	SUFFIX	187404	_
+8	s	s	_	NN	_	9	NMOD	187404	_
+9	order	order	_	NN	_	4	PMOD	187404	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	a	a	_	DT	_	12	NMOD	187406	_
+12	restaurant	restaurant	_	NN	_	10	PMOD	187406	_
+13	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,15 @@
+1	An	an	_	DT	_	4	NMOD	59135	_
+2	Atlanta	Atlanta	_	NNP	_	3	NAME	59135	_
+3	Braves	Braves	_	NNPS	_	4	NMOD	59135	_
+4	player	player	_	NN	_	5	SBJ	59135	_
+5	swinging	swing	_	VBG	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	59136	_
+8	pitch	pitch	_	NN	_	6	PMOD	59136	_
+9	during	during	_	IN	_	5	TMP	_	5
+10	a	a	_	DT	_	14	NMOD	59142	_
+11	major	major	_	JJ	_	14	NMOD	59142	_
+12	league	league	_	NN	_	14	NMOD	59142	_
+13	baseball	baseball	_	NN	_	14	NMOD	59142	_
+14	game	game	_	NN	_	9	PMOD	59142	_
+15	.	.	_	.	_	0	ROOT	_	_

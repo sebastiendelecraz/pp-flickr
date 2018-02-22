@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	194946	_
+2	young	young	_	JJ	_	3	NMOD	194946	_
+3	boy	boy	_	NN	_	4	SBJ	194946	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	dressed	dress	_	VBN	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	9	NMOD	194947	_
+8	brown	brown	_	JJ	_	9	NMOD	194947	_
+9	cape	cape	_	NN	_	6	PMOD	194947	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	a	a	_	DT	_	12	NMOD	194949	_
+12	hat	hat	_	NN	_	10	CONJ	194949	_
+13	with	with	_	IN	_	5	ADV	_	_
+14	a	a	_	DT	_	16	NMOD	194948	_
+15	yellow	yellow	_	JJ	_	16	NMOD	194948	_
+16	feather	feather	_	NN	_	13	PMOD	194948	_
+17	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	3	NMOD	48690	_
+2	big	big	_	JJ	_	3	NMOD	48690	_
+3	dog	dog	_	NN	_	4	SBJ	48690	_
+4	stiffing	stiff	_	VBG	_	0	ROOT	_	_
+5	a	a	_	DT	_	7	NMOD	48692	_
+6	smaller	small	_	JJR	_	7	NMOD	48692	_
+7	dog	dog	_	NN	_	4	OBJ	48692	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	48691	_
+10	edge	edge	_	NN	_	8	PMOD	48691	_
+11	of	of	_	IN	_	10	NMOD	48691	_
+12	a	a	_	DT	_	13	NMOD	48691	_
+13	river	river	_	NN	_	11	PMOD	48691	_
+14	.	.	_	.	_	0	ROOT	_	_

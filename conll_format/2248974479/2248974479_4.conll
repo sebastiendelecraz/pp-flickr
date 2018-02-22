@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	36710	_
+2	man	man	_	NN	_	8	SBJ	36710	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	graying	gray	_	VBG	_	3	PMOD	_	_
+5	hair	hair	_	NN	_	4	OBJ	36717	_
+6	and	and	_	CC	_	2	COORD	_	_
+7	beard	beard	_	NN	_	6	CONJ	36718	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	playing	play	_	VBG	_	8	VC	_	_
+10	with	with	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	36713	_
+12	child	child	_	NN	_	10	PMOD	36713	_
+13	in	in	_	IN	_	9	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	36714	_
+15	red	red	_	JJ	_	16	NMOD	36714	_
+16	top	top	_	NN	_	13	PMOD	36714	_
+17	.	.	_	.	_	8	P	_	_

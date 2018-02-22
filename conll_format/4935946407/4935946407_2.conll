@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	220466	_
+2	man	man	_	NN	_	3	SBJ	220466	_
+3	is	be	_	VBZ	_	13	SBJ	_	_
+4	shoveling	shovel	_	VBG	_	3	VC	_	_
+5	snow	snow	_	NN	_	4	OBJ	220470	_
+6	next to	next to	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	9	NMOD	220467	_
+8	Nissan	Nissan	_	NNP	_	9	NAME	220467	_
+9	Altima	Altima	_	NNP	_	6	PMOD	220467	_
+10	with	with	_	IN	_	4	ADV	_	_
+11	New	New	_	NNP	_	12	NAME	220471	_
+12	Jersey	Jersey	_	NNP	_	10	PMOD	220471	_
+13	plates	plate	_	VBZ	_	0	ROOT	220471	_
+14	.	.	_	.	_	13	P	_	_

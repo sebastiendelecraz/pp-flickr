@@ -1,0 +1,20 @@
+1	Black	Black	_	NNP	_	2	NMOD	167602	_
+2	man	man	_	NN	_	3	SBJ	167602	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	an	an	_	DT	_	6	NMOD	167605	_
+5	orange	orange	_	JJ	_	6	NMOD	167605	_
+6	sign	sign	_	NN	_	3	OBJ	167605	_
+7	,	,	_	,	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	167604	_
+11	stool	stool	_	NN	_	9	PMOD	167604	_
+12	on	on	_	IN	_	8	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	167606	_
+14	sidewalk	sidewalk	_	NN	_	12	PMOD	167606	_
+15	next to	next to	_	IN	_	8	LOC	_	8
+16	Mc	Mc	_	NNP	_	17	NAME	167607	_
+17	Donald	Donald	_	NNP	_	19	NMOD	167607	_
+18	'	'	_	POS	_	17	SUFFIX	167607	_
+19	s	s	_	NN	_	15	PMOD	167607	_
+20	.	.	_	.	_	0	ROOT	_	_

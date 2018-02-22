@@ -1,0 +1,17 @@
+1	This	this	_	DT	_	3	NMOD	281402	_
+2	Thai	Thai	_	JJ	_	3	NMOD	281402	_
+3	boxer	boxer	_	NN	_	4	SBJ	281402	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	practicing	practice	_	VBG	_	4	VC	_	_
+6	a	a	_	DT	_	9	NMOD	281406	_
+7	high	high	_	JJ	_	9	NMOD	281406	_
+8	leg	leg	_	NN	_	9	NMOD	281406	_
+9	kick	kick	_	NN	_	5	OBJ	281406	_
+10	as	as	_	IN	_	5	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	281406	_
+12	warm	warm	_	JJ	_	13	NMOD	281406	_
+13	up	up	_	NN	_	10	PMOD	281406	_
+14	before	before	_	IN	_	5	TMP	_	5
+15	his	his	_	PRP$	_	16	NMOD	281410	_
+16	fight	fight	_	NN	_	14	PMOD	281410	_
+17	.	.	_	.	_	4	P	_	_

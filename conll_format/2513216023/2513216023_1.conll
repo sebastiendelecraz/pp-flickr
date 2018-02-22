@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	54497	_
+2	elderly	elderly	_	NN	_	3	NMOD	54497	_
+3	man	man	_	NN	_	0	ROOT	54497	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	tan	tan	_	NN	_	6	NMOD	54502	_
+6	pants	pant	_	NNS	_	4	PMOD	54502	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	a	a	_	DT	_	10	NMOD	54498	_
+9	black	black	_	JJ	_	10	NMOD	54498	_
+10	jacket	jacket	_	NN	_	7	CONJ	54498	_
+11	against	against	_	IN	_	3	NMOD	_	3
+12	a	a	_	DT	_	13	NMOD	54499	_
+13	wall	wall	_	NN	_	11	PMOD	54499	_
+14	vandalized	vandalize	_	VBN	_	13	APPO	_	_
+15	with	with	_	IN	_	14	ADV	_	_
+16	graffiti	graffito	_	NNS	_	15	PMOD	54499	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	127030	_
+2	couple	couple	_	NN	_	3	SBJ	127030	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	having	have	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	127037	_
+6	discussion	discussion	_	NN	_	4	OBJ	127037	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	9	NMOD	127034	_
+9	edge	edge	_	NN	_	7	PMOD	127034	_
+10	of	of	_	IN	_	9	NMOD	127034	9
+11	a	a	_	DT	_	12	NMOD	127034	_
+12	canal	canal	_	NN	_	10	PMOD	127034	_
+13	.	.	_	.	_	3	P	_	_

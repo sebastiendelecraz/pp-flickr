@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	49279	_
+2	man	man	_	NN	_	0	ROOT	49279	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	49280	_
+5	baby	baby	_	NN	_	3	CONJ	49280	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	on	on	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	49286	_
+9	blanket	blanket	_	NN	_	7	PMOD	49286	_
+10	on	on	_	IN	_	6	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	49281	_
+12	lawn	lawn	_	NN	_	10	PMOD	49281	_
+13	.	.	_	.	_	0	ROOT	_	_

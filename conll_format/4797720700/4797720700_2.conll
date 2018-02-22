@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	203679	_
+2	man	man	_	NN	_	6	SBJ	203679	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	203680	_
+5	dog	dog	_	NN	_	3	PMOD	203680	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	seated	seat	_	VBN	_	6	VC	_	_
+8	at	at	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	203684	_
+10	base	base	_	NN	_	8	PMOD	203684	_
+11	of	of	_	IN	_	10	NMOD	203684	_
+12	a	a	_	DT	_	13	NMOD	203684	_
+13	statue	statue	_	NN	_	11	PMOD	203684	_
+14	.	.	_	.	_	6	P	_	_

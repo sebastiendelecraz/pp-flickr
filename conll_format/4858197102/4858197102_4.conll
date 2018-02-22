@@ -1,0 +1,9 @@
+1	Man	Man	_	NNP	_	4	NMOD	211767	_
+2	holding	hold	_	VBG	_	4	NMOD	_	_
+3	crying	cry	_	VBG	_	4	NMOD	211768	_
+4	baby	baby	_	NN	_	0	ROOT	211768	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	chair	chair	_	NN	_	5	PMOD	211774	_
+7	near	near	_	IN	_	4	LOC	_	2
+8	window	window	_	NN	_	7	PMOD	211775	_
+9	.	.	_	.	_	0	ROOT	_	_

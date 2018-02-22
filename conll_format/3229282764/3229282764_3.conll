@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	102775	_
+2	girl	girl	_	NN	_	3	SBJ	102775	_
+3	running	run	_	VBG	_	0	ROOT	_	_
+4	toward	toward	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	102776	_
+6	man	man	_	NN	_	4	PMOD	102776	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	9	NMOD	102777	_
+9	beach	beach	_	NN	_	7	PMOD	102777	_
+10	.	.	_	.	_	0	ROOT	_	_

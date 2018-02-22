@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	164425	_
+2	clowns	clown	_	NNS	_	0	ROOT	164425	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	makeup	makeup	_	NN	_	4	PMOD	164427	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	elaborate	elaborate	_	JJ	_	9	NMOD	164434	_
+8	clothing	clothing	_	NN	_	9	NMOD	164434	_
+9	stand	stand	_	NN	_	6	CONJ	_	_
+10	together with	together with	_	IN	_	3	ADV	_	9
+11	their	their	_	PRP$	_	12	NMOD	164432	_
+12	instruments	instrument	_	NNS	_	10	PMOD	164432	_
+13	.	.	_	.	_	0	ROOT	_	_

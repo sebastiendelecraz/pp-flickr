@@ -1,0 +1,17 @@
+1	Man	Man	_	NNP	_	0	ROOT	34867	_
+2	with	with	_	IN	_	0	ROOT	_	_
+3	black	black	_	JJ	_	4	NMOD	34868	_
+4	hat	hat	_	NN	_	2	PMOD	34868	_
+5	,	,	_	,	_	4	P	_	_
+6	coat	coat	_	NN	_	4	COORD	34874	_
+7	,	,	_	,	_	6	P	_	_
+8	and	and	_	CC	_	6	COORD	_	_
+9	pants	pant	_	NNS	_	8	CONJ	34875	_
+10	sitting	sit	_	VBG	_	9	APPO	_	_
+11	next to	next to	_	IN	_	10	ADV	_	10
+12	the	the	_	DT	_	13	NMOD	34869	_
+13	door	door	_	NN	_	11	PMOD	34869	_
+14	of	of	_	IN	_	13	NMOD	34869	13
+15	a	a	_	DT	_	16	NMOD	34869	_
+16	building	building	_	NN	_	14	PMOD	34869	_
+17	.	.	_	.	_	0	ROOT	_	_

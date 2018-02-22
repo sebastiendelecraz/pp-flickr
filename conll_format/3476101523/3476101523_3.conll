@@ -1,0 +1,11 @@
+1	Soccer	Soccer	_	NNP	_	2	NMOD	121149	_
+2	players	player	_	NNS	_	0	ROOT	121149	_
+3	all	all	_	DT	_	4	NMOD	121150	_
+4	gathered	gather	_	VBN	_	2	APPO	_	_
+5	on	on	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	7	NMOD	121146	_
+7	field	field	_	NN	_	5	PMOD	121146	_
+8	for	for	_	IN	_	4	TMP	_	4
+9	a	a	_	DT	_	10	NMOD	121151	_
+10	game	game	_	NN	_	8	PMOD	121151	_
+11	.	.	_	.	_	0	ROOT	_	_

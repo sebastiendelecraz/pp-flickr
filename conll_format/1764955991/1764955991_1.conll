@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	20070	_
+2	dog	dog	_	NN	_	9	SBJ	20070	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	20071	_
+5	ball	ball	_	NN	_	3	PMOD	20071	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	his	his	_	PRP$	_	8	NMOD	20076	_
+8	mouth	mouth	_	NN	_	6	PMOD	20076	_
+9	running	run	_	VBG	_	0	ROOT	_	_
+10	down	down	_	RP	_	9	PRT	_	_
+11	a	a	_	DT	_	12	NMOD	20072	_
+12	road	road	_	NN	_	9	OBJ	20072	_
+13	covered	cover	_	VBN	_	12	APPO	_	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	leaves	leave	_	VBZ	_	14	PMOD	20075	_
+16	.	.	_	.	_	0	ROOT	_	_

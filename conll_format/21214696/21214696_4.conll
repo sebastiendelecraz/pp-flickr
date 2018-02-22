@@ -1,0 +1,18 @@
+1	Two	Two	_	CD	_	3	NMOD	29954	_
+2	young	young	_	JJ	_	3	NMOD	29954	_
+3	men	man	_	NNS	_	0	ROOT	29954	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	29955	_
+6	boat	boat	_	NN	_	4	PMOD	29955	_
+7	heading	head	_	VBG	_	6	APPO	_	_
+8	away from	away from	_	IN	_	7	DIR	_	7
+9	a	a	_	DT	_	11	NMOD	29957	_
+10	larger	large	_	JJR	_	11	NMOD	29957	_
+11	boat	boat	_	NN	_	8	PMOD	29957	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	a	a	_	DT	_	15	NMOD	29958	_
+14	single	single	_	JJ	_	15	NMOD	29958	_
+15	man	man	_	NN	_	12	PMOD	29958	_
+16	on	on	_	IN	_	7	ADV	_	_
+17	it	it	_	PRP	_	16	PMOD	0	_
+18	.	.	_	.	_	0	ROOT	_	_

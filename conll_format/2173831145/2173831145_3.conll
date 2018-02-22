@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	32284	_
+2	people	people	_	NN	_	0	ROOT	32284	_
+3	searching	search	_	VBG	_	2	APPO	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	something	something	_	NN	_	4	PMOD	32296	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	32285	_
+8	woods	wood	_	NNS	_	6	PMOD	32285	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	winter	winter	_	NN	_	11	NMOD	32297	_
+11	time	time	_	NN	_	9	PMOD	32297	_
+12	.	.	_	.	_	0	ROOT	_	_

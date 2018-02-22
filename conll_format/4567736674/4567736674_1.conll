@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	179281	_
+2	picture	picture	_	NN	_	0	ROOT	179281	_
+3	of	of	_	IN	_	2	NMOD	179281	_
+4	people	people	_	NN	_	3	PMOD	179281	_
+5	congregated	congregate	_	VBN	_	4	APPO	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	179284	_
+8	street	street	_	NN	_	9	NMOD	179284	_
+9	sign	sign	_	NN	_	6	PMOD	179284	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	french	french	_	NN	_	10	PMOD	179285	_
+12	.	.	_	.	_	0	ROOT	_	_

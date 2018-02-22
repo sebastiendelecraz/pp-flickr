@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	2	NMOD	90672	_
+2	people	people	_	NN	_	3	SBJ	90672	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	90673	_
+7	bench	bench	_	NN	_	5	PMOD	90673	_
+8	in front of	in front of	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	90674	_
+10	body	body	_	NN	_	8	PMOD	90674	_
+11	of	of	_	IN	_	10	NMOD	90674	_
+12	water	water	_	NN	_	11	PMOD	90674	_
+13	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	247936	_
+2	group	group	_	NN	_	5	SBJ	247936	_
+3	of	of	_	IN	_	2	NMOD	247936	_
+4	backpackers	backpacker	_	NNS	_	3	PMOD	247936	_
+5	treks	trek	_	VBZ	_	0	ROOT	247936	_
+6	across	across	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	247937	_
+8	green	green	_	JJ	_	9	NMOD	247937	_
+9	hill	hill	_	NN	_	6	PMOD	247937	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	snowcapped	snowcapped	_	JJ	_	12	NMOD	247940	_
+12	mountains	mountain	_	NNS	_	10	PMOD	247940	_
+13	off	off	_	IN	_	5	ADV	_	_
+14	in	in	_	IN	_	13	TMP	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	distance	distance	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	5	P	_	_

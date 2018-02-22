@@ -1,0 +1,17 @@
+1	Several	several	_	DT	_	3	NMOD	32440	_
+2	smiling	smile	_	VBG	_	3	NMOD	32440	_
+3	people	people	_	NN	_	0	ROOT	32440	_
+4	of	of	_	IN	_	3	NMOD	_	_
+5	varying	vary	_	VBG	_	4	PMOD	_	_
+6	ages	age	_	NNS	_	5	OBJ	32447	_
+7	sitting	sit	_	VBG	_	5	OPRD	_	_
+8	around	around	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	32441	_
+10	table	table	_	NN	_	8	PMOD	32441	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	glasses	glass	_	NNS	_	11	PMOD	32443	_
+13	of	of	_	IN	_	12	NMOD	32443	_
+14	beer	beer	_	NN	_	13	PMOD	32443	_
+15	in front of	in front of	_	IN	_	7	ADV	_	_
+16	them	them	_	PRP	_	15	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	71719	_
+2	man	man	_	NN	_	0	ROOT	71719	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	his	his	_	PRP$	_	5	NMOD	71727	_
+5	arm	arm	_	NN	_	3	PMOD	71727	_
+6	around	around	_	IN	_	2	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	71721	_
+8	lady	lady	_	NN	_	6	PMOD	71721	_
+9	in	in	_	IN	_	2	LOC	_	8
+10	a	a	_	DT	_	12	NMOD	71722	_
+11	brown	brown	_	JJ	_	12	NMOD	71722	_
+12	jacket	jacket	_	NN	_	9	PMOD	71722	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	6	NMOD	137460	_
+2	chubby	chubby	_	JJ	_	6	NMOD	137460	_
+3	,	,	_	,	_	6	P	137460	_
+4	redheaded	redheaded	_	JJ	_	6	NMOD	137460	_
+5	child	child	_	NN	_	6	NMOD	137460	_
+6	swings	swing	_	NNS	_	8	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	137462	_
+8	bat	bat	_	NN	_	0	ROOT	137462	_
+9	at	at	_	IN	_	8	LOC	_	6
+10	a	a	_	DT	_	11	NMOD	137461	_
+11	ball	ball	_	NN	_	9	PMOD	137461	_
+12	on	on	_	IN	_	8	NMOD	_	_
+13	a	a	_	DT	_	14	NMOD	137465	_
+14	tee	tee	_	NN	_	12	PMOD	137465	_
+15	.	.	_	.	_	0	ROOT	_	_

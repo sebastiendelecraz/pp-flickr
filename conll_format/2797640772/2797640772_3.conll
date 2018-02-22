@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	3	NMOD	73523	_
+2	eclectic	eclectic	_	NN	_	3	NMOD	73523	_
+3	group	group	_	NN	_	8	SBJ	73523	_
+4	of	of	_	IN	_	3	NMOD	73523	_
+5	musicians	musician	_	NNS	_	4	PMOD	73523	_
+6	and	and	_	CC	_	5	COORD	73523	_
+7	actors	actor	_	NNS	_	6	CONJ	73523	_
+8	perform	perform	_	VBP	_	0	ROOT	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	73518	_
+11	group	group	_	NN	_	9	PMOD	73518	_
+12	of	of	_	IN	_	11	NMOD	73518	_
+13	tourists	tourist	_	NNS	_	12	PMOD	73518	_
+14	.	.	_	.	_	8	P	_	_

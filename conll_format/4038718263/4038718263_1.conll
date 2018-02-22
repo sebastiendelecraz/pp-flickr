@@ -1,0 +1,20 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	two	two	_	CD	_	5	NMOD	152863	_
+4	shadowy	shadowy	_	JJ	_	5	NMOD	152863	_
+5	men	man	_	NNS	_	2	SBJ	152863	_
+6	standing	stand	_	VBG	_	5	APPO	_	_
+7	along	along	_	IN	_	6	ADV	_	6
+8	side	side	_	NN	_	7	PMOD	_	_
+9	a	a	_	DT	_	10	NMOD	152864	_
+10	stream	stream	_	NN	_	6	OBJ	152864	_
+11	that	that	_	WDT	_	12	SBJ	0	_
+12	runs	run	_	VBZ	_	10	NMOD	_	_
+13	through	through	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	16	NMOD	152865	_
+15	paved	pave	_	VBN	_	16	NMOD	152865	_
+16	courtyard	courtyard	_	NN	_	13	PMOD	152865	_
+17	in front of	in front of	_	IN	_	12	LOC	_	_
+18	some	some	_	DT	_	19	NMOD	152870	_
+19	stairs	stair	_	NNS	_	17	PMOD	152870	_
+20	.	.	_	.	_	2	P	_	_

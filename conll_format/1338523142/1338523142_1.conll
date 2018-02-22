@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	9159	_
+2	man	man	_	NN	_	0	ROOT	9159	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	9	NMOD	9160	_
+5	black	black	_	JJ	_	9	NMOD	9160	_
+6	and	and	_	CC	_	5	COORD	9160	_
+7	blue	blue	_	JJ	_	6	CONJ	9160	_
+8	backpack	backpack	_	NN	_	9	NMOD	9160	_
+9	hikes	hike	_	NNS	_	3	PMOD	_	_
+10	down	down	_	IN	_	9	NMOD	_	9
+11	a	a	_	DT	_	13	NMOD	9161	_
+12	rock	rock	_	NN	_	13	NMOD	9161	_
+13	face	face	_	NN	_	10	PMOD	9161	_
+14	.	.	_	.	_	0	ROOT	_	_

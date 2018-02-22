@@ -1,0 +1,28 @@
+1	A	a	_	DT	_	2	NMOD	204708	_
+2	boy	boy	_	NN	_	7	SBJ	204708	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	204728	_
+5	blue	blue	_	JJ	_	6	NMOD	204728	_
+6	shirt	shirt	_	NN	_	3	PMOD	204728	_
+7	looks	look	_	VBZ	_	21	SBJ	_	_
+8	away from	away from	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	10	NMOD	0	_
+10	camera	camera	_	NN	_	8	PMOD	0	_
+11	as	as	_	IN	_	7	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	204710	_
+13	girl	girl	_	NN	_	11	PMOD	204710	_
+14	in	in	_	IN	_	7	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	204729	_
+16	pink	pink	_	NN	_	14	PMOD	204729	_
+17	and	and	_	CC	_	16	COORD	204729	_
+18	orange	orange	_	JJ	_	20	NMOD	204729	_
+19	bathing	bathing	_	NN	_	20	NMOD	204729	_
+20	suit	suit	_	NN	_	17	CONJ	204729	_
+21	stares	stare	_	VBZ	_	0	ROOT	_	_
+22	into	into	_	IN	_	21	ADV	_	21
+23	the	the	_	DT	_	24	NMOD	0	_
+24	camera	camera	_	NN	_	22	PMOD	0	_
+25	in front of	in front of	_	IN	_	21	LOC	_	_
+26	an	an	_	DT	_	27	NMOD	204711	_
+27	RV	RV	_	NNP	_	25	PMOD	204711	_
+28	.	.	_	.	_	21	P	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	61478	_
+2	possibly	possibly	_	RB	_	3	AMOD	61478	_
+3	drunken	drunken	_	JJ	_	4	NMOD	61478	_
+4	man	man	_	NN	_	5	SBJ	61478	_
+5	lays	lay	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	0	_
+8	ground	ground	_	NN	_	6	PMOD	0	_
+9	beside	beside	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	12	NMOD	61479	_
+11	busy	busy	_	JJ	_	12	NMOD	61479	_
+12	road	road	_	NN	_	9	PMOD	61479	_
+13	.	.	_	.	_	5	P	_	_

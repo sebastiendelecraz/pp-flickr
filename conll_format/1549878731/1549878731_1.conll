@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	16119	_
+2	child	child	_	NN	_	3	SBJ	16119	_
+3	lies	lie	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	0	_
+6	ground	ground	_	NN	_	4	PMOD	0	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	16120	_
+9	ball	ball	_	NN	_	7	PMOD	16120	_
+10	in front of	in front of	_	IN	_	3	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	16121	_
+12	parked	park	_	VBN	_	13	NMOD	16121	_
+13	car	car	_	NN	_	10	PMOD	16121	_
+14	the	the	_	DT	_	15	NMOD	16124	_
+15	leads	lead	_	NNS	_	0	ROOT	16124	_
+16	a	a	_	DT	_	17	NMOD	16121	_
+17	line	line	_	NN	_	15	ADV	16121	_
+18	of	of	_	IN	_	17	NMOD	16121	_
+19	parked	park	_	VBN	_	20	NMOD	16121	_
+20	cars	car	_	NNS	_	18	PMOD	16121	_
+21	on	on	_	IN	_	15	TMP	_	_
+22	the	the	_	DT	_	23	NMOD	16122	_
+23	shoulder	shoulder	_	NN	_	21	PMOD	16122	_
+24	of	of	_	IN	_	23	NMOD	16122	_
+25	a	a	_	DT	_	26	NMOD	16122	_
+26	road	road	_	NN	_	24	PMOD	16122	_
+27	.	.	_	.	_	15	P	_	_

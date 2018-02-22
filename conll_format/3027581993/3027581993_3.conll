@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	88537	_
+2	person	person	_	NN	_	11	SBJ	88537	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	88540	_
+5	red	red	_	JJ	_	6	NMOD	88540	_
+6	scarf	scarf	_	NN	_	3	OBJ	88540	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	a	a	_	DT	_	10	NMOD	88538	_
+9	black	black	_	JJ	_	10	NMOD	88538	_
+10	jacket	jacket	_	NN	_	7	CONJ	88538	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	standing	stand	_	VBG	_	11	VC	_	_
+13	in front of	in front of	_	IN	_	12	ADV	_	_
+14	a	a	_	DT	_	17	NMOD	88541	_
+15	small	small	_	JJ	_	17	NMOD	88541	_
+16	roadside	roadside	_	NN	_	17	NMOD	88541	_
+17	shop	shop	_	NN	_	13	PMOD	88541	_
+18	next to	next to	_	IN	_	12	ADV	_	12
+19	a	a	_	DT	_	20	NMOD	88539	_
+20	motorcycle	motorcycle	_	NN	_	18	PMOD	88539	_
+21	and	and	_	CC	_	12	COORD	_	_
+22	waving	wave	_	VBG	_	21	CONJ	_	_
+23	.	.	_	.	_	11	P	_	_

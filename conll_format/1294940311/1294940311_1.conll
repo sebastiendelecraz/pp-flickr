@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	7612	_
+2	woman	woman	_	NN	_	3	SBJ	7612	_
+3	drinking	drink	_	VBG	_	0	ROOT	_	_
+4	an	an	_	DT	_	6	NMOD	7613	_
+5	iced	ice	_	VBN	_	6	NMOD	7613	_
+6	beverage	beverage	_	NN	_	3	OBJ	7613	_
+7	through	through	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	7614	_
+9	straw	straw	_	NN	_	7	PMOD	7614	_
+10	in	in	_	IN	_	3	LOC	_	3
+11	a	a	_	DT	_	14	NMOD	7615	_
+12	dimly	dimly	_	RB	_	13	AMOD	7615	_
+13	lit	lit	_	JJ	_	14	NMOD	7615	_
+14	room	room	_	NN	_	10	PMOD	7615	_
+15	.	.	_	.	_	0	ROOT	_	_

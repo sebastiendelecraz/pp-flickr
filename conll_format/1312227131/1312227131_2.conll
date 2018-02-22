@@ -1,0 +1,9 @@
+1	Sled	Sled	_	NNP	_	2	SBJ	8311	_
+2	dogs	dog	_	VBZ	_	0	ROOT	8311	_
+3	trekking	trek	_	VBG	_	2	OPRD	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	snow	snow	_	NN	_	4	PMOD	8313	_
+6	near	near	_	IN	_	5	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	8315	_
+8	forest	forest	_	NN	_	6	PMOD	8315	_
+9	.	.	_	.	_	2	P	_	_

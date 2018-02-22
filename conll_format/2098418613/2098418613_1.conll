@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	5	NMOD	28587	_
+2	brown	brown	_	JJ	_	5	NMOD	28587	_
+3	chow	chow	_	NN	_	4	NMOD	28587	_
+4	mix	mix	_	NN	_	5	NMOD	28587	_
+5	dog	dog	_	NN	_	6	SBJ	28587	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	in front of	in front of	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	28588	_
+10	van	van	_	NN	_	8	PMOD	28588	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	euro	euro	_	NN	_	13	NMOD	28593	_
+13	plats	plat	_	NNS	_	11	PMOD	28593	_
+14	in the middle of	in the middle of	_	IN	_	7	ADV	28589	7
+15	a	a	_	DT	_	17	NMOD	28589	_
+16	messy	messy	_	JJ	_	17	NMOD	28589	_
+17	yard	yard	_	NN	_	14	PMOD	28589	_
+18	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	174899	_
+2	woman	woman	_	NN	_	11	SBJ	174899	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	174903	_
+5	blue	blue	_	JJ	_	6	NMOD	174903	_
+6	sweater	sweater	_	NN	_	3	PMOD	174903	_
+7	over	over	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	10	NMOD	174909	_
+9	red	red	_	JJ	_	10	NMOD	174909	_
+10	shirt	shirt	_	NN	_	7	PMOD	174909	_
+11	sits	sit	_	VBZ	_	0	ROOT	_	_
+12	on	on	_	IN	_	11	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	174904	_
+14	blanket	blanket	_	NN	_	12	PMOD	174904	_
+15	with	with	_	IN	_	11	MNR	_	_
+16	a	a	_	DT	_	17	NMOD	174898	_
+17	man	man	_	NN	_	15	PMOD	174898	_
+18	holding	hold	_	VBG	_	17	APPO	_	_
+19	a	a	_	DT	_	21	NMOD	174901	_
+20	red	red	_	JJ	_	21	NMOD	174901	_
+21	cup	cup	_	NN	_	18	OBJ	174901	_
+22	in front of	in front of	_	IN	_	11	LOC	_	_
+23	his	his	_	PRP$	_	24	NMOD	174912	_
+24	face	face	_	NN	_	22	PMOD	174912	_
+25	.	.	_	.	_	11	P	_	_

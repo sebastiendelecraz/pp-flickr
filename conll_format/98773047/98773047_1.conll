@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	2	SBJ	285033	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	at	at	_	IN	_	2	ADV	_	_
+4	and	and	_	CC	_	2	COORD	_	_
+5	walking	walk	_	VBG	_	4	CONJ	_	_
+6	around	around	_	IN	_	5	ADV	_	_
+7	out	out	_	IN	_	5	DIR	_	5
+8	front	front	_	NN	_	7	PMOD	285034	_
+9	of	of	_	IN	_	8	NMOD	285034	_
+10	a	a	_	DT	_	12	NMOD	285034	_
+11	sweets	sweet	_	NNS	_	12	NMOD	285034	_
+12	cafe	cafe	_	NN	_	9	PMOD	285034	_
+13	.	.	_	.	_	0	ROOT	_	_

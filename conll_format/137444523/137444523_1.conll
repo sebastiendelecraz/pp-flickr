@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	10537	_
+2	man	man	_	NN	_	9	SBJ	10537	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	10539	_
+5	green	green	_	JJ	_	6	NMOD	10539	_
+6	shirt	shirt	_	NN	_	3	PMOD	10539	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	backpack	backpack	_	NN	_	7	CONJ	10538	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	standing	stand	_	VBG	_	9	VC	_	_
+11	under	under	_	IN	_	10	ADV	_	10
+12	cover	cover	_	NN	_	11	PMOD	10542	_
+13	along with	along with	_	IN	_	10	ADV	_	10
+14	a	a	_	DT	_	15	NMOD	10540	_
+15	woman	woman	_	NN	_	13	PMOD	10540	_
+16	behind	behind	_	IN	_	15	NMOD	_	_
+17	him	him	_	PRP	_	16	PMOD	0	_
+18	taking	take	_	VBG	_	15	APPO	_	_
+19	a	a	_	DT	_	20	NMOD	10546	_
+20	picture	picture	_	NN	_	18	OBJ	10546	_
+21	.	.	_	.	_	9	P	_	_

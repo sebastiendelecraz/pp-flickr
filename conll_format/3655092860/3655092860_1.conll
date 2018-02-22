@@ -1,0 +1,26 @@
+1	A	a	_	DT	_	3	NMOD	134511	_
+2	young	young	_	JJ	_	3	NMOD	134511	_
+3	couple	couple	_	NN	_	4	SBJ	134511	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	caught	caught	_	VBN	_	4	VC	_	_
+6	in the middle of	in the middle of	_	IN	_	5	ADV	134512	5
+7	a	a	_	DT	_	8	NMOD	134512	_
+8	kiss	kiss	_	NN	_	6	PMOD	134512	_
+9	while	while	_	IN	_	5	ADV	_	_
+10	standing	stand	_	VBG	_	9	SUB	_	_
+11	at	at	_	IN	_	10	ADV	_	_
+12	the	the	_	DT	_	13	NMOD	134513	_
+13	edge	edge	_	NN	_	11	PMOD	134513	_
+14	of	of	_	IN	_	13	NMOD	134513	_
+15	a	a	_	DT	_	16	NMOD	134513	_
+16	stream	stream	_	NN	_	14	PMOD	134513	_
+17	with	with	_	IN	_	16	NMOD	_	_
+18	an	an	_	DT	_	21	NMOD	134518	_
+19	expansive	expansive	_	JJ	_	21	NMOD	134518	_
+20	green	green	_	JJ	_	21	NMOD	134518	_
+21	field	field	_	NN	_	17	PMOD	134518	_
+22	on	on	_	IN	_	13	LOC	_	_
+23	the	the	_	DT	_	25	NMOD	0	_
+24	other	other	_	JJ	_	25	NMOD	0	_
+25	side	side	_	NN	_	22	PMOD	0	_
+26	.	.	_	.	_	4	P	_	_

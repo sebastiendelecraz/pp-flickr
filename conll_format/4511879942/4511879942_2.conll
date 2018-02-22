@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	174409	_
+2	woman	woman	_	NN	_	11	SBJ	174409	_
+3	next to	next to	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	174410	_
+5	subway	subway	_	NN	_	6	NMOD	174410	_
+6	entrance	entrance	_	NN	_	3	PMOD	174410	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	174416	_
+9	tan	tan	_	NN	_	10	NMOD	174416	_
+10	coat	coat	_	NN	_	7	PMOD	174416	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	asking	ask	_	VBG	_	11	VC	_	_
+13	a	a	_	DT	_	14	NMOD	174411	_
+14	woman	woman	_	NN	_	12	OBJ	174411	_
+15	in	in	_	IN	_	14	LOC	_	_
+16	a	a	_	DT	_	19	NMOD	174417	_
+17	pink	pink	_	NN	_	18	NMOD	174417	_
+18	coat	coat	_	NN	_	19	NMOD	174417	_
+19	directions	direction	_	NNS	_	15	PMOD	_	_
+20	.	.	_	.	_	11	P	_	_

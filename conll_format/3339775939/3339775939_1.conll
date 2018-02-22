@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	110846	_
+2	woman	woman	_	NN	_	3	SBJ	110846	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	before	before	_	IN	_	4	TMP	_	4
+6	an	an	_	DT	_	7	NMOD	110847	_
+7	assortment	assortment	_	NN	_	5	PMOD	110847	_
+8	of	of	_	IN	_	7	NMOD	110847	_
+9	fruit	fruit	_	NN	_	8	PMOD	110847	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	vegetables	vegetable	_	NNS	_	10	CONJ	110849	_
+12	.	.	_	.	_	3	P	_	_

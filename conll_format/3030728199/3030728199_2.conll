@@ -1,0 +1,21 @@
+1	The	the	_	DT	_	2	NMOD	88765	_
+2	swimmer	swimmer	_	NN	_	7	SBJ	88765	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	6	NMOD	88766	_
+5	middle	middle	_	NN	_	6	NMOD	88766	_
+6	lane	lane	_	NN	_	3	PMOD	88766	_
+7	appears	appear	_	VBZ	_	0	ROOT	_	_
+8	to	to	_	TO	_	7	OPRD	_	_
+9	be	be	_	VB	_	8	IM	_	_
+10	ahead of	ahead of	_	IN	_	9	PRD	_	9
+11	the	the	_	DT	_	12	NMOD	88761	_
+12	swimmers	swimmer	_	NNS	_	10	PMOD	88761	_
+13	in	in	_	IN	_	9	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	88764	_
+15	lanes	lane	_	NNS	_	13	PMOD	88764	_
+16	on	on	_	IN	_	15	NMOD	_	_
+17	each	each	_	DT	_	18	NMOD	0	_
+18	side	side	_	NN	_	16	PMOD	0	_
+19	of	of	_	IN	_	18	NMOD	0	_
+20	him	him	_	PRP	_	19	PMOD	0	_
+21	.	.	_	.	_	7	P	_	_

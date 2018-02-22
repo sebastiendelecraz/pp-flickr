@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	3	NMOD	50964	_
+2	black	black	_	JJ	_	3	NMOD	50964	_
+3	dog	dog	_	NN	_	0	ROOT	50964	_
+4	jumping	jump	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	50967	_
+6	wire	wire	_	NN	_	7	NMOD	50967	_
+7	fence	fence	_	NN	_	4	OBJ	50967	_
+8	with	with	_	IN	_	7	NMOD	_	4
+9	a	a	_	DT	_	11	NMOD	50965	_
+10	dead	dead	_	JJ	_	11	NMOD	50965	_
+11	bird	bird	_	NN	_	8	PMOD	50965	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	his	his	_	PRP$	_	14	NMOD	50966	_
+14	mouth	mouth	_	NN	_	12	PMOD	50966	_
+15	.	.	_	.	_	0	ROOT	_	_

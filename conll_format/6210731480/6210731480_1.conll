@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	250192	_
+2	man	man	_	NN	_	0	ROOT	250192	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	250194	_
+5	wife-beater	wife-beater	_	CD	_	6	NMOD	250194	_
+6	sings	sing	_	NNS	_	3	OBJ	_	_
+7	into	into	_	IN	_	3	DIR	_	6
+8	a	a	_	DT	_	9	NMOD	250193	_
+9	microphone	microphone	_	NN	_	7	PMOD	250193	_
+10	as	as	_	IN	_	3	ADV	_	_
+11	a	a	_	DT	_	14	NMOD	250195	_
+12	blue	blue	_	JJ	_	14	NMOD	250195	_
+13	light	light	_	NN	_	14	NMOD	250195	_
+14	shines	shine	_	NNS	_	10	PMOD	_	_
+15	on	on	_	IN	_	3	ADV	_	_
+16	him	him	_	PRP	_	15	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

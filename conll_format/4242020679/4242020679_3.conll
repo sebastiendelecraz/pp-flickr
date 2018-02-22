@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	160079	_
+2	teams	team	_	NNS	_	3	SBJ	160079	_
+3	play	play	_	VBP	_	0	ROOT	_	_
+4	each	each	_	DT	_	5	NMOD	0	_
+5	other	other	_	JJ	_	3	OBJ	0	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	160077	_
+8	soccer	soccer	_	NN	_	9	NMOD	160077	_
+9	match	match	_	NN	_	6	PMOD	160077	_
+10	in	in	_	IN	_	9	LOC	_	3
+11	America	America	_	NNP	_	10	PMOD	160082	_
+12	.	.	_	.	_	3	P	_	_

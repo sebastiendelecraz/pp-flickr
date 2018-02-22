@@ -1,0 +1,10 @@
+1	Young	Young	_	NNP	_	2	NMOD	225760	_
+2	boy	boy	_	NN	_	5	SBJ	225760	_
+3	in	in	_	IN	_	5	ADV	_	_
+4	hat	hat	_	NN	_	3	PMOD	225762	_
+5	posing	pose	_	VBG	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	225761	_
+8	chinese	chinese	_	JJ	_	9	NMOD	225761	_
+9	market	market	_	NN	_	6	PMOD	225761	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	Girl	Girl	_	NNP	_	2	SBJ	9626	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	along	along	_	RB	_	5	NMOD	_	_
+4	the	the	_	DT	_	5	NMOD	9631	_
+5	tops	top	_	NNS	_	2	OBJ	9631	_
+6	of	of	_	IN	_	5	NMOD	9631	_
+7	wooden	wooden	_	JJ	_	8	NMOD	9631	_
+8	posts	post	_	NNS	_	6	PMOD	9631	_
+9	set	set	_	VBN	_	8	APPO	_	_
+10	into	into	_	IN	_	9	ADV	_	9
+11	sand	sand	_	NN	_	10	PMOD	9627	_
+12	on	on	_	IN	_	9	TMP	_	2
+13	a	a	_	DT	_	14	NMOD	9627	_
+14	beach	beach	_	NN	_	12	PMOD	9627	_
+15	.	.	_	.	_	0	ROOT	_	_

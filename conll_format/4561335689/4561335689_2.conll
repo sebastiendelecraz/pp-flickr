@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	178621	_
+2	candid	candid	_	JJ	_	3	NMOD	178621	_
+3	photo	photo	_	NN	_	0	ROOT	178621	_
+4	of	of	_	IN	_	3	NMOD	178621	3
+5	a	a	_	DT	_	6	NMOD	178621	_
+6	boy	boy	_	NN	_	4	PMOD	178621	_
+7	wearing	wear	_	VBG	_	6	APPO	_	_
+8	a	a	_	DT	_	10	NMOD	178624	_
+9	striped	stripe	_	VBN	_	10	NMOD	178624	_
+10	shirt	shirt	_	NN	_	7	OBJ	178624	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	people	people	_	NN	_	11	PMOD	178625	_
+13	in	in	_	IN	_	10	LOC	_	_
+14	background	background	_	NN	_	13	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

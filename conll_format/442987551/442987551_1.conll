@@ -1,0 +1,34 @@
+1	A	a	_	DT	_	6	NMOD	167391	_
+2	very	very	_	RB	_	3	AMOD	167391	_
+3	young	young	_	JJ	_	6	NMOD	167391	_
+4	toddler	toddler	_	NN	_	5	NMOD	167391	_
+5	age	age	_	NN	_	6	NMOD	167391	_
+6	girl	girl	_	NN	_	26	NMOD	167391	_
+7	holding	hold	_	VBG	_	6	APPO	_	_
+8	a	a	_	DT	_	9	NMOD	167396	_
+9	whisk	whisk	_	NN	_	7	OBJ	167396	_
+10	standing	stand	_	VBG	_	9	APPO	_	_
+11	in front of	in front of	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	14	NMOD	167392	_
+13	glass	glass	_	NN	_	14	NMOD	167392	_
+14	bowl	bowl	_	NN	_	11	PMOD	167392	_
+15	with	with	_	IN	_	14	NMOD	_	_
+16	white	white	_	JJ	_	17	NMOD	167394	_
+17	powder	powder	_	NN	_	15	PMOD	167394	_
+18	,	,	_	,	_	6	P	_	_
+19	and	and	_	CC	_	6	COORD	_	_
+20	red	red	_	JJ	_	19	CONJ	167397	_
+21	,	,	_	,	_	20	P	167397	_
+22	yellow	yellow	_	JJ	_	20	COORD	167397	_
+23	,	,	_	,	_	22	P	167397	_
+24	and	and	_	CC	_	22	COORD	167397	_
+25	brown	brown	_	JJ	_	24	CONJ	167397	_
+26	bags	bag	_	NNS	_	0	ROOT	167397	_
+27	that	that	_	WDT	_	28	SBJ	0	_
+28	sit	sit	_	VBP	_	0	ROOT	_	_
+29	on	on	_	IN	_	28	LOC	_	_
+30	a	a	_	DT	_	31	NMOD	167393	_
+31	counter	counter	_	NN	_	29	PMOD	167393	_
+32	in front of	in front of	_	IN	_	0	ROOT	_	_
+33	her	her	_	PRP$	_	0	ROOT	0	_
+34	.	.	_	.	_	0	ROOT	_	_

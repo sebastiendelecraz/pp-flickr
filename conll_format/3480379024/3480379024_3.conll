@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	121485	_
+2	cyclists	cyclist	_	NNS	_	3	NMOD	121485	_
+3	race	race	_	NN	_	0	ROOT	_	_
+4	along	along	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	121487	_
+6	edge	edge	_	NN	_	4	PMOD	121487	_
+7	of	of	_	IN	_	6	NMOD	121487	_
+8	a	a	_	DT	_	9	NMOD	121487	_
+9	roadway	roadway	_	NN	_	7	PMOD	121487	_
+10	.	.	_	.	_	0	ROOT	_	_

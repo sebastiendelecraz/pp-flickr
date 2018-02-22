@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	115354	_
+2	fluffy	fluffy	_	JJ	_	4	NMOD	115354	_
+3	brown	brown	_	NN	_	4	NMOD	115354	_
+4	dog	dog	_	NN	_	5	SBJ	115354	_
+5	jumping	jump	_	VBG	_	0	ROOT	_	_
+6	with	with	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	115355	_
+8	ball	ball	_	NN	_	6	PMOD	115355	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	his	his	_	PRP$	_	11	NMOD	115357	_
+11	mouth	mouth	_	NN	_	9	PMOD	115357	_
+12	.	.	_	.	_	0	ROOT	_	_

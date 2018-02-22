@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	222511	_
+2	person	person	_	NN	_	3	SBJ	222511	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	riding	ride	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	222513	_
+6	horse	horse	_	NN	_	4	OBJ	222513	_
+7	next to	next to	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	222512	_
+9	body	body	_	NN	_	7	PMOD	222512	_
+10	of	of	_	IN	_	9	NMOD	222512	_
+11	water	water	_	NN	_	10	PMOD	222512	_
+12	.	.	_	.	_	3	P	_	_

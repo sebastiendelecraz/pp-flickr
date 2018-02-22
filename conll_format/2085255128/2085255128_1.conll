@@ -1,0 +1,16 @@
+1	Person	Person	_	NNP	_	0	ROOT	27698	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	yellow	yellow	_	JJ	_	4	NMOD	27703	_
+4	shorts	short	_	NNS	_	2	PMOD	27703	_
+5	,	,	_	,	_	0	ROOT	_	_
+6	gray	gray	_	JJ	_	7	NMOD	27701	_
+7	shirt	shirt	_	NN	_	0	ROOT	27701	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	logo	logo	_	NN	_	8	PMOD	27706	_
+10	jumping	jump	_	VBG	_	9	APPO	_	_
+11	from	from	_	IN	_	10	ADV	_	10
+12	bank	bank	_	NN	_	11	PMOD	27699	_
+13	into	into	_	IN	_	10	DIR	_	10
+14	the	the	_	DT	_	15	NMOD	27702	_
+15	water	water	_	NN	_	13	PMOD	27702	_
+16	.	.	_	.	_	0	ROOT	_	_

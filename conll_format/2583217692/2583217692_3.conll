@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	59636	_
+2	man	man	_	NN	_	3	SBJ	59636	_
+3	tries	try	_	VBZ	_	0	ROOT	_	_
+4	to	to	_	TO	_	3	OPRD	_	_
+5	help	help	_	VB	_	4	IM	_	_
+6	a	a	_	DT	_	7	NMOD	59633	_
+7	woman	woman	_	NN	_	5	OBJ	59633	_
+8	in	in	_	IN	_	5	LOC	_	7
+9	a	a	_	DT	_	11	NMOD	59638	_
+10	bikini	bikini	_	NN	_	11	NMOD	59638	_
+11	cross	cross	_	NN	_	8	PMOD	_	_
+12	from	from	_	IN	_	5	ADV	_	11
+13	one	one	_	CD	_	14	NMOD	59635	_
+14	dock	dock	_	NN	_	12	PMOD	59635	_
+15	to	to	_	TO	_	12	PMOD	_	_
+16	another	another	_	DT	_	15	PMOD	0	_
+17	.	.	_	.	_	3	P	_	_

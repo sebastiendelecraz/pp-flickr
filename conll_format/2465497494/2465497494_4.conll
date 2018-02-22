@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	51510	_
+2	boy	boy	_	NN	_	3	SBJ	51510	_
+3	plays	play	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	sand	sand	_	NN	_	4	PMOD	51512	_
+6	near	near	_	IN	_	5	LOC	_	3
+7	green	green	_	NN	_	8	NMOD	51518	_
+8	grass	grass	_	NN	_	6	PMOD	51518	_
+9	.	.	_	.	_	3	P	_	_

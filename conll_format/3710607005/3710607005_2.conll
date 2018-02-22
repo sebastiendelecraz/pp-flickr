@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	138534	_
+2	man	man	_	NN	_	0	ROOT	138534	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	138536	_
+5	blue	blue	_	JJ	_	6	NMOD	138536	_
+6	t-shirt	t-shirt	_	NN	_	3	PMOD	138536	_
+7	,	,	_	,	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	138535	_
+11	bed	bed	_	NN	_	9	PMOD	138535	_
+12	staring	stare	_	VBG	_	11	APPO	_	_
+13	at	at	_	IN	_	12	ADV	_	_
+14	something	something	_	NN	_	13	PMOD	138541	_
+15	in	in	_	IN	_	14	LOC	_	_
+16	wonderment	wonderment	_	NN	_	15	PMOD	138542	_
+17	.	.	_	.	_	0	ROOT	_	_

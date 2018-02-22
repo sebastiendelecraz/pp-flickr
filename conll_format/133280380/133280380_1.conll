@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	2	NMOD	8892	_
+2	woman	woman	_	NN	_	4	NMOD	8892	_
+3	wearing	wear	_	VBG	_	4	NMOD	_	_
+4	sunglasses	sunglass	_	NNS	_	5	SBJ	8893	_
+5	sits	sit	_	VBZ	_	0	ROOT	_	_
+6	inside of	inside of	_	IN	_	5	ADV	8900	5
+7	a	a	_	DT	_	8	NMOD	8900	_
+8	building	building	_	NN	_	6	PMOD	8900	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	several	several	_	DT	_	12	NMOD	8894	_
+11	other	other	_	JJ	_	12	NMOD	8894	_
+12	people	people	_	NN	_	9	PMOD	8894	_
+13	looking	look	_	VBG	_	12	APPO	_	_
+14	outside	outside	_	IN	_	13	ADV	_	_
+15	.	.	_	.	_	5	P	_	_

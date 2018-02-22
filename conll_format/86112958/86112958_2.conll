@@ -1,0 +1,12 @@
+1	Group	Group	_	NNP	_	4	SBJ	281927	_
+2	of	of	_	IN	_	1	NMOD	281927	_
+3	people	people	_	NN	_	2	PMOD	281927	_
+4	pose	pose	_	VBP	_	0	ROOT	_	_
+5	with	with	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	281928	_
+7	costumed	costume	_	VBN	_	8	NMOD	281928	_
+8	character	character	_	NN	_	5	PMOD	281928	_
+9	of	of	_	IN	_	8	NMOD	281928	_
+10	SpongeBob	SpongeBob	_	NNP	_	11	NAME	281928	_
+11	SquarePants	SquarePants	_	NNP	_	9	PMOD	281928	_
+12	.	.	_	.	_	4	P	_	_

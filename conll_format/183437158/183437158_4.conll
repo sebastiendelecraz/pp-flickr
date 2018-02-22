@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	21706	_
+2	people	people	_	NN	_	3	SBJ	21706	_
+3	hiking	hike	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	21711	_
+6	woods	wood	_	NNS	_	4	PMOD	21711	_
+7	by	by	_	IN	_	3	MNR	_	3
+8	a	a	_	DT	_	9	NMOD	21708	_
+9	tree	tree	_	NN	_	7	PMOD	21708	_
+10	.	.	_	.	_	0	ROOT	_	_

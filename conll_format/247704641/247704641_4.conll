@@ -1,0 +1,11 @@
+1	The	the	_	DT	_	2	NMOD	52438	_
+2	dog	dog	_	NN	_	3	SBJ	52438	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	52441	_
+6	stream	stream	_	NN	_	4	PMOD	52441	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	10	NMOD	52439	_
+9	fallen	fall	_	VBN	_	10	NMOD	52439	_
+10	log	log	_	NN	_	7	PMOD	52439	_
+11	.	.	_	.	_	3	P	_	_

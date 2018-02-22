@@ -1,0 +1,11 @@
+1	Women	woman	_	NNS	_	2	SBJ	166476	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	standing	stand	_	VBG	_	2	VC	_	_
+4	around	around	_	IN	_	3	ADV	_	3
+5	filled	fill	_	VBN	_	7	NMOD	166478	_
+6	garbage	garbage	_	NN	_	7	NMOD	166478	_
+7	bags	bag	_	NNS	_	4	PMOD	166478	_
+8	on	on	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	166480	_
+10	street	street	_	NN	_	8	PMOD	166480	_
+11	.	.	_	.	_	2	P	_	_

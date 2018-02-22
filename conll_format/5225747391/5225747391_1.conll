@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	231476	_
+2	men	man	_	NNS	_	0	ROOT	231476	_
+3	,	,	_	,	_	0	ROOT	_	_
+4	both	both	_	DT	_	5	DEP	0	_
+5	in	in	_	IN	_	0	ROOT	_	_
+6	strange	strange	_	JJ	_	7	NMOD	231481	_
+7	hats	hat	_	NNS	_	5	PMOD	231481	_
+8	,	,	_	,	_	0	ROOT	_	_
+9	working	work	_	VBG	_	0	ROOT	_	_
+10	over	over	_	IN	_	9	ADV	_	9
+11	rocks	rock	_	NNS	_	10	PMOD	231479	_
+12	in	in	_	IN	_	9	LOC	_	9
+13	a	a	_	DT	_	16	NMOD	231477	_
+14	busy	busy	_	JJ	_	16	NMOD	231477	_
+15	urban	urban	_	JJ	_	16	NMOD	231477	_
+16	street	street	_	NN	_	12	PMOD	231477	_
+17	.	.	_	.	_	0	ROOT	_	_

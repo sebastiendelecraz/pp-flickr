@@ -1,0 +1,34 @@
+1	Two	Two	_	CD	_	2	NMOD	166341	_
+2	girls	girl	_	NNS	_	0	ROOT	166341	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	white	white	_	JJ	_	3	PMOD	166352	_
+5	sitting	sit	_	VBG	_	2	APPO	_	_
+6	next to	next to	_	IN	_	5	ADV	_	5
+7	man	man	_	NN	_	6	PMOD	166350	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	tan	tan	_	NN	_	10	NMOD	166353	_
+10	shirt	shirt	_	NN	_	8	PMOD	166353	_
+11	,	,	_	,	_	5	P	_	_
+12	with	with	_	IN	_	5	ADV	_	_
+13	two	two	_	CD	_	14	NMOD	166351	_
+14	boys	boy	_	NNS	_	12	PMOD	166351	_
+15	who	who	_	WP	_	16	SBJ	0	_
+16	are	be	_	VBP	_	14	NMOD	_	_
+17	facing	face	_	VBG	_	16	VC	_	_
+18	away from	away from	_	IN	_	17	ADV	_	17
+19	camera	camera	_	NN	_	18	PMOD	166348	_
+20	,	,	_	,	_	14	P	_	_
+21	all	all	_	DT	_	22	NMOD	166346	_
+22	sitting	sit	_	VBG	_	5	COORD	_	_
+23	around	around	_	RB	_	22	ADV	_	_
+24	a	a	_	DT	_	25	NMOD	166343	_
+25	table	table	_	NN	_	22	OBJ	166343	_
+26	with	with	_	IN	_	25	NMOD	_	_
+27	blue	blue	_	JJ	_	33	NMOD	166347	_
+28	top	top	_	JJ	_	33	NMOD	166347	_
+29	and	and	_	CC	_	28	COORD	166347	_
+30	blue	blue	_	JJ	_	29	CONJ	166347	_
+31	and	and	_	CC	_	30	COORD	166347	_
+32	white	white	_	JJ	_	31	CONJ	166347	_
+33	dinnerware	dinnerware	_	NN	_	26	PMOD	166347	_
+34	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	14185	_
+2	skier	skier	_	NN	_	0	ROOT	14185	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	14189	_
+5	red	red	_	JJ	_	6	NMOD	14189	_
+6	jacket	jacket	_	NN	_	3	PMOD	14189	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	yellow	yellow	_	JJ	_	10	NMOD	14194	_
+9	backpack	backpack	_	NN	_	10	NMOD	14194	_
+10	skis	ski	_	NNS	_	7	CONJ	14194	_
+11	down	down	_	IN	_	2	NMOD	_	10
+12	a	a	_	DT	_	14	NMOD	14186	_
+13	snow	snow	_	NN	_	14	NMOD	14186	_
+14	slope	slope	_	NN	_	11	PMOD	14186	_
+15	.	.	_	.	_	0	ROOT	_	_

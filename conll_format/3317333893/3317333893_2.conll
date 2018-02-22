@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	108960	_
+2	black	black	_	JJ	_	3	NMOD	108960	_
+3	dog	dog	_	NN	_	4	SBJ	108960	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	away from	away from	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	108961	_
+7	wooden	wooden	_	JJ	_	8	NMOD	108961	_
+8	fence	fence	_	NN	_	5	PMOD	108961	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	snow	snow	_	NN	_	9	PMOD	108962	_
+11	on	on	_	IN	_	4	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	ground	ground	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

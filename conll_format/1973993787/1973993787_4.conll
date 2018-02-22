@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	24346	_
+2	choral	choral	_	JJ	_	3	NMOD	24346	_
+3	group	group	_	NN	_	4	SBJ	24346	_
+4	singing	sing	_	VBG	_	0	ROOT	_	_
+5	at	at	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	24348	_
+7	church	church	_	NN	_	5	PMOD	24348	_
+8	of	of	_	IN	_	7	NMOD	24348	_
+9	some	some	_	DT	_	10	NMOD	24348	_
+10	kind	kind	_	NN	_	8	PMOD	24348	_
+11	.	.	_	.	_	0	ROOT	_	_

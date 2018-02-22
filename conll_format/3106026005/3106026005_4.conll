@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	93952	_
+2	man	man	_	NN	_	3	SBJ	93952	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	93955	_
+6	bench	bench	_	NN	_	4	PMOD	93955	_
+7	on	on	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	11	NMOD	93954	_
+9	San	San	_	NNP	_	10	NAME	93954	_
+10	Diego	Diego	_	NNP	_	11	NMOD	93954	_
+11	street	street	_	NN	_	7	PMOD	93954	_
+12	.	.	_	.	_	3	P	_	_

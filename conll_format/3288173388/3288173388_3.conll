@@ -1,0 +1,12 @@
+1	one	one	_	CD	_	2	NMOD	107151	_
+2	person	person	_	NN	_	3	SBJ	107151	_
+3	pointing	point	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	107153	_
+6	chalkboard	chalkboard	_	NN	_	4	PMOD	107153	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	107150	_
+9	student	student	_	NN	_	7	PMOD	107150	_
+10	looking	look	_	VBG	_	3	ADV	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	.	.	_	.	_	0	ROOT	_	_

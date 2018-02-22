@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	122206	_
+2	women	woman	_	NNS	_	6	SBJ	122206	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	colorful	colorful	_	JJ	_	5	NMOD	122208	_
+5	clothes	clothes	_	NNS	_	3	PMOD	122208	_
+6	sit	sit	_	VBP	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	0	_
+9	ground	ground	_	NN	_	7	PMOD	0	_
+10	near	near	_	IN	_	9	LOC	_	6
+11	their	their	_	PRP$	_	12	NMOD	122207	_
+12	cow	cow	_	NN	_	10	PMOD	122207	_
+13	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	17626	_
+2	man	man	_	NN	_	8	SBJ	17626	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	7	NMOD	17629	_
+5	green	green	_	JJ	_	7	NMOD	17629	_
+6	motorized	motorize	_	VBN	_	7	NMOD	17629	_
+7	bike	bike	_	NN	_	3	PMOD	17629	_
+8	looks	look	_	VBZ	_	0	ROOT	_	_
+9	across	across	_	IN	_	8	LOC	_	8
+10	the	the	_	DT	_	11	NMOD	17627	_
+11	lake	lake	_	NN	_	9	PMOD	17627	_
+12	at	at	_	IN	_	8	ADV	_	8
+13	a	a	_	DT	_	14	NMOD	17628	_
+14	city	city	_	NN	_	12	PMOD	17628	_
+15	.	.	_	.	_	8	P	_	_

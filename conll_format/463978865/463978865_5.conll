@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	185594	_
+2	man	man	_	NN	_	0	ROOT	185594	_
+3	walking	walk	_	VBG	_	2	APPO	_	_
+4	by	by	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	7	NMOD	185603	_
+6	sitting	sit	_	VBG	_	7	NMOD	185603	_
+7	man	man	_	NN	_	4	PMOD	185603	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	the	the	_	DT	_	10	NMOD	185596	_
+10	street	street	_	NN	_	8	PMOD	185596	_
+11	.	.	_	.	_	0	ROOT	_	_

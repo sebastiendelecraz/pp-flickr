@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	266345	_
+2	table	table	_	NN	_	13	SBJ	266345	_
+3	of	of	_	IN	_	2	NMOD	266345	_
+4	computer	computer	_	NN	_	5	NMOD	266345	_
+5	laptops	laptop	_	NNS	_	3	PMOD	266345	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	their	their	_	PRP$	_	8	NMOD	266355	_
+8	users	user	_	NNS	_	6	CONJ	266355	_
+9	,	,	_	,	_	2	P	_	_
+10	in	in	_	IN	_	2	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	background	background	_	NN	_	10	PMOD	0	_
+13	are	be	_	VBP	_	0	ROOT	_	_
+14	people	people	_	NN	_	13	PRD	266352	_
+15	without	without	_	IN	_	14	NMOD	_	13
+16	computers	computer	_	NNS	_	15	PMOD	266347	_
+17	.	.	_	.	_	13	P	_	_

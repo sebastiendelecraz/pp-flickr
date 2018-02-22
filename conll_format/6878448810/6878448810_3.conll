@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	260162	_
+2	little	little	_	JJ	_	3	NMOD	260162	_
+3	girl	girl	_	NN	_	4	SBJ	260162	_
+4	swirls	swirl	_	VBZ	_	0	ROOT	_	_
+5	paint	paint	_	NN	_	4	OBJ	260166	_
+6	around	around	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	8	NMOD	260163	_
+8	piece	piece	_	NN	_	6	PMOD	260163	_
+9	of	of	_	IN	_	8	NMOD	260163	_
+10	paper	paper	_	NN	_	9	PMOD	260163	_
+11	.	.	_	.	_	4	P	_	_

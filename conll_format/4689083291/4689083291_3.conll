@@ -1,0 +1,17 @@
+1	Group	Group	_	NNP	_	0	ROOT	191257	_
+2	of	of	_	IN	_	1	NMOD	191257	_
+3	people	people	_	NN	_	2	PMOD	191257	_
+4	in	in	_	IN	_	3	LOC	_	1
+5	New	New	_	NNP	_	6	NAME	191262	_
+6	York	York	_	NNP	_	10	NMOD	191262	_
+7	'	'	_	POS	_	6	SUFFIX	191262	_
+8	s	s	_	NN	_	9	NAME	191262	_
+9	Times	Times	_	NNP	_	10	NMOD	191262	_
+10	square	square	_	NN	_	4	PMOD	191262	_
+11	standing	stand	_	VBG	_	10	APPO	_	_
+12	inside	inside	_	IN	_	11	LOC	_	11
+13	a	a	_	DT	_	16	NMOD	191258	_
+14	fenced	fence	_	VBN	_	16	NMOD	191258	_
+15	off	off	_	RP	_	14	PRT	191258	_
+16	area	area	_	NN	_	12	PMOD	191258	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	177771	_
+2	man	man	_	NN	_	0	ROOT	177771	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	177772	_
+5	hat	hat	_	NN	_	3	OBJ	177772	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	his	his	_	PRP$	_	9	NMOD	177774	_
+8	face	face	_	NN	_	9	NMOD	177774	_
+9	lit	lit	_	NN	_	6	PMOD	_	_
+10	up	up	_	IN	_	9	NMOD	_	9
+11	stands	stand	_	NNS	_	10	PMOD	177779	_
+12	in the middle of	in the middle of	_	IN	_	0	ROOT	177780	_
+13	a	a	_	DT	_	14	NMOD	177780	_
+14	circle	circle	_	NN	_	12	PMOD	177780	_
+15	of	of	_	IN	_	14	NMOD	_	_
+16	people	people	_	NN	_	15	PMOD	177770	_
+17	.	.	_	.	_	0	ROOT	_	_

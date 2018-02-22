@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	146922	_
+2	man	man	_	NN	_	7	SBJ	146922	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	146923	_
+5	blue	blue	_	JJ	_	6	NMOD	146923	_
+6	uniform	uniform	_	NN	_	3	PMOD	146923	_
+7	works	work	_	VBZ	_	0	ROOT	_	_
+8	beside	beside	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	146924	_
+10	train	train	_	NN	_	8	PMOD	146924	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	train	train	_	NN	_	13	NMOD	146925	_
+13	tracks	track	_	NNS	_	11	PMOD	146925	_
+14	.	.	_	.	_	7	P	_	_

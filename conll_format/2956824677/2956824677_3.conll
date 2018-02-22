@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	83968	_
+2	man	man	_	NN	_	7	SBJ	83968	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	an	an	_	DT	_	6	NMOD	83972	_
+5	Army	Army	_	NNP	_	6	NMOD	83972	_
+6	uniform	uniform	_	NN	_	3	PMOD	83972	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	posing	pose	_	VBG	_	7	VC	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	83978	_
+11	picture	picture	_	NN	_	9	PMOD	83978	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	an	an	_	DT	_	14	NMOD	83969	_
+14	plaque	plaque	_	NN	_	12	PMOD	83969	_
+15	.	.	_	.	_	7	P	_	_

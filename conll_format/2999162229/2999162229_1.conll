@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	5	NMOD	86402	_
+2	young	young	_	JJ	_	5	NMOD	86402	_
+3	girl	girl	_	NN	_	4	NMOD	86402	_
+4	lighting	lighting	_	NN	_	5	NMOD	_	_
+5	candles	candle	_	NNS	_	0	ROOT	86406	_
+6	among	among	_	IN	_	5	LOC	_	4
+7	the	the	_	DT	_	8	NMOD	86407	_
+8	flowers	flower	_	NNS	_	6	PMOD	86407	_
+9	at	at	_	IN	_	5	LOC	_	4
+10	a	a	_	DT	_	11	NMOD	86408	_
+11	cemetery	cemetery	_	NN	_	9	PMOD	86408	_
+12	.	.	_	.	_	0	ROOT	_	_

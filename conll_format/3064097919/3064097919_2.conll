@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	91009	_
+2	skateboarder	skateboarder	_	NN	_	3	SBJ	91009	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	doing	do	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	0	_
+6	trick	trick	_	NN	_	4	OBJ	0	_
+7	at the top of	at the top of	_	IN	_	4	ADV	91011	4
+8	a	a	_	DT	_	9	NMOD	91011	_
+9	ramp	ramp	_	NN	_	7	PMOD	91011	_
+10	while	while	_	IN	_	4	TMP	_	_
+11	another	another	_	DT	_	13	NMOD	91010	_
+12	person	person	_	NN	_	13	NMOD	91010	_
+13	watches	watch	_	NNS	_	10	PMOD	_	_
+14	.	.	_	.	_	3	P	_	_

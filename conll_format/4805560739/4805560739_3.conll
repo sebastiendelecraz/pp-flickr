@@ -1,0 +1,17 @@
+1	woman	woman	_	NN	_	0	ROOT	204699	_
+2	dancing	dance	_	VBG	_	1	APPO	_	_
+3	in	in	_	IN	_	2	ADV	_	_
+4	dress	dress	_	NN	_	3	PMOD	204701	_
+5	with	with	_	IN	_	4	NMOD	_	2
+6	2	2	_	CD	_	7	NMOD	204706	_
+7	men	man	_	NNS	_	5	PMOD	204706	_
+8	in	in	_	IN	_	2	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	204700	_
+10	band	band	_	NN	_	8	PMOD	204700	_
+11	behind	behind	_	IN	_	10	NMOD	_	_
+12	her	her	_	PRP$	_	11	PMOD	0	_
+13	at	at	_	IN	_	2	ADV	_	_
+14	a	a	_	DT	_	15	NMOD	204704	_
+15	jazz	jazz	_	NN	_	13	PMOD	204704	_
+16	festival	festival	_	JJ	_	15	NMOD	204704	_
+17	.	.	_	.	_	0	ROOT	_	_

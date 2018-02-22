@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	263090	_
+2	picture	picture	_	NN	_	0	ROOT	263090	_
+3	of	of	_	IN	_	2	NMOD	263090	_
+4	a	a	_	DT	_	5	NMOD	263090	_
+5	racer	racer	_	NN	_	3	PMOD	263090	_
+6	from	from	_	IN	_	5	NMOD	_	2
+7	go-kart	go-kart	_	NN	_	9	NMOD	263096	_
+8	street	street	_	NN	_	9	NMOD	263096	_
+9	race	race	_	NN	_	6	PMOD	263096	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	2	NMOD	71698	_
+2	man	man	_	NN	_	0	ROOT	71698	_
+3	drinking	drink	_	VBG	_	2	APPO	_	_
+4	out of	out of	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	71699	_
+6	yellow	yellow	_	JJ	_	7	NMOD	71699	_
+7	cup	cup	_	NN	_	4	PMOD	71699	_
+8	around	around	_	IN	_	3	ADV	_	3
+9	people	people	_	NN	_	8	PMOD	71696	_
+10	at	at	_	IN	_	9	LOC	_	3
+11	a	a	_	DT	_	13	NMOD	71697	_
+12	busy	busy	_	JJ	_	13	NMOD	71697	_
+13	event	event	_	NN	_	10	PMOD	71697	_
+14	.	.	_	.	_	0	ROOT	_	_

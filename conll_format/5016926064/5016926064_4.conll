@@ -1,0 +1,9 @@
+1	Man	Man	_	NNP	_	2	SBJ	227051	_
+2	look	look	_	VBP	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	227050	_
+5	telescope	telescope	_	NN	_	3	PMOD	227050	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	227052	_
+8	city	city	_	NN	_	6	PMOD	227052	_
+9	.	.	_	.	_	2	P	_	_

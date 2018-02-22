@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	207396	_
+2	large	large	_	JJ	_	3	NMOD	207396	_
+3	display	display	_	NN	_	0	ROOT	207396	_
+4	of	of	_	IN	_	3	NMOD	207396	_
+5	a	a	_	DT	_	6	NMOD	207396	_
+6	child	child	_	NN	_	9	NMOD	207396	_
+7	'	'	_	POS	_	6	SUFFIX	207400	_
+8	s	s	_	NN	_	9	NMOD	207400	_
+9	face	face	_	NN	_	4	PMOD	207400	_
+10	over	over	_	IN	_	3	NMOD	_	3
+11	a	a	_	DT	_	13	NMOD	207399	_
+12	water	water	_	NN	_	13	NMOD	207399	_
+13	park	park	_	NN	_	10	PMOD	207399	_
+14	.	.	_	.	_	0	ROOT	_	_

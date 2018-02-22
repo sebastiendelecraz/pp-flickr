@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	185456	_
+2	dark-skinned	dark-skinned	_	JJ	_	3	NMOD	185456	_
+3	boy	boy	_	NN	_	4	SBJ	185456	_
+4	talking	talk	_	VBG	_	0	ROOT	_	_
+5	to	to	_	TO	_	4	ADV	_	_
+6	a	a	_	DT	_	9	NMOD	185459	_
+7	smaller	small	_	JJR	_	9	NMOD	185459	_
+8	dark-skinned	dark-skinned	_	JJ	_	9	NMOD	185459	_
+9	boy	boy	_	NN	_	5	PMOD	185459	_
+10	in the middle of	in the middle of	_	IN	_	4	ADV	185457	4
+11	a	a	_	DT	_	12	NMOD	185457	_
+12	street	street	_	NN	_	10	PMOD	185457	_
+13	in	in	_	IN	_	4	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	185458	_
+15	rural	rural	_	JJ	_	16	NMOD	185458	_
+16	area	area	_	NN	_	13	PMOD	185458	_
+17	.	.	_	.	_	0	ROOT	_	_

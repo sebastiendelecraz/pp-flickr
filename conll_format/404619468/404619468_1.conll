@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	153217	_
+2	men	man	_	NNS	_	11	SBJ	153217	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	Middle	Middle	_	NNP	_	5	NAME	153216	_
+5	Eastern	Eastern	_	NNP	_	7	NMOD	153216	_
+6	dress	dress	_	NN	_	7	NMOD	153216	_
+7	sit	sit	_	NN	_	3	PMOD	_	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	plastic	plastic	_	NN	_	10	NMOD	153218	_
+10	milk	milk	_	NN	_	8	PMOD	153218	_
+11	crates	crate	_	VBZ	_	0	ROOT	153218	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	smile	smile	_	VB	_	12	CONJ	153227	_
+14	at	at	_	IN	_	11	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	camera	camera	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	11	P	_	_

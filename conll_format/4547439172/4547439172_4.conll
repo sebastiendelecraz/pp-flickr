@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	177203	_
+2	woman	woman	_	NN	_	0	ROOT	177203	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	black	black	_	JJ	_	5	NMOD	177205	_
+5	standing	standing	_	NN	_	3	PMOD	_	_
+6	inside of	inside of	_	IN	_	2	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	177204	_
+8	restaurant	restaurant	_	NN	_	6	PMOD	177204	_
+9	.	.	_	.	_	0	ROOT	_	_

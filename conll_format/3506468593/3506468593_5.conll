@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	123549	_
+2	girl	girl	_	NN	_	3	SBJ	123549	_
+3	swings	swing	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	123551	_
+6	vine	vine	_	NN	_	4	PMOD	123551	_
+7	over	over	_	IN	_	6	NMOD	_	3
+8	water	water	_	NN	_	7	PMOD	123550	_
+9	.	.	_	.	_	3	P	_	_

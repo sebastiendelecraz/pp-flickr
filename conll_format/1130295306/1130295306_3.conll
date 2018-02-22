@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	3330	_
+2	boy	boy	_	NN	_	3	SBJ	3330	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	3333	_
+5	rugby	rugby	_	NN	_	6	NMOD	3333	_
+6	shirt	shirt	_	NN	_	3	OBJ	3333	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	3332	_
+10	body	body	_	NN	_	8	PMOD	3332	_
+11	of	of	_	IN	_	10	NMOD	3332	_
+12	water	water	_	NN	_	11	PMOD	3332	_
+13	.	.	_	.	_	0	ROOT	_	_

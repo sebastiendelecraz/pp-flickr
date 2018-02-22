@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	54470	_
+2	smiling	smile	_	VBG	_	3	NMOD	54470	_
+3	woman	woman	_	NN	_	9	SBJ	54470	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	8	NMOD	54473	_
+6	yellow	yellow	_	JJ	_	8	NMOD	54473	_
+7	taxi	taxi	_	NN	_	8	NMOD	54473	_
+8	costume	costume	_	NN	_	4	PMOD	54473	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	standing	stand	_	VBG	_	9	VC	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	54478	_
+13	street	street	_	NN	_	11	PMOD	54478	_
+14	during	during	_	IN	_	10	TMP	_	10
+15	an	an	_	DT	_	16	NMOD	54477	_
+16	event	event	_	NN	_	14	PMOD	54477	_
+17	.	.	_	.	_	9	P	_	_

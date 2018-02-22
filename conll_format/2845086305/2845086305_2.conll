@@ -1,0 +1,12 @@
+1	Visitors	visitor	_	NNS	_	2	SBJ	76459	_
+2	pose	pose	_	VBP	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	76464	_
+5	picture	picture	_	NN	_	3	PMOD	76464	_
+6	at	at	_	IN	_	2	TMP	_	_
+7	the	the	_	DT	_	9	NMOD	76462	_
+8	2008	2008	_	CD	_	9	NMOD	76462	_
+9	Olympics	Olympics	_	NNPS	_	6	PMOD	76462	_
+10	in	in	_	IN	_	9	LOC	_	2
+11	Beijing	Beijing	_	NNP	_	10	PMOD	76460	_
+12	.	.	_	.	_	2	P	_	_

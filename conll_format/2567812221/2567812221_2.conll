@@ -1,0 +1,11 @@
+1	Women	woman	_	NNS	_	2	SBJ	58573	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	dogs	dog	_	NNS	_	2	OBJ	58575	_
+4	in	in	_	IN	_	2	LOC	_	2
+5	a	a	_	DT	_	7	NMOD	58577	_
+6	circular	circular	_	JJ	_	7	NMOD	58577	_
+7	pattern	pattern	_	NN	_	4	PMOD	58577	_
+8	over	over	_	IN	_	7	NMOD	_	2
+9	grassy	grassy	_	JJ	_	10	NMOD	58576	_
+10	terrain	terrain	_	NN	_	8	PMOD	58576	_
+11	.	.	_	.	_	2	P	_	_

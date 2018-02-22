@@ -1,0 +1,16 @@
+1	Three	Three	_	CD	_	3	NMOD	188023	_
+2	Arabic	Arabic	_	JJ	_	3	NMOD	188023	_
+3	men	man	_	NNS	_	4	SBJ	188023	_
+4	riding	ride	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	the	the	_	DT	_	7	NMOD	188025	_
+7	back	back	_	NN	_	5	PMOD	188025	_
+8	of	of	_	IN	_	7	NMOD	188025	_
+9	a	a	_	DT	_	10	NMOD	188025	_
+10	car	car	_	NN	_	8	PMOD	188025	_
+11	going	go	_	VBG	_	7	APPO	_	_
+12	through	through	_	IN	_	11	DIR	_	11
+13	a	a	_	DT	_	15	NMOD	188027	_
+14	market	market	_	NN	_	15	NMOD	188027	_
+15	area	area	_	NN	_	12	PMOD	188027	_
+16	.	.	_	.	_	0	ROOT	_	_

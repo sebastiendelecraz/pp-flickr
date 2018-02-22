@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	25356	_
+2	women	woman	_	NNS	_	0	ROOT	25356	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	25357	_
+5	girl	girl	_	NN	_	3	CONJ	25357	_
+6	dressed	dress	_	VBN	_	2	APPO	_	_
+7	up to	up to	_	IN	_	6	ADV	_	6
+8	take	take	_	NN	_	7	PMOD	_	_
+9	a	a	_	DT	_	10	NMOD	25367	_
+10	photo	photo	_	NN	_	6	TMP	25367	_
+11	in	in	_	IN	_	6	LOC	_	_
+12	the	the	_	DT	_	14	NMOD	25365	_
+13	great	great	_	JJ	_	14	NMOD	25365	_
+14	outdoors	outdoors	_	NN	_	11	PMOD	25365	_
+15	.	.	_	.	_	0	ROOT	_	_

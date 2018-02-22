@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	80696	_
+2	female	female	_	JJ	_	0	ROOT	80696	_
+3	in	in	_	IN	_	0	ROOT	_	_
+4	blue	blue	_	JJ	_	5	NMOD	80702	_
+5	jeans	jean	_	NNS	_	3	PMOD	80702	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	with	with	_	IN	_	6	ADV	_	_
+8	luggage	luggage	_	NN	_	7	PMOD	80699	_
+9	against	against	_	IN	_	8	NMOD	_	6
+10	a	a	_	DT	_	11	NMOD	80698	_
+11	wall	wall	_	NN	_	9	PMOD	80698	_
+12	.	.	_	.	_	0	ROOT	_	_

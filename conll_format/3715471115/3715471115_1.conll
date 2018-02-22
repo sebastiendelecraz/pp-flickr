@@ -1,0 +1,16 @@
+1	Three	Three	_	CD	_	3	NMOD	139003	_
+2	old	old	_	JJ	_	3	NMOD	139003	_
+3	men	man	_	NNS	_	4	SBJ	139003	_
+4	have	have	_	VBP	_	0	ROOT	_	_
+5	their	their	_	PRP$	_	6	NMOD	139006	_
+6	hands	hand	_	NNS	_	4	OBJ	139006	_
+7	over	over	_	IN	_	4	ADV	_	4
+8	each	each	_	DT	_	9	NMOD	139007	_
+9	other	other	_	JJ	_	11	NMOD	139007	_
+10	'	'	_	POS	_	9	SUFFIX	139007	_
+11	s	s	_	NN	_	7	PMOD	139007	_
+12	at	at	_	IN	_	4	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	139008	_
+14	grand	grand	_	JJ	_	15	NMOD	139008	_
+15	opening	opening	_	NN	_	12	PMOD	139008	_
+16	.	.	_	.	_	4	P	_	_

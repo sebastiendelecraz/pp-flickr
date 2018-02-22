@@ -1,0 +1,16 @@
+1	people	people	_	NN	_	6	SBJ	42639	_
+2	in	in	_	IN	_	1	LOC	_	1
+3	a	a	_	DT	_	5	NMOD	42637	_
+4	bounce	bounce	_	NN	_	5	NMOD	42637	_
+5	house	house	_	NN	_	2	PMOD	42637	_
+6	shaped	shape	_	VBD	_	0	ROOT	_	_
+7	like	like	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	42637	_
+9	castle	castle	_	NN	_	7	PMOD	42637	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	several	several	_	DT	_	12	NMOD	42640	_
+12	people	people	_	NN	_	10	PMOD	42640	_
+13	sitting	sit	_	VBG	_	12	APPO	_	_
+14	and	and	_	CC	_	13	COORD	_	_
+15	watching	watch	_	VBG	_	14	CONJ	_	_
+16	.	.	_	.	_	6	P	_	_

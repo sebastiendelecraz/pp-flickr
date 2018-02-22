@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	79919	_
+2	woman	woman	_	NN	_	6	SBJ	79919	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	her	her	_	PRP$	_	5	NMOD	79918	_
+5	friends	friend	_	NNS	_	3	CONJ	79918	_
+6	reach	reach	_	VBP	_	0	ROOT	_	_
+7	into	into	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	79915	_
+9	basket	basket	_	NN	_	7	PMOD	79915	_
+10	at	at	_	IN	_	6	TMP	_	6
+11	a	a	_	DT	_	12	NMOD	79914	_
+12	bar	bar	_	NN	_	10	PMOD	79914	_
+13	.	.	_	.	_	6	P	_	_

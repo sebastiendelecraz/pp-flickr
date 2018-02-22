@@ -1,0 +1,19 @@
+1	Two	Two	_	CD	_	3	NMOD	241094	_
+2	white-haired	white-haired	_	JJ	_	3	NMOD	241094	_
+3	women	woman	_	NNS	_	0	ROOT	241094	_
+4	,	,	_	,	_	3	P	_	_
+5	both	both	_	DT	_	7	NMOD	0	_
+6	wearing	wear	_	VBG	_	7	NMOD	_	_
+7	hats	hat	_	NNS	_	3	APPO	241099	_
+8	,	,	_	,	_	3	P	_	_
+9	play	play	_	NN	_	10	NMOD	_	_
+10	saxophones	saxophone	_	NNS	_	3	APPO	241097	_
+11	while	while	_	IN	_	0	ROOT	_	_
+12	standing	stand	_	VBG	_	11	SUB	_	_
+13	in front of	in front of	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	241096	_
+15	pair	pair	_	NN	_	13	PMOD	241096	_
+16	of	of	_	IN	_	15	NMOD	241096	_
+17	landscape	landscape	_	NN	_	18	NMOD	241096	_
+18	paintings	painting	_	NNS	_	16	PMOD	241096	_
+19	.	.	_	.	_	0	ROOT	_	_

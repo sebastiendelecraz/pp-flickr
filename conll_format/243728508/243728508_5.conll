@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	49390	_
+2	man	man	_	NN	_	0	ROOT	49390	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	49394	_
+5	camera	camera	_	NN	_	3	PMOD	49394	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	49397	_
+8	crane	crane	_	NN	_	6	PMOD	49397	_
+9	.	.	_	.	_	0	ROOT	_	_

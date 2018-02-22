@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	132503	_
+2	dogs	dog	_	NNS	_	3	SBJ	132503	_
+3	playing	play	_	VBG	_	7	ADV	_	_
+4	,	,	_	,	_	7	P	_	_
+5	one	one	_	CD	_	6	NMOD	132508	_
+6	dog	dog	_	NN	_	7	SBJ	132508	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	jumping	jump	_	VBG	_	7	VC	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	air	air	_	NN	_	9	PMOD	0	_
+12	above	above	_	IN	_	8	TMP	_	8
+13	the	the	_	DT	_	15	NMOD	132507	_
+14	second	second	_	JJ	_	15	NMOD	132507	_
+15	dog	dog	_	NN	_	12	PMOD	132507	_
+16	.	.	_	.	_	7	P	_	_

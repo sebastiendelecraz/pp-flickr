@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	207247	_
+2	man	man	_	NN	_	6	SBJ	207247	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	207249	_
+5	woman	woman	_	NN	_	3	CONJ	207249	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	lying	lie	_	VBG	_	6	VC	_	_
+8	together	together	_	RB	_	7	ADV	_	_
+9	on	on	_	IN	_	7	LOC	_	_
+10	a	a	_	DT	_	13	NMOD	207252	_
+11	grassy	grassy	_	JJ	_	13	NMOD	207252	_
+12	park	park	_	NN	_	13	NMOD	207252	_
+13	field	field	_	NN	_	9	PMOD	207252	_
+14	near	near	_	IN	_	7	LOC	_	7
+15	a	a	_	DT	_	16	NMOD	207250	_
+16	waterfront	waterfront	_	NN	_	14	PMOD	207250	_
+17	.	.	_	.	_	6	P	_	_

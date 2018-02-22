@@ -1,0 +1,16 @@
+1	two	two	_	CD	_	2	NMOD	10333	_
+2	man	man	_	NN	_	3	SBJ	10333	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	paddling	paddle	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	10334	_
+6	kayak	kayak	_	NN	_	4	OBJ	10334	_
+7	along	along	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	10335	_
+9	river	river	_	NN	_	7	PMOD	10335	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	green	green	_	JJ	_	12	NMOD	10341	_
+12	trees	tree	_	NNS	_	10	PMOD	10341	_
+13	on	on	_	IN	_	4	ADV	_	_
+14	either	either	_	DT	_	15	NMOD	0	_
+15	side	side	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	3	P	_	_

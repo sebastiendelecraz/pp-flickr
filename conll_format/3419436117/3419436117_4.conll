@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	116816	_
+2	bride	bride	_	NN	_	3	SBJ	116816	_
+3	having	have	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	116824	_
+5	photo	photo	_	NN	_	6	NMOD	116824	_
+6	shoot	shoot	_	NN	_	3	OBJ	116824	_
+7	outdoors	outdoors	_	RB	_	8	DEP	116818	_
+8	around	around	_	IN	_	3	ADV	_	3
+9	lots	lot	_	NNS	_	8	PMOD	116817	_
+10	of	of	_	IN	_	9	NMOD	116817	_
+11	people	people	_	NN	_	10	PMOD	116817	_
+12	.	.	_	.	_	0	ROOT	_	_

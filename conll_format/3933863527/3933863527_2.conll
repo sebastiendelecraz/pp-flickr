@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	148619	_
+2	ballerina	ballerina	_	NN	_	0	ROOT	148619	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	pink	pink	_	NN	_	5	NMOD	148625	_
+5	shoes	shoe	_	NNS	_	3	OBJ	148625	_
+6	,	,	_	,	_	5	P	_	_
+7	black	black	_	JJ	_	8	NMOD	148631	_
+8	tights	tights	_	NN	_	5	COORD	148631	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	a	a	_	DT	_	13	NMOD	148627	_
+11	gray	gray	_	JJ	_	13	NMOD	148627	_
+12	dress	dress	_	NN	_	13	NMOD	148627	_
+13	strikes	strike	_	NNS	_	9	CONJ	_	_
+14	a	a	_	DT	_	15	NMOD	148629	_
+15	pose	pose	_	NN	_	13	APPO	148629	_
+16	in front of	in front of	_	IN	_	3	ADV	_	13
+17	a	a	_	DT	_	18	NMOD	148622	_
+18	building	building	_	NN	_	16	PMOD	148622	_
+19	with	with	_	IN	_	18	NMOD	_	_
+20	large	large	_	JJ	_	21	NMOD	148620	_
+21	columns	column	_	NNS	_	19	PMOD	148620	_
+22	.	.	_	.	_	0	ROOT	_	_

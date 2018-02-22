@@ -1,0 +1,11 @@
+1	Stop	Stop	_	NNP	_	3	NMOD	_	_
+2	action	action	_	NN	_	3	NMOD	108905	_
+3	frame	frame	_	NN	_	0	ROOT	108905	_
+4	of	of	_	IN	_	3	NMOD	108905	_
+5	a	a	_	DT	_	6	NMOD	108905	_
+6	racer	racer	_	NN	_	4	PMOD	108905	_
+7	in	in	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	108903	_
+9	bicycle	bicycle	_	NN	_	10	NMOD	108903	_
+10	race	race	_	NN	_	7	PMOD	108903	_
+11	.	.	_	.	_	0	ROOT	_	_

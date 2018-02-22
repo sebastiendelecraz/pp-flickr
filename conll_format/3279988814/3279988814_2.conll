@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	3	NMOD	106564	_
+2	young	young	_	JJ	_	3	NMOD	106564	_
+3	women	woman	_	NNS	_	4	SBJ	106564	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	sitting	sit	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	106565	_
+8	bed	bed	_	NN	_	6	PMOD	106565	_
+9	beside	beside	_	IN	_	5	LOC	_	5
+10	some	some	_	DT	_	11	NMOD	106567	_
+11	posters	poster	_	NNS	_	9	PMOD	106567	_
+12	.	.	_	.	_	4	P	_	_

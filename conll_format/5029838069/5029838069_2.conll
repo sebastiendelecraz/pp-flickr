@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	227268	_
+2	shirtless	shirtless	_	JJ	_	3	NMOD	227268	_
+3	singer	singer	_	NN	_	0	ROOT	227268	_
+4	at	at	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	227267	_
+6	concert	concert	_	NN	_	4	PMOD	227267	_
+7	in front of	in front of	_	IN	_	3	NMOD	_	3
+8	a	a	_	DT	_	10	NMOD	227271	_
+9	cheering	cheer	_	VBG	_	10	NMOD	227271	_
+10	crowd	crowd	_	NN	_	7	PMOD	227271	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	arms	arm	_	NNS	_	11	PMOD	227277	_
+13	up	up	_	IN	_	3	DEP-GAP	_	_
+14	in	in	_	IN	_	13	AMOD	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	air	air	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	15875	_
+2	men	man	_	NNS	_	3	SBJ	15875	_
+3	work	work	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	15881	_
+6	side	side	_	NN	_	4	PMOD	15881	_
+7	of	of	_	IN	_	6	NMOD	15881	6
+8	a	a	_	DT	_	9	NMOD	15881	_
+9	building	building	_	NN	_	7	PMOD	15881	_
+10	and	and	_	CC	_	3	COORD	_	_
+11	wear	wear	_	VB	_	10	CONJ	15879	_
+12	safety	safety	_	NN	_	13	NMOD	15879	_
+13	gear	gear	_	NN	_	11	OBJ	15879	_
+14	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	3	NMOD	260608	_
+2	oriental	oriental	_	NN	_	3	NMOD	260608	_
+3	man	man	_	NN	_	0	ROOT	260608	_
+4	riding	ride	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	260609	_
+6	bike	bike	_	NN	_	4	OBJ	260609	_
+7	with	with	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	260613	_
+9	basket	basket	_	NN	_	7	PMOD	260613	_
+10	down	down	_	IN	_	4	ADV	_	4
+11	a	a	_	DT	_	13	NMOD	260612	_
+12	wet	wet	_	NN	_	13	NMOD	260612	_
+13	street	street	_	NN	_	10	PMOD	260612	_
+14	.	.	_	.	_	0	ROOT	_	_

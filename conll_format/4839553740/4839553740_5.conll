@@ -1,0 +1,7 @@
+1	pigeons	pigeon	_	NNS	_	0	ROOT	209500	_
+2	scouring	scour	_	VBG	_	1	APPO	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	food	food	_	NN	_	3	PMOD	209502	_
+5	on	on	_	IN	_	2	ADV	_	_
+6	sidewalk	sidewalk	_	NN	_	5	PMOD	209499	_
+7	.	.	_	.	_	0	ROOT	_	_

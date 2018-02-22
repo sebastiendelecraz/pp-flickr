@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	88691	_
+2	small	small	_	JJ	_	3	NMOD	88691	_
+3	boy	boy	_	NN	_	4	SBJ	88691	_
+4	raising	raise	_	VBG	_	0	ROOT	_	_
+5	his	his	_	PRP$	_	6	NMOD	88695	_
+6	hand	hand	_	NN	_	4	OBJ	88695	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	standing	standing	_	NN	_	7	CONJ	_	_
+9	among	among	_	IN	_	4	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	88693	_
+11	lot	lot	_	NN	_	9	PMOD	88693	_
+12	of	of	_	IN	_	11	NMOD	88693	_
+13	orange	orange	_	JJ	_	14	NMOD	88693	_
+14	pumpkins	pumpkin	_	NNS	_	12	PMOD	88693	_
+15	.	.	_	.	_	0	ROOT	_	_

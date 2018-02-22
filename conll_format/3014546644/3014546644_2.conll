@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	87347	_
+2	dog	dog	_	NN	_	3	SBJ	87347	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	DIR	_	3
+5	an	an	_	DT	_	7	NMOD	87351	_
+6	autumn	autumn	_	NN	_	7	NMOD	87351	_
+7	forest	forest	_	NN	_	4	PMOD	87351	_
+8	with	with	_	IN	_	3	ADV	_	_
+9	an	an	_	DT	_	11	NMOD	87349	_
+10	orange	orange	_	JJ	_	11	NMOD	87349	_
+11	line	line	_	NN	_	8	PMOD	87349	_
+12	attached	attach	_	VBN	_	11	APPO	_	_
+13	.	.	_	.	_	3	P	_	_

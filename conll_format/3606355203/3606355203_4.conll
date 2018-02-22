@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	131096	_
+2	man	man	_	NN	_	3	SBJ	131096	_
+3	pushes	push	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	131097	_
+5	baby	baby	_	NN	_	3	OBJ	131097	_
+6	in	in	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	131098	_
+8	carriage	carriage	_	NN	_	6	PMOD	131098	_
+9	on	on	_	IN	_	3	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	131099	_
+11	beach	beach	_	NN	_	9	PMOD	131099	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	174188	_
+2	man	man	_	NN	_	0	ROOT	174188	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	5	NMOD	174194	_
+5	overalls	overall	_	NNS	_	3	PMOD	174194	_
+6	hanging	hang	_	VBG	_	5	APPO	_	_
+7	onto	onto	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	174189	_
+9	pole	pole	_	NN	_	7	PMOD	174189	_
+10	above	above	_	IN	_	6	LOC	_	6
+11	a	a	_	DT	_	12	NMOD	174187	_
+12	crowd	crowd	_	NN	_	10	PMOD	174187	_
+13	of	of	_	IN	_	12	NMOD	174187	_
+14	people	people	_	NN	_	13	PMOD	174187	_
+15	.	.	_	.	_	0	ROOT	_	_

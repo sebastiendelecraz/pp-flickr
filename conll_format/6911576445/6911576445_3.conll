@@ -1,0 +1,11 @@
+1	Athletes	athlete	_	NNS	_	2	SBJ	261118	_
+2	push	push	_	VBP	_	0	ROOT	261118	_
+3	through	through	_	IN	_	2	DIR	_	2
+4	the	the	_	DT	_	5	NMOD	261124	_
+5	snow	snow	_	NN	_	3	PMOD	261124	_
+6	during	during	_	IN	_	2	TMP	_	2
+7	a	a	_	DT	_	10	NMOD	261119	_
+8	crosscountry	crosscountry	_	JJ	_	10	NMOD	261119	_
+9	skiing	skiing	_	NN	_	10	NMOD	_	_
+10	trial	trial	_	NN	_	6	PMOD	261121	_
+11	.	.	_	.	_	2	P	_	_

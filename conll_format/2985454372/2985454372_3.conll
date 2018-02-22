@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	85592	_
+2	woman	woman	_	NN	_	0	ROOT	85592	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	85594	_
+5	dress	dress	_	NN	_	3	PMOD	85594	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	85591	_
+8	man	man	_	NN	_	6	CONJ	85591	_
+9	in	in	_	IN	_	2	LOC	_	_
+10	jeans	jean	_	NNS	_	9	PMOD	85595	_
+11	taking	take	_	VBG	_	10	APPO	_	_
+12	a	a	_	DT	_	13	NMOD	0	_
+13	picture	picture	_	NN	_	11	OBJ	0	_
+14	of	of	_	IN	_	13	NMOD	0	_
+15	themselves	themselves	_	PRP	_	14	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

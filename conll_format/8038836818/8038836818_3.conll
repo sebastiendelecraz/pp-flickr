@@ -1,0 +1,15 @@
+1	Coverage	Coverage	_	NNP	_	0	ROOT	_	_
+2	from	from	_	IN	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	278041	_
+4	bicycle	bicycle	_	NN	_	5	NMOD	278041	_
+5	marathon	marathon	_	NN	_	2	PMOD	278041	_
+6	with	with	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	278043	_
+8	bundle	bundle	_	NN	_	6	PMOD	278043	_
+9	of	of	_	IN	_	8	NMOD	278043	_
+10	riders	rider	_	NNS	_	9	PMOD	278043	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	lot	lot	_	NN	_	11	CONJ	278040	_
+13	of	of	_	IN	_	12	NMOD	278040	_
+14	onlookers	onlooker	_	NNS	_	13	PMOD	278040	_
+15	.	.	_	.	_	0	ROOT	_	_

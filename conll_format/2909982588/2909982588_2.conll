@@ -1,0 +1,14 @@
+1	Young	Young	_	NNP	_	2	NMOD	80719	_
+2	man	man	_	NN	_	0	ROOT	80719	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	80721	_
+6	blanket	blanket	_	NN	_	4	PMOD	80721	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	80727	_
+9	grass	grass	_	NN	_	7	PMOD	80727	_
+10	and	and	_	CC	_	3	COORD	_	_
+11	eating	eat	_	VBG	_	10	CONJ	_	_
+12	a	a	_	DT	_	13	NMOD	80720	_
+13	ribs	rib	_	NNS	_	11	OBJ	80720	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	146583	_
+2	guy	guy	_	NN	_	8	SBJ	146583	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	146585	_
+5	yellow	yellow	_	JJ	_	7	NMOD	146585	_
+6	parachute	parachute	_	NN	_	7	NMOD	146585	_
+7	jumpsuit	jumpsuit	_	NN	_	3	PMOD	146585	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	between	between	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	146584	_
+12	row	row	_	NN	_	10	PMOD	146584	_
+13	of	of	_	IN	_	12	NMOD	146584	_
+14	packed	pack	_	VBN	_	15	NMOD	146584	_
+15	parachutes	parachute	_	NNS	_	13	PMOD	146584	_
+16	.	.	_	.	_	8	P	_	_

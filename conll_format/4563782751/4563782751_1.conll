@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	178850	_
+2	parade	parade	_	NN	_	0	ROOT	178850	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	men	man	_	NNS	_	3	PMOD	178851	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	women	woman	_	NNS	_	5	CONJ	178852	_
+7	in	in	_	IN	_	2	LOC	_	_
+8	blue	blue	_	JJ	_	10	NMOD	178853	_
+9	blowing	blow	_	VBG	_	10	NMOD	178853	_
+10	instruments	instrument	_	NNS	_	7	PMOD	178853	_
+11	,	,	_	,	_	0	ROOT	_	_
+12	and	and	_	CC	_	0	ROOT	_	_
+13	beating	beat	_	VBG	_	12	CONJ	178854	_
+14	drums	drum	_	NNS	_	13	OBJ	178854	_
+15	standing	stand	_	VBG	_	13	OPRD	_	_
+16	in front of	in front of	_	IN	_	15	ADV	_	15
+17	a	a	_	DT	_	18	NMOD	178855	_
+18	building	building	_	NN	_	16	PMOD	178855	_
+19	.	.	_	.	_	0	ROOT	_	_

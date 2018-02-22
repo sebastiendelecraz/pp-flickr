@@ -1,0 +1,9 @@
+1	Young	Young	_	NNP	_	2	NMOD	240645	_
+2	boy	boy	_	NN	_	3	SBJ	240645	_
+3	looking	look	_	VBG	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	240646	_
+6	telescope	telescope	_	NN	_	4	PMOD	240646	_
+7	at	at	_	IN	_	3	ADV	_	_
+8	midday	midday	_	NN	_	7	PMOD	240647	_
+9	.	.	_	.	_	0	ROOT	_	_

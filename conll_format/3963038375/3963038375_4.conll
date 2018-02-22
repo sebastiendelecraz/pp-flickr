@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	149801	_
+2	man	man	_	NN	_	0	ROOT	149801	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	149802	_
+5	blue	blue	_	JJ	_	7	NMOD	149802	_
+6	shirt	shirt	_	NN	_	7	NMOD	149802	_
+7	ties	tie	_	NNS	_	3	PMOD	_	_
+8	a	a	_	DT	_	9	NMOD	149804	_
+9	knot	knot	_	NN	_	7	ADV	149804	_
+10	in	in	_	IN	_	2	LOC	_	7
+11	a	a	_	DT	_	13	NMOD	149805	_
+12	blue	blue	_	JJ	_	13	NMOD	149805	_
+13	rope	rope	_	NN	_	10	PMOD	149805	_
+14	.	.	_	.	_	0	ROOT	_	_

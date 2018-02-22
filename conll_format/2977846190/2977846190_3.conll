@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	4	NMOD	85177	_
+2	older	old	_	JJR	_	4	NMOD	85177	_
+3	black	black	_	JJ	_	4	NMOD	85177	_
+4	man	man	_	NN	_	0	ROOT	85177	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	8	NMOD	85178	_
+7	blue	blue	_	JJ	_	8	NMOD	85178	_
+8	shirt	shirt	_	NN	_	5	PMOD	85178	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	green	green	_	JJ	_	12	NMOD	85182	_
+11	hat	hat	_	NN	_	12	NMOD	85182	_
+12	dozes	doze	_	NNS	_	9	CONJ	85182	_
+13	on	on	_	IN	_	4	NMOD	_	_
+14	the	the	_	DT	_	15	NMOD	85186	_
+15	subway	subway	_	NN	_	13	PMOD	85186	_
+16	.	.	_	.	_	0	ROOT	_	_

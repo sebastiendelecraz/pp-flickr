@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	207606	_
+2	group	group	_	NN	_	5	SBJ	207606	_
+3	of	of	_	IN	_	2	NMOD	207606	_
+4	people	people	_	NN	_	3	PMOD	207606	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	gathered	gather	_	VBN	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	207608	_
+9	protest	protest	_	NN	_	7	PMOD	207608	_
+10	against	against	_	IN	_	9	NMOD	_	6
+11	the	the	_	DT	_	12	NMOD	207615	_
+12	middle	middle	_	NN	_	10	PMOD	207615	_
+13	east	east	_	RB	_	14	NMOD	207613	_
+14	violence	violence	_	NN	_	9	APPO	207613	_
+15	.	.	_	.	_	5	P	_	_

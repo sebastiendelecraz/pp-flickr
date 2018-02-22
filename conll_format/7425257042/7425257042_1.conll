@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	3	NMOD	269684	_
+2	ring	ring	_	NN	_	3	NMOD	269684	_
+3	bearer	bearer	_	NN	_	12	SBJ	269684	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	269684	_
+6	black	black	_	JJ	_	7	NMOD	269684	_
+7	suit	suit	_	NN	_	4	OBJ	269684	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	269688	_
+10	pink	pink	_	NN	_	11	NMOD	269688	_
+11	vest	vest	_	CD	_	8	PMOD	269688	_
+12	is	be	_	VBZ	_	0	ROOT	_	_
+13	smiling	smile	_	VBG	_	12	VC	_	_
+14	big	big	_	JJ	_	13	OBJ	_	_
+15	next to	next to	_	IN	_	13	ADV	_	13
+16	the	the	_	DT	_	18	NMOD	269683	_
+17	flower	flower	_	NN	_	18	NMOD	269683	_
+18	girl	girl	_	NN	_	15	PMOD	269683	_
+19	in	in	_	IN	_	18	LOC	_	_
+20	a	a	_	DT	_	22	NMOD	269691	_
+21	white	white	_	JJ	_	22	NMOD	269691	_
+22	dress	dress	_	NN	_	19	PMOD	269691	_
+23	with	with	_	IN	_	22	NMOD	_	_
+24	a	a	_	DT	_	26	NMOD	269688	_
+25	pink	pink	_	NN	_	26	NMOD	269688	_
+26	tie	tie	_	NN	_	23	PMOD	269688	_
+27	.	.	_	.	_	12	P	_	_

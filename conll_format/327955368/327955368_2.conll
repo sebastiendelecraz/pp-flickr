@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	106548	_
+2	smiling	smile	_	VBG	_	4	NMOD	106548	_
+3	young	young	_	JJ	_	4	NMOD	106548	_
+4	boy	boy	_	NN	_	5	SBJ	106548	_
+5	plays	play	_	VBZ	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	106550	_
+8	leaves	leaf	_	NNS	_	6	PMOD	106550	_
+9	among	among	_	IN	_	8	LOC	_	5
+10	the	the	_	DT	_	11	NMOD	106549	_
+11	ducks	duck	_	NNS	_	9	PMOD	106549	_
+12	.	.	_	.	_	5	P	_	_

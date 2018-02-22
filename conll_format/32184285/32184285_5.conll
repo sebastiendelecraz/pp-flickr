@@ -1,0 +1,31 @@
+1	A	a	_	DT	_	2	NMOD	102013	_
+2	worker	worker	_	NN	_	3	SBJ	102013	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	at the bottom of	at the bottom of	_	IN	_	3	PRD	102020	3
+5	an	an	_	DT	_	7	NMOD	102020	_
+6	outdoor	outdoor	_	JJ	_	7	NMOD	102020	_
+7	flight	flight	_	NN	_	4	PMOD	102020	_
+8	of	of	_	IN	_	7	NMOD	_	_
+9	steps	step	_	NNS	_	8	PMOD	102017	_
+10	using	use	_	VBG	_	9	APPO	_	_
+11	power	power	_	NN	_	12	NMOD	102016	_
+12	tools	tool	_	NNS	_	10	OBJ	102016	_
+13	on	on	_	IN	_	10	ADV	_	_
+14	a	a	_	DT	_	17	NMOD	102018	_
+15	makeshift	makeshift	_	JJ	_	17	NMOD	102018	_
+16	work	work	_	NN	_	17	NMOD	102018	_
+17	surface	surface	_	NN	_	13	PMOD	102018	_
+18	which	which	_	WDT	_	19	SBJ	0	_
+19	consists	consist	_	VBZ	_	17	NMOD	_	_
+20	of	of	_	IN	_	19	ADV	_	_
+21	wood	wood	_	NN	_	22	NMOD	102014	_
+22	boards	board	_	NNS	_	20	PMOD	102014	_
+23	that	that	_	WDT	_	24	SBJ	0	_
+24	are	be	_	VBP	_	22	NMOD	_	_
+25	on top of	on top of	_	IN	_	24	LOC-PRD	_	24
+26	a	a	_	DT	_	27	NMOD	102015	_
+27	couple	couple	_	NN	_	25	PMOD	102015	_
+28	of	of	_	IN	_	27	NMOD	102015	_
+29	a-frame	a-frame	_	CD	_	30	NMOD	102015	_
+30	stands	stand	_	NNS	_	28	PMOD	102015	_
+31	.	.	_	.	_	3	P	_	_

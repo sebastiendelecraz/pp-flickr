@@ -1,0 +1,11 @@
+1	Four	Four	_	CD	_	3	NMOD	80373	_
+2	multicolored	multicolored	_	JJ	_	3	NMOD	80373	_
+3	dog	dog	_	NN	_	0	ROOT	80373	_
+4	like	like	_	IN	_	3	NMOD	_	5
+5	animals	animal	_	NNS	_	4	PMOD	80373	_
+6	in	in	_	IN	_	3	LOC	_	5
+7	a	a	_	DT	_	10	NMOD	80374	_
+8	dryed	dryed	_	CD	_	10	NMOD	80374	_
+9	grass	grass	_	NN	_	10	NMOD	80374	_
+10	field	field	_	NN	_	6	PMOD	80374	_
+11	.	.	_	.	_	0	ROOT	_	_

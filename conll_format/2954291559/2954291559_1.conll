@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	83773	_
+2	man	man	_	NN	_	7	SBJ	83773	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	83780	_
+5	hard	hard	_	JJ	_	6	NMOD	83780	_
+6	hat	hat	_	NN	_	3	OBJ	83780	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	83775	_
+11	flag	flag	_	NN	_	9	PMOD	83775	_
+12	on top of	on top of	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	15	NMOD	83774	_
+14	metal	metal	_	NN	_	15	NMOD	83774	_
+15	structure	structure	_	NN	_	12	PMOD	83774	_
+16	.	.	_	.	_	7	P	_	_

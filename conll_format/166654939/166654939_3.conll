@@ -1,0 +1,10 @@
+1	Ralley	Ralley	_	NNP	_	2	NMOD	18367	_
+2	cars	car	_	NNS	_	3	SBJ	18367	_
+3	muscle	muscle	_	VBP	_	0	ROOT	18367	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	position	position	_	NN	_	4	PMOD	18364	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	9	NMOD	18361	_
+8	dirt	dirt	_	NN	_	9	NMOD	18361	_
+9	track	track	_	NN	_	6	PMOD	18361	_
+10	.	.	_	.	_	3	P	_	_

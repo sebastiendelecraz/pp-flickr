@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	2	NMOD	16605	_
+2	couple	couple	_	NN	_	3	SBJ	16605	_
+3	dogs	dog	_	VBZ	_	0	ROOT	16605	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	around	around	_	IN	_	5	CONJ	_	_
+7	a	a	_	DT	_	9	NMOD	16607	_
+8	small	small	_	JJ	_	9	NMOD	16607	_
+9	lake	lake	_	NN	_	4	PMOD	16607	_
+10	of	of	_	IN	_	9	NMOD	16607	_
+11	water	water	_	NN	_	10	PMOD	16607	_
+12	near	near	_	IN	_	9	LOC	_	3
+13	a	a	_	DT	_	14	NMOD	16606	_
+14	highway	highway	_	NN	_	12	PMOD	16606	_
+15	.	.	_	.	_	3	P	_	_

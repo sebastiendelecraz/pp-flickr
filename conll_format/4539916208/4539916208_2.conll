@@ -1,0 +1,16 @@
+1	People	People	_	NNPS	_	2	NAME	176481	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	by	by	_	IN	_	2	MNR	_	2
+4	a	a	_	DT	_	6	NMOD	176482	_
+5	silver	silver	_	NN	_	6	NMOD	176482	_
+6	mime	mime	_	NN	_	3	PMOD	176482	_
+7	on	on	_	IN	_	2	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	176488	_
+9	street	street	_	NN	_	7	PMOD	176488	_
+10	with	with	_	IN	_	2	ADV	_	_
+11	his	his	_	PRP$	_	12	NMOD	176482	_
+12	back	back	_	RB	_	10	PMOD	176482	_
+13	to	to	_	TO	_	12	AMOD	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	camera	camera	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

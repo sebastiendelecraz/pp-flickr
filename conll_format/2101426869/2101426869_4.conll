@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	28767	_
+2	young	young	_	JJ	_	3	NMOD	28767	_
+3	boy	boy	_	NN	_	6	SBJ	28767	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	jeans	jean	_	NNS	_	4	PMOD	28774	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC-PRD	_	_
+8	a	a	_	DT	_	9	NMOD	28768	_
+9	field	field	_	NN	_	7	PMOD	28768	_
+10	near	near	_	IN	_	6	TMP	_	6
+11	a	a	_	DT	_	13	NMOD	28769	_
+12	some	some	_	DT	_	13	NMOD	28769	_
+13	trees	tree	_	NNS	_	10	PMOD	28769	_
+14	.	.	_	.	_	6	P	_	_

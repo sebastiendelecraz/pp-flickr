@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	177332	_
+2	crowd	crowd	_	NN	_	3	SBJ	177332	_
+3	loiters	loiter	_	VBZ	_	0	ROOT	_	_
+4	near	near	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	177333	_
+6	start	start	_	NN	_	4	PMOD	177333	_
+7	of	of	_	IN	_	6	NMOD	177333	_
+8	a	a	_	DT	_	9	NMOD	177333	_
+9	marathon	marathon	_	NN	_	7	PMOD	177333	_
+10	.	.	_	.	_	3	P	_	_

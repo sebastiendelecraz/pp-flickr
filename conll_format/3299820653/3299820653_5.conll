@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	107845	_
+2	men	man	_	NNS	_	6	SBJ	107845	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	black	black	_	JJ	_	5	NMOD	107848	_
+5	suits	suit	_	NNS	_	3	PMOD	107848	_
+6	stand	stand	_	VBP	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	stage	stage	_	NN	_	7	PMOD	107844	_
+9	next to	next to	_	IN	_	6	ADV	_	6
+10	microphones	microphone	_	NNS	_	9	PMOD	107850	_
+11	.	.	_	.	_	6	P	_	_

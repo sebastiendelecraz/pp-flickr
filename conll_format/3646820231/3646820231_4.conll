@@ -1,0 +1,9 @@
+1	Black	Black	_	NNP	_	2	NMOD	133989	_
+2	dog	dog	_	NN	_	0	ROOT	133989	_
+3	amid	amid	_	IN	_	2	LOC	_	2
+4	white	white	_	JJ	_	5	NMOD	133990	_
+5	animals	animal	_	NNS	_	3	PMOD	133990	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	133993	_
+8	field	field	_	NN	_	6	PMOD	133993	_
+9	.	.	_	.	_	0	ROOT	_	_

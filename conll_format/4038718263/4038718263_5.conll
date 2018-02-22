@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	152863	_
+2	men	man	_	NNS	_	3	SBJ	152863	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	8	NMOD	152865	_
+7	dark	dark	_	JJ	_	8	NMOD	152865	_
+8	alley	alley	_	NN	_	5	PMOD	152865	_
+9	at	at	_	IN	_	4	LOC	_	_
+10	night	night	_	NN	_	9	PMOD	152866	_
+11	.	.	_	.	_	3	P	_	_

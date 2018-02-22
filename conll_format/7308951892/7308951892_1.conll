@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	3	NMOD	268283	_
+2	construction	construction	_	NN	_	3	NMOD	268283	_
+3	worker	worker	_	NN	_	4	SBJ	268283	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	standing	stand	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	268284	_
+8	crane	crane	_	NN	_	6	PMOD	268284	_
+9	placing	place	_	VBG	_	8	APPO	_	_
+10	a	a	_	DT	_	12	NMOD	268285	_
+11	large	large	_	JJ	_	12	NMOD	268285	_
+12	arm	arm	_	NN	_	9	OBJ	268285	_
+13	on top of	on top of	_	IN	_	5	ADV	_	9
+14	a	a	_	DT	_	15	NMOD	268286	_
+15	stature	stature	_	NN	_	13	PMOD	268286	_
+16	in	in	_	IN	_	5	LOC	_	_
+17	progress	progress	_	NN	_	16	PMOD	268289	_
+18	.	.	_	.	_	4	P	_	_

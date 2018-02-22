@@ -1,0 +1,9 @@
+1	These	these	_	DT	_	2	SBJ	0	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	tourists	tourist	_	NNS	_	2	SBJ	76459	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	76462	_
+6	Olympics	Olympics	_	NNP	_	4	PMOD	76462	_
+7	in	in	_	IN	_	3	LOC	_	3
+8	China	China	_	NNP	_	7	PMOD	76460	_
+9	.	.	_	.	_	2	P	_	_

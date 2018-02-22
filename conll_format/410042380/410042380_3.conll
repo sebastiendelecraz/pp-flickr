@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	155398	_
+2	woman	woman	_	NN	_	3	SBJ	155398	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	8	NMOD	155399	_
+6	large	large	_	JJ	_	8	NMOD	155399	_
+7	brown	brown	_	JJ	_	8	NMOD	155399	_
+8	couch	couch	_	NN	_	4	PMOD	155399	_
+9	in the middle of	in the middle of	_	IN	_	3	LOC	155400	3
+10	a	a	_	DT	_	11	NMOD	155400	_
+11	mall	mall	_	NN	_	9	PMOD	155400	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	280875	_
+2	woman	woman	_	NN	_	3	SBJ	280875	_
+3	wearing	wear	_	VBG	_	9	SBJ	_	_
+4	black	black	_	JJ	_	5	NMOD	280879	_
+5	shorts	short	_	NNS	_	3	OBJ	280879	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	280881	_
+8	sweater	sweater	_	NN	_	6	CONJ	280881	_
+9	stands	stand	_	VBZ	_	0	ROOT	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	the	the	_	DT	_	12	NMOD	280878	_
+12	sidewalk	sidewalk	_	NN	_	10	PMOD	280878	_
+13	beside	beside	_	IN	_	9	LOC	_	9
+14	a	a	_	DT	_	16	NMOD	280876	_
+15	paved	pave	_	VBN	_	16	NMOD	280876	_
+16	road	road	_	NN	_	13	PMOD	280876	_
+17	.	.	_	.	_	9	P	_	_

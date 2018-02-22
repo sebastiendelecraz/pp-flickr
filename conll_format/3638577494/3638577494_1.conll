@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	133332	_
+2	pet	pet	_	NN	_	3	NMOD	133332	_
+3	dog	dog	_	NN	_	8	NMOD	133332	_
+4	,	,	_	,	_	8	P	_	_
+5	standing	stand	_	VBG	_	8	SBJ	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	bank	bank	_	NN	_	6	PMOD	133335	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	looking	look	_	VBG	_	8	VC	_	_
+10	at	at	_	IN	_	9	ADV	_	_
+11	another	another	_	DT	_	13	NMOD	133333	_
+12	brown	brown	_	JJ	_	13	NMOD	133333	_
+13	dog	dog	_	NN	_	10	PMOD	133333	_
+14	inside	inside	_	IN	_	9	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	133334	_
+16	pond	pond	_	NN	_	14	PMOD	133334	_
+17	.	.	_	.	_	8	P	_	_

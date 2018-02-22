@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	29673	_
+2	man	man	_	NN	_	0	ROOT	29673	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	29676	_
+5	blue	blue	_	JJ	_	7	NMOD	29676	_
+6	inform	inform	_	JJ	_	7	NMOD	29676	_
+7	holding	holding	_	NN	_	3	PMOD	_	_
+8	a	a	_	DT	_	10	NMOD	29675	_
+9	soccer	soccer	_	NN	_	10	NMOD	29675	_
+10	ball	ball	_	NN	_	7	APPO	29675	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	standing	standing	_	NN	_	11	CONJ	_	_
+13	on	on	_	IN	_	7	NMOD	_	_
+14	a	a	_	DT	_	16	NMOD	29680	_
+15	soccer	soccer	_	NN	_	16	NMOD	29680	_
+16	field	field	_	NN	_	13	PMOD	29680	_
+17	.	.	_	.	_	0	ROOT	_	_

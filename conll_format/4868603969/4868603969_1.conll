@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	213147	_
+2	man	man	_	NN	_	3	SBJ	213147	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	213150	_
+7	grassy	grassy	_	JJ	_	8	NMOD	213150	_
+8	field	field	_	NN	_	5	PMOD	213150	_
+9	with	with	_	IN	_	4	ADV	_	4
+10	a	a	_	DT	_	12	NMOD	213149	_
+11	green	green	_	JJ	_	12	NMOD	213149	_
+12	umbrella	umbrella	_	NN	_	9	PMOD	213149	_
+13	behind	behind	_	IN	_	12	LOC	_	_
+14	him	him	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	3	P	_	_

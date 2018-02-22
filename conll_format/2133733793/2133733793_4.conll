@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	30496	_
+2	large	large	_	JJ	_	3	NMOD	30496	_
+3	group	group	_	NN	_	0	ROOT	30496	_
+4	of	of	_	IN	_	3	NMOD	30496	_
+5	people	people	_	NN	_	4	PMOD	30496	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	pamphlets	pamphlet	_	NNS	_	6	PMOD	30499	_
+8	sitting	sit	_	VBG	_	7	APPO	_	_
+9	in	in	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	30497	_
+11	auditorium	auditorium	_	NN	_	9	PMOD	30497	_
+12	.	.	_	.	_	0	ROOT	_	_

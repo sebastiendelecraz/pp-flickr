@@ -1,0 +1,14 @@
+1	Group	Group	_	NNP	_	4	SBJ	13139	_
+2	of	of	_	IN	_	1	NMOD	13139	_
+3	people	people	_	NN	_	2	PMOD	13139	_
+4	watching	watch	_	VBG	_	0	ROOT	_	_
+5	a	a	_	DT	_	6	NMOD	13136	_
+6	fountain	fountain	_	NN	_	4	OBJ	13136	_
+7	in	in	_	IN	_	4	LOC	_	4
+8	a	a	_	DT	_	10	NMOD	13135	_
+9	city	city	_	NN	_	10	NMOD	13135	_
+10	skyline	skyline	_	NN	_	7	PMOD	13135	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	palm	palm	_	NN	_	13	NMOD	13140	_
+13	trees	tree	_	NNS	_	11	PMOD	13140	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,10 @@
+1	Children	child	_	NNS	_	2	SBJ	158393	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	sitting	sit	_	VBG	_	2	VC	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	chairs	chair	_	NNS	_	4	PMOD	158394	_
+6	under	under	_	IN	_	5	LOC	_	3
+7	some	some	_	DT	_	9	NMOD	158396	_
+8	television	television	_	NN	_	9	NMOD	158396	_
+9	sets	set	_	NNS	_	6	PMOD	158396	_
+10	.	.	_	.	_	2	P	_	_

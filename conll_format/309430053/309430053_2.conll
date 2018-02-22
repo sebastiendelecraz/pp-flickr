@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	93183	_
+2	person	person	_	NN	_	3	SBJ	93183	_
+3	swims	swim	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	8	NMOD	93185	_
+6	shallow	shallow	_	NN	_	8	NMOD	93185	_
+7	turquoise	turquoise	_	NN	_	8	NMOD	93185	_
+8	sea	sea	_	NN	_	4	PMOD	93185	_
+9	toward	toward	_	IN	_	8	NMOD	_	3
+10	an	an	_	DT	_	13	NMOD	93182	_
+11	empty	empty	_	JJ	_	13	NMOD	93182	_
+12	tethered	tether	_	VBN	_	13	NMOD	93182	_
+13	rowboat	rowboat	_	NN	_	9	PMOD	93182	_
+14	.	.	_	.	_	3	P	_	_

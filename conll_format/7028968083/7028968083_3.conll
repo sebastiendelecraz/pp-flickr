@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	264313	_
+2	family	family	_	NN	_	3	SBJ	264313	_
+3	picnics	picnic	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	264315	_
+6	park	park	_	NN	_	4	PMOD	264315	_
+7	with	with	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	264314	_
+9	greenhouse	greenhouse	_	NN	_	7	PMOD	264314	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	background	background	_	NN	_	10	PMOD	0	_
+13	.	.	_	.	_	3	P	_	_

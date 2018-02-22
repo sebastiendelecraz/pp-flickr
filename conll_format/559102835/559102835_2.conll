@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	239272	_
+2	boys	boy	_	NNS	_	3	SBJ	239272	_
+3	run	run	_	VBP	_	0	ROOT	_	_
+4	after	after	_	IN	_	3	TMP	_	3
+5	a	a	_	DT	_	7	NMOD	239273	_
+6	soccer	soccer	_	NN	_	7	NMOD	239273	_
+7	ball	ball	_	NN	_	4	PMOD	239273	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	a	a	_	DT	_	10	NMOD	239274	_
+10	field	field	_	NN	_	8	PMOD	239274	_
+11	.	.	_	.	_	3	P	_	_

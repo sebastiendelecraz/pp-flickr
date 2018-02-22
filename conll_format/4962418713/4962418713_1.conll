@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	223631	_
+2	man	man	_	NN	_	3	SBJ	223631	_
+3	walking	walk	_	VBG	_	15	SBJ	_	_
+4	past	past	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	7	NMOD	223633	_
+6	lamp	lamp	_	NN	_	7	NMOD	223633	_
+7	post	post	_	NN	_	4	PMOD	223633	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	a	a	_	DT	_	10	NMOD	223632	_
+10	sign	sign	_	NN	_	8	PMOD	223632	_
+11	saying	say	_	VBG	_	10	APPO	_	_
+12	'	'	_	''	_	11	P	223639	_
+13	no	no	_	DT	_	14	NMOD	223639	_
+14	dogs	dog	_	NNS	_	11	OBJ	223639	_
+15	allowed	allow	_	VBD	_	0	ROOT	_	_
+16	'	'	_	''	_	15	P	_	_
+17	.	.	_	.	_	15	P	_	_

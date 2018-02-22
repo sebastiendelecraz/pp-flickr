@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	76056	_
+2	group	group	_	NN	_	16	SBJ	76056	_
+3	of	of	_	IN	_	2	NMOD	76056	_
+4	colorful	colorful	_	JJ	_	5	NMOD	76056	_
+5	children	child	_	NNS	_	3	PMOD	76056	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	76061	_
+8	room	room	_	NN	_	6	PMOD	76061	_
+9	with	with	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	12	NMOD	76057	_
+11	green	green	_	JJ	_	12	NMOD	76057	_
+12	carpet	carpet	_	NN	_	9	PMOD	76057	_
+13	on	on	_	IN	_	8	NMOD	_	_
+14	the	the	_	DT	_	15	NMOD	76057	_
+15	maroon	maroon	_	NN	_	13	PMOD	76057	_
+16	floors	floor	_	VBZ	_	0	ROOT	76057	_
+17	.	.	_	.	_	16	P	_	_

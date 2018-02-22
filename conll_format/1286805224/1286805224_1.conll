@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	7311	_
+2	pretty	pretty	_	JJ	_	4	NMOD	7311	_
+3	asian	asian	_	NN	_	4	NMOD	7311	_
+4	girl	girl	_	NN	_	5	SBJ	7311	_
+5	smiles	smile	_	VBZ	_	0	ROOT	_	_
+6	from	from	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	7313	_
+8	window	window	_	NN	_	6	PMOD	7313	_
+9	next to	next to	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	13	NMOD	7312	_
+11	neon	neon	_	NN	_	12	NMOD	7312	_
+12	takeout	takeout	_	NN	_	13	NMOD	7312	_
+13	sign	sign	_	NN	_	9	PMOD	7312	_
+14	.	.	_	.	_	5	P	_	_

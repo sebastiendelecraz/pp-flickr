@@ -1,0 +1,11 @@
+1	Workers	worker	_	NNS	_	2	SBJ	126602	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	scattered	scatter	_	VBN	_	2	VC	_	_
+4	among	among	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	126604	_
+6	scaffolding	scaffolding	_	NN	_	4	PMOD	126604	_
+7	on	on	_	IN	_	3	ADV	_	_
+8	an	an	_	DT	_	10	NMOD	126603	_
+9	older	old	_	JJR	_	10	NMOD	126603	_
+10	building	building	_	NN	_	7	PMOD	126603	_
+11	.	.	_	.	_	2	P	_	_

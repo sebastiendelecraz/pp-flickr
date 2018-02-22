@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	128726	_
+2	man	man	_	NN	_	3	AMOD	128726	_
+3	asleep	asleep	_	RB	_	11	NMOD	_	_
+4	at	at	_	IN	_	11	NMOD	_	2
+5	a	a	_	DT	_	6	NMOD	128727	_
+6	desk	desk	_	NN	_	4	PMOD	128727	_
+7	in	in	_	IN	_	11	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	128728	_
+9	library	library	_	NN	_	7	PMOD	128728	_
+10	reading	read	_	VBG	_	11	NMOD	128728	_
+11	room	room	_	NN	_	0	ROOT	128728	_
+12	.	.	_	.	_	0	ROOT	_	_

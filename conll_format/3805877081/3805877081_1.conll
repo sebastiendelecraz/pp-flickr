@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	143357	_
+2	figure	figure	_	NN	_	3	SBJ	143357	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	0	ROOT	_	_
+5	a	a	_	DT	_	7	NMOD	143358	_
+6	tin-roofed	tin-roofed	_	CD	_	7	NMOD	143358	_
+7	structure	structure	_	NN	_	0	ROOT	143358	_
+8	where	where	_	WRB	_	0	ROOT	_	_
+9	objects	object	_	NNS	_	10	SBJ	143361	_
+10	are	be	_	VBP	_	0	ROOT	_	_
+11	positioned	position	_	VBN	_	10	VC	_	_
+12	before	before	_	IN	_	11	TMP	_	_
+13	a	a	_	DT	_	14	NMOD	143364	_
+14	drawing	draw	_	VBG	_	12	PMOD	143364	_
+15	of	of	_	IN	_	14	NMOD	143364	_
+16	mountains	mountain	_	NNS	_	15	PMOD	143364	_
+17	and	and	_	CC	_	16	COORD	_	_
+18	clouds	cloud	_	NNS	_	17	CONJ	143365	_
+19	against	against	_	IN	_	14	ADV	_	14
+20	the	the	_	DT	_	22	NMOD	143359	_
+21	back	back	_	JJ	_	22	NMOD	143359	_
+22	wall	wall	_	NN	_	19	PMOD	143359	_
+23	.	.	_	.	_	10	P	_	_

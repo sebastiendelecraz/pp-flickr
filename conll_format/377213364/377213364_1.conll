@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	141884	_
+2	man	man	_	NN	_	0	ROOT	141884	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	15	NMOD	141896	_
+5	white	white	_	JJ	_	9	SBJ	141896	_
+6	and	and	_	CC	_	5	COORD	141896	_
+7	blue	blue	_	JJ	_	6	CONJ	141896	_
+8	vertically	vertically	_	RB	_	9	MNR	141896	_
+9	striped	stripe	_	VBD	_	15	SBJ	141896	_
+10	dress	dress	_	NN	_	11	NMOD	141896	_
+11	shirt	shirt	_	NN	_	9	OBJ	141896	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	black	black	_	JJ	_	14	NMOD	141897	_
+14	hair	hair	_	NN	_	12	PMOD	141897	_
+15	stands	stand	_	VBZ	_	3	PMOD	_	_
+16	in	in	_	IN	_	15	LOC	_	_
+17	a	a	_	DT	_	18	NMOD	141887	_
+18	room	room	_	NN	_	16	PMOD	141887	_
+19	next to	next to	_	IN	_	18	NMOD	_	15
+20	other	other	_	JJ	_	21	NMOD	141884	_
+21	people	people	_	NN	_	19	PMOD	141884	_
+22	looking	look	_	VBG	_	15	ADV	_	_
+23	forward	forward	_	RB	_	22	ADV	_	_
+24	.	.	_	.	_	0	ROOT	_	_

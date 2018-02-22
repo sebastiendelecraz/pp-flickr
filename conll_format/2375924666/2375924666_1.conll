@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	3	NMOD	45007	_
+2	brown	brown	_	JJ	_	3	NMOD	45007	_
+3	dog	dog	_	NN	_	0	ROOT	45007	_
+4	in front of	in front of	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	7	NMOD	45011	_
+6	white	white	_	JJ	_	7	NMOD	45011	_
+7	fence	fence	_	NN	_	4	PMOD	45011	_
+8	with	with	_	IN	_	3	NMOD	_	3
+9	a	a	_	DT	_	14	NMOD	45008	_
+10	blue	blue	_	JJ	_	14	NMOD	45008	_
+11	and	and	_	CC	_	10	COORD	45008	_
+12	red	red	_	JJ	_	11	CONJ	45008	_
+13	bat-shaped	bat-shaped	_	NN	_	14	NMOD	45008	_
+14	object	object	_	NN	_	8	PMOD	45008	_
+15	in	in	_	IN	_	14	LOC	_	_
+16	its	its	_	PRP$	_	17	NMOD	45009	_
+17	mouth	mouth	_	NN	_	15	PMOD	45009	_
+18	.	.	_	.	_	0	ROOT	_	_

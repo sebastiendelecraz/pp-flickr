@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	161528	_
+2	person	person	_	NN	_	5	SBJ	161528	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	skis	ski	_	NNS	_	3	PMOD	161532	_
+5	is	be	_	VBZ	_	14	OBJ	_	_
+6	flying	fly	_	VBG	_	5	VC	_	_
+7	through	through	_	IN	_	6	DIR	_	6
+8	the	the	_	DT	_	9	NMOD	0	_
+9	air	air	_	NN	_	7	PMOD	0	_
+10	near	near	_	IN	_	9	LOC	_	6
+11	a	a	_	DT	_	13	NMOD	161530	_
+12	brick	brick	_	NN	_	13	NMOD	161530	_
+13	building	building	_	NN	_	10	PMOD	161530	_
+14	surrounded	surround	_	VBD	_	0	ROOT	_	_
+15	by	by	_	IN	_	14	MNR	_	_
+16	snow	snow	_	NN	_	15	PMOD	161539	_
+17	.	.	_	.	_	14	P	_	_

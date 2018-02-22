@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	72603	_
+2	brunette	brunette	_	JJ	_	3	NMOD	72603	_
+3	female	female	_	JJ	_	7	NMOD	72603	_
+4	wearing	wear	_	VBG	_	7	NMOD	_	_
+5	a	a	_	DT	_	7	NMOD	72604	_
+6	gray	gray	_	JJ	_	7	NMOD	72604	_
+7	hat	hat	_	NN	_	8	SBJ	72604	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	near	near	_	IN	_	8	LOC-PRD	_	8
+10	a	a	_	DT	_	11	NMOD	72605	_
+11	cluster	cluster	_	NN	_	9	PMOD	72605	_
+12	of	of	_	IN	_	11	NMOD	72605	_
+13	rocks	rock	_	NNS	_	12	PMOD	72605	_
+14	by	by	_	IN	_	8	TMP	_	_
+15	the	the	_	DT	_	16	NMOD	72609	_
+16	bay	bay	_	NN	_	14	PMOD	72609	_
+17	.	.	_	.	_	8	P	_	_

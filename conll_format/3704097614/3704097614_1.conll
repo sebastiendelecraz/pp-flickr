@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	138047	_
+2	man	man	_	NN	_	7	SBJ	138047	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	138049	_
+5	black	black	_	JJ	_	6	NMOD	138049	_
+6	shirt	shirt	_	NN	_	3	PMOD	138049	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	walking	walk	_	VBG	_	7	VC	_	_
+9	in front of	in front of	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	138048	_
+11	billboard	billboard	_	NN	_	9	PMOD	138048	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	an	an	_	DT	_	15	NMOD	138048	_
+14	animated	animate	_	VBN	_	15	NMOD	138048	_
+15	dinosaur	dinosaur	_	NN	_	12	PMOD	138048	_
+16	on	on	_	IN	_	8	ADV	_	_
+17	it	it	_	PRP	_	16	PMOD	0	_
+18	.	.	_	.	_	7	P	_	_

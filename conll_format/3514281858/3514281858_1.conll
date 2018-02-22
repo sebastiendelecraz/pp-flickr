@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	123994	_
+2	woman	woman	_	NN	_	3	SBJ	123994	_
+3	holding	hold	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	123997	_
+5	hand	hand	_	NN	_	6	NMOD	123997	_
+6	puppet	puppet	_	NN	_	3	OBJ	123997	_
+7	in front of	in front of	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	123996	_
+9	class	class	_	NN	_	7	PMOD	123996	_
+10	of	of	_	IN	_	9	NMOD	123996	_
+11	students	student	_	NNS	_	10	PMOD	123996	_
+12	.	.	_	.	_	0	ROOT	_	_

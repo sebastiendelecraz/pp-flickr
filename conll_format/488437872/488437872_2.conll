@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	214532	_
+2	woman	woman	_	NN	_	0	ROOT	214532	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	214534	_
+5	white	white	_	JJ	_	6	NMOD	214534	_
+6	sweater	sweater	_	NN	_	3	PMOD	214534	_
+7	grabbing	grab	_	VBG	_	6	APPO	_	_
+8	a	a	_	DT	_	9	NMOD	214531	_
+9	man	man	_	NN	_	7	OBJ	214531	_
+10	in the middle of	in the middle of	_	IN	_	2	NMOD	214533	7
+11	a	a	_	DT	_	12	NMOD	214533	_
+12	crowd	crowd	_	NN	_	10	PMOD	214533	_
+13	.	.	_	.	_	0	ROOT	_	_

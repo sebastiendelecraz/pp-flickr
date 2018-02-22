@@ -1,0 +1,12 @@
+1	Senior	Senior	_	JJ	_	3	NMOD	204273	_
+2	citizen	citizen	_	NN	_	3	NMOD	204273	_
+3	shops	shop	_	NNS	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	NMOD	_	3
+5	shoes	shoe	_	NNS	_	4	PMOD	204276	_
+6	with	with	_	IN	_	3	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	204275	_
+8	sombrero	sombrero	_	NN	_	6	PMOD	204275	_
+9	on	on	_	IN	_	3	LOC	_	_
+10	his	his	_	PRP$	_	11	NMOD	204281	_
+11	head	head	_	NN	_	9	PMOD	204281	_
+12	.	.	_	.	_	0	ROOT	_	_

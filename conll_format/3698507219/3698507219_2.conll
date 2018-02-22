@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	137674	_
+2	father	father	_	NN	_	3	SBJ	137674	_
+3	assisting	assist	_	VBG	_	0	ROOT	_	_
+4	his	his	_	PRP$	_	6	NMOD	137673	_
+5	two	two	_	CD	_	6	NMOD	137673	_
+6	children	child	_	NNS	_	3	OBJ	137673	_
+7	during	during	_	IN	_	3	TMP	_	3
+8	a	a	_	DT	_	10	NMOD	137681	_
+9	nice	nice	_	JJ	_	10	NMOD	137681	_
+10	day	day	_	NN	_	7	PMOD	137681	_
+11	at	at	_	IN	_	3	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	137678	_
+13	park	park	_	NN	_	11	PMOD	137678	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	Men	Men	_	NNPS	_	4	SBJ	169130	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	women	woman	_	NNS	_	2	CONJ	169131	_
+4	sitting	sit	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	169129	_
+7	bench	bench	_	NN	_	5	PMOD	169129	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	12	NMOD	169128	_
+10	background	background	_	NN	_	11	NMOD	169128	_
+11	construction	construction	_	NN	_	12	NMOD	169128	_
+12	crane	crane	_	NN	_	8	PMOD	169128	_
+13	working	work	_	VBG	_	12	APPO	_	_
+14	on	on	_	IN	_	13	ADV	_	_
+15	the	the	_	DT	_	16	NMOD	169125	_
+16	cathedral	cathedral	_	JJ	_	14	PMOD	169125	_
+17	.	.	_	.	_	0	ROOT	_	_

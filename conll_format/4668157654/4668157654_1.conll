@@ -1,0 +1,14 @@
+1	One	One	_	CD	_	2	NMOD	188410	_
+2	person	person	_	NN	_	0	ROOT	188410	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	black	black	_	JJ	_	5	NMOD	188419	_
+5	leaning	leaning	_	NN	_	3	PMOD	_	_
+6	against	against	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	188412	_
+8	building	building	_	NN	_	6	PMOD	188412	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	188413	_
+11	sliver	sliver	_	NN	_	9	PMOD	188413	_
+12	of	of	_	IN	_	11	NMOD	188413	_
+13	sunshine	sunshine	_	NN	_	12	PMOD	188413	_
+14	.	.	_	.	_	0	ROOT	_	_

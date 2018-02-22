@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	79606	_
+2	football	football	_	NN	_	3	NMOD	79606	_
+3	player	player	_	NN	_	8	SBJ	79606	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	an	an	_	DT	_	7	NMOD	79609	_
+6	orange	orange	_	JJ	_	7	NMOD	79609	_
+7	jersey	jersey	_	NN	_	4	PMOD	79609	_
+8	tries	try	_	VBZ	_	0	ROOT	_	_
+9	to	to	_	TO	_	8	OPRD	_	_
+10	escape	escape	_	VB	_	9	IM	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	the	the	_	DT	_	13	NMOD	79610	_
+13	ball	ball	_	NN	_	11	PMOD	79610	_
+14	from	from	_	IN	_	10	ADV	_	10
+15	the	the	_	DT	_	16	NMOD	79611	_
+16	tackler	tackler	_	NN	_	14	PMOD	79611	_
+17	.	.	_	.	_	8	P	_	_

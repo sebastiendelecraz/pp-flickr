@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	238150	_
+2	garishly	garishly	_	RB	_	3	AMOD	238150	_
+3	dressed	dress	_	VBN	_	4	NMOD	238150	_
+4	man	man	_	NN	_	5	SBJ	238150	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	in front of	in front of	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	238152	_
+9	group	group	_	NN	_	7	PMOD	238152	_
+10	of	of	_	IN	_	9	NMOD	238152	_
+11	children	child	_	NNS	_	10	PMOD	238152	_
+12	that	that	_	WDT	_	13	SBJ	0	_
+13	are	be	_	VBP	_	11	NMOD	_	_
+14	sitting	sit	_	VBG	_	13	VC	_	_
+15	down	down	_	RP	_	14	PRT	_	_
+16	.	.	_	.	_	5	P	_	_

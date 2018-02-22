@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	114930	_
+2	people	people	_	NN	_	3	SBJ	114930	_
+3	stand	stand	_	VBP	_	0	ROOT	_	_
+4	before	before	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	114932	_
+6	spinning	spin	_	VBG	_	7	NMOD	114932	_
+7	wheel	wheel	_	NN	_	4	PMOD	114932	_
+8	at	at	_	IN	_	3	TMP	_	3
+9	a	a	_	DT	_	10	NMOD	114931	_
+10	carnival	carnival	_	NN	_	8	PMOD	114931	_
+11	.	.	_	.	_	3	P	_	_

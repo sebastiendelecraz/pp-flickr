@@ -1,0 +1,10 @@
+1	Military	Military	_	NNP	_	2	NMOD	201144	_
+2	archers	archer	_	NNS	_	3	SBJ	201144	_
+3	march	march	_	VBP	_	0	ROOT	201144	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	unison	unison	_	NN	_	4	PMOD	201146	_
+6	during	during	_	IN	_	3	TMP	_	3
+7	a	a	_	DT	_	9	NMOD	201145	_
+8	military	military	_	JJ	_	9	NMOD	201145	_
+9	parade	parade	_	NN	_	6	PMOD	201145	_
+10	.	.	_	.	_	3	P	_	_

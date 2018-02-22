@@ -1,0 +1,13 @@
+1	Thin	Thin	_	NNP	_	2	NMOD	238280	_
+2	man	man	_	NN	_	0	ROOT	238280	_
+3	in	in	_	IN	_	2	NMOD	_	_
+4	suit	suit	_	NN	_	3	PMOD	238283	_
+5	standing	stand	_	VBG	_	4	APPO	_	_
+6	at	at	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	238282	_
+8	podium	podium	_	NN	_	6	PMOD	238282	_
+9	in	in	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	12	NMOD	238281	_
+11	banquet	banquet	_	NN	_	12	NMOD	238281	_
+12	room	room	_	NN	_	9	PMOD	238281	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	242375	_
+2	young	young	_	JJ	_	3	NMOD	242375	_
+3	man	man	_	NN	_	8	SBJ	242375	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	242377	_
+6	blue	blue	_	JJ	_	7	NMOD	242377	_
+7	shirt	shirt	_	NN	_	4	OBJ	242377	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	in	in	_	IN	_	8	PRD	_	_
+10	midair	midair	_	NN	_	9	PMOD	242383	_
+11	with	with	_	IN	_	10	NMOD	_	8
+12	a	a	_	DT	_	13	NMOD	242376	_
+13	bicycle	bicycle	_	NN	_	11	PMOD	242376	_
+14	.	.	_	.	_	8	P	_	_

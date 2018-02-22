@@ -1,0 +1,10 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	102588	_
+2	playing	play	_	VBG	_	0	ROOT	_	_
+3	with	with	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	102589	_
+5	baby	baby	_	NN	_	3	PMOD	102589	_
+6	on	on	_	IN	_	2	ADV	_	_
+7	a	a	_	DT	_	9	NMOD	102591	_
+8	flowered	flower	_	VBN	_	9	NMOD	102591	_
+9	carpet	carpet	_	NN	_	6	PMOD	102591	_
+10	.	.	_	.	_	0	ROOT	_	_

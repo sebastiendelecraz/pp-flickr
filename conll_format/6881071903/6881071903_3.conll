@@ -1,0 +1,17 @@
+1	Picture	Picture	_	NNP	_	2	SBJ	260237	_
+2	looking	look	_	VBG	_	0	ROOT	_	_
+3	up to	up to	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	260231	_
+5	marathon	marathon	_	NN	_	6	NMOD	260231	_
+6	biker	biker	_	NN	_	3	PMOD	260231	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	his	his	_	PRP$	_	9	NMOD	260232	_
+9	bike	bike	_	NN	_	7	PMOD	260232	_
+10	,	,	_	,	_	0	ROOT	_	_
+11	going	go	_	VBG	_	0	ROOT	_	_
+12	down	down	_	RP	_	11	PRT	_	_
+13	an	an	_	DT	_	14	NMOD	260234	_
+14	aisle	aisle	_	NN	_	11	OBJ	260234	_
+15	of	of	_	IN	_	14	NMOD	260234	_
+16	people	people	_	NN	_	15	PMOD	260234	_
+17	.	.	_	.	_	0	ROOT	_	_

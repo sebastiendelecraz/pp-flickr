@@ -1,0 +1,25 @@
+1	An	an	_	DT	_	3	NMOD	29992	_
+2	Asian	Asian	_	JJ	_	3	NMOD	29992	_
+3	woman	woman	_	NN	_	4	SBJ	29992	_
+4	wearing	wear	_	VBG	_	14	SBJ	_	_
+5	a	a	_	DT	_	7	NMOD	29994	_
+6	black	black	_	JJ	_	7	NMOD	29994	_
+7	shirt	shirt	_	NN	_	4	OBJ	29994	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	white	white	_	JJ	_	10	NMOD	30001	_
+10	circles	circle	_	NNS	_	8	PMOD	30001	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	yellow	yellow	_	JJ	_	13	NMOD	29995	_
+13	sandals	sandal	_	NNS	_	11	CONJ	29995	_
+14	sits	sit	_	VBZ	_	0	ROOT	_	_
+15	in front of	in front of	_	IN	_	14	ADV	_	_
+16	a	a	_	DT	_	17	NMOD	29997	_
+17	wall	wall	_	NN	_	15	PMOD	29997	_
+18	with	with	_	IN	_	17	NMOD	_	14
+19	a	a	_	DT	_	20	NMOD	29993	_
+20	basket	basket	_	NN	_	18	PMOD	29993	_
+21	of	of	_	IN	_	20	NMOD	29993	_
+22	clothes	clothes	_	NNS	_	21	PMOD	29993	_
+23	beside	beside	_	IN	_	0	ROOT	_	_
+24	her	her	_	PRP$	_	0	ROOT	0	_
+25	.	.	_	.	_	0	ROOT	_	_

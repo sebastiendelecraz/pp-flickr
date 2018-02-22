@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	71026	_
+2	group	group	_	NN	_	0	ROOT	71026	_
+3	of	of	_	IN	_	2	NMOD	71026	_
+4	women	woman	_	NNS	_	3	PMOD	71026	_
+5	with	with	_	IN	_	4	NMOD	_	_
+6	small	small	_	JJ	_	7	NMOD	71025	_
+7	children	child	_	NNS	_	5	PMOD	71025	_
+8	sitting	sit	_	VBG	_	7	APPO	_	_
+9	around	around	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	71029	_
+11	mat	mat	_	NN	_	9	PMOD	71029	_
+12	in	in	_	IN	_	8	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	71032	_
+14	room	room	_	NN	_	12	PMOD	71032	_
+15	.	.	_	.	_	0	ROOT	_	_

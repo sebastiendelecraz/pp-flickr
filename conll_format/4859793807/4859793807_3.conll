@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	212026	_
+2	bald	bald	_	JJ	_	3	NMOD	212026	_
+3	man	man	_	NN	_	4	SBJ	212026	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	looking	look	_	VBG	_	4	VC	_	_
+6	out	out	_	RP	_	5	PRT	_	_
+7	at	at	_	IN	_	5	ADV	_	5
+8	a	a	_	DT	_	9	NMOD	212029	_
+9	crowd	crowd	_	NN	_	7	PMOD	212029	_
+10	of	of	_	IN	_	9	NMOD	212029	_
+11	people	people	_	NN	_	10	PMOD	212029	_
+12	.	.	_	.	_	4	P	_	_

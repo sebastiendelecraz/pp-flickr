@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	2	NMOD	35747	_
+2	man	man	_	NN	_	3	SBJ	35747	_
+3	talks	talk	_	VBZ	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	35748	_
+6	microphone	microphone	_	NN	_	4	PMOD	35748	_
+7	in front of	in front of	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	35752	_
+9	gathering	gathering	_	NN	_	7	PMOD	35752	_
+10	while	while	_	IN	_	3	TMP	_	_
+11	being	be	_	VBG	_	10	SUB	_	_
+12	cheered	cheer	_	VBN	_	11	VC	_	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	applauded	applaud	_	VBN	_	13	CONJ	_	_
+15	upon	upon	_	IN	_	12	TMP	_	_
+16	.	.	_	.	_	3	P	_	_

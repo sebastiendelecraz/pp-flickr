@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	3	NMOD	216493	_
+2	Asian	Asian	_	JJ	_	3	NMOD	216493	_
+3	family	family	_	NN	_	4	SBJ	216493	_
+4	travels	travel	_	VBZ	_	0	ROOT	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	216490	_
+7	motorized	motorize	_	VBN	_	8	NMOD	216490	_
+8	car	car	_	NN	_	5	PMOD	216490	_
+9	on	on	_	IN	_	4	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	216494	_
+11	busy	busy	_	JJ	_	12	NMOD	216494	_
+12	street	street	_	NN	_	9	PMOD	216494	_
+13	in	in	_	IN	_	4	LOC	_	4
+14	a	a	_	DT	_	15	NMOD	216495	_
+15	city	city	_	NN	_	13	PMOD	216495	_
+16	.	.	_	.	_	4	P	_	_

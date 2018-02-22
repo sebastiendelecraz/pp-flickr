@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	1894	_
+2	mother	mother	_	NN	_	3	SBJ	1894	_
+3	decides	decide	_	VBZ	_	0	ROOT	_	_
+4	to	to	_	TO	_	3	OPRD	_	_
+5	take	take	_	VB	_	4	IM	_	_
+6	her	her	_	PRP$	_	7	NMOD	1895	_
+7	child	child	_	NN	_	5	OBJ	1895	_
+8	on	on	_	IN	_	5	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	1896	_
+10	piggyback	piggyback	_	JJ	_	11	NMOD	1896	_
+11	ride	ride	_	NN	_	8	PMOD	1896	_
+12	outside	outside	_	IN	_	11	LOC	_	11
+13	their	their	_	PRP$	_	15	NMOD	1897	_
+14	apartment	apartment	_	NN	_	15	NMOD	1897	_
+15	complex	complex	_	NN	_	12	PMOD	1897	_
+16	.	.	_	.	_	3	P	_	_

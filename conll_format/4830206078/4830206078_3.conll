@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	208316	_
+2	children	child	_	NNS	_	5	NMOD	208316	_
+3	select	select	_	JJ	_	5	NMOD	_	_
+4	wire	wire	_	NN	_	5	NMOD	208318	_
+5	baskets	basket	_	NNS	_	0	ROOT	208318	_
+6	from	from	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	8	NMOD	208323	_
+8	pile	pile	_	NN	_	6	PMOD	208323	_
+9	in front of	in front of	_	IN	_	5	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	208317	_
+11	store	store	_	NN	_	9	PMOD	208317	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	257410	_
+2	little	little	_	JJ	_	3	NMOD	257410	_
+3	girls	girl	_	NNS	_	4	SBJ	257410	_
+4	looking	look	_	VBG	_	0	ROOT	_	_
+5	into	into	_	IN	_	4	ADV	_	4
+6	the	the	_	DT	_	7	NMOD	0	_
+7	camera	camera	_	NN	_	5	PMOD	0	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	no	no	_	DT	_	10	NMOD	257416	_
+10	emotion	emotion	_	NN	_	8	PMOD	257416	_
+11	on	on	_	IN	_	4	ADV	_	_
+12	there	there	_	EX	_	13	SBJ	257420	_
+13	faces	face	_	VBZ	_	11	PMOD	257420	_
+14	.	.	_	.	_	0	ROOT	_	_

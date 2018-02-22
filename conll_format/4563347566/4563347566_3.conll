@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	SBJ	178815	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	standing	stand	_	VBG	_	2	VC	_	_
+4	by	by	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	6	NMOD	178814	_
+6	man	man	_	NN	_	4	PMOD	178814	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	10	NMOD	178816	_
+9	painted	paint	_	VBN	_	10	NMOD	178816	_
+10	face	face	_	NN	_	7	PMOD	178816	_
+11	.	.	_	.	_	2	P	_	_

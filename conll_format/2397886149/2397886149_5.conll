@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	3	NMOD	46362	_
+2	heading	head	_	VBG	_	3	NMOD	_	_
+3	home	home	_	NN	_	0	ROOT	46367	_
+4	from	from	_	IN	_	3	NMOD	_	2
+5	work	work	_	NN	_	4	PMOD	46370	_
+6	at	at	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	9	NMOD	46364	_
+8	train	train	_	NN	_	9	NMOD	46364	_
+9	station	station	_	NN	_	6	PMOD	46364	_
+10	.	.	_	.	_	0	ROOT	_	_

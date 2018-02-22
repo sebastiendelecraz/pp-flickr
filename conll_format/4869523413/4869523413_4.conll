@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	213241	_
+2	girls	girl	_	NNS	_	3	SBJ	213241	_
+3	lounge	lounge	_	VBP	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	camp	camp	_	NN	_	6	NMOD	213243	_
+6	chairs	chair	_	NNS	_	4	PMOD	213243	_
+7	around	around	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	213242	_
+9	campfire	campfire	_	NN	_	7	PMOD	213242	_
+10	.	.	_	.	_	3	P	_	_

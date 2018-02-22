@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	173640	_
+2	girl	girl	_	NN	_	6	SBJ	173640	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	three	three	_	CD	_	5	NMOD	173648	_
+5	circles	circle	_	NNS	_	3	PMOD	173648	_
+6	painted	paint	_	VBD	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	her	her	_	PRP$	_	9	NMOD	173644	_
+9	face	face	_	NN	_	7	PMOD	173644	_
+10	sitting	sit	_	VBG	_	9	APPO	_	_
+11	on	on	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	173641	_
+13	bench	bench	_	NN	_	11	PMOD	173641	_
+14	in front of	in front of	_	IN	_	10	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	173642	_
+16	lake	lake	_	NN	_	14	PMOD	173642	_
+17	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,21 @@
+1	People	People	_	NNPS	_	2	SBJ	12767	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	seated	seat	_	VBN	_	2	VC	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	standing	stand	_	VBG	_	4	CONJ	_	_
+6	in front of	in front of	_	IN	_	3	ADV	_	5
+7	a	a	_	DT	_	11	NMOD	12768	_
+8	green	green	_	JJ	_	11	NMOD	12768	_
+9	roofed	roof	_	VBN	_	11	NMOD	12768	_
+10	coffee	coffee	_	NN	_	11	NMOD	12768	_
+11	vendor	vendor	_	NN	_	6	PMOD	12768	_
+12	,	,	_	,	_	3	P	_	_
+13	as	as	_	IN	_	3	ADV	_	_
+14	a	a	_	DT	_	17	NMOD	12772	_
+15	large	large	_	JJ	_	17	NMOD	12772	_
+16	group	group	_	NN	_	17	NMOD	12772	_
+17	walk	walk	_	NN	_	13	PMOD	_	_
+18	down	down	_	RB	_	3	ADV	_	_
+19	a	a	_	DT	_	20	NMOD	12773	_
+20	sidewalk	sidewalk	_	NN	_	3	OBJ	12773	_
+21	.	.	_	.	_	2	P	_	_

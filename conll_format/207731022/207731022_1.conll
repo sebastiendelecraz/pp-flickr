@@ -1,0 +1,15 @@
+1	Looking	look	_	VBG	_	0	ROOT	_	_
+2	over	over	_	RP	_	1	PRT	_	_
+3	the	the	_	DT	_	4	NMOD	27257	_
+4	prow	prow	_	NN	_	1	OBJ	27257	_
+5	of	of	_	IN	_	4	NMOD	27257	4
+6	a	a	_	DT	_	7	NMOD	27257	_
+7	boat	boat	_	NN	_	5	PMOD	27257	_
+8	at	at	_	IN	_	1	ADV	_	_
+9	another	another	_	DT	_	10	NMOD	27260	_
+10	boat	boat	_	NN	_	8	PMOD	27260	_
+11	on	on	_	IN	_	1	ADV	_	_
+12	a	a	_	DT	_	14	NMOD	27259	_
+13	foggy	foggy	_	JJ	_	14	NMOD	27259	_
+14	lake	lake	_	NN	_	11	PMOD	27259	_
+15	.	.	_	.	_	0	ROOT	_	_

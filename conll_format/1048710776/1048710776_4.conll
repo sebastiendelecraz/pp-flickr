@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	1278	_
+2	group	group	_	NN	_	5	SBJ	1278	_
+3	of	of	_	IN	_	2	NMOD	1278	_
+4	teens	teen	_	NNS	_	3	PMOD	1278	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	1279	_
+8	wall	wall	_	NN	_	6	PMOD	1279	_
+9	by	by	_	IN	_	8	NMOD	_	5
+10	a	a	_	DT	_	11	NMOD	1280	_
+11	beach	beach	_	NN	_	9	PMOD	1280	_
+12	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	197728	_
+2	young	young	_	JJ	_	3	NMOD	197728	_
+3	man	man	_	NN	_	0	ROOT	197728	_
+4	in	in	_	IN	_	8	LOC	_	_
+5	short	short	_	JJ	_	4	PMOD	197732	_
+6	,	,	_	,	_	8	P	_	_
+7	shorts	short	_	NNS	_	8	SBJ	197734	_
+8	is	be	_	VBZ	_	3	NMOD	_	_
+9	in the middle of	in the middle of	_	IN	_	8	PRD	197735	8
+10	a	a	_	DT	_	12	NMOD	197735	_
+11	large	large	_	JJ	_	12	NMOD	197735	_
+12	crowd	crowd	_	NN	_	9	PMOD	197735	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	his	his	_	PRP$	_	15	NMOD	197731	_
+15	cellphone	cellphone	_	NN	_	13	PMOD	197731	_
+16	.	.	_	.	_	0	ROOT	_	_

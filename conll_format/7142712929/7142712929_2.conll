@@ -1,0 +1,11 @@
+1	a	a	_	DT	_	3	NMOD	265932	_
+2	breakdancer	breakdancer	_	NN	_	3	NMOD	265932	_
+3	man	man	_	NN	_	4	SBJ	265932	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	performing	perform	_	VBG	_	4	VC	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	the	the	_	DT	_	8	NMOD	265933	_
+8	kids	kid	_	NNS	_	6	PMOD	265933	_
+9	at	at	_	IN	_	5	ADV	_	_
+10	school	school	_	NN	_	9	PMOD	265935	_
+11	.	.	_	.	_	4	P	_	_

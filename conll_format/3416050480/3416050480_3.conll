@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	116530	_
+2	woman	woman	_	NN	_	7	SBJ	116530	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	116532	_
+5	brown	brown	_	JJ	_	6	NMOD	116532	_
+6	horse	horse	_	NN	_	3	PMOD	116532	_
+7	jumps	jump	_	VBZ	_	0	ROOT	_	_
+8	of	of	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	116531	_
+10	fuselage	fuselage	_	NN	_	8	PMOD	116531	_
+11	of	of	_	IN	_	10	NMOD	116531	_
+12	an	an	_	DT	_	15	NMOD	116531	_
+13	aging	age	_	VBG	_	15	NMOD	116531	_
+14	jet	jet	_	NN	_	15	NMOD	116531	_
+15	aircraft	aircraft	_	NN	_	11	PMOD	116531	_
+16	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,16 @@
+1	Person	Person	_	NNP	_	0	ROOT	106305	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	black	black	_	JJ	_	4	NMOD	106306	_
+4	jacket	jacket	_	NN	_	2	PMOD	106306	_
+5	standing	stand	_	VBG	_	4	APPO	_	_
+6	with	with	_	IN	_	5	ADV	_	_
+7	hands	hand	_	NNS	_	6	PMOD	106310	_
+8	over	over	_	IN	_	5	ADV	_	7
+9	eyes	eye	_	NNS	_	8	PMOD	106309	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	streetlights	streetlight	_	NNS	_	10	PMOD	106313	_
+12	on	on	_	IN	_	5	LOC	_	_
+13	in	in	_	IN	_	12	PMOD	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	background	background	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

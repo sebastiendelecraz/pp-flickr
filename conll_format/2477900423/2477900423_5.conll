@@ -1,0 +1,8 @@
+1	Girls	girl	_	NNS	_	0	ROOT	52481	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	school	school	_	NN	_	4	NMOD	52483	_
+4	showing	showing	_	NN	_	2	PMOD	_	_
+5	off	off	_	IN	_	1	NMOD	_	4
+6	their	their	_	PRP$	_	7	NMOD	52479	_
+7	drawing	drawing	_	NN	_	5	PMOD	52479	_
+8	.	.	_	.	_	0	ROOT	_	_

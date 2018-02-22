@@ -1,0 +1,14 @@
+1	Men	Men	_	NNPS	_	2	SBJ	248634	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	cutting	cut	_	VBG	_	2	VC	_	_
+4	a	a	_	DT	_	6	NMOD	248637	_
+5	large	large	_	JJ	_	6	NMOD	248637	_
+6	opening	opening	_	NN	_	3	OBJ	248637	_
+7	through	through	_	IN	_	3	ADV	_	3
+8	the	the	_	DT	_	9	NMOD	248638	_
+9	ice	ice	_	NN	_	7	PMOD	248638	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	a	a	_	DT	_	13	NMOD	248636	_
+12	frozen	freeze	_	VBN	_	13	NMOD	248636	_
+13	lake	lake	_	NN	_	10	PMOD	248636	_
+14	.	.	_	.	_	2	P	_	_

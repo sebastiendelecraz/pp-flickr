@@ -1,0 +1,11 @@
+1	Children	child	_	NNS	_	2	SBJ	76717	_
+2	playing	play	_	VBG	_	0	ROOT	_	_
+3	with	with	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	6	NMOD	76714	_
+5	soccer	soccer	_	NN	_	6	NMOD	76714	_
+6	ball	ball	_	NN	_	3	PMOD	76714	_
+7	near	near	_	IN	_	6	LOC	_	2
+8	a	a	_	DT	_	9	NMOD	76718	_
+9	goal	goal	_	NN	_	7	PMOD	76718	_
+10	net	net	_	JJ	_	9	NMOD	76718	_
+11	.	.	_	.	_	0	ROOT	_	_

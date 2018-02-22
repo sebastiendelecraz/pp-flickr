@@ -1,0 +1,15 @@
+1	While	while	_	IN	_	0	ROOT	_	_
+2	playing	play	_	VBG	_	0	ROOT	_	_
+3	soccer	soccer	_	NN	_	4	NMOD	52246	_
+4	girl	girl	_	NN	_	2	OBJ	52246	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	red	red	_	JJ	_	9	NMOD	52248	_
+7	striped	stripe	_	VBN	_	9	NMOD	52248	_
+8	shirt	shirt	_	NN	_	9	NMOD	52248	_
+9	runs	run	_	NNS	_	5	PMOD	_	_
+10	into	into	_	IN	_	2	ADV	_	9
+11	girl	girl	_	NN	_	10	PMOD	52246	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	white	white	_	JJ	_	14	NMOD	52254	_
+14	shirt	shirt	_	NN	_	12	PMOD	52254	_
+15	.	.	_	.	_	0	ROOT	_	_

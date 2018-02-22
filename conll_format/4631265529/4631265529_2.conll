@@ -1,0 +1,14 @@
+1	Sidewalk	Sidewalk	_	NNP	_	2	NMOD	184505	_
+2	artist	artist	_	NN	_	3	SBJ	184505	_
+3	relaxing	relax	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	184506	_
+6	stoop	stoop	_	NN	_	4	PMOD	184506	_
+7	after	after	_	IN	_	3	TMP	_	3
+8	a	a	_	DT	_	10	NMOD	184508	_
+9	hard	hard	_	JJ	_	10	NMOD	184508	_
+10	day	day	_	NN	_	7	PMOD	184508	_
+11	at	at	_	IN	_	3	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	184509	_
+13	office	office	_	NN	_	11	PMOD	184509	_
+14	.	.	_	.	_	0	ROOT	_	_

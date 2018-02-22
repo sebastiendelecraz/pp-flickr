@@ -1,0 +1,27 @@
+1	Two	Two	_	CD	_	2	NMOD	9941	_
+2	people	people	_	NN	_	9	SBJ	9941	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	8	NMOD	9942	_
+5	traditional	traditional	_	JJ	_	8	NMOD	9942	_
+6	Japanese	Japanese	_	JJ	_	7	NMOD	9942	_
+7	dragon	dragon	_	NN	_	8	NMOD	9942	_
+8	costume	costume	_	NN	_	3	PMOD	9942	_
+9	perform	perform	_	VBP	_	0	ROOT	_	_
+10	in front of	in front of	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	14	NMOD	9947	_
+12	small	small	_	JJ	_	14	NMOD	9947	_
+13	Japanese	Japanese	_	JJ	_	14	NMOD	9947	_
+14	shrine	shrine	_	NN	_	10	PMOD	9947	_
+15	with	with	_	IN	_	9	ADV	_	_
+16	a	a	_	DT	_	17	NMOD	9948	_
+17	man	man	_	NN	_	15	PMOD	9948	_
+18	in	in	_	IN	_	9	LOC	_	17
+19	a	a	_	DT	_	21	NMOD	9949	_
+20	business	business	_	NN	_	21	NMOD	9949	_
+21	suit	suit	_	NN	_	18	PMOD	9949	_
+22	standing	stand	_	VBG	_	21	APPO	_	_
+23	in	in	_	IN	_	22	LOC	_	_
+24	the	the	_	DT	_	25	NMOD	9952	_
+25	back	back	_	NN	_	23	PMOD	9952	_
+26	watching	watch	_	VBG	_	25	APPO	_	_
+27	.	.	_	.	_	9	P	_	_

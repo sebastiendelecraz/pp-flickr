@@ -1,0 +1,10 @@
+1	San	San	_	NNP	_	2	NAME	145803	_
+2	Francisco	Francisco	_	NNP	_	3	NAME	145803	_
+3	Police	Police	_	NNP	_	4	SBJ	145803	_
+4	waiting	wait	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	alert	alert	_	NN	_	5	PMOD	145807	_
+7	for	for	_	IN	_	6	NMOD	_	4
+8	a	a	_	DT	_	9	NMOD	145804	_
+9	catastrophe	catastrophe	_	NN	_	7	PMOD	145804	_
+10	.	.	_	.	_	0	ROOT	_	_

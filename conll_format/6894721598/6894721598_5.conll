@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	260689	_
+2	group	group	_	NN	_	0	ROOT	260689	_
+3	of	of	_	IN	_	2	NMOD	260689	_
+4	people	people	_	NN	_	3	PMOD	260689	_
+5	waving	wave	_	VBG	_	4	APPO	_	_
+6	at	at	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	260694	_
+8	camera	camera	_	NN	_	6	PMOD	260694	_
+9	while	while	_	IN	_	5	TMP	_	_
+10	holding	hold	_	VBG	_	11	NMOD	_	_
+11	candles	candle	_	NNS	_	9	PMOD	260690	_
+12	.	.	_	.	_	0	ROOT	_	_

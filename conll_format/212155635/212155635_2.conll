@@ -1,0 +1,16 @@
+1	Three	Three	_	CD	_	3	NMOD	29966	_
+2	young	young	_	JJ	_	3	NMOD	29966	_
+3	men	man	_	NNS	_	8	SBJ	29966	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	1	1	_	CD	_	7	NMOD	29967	_
+6	young	young	_	JJ	_	7	NMOD	29967	_
+7	lady	lady	_	NN	_	4	CONJ	29967	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	protesting	protest	_	VBG	_	8	VC	_	_
+10	about	about	_	IN	_	9	ADV	_	9
+11	the	the	_	DT	_	12	NMOD	29972	_
+12	exploitation	exploitation	_	NN	_	10	PMOD	29972	_
+13	of	of	_	IN	_	12	NMOD	29972	_
+14	young	young	_	JJ	_	15	NMOD	29972	_
+15	workers	worker	_	NNS	_	13	PMOD	29972	_
+16	.	.	_	.	_	8	P	_	_

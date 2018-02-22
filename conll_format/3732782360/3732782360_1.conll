@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	140339	_
+2	picture	picture	_	NN	_	0	ROOT	140339	_
+3	of	of	_	IN	_	2	NMOD	140339	_
+4	a	a	_	DT	_	5	NMOD	140339	_
+5	sidewalk	sidewalk	_	NN	_	3	PMOD	140339	_
+6	between	between	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	140342	_
+8	road	road	_	NN	_	6	PMOD	140342	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	buildings	building	_	NNS	_	9	CONJ	140346	_
+11	.	.	_	.	_	0	ROOT	_	_

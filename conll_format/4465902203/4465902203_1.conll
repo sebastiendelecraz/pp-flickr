@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	170812	_
+2	lady	lady	_	NN	_	0	ROOT	170812	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	170813	_
+5	black	black	_	JJ	_	6	NMOD	170813	_
+6	dress	dress	_	NN	_	3	PMOD	170813	_
+7	,	,	_	,	_	6	P	_	_
+8	black	black	_	JJ	_	9	NMOD	170815	_
+9	boots	boot	_	NNS	_	6	COORD	170815	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	black	black	_	JJ	_	12	NMOD	170816	_
+12	jacket	jacket	_	NN	_	13	NMOD	170816	_
+13	walks	walk	_	NNS	_	10	CONJ	_	_
+14	in front of	in front of	_	IN	_	6	NMOD	_	_
+15	blurred	blur	_	VBN	_	16	NMOD	170817	_
+16	people	people	_	NN	_	14	PMOD	170817	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	111149	_
+2	biker	biker	_	NN	_	3	SBJ	111149	_
+3	gets	get	_	VBZ	_	0	ROOT	_	_
+4	high	high	_	JJ	_	3	ADV	_	_
+5	in	in	_	IN	_	3	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	0	_
+7	air	air	_	NN	_	5	PMOD	0	_
+8	against	against	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	10	NMOD	111151	_
+10	skyline	skyline	_	NN	_	8	PMOD	111151	_
+11	.	.	_	.	_	3	P	_	_

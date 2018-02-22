@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	9299	_
+2	men	man	_	NNS	_	0	ROOT	9299	_
+3	in the middle of	in the middle of	_	IN	_	2	NMOD	9304	2
+4	the	the	_	DT	_	5	NMOD	9304	_
+5	action	action	_	NN	_	3	PMOD	9304	_
+6	of	of	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	9	NMOD	9300	_
+8	fighting	fight	_	VBG	_	9	NMOD	9300	_
+9	match	match	_	NN	_	6	PMOD	9300	_
+10	.	.	_	.	_	0	ROOT	_	_

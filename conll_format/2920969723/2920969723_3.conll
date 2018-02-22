@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	81424	_
+2	boy	boy	_	NN	_	3	SBJ	81424	_
+3	rides	ride	_	VBZ	_	0	ROOT	_	_
+4	his	his	_	PRP$	_	5	NMOD	81428	_
+5	skateboard	skateboard	_	NN	_	3	OBJ	81428	_
+6	across	across	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	81427	_
+8	pipe	pipe	_	NN	_	6	PMOD	81427	_
+9	on	on	_	IN	_	3	LOC	_	3
+10	a	a	_	DT	_	11	NMOD	81426	_
+11	building	building	_	NN	_	9	PMOD	81426	_
+12	.	.	_	.	_	3	P	_	_

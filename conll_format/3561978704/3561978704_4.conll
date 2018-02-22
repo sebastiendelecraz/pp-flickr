@@ -1,0 +1,12 @@
+1	She	she	_	PRP	_	2	SBJ	0	_
+2	runs	run	_	VBZ	_	0	ROOT	_	_
+3	across	across	_	IN	_	2	DIR	_	2
+4	the	the	_	DT	_	5	NMOD	127806	_
+5	shore	shore	_	NN	_	3	PMOD	127806	_
+6	as	as	_	IN	_	2	ADV	_	_
+7	the	the	_	DT	_	9	NMOD	127801	_
+8	photographer	photographer	_	NN	_	9	NMOD	127801	_
+9	captures	capture	_	NNS	_	11	NMOD	_	_
+10	her	her	_	PRP$	_	11	NMOD	127808	_
+11	agility	agility	_	NN	_	6	PMOD	127808	_
+12	.	.	_	.	_	2	P	_	_

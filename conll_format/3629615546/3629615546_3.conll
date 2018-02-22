@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	132653	_
+2	women	woman	_	NNS	_	9	SBJ	132653	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	matching	match	_	VBG	_	3	PMOD	_	_
+5	black	black	_	JJ	_	8	NMOD	132654	_
+6	and	and	_	CC	_	5	COORD	132654	_
+7	green	green	_	JJ	_	6	CONJ	132654	_
+8	outfits	outfit	_	NNS	_	4	OBJ	132654	_
+9	leap	leap	_	VBP	_	0	ROOT	_	_
+10	in	in	_	IN	_	9	ADV	_	_
+11	synchronization	synchronization	_	NN	_	10	PMOD	132655	_
+12	during	during	_	IN	_	9	TMP	_	9
+13	a	a	_	DT	_	14	NMOD	132656	_
+14	play	play	_	NN	_	12	PMOD	132656	_
+15	.	.	_	.	_	9	P	_	_

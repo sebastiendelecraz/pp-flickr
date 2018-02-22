@@ -1,0 +1,8 @@
+1	Group	Group	_	NNP	_	2	SBJ	122390	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	in front of	in front of	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	122391	_
+5	creek	creek	_	NN	_	3	PMOD	122391	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	dog	dog	_	NN	_	6	PMOD	122392	_
+8	.	.	_	.	_	0	ROOT	_	_

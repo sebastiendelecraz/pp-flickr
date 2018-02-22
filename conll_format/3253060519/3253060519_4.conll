@@ -1,0 +1,10 @@
+1	The	the	_	DT	_	2	NMOD	104592	_
+2	corner	corner	_	NN	_	0	ROOT	104592	_
+3	of	of	_	IN	_	2	NMOD	104592	2
+4	a	a	_	DT	_	5	NMOD	104592	_
+5	building	building	_	NN	_	3	PMOD	104592	_
+6	,	,	_	,	_	2	P	_	_
+7	from	from	_	IN	_	2	NMOD	_	2
+8	the	the	_	DT	_	9	NMOD	104594	_
+9	street	street	_	NN	_	7	PMOD	104594	_
+10	.	.	_	.	_	0	ROOT	_	_

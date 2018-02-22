@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	SBJ	17866	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	standing	stand	_	VBG	_	2	VC	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	sand	sand	_	NN	_	4	PMOD	17867	_
+6	under	under	_	IN	_	3	LOC	_	3
+7	some	some	_	DT	_	8	NMOD	17861	_
+8	trees	tree	_	NNS	_	6	PMOD	17861	_
+9	to	to	_	TO	_	3	PRP	_	_
+10	get	get	_	VB	_	9	IM	_	_
+11	Shade	Shade	_	NNP	_	10	OBJ	17868	_
+12	.	.	_	.	_	2	P	_	_

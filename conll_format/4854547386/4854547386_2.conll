@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	211146	_
+2	people	people	_	NN	_	3	SBJ	211146	_
+3	walk	walk	_	VBP	_	0	ROOT	_	_
+4	down	down	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	211144	_
+6	street	street	_	NN	_	4	PMOD	211144	_
+7	with	with	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	211150	_
+9	camera	camera	_	NN	_	7	PMOD	211150	_
+10	in	in	_	IN	_	3	LOC	_	_
+11	hand	hand	_	NN	_	10	PMOD	211151	_
+12	.	.	_	.	_	3	P	_	_

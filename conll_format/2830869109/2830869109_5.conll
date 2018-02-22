@@ -1,0 +1,9 @@
+1	Children	child	_	NNS	_	2	SBJ	75354	_
+2	play	play	_	VBP	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	75353	_
+5	sprinkler	sprinkler	_	NN	_	3	PMOD	75353	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	75355	_
+8	beach	beach	_	NN	_	6	PMOD	75355	_
+9	.	.	_	.	_	2	P	_	_

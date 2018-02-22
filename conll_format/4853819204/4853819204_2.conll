@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	211127	_
+2	woman	woman	_	NN	_	9	SBJ	211127	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	211130	_
+5	tan	tan	_	NN	_	6	NMOD	211130	_
+6	shirt	shirt	_	NN	_	3	PMOD	211130	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	jeans	jean	_	NNS	_	7	CONJ	211131	_
+9	walks	walk	_	VBZ	_	0	ROOT	_	_
+10	five	five	_	CD	_	11	NMOD	211128	_
+11	dogs	dog	_	NNS	_	9	OBJ	211128	_
+12	on	on	_	IN	_	9	ADV	_	_
+13	leashes	leash	_	NNS	_	12	PMOD	211134	_
+14	across	across	_	IN	_	13	LOC	_	9
+15	the	the	_	DT	_	16	NMOD	211129	_
+16	street	street	_	NN	_	14	PMOD	211129	_
+17	.	.	_	.	_	9	P	_	_

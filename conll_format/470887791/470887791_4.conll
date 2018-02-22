@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	193609	_
+2	man	man	_	NN	_	6	SBJ	193609	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	193612	_
+5	woman	woman	_	NN	_	3	CONJ	193612	_
+6	standing	stand	_	VBG	_	0	ROOT	_	_
+7	with	with	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	193611	_
+9	group	group	_	NN	_	7	PMOD	193611	_
+10	of	of	_	IN	_	9	NMOD	193611	_
+11	spectators	spectator	_	NNS	_	10	PMOD	193611	_
+12	.	.	_	.	_	0	ROOT	_	_

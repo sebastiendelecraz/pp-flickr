@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	171875	_
+2	man	man	_	NN	_	3	SBJ	171875	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	171878	_
+6	large	large	_	JJ	_	7	NMOD	171878	_
+7	room	room	_	NN	_	4	PMOD	171878	_
+8	by	by	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	10	NMOD	171880	_
+10	window	window	_	NN	_	8	PMOD	171880	_
+11	.	.	_	.	_	0	ROOT	_	_

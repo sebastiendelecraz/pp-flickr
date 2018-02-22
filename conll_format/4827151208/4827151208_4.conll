@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	207899	_
+2	man	man	_	NN	_	0	ROOT	207899	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	207902	_
+5	tank	tank	_	NN	_	7	NMOD	207902	_
+6	top	top	_	JJ	_	7	NMOD	207902	_
+7	looks	look	_	NNS	_	3	PMOD	_	_
+8	at	at	_	IN	_	2	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	207900	_
+10	woman	woman	_	NN	_	8	PMOD	207900	_
+11	near	near	_	IN	_	10	LOC	_	7
+12	a	a	_	DT	_	14	NMOD	207907	_
+13	water	water	_	NN	_	14	NMOD	207907	_
+14	sculpture	sculpture	_	NN	_	11	PMOD	207907	_
+15	.	.	_	.	_	0	ROOT	_	_

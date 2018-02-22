@@ -1,0 +1,11 @@
+1	a	a	_	DT	_	3	NMOD	175315	_
+2	young	young	_	JJ	_	3	NMOD	175315	_
+3	boy	boy	_	NN	_	4	SBJ	175315	_
+4	jumping	jump	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	175318	_
+7	trampoline	trampoline	_	NN	_	5	PMOD	175318	_
+8	outside of	outside of	_	IN	_	4	TMP	_	4
+9	a	a	_	DT	_	10	NMOD	175317	_
+10	house	house	_	NN	_	8	PMOD	175317	_
+11	.	.	_	.	_	0	ROOT	_	_

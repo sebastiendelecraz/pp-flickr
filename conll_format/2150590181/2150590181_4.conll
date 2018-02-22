@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	31281	_
+2	boy	boy	_	NN	_	0	ROOT	31281	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	31283	_
+5	blue	blue	_	JJ	_	7	NMOD	31283	_
+6	shirt	shirt	_	NN	_	7	NMOD	31283	_
+7	sheep	sheep	_	NN	_	3	PMOD	31283	_
+8	wrestling	wrestle	_	VBG	_	7	APPO	_	_
+9	with	with	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	31281	_
+11	rodeo	rodeo	_	NN	_	12	NMOD	31281	_
+12	clown	clown	_	NN	_	9	PMOD	31281	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	background	background	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	a	a	_	DT	_	2	NMOD	169681	_
+2	boy	boy	_	NN	_	3	SBJ	169681	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	his	his	_	PRP$	_	5	NMOD	169683	_
+5	bicycle	bicycle	_	NN	_	3	OBJ	169683	_
+6	down	down	_	RP	_	3	PRT	_	_
+7	the	the	_	DT	_	8	NMOD	169678	_
+8	street	street	_	NN	_	9	SBJ	169678	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	being	be	_	VBG	_	9	VC	_	_
+11	followed	follow	_	VBN	_	10	VC	_	_
+12	by	by	_	IN	_	11	LGS	_	11
+13	a	a	_	DT	_	14	NMOD	169677	_
+14	crowd	crowd	_	NN	_	12	PMOD	169677	_
+15	of	of	_	IN	_	14	NMOD	169677	_
+16	people	people	_	NN	_	15	PMOD	169677	_
+17	.	.	_	.	_	9	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	188538	_
+2	young	young	_	JJ	_	3	NMOD	188538	_
+3	man	man	_	NN	_	0	ROOT	188538	_
+4	riding	ride	_	VBG	_	3	APPO	_	_
+5	her	her	_	PRP$	_	7	NMOD	188544	_
+6	bicycle	bicycle	_	NN	_	7	NMOD	188544	_
+7	home	home	_	NN	_	4	OBJ	188544	_
+8	after	after	_	IN	_	4	TMP	_	4
+9	long	long	_	RB	_	11	NMOD	188547	_
+10	day	day	_	NN	_	11	NMOD	188547	_
+11	work	work	_	NN	_	8	PMOD	188547	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	his	his	_	PRP$	_	16	NMOD	188546	_
+14	family	family	_	NN	_	15	NMOD	188546	_
+15	city	city	_	NN	_	16	NMOD	188546	_
+16	restaurant	restaurant	_	NN	_	12	PMOD	188546	_
+17	.	.	_	.	_	0	ROOT	_	_

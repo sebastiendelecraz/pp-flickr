@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	232001	_
+2	woman	woman	_	NN	_	7	SBJ	232001	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	232012	_
+5	hi-viz	hi-viz	_	CD	_	6	NMOD	232012	_
+6	jacket	jacket	_	NN	_	3	PMOD	232012	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	smiling	smile	_	VBG	_	7	VC	_	_
+9	at	at	_	IN	_	8	ADV	_	_
+10	person	person	_	NN	_	9	PMOD	232002	_
+11	carrying	carry	_	VBG	_	10	APPO	_	_
+12	a	a	_	DT	_	14	NMOD	232006	_
+13	stop	stop	_	NN	_	14	NMOD	232006	_
+14	sign	sign	_	NN	_	11	OBJ	232006	_
+15	in front of	in front of	_	IN	_	8	TMP	_	8
+16	a	a	_	DT	_	17	NMOD	232008	_
+17	crane	crane	_	NN	_	15	PMOD	232008	_
+18	.	.	_	.	_	7	P	_	_

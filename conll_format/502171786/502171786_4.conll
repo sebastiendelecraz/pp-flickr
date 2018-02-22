@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	227124	_
+2	bunch	bunch	_	NN	_	0	ROOT	227124	_
+3	of	of	_	IN	_	2	NMOD	227124	_
+4	different	different	_	JJ	_	5	NMOD	227124	_
+5	glasses	glass	_	NNS	_	3	PMOD	227124	_
+6	on top of	on top of	_	IN	_	2	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	227126	_
+8	checkerboard	checkerboard	_	NN	_	6	PMOD	227126	_
+9	.	.	_	.	_	0	ROOT	_	_

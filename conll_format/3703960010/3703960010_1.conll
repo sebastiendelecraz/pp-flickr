@@ -1,0 +1,21 @@
+1	a	a	_	DT	_	2	NMOD	138037	_
+2	man	man	_	NN	_	0	ROOT	138037	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	138040	_
+5	woman	woman	_	NN	_	6	NMOD	138040	_
+6	sit	sit	_	NN	_	3	CONJ	_	_
+7	back	back	_	RB	_	8	ADV	_	_
+8	to	to	_	TO	_	2	NMOD	_	_
+9	back	back	_	VB	_	8	IM	138041	_
+10	on	on	_	IN	_	9	ADV	_	6
+11	a	a	_	DT	_	12	NMOD	138038	_
+12	bench	bench	_	NN	_	10	PMOD	138038	_
+13	in front of	in front of	_	IN	_	9	LOC	_	6
+14	a	a	_	DT	_	15	NMOD	138039	_
+15	building	building	_	NN	_	13	PMOD	138039	_
+16	with	with	_	IN	_	9	ADV	_	15
+17	a	a	_	DT	_	20	NMOD	138043	_
+18	colorful	colorful	_	JJ	_	20	NMOD	138043	_
+19	painted	paint	_	VBN	_	20	NMOD	138043	_
+20	door	door	_	NN	_	16	PMOD	138043	_
+21	.	.	_	.	_	0	ROOT	_	_

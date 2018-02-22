@@ -1,0 +1,14 @@
+1	Many	many	_	DT	_	2	NMOD	192691	_
+2	men	man	_	NNS	_	5	SBJ	192691	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	women	woman	_	NNS	_	3	CONJ	192695	_
+5	walking	walk	_	VBG	_	0	ROOT	_	_
+6	across	across	_	IN	_	5	DIR	_	5
+7	a	a	_	DT	_	8	NMOD	192689	_
+8	street	street	_	NN	_	6	PMOD	192689	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	13	NMOD	192689	_
+11	highly	highly	_	RB	_	12	AMOD	192689	_
+12	populated	populate	_	VBN	_	13	NMOD	192689	_
+13	area	area	_	NN	_	9	PMOD	192689	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	90581	_
+2	boy	boy	_	NN	_	12	SBJ	90581	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	5	NMOD	90588	_
+5	shorts	short	_	NNS	_	3	PMOD	90588	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	yellow	yellow	_	JJ	_	8	NMOD	90587	_
+8	stripes	stripe	_	NNS	_	6	PMOD	90587	_
+9	down	down	_	IN	_	8	NMOD	_	8
+10	the	the	_	DT	_	11	NMOD	0	_
+11	sides	side	_	NNS	_	9	PMOD	0	_
+12	is	be	_	VBZ	_	0	ROOT	_	_
+13	leaping	leap	_	VBG	_	0	ROOT	_	_
+14	.	.	_	.	_	0	ROOT	_	_

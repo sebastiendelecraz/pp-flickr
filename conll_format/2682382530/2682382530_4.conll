@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	65878	_
+2	man	man	_	NN	_	0	ROOT	65878	_
+3	practicing	practice	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	65881	_
+5	high	high	_	JJ	_	6	NMOD	65881	_
+6	kick	kick	_	NN	_	3	OBJ	65881	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	65884	_
+9	cement	cement	_	NN	_	7	PMOD	65884	_
+10	near	near	_	IN	_	9	LOC	_	3
+11	the	the	_	DT	_	12	NMOD	65889	_
+12	grass	grass	_	NN	_	10	PMOD	65889	_
+13	.	.	_	.	_	0	ROOT	_	_

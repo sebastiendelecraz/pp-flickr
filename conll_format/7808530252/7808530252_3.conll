@@ -1,0 +1,10 @@
+1	Runners	runner	_	NNS	_	2	SBJ	275561	_
+2	sprint	sprint	_	VBP	_	0	ROOT	275561	_
+3	toward	toward	_	IN	_	2	DIR	_	2
+4	the	the	_	DT	_	5	NMOD	275564	_
+5	finish	finish	_	NN	_	3	PMOD	275564	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	275565	_
+8	track	track	_	NN	_	9	NMOD	275565	_
+9	meet	meet	_	NN	_	6	PMOD	275565	_
+10	.	.	_	.	_	2	P	_	_

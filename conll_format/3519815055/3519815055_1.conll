@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	124422	_
+2	youth	youth	_	NN	_	7	SBJ	124422	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	6	NMOD	124428	_
+5	swim	swim	_	NN	_	6	NMOD	124428	_
+6	trunks	trunk	_	NNS	_	3	PMOD	124428	_
+7	jumps	jump	_	VBZ	_	0	ROOT	_	_
+8	into	into	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	10	NMOD	124424	_
+10	water	water	_	NN	_	8	PMOD	124424	_
+11	from	from	_	IN	_	7	ADV	_	7
+12	a	a	_	DT	_	14	NMOD	124425	_
+13	wooden	wooden	_	JJ	_	14	NMOD	124425	_
+14	board	board	_	NN	_	11	PMOD	124425	_
+15	.	.	_	.	_	7	P	_	_

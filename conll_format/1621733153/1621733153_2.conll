@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	17752	_
+2	baby	baby	_	NN	_	3	NMOD	17752	_
+3	girl	girl	_	NN	_	8	SBJ	17752	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	17753	_
+6	blue	blue	_	JJ	_	7	NMOD	17753	_
+7	dress	dress	_	NN	_	4	PMOD	17753	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	17755	_
+12	rock	rock	_	NN	_	13	NMOD	17755	_
+13	wall	wall	_	NN	_	10	PMOD	17755	_
+14	near	near	_	IN	_	13	LOC	_	9
+15	a	a	_	DT	_	16	NMOD	17756	_
+16	tree	tree	_	NN	_	14	PMOD	17756	_
+17	.	.	_	.	_	8	P	_	_

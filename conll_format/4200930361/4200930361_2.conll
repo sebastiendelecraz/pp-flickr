@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	2	NAME	158958	_
+2	looking	look	_	VBG	_	0	ROOT	_	_
+3	over	over	_	IN	_	2	ADV	_	2
+4	several	several	_	DT	_	6	NMOD	158957	_
+5	colored	color	_	VBN	_	6	NMOD	158957	_
+6	pieces	piece	_	NNS	_	3	PMOD	158957	_
+7	of	of	_	IN	_	6	NMOD	158957	_
+8	paper	paper	_	NN	_	9	NMOD	158957	_
+9	spread	spread	_	NN	_	7	PMOD	158957	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	a	a	_	DT	_	12	NMOD	158959	_
+12	table	table	_	NN	_	10	PMOD	158959	_
+13	.	.	_	.	_	0	ROOT	_	_

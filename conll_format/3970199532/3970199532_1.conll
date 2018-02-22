@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	150161	_
+2	woman	woman	_	NN	_	3	SBJ	150161	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	by	by	_	IN	_	3	EXT	_	_
+5	two	two	_	CD	_	8	NMOD	150167	_
+6	cardboard	cardboard	_	JJ	_	8	NMOD	150167	_
+7	cowboy	cowboy	_	NN	_	8	NMOD	150167	_
+8	gunslingers	gunslinger	_	NNS	_	4	PMOD	150167	_
+9	outside of	outside of	_	IN	_	3	ADV	_	3
+10	a	a	_	DT	_	11	NMOD	150165	_
+11	building	building	_	NN	_	9	PMOD	150165	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	Dave	Dave	_	NNP	_	12	PMOD	150162	_
+14	written	write	_	VBN	_	11	APPO	_	_
+15	on	on	_	IN	_	14	ADV	_	_
+16	it	it	_	PRP	_	15	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

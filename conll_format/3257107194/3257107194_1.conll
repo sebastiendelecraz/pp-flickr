@@ -1,0 +1,22 @@
+1	One	One	_	CD	_	2	NMOD	104881	_
+2	man	man	_	NN	_	15	SBJ	104881	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	104877	_
+5	hole	hole	_	NN	_	3	PMOD	104877	_
+6	of	of	_	IN	_	5	NMOD	104877	_
+7	a	a	_	DT	_	8	NMOD	104877	_
+8	tire	tire	_	NN	_	6	PMOD	104877	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	water	water	_	NN	_	9	PMOD	104879	_
+11	,	,	_	,	_	2	P	_	_
+12	and	and	_	CC	_	2	COORD	_	_
+13	another	another	_	DT	_	14	NMOD	104881	_
+14	man	man	_	NN	_	12	CONJ	104881	_
+15	getting	get	_	VBG	_	0	ROOT	_	_
+16	up	up	_	RP	_	15	PRT	_	_
+17	from	from	_	IN	_	15	ADV	_	15
+18	the	the	_	DT	_	19	NMOD	104879	_
+19	water	water	_	NN	_	17	PMOD	104879	_
+20	next to	next to	_	IN	_	15	ADV	_	_
+21	him	him	_	PRP	_	20	PMOD	0	_
+22	.	.	_	.	_	0	ROOT	_	_

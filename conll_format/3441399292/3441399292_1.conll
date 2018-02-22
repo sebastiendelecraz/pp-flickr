@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	118516	_
+2	golden	golden	_	JJ	_	4	NMOD	118516	_
+3	haired	hair	_	VBN	_	4	NMOD	118516	_
+4	dog	dog	_	NN	_	5	SBJ	118516	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	running	run	_	VBG	_	5	VC	_	_
+7	over	over	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	10	NMOD	118517	_
+9	red	red	_	JJ	_	10	NMOD	118517	_
+10	ramp	ramp	_	NN	_	7	PMOD	118517	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	onlookers	onlooker	_	NNS	_	11	PMOD	118522	_
+13	nearby	nearby	_	RB	_	6	MNR	_	_
+14	.	.	_	.	_	5	P	_	_

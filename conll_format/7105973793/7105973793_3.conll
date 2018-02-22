@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	265513	_
+2	couple	couple	_	NN	_	3	SBJ	265513	_
+3	preparing	prepare	_	VBG	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	take	take	_	NN	_	4	PMOD	_	_
+6	off	off	_	RP	_	3	PRT	_	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	their	their	_	PRP$	_	9	NMOD	265520	_
+9	yacht	yacht	_	NN	_	7	PMOD	265520	_
+10	.	.	_	.	_	0	ROOT	_	_

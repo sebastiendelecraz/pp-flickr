@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	221974	_
+2	bearded	beard	_	VBN	_	3	NMOD	221974	_
+3	man	man	_	NN	_	4	SBJ	221974	_
+4	works	work	_	VBZ	_	0	ROOT	_	_
+5	under	under	_	IN	_	4	LOC	_	4
+6	the	the	_	DT	_	7	NMOD	221977	_
+7	hood	hood	_	NN	_	5	PMOD	221977	_
+8	of	of	_	IN	_	7	NMOD	221977	7
+9	a	a	_	DT	_	10	NMOD	221977	_
+10	car	car	_	NN	_	8	PMOD	221977	_
+11	.	.	_	.	_	4	P	_	_

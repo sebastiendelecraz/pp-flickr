@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	8339	_
+2	men	man	_	NNS	_	0	ROOT	8339	_
+3	near	near	_	IN	_	2	LOC	_	2
+4	railroad	railroad	_	NN	_	5	NMOD	8340	_
+5	tracks	track	_	NNS	_	3	PMOD	8340	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	8342	_
+8	caboose	caboose	_	NN	_	6	PMOD	8342	_
+9	coming	come	_	VBG	_	8	APPO	_	_
+10	by	by	_	IN	_	9	DIR	_	_
+11	.	.	_	.	_	0	ROOT	_	_

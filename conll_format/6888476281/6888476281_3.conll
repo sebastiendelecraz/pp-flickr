@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	260463	_
+2	barber	barber	_	NN	_	0	ROOT	260463	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	260465	_
+5	blue	blue	_	JJ	_	7	NMOD	260465	_
+6	shirt	shirt	_	NN	_	7	NMOD	260465	_
+7	waits	wait	_	NNS	_	3	PMOD	_	_
+8	for	for	_	IN	_	7	NMOD	_	7
+9	his	his	_	PRP$	_	11	NMOD	260466	_
+10	next	next	_	JJ	_	11	NMOD	260466	_
+11	customer	customer	_	NN	_	8	PMOD	260466	_
+12	to	to	_	TO	_	11	NMOD	_	_
+13	work	work	_	VB	_	12	IM	_	_
+14	on	on	_	IN	_	13	ADV	_	_
+15	.	.	_	.	_	0	ROOT	_	_

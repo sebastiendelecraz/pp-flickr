@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	3	NMOD	23627	_
+2	young	young	_	JJ	_	3	NMOD	23627	_
+3	man	man	_	NN	_	10	SBJ	23627	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	shorts	short	_	NNS	_	4	PMOD	23634	_
+6	and	and	_	CC	_	3	COORD	_	_
+7	a	a	_	DT	_	9	NMOD	23630	_
+8	polo	polo	_	NN	_	9	NMOD	23630	_
+9	shirt	shirt	_	NN	_	6	CONJ	23630	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	carrying	carry	_	VBG	_	10	VC	_	_
+12	a	a	_	DT	_	14	NMOD	23629	_
+13	garbage	garbage	_	NN	_	14	NMOD	23629	_
+14	bag	bag	_	NN	_	11	OBJ	23629	_
+15	out of	out of	_	IN	_	11	ADV	_	11
+16	an	an	_	DT	_	18	NMOD	23636	_
+17	empty	empty	_	JJ	_	18	NMOD	23636	_
+18	lot	lot	_	NN	_	15	PMOD	23636	_
+19	with	with	_	IN	_	11	ADV	_	_
+20	another	another	_	DT	_	21	NMOD	23631	_
+21	man	man	_	NN	_	19	PMOD	23631	_
+22	following	follow	_	VBG	_	11	TMP	_	_
+23	him	him	_	PRP	_	22	PMOD	0	_
+24	.	.	_	.	_	10	P	_	_

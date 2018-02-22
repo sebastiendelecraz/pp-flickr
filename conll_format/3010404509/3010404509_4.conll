@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	87189	_
+2	man	man	_	NN	_	0	ROOT	87189	_
+3	under	under	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	87190	_
+5	running	run	_	VBG	_	6	NMOD	87190	_
+6	shower	shower	_	NN	_	3	PMOD	87190	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	shampoo	shampoo	_	NN	_	7	PMOD	87191	_
+9	in	in	_	IN	_	6	LOC	_	_
+10	his	his	_	PRP$	_	11	NMOD	87191	_
+11	hair	hair	_	NN	_	9	PMOD	87191	_
+12	.	.	_	.	_	0	ROOT	_	_

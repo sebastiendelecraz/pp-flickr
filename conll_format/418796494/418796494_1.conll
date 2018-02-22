@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	158488	_
+2	puppy	puppy	_	NN	_	0	ROOT	158488	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	158489	_
+5	bed	bed	_	NN	_	3	PMOD	158489	_
+6	with	with	_	IN	_	5	NMOD	_	5
+7	blue	blue	_	JJ	_	8	NMOD	158490	_
+8	sheets	sheet	_	NNS	_	6	PMOD	158490	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	pillow	pillow	_	NN	_	9	CONJ	158491	_
+11	.	.	_	.	_	0	ROOT	_	_

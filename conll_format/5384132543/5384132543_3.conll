@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	235097	_
+2	guy	guy	_	NN	_	3	SBJ	235097	_
+3	jumping	jump	_	VBG	_	0	ROOT	_	_
+4	off	off	_	RP	_	3	PRT	_	_
+5	a	a	_	DT	_	6	NMOD	235099	_
+6	dock	dock	_	NN	_	3	OBJ	235099	_
+7	into	into	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	235098	_
+9	body	body	_	NN	_	7	PMOD	235098	_
+10	of	of	_	IN	_	9	NMOD	235098	_
+11	water	water	_	NN	_	10	PMOD	235098	_
+12	.	.	_	.	_	0	ROOT	_	_

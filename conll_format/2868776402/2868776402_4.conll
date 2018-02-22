@@ -1,0 +1,11 @@
+1	Girl	Girl	_	NNP	_	2	SBJ	77868	_
+2	riding	ride	_	VBG	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	77869	_
+4	bike	bike	_	NN	_	2	OBJ	77869	_
+5	on	on	_	IN	_	2	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	77870	_
+7	street	street	_	NN	_	5	PMOD	77870	_
+8	near	near	_	IN	_	7	LOC	_	2
+9	many	many	_	DT	_	10	NMOD	77871	_
+10	stores	store	_	NNS	_	8	PMOD	77871	_
+11	.	.	_	.	_	0	ROOT	_	_

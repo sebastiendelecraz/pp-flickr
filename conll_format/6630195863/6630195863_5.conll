@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	256326	_
+2	young	young	_	JJ	_	3	NMOD	256326	_
+3	man	man	_	NN	_	0	ROOT	256326	_
+4	doing	do	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	0	_
+6	trick	trick	_	NN	_	4	OBJ	0	_
+7	on	on	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	256330	_
+9	skateboard	skateboard	_	NN	_	7	PMOD	256330	_
+10	down	down	_	IN	_	4	ADV	_	4
+11	the	the	_	DT	_	12	NMOD	256328	_
+12	stairs	stair	_	NNS	_	10	PMOD	256328	_
+13	while	while	_	IN	_	4	TMP	_	_
+14	being	be	_	VBG	_	13	SUB	_	_
+15	photographed	photograph	_	VBN	_	14	VC	_	_
+16	.	.	_	.	_	0	ROOT	_	_

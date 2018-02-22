@@ -1,0 +1,13 @@
+1	The	the	_	DT	_	3	NMOD	57108	_
+2	dark-skinned	dark-skinned	_	JJ	_	3	NMOD	57108	_
+3	man	man	_	NN	_	4	SBJ	57108	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	laying	lay	_	VBG	_	4	VC	_	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	57111	_
+8	doorway	doorway	_	NN	_	6	PMOD	57111	_
+9	next to	next to	_	IN	_	5	ADV	_	5
+10	a	a	_	DT	_	12	NMOD	57112	_
+11	metal	metal	_	NN	_	12	NMOD	57112	_
+12	pipe	pipe	_	NN	_	9	PMOD	57112	_
+13	.	.	_	.	_	4	P	_	_

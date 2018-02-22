@@ -1,0 +1,12 @@
+1	Group	Group	_	NNP	_	0	ROOT	187362	_
+2	of	of	_	IN	_	1	NMOD	187362	_
+3	people	people	_	NN	_	2	PMOD	187362	_
+4	near	near	_	IN	_	3	LOC	_	1
+5	a	a	_	DT	_	7	NMOD	187363	_
+6	water	water	_	NN	_	7	NMOD	187363	_
+7	fountain	fountain	_	NN	_	4	PMOD	187363	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	a	a	_	DT	_	11	NMOD	187364	_
+10	city	city	_	NN	_	11	NMOD	187364	_
+11	skyline	skyline	_	NN	_	8	CONJ	187364	_
+12	.	.	_	.	_	0	ROOT	_	_

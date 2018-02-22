@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	116416	_
+2	man	man	_	NN	_	7	SBJ	116416	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	cold	cold	_	JJ	_	6	NMOD	116420	_
+6	weather	weather	_	NN	_	4	PMOD	116420	_
+7	plays	play	_	VBZ	_	0	ROOT	_	_
+8	with	with	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	116419	_
+10	stick	stick	_	NN	_	8	PMOD	116419	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	his	his	_	PRP$	_	16	NMOD	116417	_
+13	black	black	_	JJ	_	16	NMOD	116417	_
+14	and	and	_	CC	_	13	COORD	116417	_
+15	brown	brown	_	JJ	_	14	CONJ	116417	_
+16	dog	dog	_	NN	_	11	PMOD	116417	_
+17	.	.	_	.	_	7	P	_	_

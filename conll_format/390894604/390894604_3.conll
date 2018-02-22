@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	147775	_
+2	group	group	_	NN	_	0	ROOT	147775	_
+3	of	of	_	IN	_	2	NMOD	147775	_
+4	musicians	musician	_	NNS	_	3	PMOD	147775	_
+5	setting	set	_	VBG	_	4	APPO	_	_
+6	up to	up to	_	IN	_	5	ADV	_	5
+7	record	record	_	NN	_	6	PMOD	147784	_
+8	in	in	_	IN	_	5	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	147777	_
+10	basement	basement	_	NN	_	8	PMOD	147777	_
+11	.	.	_	.	_	0	ROOT	_	_

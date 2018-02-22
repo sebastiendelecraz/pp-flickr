@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	2	SBJ	143330	_
+2	shop	shop	_	VBP	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	fresh	fresh	_	JJ	_	5	NMOD	143334	_
+5	produce	produce	_	NN	_	3	PMOD	143334	_
+6	at	at	_	IN	_	2	LOC	_	_
+7	an	an	_	DT	_	9	NMOD	143332	_
+8	outdoor	outdoor	_	JJ	_	9	NMOD	143332	_
+9	market	market	_	NN	_	6	PMOD	143332	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	143333	_
+12	city	city	_	NN	_	10	PMOD	143333	_
+13	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	68756	_
+2	women	woman	_	NNS	_	3	SBJ	68756	_
+3	drink	drink	_	VBP	_	0	ROOT	_	_
+4	coffee	coffee	_	NN	_	3	OBJ	68759	_
+5	and	and	_	CC	_	0	ROOT	_	_
+6	chat	chat	_	VBP	_	0	ROOT	68760	_
+7	while	while	_	IN	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	68763	_
+11	blanket	blanket	_	NN	_	9	PMOD	68763	_
+12	near	near	_	IN	_	11	LOC	_	8
+13	a	a	_	DT	_	15	NMOD	68757	_
+14	rocky	rocky	_	JJ	_	15	NMOD	68757	_
+15	shore	shore	_	NN	_	12	PMOD	68757	_
+16	.	.	_	.	_	0	ROOT	_	_

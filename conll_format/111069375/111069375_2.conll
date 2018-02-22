@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	2866	_
+2	man	man	_	NN	_	6	SBJ	2866	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	2867	_
+5	woman	woman	_	NN	_	3	CONJ	2867	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	performing	perform	_	VBG	_	6	VC	_	_
+8	with	with	_	IN	_	7	ADV	_	_
+9	fire	fire	_	NN	_	8	PMOD	2868	_
+10	in front of	in front of	_	IN	_	7	ADV	_	7
+11	a	a	_	DT	_	12	NMOD	2864	_
+12	crowd	crowd	_	NN	_	10	PMOD	2864	_
+13	in	in	_	IN	_	7	LOC	_	_
+14	an	an	_	DT	_	17	NMOD	2869	_
+15	urban	urban	_	JJ	_	17	NMOD	2869	_
+16	concrete	concrete	_	NN	_	17	NMOD	2869	_
+17	park	park	_	NN	_	13	PMOD	2869	_
+18	.	.	_	.	_	6	P	_	_

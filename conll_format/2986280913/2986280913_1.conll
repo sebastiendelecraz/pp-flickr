@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	85632	_
+2	boy	boy	_	NN	_	0	ROOT	85632	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	green	green	_	JJ	_	4	PMOD	85636	_
+6	running	run	_	VBG	_	3	ADV	_	_
+7	with	with	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	12	NMOD	85633	_
+9	brown	brown	_	JJ	_	12	NMOD	85633	_
+10	and	and	_	CC	_	9	COORD	85633	_
+11	white	white	_	JJ	_	10	CONJ	85633	_
+12	dog	dog	_	NN	_	7	PMOD	85633	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	85634	_
+15	green	green	_	JJ	_	16	NMOD	85634	_
+16	field	field	_	NN	_	13	PMOD	85634	_
+17	.	.	_	.	_	0	ROOT	_	_

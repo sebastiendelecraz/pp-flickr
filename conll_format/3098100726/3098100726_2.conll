@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	93444	_
+2	woman	woman	_	NN	_	8	SBJ	93444	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	93446	_
+5	green	green	_	JJ	_	7	NMOD	93446	_
+6	hard	hard	_	JJ	_	7	NMOD	93446	_
+7	hat	hat	_	NN	_	3	PMOD	93446	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	at the bottom of	at the bottom of	_	IN	_	9	ADV	93447	9
+11	a	a	_	DT	_	13	NMOD	93447	_
+12	small	small	_	JJ	_	13	NMOD	93447	_
+13	staircase	staircase	_	NN	_	10	PMOD	93447	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	her	her	_	PRP$	_	16	NMOD	93452	_
+16	purse	purse	_	NN	_	14	PMOD	93452	_
+17	in	in	_	IN	_	9	LOC	_	_
+18	one	one	_	CD	_	19	NMOD	93454	_
+19	hand	hand	_	NN	_	17	PMOD	93454	_
+20	.	.	_	.	_	8	P	_	_

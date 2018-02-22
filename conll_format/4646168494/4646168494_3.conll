@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	186262	_
+2	couple	couple	_	NN	_	3	SBJ	186262	_
+3	relaxing	relax	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	186263	_
+6	paddle	paddle	_	NN	_	7	NMOD	186263	_
+7	boat	boat	_	NN	_	4	PMOD	186263	_
+8	on	on	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	10	NMOD	186264	_
+10	body	body	_	NN	_	8	PMOD	186264	_
+11	of	of	_	IN	_	10	NMOD	186264	_
+12	water	water	_	NN	_	11	PMOD	186264	_
+13	.	.	_	.	_	0	ROOT	_	_

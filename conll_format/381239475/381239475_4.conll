@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	143567	_
+2	dog	dog	_	NN	_	0	ROOT	143567	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	143568	_
+5	ball	ball	_	NN	_	3	PMOD	143568	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	its	its	_	PRP$	_	9	NMOD	143569	_
+8	mouth	mouth	_	NN	_	9	NMOD	143569	_
+9	swims	swim	_	NNS	_	6	PMOD	_	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	143570	_
+12	water	water	_	NN	_	10	PMOD	143570	_
+13	.	.	_	.	_	0	ROOT	_	_

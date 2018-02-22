@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	26668	_
+2	big	big	_	JJ	_	3	NMOD	26668	_
+3	brother	brother	_	NN	_	4	SBJ	26668	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	his	his	_	PRP$	_	7	NMOD	26674	_
+6	little	little	_	JJ	_	7	NMOD	26674	_
+7	sister	sister	_	NN	_	4	OBJ	26674	_
+8	through	through	_	IN	_	4	DIR	_	4
+9	a	a	_	DT	_	10	NMOD	26667	_
+10	walkway	walkway	_	NN	_	8	PMOD	26667	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	the	the	_	DT	_	14	NMOD	26669	_
+13	family	family	_	NN	_	14	NMOD	26669	_
+14	property	property	_	NN	_	11	PMOD	26669	_
+15	.	.	_	.	_	0	ROOT	_	_

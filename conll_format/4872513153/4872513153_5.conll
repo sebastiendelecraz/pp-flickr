@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	3	NMOD	213612	_
+2	young	young	_	JJ	_	3	NMOD	213612	_
+3	child	child	_	NN	_	4	SBJ	213612	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	away from	away from	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	213613	_
+7	pile	pile	_	NN	_	5	PMOD	213613	_
+8	of	of	_	IN	_	7	NMOD	213613	_
+9	dirt	dirt	_	NN	_	8	PMOD	213613	_
+10	.	.	_	.	_	0	ROOT	_	_

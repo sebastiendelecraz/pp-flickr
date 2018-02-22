@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	134752	_
+2	woman	woman	_	NN	_	3	SBJ	134752	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	dressed	dress	_	VBN	_	3	VC	_	_
+5	in	in	_	IN	_	4	ADV	_	_
+6	decorated	decorate	_	VBN	_	7	NMOD	134753	_
+7	garb	garb	_	NN	_	5	PMOD	134753	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	playing	playing	_	NN	_	8	CONJ	_	_
+10	a	a	_	DT	_	11	NMOD	134755	_
+11	drum	drum	_	NN	_	12	AMOD	134755	_
+12	outside	outside	_	IN	_	7	LOC	134755	9
+13	.	.	_	.	_	3	P	_	_

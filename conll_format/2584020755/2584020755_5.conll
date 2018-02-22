@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	59676	_
+2	boy	boy	_	NN	_	3	SBJ	59676	_
+3	poses	pose	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	0	_
+6	camera	camera	_	NN	_	4	PMOD	0	_
+7	at	at	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	59680	_
+9	party	party	_	NN	_	7	PMOD	59680	_
+10	.	.	_	.	_	3	P	_	_

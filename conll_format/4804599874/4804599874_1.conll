@@ -1,0 +1,29 @@
+1	A	a	_	DT	_	2	NMOD	204537	_
+2	man	man	_	NN	_	23	SBJ	204537	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	7	NMOD	204540	_
+5	smiling	smile	_	VBG	_	7	NMOD	204540	_
+6	woman	woman	_	NN	_	7	NMOD	204540	_
+7	sit	sit	_	NN	_	3	CONJ	_	_
+8	at	at	_	IN	_	2	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	204533	_
+10	dining	dining	_	NN	_	11	NMOD	204533	_
+11	table	table	_	NN	_	8	PMOD	204533	_
+12	with	with	_	IN	_	2	NMOD	_	_
+13	many	many	_	DT	_	15	NMOD	204542	_
+14	plastic	plastic	_	JJ	_	15	NMOD	204542	_
+15	cups	cup	_	NNS	_	12	PMOD	204542	_
+16	on	on	_	IN	_	2	NMOD	_	_
+17	it	it	_	PRP	_	16	PMOD	0	_
+18	as	as	_	IN	_	2	NMOD	_	_
+19	a	a	_	DT	_	20	NMOD	204539	_
+20	person	person	_	NN	_	18	PMOD	204539	_
+21	next to	next to	_	IN	_	2	NMOD	_	_
+22	them	them	_	PRP	_	21	PMOD	0	_
+23	eats	eat	_	VBZ	_	0	ROOT	_	_
+24	out of	out of	_	IN	_	23	ADV	_	23
+25	a	a	_	DT	_	26	NMOD	204538	_
+26	bowl	bowl	_	NN	_	24	PMOD	204538	_
+27	with	with	_	IN	_	26	NMOD	_	_
+28	chopsticks	chopstick	_	NNS	_	27	PMOD	204541	_
+29	.	.	_	.	_	23	P	_	_

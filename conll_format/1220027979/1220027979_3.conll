@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	5472	_
+2	baby	baby	_	NN	_	3	SBJ	5472	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	seated	seat	_	VBN	_	3	VC	_	_
+5	between	between	_	IN	_	4	ADV	_	4
+6	two	two	_	CD	_	8	NMOD	5474	_
+7	young	young	_	JJ	_	8	NMOD	5474	_
+8	boys	boy	_	NNS	_	5	PMOD	5474	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	5475	_
+11	seat	seat	_	NN	_	9	PMOD	5475	_
+12	.	.	_	.	_	3	P	_	_

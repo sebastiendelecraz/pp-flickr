@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	229771	_
+2	woman	woman	_	NN	_	3	SBJ	229771	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	229772	_
+5	white	white	_	JJ	_	6	NMOD	229772	_
+6	skirt	skirt	_	NN	_	3	OBJ	229772	_
+7	peeking	peek	_	VBG	_	6	APPO	_	_
+8	into	into	_	IN	_	7	DIR	_	7
+9	the	the	_	DT	_	10	NMOD	229774	_
+10	window	window	_	NN	_	8	PMOD	229774	_
+11	of	of	_	IN	_	10	NMOD	229774	_
+12	a	a	_	DT	_	14	NMOD	229774	_
+13	closed	close	_	VBN	_	14	NMOD	229774	_
+14	business	business	_	NN	_	11	PMOD	229774	_
+15	.	.	_	.	_	0	ROOT	_	_

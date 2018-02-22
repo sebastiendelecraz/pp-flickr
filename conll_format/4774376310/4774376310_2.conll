@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	201446	_
+2	woman	woman	_	NN	_	3	SBJ	201446	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	having	have	_	VBG	_	3	VC	_	_
+5	her	her	_	PRP$	_	7	NMOD	201452	_
+6	cigarette	cigarette	_	NN	_	7	NMOD	201452	_
+7	lit	lit	_	NN	_	4	OBJ	201452	_
+8	by	by	_	IN	_	4	MNR	_	7
+9	a	a	_	DT	_	10	NMOD	201451	_
+10	man	man	_	NN	_	8	PMOD	201451	_
+11	out of	out of	_	IN	_	4	TMP	_	10
+12	the	the	_	DT	_	13	NMOD	201450	_
+13	frame	frame	_	NN	_	11	PMOD	201450	_
+14	.	.	_	.	_	3	P	_	_

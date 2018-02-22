@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	135129	_
+2	young	young	_	JJ	_	3	NMOD	135129	_
+3	boy	boy	_	NN	_	6	SBJ	135129	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	girl	girl	_	NN	_	4	CONJ	135128	_
+6	run	run	_	VBP	_	0	ROOT	_	_
+7	through	through	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	135131	_
+9	walkway	walkway	_	NN	_	7	PMOD	135131	_
+10	between	between	_	IN	_	9	NMOD	_	6
+11	buildings	building	_	NNS	_	10	PMOD	135133	_
+12	.	.	_	.	_	6	P	_	_

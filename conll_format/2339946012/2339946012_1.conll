@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	42690	_
+2	brown	brown	_	JJ	_	3	NMOD	42690	_
+3	dog	dog	_	NN	_	0	ROOT	42690	_
+4	swimming	swim	_	VBG	_	3	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	42691	_
+7	stick	stick	_	NN	_	5	PMOD	42691	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	42692	_
+10	water	water	_	NN	_	8	PMOD	42692	_
+11	.	.	_	.	_	0	ROOT	_	_

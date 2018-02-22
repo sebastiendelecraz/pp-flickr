@@ -1,0 +1,16 @@
+1	two	two	_	CD	_	2	NMOD	284911	_
+2	loggers	logger	_	NNS	_	3	SBJ	284911	_
+3	work	work	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	removing	remove	_	VBG	_	4	PMOD	_	_
+6	the	the	_	DT	_	7	NMOD	284915	_
+7	bark	bark	_	NN	_	5	OBJ	284915	_
+8	from	from	_	IN	_	5	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	284913	_
+10	tree	tree	_	NN	_	8	PMOD	284913	_
+11	in	in	_	IN	_	5	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	284916	_
+13	field	field	_	NN	_	11	PMOD	284916	_
+14	of	of	_	IN	_	13	NMOD	284916	_
+15	wheat	wheat	_	NN	_	14	PMOD	284916	_
+16	.	.	_	.	_	3	P	_	_

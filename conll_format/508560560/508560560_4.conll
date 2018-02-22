@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	228512	_
+2	father	father	_	NN	_	0	ROOT	228512	_
+3	playing	play	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	228515	_
+5	song	song	_	NN	_	3	OBJ	228515	_
+6	on	on	_	IN	_	3	LOC	_	_
+7	his	his	_	PRP$	_	8	NMOD	228513	_
+8	guitar	guitar	_	NN	_	6	PMOD	228513	_
+9	for	for	_	IN	_	8	NMOD	_	3
+10	his	his	_	PRP$	_	11	NMOD	228518	_
+11	son	son	_	NN	_	9	PMOD	228518	_
+12	.	.	_	.	_	0	ROOT	_	_

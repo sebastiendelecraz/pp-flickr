@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	54150	_
+2	woman	woman	_	NN	_	3	SBJ	54150	_
+3	wearing	wear	_	VBG	_	9	SBJ	_	_
+4	a	a	_	DT	_	5	NMOD	54152	_
+5	crown	crown	_	NN	_	3	OBJ	54152	_
+6	on	on	_	IN	_	3	ADV	_	_
+7	her	her	_	PRP$	_	8	NMOD	54153	_
+8	head	head	_	NN	_	6	PMOD	54153	_
+9	stands	stand	_	VBZ	_	0	ROOT	_	_
+10	out	out	_	RP	_	9	PRT	_	_
+11	from	from	_	IN	_	9	ADV	_	9
+12	the	the	_	DT	_	13	NMOD	54149	_
+13	crowd	crowd	_	NN	_	11	PMOD	54149	_
+14	at	at	_	IN	_	9	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	54157	_
+16	park	park	_	NN	_	14	PMOD	54157	_
+17	.	.	_	.	_	9	P	_	_

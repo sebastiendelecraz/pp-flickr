@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	231308	_
+2	boy	boy	_	NN	_	3	SBJ	231308	_
+3	climbs	climb	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	231314	_
+6	stack	stack	_	NN	_	4	PMOD	231314	_
+7	of	of	_	IN	_	6	NMOD	231314	_
+8	timber	timber	_	NN	_	7	PMOD	231314	_
+9	despite	despite	_	IN	_	3	ADV	_	3
+10	a	a	_	DT	_	11	NMOD	231310	_
+11	sign	sign	_	NN	_	9	PMOD	231310	_
+12	prohibiting	prohibit	_	VBG	_	11	APPO	_	_
+13	it	it	_	PRP	_	12	OBJ	0	_
+14	.	.	_	.	_	3	P	_	_

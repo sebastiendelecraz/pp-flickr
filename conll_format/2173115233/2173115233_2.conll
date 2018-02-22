@@ -1,0 +1,16 @@
+1	Five	Five	_	CD	_	2	NMOD	32225	_
+2	individuals	individual	_	NNS	_	3	SBJ	32225	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	grass	grass	_	NN	_	4	PMOD	32227	_
+6	next to	next to	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	9	NMOD	32226	_
+8	brick	brick	_	NN	_	9	NMOD	32226	_
+9	building	building	_	NN	_	6	PMOD	32226	_
+10	,	,	_	,	_	0	ROOT	_	_
+11	holding	hold	_	VBG	_	0	ROOT	_	_
+12	their	their	_	PRP$	_	15	NMOD	32233	_
+13	own	own	_	JJ	_	15	NMOD	32233	_
+14	string	string	_	NN	_	15	NMOD	32233	_
+15	instrument	instrument	_	NN	_	11	OBJ	32233	_
+16	.	.	_	.	_	0	ROOT	_	_

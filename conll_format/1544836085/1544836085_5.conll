@@ -1,0 +1,9 @@
+1	Two	Two	_	CD	_	2	NMOD	16001	_
+2	people	people	_	NN	_	3	SBJ	16001	_
+3	search	search	_	VBP	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	objects	object	_	NNS	_	4	PMOD	16002	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	16008	_
+8	dirt	dirt	_	NN	_	6	PMOD	16008	_
+9	.	.	_	.	_	3	P	_	_

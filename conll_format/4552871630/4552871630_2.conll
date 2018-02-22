@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	177705	_
+2	fire	fire	_	NN	_	3	NMOD	177705	_
+3	escape	escape	_	NN	_	10	SBJ	177705	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	the	the	_	DT	_	6	NMOD	177706	_
+6	side	side	_	NN	_	4	PMOD	177706	_
+7	of	of	_	IN	_	6	NMOD	177706	6
+8	a	a	_	DT	_	9	NMOD	177706	_
+9	building	building	_	NN	_	7	PMOD	177706	_
+10	dominates	dominate	_	VBZ	_	0	ROOT	_	_
+11	an	an	_	DT	_	13	NMOD	177711	_
+12	urban	urban	_	JJ	_	13	NMOD	177711	_
+13	scene	scene	_	NN	_	10	OBJ	177711	_
+14	of	of	_	IN	_	13	NMOD	177711	_
+15	an	an	_	DT	_	16	NMOD	177711	_
+16	alley	alley	_	NN	_	14	PMOD	177711	_
+17	.	.	_	.	_	10	P	_	_

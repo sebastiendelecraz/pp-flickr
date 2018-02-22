@@ -1,0 +1,8 @@
+1	Seagulls	seagull	_	NNS	_	2	SBJ	107548	_
+2	fighting	fight	_	VBG	_	0	ROOT	_	_
+3	over	over	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	107550	_
+5	scrap	scrap	_	NN	_	3	PMOD	107550	_
+6	of	of	_	IN	_	5	NMOD	107550	_
+7	bread	bread	_	NN	_	6	PMOD	107550	_
+8	.	.	_	.	_	0	ROOT	_	_

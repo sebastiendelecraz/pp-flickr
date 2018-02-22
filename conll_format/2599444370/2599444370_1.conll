@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	60599	_
+2	black	black	_	JJ	_	4	NMOD	60599	_
+3	dog	dog	_	NN	_	4	NMOD	60599	_
+4	paddles	paddle	_	NNS	_	0	ROOT	_	_
+5	behind	behind	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	8	NMOD	60601	_
+7	black	black	_	JJ	_	8	NMOD	60601	_
+8	cat	cat	_	NN	_	5	PMOD	60601	_
+9	in	in	_	IN	_	4	LOC	_	4
+10	a	a	_	DT	_	11	NMOD	60602	_
+11	body	body	_	NN	_	9	PMOD	60602	_
+12	of	of	_	IN	_	11	NMOD	60602	_
+13	water	water	_	NN	_	12	PMOD	60602	_
+14	.	.	_	.	_	0	ROOT	_	_

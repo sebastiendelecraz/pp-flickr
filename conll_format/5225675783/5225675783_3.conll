@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	231467	_
+2	workers	worker	_	NNS	_	3	SBJ	231467	_
+3	weld	weld	_	VBP	_	0	ROOT	_	_
+4	the	the	_	DT	_	5	NMOD	231469	_
+5	bars	bar	_	NNS	_	3	OBJ	231469	_
+6	of	of	_	IN	_	5	NMOD	231469	_
+7	a	a	_	DT	_	8	NMOD	231469	_
+8	fence	fence	_	NN	_	6	PMOD	231469	_
+9	near	near	_	IN	_	8	LOC	_	3
+10	a	a	_	DT	_	13	NMOD	231468	_
+11	busy	busy	_	JJ	_	13	NMOD	231468	_
+12	suburban	suburban	_	JJ	_	13	NMOD	231468	_
+13	street	street	_	NN	_	9	PMOD	231468	_
+14	.	.	_	.	_	3	P	_	_

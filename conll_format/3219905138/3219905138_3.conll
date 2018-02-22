@@ -1,0 +1,10 @@
+1	Indigenous	Indigenous	_	NNP	_	2	NMOD	102097	_
+2	people	people	_	NN	_	3	SBJ	102097	_
+3	preparing	prepare	_	VBG	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	102102	_
+6	festival	festival	_	JJ	_	7	NMOD	102102	_
+7	dance	dance	_	NN	_	4	PMOD	102102	_
+8	at	at	_	IN	_	3	MNR	_	_
+9	night	night	_	NN	_	8	PMOD	102101	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	Bananas	Bananas	_	NNP	_	2	NMOD	219304	_
+2	sit	sit	_	NN	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	219306	_
+5	foreground	foreground	_	NN	_	3	PMOD	219306	_
+6	of	of	_	IN	_	5	NMOD	219306	5
+7	a	a	_	DT	_	10	NMOD	219306	_
+8	busy	busy	_	JJ	_	10	NMOD	219306	_
+9	sidewalk	sidewalk	_	NN	_	10	NMOD	219306	_
+10	scene	scene	_	NN	_	6	PMOD	219306	_
+11	.	.	_	.	_	0	ROOT	_	_

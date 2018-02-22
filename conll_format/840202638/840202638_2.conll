@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	281254	_
+2	young	young	_	JJ	_	3	NMOD	281254	_
+3	man	man	_	NN	_	0	ROOT	281254	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	6	NMOD	281256	_
+6	skateboard	skateboard	_	NN	_	4	PMOD	281256	_
+7	performing	perform	_	VBG	_	6	APPO	_	_
+8	a	a	_	DT	_	9	NMOD	0	_
+9	trick	trick	_	NN	_	7	OBJ	0	_
+10	atop	atop	_	IN	_	3	NMOD	_	7
+11	a	a	_	DT	_	13	NMOD	281255	_
+12	paved	pave	_	VBN	_	13	NMOD	281255	_
+13	hill	hill	_	NN	_	10	PMOD	281255	_
+14	.	.	_	.	_	0	ROOT	_	_

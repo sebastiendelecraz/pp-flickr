@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	282664	_
+2	photograph	photograph	_	NN	_	3	SBJ	282664	_
+3	jumps	jump	_	VBZ	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	282662	_
+6	dock	dock	_	NN	_	4	PMOD	282662	_
+7	beside	beside	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	282663	_
+9	lake	lake	_	NN	_	7	PMOD	282663	_
+10	.	.	_	.	_	3	P	_	_

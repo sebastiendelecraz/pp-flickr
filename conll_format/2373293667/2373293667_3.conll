@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	44832	_
+2	man	man	_	NN	_	10	SBJ	44832	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	dark	dark	_	JJ	_	5	NMOD	44838	_
+5	sunglasses	sunglass	_	NNS	_	3	PMOD	44838	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	9	NMOD	44834	_
+8	black	black	_	JJ	_	9	NMOD	44834	_
+9	hat	hat	_	NN	_	6	CONJ	44834	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	sitting	sit	_	VBG	_	10	VC	_	_
+12	on	on	_	IN	_	11	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	44835	_
+14	bus	bus	_	NN	_	12	PMOD	44835	_
+15	next to	next to	_	IN	_	11	LOC	_	11
+16	another	another	_	DT	_	17	NMOD	44836	_
+17	person	person	_	NN	_	15	PMOD	44836	_
+18	.	.	_	.	_	10	P	_	_

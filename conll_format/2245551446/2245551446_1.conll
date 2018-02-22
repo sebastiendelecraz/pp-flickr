@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	36490	_
+2	men	man	_	NNS	_	0	ROOT	36490	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	safety	safety	_	NN	_	5	NMOD	36491	_
+5	hats	hat	_	NNS	_	3	PMOD	36491	_
+6	and	and	_	CC	_	2	COORD	_	_
+7	masks	mask	_	VBZ	_	6	CONJ	36492	_
+8	sorting	sort	_	VBG	_	7	OPRD	_	_
+9	through	through	_	IN	_	8	ADV	_	8
+10	soiled	soil	_	VBN	_	11	NMOD	36493	_
+11	rags	rag	_	NNS	_	9	PMOD	36493	_
+12	at	at	_	IN	_	8	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	36494	_
+14	factory	factory	_	NN	_	12	PMOD	36494	_
+15	.	.	_	.	_	0	ROOT	_	_

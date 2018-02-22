@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	264089	_
+2	woman	woman	_	NN	_	0	ROOT	264089	_
+3	drawing	draw	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	264091	_
+5	dog	dog	_	NN	_	8	NMOD	264091	_
+6	'	'	_	POS	_	5	SUFFIX	264091	_
+7	s	s	_	NN	_	8	NMOD	264091	_
+8	face	face	_	NN	_	3	OBJ	264091	_
+9	on	on	_	IN	_	3	ADV	_	3
+10	a	a	_	DT	_	11	NMOD	264090	_
+11	block	block	_	NN	_	9	PMOD	264090	_
+12	of	of	_	IN	_	11	NMOD	264090	_
+13	wood	wood	_	NN	_	12	PMOD	264090	_
+14	with	with	_	IN	_	3	ADV	_	_
+15	a	a	_	DT	_	16	NMOD	264092	_
+16	pencil	pencil	_	NN	_	14	PMOD	264092	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	Men	Men	_	NNPS	_	10	SBJ	220094	_
+2	in	in	_	IN	_	10	LOC	_	_
+3	white	white	_	JJ	_	4	NMOD	220099	_
+4	uniforms	uniform	_	NNS	_	2	PMOD	220099	_
+5	with	with	_	IN	_	4	NMOD	_	1
+6	blue	blue	_	JJ	_	7	NMOD	220100	_
+7	sashes	sashes	_	NNS	_	5	PMOD	220100	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	caps	cap	_	NNS	_	8	CONJ	220098	_
+10	are	be	_	VBP	_	0	ROOT	_	_
+11	standing	stand	_	VBG	_	10	VC	_	_
+12	in	in	_	IN	_	11	ADV	_	_
+13	formation	formation	_	NN	_	12	PMOD	220095	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	a	a	_	DT	_	16	NMOD	220097	_
+16	street	street	_	NN	_	14	PMOD	220097	_
+17	.	.	_	.	_	10	P	_	_

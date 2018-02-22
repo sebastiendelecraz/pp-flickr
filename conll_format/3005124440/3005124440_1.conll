@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	86785	_
+2	men	man	_	NNS	_	0	ROOT	86785	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	86787	_
+5	woman	woman	_	NN	_	6	NMOD	86787	_
+6	pose	pose	_	NN	_	3	CONJ	_	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	signs	sign	_	NNS	_	7	PMOD	86782	_
+9	for	for	_	IN	_	8	NMOD	_	8
+10	Obama	Obama	_	NNP	_	9	PMOD	86784	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	Chris	Chris	_	NNP	_	13	NAME	86783	_
+13	Gregoire	Gregoire	_	NNP	_	11	CONJ	86783	_
+14	.	.	_	.	_	0	ROOT	_	_

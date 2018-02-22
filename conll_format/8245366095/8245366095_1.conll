@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	4	NMOD	280818	_
+2	girl	girl	_	NN	_	4	NMOD	280818	_
+3	basketball	basketball	_	NN	_	4	NMOD	280818	_
+4	player	player	_	NN	_	9	SBJ	280818	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	280827	_
+7	white	white	_	JJ	_	8	NMOD	280827	_
+8	jersey	jersey	_	NN	_	5	PMOD	280827	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	in the process of	in the process of	_	IN	_	9	PRD	280825	_
+11	making	make	_	VBG	_	10	PMOD	_	_
+12	a	a	_	DT	_	13	NMOD	280826	_
+13	move	move	_	NN	_	11	OBJ	280826	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	the	the	_	DT	_	16	NMOD	280820	_
+16	ball	ball	_	NN	_	14	PMOD	280820	_
+17	around	around	_	IN	_	11	LOC	_	11
+18	an	an	_	DT	_	20	NMOD	280823	_
+19	opposing	oppose	_	VBG	_	20	NMOD	280823	_
+20	player	player	_	NN	_	17	PMOD	280823	_
+21	in	in	_	IN	_	20	LOC	_	20
+22	a	a	_	DT	_	24	NMOD	280821	_
+23	blue	blue	_	JJ	_	24	NMOD	280821	_
+24	jersey	jersey	_	NN	_	21	PMOD	280821	_
+25	.	.	_	.	_	9	P	_	_

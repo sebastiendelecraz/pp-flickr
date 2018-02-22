@@ -1,0 +1,11 @@
+1	Three	Three	_	CD	_	2	NMOD	115314	_
+2	people	people	_	NN	_	3	SBJ	115314	_
+3	gathered	gather	_	VBD	_	0	ROOT	_	_
+4	around	around	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	7	NMOD	115318	_
+6	living	living	_	NN	_	7	NMOD	115318	_
+7	room	room	_	NN	_	4	PMOD	115318	_
+8	at	at	_	IN	_	7	LOC	_	3
+9	Christmas	Christmas	_	NNP	_	10	NMOD	115315	_
+10	time	time	_	NN	_	8	PMOD	115315	_
+11	.	.	_	.	_	3	P	_	_

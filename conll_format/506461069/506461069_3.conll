@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	227888	_
+2	man	man	_	NN	_	3	SBJ	227888	_
+3	leans	lean	_	VBZ	_	0	ROOT	_	_
+4	his	his	_	PRP$	_	5	NMOD	0	_
+5	bike	bike	_	NN	_	3	OBJ	_	_
+6	up against	up against	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	227892	_
+8	tree	tree	_	NN	_	6	PMOD	227892	_
+9	on	on	_	IN	_	3	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	227894	_
+11	grass	grass	_	NN	_	9	PMOD	227894	_
+12	.	.	_	.	_	3	P	_	_

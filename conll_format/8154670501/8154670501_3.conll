@@ -1,0 +1,16 @@
+1	Runners	runner	_	NNS	_	2	SBJ	279631	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	running	run	_	VBG	_	2	VC	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	279643	_
+6	street	street	_	NN	_	4	PMOD	279643	_
+7	,	,	_	,	_	8	P	_	_
+8	followed	follow	_	VBD	_	0	ROOT	_	_
+9	by	by	_	IN	_	8	MNR	_	8
+10	a	a	_	DT	_	12	NMOD	279634	_
+11	two	two	_	CD	_	12	NMOD	279634	_
+12	men	man	_	NNS	_	9	PMOD	279634	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	a	a	_	DT	_	15	NMOD	279644	_
+15	scooter	scooter	_	NN	_	13	PMOD	279644	_
+16	.	.	_	.	_	8	P	_	_

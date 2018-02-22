@@ -1,0 +1,25 @@
+1	An	an	_	DT	_	3	NMOD	146290	_
+2	Asian	Asian	_	JJ	_	3	NMOD	146290	_
+3	woman	woman	_	NN	_	4	SBJ	146290	_
+4	looks	look	_	VBZ	_	0	ROOT	_	_
+5	out	out	_	RP	_	4	PRT	_	_
+6	the	the	_	DT	_	7	NMOD	146296	_
+7	window	window	_	NN	_	4	OBJ	146296	_
+8	of	of	_	IN	_	7	NMOD	146296	_
+9	a	a	_	DT	_	11	NMOD	146296	_
+10	coffee	coffee	_	NN	_	11	NMOD	146296	_
+11	shop	shop	_	NN	_	8	PMOD	146296	_
+12	while	while	_	IN	_	4	ADV	_	_
+13	clutching	clutch	_	VBG	_	12	SUB	_	_
+14	her	her	_	PRP$	_	15	NMOD	146294	_
+15	drink	drink	_	NN	_	13	OBJ	146294	_
+16	,	,	_	,	_	4	P	_	_
+17	next to	next to	_	IN	_	4	ADV	_	13
+18	a	a	_	DT	_	19	NMOD	146292	_
+19	basket	basket	_	NN	_	17	PMOD	146292	_
+20	of	of	_	IN	_	19	NMOD	146292	_
+21	poinsettias	poinsettia	_	NNS	_	20	PMOD	146292	_
+22	and	and	_	CC	_	19	COORD	_	_
+23	a	a	_	DT	_	24	NMOD	146297	_
+24	newspaper	newspaper	_	NN	_	22	CONJ	146297	_
+25	.	.	_	.	_	4	P	_	_

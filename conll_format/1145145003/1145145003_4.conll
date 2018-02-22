@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	3720	_
+2	person	person	_	NN	_	0	ROOT	3720	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	red	red	_	JJ	_	5	NMOD	3723	_
+5	pants	pant	_	NNS	_	3	PMOD	3723	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	cover	cover	_	NN	_	6	PMOD	3727	_
+8	over	over	_	IN	_	5	NMOD	_	7
+9	her	her	_	PRP$	_	10	NMOD	3722	_
+10	head	head	_	NN	_	8	PMOD	3722	_
+11	sitting	sit	_	VBG	_	10	APPO	_	_
+12	in front of	in front of	_	IN	_	11	ADV	_	_
+13	multiple	multiple	_	JJ	_	14	NMOD	3724	_
+14	computers	computer	_	NNS	_	12	PMOD	3724	_
+15	.	.	_	.	_	0	ROOT	_	_

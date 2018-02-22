@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	46521	_
+2	little	little	_	JJ	_	3	NMOD	46521	_
+3	girl	girl	_	NN	_	8	SBJ	46521	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	7	NMOD	46526	_
+6	white	white	_	JJ	_	7	NMOD	46526	_
+7	dress	dress	_	NN	_	4	PMOD	46526	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	under	under	_	IN	_	9	LOC	_	9
+11	the	the	_	DT	_	12	NMOD	46528	_
+12	doorway	doorway	_	NN	_	10	PMOD	46528	_
+13	of	of	_	IN	_	12	NMOD	46528	_
+14	a	a	_	DT	_	15	NMOD	46528	_
+15	store	store	_	NN	_	13	PMOD	46528	_
+16	.	.	_	.	_	8	P	_	_

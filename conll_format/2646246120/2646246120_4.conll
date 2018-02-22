@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	63700	_
+2	man	man	_	NN	_	0	ROOT	63700	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	5	NMOD	63702	_
+5	sits	sit	_	NNS	_	3	PMOD	_	_
+6	under	under	_	IN	_	2	LOC	_	5
+7	the	the	_	DT	_	8	NMOD	63706	_
+8	shade	shade	_	NN	_	6	PMOD	63706	_
+9	of	of	_	IN	_	8	NMOD	63706	_
+10	a	a	_	DT	_	12	NMOD	63706	_
+11	small	small	_	JJ	_	12	NMOD	63706	_
+12	tree	tree	_	NN	_	9	PMOD	63706	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	the	the	_	DT	_	15	NMOD	63699	_
+15	beach	beach	_	NN	_	13	PMOD	63699	_
+16	.	.	_	.	_	0	ROOT	_	_

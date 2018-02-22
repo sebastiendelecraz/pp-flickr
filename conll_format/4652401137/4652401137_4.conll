@@ -1,0 +1,9 @@
+1	Two	Two	_	CD	_	2	NMOD	186948	_
+2	dresses	dress	_	NNS	_	0	ROOT	186948	_
+3	up	up	_	IN	_	2	NMOD	_	2
+4	girls	girl	_	NNS	_	3	PMOD	186947	_
+5	with	with	_	IN	_	2	NMOD	_	_
+6	their	their	_	PRP$	_	7	NMOD	186949	_
+7	phones	phone	_	NNS	_	5	PMOD	186949	_
+8	out	out	_	IN	_	2	NMOD	_	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	85196	_
+2	treat	treat	_	NN	_	3	NMOD	85196	_
+3	vendor	vendor	_	NN	_	4	SBJ	85196	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	standing	stand	_	VBG	_	4	VC	_	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	85207	_
+8	sun	sun	_	NN	_	6	PMOD	85207	_
+9	while	while	_	IN	_	5	TMP	_	_
+10	others	other	_	NNS	_	11	SBJ	85204	_
+11	sit	sit	_	VBP	_	9	SUB	_	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	85206	_
+14	shade	shade	_	NN	_	12	PMOD	85206	_
+15	under	under	_	IN	_	11	LOC	_	11
+16	umbrellas	umbrella	_	NNS	_	15	PMOD	85208	_
+17	.	.	_	.	_	4	P	_	_

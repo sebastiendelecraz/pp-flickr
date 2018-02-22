@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	3	NMOD	50344	_
+2	small	small	_	JJ	_	3	NMOD	50344	_
+3	boy	boy	_	NN	_	15	SBJ	50344	_
+4	dressed	dress	_	VBN	_	3	APPO	_	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	8	NMOD	50345	_
+7	black	black	_	JJ	_	8	NMOD	50345	_
+8	sweatshirt	sweatshirt	_	NN	_	5	PMOD	50345	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	50346	_
+11	logo	logo	_	NN	_	9	PMOD	50346	_
+12	on	on	_	IN	_	15	ADV	_	_
+13	it	it	_	PRP	_	12	PMOD	0	_
+14	,	,	_	,	_	15	P	_	_
+15	holds	hold	_	VBZ	_	0	ROOT	_	_
+16	a	a	_	DT	_	18	NMOD	50348	_
+17	red	red	_	JJ	_	18	NMOD	50348	_
+18	bat	bat	_	NN	_	15	OBJ	50348	_
+19	in front of	in front of	_	IN	_	0	ROOT	_	_
+20	blue	blue	_	JJ	_	22	NMOD	50350	_
+21	stadium	stadium	_	NN	_	22	NMOD	50350	_
+22	seats	seat	_	NNS	_	19	PMOD	50350	_
+23	.	.	_	.	_	0	ROOT	_	_

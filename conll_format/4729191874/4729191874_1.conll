@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	196217	_
+2	woman	woman	_	NN	_	0	ROOT	196217	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	196220	_
+5	brown	brown	_	JJ	_	6	NMOD	196220	_
+6	shirt	shirt	_	NN	_	3	PMOD	196220	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	a	a	_	DT	_	9	NMOD	196216	_
+9	man	man	_	NN	_	7	CONJ	196216	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	196221	_
+12	hat	hat	_	NN	_	13	NMOD	196221	_
+13	cross	cross	_	NN	_	10	PMOD	_	_
+14	the	the	_	DT	_	15	NMOD	196218	_
+15	street	street	_	NN	_	13	APPO	196218	_
+16	.	.	_	.	_	0	ROOT	_	_

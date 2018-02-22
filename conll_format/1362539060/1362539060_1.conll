@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	9987	_
+2	large	large	_	JJ	_	3	NMOD	9987	_
+3	group	group	_	NN	_	13	SBJ	9987	_
+4	of	of	_	IN	_	3	NMOD	_	_
+5	what	what	_	WP	_	6	SBJ	_	_
+6	appear	appear	_	VBP	_	4	PMOD	_	_
+7	to	to	_	TO	_	6	OPRD	_	_
+8	be	be	_	VB	_	7	IM	_	_
+9	Indian	Indian	_	JJ	_	10	NMOD	9982	_
+10	women	woman	_	NNS	_	8	PRD	9982	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	children	child	_	NNS	_	11	CONJ	9982	_
+13	stand	stand	_	VBP	_	0	ROOT	_	_
+14	for	for	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	9984	_
+16	photo	photo	_	NN	_	14	PMOD	9984	_
+17	outside of	outside of	_	IN	_	13	LOC	_	13
+18	a	a	_	DT	_	19	NMOD	9985	_
+19	building	building	_	NN	_	17	PMOD	9985	_
+20	.	.	_	.	_	13	P	_	_

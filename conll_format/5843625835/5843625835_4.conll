@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	243909	_
+2	man	man	_	NN	_	0	ROOT	243909	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	243910	_
+5	black	black	_	JJ	_	6	NMOD	243910	_
+6	suit	suit	_	NN	_	3	PMOD	243910	_
+7	singing	sing	_	VBG	_	6	APPO	_	_
+8	into	into	_	IN	_	7	DIR	_	7
+9	a	a	_	DT	_	10	NMOD	243911	_
+10	microphone	microphone	_	NN	_	8	PMOD	243911	_
+11	on	on	_	IN	_	7	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	243912	_
+13	stage	stage	_	NN	_	11	PMOD	243912	_
+14	.	.	_	.	_	0	ROOT	_	_

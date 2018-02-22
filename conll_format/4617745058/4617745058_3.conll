@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	183237	_
+2	young	young	_	JJ	_	3	NMOD	183237	_
+3	girl	girl	_	NN	_	4	SBJ	183237	_
+4	hangs	hang	_	VBZ	_	0	ROOT	_	_
+5	from	from	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	8	NMOD	183239	_
+7	mounting	mount	_	VBG	_	8	NMOD	183239	_
+8	beam	beam	_	NN	_	5	PMOD	183239	_
+9	of	of	_	IN	_	8	NMOD	183239	8
+10	a	a	_	DT	_	12	NMOD	183239	_
+11	basketball	basketball	_	NN	_	12	NMOD	183239	_
+12	hoop	hoop	_	NN	_	9	PMOD	183239	_
+13	.	.	_	.	_	4	P	_	_

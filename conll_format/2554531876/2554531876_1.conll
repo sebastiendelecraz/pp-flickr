@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	57772	_
+2	motorcycle	motorcycle	_	NN	_	3	NMOD	57772	_
+3	rider	rider	_	NN	_	8	SBJ	57772	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	57776	_
+6	white	white	_	JJ	_	7	NMOD	57776	_
+7	helmet	helmet	_	NN	_	4	PMOD	57776	_
+8	leans	lean	_	VBZ	_	0	ROOT	_	_
+9	into	into	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	57773	_
+11	curve	curve	_	NN	_	9	PMOD	57773	_
+12	on	on	_	IN	_	8	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	57775	_
+14	rural	rural	_	JJ	_	15	NMOD	57775	_
+15	road	road	_	NN	_	12	PMOD	57775	_
+16	.	.	_	.	_	8	P	_	_

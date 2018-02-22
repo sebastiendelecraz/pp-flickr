@@ -1,0 +1,11 @@
+1	Small	Small	_	NNP	_	2	NMOD	207417	_
+2	boy	boy	_	NN	_	3	SBJ	207417	_
+3	dancing	dance	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	207418	_
+6	water	water	_	NN	_	7	NMOD	207418	_
+7	sprinkler	sprinkler	_	NN	_	4	PMOD	207418	_
+8	near	near	_	IN	_	7	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	207418	_
+10	building	building	_	NN	_	8	PMOD	207418	_
+11	.	.	_	.	_	0	ROOT	_	_

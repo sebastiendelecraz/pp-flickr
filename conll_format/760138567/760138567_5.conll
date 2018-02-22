@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	272009	_
+2	child	child	_	NN	_	3	SBJ	272009	_
+3	jumping	jump	_	VBG	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	272012	_
+6	slide	slide	_	NN	_	4	PMOD	272012	_
+7	into	into	_	IN	_	3	DIR	_	3
+8	a	a	_	DT	_	9	NMOD	272010	_
+9	pool	pool	_	NN	_	7	PMOD	272010	_
+10	.	.	_	.	_	0	ROOT	_	_

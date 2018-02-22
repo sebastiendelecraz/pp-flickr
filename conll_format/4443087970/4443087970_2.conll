@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	168706	_
+2	few	few	_	DT	_	3	NMOD	168706	_
+3	people	people	_	NN	_	4	SBJ	168706	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	walking	walk	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	168708	_
+8	street	street	_	NN	_	6	PMOD	168708	_
+9	through	through	_	IN	_	5	MNR	_	5
+10	a	a	_	DT	_	12	NMOD	168713	_
+11	busy	busy	_	JJ	_	12	NMOD	168713	_
+12	city	city	_	NN	_	9	PMOD	168713	_
+13	on	on	_	IN	_	5	ADV	_	_
+14	a	a	_	DT	_	16	NMOD	168714	_
+15	nice	nice	_	JJ	_	16	NMOD	168714	_
+16	day	day	_	NN	_	13	PMOD	168714	_
+17	.	.	_	.	_	4	P	_	_

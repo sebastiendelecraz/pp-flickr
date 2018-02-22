@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	173748	_
+2	little	little	_	JJ	_	3	NMOD	173748	_
+3	girl	girl	_	NN	_	0	ROOT	173748	_
+4	near	near	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	173750	_
+6	body	body	_	NN	_	4	PMOD	173750	_
+7	of	of	_	IN	_	6	NMOD	173750	_
+8	water	water	_	NN	_	9	NMOD	173750	_
+9	pokes	poke	_	NNS	_	7	PMOD	_	_
+10	a	a	_	DT	_	11	NMOD	173753	_
+11	stick	stick	_	NN	_	9	ADV	173753	_
+12	into	into	_	IN	_	3	DIR	_	_
+13	it	it	_	PRP	_	12	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

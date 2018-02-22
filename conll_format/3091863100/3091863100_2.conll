@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	92882	_
+2	man	man	_	NN	_	3	SBJ	92882	_
+3	singing	sing	_	VBG	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	92883	_
+6	microphone	microphone	_	NN	_	4	PMOD	92883	_
+7	as	as	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	92886	_
+9	part	part	_	NN	_	7	PMOD	92886	_
+10	of	of	_	IN	_	9	NMOD	92886	_
+11	his	his	_	PRP$	_	12	NMOD	92886	_
+12	band	band	_	NN	_	10	PMOD	92886	_
+13	.	.	_	.	_	0	ROOT	_	_

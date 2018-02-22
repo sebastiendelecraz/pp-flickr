@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	264313	_
+2	group	group	_	NN	_	0	ROOT	264313	_
+3	of	of	_	IN	_	2	NMOD	264313	_
+4	people	people	_	NN	_	3	PMOD	264313	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	264319	_
+8	table	table	_	NN	_	6	PMOD	264319	_
+9	at	at	_	IN	_	5	LOC	_	_
+10	some	some	_	DT	_	11	NMOD	264315	_
+11	sort	sort	_	NN	_	9	PMOD	264315	_
+12	of	of	_	IN	_	11	NMOD	264315	_
+13	site	site	_	NN	_	12	PMOD	264315	_
+14	.	.	_	.	_	0	ROOT	_	_

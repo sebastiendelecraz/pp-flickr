@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	67075	_
+2	man	man	_	NN	_	15	SBJ	67075	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	no	no	_	DT	_	5	NMOD	67080	_
+5	shirt	shirt	_	NN	_	3	PMOD	67080	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	67074	_
+8	woman	woman	_	NN	_	6	CONJ	67074	_
+9	in	in	_	IN	_	2	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	67076	_
+11	bikini	bikini	_	NN	_	9	PMOD	67076	_
+12	in	in	_	IN	_	2	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	67077	_
+14	water	water	_	NN	_	12	PMOD	67077	_
+15	looking	look	_	VBG	_	0	ROOT	_	_
+16	away from	away from	_	IN	_	15	ADV	_	15
+17	the	the	_	DT	_	18	NMOD	0	_
+18	camera	camera	_	NN	_	16	PMOD	0	_
+19	.	.	_	.	_	0	ROOT	_	_

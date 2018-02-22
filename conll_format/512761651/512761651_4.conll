@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	229514	_
+2	man	man	_	NN	_	0	ROOT	229514	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	229516	_
+5	tie	tie	_	NN	_	3	PMOD	229516	_
+6	walking	walk	_	VBG	_	5	APPO	_	_
+7	past	past	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	229513	_
+9	bird	bird	_	NN	_	7	PMOD	229513	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	flight	flight	_	NN	_	10	PMOD	229517	_
+12	.	.	_	.	_	0	ROOT	_	_

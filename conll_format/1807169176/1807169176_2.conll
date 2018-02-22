@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	21087	_
+2	group	group	_	NN	_	5	SBJ	21087	_
+3	of	of	_	IN	_	2	NMOD	21087	_
+4	people	people	_	NN	_	3	PMOD	21087	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	21088	_
+8	blazing	blaze	_	VBG	_	9	NMOD	21088	_
+9	fire	fire	_	NN	_	6	PMOD	21088	_
+10	at	at	_	IN	_	5	TMP	_	_
+11	night	night	_	NN	_	10	PMOD	21089	_
+12	.	.	_	.	_	5	P	_	_

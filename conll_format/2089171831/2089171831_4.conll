@@ -1,0 +1,11 @@
+1	Three	Three	_	CD	_	2	NMOD	27957	_
+2	women	woman	_	NNS	_	3	SBJ	27957	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	waiting	wait	_	VBG	_	4	CONJ	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	something	something	_	NN	_	6	PMOD	27968	_
+8	on	on	_	IN	_	5	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	27958	_
+10	bench	bench	_	NN	_	8	PMOD	27958	_
+11	.	.	_	.	_	0	ROOT	_	_

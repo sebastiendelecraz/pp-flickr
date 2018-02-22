@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	127119	_
+2	shirtless	shirtless	_	JJ	_	3	NMOD	127119	_
+3	man	man	_	NN	_	4	SBJ	127119	_
+4	skateboarding	skateboard	_	VBG	_	0	ROOT	_	_
+5	against	against	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	127121	_
+7	wall	wall	_	NN	_	5	PMOD	127121	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	graffiti	graffito	_	NNS	_	8	PMOD	127121	_
+10	on	on	_	IN	_	4	ADV	_	_
+11	it	it	_	PRP	_	10	PMOD	0	_
+12	.	.	_	.	_	0	ROOT	_	_

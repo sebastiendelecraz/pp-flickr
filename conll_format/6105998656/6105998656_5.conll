@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	248061	_
+2	grungy	grungy	_	JJ	_	4	NMOD	248061	_
+3	looking	look	_	VBG	_	4	NMOD	248061	_
+4	man	man	_	NN	_	5	SBJ	248061	_
+5	sits	sit	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	9	NMOD	248068	_
+8	plaid	plaid	_	NN	_	9	NMOD	248068	_
+9	bag	bag	_	NN	_	6	PMOD	248068	_
+10	in	in	_	IN	_	5	LOC	_	5
+11	a	a	_	DT	_	12	NMOD	248062	_
+12	corner	corner	_	NN	_	10	PMOD	248062	_
+13	outside	outside	_	IN	_	12	LOC	_	_
+14	.	.	_	.	_	5	P	_	_

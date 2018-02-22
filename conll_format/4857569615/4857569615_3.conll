@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	211527	_
+2	topless	topless	_	JJ	_	3	NMOD	211527	_
+3	woman	woman	_	NN	_	4	SBJ	211527	_
+4	cradles	cradle	_	VBZ	_	8	SBJ	_	_
+5	her	her	_	PRP	_	7	NMOD	211528	_
+6	newborn	newborn	_	JJ	_	7	NMOD	211528	_
+7	baby	baby	_	NN	_	4	OBJ	211528	_
+8	swaddled	swaddle	_	VBD	_	0	ROOT	_	_
+9	against	against	_	IN	_	8	ADV	_	4
+10	her	her	_	PRP$	_	11	NMOD	211532	_
+11	chest	chest	_	NN	_	9	PMOD	211532	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	211529	_
+14	hospital	hospital	_	NN	_	12	PMOD	211529	_
+15	.	.	_	.	_	8	P	_	_

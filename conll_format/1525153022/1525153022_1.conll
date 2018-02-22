@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	15627	_
+2	black	black	_	JJ	_	3	NMOD	15627	_
+3	dog	dog	_	NN	_	4	SBJ	15627	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	running	run	_	VBG	_	4	VC	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	9	NMOD	15628	_
+8	shallow	shallow	_	NN	_	9	NMOD	15628	_
+9	edge	edge	_	NN	_	6	PMOD	15628	_
+10	of	of	_	IN	_	9	NMOD	15628	_
+11	a	a	_	DT	_	13	NMOD	15628	_
+12	large	large	_	JJ	_	13	NMOD	15628	_
+13	body	body	_	NN	_	10	PMOD	15628	_
+14	of	of	_	IN	_	13	NMOD	15628	_
+15	water	water	_	NN	_	14	PMOD	15628	_
+16	.	.	_	.	_	4	P	_	_

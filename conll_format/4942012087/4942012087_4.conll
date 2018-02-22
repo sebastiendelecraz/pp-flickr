@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	221331	_
+2	man	man	_	NN	_	3	SBJ	221331	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	walking	walk	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	221333	_
+7	sidewalk	sidewalk	_	NN	_	5	PMOD	221333	_
+8	in front of	in front of	_	IN	_	4	TMP	_	4
+9	a	a	_	DT	_	10	NMOD	221330	_
+10	building	building	_	NN	_	8	PMOD	221330	_
+11	.	.	_	.	_	3	P	_	_

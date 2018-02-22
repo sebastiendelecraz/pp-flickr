@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	13305	_
+2	man	man	_	NN	_	0	ROOT	13305	_
+3	,	,	_	,	_	0	ROOT	_	_
+4	using	use	_	VBG	_	0	ROOT	_	_
+5	a	a	_	DT	_	6	NMOD	13307	_
+6	sprayer	sprayer	_	NN	_	4	OBJ	13307	_
+7	on	on	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	10	NMOD	13306	_
+9	sand	sand	_	NN	_	10	NMOD	13306	_
+10	sculpture	sculpture	_	NN	_	7	PMOD	13306	_
+11	by	by	_	IN	_	4	MNR	_	2
+12	a	a	_	DT	_	14	NMOD	13312	_
+13	large	large	_	JJ	_	14	NMOD	13312	_
+14	body	body	_	NN	_	11	PMOD	13312	_
+15	of	of	_	IN	_	14	NMOD	13312	_
+16	water	water	_	NN	_	15	PMOD	13312	_
+17	.	.	_	.	_	0	ROOT	_	_

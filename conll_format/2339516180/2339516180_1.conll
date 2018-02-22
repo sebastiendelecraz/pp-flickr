@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	42652	_
+2	man	man	_	NN	_	3	SBJ	42652	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	three	three	_	CD	_	6	NMOD	42651	_
+5	white	white	_	JJ	_	6	NMOD	42651	_
+6	dogs	dog	_	NNS	_	3	OBJ	42651	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	spots	spot	_	NNS	_	7	PMOD	42656	_
+9	down	down	_	IN	_	3	ADV	_	3
+10	a	a	_	DT	_	11	NMOD	42653	_
+11	street	street	_	NN	_	9	PMOD	42653	_
+12	with	with	_	IN	_	3	ADV	_	_
+13	palm	palm	_	NN	_	14	NMOD	42657	_
+14	trees	tree	_	NNS	_	12	PMOD	42657	_
+15	.	.	_	.	_	3	P	_	_

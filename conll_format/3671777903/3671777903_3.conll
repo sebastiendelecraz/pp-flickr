@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	135775	_
+2	person	person	_	NN	_	6	SBJ	135775	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	135783	_
+5	lifevest	lifevest	_	CD	_	3	TMP	135783	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC-PRD	_	_
+8	the	the	_	DT	_	9	NMOD	0	_
+9	air	air	_	NN	_	7	PMOD	0	_
+10	above	above	_	IN	_	9	NMOD	_	6
+11	water	water	_	NN	_	10	PMOD	135780	_
+12	.	.	_	.	_	6	P	_	_

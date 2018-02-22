@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	219971	_
+2	shirtless	shirtless	_	JJ	_	3	NMOD	219971	_
+3	man	man	_	NN	_	9	SBJ	219971	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	6	NMOD	219974	_
+6	sleeve	sleeve	_	NN	_	4	PMOD	219974	_
+7	of	of	_	IN	_	6	NMOD	219974	_
+8	tattoos	tattoo	_	NNS	_	7	PMOD	219974	_
+9	walks	walk	_	VBZ	_	0	ROOT	_	_
+10	toward	toward	_	IN	_	9	DIR	_	9
+11	a	a	_	DT	_	14	NMOD	219972	_
+12	black	black	_	JJ	_	14	NMOD	219972	_
+13	pickup	pickup	_	NN	_	14	NMOD	219972	_
+14	truck	truck	_	NN	_	10	PMOD	219972	_
+15	.	.	_	.	_	9	P	_	_

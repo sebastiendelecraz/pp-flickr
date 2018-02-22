@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	4	NMOD	51221	_
+2	boy	boy	_	NN	_	4	NMOD	51221	_
+3	baseball	baseball	_	NN	_	4	NMOD	51221	_
+4	player	player	_	NN	_	0	ROOT	51221	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	11	NMOD	51224	_
+7	green	green	_	JJ	_	11	NMOD	51224	_
+8	and	and	_	CC	_	7	COORD	51224	_
+9	yellow	yellow	_	JJ	_	8	CONJ	51224	_
+10	jersey	jersey	_	NN	_	11	NMOD	51224	_
+11	leaps	leap	_	NNS	_	5	PMOD	_	_
+12	for	for	_	IN	_	11	NMOD	_	11
+13	the	the	_	DT	_	14	NMOD	51222	_
+14	ball	ball	_	NN	_	12	PMOD	51222	_
+15	.	.	_	.	_	0	ROOT	_	_

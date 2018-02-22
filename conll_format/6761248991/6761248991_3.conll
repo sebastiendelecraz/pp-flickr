@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	257680	_
+2	man	man	_	NN	_	3	SBJ	257680	_
+3	takes	take	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	257688	_
+5	swing	swing	_	VBG	_	3	OBJ	257688	_
+6	of	of	_	IN	_	5	NMOD	257688	_
+7	his	his	_	PRP$	_	8	NMOD	257688	_
+8	club	club	_	NN	_	6	PMOD	257688	_
+9	,	,	_	,	_	5	P	_	_
+10	with	with	_	IN	_	5	ADV	_	_
+11	sand	sand	_	NN	_	10	PMOD	257683	_
+12	coming	come	_	VBG	_	5	COORD	_	_
+13	up	up	_	RP	_	12	PRT	_	_
+14	out of	out of	_	IN	_	12	ADV	_	12
+15	the	the	_	DT	_	16	NMOD	257681	_
+16	dune	dune	_	NN	_	14	PMOD	257681	_
+17	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	4	NMOD	243303	_
+2	female	female	_	JJ	_	4	NMOD	243303	_
+3	military	military	_	JJ	_	4	NMOD	243303	_
+4	members	member	_	NNS	_	5	SBJ	243303	_
+5	go	go	_	VBP	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	ADV	_	5
+7	paperwork	paperwork	_	NN	_	6	PMOD	243305	_
+8	in	in	_	IN	_	5	LOC	_	_
+9	an	an	_	DT	_	10	NMOD	243306	_
+10	office	office	_	NN	_	8	PMOD	243306	_
+11	.	.	_	.	_	5	P	_	_

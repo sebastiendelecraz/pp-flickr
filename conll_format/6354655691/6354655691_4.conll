@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	253422	_
+2	man	man	_	NN	_	3	SBJ	253422	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	climbing	climb	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	253424	_
+6	boulder	boulder	_	NN	_	4	OBJ	253424	_
+7	over	over	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	253423	_
+9	body	body	_	NN	_	7	PMOD	253423	_
+10	of	of	_	IN	_	9	NMOD	253423	_
+11	water	water	_	NN	_	10	PMOD	253423	_
+12	.	.	_	.	_	3	P	_	_

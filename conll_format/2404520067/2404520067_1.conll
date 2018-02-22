@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	46793	_
+2	black	black	_	JJ	_	3	NMOD	46793	_
+3	dog	dog	_	NN	_	4	SBJ	46793	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	running	run	_	VBG	_	4	VC	_	_
+6	through	through	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	9	NMOD	46794	_
+8	swampy	swampy	_	JJ	_	9	NMOD	46794	_
+9	area	area	_	NN	_	6	PMOD	46794	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	tall	tall	_	JJ	_	12	NMOD	46796	_
+12	reeds	reed	_	NNS	_	10	PMOD	46796	_
+13	.	.	_	.	_	4	P	_	_

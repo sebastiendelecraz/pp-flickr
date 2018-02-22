@@ -1,0 +1,14 @@
+1	Teammates	teammate	_	NNS	_	3	SBJ	79792	_
+2	in	in	_	IN	_	3	AMOD	_	_
+3	blue	blue	_	JJ	_	5	NMOD	79799	_
+4	,	,	_	,	_	5	P	_	_
+5	jog	jog	_	NN	_	0	ROOT	79795	_
+6	down	down	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	9	NMOD	79794	_
+8	playing	playing	_	NN	_	9	NMOD	79794	_
+9	field	field	_	NN	_	6	PMOD	79794	_
+10	with	with	_	IN	_	5	NMOD	_	_
+11	an	an	_	DT	_	12	NMOD	79793	_
+12	audience	audience	_	NN	_	10	PMOD	79793	_
+13	watching	watch	_	VBG	_	12	APPO	_	_
+14	.	.	_	.	_	5	P	_	_

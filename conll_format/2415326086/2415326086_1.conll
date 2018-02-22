@@ -1,0 +1,21 @@
+1	Several	several	_	DT	_	2	NMOD	47756	_
+2	people	people	_	NN	_	0	ROOT	47756	_
+3	,	,	_	,	_	2	P	_	_
+4	including	include	_	VBG	_	2	NMOD	_	_
+5	a	a	_	DT	_	6	NMOD	47757	_
+6	boy	boy	_	NN	_	4	PMOD	47757	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	11	NMOD	47758	_
+9	striped	stripe	_	VBN	_	11	NMOD	47758	_
+10	shirt	shirt	_	NN	_	11	NMOD	47758	_
+11	walk	walk	_	NN	_	7	PMOD	_	_
+12	on	on	_	IN	_	6	NMOD	_	_
+13	a	a	_	DT	_	15	NMOD	47759	_
+14	concrete	concrete	_	JJ	_	15	NMOD	47759	_
+15	path	path	_	NN	_	12	PMOD	47759	_
+16	away from	away from	_	IN	_	6	NMOD	_	11
+17	a	a	_	DT	_	18	NMOD	47760	_
+18	body	body	_	NN	_	16	PMOD	47760	_
+19	of	of	_	IN	_	18	NMOD	47760	_
+20	water	water	_	NN	_	19	PMOD	47760	_
+21	.	.	_	.	_	2	P	_	_

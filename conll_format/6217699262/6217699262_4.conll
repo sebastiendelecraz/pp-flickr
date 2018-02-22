@@ -1,0 +1,9 @@
+1	Man	Man	_	NNP	_	2	SBJ	250386	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	atop	atop	_	IN	_	2	ADV	_	2
+4	oil	oil	_	NN	_	5	NMOD	250388	_
+5	rig	rig	_	NN	_	3	PMOD	250388	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	machine	machine	_	NN	_	6	PMOD	250394	_
+8	working	work	_	VBG	_	5	APPO	_	_
+9	.	.	_	.	_	0	ROOT	_	_

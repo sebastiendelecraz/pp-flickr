@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	155839	_
+2	singer	singer	_	NN	_	3	SBJ	155839	_
+3	performs	perform	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	stage	stage	_	NN	_	4	PMOD	155841	_
+6	at	at	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	155842	_
+8	concert	concert	_	NN	_	6	PMOD	155842	_
+9	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	26885	_
+2	person	person	_	NN	_	3	SBJ	26885	_
+3	looks	look	_	VBZ	_	0	ROOT	_	_
+4	out of	out of	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	26886	_
+6	window	window	_	NN	_	4	PMOD	26886	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	10	NMOD	26884	_
+9	A	A	_	NNP	_	10	NMOD	26884	_
+10	bus	bus	_	NN	_	7	PMOD	26884	_
+11	.	.	_	.	_	3	P	_	_

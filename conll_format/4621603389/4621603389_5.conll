@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	183559	_
+2	group	group	_	NN	_	0	ROOT	183559	_
+3	of	of	_	IN	_	2	NMOD	183559	_
+4	dogs	dog	_	NNS	_	3	PMOD	183559	_
+5	tied	tie	_	VBN	_	4	APPO	_	_
+6	up to	up to	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	183560	_
+8	pole	pole	_	NN	_	6	PMOD	183560	_
+9	on	on	_	IN	_	5	ADV	_	_
+10	a	a	_	DT	_	13	NMOD	183566	_
+11	hot	hot	_	JJ	_	13	NMOD	183566	_
+12	summer	summer	_	NN	_	13	NMOD	183566	_
+13	day	day	_	NN	_	9	PMOD	183566	_
+14	.	.	_	.	_	0	ROOT	_	_

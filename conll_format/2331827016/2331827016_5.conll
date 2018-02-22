@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	42131	_
+2	rider	rider	_	NN	_	0	ROOT	42131	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	42130	_
+5	horse	horse	_	NN	_	6	NMOD	42130	_
+6	landing	landing	_	NN	_	3	PMOD	_	_
+7	from	from	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	0	_
+9	jump	jump	_	NN	_	7	PMOD	0	_
+10	.	.	_	.	_	0	ROOT	_	_

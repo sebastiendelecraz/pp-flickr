@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	196146	_
+2	man	man	_	NN	_	7	SBJ	196146	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	196149	_
+5	striped	stripe	_	VBN	_	6	NMOD	196149	_
+6	shirt	shirt	_	NN	_	3	PMOD	196149	_
+7	sits	sit	_	VBZ	_	0	ROOT	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	196147	_
+10	display	display	_	NN	_	8	PMOD	196147	_
+11	of	of	_	IN	_	10	NMOD	196147	_
+12	oranges	orange	_	NNS	_	11	PMOD	196147	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	other	other	_	JJ	_	15	NMOD	196150	_
+15	food	food	_	NN	_	13	CONJ	196150	_
+16	,	,	_	,	_	7	P	_	_
+17	with	with	_	IN	_	7	ADV	_	7
+18	a	a	_	DT	_	19	NMOD	196154	_
+19	garden	garden	_	NN	_	17	PMOD	196154	_
+20	in	in	_	IN	_	7	LOC	_	_
+21	the	the	_	DT	_	22	NMOD	0	_
+22	background	background	_	NN	_	20	PMOD	0	_
+23	.	.	_	.	_	7	P	_	_

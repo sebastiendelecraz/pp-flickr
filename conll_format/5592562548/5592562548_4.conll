@@ -1,0 +1,17 @@
+1	Confetti	Confetti	_	NNP	_	2	SBJ	239283	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC-PRD	_	_
+4	the	the	_	DT	_	5	NMOD	0	_
+5	air	air	_	NN	_	3	PMOD	0	_
+6	among	among	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	239282	_
+8	huge	huge	_	JJ	_	9	NMOD	239282	_
+9	crowd	crowd	_	NN	_	6	PMOD	239282	_
+10	of	of	_	IN	_	9	NMOD	239282	_
+11	people	people	_	NN	_	10	PMOD	239282	_
+12	at	at	_	IN	_	9	LOC	_	_
+13	some	some	_	DT	_	14	NMOD	239284	_
+14	kind	kind	_	NN	_	12	PMOD	239284	_
+15	of	of	_	IN	_	14	NMOD	239284	_
+16	celebration	celebration	_	NN	_	15	PMOD	239284	_
+17	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	226768	_
+2	man	man	_	NN	_	3	SBJ	226768	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	holding	hold	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	226769	_
+6	deer	deer	_	NN	_	4	OBJ	226769	_
+7	on top of	on top of	_	IN	_	4	ADV	_	4
+8	his	his	_	PRP$	_	9	NMOD	226771	_
+9	shoulders	shoulder	_	NNS	_	7	PMOD	226771	_
+10	while	while	_	IN	_	4	ADV	_	_
+11	looking	look	_	VBG	_	10	SUB	_	_
+12	at	at	_	IN	_	11	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	226770	_
+14	cow	cow	_	NN	_	12	PMOD	226770	_
+15	among	among	_	IN	_	11	ADV	_	11
+16	two	two	_	CD	_	18	NMOD	226772	_
+17	other	other	_	JJ	_	18	NMOD	226772	_
+18	cows	cow	_	NNS	_	15	PMOD	226772	_
+19	.	.	_	.	_	3	P	_	_

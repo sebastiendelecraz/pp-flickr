@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	121183	_
+2	vendor	vendor	_	NN	_	10	SBJ	121183	_
+3	,	,	_	,	_	10	P	_	_
+4	wearing	wear	_	VBG	_	10	ADV	_	_
+5	a	a	_	DT	_	8	NMOD	121186	_
+6	large-brimmed	large-brimmed	_	CD	_	8	NMOD	121186	_
+7	tan	tan	_	NN	_	8	NMOD	121186	_
+8	hat	hat	_	NN	_	4	OBJ	121186	_
+9	,	,	_	,	_	10	P	_	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	sitting	sit	_	VBG	_	10	VC	_	_
+12	on	on	_	IN	_	11	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	121191	_
+14	stool	stool	_	NN	_	12	PMOD	121191	_
+15	next to	next to	_	IN	_	11	LOC	_	11
+16	his	his	_	PRP$	_	17	NMOD	121187	_
+17	wares	ware	_	NNS	_	15	PMOD	121187	_
+18	.	.	_	.	_	10	P	_	_

@@ -1,0 +1,12 @@
+1	Adults	adult	_	NNS	_	0	ROOT	112123	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	children	child	_	NNS	_	2	CONJ	112127	_
+4	dressed	dress	_	VBN	_	1	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	cold	cold	_	JJ	_	7	NMOD	112128	_
+7	weather	weather	_	NN	_	5	PMOD	112128	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	112125	_
+10	road	road	_	NN	_	11	NMOD	112125	_
+11	race	race	_	NN	_	8	PMOD	112125	_
+12	.	.	_	.	_	0	ROOT	_	_

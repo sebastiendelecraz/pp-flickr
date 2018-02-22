@@ -1,0 +1,14 @@
+1	Pedestrians	pedestrian	_	NNS	_	2	SBJ	8182	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	ADV	_	2
+4	an	an	_	DT	_	6	NMOD	8186	_
+5	open	open	_	JJ	_	6	NMOD	8186	_
+6	area	area	_	NN	_	3	PMOD	8186	_
+7	between	between	_	IN	_	6	NMOD	_	2
+8	several	several	_	DT	_	13	NMOD	8183	_
+9	traditional-style	traditional-style	_	CD	_	13	NMOD	8183	_
+10	Japanese	Japanese	_	JJ	_	13	NMOD	8183	_
+11	or	or	_	CC	_	10	COORD	8183	_
+12	Chinese	Chinese	_	JJ	_	11	CONJ	8183	_
+13	buildings	building	_	NNS	_	7	PMOD	8183	_
+14	.	.	_	.	_	2	P	_	_

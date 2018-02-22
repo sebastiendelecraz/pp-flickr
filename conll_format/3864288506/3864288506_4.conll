@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	146229	_
+2	man	man	_	NN	_	0	ROOT	146229	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	146230	_
+5	helmet	helmet	_	NN	_	3	PMOD	146230	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	10	NMOD	146231	_
+8	four	four	_	CD	_	10	NMOD	146231	_
+9	wheeled	wheel	_	VBN	_	10	NMOD	146231	_
+10	vehicle	vehicle	_	NN	_	6	PMOD	146231	_
+11	.	.	_	.	_	0	ROOT	_	_

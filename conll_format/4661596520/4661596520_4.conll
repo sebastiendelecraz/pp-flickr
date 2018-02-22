@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	187971	_
+2	group	group	_	NN	_	5	SBJ	187971	_
+3	of	of	_	IN	_	2	NMOD	187971	_
+4	people	people	_	NN	_	3	PMOD	187971	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	sitting	sit	_	VBG	_	5	VC	_	_
+7	on	on	_	IN	_	6	LOC	_	_
+8	chairs	chair	_	NNS	_	7	PMOD	187973	_
+9	in	in	_	IN	_	8	LOC	_	6
+10	a	a	_	DT	_	11	NMOD	187972	_
+11	circle	circle	_	NN	_	9	PMOD	187972	_
+12	together	together	_	RB	_	8	NMOD	_	_
+13	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	3	NMOD	198284	_
+2	police	police	_	NN	_	3	NMOD	198284	_
+3	officers	officer	_	NNS	_	4	SBJ	198284	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	talking	talk	_	VBG	_	4	VC	_	_
+6	to	to	_	TO	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	198287	_
+8	man	man	_	NN	_	6	PMOD	198287	_
+9	sitting	sit	_	VBG	_	8	APPO	_	_
+10	on	on	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	198285	_
+12	bench	bench	_	NN	_	10	PMOD	198285	_
+13	in front of	in front of	_	IN	_	9	LOC	_	5
+14	a	a	_	DT	_	15	NMOD	198286	_
+15	bus	bus	_	NN	_	13	PMOD	198286	_
+16	.	.	_	.	_	4	P	_	_

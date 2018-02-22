@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	98600	_
+2	person	person	_	NN	_	6	SBJ	98600	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	winter	winter	_	NN	_	5	NMOD	98603	_
+5	attire	attire	_	NN	_	3	OBJ	98603	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	among	among	_	IN	_	7	LOC	_	7
+9	leaves	leaf	_	NNS	_	8	PMOD	98607	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	junk	junk	_	NN	_	10	PMOD	98606	_
+12	in	in	_	IN	_	9	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	6	P	_	_

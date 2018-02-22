@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	27732	_
+2	child	child	_	NN	_	8	SBJ	27732	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	27733	_
+5	bright	bright	_	JJ	_	6	AMOD	27733	_
+6	red	red	_	JJ	_	7	NMOD	27733	_
+7	jacket	jacket	_	NN	_	3	PMOD	27733	_
+8	runs	run	_	VBZ	_	0	ROOT	_	_
+9	through	through	_	IN	_	8	MNR	_	8
+10	a	a	_	DT	_	11	NMOD	27735	_
+11	pile	pile	_	NN	_	9	PMOD	27735	_
+12	of	of	_	IN	_	11	NMOD	27735	_
+13	hay	hay	_	NN	_	12	PMOD	27735	_
+14	.	.	_	.	_	8	P	_	_

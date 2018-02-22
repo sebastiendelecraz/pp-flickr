@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	59753	_
+2	young	young	_	JJ	_	3	NMOD	59753	_
+3	girl	girl	_	NN	_	0	ROOT	59753	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	two	two	_	CD	_	7	NMOD	59754	_
+6	young	young	_	JJ	_	7	NMOD	59754	_
+7	boys	boy	_	NNS	_	4	CONJ	59754	_
+8	playing	play	_	VBG	_	7	APPO	_	_
+9	with	with	_	IN	_	8	ADV	_	_
+10	scooters	scooter	_	NNS	_	9	PMOD	59750	_
+11	on	on	_	IN	_	8	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	59751	_
+13	dock	dock	_	NN	_	11	PMOD	59751	_
+14	during	during	_	IN	_	8	TMP	_	8
+15	the	the	_	DT	_	16	NMOD	59758	_
+16	day	day	_	NN	_	14	PMOD	59758	_
+17	.	.	_	.	_	0	ROOT	_	_

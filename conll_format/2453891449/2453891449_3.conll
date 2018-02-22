@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	50761	_
+2	dogs	dog	_	NNS	_	3	SBJ	50761	_
+3	running	run	_	VBG	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	50765	_
+6	yard	yard	_	NN	_	4	PMOD	50765	_
+7	with	with	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	50763	_
+9	forest	forest	_	NN	_	7	PMOD	50763	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	distance	distance	_	NN	_	10	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

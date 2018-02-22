@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	137581	_
+2	man	man	_	NN	_	14	SBJ	137581	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	137588	_
+5	yellow	yellow	_	JJ	_	6	NMOD	137588	_
+6	shirt	shirt	_	NN	_	3	OBJ	137588	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	glasses	glass	_	NNS	_	7	CONJ	137586	_
+9	in front of	in front of	_	IN	_	14	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	137587	_
+11	wall	wall	_	NN	_	9	PMOD	137587	_
+12	of	of	_	IN	_	11	NMOD	137587	_
+13	drawings	drawing	_	NNS	_	12	PMOD	137587	_
+14	bites	bite	_	VBZ	_	0	ROOT	137587	_
+15	into	into	_	IN	_	14	ADV	_	14
+16	his	his	_	PRP$	_	17	NMOD	137582	_
+17	food	food	_	NN	_	15	PMOD	137582	_
+18	while	while	_	IN	_	14	ADV	_	_
+19	holding	hold	_	VBG	_	18	SUB	_	_
+20	a	a	_	DT	_	22	NMOD	137583	_
+21	full	full	_	JJ	_	22	NMOD	137583	_
+22	mug	mug	_	NN	_	19	OBJ	137583	_
+23	.	.	_	.	_	14	P	_	_

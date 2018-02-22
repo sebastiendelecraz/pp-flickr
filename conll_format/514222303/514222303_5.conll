@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	229783	_
+2	girl	girl	_	NN	_	6	SBJ	229783	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	229784	_
+5	hat	hat	_	NN	_	3	PMOD	229784	_
+6	hangs	hang	_	VBZ	_	0	ROOT	_	_
+7	from	from	_	IN	_	6	ADV	_	6
+8	ropes	rope	_	NNS	_	7	PMOD	229785	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	229788	_
+11	woods	wood	_	NNS	_	9	PMOD	229788	_
+12	.	.	_	.	_	6	P	_	_

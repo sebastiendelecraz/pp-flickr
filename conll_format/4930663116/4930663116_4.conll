@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	219513	_
+2	man	man	_	NN	_	6	SBJ	219513	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	219512	_
+5	boy	boy	_	NN	_	3	CONJ	219512	_
+6	engage	engage	_	VBP	_	0	ROOT	219512	_
+7	in	in	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	219515	_
+9	game	game	_	NN	_	7	PMOD	219515	_
+10	of	of	_	IN	_	9	NMOD	219515	9
+11	Ping-Pong	Ping-Pong	_	NNP	_	10	PMOD	219515	_
+12	.	.	_	.	_	6	P	_	_

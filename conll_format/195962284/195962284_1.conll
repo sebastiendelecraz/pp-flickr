@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	24103	_
+2	child	child	_	NN	_	3	SBJ	24103	_
+3	splashes	splash	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	water	water	_	NN	_	4	PMOD	24105	_
+6	near	near	_	IN	_	5	LOC	_	3
+7	a	a	_	DT	_	9	NMOD	24104	_
+8	stone	stone	_	NN	_	9	NMOD	24104	_
+9	building	building	_	NN	_	6	PMOD	24104	_
+10	.	.	_	.	_	3	P	_	_

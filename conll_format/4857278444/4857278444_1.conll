@@ -1,0 +1,14 @@
+1	People	People	_	NNPS	_	2	SBJ	211457	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	ADV	_	2
+4	an	an	_	DT	_	6	NMOD	211459	_
+5	Asian	Asian	_	JJ	_	6	NMOD	211459	_
+6	Market	market	_	NN	_	3	PMOD	211459	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	red	red	_	JJ	_	9	NMOD	211463	_
+9	lanterns	lantern	_	NNS	_	7	PMOD	211463	_
+10	hanging	hang	_	VBG	_	9	APPO	_	_
+11	from	from	_	IN	_	10	DIR	_	10
+12	the	the	_	DT	_	13	NMOD	211462	_
+13	rafters	rafter	_	NNS	_	11	PMOD	211462	_
+14	.	.	_	.	_	2	P	_	_

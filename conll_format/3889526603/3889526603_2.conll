@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	147105	_
+2	men	man	_	NNS	_	3	SBJ	147105	_
+3	meditating	meditate	_	VBG	_	0	ROOT	_	_
+4	while	while	_	IN	_	3	ADV	_	_
+5	sitting	sit	_	VBG	_	4	SUB	_	_
+6	cross-legged	cross-legged	_	JJ	_	5	PRD	_	_
+7	with	with	_	IN	_	5	ADV	_	5
+8	a	a	_	DT	_	9	NMOD	147105	_
+9	group	group	_	NN	_	7	PMOD	147105	_
+10	of	of	_	IN	_	9	NMOD	147105	_
+11	people	people	_	NN	_	10	PMOD	147105	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

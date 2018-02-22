@@ -1,0 +1,16 @@
+1	Barefoot	Barefoot	_	NNP	_	2	NMOD	23339	_
+2	woman	woman	_	NN	_	0	ROOT	23339	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	8	NMOD	23346	_
+5	blue	blue	_	JJ	_	8	NMOD	23346	_
+6	skirt	skirt	_	NN	_	7	NMOD	23346	_
+7	hold	hold	_	NN	_	8	NMOD	_	_
+8	hands	hand	_	NNS	_	3	PMOD	23343	_
+9	with	with	_	IN	_	2	NMOD	_	7
+10	a	a	_	DT	_	11	NMOD	23347	_
+11	child	child	_	NN	_	9	PMOD	23347	_
+12	while	while	_	IN	_	2	TMP	_	_
+13	other	other	_	JJ	_	14	NMOD	23344	_
+14	children	child	_	NNS	_	15	SBJ	23344	_
+15	play	play	_	VBP	_	12	SUB	_	_
+16	.	.	_	.	_	0	ROOT	_	_

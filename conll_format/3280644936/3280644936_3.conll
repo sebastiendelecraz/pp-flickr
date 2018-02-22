@@ -1,0 +1,14 @@
+1	Women	woman	_	NNS	_	0	ROOT	106622	_
+2	at	at	_	IN	_	1	LOC	_	1
+3	a	a	_	DT	_	4	NMOD	106627	_
+4	counter	counter	_	NN	_	2	PMOD	106627	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	106624	_
+7	laundry	laundry	_	NN	_	8	NMOD	106624	_
+8	mat	mat	_	NN	_	5	PMOD	106624	_
+9	looking	look	_	VBG	_	8	APPO	_	_
+10	at	at	_	IN	_	9	ADV	_	_
+11	through	through	_	IN	_	10	PMOD	_	_
+12	her	her	_	PRP$	_	13	NMOD	106625	_
+13	purse	purse	_	NN	_	11	PMOD	106625	_
+14	.	.	_	.	_	0	ROOT	_	_

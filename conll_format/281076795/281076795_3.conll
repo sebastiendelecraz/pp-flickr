@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	74311	_
+2	couple	couple	_	NN	_	3	SBJ	74311	_
+3	gambling	gamble	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	74313	_
+6	casino	casino	_	NN	_	4	PMOD	74313	_
+7	at	at	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	10	NMOD	74312	_
+9	roulette	roulette	_	NN	_	10	NMOD	74312	_
+10	table	table	_	NN	_	7	PMOD	74312	_
+11	.	.	_	.	_	0	ROOT	_	_

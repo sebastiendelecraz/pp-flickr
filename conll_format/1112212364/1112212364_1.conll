@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	2881	_
+2	toddler	toddler	_	NN	_	3	SBJ	2881	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	2882	_
+6	pile	pile	_	NN	_	4	PMOD	2882	_
+7	of	of	_	IN	_	6	NMOD	2882	_
+8	rocks	rock	_	NNS	_	7	PMOD	2882	_
+9	holding	hold	_	VBG	_	6	APPO	_	_
+10	a	a	_	DT	_	11	NMOD	2883	_
+11	rock	rock	_	NN	_	9	OBJ	2883	_
+12	at	at	_	IN	_	9	ADV	_	9
+13	a	a	_	DT	_	14	NMOD	2884	_
+14	beach	beach	_	NN	_	12	PMOD	2884	_
+15	.	.	_	.	_	0	ROOT	_	_

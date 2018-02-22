@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	36867	_
+2	woman	woman	_	NN	_	6	SBJ	36867	_
+3	smoking	smoke	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	36868	_
+5	cigarette	cigarette	_	NN	_	3	OBJ	36868	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	10	NMOD	36870	_
+10	road	road	_	NN	_	8	PMOD	36870	_
+11	during	during	_	IN	_	7	TMP	_	7
+12	a	a	_	DT	_	14	NMOD	36872	_
+13	wintery	wintery	_	JJ	_	14	NMOD	36872	_
+14	day	day	_	NN	_	11	PMOD	36872	_
+15	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,10 @@
+1	Asian	Asian	_	JJ	_	3	NMOD	69911	_
+2	man	man	_	NN	_	3	NMOD	69911	_
+3	drinking	drinking	_	NN	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	69915	_
+6	booth	booth	_	NN	_	4	PMOD	69915	_
+7	in	in	_	IN	_	3	TMP	_	_
+8	a	a	_	DT	_	9	NMOD	69914	_
+9	restaurant	restaurant	_	NN	_	7	PMOD	69914	_
+10	.	.	_	.	_	0	ROOT	_	_

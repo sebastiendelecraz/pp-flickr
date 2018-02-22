@@ -1,0 +1,15 @@
+1	sunglasses	sunglass	_	NNS	_	0	ROOT	210080	_
+2	sitting	sit	_	VBG	_	1	APPO	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	5	NMOD	210081	_
+5	table	table	_	NN	_	3	PMOD	210081	_
+6	with	with	_	IN	_	2	ADV	_	2
+7	a	a	_	DT	_	8	NMOD	210078	_
+8	family	family	_	NN	_	6	PMOD	210078	_
+9	on	on	_	IN	_	2	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	210082	_
+11	pier	pier	_	NN	_	9	PMOD	210082	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

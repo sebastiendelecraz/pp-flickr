@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	208589	_
+2	group	group	_	NN	_	0	ROOT	208589	_
+3	of	of	_	IN	_	2	NMOD	208589	_
+4	people	people	_	NN	_	3	PMOD	208589	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	green	green	_	JJ	_	7	NMOD	208592	_
+7	shirts	shirt	_	NNS	_	5	PMOD	208592	_
+8	walking	walk	_	VBG	_	7	APPO	_	_
+9	along	along	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	12	NMOD	208591	_
+11	beautiful	beautiful	_	JJ	_	12	NMOD	208591	_
+12	beach	beach	_	NN	_	9	PMOD	208591	_
+13	.	.	_	.	_	0	ROOT	_	_

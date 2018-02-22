@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	92379	_
+2	big	big	_	JJ	_	4	NMOD	92379	_
+3	brown	brown	_	JJ	_	4	NMOD	92379	_
+4	dog	dog	_	NN	_	5	SBJ	92379	_
+5	plays	play	_	VBZ	_	0	ROOT	_	_
+6	with	with	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	10	NMOD	92380	_
+8	small	small	_	JJ	_	10	NMOD	92380	_
+9	white	white	_	JJ	_	10	NMOD	92380	_
+10	dog	dog	_	NN	_	6	PMOD	92380	_
+11	near	near	_	IN	_	10	LOC	_	5
+12	a	a	_	DT	_	13	NMOD	92382	_
+13	ball	ball	_	NN	_	11	PMOD	92382	_
+14	.	.	_	.	_	5	P	_	_

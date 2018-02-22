@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	117958	_
+2	long-haired	long-haired	_	JJ	_	3	NMOD	117958	_
+3	dog	dog	_	NN	_	4	SBJ	117958	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	running	run	_	VBG	_	4	VC	_	_
+6	across	across	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	117959	_
+8	grass	grass	_	NN	_	6	PMOD	117959	_
+9	toward	toward	_	IN	_	8	NMOD	_	5
+10	the	the	_	DT	_	11	NMOD	0	_
+11	camera	camera	_	NN	_	9	PMOD	0	_
+12	,	,	_	,	_	0	ROOT	_	_
+13	its	its	_	PRP$	_	15	NMOD	117960	_
+14	tongue	tongue	_	NN	_	15	NMOD	117960	_
+15	hanging	hanging	_	NN	_	0	ROOT	_	_
+16	out of	out of	_	IN	_	15	NMOD	_	15
+17	its	its	_	PRP$	_	19	NMOD	117961	_
+18	open	open	_	JJ	_	19	NMOD	117961	_
+19	mouth	mouth	_	NN	_	16	PMOD	117961	_
+20	.	.	_	.	_	0	ROOT	_	_

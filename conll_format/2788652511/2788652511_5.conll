@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	73026	_
+2	child	child	_	NN	_	5	SBJ	73026	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	orange	orange	_	JJ	_	3	PMOD	73029	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	PRD	_	5
+7	a	a	_	DT	_	9	NMOD	73027	_
+8	boogie	boogie	_	NN	_	9	NMOD	73027	_
+9	board	board	_	NN	_	6	PMOD	73027	_
+10	in	in	_	IN	_	5	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	73028	_
+12	waves	wave	_	NNS	_	10	PMOD	73028	_
+13	.	.	_	.	_	5	P	_	_

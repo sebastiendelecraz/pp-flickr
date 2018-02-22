@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	2	NMOD	31698	_
+2	children	child	_	NNS	_	3	SBJ	31698	_
+3	play	play	_	VBP	_	16	SBJ	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	columns	column	_	NNS	_	4	PMOD	31700	_
+6	of	of	_	IN	_	5	NMOD	31700	_
+7	water	water	_	NN	_	6	PMOD	31700	_
+8	emanating	emanate	_	VBG	_	5	APPO	_	_
+9	from	from	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	31703	_
+11	surface	surface	_	NN	_	9	PMOD	31703	_
+12	decorated	decorate	_	VBN	_	11	APPO	_	_
+13	with	with	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	31699	_
+15	giant	giant	_	NN	_	13	PMOD	31699	_
+16	rose	rise	_	VBD	_	0	ROOT	31699	_
+17	.	.	_	.	_	16	P	_	_

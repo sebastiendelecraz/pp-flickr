@@ -1,0 +1,12 @@
+1	Five	Five	_	CD	_	2	NMOD	261915	_
+2	men	man	_	NNS	_	3	SBJ	261915	_
+3	stand	stand	_	VBP	_	0	ROOT	_	_
+4	around	around	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	261916	_
+6	bonfire	bonfire	_	NN	_	4	PMOD	261916	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	log	log	_	NN	_	9	NMOD	261920	_
+9	benches	bench	_	NNS	_	7	PMOD	261920	_
+10	around	around	_	IN	_	3	ADV	_	_
+11	it	it	_	PRP	_	10	PMOD	0	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	150896	_
+2	group	group	_	NN	_	6	SBJ	150896	_
+3	of	of	_	IN	_	2	NMOD	150896	_
+4	young	young	_	JJ	_	5	NMOD	150896	_
+5	people	people	_	NN	_	3	PMOD	150896	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	focusing	focus	_	VBG	_	6	VC	_	_
+8	their	their	_	PRP$	_	9	NMOD	150905	_
+9	attending	attend	_	VBG	_	7	OBJ	150905	_
+10	on	on	_	IN	_	7	ADV	_	_
+11	one	one	_	CD	_	12	NMOD	150898	_
+12	man	man	_	NN	_	10	PMOD	150898	_
+13	in the middle of	in the middle of	_	IN	_	7	ADV	150906	12
+14	a	a	_	DT	_	15	NMOD	150906	_
+15	circle	circle	_	NN	_	13	PMOD	150906	_
+16	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	217162	_
+2	blond	blond	_	JJ	_	3	NMOD	217162	_
+3	lady	lady	_	NN	_	0	ROOT	217162	_
+4	dressed	dress	_	VBN	_	3	APPO	_	_
+5	in	in	_	IN	_	4	ADV	_	_
+6	black	black	_	JJ	_	7	NMOD	217169	_
+7	stares	stare	_	NNS	_	5	PMOD	_	_
+8	down	down	_	IN	_	4	ADV	_	7
+9	the	the	_	DT	_	10	NMOD	0	_
+10	camera	camera	_	NN	_	8	AMOD	0	_
+11	as	as	_	IN	_	4	ADV	_	_
+12	she	she	_	PRP	_	13	SBJ	0	_
+13	walks	walk	_	VBZ	_	11	SUB	_	_
+14	down	down	_	RP	_	13	PRT	_	_
+15	the	the	_	DT	_	16	NMOD	217163	_
+16	street	street	_	NN	_	13	OBJ	217163	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,9 @@
+1	Kids	kid	_	NNS	_	0	ROOT	167548	_
+2	waiting	wait	_	VBG	_	1	APPO	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	the	the	_	DT	_	5	NMOD	167556	_
+5	parade	parade	_	NN	_	3	PMOD	167556	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	167550	_
+8	street	street	_	NN	_	6	PMOD	167550	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	30759	_
+2	man	man	_	NN	_	10	SBJ	30759	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	30760	_
+5	blue	blue	_	JJ	_	6	NMOD	30760	_
+6	shirt	shirt	_	NN	_	3	PMOD	30760	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	his	his	_	PRP$	_	9	NMOD	30770	_
+9	face	face	_	NN	_	7	PMOD	30770	_
+10	covered	cover	_	VBD	_	14	SBJ	_	_
+11	by	by	_	IN	_	10	MNR	_	_
+12	his	his	_	PRP$	_	13	NMOD	30771	_
+13	hair	hair	_	NN	_	11	PMOD	30771	_
+14	stands	stand	_	VBZ	_	0	ROOT	_	_
+15	next to	next to	_	IN	_	0	ROOT	_	_
+16	crates	crate	_	NNS	_	15	PMOD	30763	_
+17	at	at	_	IN	_	0	ROOT	_	_
+18	a	a	_	DT	_	19	NMOD	30761	_
+19	market	market	_	NN	_	17	PMOD	30761	_
+20	.	.	_	.	_	0	ROOT	_	_

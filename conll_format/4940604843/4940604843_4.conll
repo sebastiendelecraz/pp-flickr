@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	221073	_
+2	man	man	_	NN	_	6	SBJ	221073	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	221075	_
+5	hat	hat	_	NN	_	3	PMOD	221075	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	sitting	sit	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	221074	_
+10	bench	bench	_	NN	_	8	PMOD	221074	_
+11	on	on	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	221076	_
+13	sidewalk	sidewalk	_	NN	_	11	PMOD	221076	_
+14	.	.	_	.	_	6	P	_	_

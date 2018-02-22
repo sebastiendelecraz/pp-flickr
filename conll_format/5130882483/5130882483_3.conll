@@ -1,0 +1,14 @@
+1	The	the	_	DT	_	2	NMOD	229545	_
+2	daredevil	daredevil	_	JJ	_	3	SBJ	229545	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	getting	get	_	VBG	_	3	VC	_	_
+5	extreme	extreme	_	JJ	_	6	NMOD	0	_
+6	air	air	_	NN	_	4	OBJ	0	_
+7	during	during	_	IN	_	4	TMP	_	4
+8	a	a	_	DT	_	9	NMOD	229545	_
+9	stunt	stunt	_	NN	_	7	PMOD	229545	_
+10	in	in	_	IN	_	4	ADV	_	_
+11	an	an	_	DT	_	13	NMOD	229550	_
+12	urban	urban	_	JJ	_	13	NMOD	229550	_
+13	area	area	_	NN	_	10	PMOD	229550	_
+14	.	.	_	.	_	3	P	_	_

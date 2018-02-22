@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	52803	_
+2	woman	woman	_	NN	_	3	SBJ	52803	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	weaving	weave	_	VBG	_	3	VC	_	_
+5	with	with	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	52804	_
+7	comb	comb	_	NN	_	5	PMOD	52804	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	her	her	_	PRP$	_	10	NMOD	52808	_
+10	hand	hand	_	NN	_	8	PMOD	52808	_
+11	.	.	_	.	_	3	P	_	_

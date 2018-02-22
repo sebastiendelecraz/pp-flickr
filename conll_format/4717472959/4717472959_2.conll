@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	194497	_
+2	elderly	elderly	_	JJ	_	3	NMOD	194497	_
+3	women	woman	_	NNS	_	4	SBJ	194497	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	looking	look	_	VBG	_	4	VC	_	_
+6	into	into	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	9	NMOD	194498	_
+8	display	display	_	NN	_	9	NMOD	194498	_
+9	case	case	_	NN	_	6	PMOD	194498	_
+10	of	of	_	IN	_	9	NMOD	194498	_
+11	items	item	_	NNS	_	10	PMOD	194498	_
+12	for	for	_	IN	_	11	NMOD	_	11
+13	sale	sale	_	NN	_	12	PMOD	194503	_
+14	.	.	_	.	_	4	P	_	_

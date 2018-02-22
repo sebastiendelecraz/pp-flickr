@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	37983	_
+2	boy	boy	_	NN	_	3	SBJ	37983	_
+3	hangs	hang	_	VBZ	_	0	ROOT	_	_
+4	onto	onto	_	IN	_	3	ADV	_	3
+5	straps	strap	_	NNS	_	4	PMOD	37987	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	37985	_
+8	train	train	_	NN	_	6	PMOD	37985	_
+9	.	.	_	.	_	3	P	_	_

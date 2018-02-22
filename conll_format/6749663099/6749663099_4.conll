@@ -1,0 +1,14 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	257473	_
+4	man	man	_	NN	_	2	SBJ	257473	_
+5	asleep	asleep	_	RB	_	2	ADV	_	_
+6	,	,	_	,	_	2	P	_	_
+7	at	at	_	IN	_	2	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	257477	_
+9	door	door	_	NN	_	7	PMOD	257477	_
+10	of	of	_	IN	_	9	NMOD	257477	9
+11	a	a	_	DT	_	13	NMOD	257477	_
+12	barber	barber	_	NN	_	13	NMOD	257477	_
+13	shop	shop	_	NN	_	10	PMOD	257477	_
+14	.	.	_	.	_	2	P	_	_

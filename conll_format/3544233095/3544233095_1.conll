@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	126348	_
+2	young	young	_	JJ	_	3	NMOD	126348	_
+3	boy	boy	_	NN	_	4	SBJ	126348	_
+4	carries	carry	_	VBZ	_	0	ROOT	_	_
+5	a	a	_	DT	_	7	NMOD	126350	_
+6	green	green	_	JJ	_	7	NMOD	126350	_
+7	bucket	bucket	_	NN	_	4	OBJ	126350	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	a	a	_	DT	_	11	NMOD	126349	_
+10	sandy	sandy	_	JJ	_	11	NMOD	126349	_
+11	beach	beach	_	NN	_	8	PMOD	126349	_
+12	with	with	_	IN	_	7	NMOD	_	4
+13	a	a	_	DT	_	16	NMOD	126352	_
+14	cloudy	cloudy	_	JJ	_	16	NMOD	126352	_
+15	sky	sky	_	NN	_	16	NMOD	126352	_
+16	overhead	overhead	_	NN	_	12	PMOD	126352	_
+17	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,16 @@
+1	People	People	_	NNPS	_	2	NAME	270257	_
+2	praying	pray	_	VBG	_	0	ROOT	_	_
+3	by	by	_	IN	_	2	MNR	_	2
+4	a	a	_	DT	_	5	NMOD	270258	_
+5	car	car	_	NN	_	3	PMOD	270258	_
+6	while	while	_	IN	_	2	TMP	_	_
+7	another	another	_	DT	_	9	NMOD	0	_
+8	reads	read	_	NNS	_	9	NMOD	_	_
+9	something	something	_	NN	_	6	PMOD	270268	_
+10	from	from	_	IN	_	9	NMOD	_	8
+11	a	a	_	DT	_	13	NMOD	270260	_
+12	large	large	_	JJ	_	13	NMOD	270260	_
+13	piece	piece	_	NN	_	10	PMOD	270260	_
+14	of	of	_	IN	_	13	NMOD	270260	_
+15	paper	paper	_	NN	_	14	PMOD	270260	_
+16	.	.	_	.	_	0	ROOT	_	_

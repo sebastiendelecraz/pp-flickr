@@ -1,0 +1,15 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	66103	_
+4	young	young	_	JJ	_	5	NMOD	66103	_
+5	girl	girl	_	NN	_	2	PRD	66103	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	glasses	glass	_	NNS	_	6	PMOD	66107	_
+8	and	and	_	CC	_	5	COORD	_	_
+9	disheveled	dishevel	_	VBN	_	10	NMOD	66108	_
+10	hair	hair	_	NN	_	8	CONJ	66108	_
+11	with	with	_	IN	_	5	NMOD	_	5
+12	a	a	_	DT	_	14	NMOD	66105	_
+13	green	green	_	JJ	_	14	NMOD	66105	_
+14	backpack	backpack	_	NN	_	11	PMOD	66105	_
+15	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	105596	_
+2	person	person	_	NN	_	0	ROOT	105596	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	105597	_
+5	boat	boat	_	NN	_	3	PMOD	105597	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	105598	_
+8	canal	canal	_	NN	_	6	PMOD	105598	_
+9	.	.	_	.	_	0	ROOT	_	_

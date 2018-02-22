@@ -1,0 +1,14 @@
+1	five	five	_	CD	_	4	NMOD	90482	_
+2	female	female	_	JJ	_	4	NMOD	90482	_
+3	hockey	hockey	_	NN	_	4	NMOD	90482	_
+4	players	player	_	NNS	_	5	SBJ	90482	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	scrambling	scramble	_	VBG	_	5	VC	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	the	the	_	DT	_	9	NMOD	90485	_
+9	ball	ball	_	NN	_	7	PMOD	90485	_
+10	around	around	_	IN	_	6	LOC	_	6
+11	the	the	_	DT	_	13	NMOD	90486	_
+12	goal	goal	_	NN	_	13	NMOD	90486	_
+13	mouth	mouth	_	NN	_	10	PMOD	90486	_
+14	.	.	_	.	_	5	P	_	_

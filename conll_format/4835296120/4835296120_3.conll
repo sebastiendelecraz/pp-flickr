@@ -1,0 +1,11 @@
+1	Man	Man	_	NNP	_	3	NMOD	209116	_
+2	stirring	stir	_	VBG	_	3	NMOD	_	_
+3	food	food	_	NN	_	0	ROOT	209121	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	209120	_
+6	pan	pan	_	NN	_	4	PMOD	209120	_
+7	over	over	_	IN	_	6	NMOD	_	2
+8	stove	stove	_	NN	_	7	PMOD	209118	_
+9	in	in	_	IN	_	6	LOC	_	_
+10	kitchen	kitchen	_	NN	_	9	PMOD	209117	_
+11	.	.	_	.	_	0	ROOT	_	_

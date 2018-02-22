@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	161364	_
+2	woman	woman	_	NN	_	0	ROOT	161364	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	161363	_
+5	man	man	_	NN	_	6	NMOD	161363	_
+6	talk	talk	_	NN	_	3	CONJ	_	_
+7	over	over	_	IN	_	2	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	161366	_
+9	desk	desk	_	NN	_	7	PMOD	161366	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	161368	_
+12	purple	purple	_	NN	_	13	NMOD	161368	_
+13	room	room	_	NN	_	10	PMOD	161368	_
+14	.	.	_	.	_	0	ROOT	_	_

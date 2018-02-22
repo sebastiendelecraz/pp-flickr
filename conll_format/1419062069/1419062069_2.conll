@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	12205	_
+2	man	man	_	NN	_	3	SBJ	12205	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	speaking	speak	_	VBG	_	3	VC	_	_
+5	into	into	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	12209	_
+7	microphone	microphone	_	NN	_	5	PMOD	12209	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	12208	_
+10	variety	variety	_	NN	_	8	PMOD	12208	_
+11	of	of	_	IN	_	10	NMOD	12208	_
+12	recording	record	_	VBG	_	11	PMOD	12208	_
+13	equipment	equipment	_	NN	_	12	OBJ	12208	_
+14	in front of	in front of	_	IN	_	12	ADV	_	_
+15	him	him	_	PRP	_	14	PMOD	0	_
+16	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	207996	_
+2	lone	lone	_	JJ	_	4	NMOD	207996	_
+3	man	man	_	NN	_	4	NMOD	207996	_
+4	talks	talk	_	NNS	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	NMOD	_	_
+6	his	his	_	PRP$	_	7	NMOD	208000	_
+7	cellphone	cellphone	_	NN	_	5	PMOD	208000	_
+8	outside	outside	_	IN	_	7	LOC	_	4
+9	a	a	_	DT	_	11	NMOD	208001	_
+10	Subway	Subway	_	NNP	_	11	NMOD	208001	_
+11	station	station	_	NN	_	8	PMOD	208001	_
+12	.	.	_	.	_	0	ROOT	_	_

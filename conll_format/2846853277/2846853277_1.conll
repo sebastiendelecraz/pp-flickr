@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	3	NMOD	76625	_
+2	small	small	_	JJ	_	3	NMOD	76625	_
+3	child	child	_	NN	_	7	SBJ	76625	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	76626	_
+6	helmet	helmet	_	NN	_	4	OBJ	76626	_
+7	sits	sit	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	76627	_
+10	bike	bike	_	NN	_	8	PMOD	76627	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	training	training	_	NN	_	13	NMOD	76628	_
+13	wheels	wheel	_	NNS	_	11	PMOD	76628	_
+14	in front of	in front of	_	IN	_	7	LOC	_	_
+15	a	a	_	DT	_	17	NMOD	76629	_
+16	brick	brick	_	NN	_	17	NMOD	76629	_
+17	house	house	_	NN	_	18	SBJ	76629	_
+18	surrounded	surround	_	VBD	_	14	SUB	_	_
+19	by	by	_	IN	_	18	LGS	_	18
+20	a	a	_	DT	_	22	NMOD	76632	_
+21	brick	brick	_	NN	_	22	NMOD	76632	_
+22	wall	wall	_	NN	_	19	PMOD	76632	_
+23	and	and	_	CC	_	22	COORD	_	_
+24	white	white	_	JJ	_	26	NMOD	76630	_
+25	entrance	entrance	_	NN	_	26	NMOD	76630	_
+26	gate	gate	_	NN	_	23	CONJ	76630	_
+27	.	.	_	.	_	7	P	_	_

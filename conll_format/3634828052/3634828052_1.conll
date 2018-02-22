@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	132950	_
+2	woman	woman	_	NN	_	11	SBJ	132950	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	132951	_
+5	camera	camera	_	NN	_	3	PMOD	132951	_
+6	with	with	_	IN	_	2	NMOD	_	_
+7	a	a	_	DT	_	10	NMOD	132951	_
+8	very	very	_	RB	_	9	AMOD	132951	_
+9	long	long	_	JJ	_	10	NMOD	132951	_
+10	lens	lens	_	NN	_	6	PMOD	132951	_
+11	takes	take	_	VBZ	_	0	ROOT	_	_
+12	a	a	_	DT	_	13	NMOD	132955	_
+13	picture	picture	_	NN	_	11	OBJ	132955	_
+14	.	.	_	.	_	11	P	_	_

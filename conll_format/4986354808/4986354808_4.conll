@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	226218	_
+2	mother	mother	_	NN	_	3	SBJ	226218	_
+3	helps	help	_	VBZ	_	0	ROOT	_	_
+4	her	her	_	PRP$	_	5	NMOD	0	_
+5	son	son	_	NN	_	3	OBJ	226217	_
+6	with	with	_	IN	_	3	ADV	_	_
+7	his	his	_	PRP$	_	8	NMOD	226220	_
+8	homework	homework	_	NN	_	6	PMOD	226220	_
+9	inside	inside	_	IN	_	3	LOC	_	3
+10	their	their	_	PRP$	_	11	NMOD	226224	_
+11	shack	shack	_	NN	_	9	PMOD	226224	_
+12	.	.	_	.	_	3	P	_	_

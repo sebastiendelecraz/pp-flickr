@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	41468	_
+2	black	black	_	JJ	_	3	NMOD	41468	_
+3	dog	dog	_	NN	_	0	ROOT	41468	_
+4	standing	stand	_	VBG	_	3	APPO	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	41470	_
+7	grass	grass	_	NN	_	5	PMOD	41470	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	41471	_
+10	volleyball	volleyball	_	NN	_	8	PMOD	41471	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	Three	Three	_	CD	_	2	NMOD	94981	_
+2	men	man	_	NNS	_	3	SBJ	94981	_
+3	stand	stand	_	VBP	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	94983	_
+6	forest	forest	_	NN	_	4	PMOD	94983	_
+7	among	among	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	94982	_
+9	dense	dense	_	JJ	_	10	NMOD	94982	_
+10	cluster	cluster	_	NN	_	7	PMOD	94982	_
+11	of	of	_	IN	_	10	NMOD	94982	_
+12	large	large	_	JJ	_	14	NMOD	94982	_
+13	tree	tree	_	NN	_	14	NMOD	94982	_
+14	trunks	trunk	_	NNS	_	11	PMOD	94982	_
+15	.	.	_	.	_	3	P	_	_

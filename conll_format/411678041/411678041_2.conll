@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	156171	_
+2	man	man	_	NN	_	3	SBJ	156171	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	showing	show	_	VBG	_	3	VC	_	_
+5	off	off	_	RP	_	4	PRT	_	_
+6	during	during	_	IN	_	4	TMP	_	4
+7	a	a	_	DT	_	8	NMOD	156173	_
+8	parade	parade	_	NN	_	6	PMOD	156173	_
+9	on top of	on top of	_	IN	_	4	ADV	_	4
+10	a	a	_	DT	_	11	NMOD	156172	_
+11	horse	horse	_	NN	_	9	PMOD	156172	_
+12	with	with	_	IN	_	4	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	156176	_
+14	rope	rope	_	NN	_	12	PMOD	156176	_
+15	.	.	_	.	_	3	P	_	_

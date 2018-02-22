@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	5	NMOD	94458	_
+2	black	black	_	JJ	_	5	NMOD	94458	_
+3	and	and	_	CC	_	2	COORD	94458	_
+4	white	white	_	JJ	_	3	CONJ	94458	_
+5	dog	dog	_	NN	_	6	SBJ	94458	_
+6	laying	lay	_	VBG	_	0	ROOT	_	_
+7	down	down	_	RP	_	6	PRT	_	_
+8	with	with	_	IN	_	6	ADV	_	6
+9	a	a	_	DT	_	11	NMOD	94459	_
+10	big	big	_	JJ	_	11	NMOD	94459	_
+11	stick	stick	_	NN	_	8	PMOD	94459	_
+12	under	under	_	IN	_	11	LOC	_	11
+13	its	its	_	PRP$	_	14	NMOD	94460	_
+14	paw	paw	_	NN	_	12	PMOD	94460	_
+15	.	.	_	.	_	0	ROOT	_	_

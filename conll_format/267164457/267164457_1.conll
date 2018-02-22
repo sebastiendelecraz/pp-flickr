@@ -1,0 +1,13 @@
+1	There	There	_	EX	_	2	NMOD	65286	_
+2	man	man	_	NN	_	0	ROOT	65286	_
+3	on top of	on top of	_	IN	_	2	NMOD	_	2
+4	an	an	_	DT	_	5	NMOD	65287	_
+5	snow	snow	_	NN	_	7	NMOD	65287	_
+6	covered	cover	_	VBN	_	7	NMOD	65287	_
+7	mountain	mountain	_	NN	_	3	PMOD	65287	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	a	a	_	DT	_	10	NMOD	65288	_
+10	lake	lake	_	NN	_	8	PMOD	65288	_
+11	behind	behind	_	IN	_	10	LOC	_	_
+12	him	him	_	PRP	_	11	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

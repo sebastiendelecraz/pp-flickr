@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	221612	_
+2	woman	woman	_	NN	_	0	ROOT	221612	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	sunglasses	sunglass	_	NNS	_	3	PMOD	221616	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	a	a	_	DT	_	8	NMOD	221615	_
+7	white	white	_	JJ	_	8	NMOD	221615	_
+8	shirt	shirt	_	NN	_	5	CONJ	221615	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	sits	sit	_	NNS	_	9	PMOD	221618	_
+11	in	in	_	IN	_	8	LOC	_	10
+12	a	a	_	DT	_	14	NMOD	221613	_
+13	blue	blue	_	JJ	_	14	NMOD	221613	_
+14	chair	chair	_	NN	_	11	PMOD	221613	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	3	NMOD	246459	_
+2	young	young	_	JJ	_	3	NMOD	246459	_
+3	girl	girl	_	NN	_	0	ROOT	246459	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	246464	_
+6	white	white	_	JJ	_	7	NMOD	246464	_
+7	t-shirt	t-shirt	_	NN	_	4	PMOD	246464	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	a	a	_	DT	_	11	NMOD	246462	_
+10	blue	blue	_	JJ	_	11	NMOD	246462	_
+11	skirt	skirt	_	NN	_	8	CONJ	246462	_
+12	wearing	wear	_	VBG	_	11	APPO	_	_
+13	a	a	_	DT	_	14	NMOD	246460	_
+14	light	light	_	NN	_	12	OBJ	246460	_
+15	colored	color	_	VBN	_	14	APPO	246460	_
+16	hat	hat	_	NN	_	17	SBJ	246460	_
+17	stands	stand	_	VBZ	_	15	OBJ	_	_
+18	in	in	_	IN	_	17	LOC	_	_
+19	a	a	_	DT	_	20	NMOD	246463	_
+20	river	river	_	NN	_	18	PMOD	246463	_
+21	next to	next to	_	IN	_	17	ADV	_	17
+22	a	a	_	DT	_	24	NMOD	246461	_
+23	big	big	_	JJ	_	24	NMOD	246461	_
+24	rock	rock	_	NN	_	21	PMOD	246461	_
+25	.	.	_	.	_	0	ROOT	_	_

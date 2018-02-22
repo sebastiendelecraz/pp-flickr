@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	118974	_
+2	group	group	_	NN	_	6	SBJ	118974	_
+3	of	of	_	IN	_	2	NMOD	118974	_
+4	young	young	_	JJ	_	5	NMOD	118974	_
+5	adults	adult	_	NNS	_	3	PMOD	118974	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	118977	_
+10	street	street	_	NN	_	8	PMOD	118977	_
+11	in front of	in front of	_	IN	_	7	LOC	_	7
+12	a	a	_	DT	_	14	NMOD	118979	_
+13	brick	brick	_	NN	_	14	NMOD	118979	_
+14	wall	wall	_	NN	_	11	PMOD	118979	_
+15	with	with	_	IN	_	14	NMOD	_	_
+16	a	a	_	DT	_	19	NMOD	118980	_
+17	tall	tall	_	JJ	_	19	NMOD	118980	_
+18	wooden	wooden	_	JJ	_	19	NMOD	118980	_
+19	gate	gate	_	NN	_	15	PMOD	118980	_
+20	.	.	_	.	_	6	P	_	_

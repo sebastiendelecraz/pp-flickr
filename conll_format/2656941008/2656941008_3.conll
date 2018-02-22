@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	64366	_
+2	man	man	_	NN	_	3	SBJ	64366	_
+3	uses	use	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	64370	_
+5	shovel	shovel	_	NN	_	3	OBJ	64370	_
+6	to	to	_	TO	_	5	NMOD	_	_
+7	fill	fill	_	VB	_	6	IM	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	64374	_
+10	dirt	dirt	_	NN	_	8	PMOD	64374	_
+11	around	around	_	IN	_	7	LOC	_	3
+12	a	a	_	DT	_	15	NMOD	64369	_
+13	new	new	_	JJ	_	15	NMOD	64369	_
+14	fence	fence	_	NN	_	15	NMOD	64369	_
+15	post	post	_	NN	_	11	PMOD	64369	_
+16	.	.	_	.	_	3	P	_	_

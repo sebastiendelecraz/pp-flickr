@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	28264	_
+2	person	person	_	NN	_	0	ROOT	28264	_
+3	underneath	underneath	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	28265	_
+5	car	car	_	NN	_	3	PMOD	28265	_
+6	with	with	_	IN	_	2	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	28267	_
+8	jack	jack	_	NN	_	6	PMOD	28267	_
+9	.	.	_	.	_	0	ROOT	_	_

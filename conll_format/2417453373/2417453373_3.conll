@@ -1,0 +1,11 @@
+1	Grandfather	Grandfather	_	NNP	_	5	NMOD	47856	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	grandson	grandson	_	NN	_	2	CONJ	47859	_
+4	walking	walk	_	VBG	_	5	NMOD	_	_
+5	hand	hand	_	NN	_	8	SBJ	47858	_
+6	in	in	_	IN	_	8	TMP	_	_
+7	hand	hand	_	NN	_	6	PMOD	47858	_
+8	looking	look	_	VBG	_	0	ROOT	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	fun	fun	_	NN	_	9	PMOD	0	_
+11	.	.	_	.	_	0	ROOT	_	_

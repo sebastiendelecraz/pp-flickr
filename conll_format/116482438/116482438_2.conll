@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	4344	_
+2	elderly	elderly	_	NN	_	3	NMOD	4344	_
+3	woman	woman	_	NN	_	0	ROOT	4344	_
+4	sitting	sit	_	VBG	_	3	APPO	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	4346	_
+7	rocking	rock	_	VBG	_	8	NMOD	4346	_
+8	chair	chair	_	NN	_	5	PMOD	4346	_
+9	with	with	_	IN	_	8	NMOD	_	4
+10	a	a	_	DT	_	11	NMOD	4348	_
+11	blanket	blanket	_	NN	_	9	PMOD	4348	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	book	book	_	NN	_	12	CONJ	4345	_
+14	in	in	_	IN	_	11	LOC	_	_
+15	her	her	_	PRP$	_	16	NMOD	4351	_
+16	lap	lap	_	NN	_	14	PMOD	4351	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	SBJ	12351	_
+2	sit	sit	_	VBP	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	folding	fold	_	VBG	_	3	PMOD	12354	_
+5	chairs	chair	_	NNS	_	4	OBJ	12354	_
+6	outside	outside	_	IN	_	5	LOC	_	2
+7	in	in	_	IN	_	11	LOC	_	_
+8	front	front	_	NN	_	7	PMOD	12358	_
+9	a	a	_	DT	_	11	NMOD	12352	_
+10	burning	burning	_	NN	_	11	NMOD	12352	_
+11	fire	fire	_	NN	_	6	PMOD	12352	_
+12	.	.	_	.	_	2	P	_	_

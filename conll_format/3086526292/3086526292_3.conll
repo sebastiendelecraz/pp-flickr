@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	2	NMOD	92393	_
+2	children	child	_	NNS	_	5	NMOD	92393	_
+3	'	'	_	POS	_	2	SUFFIX	92393	_
+4	s	s	_	NN	_	5	NMOD	92393	_
+5	legs	leg	_	NNS	_	6	SBJ	92393	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	shown	show	_	VBN	_	6	VC	_	_
+8	as	as	_	IN	_	7	ADV	_	_
+9	they	they	_	PRP	_	10	SBJ	0	_
+10	stand	stand	_	VBP	_	8	SUB	_	_
+11	near	near	_	IN	_	10	LOC	_	10
+12	a	a	_	DT	_	13	NMOD	92391	_
+13	mess	mess	_	NN	_	11	PMOD	92391	_
+14	of	of	_	IN	_	13	NMOD	92391	_
+15	silly	silly	_	JJ	_	16	NMOD	92391	_
+16	string	string	_	NN	_	14	PMOD	_	_
+17	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,8 @@
+1	Boy	Boy	_	NNP	_	2	SBJ	52658	_
+2	reaches	reach	_	VBZ	_	0	ROOT	_	_
+3	above	above	_	IN	_	2	ADV	_	2
+4	head	head	_	NN	_	3	PMOD	52664	_
+5	for	for	_	IN	_	4	NMOD	_	2
+6	blue	blue	_	JJ	_	7	NMOD	52659	_
+7	pole	pole	_	NN	_	5	PMOD	52659	_
+8	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	176329	_
+2	young	young	_	JJ	_	3	NMOD	176329	_
+3	girl	girl	_	NN	_	4	SBJ	176329	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	sleeping	sleep	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	176331	_
+8	sofa	sofa	_	NN	_	6	PMOD	176331	_
+9	,	,	_	,	_	5	P	_	_
+10	amidst	amidst	_	IN	_	5	ADV	_	5
+11	a	a	_	DT	_	12	NMOD	176330	_
+12	bunch	bunch	_	NN	_	10	PMOD	176330	_
+13	of	of	_	IN	_	12	NMOD	176330	_
+14	pillows	pillow	_	NNS	_	13	PMOD	176330	_
+15	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	2	NMOD	204654	_
+2	group	group	_	NN	_	0	ROOT	204654	_
+3	of	of	_	IN	_	2	NMOD	204654	_
+4	friends	friend	_	NNS	_	3	PMOD	204654	_
+5	gathered	gather	_	VBN	_	2	APPO	_	_
+6	together	together	_	RB	_	5	ADV	_	_
+7	for	for	_	IN	_	5	ADV	_	5
+8	a	a	_	DT	_	10	NMOD	0	_
+9	little	little	_	JJ	_	10	NMOD	0	_
+10	fun	fun	_	NN	_	7	PMOD	0	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	sodas	soda	_	NNS	_	11	PMOD	204648	_
+13	and	and	_	CC	_	10	COORD	_	_
+14	blowing	blow	_	VBG	_	15	NMOD	_	_
+15	bubbles	bubble	_	NNS	_	13	CONJ	204650	_
+16	.	.	_	.	_	0	ROOT	_	_

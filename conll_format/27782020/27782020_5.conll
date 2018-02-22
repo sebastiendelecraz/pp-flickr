@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	72480	_
+2	street	street	_	NN	_	3	NMOD	72480	_
+3	vendor	vendor	_	NN	_	0	ROOT	72480	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	the	the	_	DT	_	6	NMOD	72487	_
+6	corner	corner	_	NN	_	4	PMOD	72487	_
+7	of	of	_	IN	_	6	NMOD	72487	6
+8	a	a	_	DT	_	10	NMOD	72487	_
+9	busy	busy	_	JJ	_	10	NMOD	72487	_
+10	intersection	intersection	_	NN	_	7	PMOD	72487	_
+11	.	.	_	.	_	0	ROOT	_	_

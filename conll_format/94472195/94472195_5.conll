@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	0	ROOT	283859	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	the	the	_	DT	_	4	NMOD	283863	_
+4	rain	rain	_	NN	_	2	PMOD	283863	_
+5	waiting	wait	_	VBG	_	4	APPO	_	_
+6	in	in	_	IN	_	5	ADV	_	_
+7	line	line	_	NN	_	6	PMOD	283862	_
+8	for	for	_	IN	_	7	NMOD	_	5
+9	food	food	_	NN	_	8	PMOD	283861	_
+10	.	.	_	.	_	0	ROOT	_	_

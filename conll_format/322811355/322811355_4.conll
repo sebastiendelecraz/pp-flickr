@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	102732	_
+2	man	man	_	NN	_	10	SBJ	102732	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	102734	_
+6	cubicle	cubicle	_	NN	_	4	PMOD	102734	_
+7	at	at	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	102736	_
+9	desk	desk	_	NN	_	7	PMOD	102736	_
+10	talks	talk	_	VBZ	_	0	ROOT	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	his	his	_	PRP$	_	13	NMOD	102733	_
+13	cellphone	cellphone	_	NN	_	11	PMOD	102733	_
+14	.	.	_	.	_	10	P	_	_

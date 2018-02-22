@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	217904	_
+2	view	view	_	NN	_	0	ROOT	217904	_
+3	of	of	_	IN	_	2	NMOD	217904	_
+4	a	a	_	DT	_	5	NMOD	217904	_
+5	street	street	_	NN	_	3	PMOD	217904	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	217906	_
+8	busy	busy	_	JJ	_	9	NMOD	217906	_
+9	town	town	_	NN	_	6	PMOD	217906	_
+10	.	.	_	.	_	0	ROOT	_	_

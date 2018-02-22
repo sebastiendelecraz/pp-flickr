@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	3	NMOD	40519	_
+2	black	black	_	JJ	_	3	NMOD	40519	_
+3	dog	dog	_	NN	_	0	ROOT	40519	_
+4	swimming	swim	_	VBG	_	3	APPO	_	_
+5	in	in	_	IN	_	4	ADV	_	_
+6	water	water	_	NN	_	5	PMOD	40520	_
+7	near	near	_	IN	_	4	LOC	_	4
+8	rocks	rock	_	NNS	_	7	PMOD	40522	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,18 @@
+1	An	an	_	DT	_	3	NMOD	76161	_
+2	orange	orange	_	NN	_	3	NMOD	76161	_
+3	lifeboat	lifeboat	_	NN	_	4	SBJ	76161	_
+4	speeds	speed	_	VBZ	_	0	ROOT	_	_
+5	away from	away from	_	IN	_	4	ADV	_	4
+6	its	its	_	PRP$	_	8	NMOD	76162	_
+7	mobile	mobile	_	JJ	_	8	NMOD	76162	_
+8	launcher	launcher	_	NN	_	5	PMOD	76162	_
+9	whilst	whilst	_	IN	_	4	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	76158	_
+11	man	man	_	NN	_	9	PMOD	76158	_
+12	in	in	_	IN	_	4	LOC	_	_
+13	red	red	_	JJ	_	14	NMOD	76159	_
+14	watches	watch	_	NNS	_	12	PMOD	_	_
+15	it	it	_	PRP	_	16	SBJ	0	_
+16	sail	sail	_	VBP	_	14	NMOD	_	_
+17	away	away	_	RB	_	16	ADV	_	_
+18	.	.	_	.	_	4	P	_	_

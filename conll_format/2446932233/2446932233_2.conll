@@ -1,0 +1,15 @@
+1	Five	Five	_	CD	_	2	NMOD	50306	_
+2	adults	adult	_	NNS	_	3	SBJ	50306	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	50308	_
+6	panel	panel	_	NN	_	4	PMOD	50308	_
+7	at	at	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	50311	_
+9	conference	conference	_	NN	_	7	PMOD	50311	_
+10	waiting	wait	_	VBG	_	9	APPO	_	_
+11	for	for	_	IN	_	10	ADV	_	10
+12	the	the	_	DT	_	14	NMOD	50318	_
+13	next	next	_	JJ	_	14	NMOD	50318	_
+14	question	question	_	NN	_	11	PMOD	50318	_
+15	.	.	_	.	_	0	ROOT	_	_

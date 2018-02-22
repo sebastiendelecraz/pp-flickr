@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	64215	_
+2	man	man	_	NN	_	3	SBJ	64215	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	his	his	_	PRP$	_	7	NMOD	64216	_
+6	small	small	_	JJ	_	7	NMOD	64216	_
+7	boat	boat	_	NN	_	4	PMOD	64216	_
+8	in the middle of	in the middle of	_	IN	_	3	LOC	64217	3
+9	the	the	_	DT	_	10	NMOD	64217	_
+10	lake	lake	_	NN	_	8	PMOD	64217	_
+11	.	.	_	.	_	3	P	_	_

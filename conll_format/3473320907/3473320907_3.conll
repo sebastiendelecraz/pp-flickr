@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	120749	_
+2	player	player	_	NN	_	13	SBJ	120749	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	5	NMOD	120755	_
+5	falls	fall	_	NNS	_	3	PMOD	120755	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	his	his	_	PRP$	_	8	NMOD	120760	_
+8	face	face	_	NN	_	6	PMOD	120760	_
+9	during	during	_	IN	_	13	TMP	_	5
+10	a	a	_	DT	_	12	NMOD	120751	_
+11	field	field	_	NN	_	12	NMOD	120751	_
+12	hockey	hockey	_	NN	_	9	PMOD	120751	_
+13	match	match	_	VBP	_	0	ROOT	120751	_
+14	.	.	_	.	_	13	P	_	_

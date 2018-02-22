@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	185967	_
+2	coated	coat	_	VBN	_	4	NMOD	185967	_
+3	middle-aged	middle-aged	_	JJ	_	4	NMOD	185967	_
+4	man	man	_	NN	_	5	SBJ	185967	_
+5	looks	look	_	VBZ	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	185969	_
+8	telescope	telescope	_	NN	_	6	PMOD	185969	_
+9	at	at	_	IN	_	5	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	185973	_
+11	sky	sky	_	NN	_	9	PMOD	185973	_
+12	at	at	_	IN	_	5	ADV	_	_
+13	night	night	_	NN	_	12	PMOD	185968	_
+14	.	.	_	.	_	5	P	_	_

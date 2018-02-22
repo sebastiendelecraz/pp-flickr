@@ -1,0 +1,10 @@
+1	Several	several	_	DT	_	2	NMOD	206546	_
+2	people	people	_	NN	_	3	SBJ	206546	_
+3	dining	dine	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	206547	_
+6	boat	boat	_	NN	_	4	PMOD	206547	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	206554	_
+9	harbor	harbor	_	NN	_	7	PMOD	206554	_
+10	.	.	_	.	_	0	ROOT	_	_

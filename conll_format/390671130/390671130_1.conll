@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	147642	_
+2	closeup	closeup	_	NN	_	0	ROOT	147642	_
+3	of	of	_	IN	_	2	NMOD	147642	_
+4	a	a	_	DT	_	9	NMOD	147642	_
+5	small	small	_	JJ	_	9	NMOD	147642	_
+6	black	black	_	JJ	_	9	NMOD	147642	_
+7	and	and	_	CC	_	6	COORD	147642	_
+8	white	white	_	JJ	_	7	CONJ	147642	_
+9	dog	dog	_	NN	_	3	PMOD	147642	_
+10	with	with	_	IN	_	2	NMOD	_	9
+11	a	a	_	DT	_	12	NMOD	147644	_
+12	baseball	baseball	_	NN	_	10	PMOD	147644	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	its	its	_	PRP$	_	15	NMOD	147646	_
+15	mouth	mouth	_	NN	_	13	PMOD	147646	_
+16	.	.	_	.	_	0	ROOT	_	_

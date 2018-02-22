@@ -1,0 +1,12 @@
+1	An	an	_	DT	_	2	NMOD	214353	_
+2	upside	upside	_	NN	_	4	NMOD	214353	_
+3	down	down	_	RP	_	2	HMOD	214353	_
+4	man	man	_	NN	_	0	ROOT	214353	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	8	NMOD	214354	_
+7	black	black	_	JJ	_	8	NMOD	214354	_
+8	shirt	shirt	_	NN	_	5	PMOD	214354	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	red	red	_	JJ	_	11	NMOD	214356	_
+11	wristbands	wristband	_	NNS	_	9	PMOD	214356	_
+12	.	.	_	.	_	0	ROOT	_	_

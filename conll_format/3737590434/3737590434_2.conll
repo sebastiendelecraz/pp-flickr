@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	140577	_
+2	men	man	_	NNS	_	3	SBJ	140577	_
+3	throw	throw	_	VBP	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	140578	_
+5	large	large	_	JJ	_	6	NMOD	140578	_
+6	rock	rock	_	NN	_	3	OBJ	140578	_
+7	into	into	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	10	NMOD	140579	_
+9	large	large	_	JJ	_	10	NMOD	140579	_
+10	body	body	_	NN	_	7	PMOD	140579	_
+11	of	of	_	IN	_	10	NMOD	140579	_
+12	water	water	_	NN	_	11	PMOD	140579	_
+13	.	.	_	.	_	3	P	_	_

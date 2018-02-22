@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	5	NMOD	130753	_
+2	red	red	_	JJ	_	5	NMOD	130753	_
+3	and	and	_	CC	_	2	COORD	130753	_
+4	white	white	_	JJ	_	3	CONJ	130753	_
+5	motorcycle	motorcycle	_	NN	_	6	SBJ	130753	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	being	be	_	VBG	_	6	VC	_	_
+8	ridden	ride	_	VBN	_	7	VC	_	_
+9	around	around	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	130755	_
+11	bend	bend	_	NN	_	9	PMOD	130755	_
+12	on	on	_	IN	_	8	TMP	_	_
+13	a	a	_	DT	_	14	NMOD	130759	_
+14	racetrack	racetrack	_	NN	_	12	PMOD	130759	_
+15	.	.	_	.	_	6	P	_	_

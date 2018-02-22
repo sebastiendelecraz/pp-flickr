@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	207369	_
+2	men	man	_	NNS	_	6	SBJ	207369	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	straw	straw	_	NN	_	5	NMOD	207368	_
+5	hats	hat	_	NNS	_	3	PMOD	207368	_
+6	stand	stand	_	VBP	_	0	ROOT	_	_
+7	by	by	_	IN	_	6	MNR	_	6
+8	a	a	_	DT	_	9	NMOD	207367	_
+9	pile	pile	_	NN	_	7	PMOD	207367	_
+10	of	of	_	IN	_	9	NMOD	207367	_
+11	hay	hay	_	NN	_	10	PMOD	207367	_
+12	on	on	_	IN	_	6	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	207366	_
+14	busy	busy	_	JJ	_	15	NMOD	207366	_
+15	street	street	_	NN	_	12	PMOD	207366	_
+16	.	.	_	.	_	6	P	_	_

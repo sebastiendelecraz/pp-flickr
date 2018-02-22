@@ -1,0 +1,10 @@
+1	Many	many	_	DT	_	2	NMOD	41841	_
+2	people	people	_	NN	_	0	ROOT	41841	_
+3	near	near	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	41845	_
+5	crosswalk	crosswalk	_	NN	_	3	PMOD	41845	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	41848	_
+8	busy	busy	_	JJ	_	9	NMOD	41848	_
+9	city	city	_	NN	_	6	PMOD	41848	_
+10	.	.	_	.	_	0	ROOT	_	_

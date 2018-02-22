@@ -1,0 +1,15 @@
+1	Oklahoma	Oklahoma	_	NNP	_	2	NAME	47468	_
+2	University	University	_	NNP	_	4	NMOD	47468	_
+3	football	football	_	NN	_	4	NMOD	47468	_
+4	players	player	_	NNS	_	0	ROOT	47468	_
+5	in front of	in front of	_	IN	_	4	NMOD	_	4
+6	a	a	_	DT	_	7	NMOD	47469	_
+7	crowd	crowd	_	NN	_	5	PMOD	47469	_
+8	of	of	_	IN	_	7	NMOD	47469	_
+9	Sooners	Sooners	_	JJ	_	10	NMOD	47469	_
+10	fans	fan	_	NNS	_	8	PMOD	47469	_
+11	and	and	_	CC	_	5	COORD	_	_
+12	next to	next to	_	IN	_	11	CONJ	_	_
+13	three	three	_	CD	_	14	NMOD	47470	_
+14	referees	referee	_	NNS	_	12	PMOD	47470	_
+15	.	.	_	.	_	0	ROOT	_	_

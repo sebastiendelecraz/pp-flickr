@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	20198	_
+2	woman	woman	_	NN	_	3	SBJ	20198	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	20199	_
+6	bench	bench	_	NN	_	4	PMOD	20199	_
+7	looking	look	_	VBG	_	6	APPO	_	_
+8	at	at	_	IN	_	7	ADV	_	_
+9	something	something	_	NN	_	8	PMOD	20203	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	her	her	_	PRP$	_	12	NMOD	20205	_
+12	lap	lap	_	NN	_	10	PMOD	20205	_
+13	.	.	_	.	_	0	ROOT	_	_

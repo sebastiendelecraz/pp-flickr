@@ -1,0 +1,11 @@
+1	This	this	_	DT	_	2	NMOD	220176	_
+2	Photo	Photo	_	NNP	_	3	SBJ	220176	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC-PRD	_	_
+5	another	another	_	DT	_	6	NMOD	220172	_
+6	Country	Country	_	NNP	_	4	PMOD	220172	_
+7	,	,	_	,	_	3	P	_	_
+8	like	like	_	IN	_	3	ADV	_	6
+9	Japan	Japan	_	NNP	_	8	PMOD	220175	_
+10	?	?	_	.	_	3	P	_	_
+11	.	.	_	.	_	3	P	_	_

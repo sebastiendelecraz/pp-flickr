@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	117546	_
+2	climber	climber	_	NN	_	3	SBJ	117546	_
+3	hanging	hang	_	VBG	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	DIR	_	3
+5	an	an	_	DT	_	7	NMOD	117550	_
+6	ice	ice	_	NN	_	7	NMOD	117550	_
+7	pick	pick	_	NN	_	4	PMOD	117550	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	117552	_
+10	side	side	_	NN	_	8	PMOD	117552	_
+11	of	of	_	IN	_	10	NMOD	117552	_
+12	a	a	_	DT	_	14	NMOD	117552	_
+13	frozen	freeze	_	VBN	_	14	NMOD	117552	_
+14	waterfall	waterfall	_	NN	_	11	PMOD	117552	_
+15	.	.	_	.	_	0	ROOT	_	_

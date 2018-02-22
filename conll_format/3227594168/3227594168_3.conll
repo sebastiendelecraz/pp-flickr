@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	4	NMOD	102693	_
+2	blond	blond	_	JJ	_	4	NMOD	102693	_
+3	young	young	_	JJ	_	4	NMOD	102693	_
+4	women	woman	_	NNS	_	5	SBJ	102693	_
+5	hang	hang	_	VBP	_	0	ROOT	_	_
+6	out	out	_	RP	_	5	PRT	_	_
+7	in	in	_	IN	_	5	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	102699	_
+9	grass	grass	_	NN	_	7	PMOD	102699	_
+10	with	with	_	IN	_	9	NMOD	_	5
+11	a	a	_	DT	_	13	NMOD	102696	_
+12	brown	brown	_	JJ	_	13	NMOD	102696	_
+13	dog	dog	_	NN	_	10	PMOD	102696	_
+14	.	.	_	.	_	5	P	_	_

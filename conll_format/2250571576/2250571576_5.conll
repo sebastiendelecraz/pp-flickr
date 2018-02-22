@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	36833	_
+2	crowd	crowd	_	NN	_	0	ROOT	36833	_
+3	of	of	_	IN	_	2	NMOD	36833	_
+4	five	five	_	CD	_	5	NMOD	36833	_
+5	gather	gather	_	NN	_	3	PMOD	_	_
+6	for	for	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	36843	_
+8	celebration	celebration	_	NN	_	6	PMOD	36843	_
+9	.	.	_	.	_	0	ROOT	_	_

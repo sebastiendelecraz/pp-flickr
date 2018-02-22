@@ -1,0 +1,12 @@
+1	Quite	Quite	_	NNP	_	4	NMOD	38313	_
+2	a	a	_	DT	_	4	NMOD	38313	_
+3	few	few	_	DT	_	4	NMOD	38313	_
+4	hikers	hiker	_	NNS	_	5	SBJ	38313	_
+5	walk	walk	_	VBP	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	38314	_
+8	snow	snow	_	NN	_	6	PMOD	38314	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	their	their	_	PRP$	_	11	NMOD	38321	_
+11	gear	gear	_	NN	_	9	PMOD	38321	_
+12	.	.	_	.	_	5	P	_	_

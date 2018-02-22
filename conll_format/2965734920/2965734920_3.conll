@@ -1,0 +1,15 @@
+1	Small	Small	_	NNP	_	2	NMOD	84428	_
+2	girl	girl	_	NN	_	0	ROOT	84428	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	84430	_
+5	colorful	colorful	_	JJ	_	6	NMOD	84430	_
+6	shirt	shirt	_	NN	_	3	PMOD	84430	_
+7	looking	look	_	VBG	_	6	APPO	_	_
+8	at	at	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	84431	_
+10	flower	flower	_	NN	_	8	PMOD	84431	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	a	a	_	DT	_	14	NMOD	84433	_
+13	living	living	_	NN	_	14	NMOD	84433	_
+14	room	room	_	NN	_	11	PMOD	84433	_
+15	.	.	_	.	_	0	ROOT	_	_

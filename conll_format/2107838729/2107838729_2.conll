@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	29223	_
+2	young	young	_	JJ	_	3	NMOD	29223	_
+3	boy	boy	_	NN	_	4	SBJ	29223	_
+4	throwing	throw	_	VBG	_	0	ROOT	_	_
+5	a	a	_	DT	_	6	NMOD	29228	_
+6	rock	rock	_	NN	_	4	OBJ	29228	_
+7	into	into	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	29227	_
+9	pond	pond	_	NN	_	7	PMOD	29227	_
+10	in front of	in front of	_	IN	_	4	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	29225	_
+12	large	large	_	JJ	_	13	NMOD	29225	_
+13	building	building	_	NN	_	10	PMOD	29225	_
+14	.	.	_	.	_	0	ROOT	_	_

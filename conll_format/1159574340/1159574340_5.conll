@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	4171	_
+2	kid	kid	_	NN	_	3	SBJ	4171	_
+3	jumping	jump	_	VBG	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	4172	_
+6	pool	pool	_	NN	_	4	PMOD	4172	_
+7	of	of	_	IN	_	6	NMOD	4172	_
+8	water	water	_	NN	_	7	PMOD	4172	_
+9	.	.	_	.	_	0	ROOT	_	_

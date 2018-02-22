@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	245935	_
+2	young	young	_	JJ	_	3	NMOD	245935	_
+3	man	man	_	NN	_	0	ROOT	245935	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	245936	_
+6	plaid	plaid	_	NN	_	7	NMOD	245936	_
+7	shirt	shirt	_	NN	_	4	PMOD	245936	_
+8	walking	walk	_	VBG	_	7	APPO	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	245938	_
+11	rain	rain	_	NN	_	9	PMOD	245938	_
+12	with	with	_	IN	_	8	ADV	_	8
+13	a	a	_	DT	_	15	NMOD	245937	_
+14	clear	clear	_	JJ	_	15	NMOD	245937	_
+15	umbrella	umbrella	_	NN	_	12	PMOD	245937	_
+16	.	.	_	.	_	0	ROOT	_	_

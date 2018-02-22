@@ -1,0 +1,14 @@
+1	The	the	_	DT	_	3	NMOD	61208	_
+2	large	large	_	JJ	_	3	NMOD	61208	_
+3	group	group	_	NN	_	6	SBJ	61208	_
+4	of	of	_	IN	_	3	NMOD	61208	_
+5	people	people	_	NN	_	4	PMOD	61208	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	running	run	_	VBG	_	6	VC	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	61210	_
+10	cure	cure	_	NN	_	8	PMOD	61210	_
+11	for	for	_	IN	_	10	NMOD	_	7
+12	breast	breast	_	NN	_	13	NMOD	61215	_
+13	cancer	cancer	_	NN	_	11	PMOD	61215	_
+14	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,14 @@
+1	Three	Three	_	CD	_	2	NMOD	96050	_
+2	men	man	_	NNS	_	5	SBJ	96050	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	caps	cap	_	NNS	_	3	PMOD	96056	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	ADV	_	_
+7	fireside	fireside	_	NN	_	6	PMOD	96054	_
+8	near	near	_	IN	_	5	LOC	_	5
+9	cabin	cabin	_	NN	_	8	PMOD	96053	_
+10	,	,	_	,	_	5	P	_	_
+11	reading	read	_	VBG	_	5	ADV	_	_
+12	at	at	_	IN	_	11	ADV	_	_
+13	night	night	_	NN	_	12	PMOD	96052	_
+14	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	276254	_
+2	young	young	_	JJ	_	3	NMOD	276254	_
+3	lady	lady	_	NN	_	0	ROOT	276254	_
+4	sitting	sit	_	VBG	_	3	APPO	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	276257	_
+7	rock	rock	_	NN	_	5	PMOD	276257	_
+8	in the middle of	in the middle of	_	IN	_	4	LOC	276255	4
+9	a	a	_	DT	_	10	NMOD	276255	_
+10	lake	lake	_	NN	_	8	PMOD	276255	_
+11	.	.	_	.	_	0	ROOT	_	_

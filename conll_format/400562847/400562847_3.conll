@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	151669	_
+2	dark-colored	dark-colored	_	CD	_	3	NMOD	151669	_
+3	dog	dog	_	NN	_	0	ROOT	151669	_
+4	walking	walk	_	VBG	_	3	APPO	_	_
+5	across	across	_	IN	_	4	DIR	_	4
+6	snow	snow	_	NN	_	5	PMOD	151672	_
+7	with	with	_	IN	_	4	ADV	_	_
+8	something	something	_	NN	_	7	PMOD	151670	_
+9	in	in	_	IN	_	8	NMOD	_	_
+10	its	its	_	PRP$	_	11	NMOD	151671	_
+11	mouth	mouth	_	NN	_	9	PMOD	151671	_
+12	.	.	_	.	_	0	ROOT	_	_

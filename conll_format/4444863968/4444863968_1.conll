@@ -1,0 +1,17 @@
+1	a	a	_	DT	_	3	NMOD	168922	_
+2	large	large	_	JJ	_	3	NMOD	168922	_
+3	group	group	_	NN	_	0	ROOT	168922	_
+4	of	of	_	IN	_	3	NMOD	168922	_
+5	people	people	_	NN	_	4	PMOD	168922	_
+6	standing	stand	_	VBG	_	5	APPO	_	_
+7	behind	behind	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	168927	_
+9	podium	podium	_	NN	_	7	PMOD	168927	_
+10	on	on	_	IN	_	6	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	168925	_
+12	stairs	stair	_	NNS	_	10	PMOD	168925	_
+13	of	of	_	IN	_	12	NMOD	168925	_
+14	a	a	_	DT	_	16	NMOD	168925	_
+15	congress	congress	_	NN	_	16	NMOD	168925	_
+16	building	building	_	NN	_	13	PMOD	168925	_
+17	.	.	_	.	_	0	ROOT	_	_

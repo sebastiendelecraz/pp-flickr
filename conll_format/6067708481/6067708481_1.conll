@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	4	NMOD	247397	_
+2	small	small	_	JJ	_	4	NMOD	247397	_
+3	blond	blond	_	JJ	_	4	NMOD	247397	_
+4	boy	boy	_	NN	_	0	ROOT	247397	_
+5	in	in	_	IN	_	0	ROOT	_	_
+6	a	a	_	DT	_	0	ROOT	247403	_
+7	collared	collar	_	VBN	_	0	ROOT	247403	_
+8	,	,	_	,	_	0	ROOT	247403	_
+9	striped	stripe	_	VBN	_	11	NMOD	247403	_
+10	shirt	shirt	_	NN	_	11	NMOD	247403	_
+11	stands	stand	_	NNS	_	0	ROOT	_	_
+12	next to	next to	_	IN	_	11	NMOD	_	11
+13	the	the	_	DT	_	14	NMOD	247401	_
+14	edge	edge	_	NN	_	12	PMOD	247401	_
+15	of	of	_	IN	_	14	NMOD	247401	_
+16	a	a	_	DT	_	17	NMOD	247401	_
+17	marsh	marsh	_	NN	_	15	PMOD	247401	_
+18	.	.	_	.	_	0	ROOT	_	_

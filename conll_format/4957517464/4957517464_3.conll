@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	SBJ	223159	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	the	the	_	DT	_	5	NMOD	223164	_
+5	street	street	_	NN	_	3	PMOD	223164	_
+6	behind	behind	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	10	NMOD	223160	_
+8	window	window	_	NN	_	10	NMOD	223160	_
+9	advertising	advertising	_	NN	_	10	NMOD	_	_
+10	magazines	magazine	_	NNS	_	6	PMOD	223163	_
+11	.	.	_	.	_	0	ROOT	_	_

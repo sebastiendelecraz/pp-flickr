@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	5	NMOD	43333	_
+2	gray	gray	_	JJ	_	5	NMOD	43333	_
+3	and	and	_	CC	_	2	COORD	43333	_
+4	white	white	_	JJ	_	3	CONJ	43333	_
+5	puddle	puddle	_	NN	_	0	ROOT	43333	_
+6	fighting	fight	_	VBG	_	5	APPO	_	_
+7	next to	next to	_	IN	_	6	ADV	_	6
+8	another	another	_	DT	_	12	NMOD	43334	_
+9	black	black	_	JJ	_	12	NMOD	43334	_
+10	and	and	_	CC	_	9	COORD	43334	_
+11	brown	brown	_	JJ	_	10	CONJ	43334	_
+12	dog	dog	_	NN	_	7	PMOD	43334	_
+13	on	on	_	IN	_	12	NMOD	_	6
+14	a	a	_	DT	_	15	NMOD	43335	_
+15	bed	bed	_	NN	_	13	PMOD	43335	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	3	NMOD	119875	_
+2	young	young	_	JJ	_	3	NMOD	119875	_
+3	girl	girl	_	NN	_	4	SBJ	119875	_
+4	standing	stand	_	VBG	_	0	ROOT	_	_
+5	in front of	in front of	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	119877	_
+7	fountain	fountain	_	NN	_	5	PMOD	119877	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	119876	_
+10	woman	woman	_	NN	_	8	PMOD	119876	_
+11	to	to	_	TO	_	10	NMOD	_	_
+12	her	her	_	PRP$	_	13	NMOD	0	_
+13	side	side	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

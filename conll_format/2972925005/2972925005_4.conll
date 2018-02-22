@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	84847	_
+2	women	woman	_	NNS	_	7	AMOD	84847	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	84848	_
+5	man	man	_	NN	_	6	NMOD	84848	_
+6	stand	stand	_	NN	_	3	CONJ	_	_
+7	together	together	_	RB	_	9	NMOD	_	_
+8	an	an	_	DT	_	9	NMOD	84857	_
+9	talk	talk	_	NN	_	0	ROOT	84857	_
+10	over	over	_	IN	_	9	NMOD	_	6
+11	food	food	_	NN	_	10	PMOD	84850	_
+12	on	on	_	IN	_	9	NMOD	_	_
+13	a	a	_	DT	_	14	NMOD	84849	_
+14	table	table	_	NN	_	12	PMOD	84849	_
+15	.	.	_	.	_	0	ROOT	_	_

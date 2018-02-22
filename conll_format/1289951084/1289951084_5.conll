@@ -1,0 +1,11 @@
+1	Young	Young	_	NNP	_	3	NMOD	7480	_
+2	woman	woman	_	NN	_	3	NMOD	7480	_
+3	reclines	recline	_	NNS	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	7481	_
+6	chair	chair	_	NN	_	4	PMOD	7481	_
+7	at	at	_	IN	_	6	LOC	_	_
+8	an	an	_	DT	_	10	NMOD	7482	_
+9	Ikea	Ikea	_	NNP	_	10	NMOD	7482	_
+10	store	store	_	NN	_	7	PMOD	7482	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	This	this	_	DT	_	2	NMOD	114122	_
+2	person	person	_	NN	_	3	SBJ	114122	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	parachuting	parachute	_	VBG	_	3	VC	_	_
+5	with	with	_	IN	_	4	ADV	_	_
+6	skis	ski	_	NNS	_	5	PMOD	114129	_
+7	onto	onto	_	IN	_	6	NMOD	_	4
+8	a	a	_	DT	_	10	NMOD	114124	_
+9	snowy	snowy	_	JJ	_	10	NMOD	114124	_
+10	hill	hill	_	NN	_	7	PMOD	114124	_
+11	.	.	_	.	_	3	P	_	_

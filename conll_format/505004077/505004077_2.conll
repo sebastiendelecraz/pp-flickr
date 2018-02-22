@@ -1,0 +1,16 @@
+1	Three	Three	_	CD	_	4	NMOD	227552	_
+2	college	college	_	NN	_	3	NMOD	227552	_
+3	age	age	_	NN	_	4	NMOD	227552	_
+4	men	man	_	NNS	_	5	SBJ	227552	_
+5	jump	jump	_	VBP	_	0	ROOT	_	_
+6	up	up	_	RP	_	5	PRT	_	_
+7	in	in	_	IN	_	5	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	0	_
+9	air	air	_	NN	_	7	PMOD	0	_
+10	with	with	_	IN	_	5	ADV	_	5
+11	a	a	_	DT	_	13	NMOD	227553	_
+12	green	green	_	JJ	_	13	NMOD	227553	_
+13	lawn	lawn	_	NN	_	10	PMOD	227553	_
+14	underneath	underneath	_	IN	_	5	ADV	_	_
+15	them	them	_	PRP	_	14	PMOD	0	_
+16	.	.	_	.	_	5	P	_	_

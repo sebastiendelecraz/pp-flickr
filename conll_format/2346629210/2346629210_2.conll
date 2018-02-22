@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	43234	_
+2	man	man	_	NN	_	0	ROOT	43234	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	43235	_
+5	brown	brown	_	JJ	_	6	NMOD	43235	_
+6	coat	coat	_	NN	_	3	PMOD	43235	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	green	green	_	JJ	_	10	NMOD	43241	_
+9	tie	tie	_	NN	_	10	NMOD	43241	_
+10	walks	walk	_	NNS	_	7	CONJ	_	_
+11	on	on	_	IN	_	2	NMOD	_	_
+12	a	a	_	DT	_	13	NMOD	43239	_
+13	street	street	_	NN	_	11	PMOD	43239	_
+14	.	.	_	.	_	0	ROOT	_	_

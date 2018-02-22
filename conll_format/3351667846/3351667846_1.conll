@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	111919	_
+2	man	man	_	NN	_	0	ROOT	111919	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	8	NMOD	111922	_
+5	red	red	_	JJ	_	8	NMOD	111922	_
+6	striped	stripe	_	VBN	_	8	NMOD	111922	_
+7	shirt	shirt	_	NN	_	8	NMOD	111922	_
+8	reaches	reach	_	NNS	_	3	OBJ	_	_
+9	for	for	_	IN	_	3	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	111915	_
+11	plate	plate	_	NN	_	9	PMOD	111915	_
+12	of	of	_	IN	_	11	NMOD	111915	_
+13	food	food	_	NN	_	12	PMOD	111915	_
+14	while	while	_	IN	_	3	TMP	_	_
+15	others	other	_	NNS	_	16	SBJ	111920	_
+16	wait	wait	_	VBP	_	14	SUB	_	_
+17	.	.	_	.	_	0	ROOT	_	_

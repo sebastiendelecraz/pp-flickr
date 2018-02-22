@@ -1,0 +1,10 @@
+1	Brown	Brown	_	NNP	_	4	NMOD	270227	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	white	white	_	JJ	_	2	CONJ	270223	_
+4	dog	dog	_	NN	_	5	SBJ	270223	_
+5	runs	run	_	VBZ	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	ADV	_	_
+7	camera	camera	_	NN	_	6	PMOD	270228	_
+8	over	over	_	IN	_	7	NMOD	_	5
+9	grass	grass	_	NN	_	8	PMOD	270224	_
+10	.	.	_	.	_	5	P	_	_

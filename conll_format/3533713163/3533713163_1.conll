@@ -1,0 +1,14 @@
+1	Looking	look	_	VBG	_	0	ROOT	_	_
+2	from	from	_	IN	_	3	AMOD	_	_
+3	above	above	_	JJ	_	1	PRD	125517	_
+4	through	through	_	IN	_	1	ADV	_	1
+5	electrical	electrical	_	JJ	_	6	NMOD	125518	_
+6	wires	wire	_	NNS	_	4	PMOD	125518	_
+7	at	at	_	IN	_	1	ADV	_	_
+8	people	people	_	NN	_	7	PMOD	125511	_
+9	walking	walk	_	VBG	_	8	APPO	_	_
+10	around	around	_	IN	_	9	DIR	_	_
+11	in	in	_	IN	_	9	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	125513	_
+13	plaza	plaza	_	NN	_	11	PMOD	125513	_
+14	.	.	_	.	_	0	ROOT	_	_

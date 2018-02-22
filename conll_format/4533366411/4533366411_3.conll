@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	176082	_
+2	men	man	_	NNS	_	3	SBJ	176082	_
+3	kneel	kneel	_	VBP	_	0	ROOT	_	_
+4	next to	next to	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	176083	_
+6	cage	cage	_	NN	_	4	PMOD	176083	_
+7	of	of	_	IN	_	6	NMOD	176083	_
+8	puppies	puppy	_	NNS	_	7	PMOD	176083	_
+9	amid	amid	_	IN	_	3	LOC	_	3
+10	tables	table	_	NNS	_	9	PMOD	176093	_
+11	of	of	_	IN	_	10	NMOD	176093	_
+12	pet	pet	_	NN	_	13	NMOD	176093	_
+13	cages	cage	_	NNS	_	11	PMOD	176093	_
+14	and	and	_	CC	_	13	COORD	_	_
+15	supplies	supply	_	NNS	_	14	CONJ	176085	_
+16	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	284349	_
+2	kid	kid	_	NN	_	3	SBJ	284349	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	pushing	push	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	7	NMOD	284350	_
+6	shopping	shopping	_	NN	_	7	NMOD	284350	_
+7	cart	cart	_	NN	_	4	OBJ	284350	_
+8	behind	behind	_	IN	_	4	LOC	_	4
+9	an	an	_	DT	_	10	NMOD	284352	_
+10	adult	adult	_	NN	_	8	PMOD	284352	_
+11	inside	inside	_	IN	_	4	LOC	_	4
+12	a	a	_	DT	_	14	NMOD	284351	_
+13	consumer	consumer	_	NN	_	14	NMOD	284351	_
+14	market	market	_	NN	_	11	PMOD	284351	_
+15	.	.	_	.	_	3	P	_	_

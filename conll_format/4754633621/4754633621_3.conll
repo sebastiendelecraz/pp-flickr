@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	198987	_
+2	black	black	_	JJ	_	3	NMOD	198987	_
+3	man	man	_	NN	_	4	SBJ	198987	_
+4	holding	hold	_	VBG	_	0	ROOT	_	_
+5	up	up	_	RP	_	4	PRT	_	_
+6	a	a	_	DT	_	7	NMOD	198989	_
+7	sign	sign	_	NN	_	4	OBJ	198989	_
+8	while	while	_	IN	_	4	ADV	_	_
+9	standing	stand	_	VBG	_	8	SUB	_	_
+10	in	in	_	IN	_	9	LOC	_	9
+11	a	a	_	DT	_	12	NMOD	198993	_
+12	crowd	crowd	_	NN	_	10	PMOD	198993	_
+13	of	of	_	IN	_	12	NMOD	198993	_
+14	people	people	_	NN	_	13	PMOD	198993	_
+15	.	.	_	.	_	0	ROOT	_	_

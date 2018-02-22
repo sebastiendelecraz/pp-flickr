@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	188646	_
+2	woman	woman	_	NN	_	7	SBJ	188646	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	188647	_
+5	blue	blue	_	JJ	_	6	NMOD	188647	_
+6	shirt	shirt	_	NN	_	3	PMOD	188647	_
+7	makes	make	_	VBZ	_	0	ROOT	_	_
+8	a	a	_	DT	_	9	NMOD	188648	_
+9	painting	painting	_	NN	_	7	OBJ	188648	_
+10	of	of	_	IN	_	9	NMOD	188648	_
+11	two	two	_	CD	_	12	NMOD	188648	_
+12	windows	window	_	NNS	_	10	PMOD	188648	_
+13	with	with	_	IN	_	12	NMOD	_	_
+14	green	green	_	JJ	_	15	NMOD	188653	_
+15	shades	shade	_	NNS	_	13	PMOD	188653	_
+16	.	.	_	.	_	7	P	_	_

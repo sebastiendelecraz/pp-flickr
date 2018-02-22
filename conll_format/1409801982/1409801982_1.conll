@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	11721	_
+2	man	man	_	NN	_	8	SBJ	11721	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	his	his	_	PRP$	_	7	NMOD	11722	_
+5	white	white	_	JJ	_	7	NMOD	11722	_
+6	shirt	shirt	_	NN	_	7	NMOD	11722	_
+7	uniform	uniform	_	NN	_	3	PMOD	11722	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	next to	next to	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	11723	_
+12	table	table	_	NN	_	10	PMOD	11723	_
+13	with	with	_	IN	_	9	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	11724	_
+15	basket	basket	_	NN	_	13	PMOD	11724	_
+16	of	of	_	IN	_	15	NMOD	11724	_
+17	fruits	fruit	_	NNS	_	16	PMOD	11724	_
+18	as	as	_	IN	_	9	TMP	_	_
+19	he	he	_	PRP	_	20	SBJ	0	_
+20	talks	talk	_	VBZ	_	18	SUB	_	_
+21	to	to	_	TO	_	20	ADV	_	_
+22	a	a	_	DT	_	23	NMOD	11725	_
+23	lady	lady	_	NN	_	21	PMOD	11725	_
+24	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	SBJ	200381	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	sitting	sit	_	VBG	_	2	VC	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	talking	talk	_	VBG	_	4	CONJ	_	_
+6	outside	outside	_	IN	_	3	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	200382	_
+8	bar	bar	_	NN	_	6	PMOD	200382	_
+9	in	in	_	IN	_	3	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	200388	_
+11	afternoon	afternoon	_	NN	_	9	PMOD	200388	_
+12	.	.	_	.	_	2	P	_	_

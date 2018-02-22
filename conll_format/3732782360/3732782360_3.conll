@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	SBJ	140340	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	along	along	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	140338	_
+5	busy	busy	_	JJ	_	6	NMOD	140338	_
+6	street	street	_	NN	_	3	PMOD	140338	_
+7	on	on	_	IN	_	2	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	140344	_
+9	gloomy	gloomy	_	JJ	_	10	NMOD	140344	_
+10	day	day	_	NN	_	7	PMOD	140344	_
+11	.	.	_	.	_	2	P	_	_

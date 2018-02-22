@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	64768	_
+2	child	child	_	NN	_	8	SBJ	64768	_
+3	,	,	_	,	_	8	P	_	_
+4	inside of	inside of	_	IN	_	8	ADV	_	8
+5	a	a	_	DT	_	6	NMOD	64772	_
+6	store	store	_	NN	_	4	PMOD	64772	_
+7	,	,	_	,	_	8	P	_	_
+8	holds	hold	_	VBZ	_	0	ROOT	_	_
+9	a	a	_	DT	_	10	NMOD	64770	_
+10	pair	pair	_	NN	_	8	OBJ	64770	_
+11	of	of	_	IN	_	10	NMOD	64770	_
+12	tusks	tusk	_	NNS	_	11	PMOD	64770	_
+13	against	against	_	IN	_	10	NMOD	_	8
+14	his	his	_	PRP$	_	15	NMOD	64770	_
+15	cheeks	cheek	_	NNS	_	13	PMOD	64770	_
+16	.	.	_	.	_	8	P	_	_

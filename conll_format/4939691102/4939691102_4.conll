@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	220939	_
+2	group	group	_	NN	_	5	SBJ	220939	_
+3	of	of	_	IN	_	2	NMOD	220939	_
+4	snowboarders	snowboarder	_	NNS	_	3	PMOD	220939	_
+5	fly	fly	_	VBP	_	0	ROOT	_	_
+6	over	over	_	IN	_	5	TMP	_	5
+7	the	the	_	DT	_	8	NMOD	220940	_
+8	crest	crest	_	NN	_	6	PMOD	220940	_
+9	of	of	_	IN	_	8	NMOD	220940	_
+10	a	a	_	DT	_	11	NMOD	220940	_
+11	hill	hill	_	NN	_	9	PMOD	220940	_
+12	.	.	_	.	_	5	P	_	_

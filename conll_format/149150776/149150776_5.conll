@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	14764	_
+2	model	model	_	NN	_	3	SBJ	14764	_
+3	revealing	reveal	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	14766	_
+5	drawing	drawing	_	NN	_	3	OBJ	14766	_
+6	of	of	_	IN	_	5	NMOD	14766	_
+7	a	a	_	DT	_	8	NMOD	14766	_
+8	hammer	hammer	_	NN	_	6	PMOD	14766	_
+9	in	in	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	11	NMOD	14765	_
+11	briefcase	briefcase	_	NN	_	9	PMOD	14765	_
+12	.	.	_	.	_	0	ROOT	_	_

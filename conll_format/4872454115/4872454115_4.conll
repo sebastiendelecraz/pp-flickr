@@ -1,0 +1,15 @@
+1	People	People	_	NNPS	_	2	SBJ	213584	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	sit	sit	_	VBP	_	3	CONJ	_	_
+5	on	on	_	IN	_	2	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	213594	_
+7	bench	bench	_	NN	_	5	PMOD	213594	_
+8	in front of	in front of	_	IN	_	2	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	213588	_
+10	building	building	_	NN	_	8	PMOD	213588	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	drawings	drawing	_	NNS	_	11	PMOD	213593	_
+13	on	on	_	IN	_	10	LOC	_	_
+14	it	it	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	215454	_
+2	women	woman	_	NNS	_	3	SBJ	215454	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	singing	sing	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	215462	_
+7	stage	stage	_	NN	_	5	PMOD	215462	_
+8	while	while	_	IN	_	4	TMP	_	4
+9	a	a	_	DT	_	10	NMOD	215456	_
+10	man	man	_	NN	_	15	NMOD	215456	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	red	red	_	JJ	_	13	NMOD	215461	_
+13	plays	play	_	NNS	_	11	PMOD	_	_
+14	the	the	_	DT	_	15	NMOD	215455	_
+15	guitar	guitar	_	NN	_	8	PMOD	215455	_
+16	.	.	_	.	_	3	P	_	_

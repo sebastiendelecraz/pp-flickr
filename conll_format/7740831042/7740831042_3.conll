@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	274393	_
+2	javelin	javelin	_	NN	_	3	NMOD	274393	_
+3	thrower	thrower	_	NN	_	4	SBJ	_	_
+4	running	run	_	VBG	_	6	ADV	_	_
+5	,	,	_	,	_	6	P	_	_
+6	caught	catch	_	VBD	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	ADV	_	_
+8	midair	midair	_	NN	_	7	PMOD	274400	_
+9	against	against	_	IN	_	8	NMOD	_	4
+10	the	the	_	DT	_	12	NMOD	274395	_
+11	dark-orange	dark-orange	_	CD	_	12	NMOD	274395	_
+12	track	track	_	NN	_	9	PMOD	274395	_
+13	.	.	_	.	_	6	P	_	_

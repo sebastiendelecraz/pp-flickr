@@ -1,0 +1,8 @@
+1	guy	guy	_	NN	_	2	SBJ	266089	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	266090	_
+5	door	door	_	NN	_	3	PMOD	266090	_
+6	during	during	_	IN	_	2	TMP	_	2
+7	construction	construction	_	NN	_	6	PMOD	266094	_
+8	.	.	_	.	_	0	ROOT	_	_

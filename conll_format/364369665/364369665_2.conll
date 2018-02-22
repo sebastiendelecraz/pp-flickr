@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	2	NMOD	133753	_
+2	explorer	explorer	_	NN	_	7	SBJ	133753	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	an	an	_	DT	_	6	NMOD	133756	_
+5	ice	ice	_	NN	_	6	NMOD	133756	_
+6	cave	cave	_	NN	_	3	PMOD	133756	_
+7	stands	stand	_	VBZ	_	0	ROOT	_	_
+8	above	above	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	11	NMOD	133755	_
+10	large	large	_	JJ	_	11	NMOD	133755	_
+11	sheet	sheet	_	NN	_	8	PMOD	133755	_
+12	of	of	_	IN	_	11	NMOD	133755	_
+13	dark	dark	_	JJ	_	15	NMOD	133755	_
+14	blue	blue	_	JJ	_	15	NMOD	133755	_
+15	ice	ice	_	NN	_	12	PMOD	133755	_
+16	.	.	_	.	_	7	P	_	_

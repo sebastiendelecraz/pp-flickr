@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	229828	_
+2	people	people	_	NN	_	5	SBJ	229828	_
+3	in	in	_	IN	_	2	LOC	_	5
+4	Seattle	Seattle	_	NNP	_	3	PMOD	229832	_
+5	looking	look	_	VBG	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	ADV	_	_
+7	an	an	_	DT	_	8	NMOD	229827	_
+8	ambulance	ambulance	_	NN	_	6	PMOD	229827	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	229829	_
+11	street	street	_	NN	_	9	PMOD	229829	_
+12	.	.	_	.	_	0	ROOT	_	_

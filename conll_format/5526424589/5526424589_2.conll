@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	238280	_
+2	thin	thin	_	JJ	_	4	NMOD	238280	_
+3	middle-aged	middle-aged	_	JJ	_	4	NMOD	238280	_
+4	man	man	_	NN	_	5	SBJ	238280	_
+5	stands	stand	_	VBZ	_	0	ROOT	_	_
+6	behind	behind	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	238282	_
+8	podium	podium	_	NN	_	6	PMOD	238282	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	an	an	_	DT	_	13	NMOD	238281	_
+11	empty	empty	_	JJ	_	13	NMOD	238281	_
+12	banquet	banquet	_	NN	_	13	NMOD	238281	_
+13	room	room	_	NN	_	9	PMOD	238281	_
+14	.	.	_	.	_	5	P	_	_

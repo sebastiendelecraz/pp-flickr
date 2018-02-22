@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	147085	_
+2	man	man	_	NN	_	3	SBJ	147085	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	147087	_
+6	street	street	_	NN	_	4	PMOD	147087	_
+7	by	by	_	IN	_	3	MNR	_	3
+8	a	a	_	DT	_	12	NMOD	147092	_
+9	weird	weird	_	JJ	_	12	NMOD	147092	_
+10	looking	look	_	VBG	_	9	AMOD	_	_
+11	green	green	_	NN	_	12	NMOD	147086	_
+12	mask	mask	_	NN	_	7	PMOD	147086	_
+13	.	.	_	.	_	0	ROOT	_	_

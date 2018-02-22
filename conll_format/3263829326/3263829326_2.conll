@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	105480	_
+2	band	band	_	NN	_	6	SBJ	105480	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	many	many	_	DT	_	5	NMOD	105484	_
+5	members	member	_	NNS	_	3	PMOD	105484	_
+6	stands	stand	_	VBZ	_	0	ROOT	_	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	performs	perform	_	VBZ	_	7	CONJ	_	_
+9	on	on	_	IN	_	6	ADV	_	_
+10	stage	stage	_	NN	_	9	PMOD	105481	_
+11	under	under	_	IN	_	6	LOC	_	8
+12	colored	color	_	VBN	_	13	NMOD	105483	_
+13	lights	light	_	NNS	_	11	PMOD	105483	_
+14	.	.	_	.	_	6	P	_	_

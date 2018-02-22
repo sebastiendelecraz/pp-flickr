@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	109199	_
+2	man	man	_	NN	_	7	SBJ	109199	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	109201	_
+5	blue	blue	_	JJ	_	6	NMOD	109201	_
+6	jacket	jacket	_	NN	_	3	PMOD	109201	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	climbing	climb	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	109200	_
+11	rock	rock	_	NN	_	9	PMOD	109200	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	109203	_
+14	woods	wood	_	NNS	_	12	PMOD	109203	_
+15	.	.	_	.	_	7	P	_	_

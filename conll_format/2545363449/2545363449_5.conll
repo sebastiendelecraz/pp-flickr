@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	57212	_
+2	girl	girl	_	NN	_	0	ROOT	57212	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	yellow	yellow	_	JJ	_	5	NMOD	57216	_
+5	dress	dress	_	NN	_	3	PMOD	57216	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	57213	_
+8	restaurant	restaurant	_	NN	_	6	PMOD	57213	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	110709	_
+2	man	man	_	NN	_	0	ROOT	110709	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	9	NMOD	110713	_
+5	white	white	_	JJ	_	9	NMOD	110713	_
+6	hat	hat	_	NN	_	9	NMOD	110713	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	backpack	backpack	_	NN	_	7	CONJ	110710	_
+9	stands	stand	_	NNS	_	3	PMOD	_	_
+10	on	on	_	IN	_	2	NMOD	_	_
+11	a	a	_	DT	_	12	NMOD	110712	_
+12	log	log	_	NN	_	10	PMOD	110712	_
+13	in the middle of	in the middle of	_	IN	_	2	NMOD	110711	9
+14	a	a	_	DT	_	15	NMOD	110711	_
+15	lake	lake	_	NN	_	13	PMOD	110711	_
+16	.	.	_	.	_	0	ROOT	_	_

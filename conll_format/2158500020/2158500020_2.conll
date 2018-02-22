@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	31640	_
+2	little	little	_	JJ	_	3	NMOD	31640	_
+3	girl	girl	_	NN	_	8	SBJ	31640	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	31642	_
+6	white	white	_	JJ	_	7	NMOD	31642	_
+7	shirt	shirt	_	NN	_	4	OBJ	31642	_
+8	puts	put	_	VBZ	_	0	ROOT	_	_
+9	her	her	_	PRP$	_	10	NMOD	31643	_
+10	hand	hand	_	NN	_	8	OBJ	31643	_
+11	into	into	_	IN	_	8	PUT	_	8
+12	the	the	_	DT	_	13	NMOD	31641	_
+13	water	water	_	NN	_	11	PMOD	31641	_
+14	of	of	_	IN	_	13	NMOD	31641	_
+15	a	a	_	DT	_	16	NMOD	31641	_
+16	fountain	fountain	_	NN	_	14	PMOD	31641	_
+17	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,17 @@
+1	People	People	_	NNPS	_	2	SBJ	218432	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	standing	stand	_	VBG	_	2	VC	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	0	_
+6	distance	distance	_	NN	_	4	PMOD	0	_
+7	on	on	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	218433	_
+9	bridge	bridge	_	NN	_	7	PMOD	218433	_
+10	that	that	_	WDT	_	11	SBJ	0	_
+11	passes	pass	_	VBZ	_	9	NMOD	_	_
+12	over	over	_	IN	_	11	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	218434	_
+14	pool	pool	_	NN	_	12	PMOD	218434	_
+15	of	of	_	IN	_	14	NMOD	218434	_
+16	water	water	_	NN	_	15	PMOD	218434	_
+17	.	.	_	.	_	2	P	_	_

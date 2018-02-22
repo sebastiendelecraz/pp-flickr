@@ -1,0 +1,13 @@
+1	One	One	_	CD	_	3	NMOD	233877	_
+2	shirtless	shirtless	_	JJ	_	3	NMOD	233877	_
+3	kid	kid	_	NN	_	0	ROOT	233877	_
+4	holding	hold	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	233879	_
+6	bird	bird	_	NN	_	4	OBJ	233879	_
+7	with	with	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	233880	_
+9	forest	forest	_	NN	_	7	PMOD	233880	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	background	background	_	NN	_	10	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

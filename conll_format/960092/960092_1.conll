@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	284261	_
+2	crowd	crowd	_	NN	_	0	ROOT	284261	_
+3	of	of	_	IN	_	2	NMOD	284261	_
+4	people	people	_	NN	_	5	NMOD	284261	_
+5	stands	stand	_	NNS	_	3	PMOD	_	_
+6	around	around	_	IN	_	2	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	284265	_
+8	game	game	_	NN	_	9	NMOD	284265	_
+9	booth	booth	_	NN	_	6	PMOD	284265	_
+10	at	at	_	IN	_	2	LOC	_	_
+11	some	some	_	DT	_	12	NMOD	284266	_
+12	kind	kind	_	NN	_	10	PMOD	284266	_
+13	of	of	_	IN	_	12	NMOD	284266	_
+14	fair	fair	_	JJ	_	13	PMOD	284266	_
+15	.	.	_	.	_	0	ROOT	_	_

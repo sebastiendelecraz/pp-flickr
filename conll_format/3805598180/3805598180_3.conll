@@ -1,0 +1,11 @@
+1	a	a	_	DT	_	2	NMOD	143346	_
+2	Group	Group	_	NNP	_	3	NAME	143346	_
+3	of	of	_	IN	_	6	SBJ	143346	_
+4	male	male	_	JJ	_	5	NMOD	143346	_
+5	friends	friend	_	NNS	_	3	PMOD	143346	_
+6	get	get	_	VBP	_	0	ROOT	_	_
+7	together	together	_	RB	_	6	ADV	_	_
+8	for	for	_	IN	_	6	ADV	_	6
+9	a	a	_	DT	_	10	NMOD	143347	_
+10	drink	drink	_	NN	_	8	PMOD	143347	_
+11	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	0	ROOT	83256	_
+2	crossing	cross	_	VBG	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	83258	_
+4	bridge	bridge	_	NN	_	2	OBJ	83258	_
+5	over	over	_	IN	_	2	ADV	_	2
+6	a	a	_	DT	_	7	NMOD	83257	_
+7	body	body	_	NN	_	5	PMOD	83257	_
+8	of	of	_	IN	_	7	NMOD	83257	_
+9	water	water	_	NN	_	8	PMOD	83257	_
+10	at	at	_	IN	_	2	ADV	_	_
+11	sunset	sunset	_	JJ	_	10	PMOD	83255	_
+12	.	.	_	.	_	0	ROOT	_	_

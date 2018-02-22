@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	278937	_
+2	man	man	_	NN	_	7	SBJ	278937	_
+3	in	in	_	IN	_	7	LOC	_	_
+4	black	black	_	JJ	_	3	PMOD	278946	_
+5	on	on	_	IN	_	7	ADV	_	_
+6	skis	ski	_	NNS	_	5	PMOD	278941	_
+7	performs	perform	_	VBZ	_	0	ROOT	_	_
+8	tricks	trick	_	NNS	_	7	OBJ	0	_
+9	in front of	in front of	_	IN	_	7	ADV	_	7
+10	a	a	_	DT	_	11	NMOD	278938	_
+11	crowd	crowd	_	NN	_	9	PMOD	278938	_
+12	.	.	_	.	_	7	P	_	_

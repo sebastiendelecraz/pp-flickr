@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	97170	_
+2	man	man	_	NN	_	8	SBJ	97170	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	97172	_
+5	striped	stripe	_	VBN	_	7	NMOD	97172	_
+6	blue	blue	_	JJ	_	7	NMOD	97172	_
+7	shirt	shirt	_	NN	_	3	PMOD	97172	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	playing	play	_	VBG	_	8	VC	_	_
+10	with	with	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	97171	_
+12	little	little	_	JJ	_	13	NMOD	97171	_
+13	boy	boy	_	NN	_	10	PMOD	97171	_
+14	next to	next to	_	IN	_	9	LOC	_	9
+15	his	his	_	PRP$	_	16	NMOD	97174	_
+16	crib	crib	_	NN	_	14	PMOD	97174	_
+17	.	.	_	.	_	8	P	_	_

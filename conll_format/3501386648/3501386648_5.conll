@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	123132	_
+2	forest	forest	_	NN	_	3	NMOD	123132	_
+3	guide	guide	_	NN	_	4	SBJ	123132	_
+4	points	point	_	VBZ	_	0	ROOT	_	_
+5	something	something	_	NN	_	4	OBJ	123136	_
+6	up to	up to	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	123134	_
+8	group	group	_	NN	_	6	PMOD	123134	_
+9	of	of	_	IN	_	8	NMOD	123134	_
+10	visitors	visitor	_	NNS	_	9	PMOD	123134	_
+11	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	5	NMOD	149726	_
+2	bearded	beard	_	VBN	_	5	NMOD	149726	_
+3	twenty	twenty	_	CD	_	5	NMOD	149726	_
+4	something	something	_	NN	_	5	NMOD	149726	_
+5	man	man	_	NN	_	6	SBJ	149726	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	sitting	sit	_	VBG	_	6	VC	_	_
+8	at the bottom of	at the bottom of	_	IN	_	7	ADV	149728	7
+9	a	a	_	DT	_	11	NMOD	149728	_
+10	dry	dry	_	JJ	_	11	NMOD	149728	_
+11	pool	pool	_	NN	_	8	PMOD	149728	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	his	his	_	PRP$	_	14	NMOD	149727	_
+14	skateboard	skateboard	_	NN	_	12	PMOD	149727	_
+15	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,15 @@
+1	Several	several	_	DT	_	2	NMOD	39863	_
+2	men	man	_	NNS	_	3	SBJ	39863	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	inside	inside	_	IN	_	3	LOC-PRD	_	3
+5	a	a	_	DT	_	6	NMOD	39861	_
+6	store	store	_	NN	_	4	PMOD	39861	_
+7	among	among	_	IN	_	6	LOC	_	3
+8	stocked	stock	_	VBN	_	9	NMOD	39874	_
+9	shelves	shelf	_	NNS	_	7	PMOD	39874	_
+10	and	and	_	CC	_	6	COORD	_	_
+11	many	many	_	DT	_	12	NMOD	39872	_
+12	bags	bag	_	NNS	_	10	CONJ	39872	_
+13	of	of	_	IN	_	12	NMOD	39872	_
+14	grains	grain	_	NNS	_	13	PMOD	39872	_
+15	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	Group	Group	_	NNP	_	7	SBJ	87431	_
+2	of	of	_	IN	_	1	NMOD	87431	_
+3	men	man	_	NNS	_	2	PMOD	87431	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	blue	blue	_	JJ	_	6	NMOD	87433	_
+6	uniform	uniform	_	NN	_	4	PMOD	87433	_
+7	are	be	_	VBP	_	0	ROOT	_	_
+8	emptying	empty	_	VBG	_	7	VC	_	_
+9	supplies	supply	_	NNS	_	8	OBJ	87435	_
+10	off	off	_	IN	_	8	ADV	_	8
+11	the	the	_	DT	_	13	NMOD	87436	_
+12	cargo	cargo	_	NN	_	13	NMOD	87436	_
+13	plane	plane	_	NN	_	10	PMOD	87436	_
+14	.	.	_	.	_	7	P	_	_

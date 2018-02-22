@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	3	NMOD	70412	_
+2	young	young	_	JJ	_	3	NMOD	70412	_
+3	girls	girl	_	NNS	_	13	SBJ	70412	_
+4	,	,	_	,	_	13	P	_	_
+5	wearing	wear	_	VBG	_	13	ADV	_	_
+6	white	white	_	JJ	_	7	NMOD	70415	_
+7	dresses	dress	_	NNS	_	5	OBJ	70415	_
+8	,	,	_	,	_	13	P	_	_
+9	with	with	_	IN	_	13	ADV	_	_
+10	black	black	_	JJ	_	11	NMOD	70417	_
+11	designs	design	_	NNS	_	9	PMOD	70417	_
+12	,	,	_	,	_	13	P	_	_
+13	stand	stand	_	VBP	_	0	ROOT	_	_
+14	behind	behind	_	IN	_	13	LOC	_	13
+15	a	a	_	DT	_	16	NMOD	70413	_
+16	fence	fence	_	NN	_	14	PMOD	70413	_
+17	.	.	_	.	_	13	P	_	_

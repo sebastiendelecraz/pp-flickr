@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	8811	_
+2	man	man	_	NN	_	3	SBJ	8811	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	reading	read	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	8814	_
+6	book	book	_	NN	_	4	OBJ	8814	_
+7	while	while	_	IN	_	4	ADV	_	_
+8	sitting	sit	_	VBG	_	7	SUB	_	_
+9	on	on	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	8812	_
+11	bench	bench	_	NN	_	9	PMOD	8812	_
+12	outside of	outside of	_	IN	_	8	TMP	_	8
+13	a	a	_	DT	_	14	NMOD	8813	_
+14	bookstore	bookstore	_	NN	_	12	PMOD	8813	_
+15	.	.	_	.	_	3	P	_	_

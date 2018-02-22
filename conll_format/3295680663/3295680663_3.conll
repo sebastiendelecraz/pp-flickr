@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	107607	_
+2	person	person	_	NN	_	6	SBJ	107607	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	107608	_
+5	bicycle	bicycle	_	NN	_	3	PMOD	107608	_
+6	moving	move	_	VBG	_	0	ROOT	_	_
+7	across	across	_	IN	_	6	DIR	_	6
+8	the	the	_	DT	_	9	NMOD	107609	_
+9	top	top	_	NN	_	7	PMOD	107609	_
+10	of	of	_	IN	_	9	NMOD	107609	_
+11	a	a	_	DT	_	12	NMOD	107609	_
+12	train	train	_	NN	_	10	PMOD	107609	_
+13	.	.	_	.	_	0	ROOT	_	_

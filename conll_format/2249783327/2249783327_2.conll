@@ -1,0 +1,17 @@
+1	People	People	_	NNPS	_	2	SBJ	36773	_
+2	sit	sit	_	VBP	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	36775	_
+4	table	table	_	NN	_	2	OBJ	36775	_
+5	with	with	_	IN	_	4	NMOD	_	_
+6	tea	tea	_	NN	_	7	NMOD	36776	_
+7	cups	cup	_	NNS	_	5	PMOD	36776	_
+8	in	in	_	IN	_	2	LOC	_	2
+9	a	a	_	DT	_	11	NMOD	36774	_
+10	crowded	crowded	_	JJ	_	11	NMOD	36774	_
+11	room	room	_	NN	_	8	PMOD	36774	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	frames	frame	_	NNS	_	12	PMOD	36781	_
+14	on	on	_	IN	_	11	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	36783	_
+16	walls	wall	_	NNS	_	14	PMOD	36783	_
+17	.	.	_	.	_	2	P	_	_

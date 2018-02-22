@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	3	NMOD	87156	_
+2	closeup	closeup	_	NN	_	3	NMOD	87156	_
+3	photo	photo	_	NN	_	0	ROOT	87156	_
+4	of	of	_	IN	_	3	NMOD	87156	_
+5	a	a	_	DT	_	7	NMOD	87156	_
+6	small	small	_	JJ	_	7	NMOD	87156	_
+7	dog	dog	_	NN	_	4	PMOD	87156	_
+8	with	with	_	IN	_	7	NMOD	_	7
+9	a	a	_	DT	_	11	NMOD	87157	_
+10	holey	holey	_	JJ	_	11	NMOD	87157	_
+11	ball	ball	_	NN	_	8	PMOD	87157	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	his	his	_	PRP$	_	14	NMOD	87158	_
+14	mouth	mouth	_	NN	_	12	PMOD	87158	_
+15	.	.	_	.	_	0	ROOT	_	_

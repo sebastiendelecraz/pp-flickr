@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	2198	_
+2	young	young	_	JJ	_	3	NMOD	2198	_
+3	man	man	_	NN	_	0	ROOT	2198	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	a	a	_	DT	_	7	NMOD	2204	_
+6	toddler	toddler	_	NN	_	7	NMOD	2204	_
+7	look	look	_	NN	_	4	CONJ	_	_
+8	under	under	_	IN	_	3	LOC	_	7
+9	the	the	_	DT	_	10	NMOD	2210	_
+10	hood	hood	_	NN	_	8	PMOD	2210	_
+11	of	of	_	IN	_	10	NMOD	2210	_
+12	an	an	_	DT	_	14	NMOD	2210	_
+13	old-fashioned	old-fashioned	_	JJ	_	14	NMOD	2210	_
+14	truck	truck	_	NN	_	11	PMOD	2210	_
+15	.	.	_	.	_	0	ROOT	_	_

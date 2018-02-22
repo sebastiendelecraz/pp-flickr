@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	50156	_
+2	men	man	_	NNS	_	0	ROOT	50156	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	angel	angel	_	NN	_	5	NMOD	50159	_
+5	costumes	costume	_	NNS	_	3	PMOD	50159	_
+6	jumping	jump	_	VBG	_	5	APPO	_	_
+7	next to	next to	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	50155	_
+9	woman	woman	_	NN	_	7	PMOD	50155	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	crutches	crutch	_	NNS	_	10	PMOD	50161	_
+12	.	.	_	.	_	0	ROOT	_	_

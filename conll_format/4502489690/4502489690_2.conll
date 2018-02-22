@@ -1,0 +1,14 @@
+1	People	People	_	NNPS	_	2	SBJ	173528	_
+2	wait	wait	_	VBP	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	6	NMOD	173531	_
+5	train	train	_	NN	_	6	NMOD	173531	_
+6	platform	platform	_	NN	_	3	PMOD	173531	_
+7	at	at	_	IN	_	6	LOC	_	2
+8	Washington	Washington	_	NNP	_	7	PMOD	173529	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	Wells	Wells	_	NNP	_	9	CONJ	173535	_
+11	in	in	_	IN	_	6	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	173530	_
+13	city	city	_	NN	_	11	PMOD	173530	_
+14	.	.	_	.	_	2	P	_	_

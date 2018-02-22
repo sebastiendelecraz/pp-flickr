@@ -1,0 +1,12 @@
+1	Sailing	sail	_	VBG	_	2	NMOD	270244	_
+2	teams	team	_	NNS	_	3	SBJ	270244	_
+3	come	come	_	VBP	_	0	ROOT	_	_
+4	to	to	_	TO	_	3	DIR	_	_
+5	the	the	_	DT	_	6	NMOD	270240	_
+6	rescue	rescue	_	NN	_	4	PMOD	270240	_
+7	of	of	_	IN	_	6	NMOD	270240	6
+8	a	a	_	DT	_	9	NMOD	270240	_
+9	boat	boat	_	NN	_	7	PMOD	270240	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	need	need	_	NN	_	10	PMOD	270239	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	59623	_
+2	man	man	_	NN	_	6	SBJ	59623	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	striped	stripe	_	VBN	_	5	NMOD	59626	_
+5	pants	pant	_	NNS	_	3	PMOD	59626	_
+6	plays	play	_	VBZ	_	0	ROOT	_	_
+7	with	with	_	IN	_	6	ADV	_	_
+8	water	water	_	NN	_	7	PMOD	59632	_
+9	in front of	in front of	_	IN	_	6	ADV	_	6
+10	a	a	_	DT	_	11	NMOD	59627	_
+11	crowd	crowd	_	NN	_	9	PMOD	59627	_
+12	.	.	_	.	_	6	P	_	_

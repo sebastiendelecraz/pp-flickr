@@ -1,0 +1,23 @@
+1	An	an	_	DT	_	3	NMOD	21336	_
+2	older	old	_	JJR	_	3	NMOD	21336	_
+3	man	man	_	NN	_	7	SBJ	21336	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	21342	_
+6	beard	beard	_	NN	_	4	PMOD	21342	_
+7	uses	use	_	VBZ	_	0	ROOT	_	_
+8	a	a	_	DT	_	10	NMOD	21340	_
+9	hay	hay	_	NN	_	10	NMOD	21340	_
+10	broom	broom	_	NN	_	7	OBJ	21340	_
+11	to	to	_	TO	_	10	NMOD	_	_
+12	sweep	sweep	_	VB	_	11	IM	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	ground	ground	_	NN	_	12	OBJ	0	_
+15	in front of	in front of	_	IN	_	12	ADV	_	_
+16	cubed	cube	_	VBN	_	18	NMOD	21339	_
+17	cardboard	cardboard	_	JJ	_	18	NMOD	21339	_
+18	trash	trash	_	NN	_	15	PMOD	21339	_
+19	in	in	_	IN	_	18	LOC	_	_
+20	a	a	_	DT	_	22	NMOD	21337	_
+21	parking	parking	_	NN	_	22	NMOD	21337	_
+22	lot	lot	_	NN	_	19	PMOD	21337	_
+23	.	.	_	.	_	7	P	_	_

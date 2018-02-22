@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	136227	_
+2	man	man	_	NN	_	0	ROOT	136227	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	136229	_
+5	brown	brown	_	JJ	_	6	NMOD	136229	_
+6	shirts	shirt	_	NNS	_	3	PMOD	136229	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	underneath	underneath	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	10	NMOD	136233	_
+10	sign	sign	_	NN	_	8	PMOD	136233	_
+11	for	for	_	IN	_	10	NMOD	_	10
+12	a	a	_	DT	_	14	NMOD	136226	_
+13	clothing	clothing	_	NN	_	14	NMOD	136226	_
+14	store	store	_	NN	_	11	PMOD	136226	_
+15	.	.	_	.	_	0	ROOT	_	_

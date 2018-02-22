@@ -1,0 +1,34 @@
+1	A	a	_	DT	_	2	NMOD	252422	_
+2	man	man	_	NN	_	6	SBJ	252422	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	blue	blue	_	JJ	_	4	PMOD	252425	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	performing	perform	_	VBG	_	6	VC	_	_
+8	some	some	_	DT	_	10	NMOD	252427	_
+9	yard	yard	_	NN	_	10	NMOD	252427	_
+10	work	work	_	NN	_	7	OBJ	252427	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	what	what	_	WP	_	13	SBJ	0	_
+13	appears	appear	_	VBZ	_	11	PMOD	_	_
+14	to	to	_	TO	_	13	OPRD	_	_
+15	be	be	_	VB	_	14	IM	_	_
+16	a	a	_	DT	_	17	NMOD	252429	_
+17	broom	broom	_	NN	_	15	PRD	252429	_
+18	or	or	_	CC	_	17	COORD	252429	_
+19	rake	rake	_	NN	_	18	CONJ	252429	_
+20	on	on	_	IN	_	17	NMOD	_	_
+21	the	the	_	DT	_	22	NMOD	252428	_
+22	steps	step	_	NNS	_	20	PMOD	252428	_
+23	leading	lead	_	VBG	_	22	APPO	_	_
+24	up to	up to	_	IN	_	23	ADV	_	23
+25	a	a	_	DT	_	26	NMOD	252423	_
+26	house	house	_	NN	_	24	PMOD	252423	_
+27	next to	next to	_	IN	_	22	NMOD	_	26
+28	a	a	_	DT	_	29	NMOD	252430	_
+29	street	street	_	NN	_	27	PMOD	252430	_
+30	on	on	_	IN	_	22	NMOD	_	_
+31	a	a	_	DT	_	33	NMOD	252424	_
+32	sunny	sunny	_	JJ	_	33	NMOD	252424	_
+33	day	day	_	NN	_	30	PMOD	252424	_
+34	.	.	_	.	_	6	P	_	_

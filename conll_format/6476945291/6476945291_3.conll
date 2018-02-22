@@ -1,0 +1,12 @@
+1	Players	player	_	NNS	_	0	ROOT	254804	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	a	a	_	DT	_	4	NMOD	254808	_
+4	game	game	_	NN	_	2	PMOD	254808	_
+5	of	of	_	IN	_	4	NMOD	254808	_
+6	football	football	_	NN	_	7	NMOD	254808	_
+7	struggle	struggle	_	NN	_	5	PMOD	_	_
+8	together	together	_	RB	_	9	PMOD	_	_
+9	over	over	_	IN	_	1	TMP	_	7
+10	the	the	_	DT	_	11	NMOD	254812	_
+11	ball	ball	_	NN	_	9	PMOD	254812	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	Ladies	Lady	_	NNPS	_	2	SBJ	216219	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	up	up	_	RP	_	2	PRT	_	_
+4	on	on	_	IN	_	2	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	216227	_
+6	side	side	_	NN	_	4	PMOD	216227	_
+7	of	of	_	IN	_	6	NMOD	216227	6
+8	a	a	_	DT	_	9	NMOD	216227	_
+9	board	board	_	NN	_	7	PMOD	216227	_
+10	for	for	_	IN	_	6	NMOD	_	9
+11	the	the	_	DT	_	14	NMOD	216223	_
+12	Tuscany	Tuscany	_	NNP	_	14	NAME	216223	_
+13	Sun	Sun	_	NNP	_	14	NAME	216223	_
+14	Festival	Festival	_	NNP	_	10	PMOD	216223	_
+15	.	.	_	.	_	0	ROOT	_	_

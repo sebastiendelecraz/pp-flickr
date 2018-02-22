@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	127874	_
+2	young	young	_	JJ	_	3	NMOD	127874	_
+3	woman	woman	_	NN	_	0	ROOT	127874	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	127876	_
+6	black	black	_	JJ	_	8	NMOD	127876	_
+7	tank-top	tank-top	_	CD	_	8	NMOD	127876	_
+8	directs	direct	_	NNS	_	4	PMOD	_	_
+9	her	her	_	PRP$	_	10	NMOD	127873	_
+10	friends	friend	_	NNS	_	8	ADV	127873	_
+11	on	on	_	IN	_	3	NMOD	_	_
+12	a	a	_	DT	_	14	NMOD	127875	_
+13	sports	sport	_	NNS	_	14	NMOD	127875	_
+14	field	field	_	NN	_	11	PMOD	127875	_
+15	.	.	_	.	_	0	ROOT	_	_

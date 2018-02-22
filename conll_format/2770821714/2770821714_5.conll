@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	71802	_
+2	boy	boy	_	NN	_	7	SBJ	71802	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	two	two	_	CD	_	6	NMOD	71798	_
+5	young	young	_	JJ	_	6	NMOD	71798	_
+6	men	man	_	NNS	_	3	CONJ	71798	_
+7	pose	pose	_	VBP	_	0	ROOT	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	71809	_
+10	photo	photo	_	NN	_	8	PMOD	71809	_
+11	on	on	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	14	NMOD	71803	_
+13	rocky	rocky	_	JJ	_	14	NMOD	71803	_
+14	outcropping	outcropping	_	NN	_	11	PMOD	71803	_
+15	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,15 @@
+1	Police	Police	_	NNP	_	5	SBJ	183079	_
+2	in	in	_	IN	_	5	TMP	_	_
+3	flack	flack	_	NN	_	4	NMOD	183085	_
+4	suits	suit	_	NNS	_	2	PMOD	183085	_
+5	stand	stand	_	VBP	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	183079	_
+8	crowd	crowd	_	NN	_	6	PMOD	183079	_
+9	of	of	_	IN	_	8	NMOD	183079	_
+10	people	people	_	NN	_	9	PMOD	183079	_
+11	mostly	mostly	_	RB	_	12	ADV	_	_
+12	dressed	dress	_	VBN	_	10	APPO	_	_
+13	in	in	_	IN	_	12	ADV	_	_
+14	red	red	_	JJ	_	13	PMOD	183082	_
+15	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	231942	_
+2	man	man	_	NN	_	0	ROOT	231942	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	231946	_
+5	black	black	_	JJ	_	7	NMOD	231946	_
+6	t-shirt	t-shirt	_	NN	_	7	NMOD	231946	_
+7	jogging	jogging	_	NN	_	3	PMOD	_	_
+8	on	on	_	IN	_	2	NMOD	_	_
+9	the	the	_	DT	_	10	NMOD	231943	_
+10	treadmill	treadmill	_	NN	_	8	PMOD	231943	_
+11	while	while	_	IN	_	2	TMP	_	_
+12	listening	listen	_	VBG	_	11	SUB	_	_
+13	to	to	_	TO	_	12	DIR	_	_
+14	music	music	_	NN	_	13	PMOD	231944	_
+15	.	.	_	.	_	0	ROOT	_	_

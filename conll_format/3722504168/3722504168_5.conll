@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	139621	_
+2	men	man	_	NNS	_	0	ROOT	139621	_
+3	under	under	_	IN	_	2	LOC	_	2
+4	the	the	_	DT	_	5	NMOD	139623	_
+5	body	body	_	NN	_	3	PMOD	139623	_
+6	of	of	_	IN	_	5	NMOD	139623	_
+7	a	a	_	DT	_	9	NMOD	139623	_
+8	drag	drag	_	NN	_	9	NMOD	139623	_
+9	car	car	_	NN	_	6	PMOD	139623	_
+10	.	.	_	.	_	0	ROOT	_	_

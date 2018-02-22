@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	22984	_
+2	man	man	_	NN	_	7	SBJ	22984	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	22987	_
+5	little	little	_	JJ	_	6	NMOD	22987	_
+6	girl	girl	_	NN	_	3	CONJ	22987	_
+7	are	be	_	VBP	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	22986	_
+11	sidewalk	sidewalk	_	NN	_	9	PMOD	22986	_
+12	near	near	_	IN	_	11	LOC	_	8
+13	a	a	_	DT	_	15	NMOD	22989	_
+14	blue	blue	_	JJ	_	15	NMOD	22989	_
+15	bag	bag	_	NN	_	12	PMOD	22989	_
+16	eating	eat	_	VBG	_	15	APPO	_	_
+17	.	.	_	.	_	7	P	_	_

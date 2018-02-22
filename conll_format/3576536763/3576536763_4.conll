@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	128868	_
+2	girl	girl	_	NN	_	0	ROOT	128868	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	pink	pink	_	NN	_	6	NMOD	128870	_
+6	runs	run	_	NNS	_	4	PMOD	_	_
+7	from	from	_	IN	_	3	ADV	_	6
+8	the	the	_	DT	_	9	NMOD	128872	_
+9	ocean	ocean	_	NN	_	7	PMOD	128872	_
+10	to	to	_	TO	_	9	NMOD	_	_
+11	the	the	_	DT	_	12	NMOD	128869	_
+12	beach	beach	_	NN	_	10	PMOD	128869	_
+13	.	.	_	.	_	0	ROOT	_	_

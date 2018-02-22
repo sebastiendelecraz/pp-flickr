@@ -1,0 +1,10 @@
+1	Walkers	walker	_	NNS	_	0	ROOT	280776	_
+2	on	on	_	IN	_	1	NMOD	_	_
+3	a	a	_	DT	_	5	NMOD	280780	_
+4	concrete	concrete	_	JJ	_	5	NMOD	280780	_
+5	boardwalk	boardwalk	_	NN	_	2	PMOD	280780	_
+6	under	under	_	IN	_	1	LOC	_	1
+7	a	a	_	DT	_	9	NMOD	280779	_
+8	blue	blue	_	JJ	_	9	NMOD	280779	_
+9	sky	sky	_	NN	_	6	PMOD	280779	_
+10	.	.	_	.	_	0	ROOT	_	_

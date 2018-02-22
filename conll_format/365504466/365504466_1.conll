@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	134495	_
+2	young	young	_	JJ	_	3	NMOD	134495	_
+3	boy	boy	_	NN	_	4	SBJ	134495	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	standing	stand	_	VBG	_	4	VC	_	_
+6	in front of	in front of	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	134497	_
+8	tractor	tractor	_	NN	_	6	PMOD	134497	_
+9	as	as	_	IN	_	5	ADV	_	_
+10	it	it	_	PRP	_	11	SBJ	0	_
+11	is	be	_	VBZ	_	9	SUB	_	_
+12	pouring	pour	_	VBG	_	11	VC	_	_
+13	something	something	_	NN	_	12	OBJ	134500	_
+14	into	into	_	IN	_	12	DIR	_	12
+15	the	the	_	DT	_	16	NMOD	134498	_
+16	back	back	_	NN	_	14	PMOD	134498	_
+17	of	of	_	IN	_	16	NMOD	134498	_
+18	a	a	_	DT	_	19	NMOD	134498	_
+19	truck	truck	_	NN	_	17	PMOD	134498	_
+20	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,14 @@
+1	Large	large	_	JJ	_	3	NMOD	221032	_
+2	bridge-like	bridge-like	_	CD	_	3	NMOD	221032	_
+3	structure	structure	_	NN	_	4	SBJ	221032	_
+4	built	build	_	VBD	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	221025	_
+7	road	road	_	NN	_	5	PMOD	221025	_
+8	between	between	_	IN	_	7	NMOD	_	3
+9	tall	tall	_	JJ	_	10	NMOD	221031	_
+10	buildings	building	_	NNS	_	8	PMOD	221031	_
+11	within	within	_	IN	_	7	LOC	_	3
+12	the	the	_	DT	_	13	NMOD	221028	_
+13	city	city	_	NN	_	11	PMOD	221028	_
+14	.	.	_	.	_	4	P	_	_

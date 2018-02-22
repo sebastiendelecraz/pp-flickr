@@ -1,0 +1,12 @@
+1	Crowd	Crowd	_	NNP	_	0	ROOT	61208	_
+2	of	of	_	IN	_	1	NMOD	61208	_
+3	people	people	_	NN	_	2	PMOD	61208	_
+4	in	in	_	IN	_	3	LOC	_	1
+5	Race	Race	_	NNP	_	4	PMOD	61209	_
+6	for	for	_	IN	_	0	ROOT	_	_
+7	a	a	_	DT	_	8	NMOD	61210	_
+8	Cure	Cure	_	NNP	_	6	PMOD	61210	_
+9	in	in	_	IN	_	0	ROOT	_	_
+10	urban	urban	_	JJ	_	11	NMOD	61211	_
+11	setting	setting	_	NN	_	9	PMOD	61211	_
+12	.	.	_	.	_	0	ROOT	_	_

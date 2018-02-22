@@ -1,0 +1,24 @@
+1	two	two	_	CD	_	2	NMOD	10806	_
+2	men	man	_	NNS	_	6	SBJ	10806	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	hi-viz	hi-viz	_	CD	_	5	NMOD	10807	_
+5	jackets	jacket	_	NNS	_	3	PMOD	10807	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	talking	talk	_	VBG	_	6	VC	_	_
+8	to	to	_	TO	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	10808	_
+10	man	man	_	NN	_	8	PMOD	10808	_
+11	in	in	_	IN	_	7	ADV	_	_
+12	suit	suit	_	NN	_	11	PMOD	10809	_
+13	next to	next to	_	IN	_	7	ADV	_	7
+14	the	the	_	DT	_	17	NMOD	10810	_
+15	Penzance	Penzance	_	NNP	_	17	NMOD	10810	_
+16	welcome	welcome	_	JJ	_	17	NMOD	10810	_
+17	sign	sign	_	NN	_	13	PMOD	10810	_
+18	that	that	_	WDT	_	19	SBJ	0	_
+19	is	be	_	VBZ	_	17	NMOD	_	_
+20	carved	carve	_	VBN	_	19	VC	_	_
+21	into	into	_	IN	_	20	ADV	_	20
+22	a	a	_	DT	_	23	NMOD	10811	_
+23	rock	rock	_	NN	_	21	PMOD	10811	_
+24	.	.	_	.	_	6	P	_	_

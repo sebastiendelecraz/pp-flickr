@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	275185	_
+2	BMX	BMX	_	NNP	_	3	NMOD	275185	_
+3	rider	rider	_	NN	_	0	ROOT	275185	_
+4	in the middle of	in the middle of	_	IN	_	0	ROOT	0	_
+5	a	a	_	DT	_	6	NMOD	0	_
+6	jump	jump	_	NN	_	4	PMOD	0	_
+7	as	as	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	9	NMOD	275187	_
+9	crowd	crowd	_	NN	_	7	PMOD	275187	_
+10	below	below	_	IN	_	9	NMOD	_	11
+11	watches	watch	_	NNS	_	10	PMOD	275193	_
+12	.	.	_	.	_	0	ROOT	_	_

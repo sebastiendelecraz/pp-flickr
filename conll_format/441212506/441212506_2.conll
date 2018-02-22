@@ -1,0 +1,14 @@
+1	The	the	_	DT	_	3	NMOD	166832	_
+2	black	black	_	JJ	_	3	NMOD	166832	_
+3	dog	dog	_	NN	_	4	SBJ	166832	_
+4	runs	run	_	VBZ	_	0	ROOT	_	_
+5	with	with	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	166835	_
+7	ball	ball	_	NN	_	5	PMOD	166835	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	two	two	_	CD	_	11	NMOD	166834	_
+10	smaller	small	_	JJR	_	11	NMOD	166834	_
+11	dogs	dog	_	NNS	_	8	PMOD	166834	_
+12	behind	behind	_	IN	_	11	LOC	_	_
+13	it	it	_	PRP	_	12	PMOD	0	_
+14	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	3	NMOD	106140	_
+2	redheaded	redheaded	_	JJ	_	3	NMOD	106140	_
+3	woman	woman	_	NN	_	0	ROOT	106140	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	106141	_
+6	baby	baby	_	NN	_	4	PMOD	106141	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	106146	_
+9	harness	harness	_	NN	_	7	PMOD	106146	_
+10	.	.	_	.	_	0	ROOT	_	_

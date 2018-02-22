@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	30919	_
+2	woman	woman	_	NN	_	6	SBJ	30919	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	30918	_
+5	child	child	_	NN	_	3	CONJ	30918	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	30920	_
+10	chalkboard	chalkboard	_	NN	_	8	PMOD	30920	_
+11	on	on	_	IN	_	7	LOC	_	_
+12	an	an	_	DT	_	13	NMOD	30920	_
+13	easel	easel	_	NN	_	11	PMOD	30920	_
+14	.	.	_	.	_	6	P	_	_

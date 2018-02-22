@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	6	NMOD	182657	_
+2	young	young	_	JJ	_	6	NMOD	182657	_
+3	boy	boy	_	NN	_	6	NMOD	182657	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	girl	girl	_	NN	_	4	CONJ	182663	_
+6	play	play	_	NN	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	182659	_
+9	flooded	flood	_	VBN	_	10	NMOD	182659	_
+10	street	street	_	NN	_	7	PMOD	182659	_
+11	in front of	in front of	_	IN	_	6	NMOD	_	6
+12	a	a	_	DT	_	14	NMOD	182664	_
+13	green	green	_	JJ	_	14	NMOD	182664	_
+14	house	house	_	NN	_	11	PMOD	182664	_
+15	.	.	_	.	_	0	ROOT	_	_

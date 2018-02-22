@@ -1,0 +1,10 @@
+1	a	a	_	DT	_	2	NMOD	196528	_
+2	cyclist	cyclist	_	NN	_	0	ROOT	196528	_
+3	riding	ride	_	VBG	_	2	APPO	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	no	no	_	DT	_	6	NMOD	196537	_
+6	hands	hand	_	NNS	_	4	PMOD	196537	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	196534	_
+9	race	race	_	NN	_	7	PMOD	196534	_
+10	.	.	_	.	_	0	ROOT	_	_

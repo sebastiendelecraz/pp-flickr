@@ -1,0 +1,12 @@
+1	Couple	Couple	_	NNP	_	2	SBJ	3304	_
+2	sits	sit	_	VBZ	_	0	ROOT	_	_
+3	next to	next to	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	3306	_
+5	body	body	_	NN	_	3	PMOD	3306	_
+6	of	of	_	IN	_	5	NMOD	3306	_
+7	water	water	_	NN	_	6	PMOD	3306	_
+8	under	under	_	IN	_	2	LOC	_	2
+9	a	a	_	DT	_	11	NMOD	3309	_
+10	clear	clear	_	JJ	_	11	NMOD	3309	_
+11	sky	sky	_	NN	_	8	PMOD	3309	_
+12	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	3	NMOD	253693	_
+2	construction	construction	_	NN	_	3	NMOD	253693	_
+3	crew	crew	_	NN	_	0	ROOT	253693	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	site	site	_	NN	_	4	PMOD	253695	_
+6	near	near	_	IN	_	5	LOC	_	3
+7	a	a	_	DT	_	9	NMOD	253697	_
+8	work	work	_	NN	_	9	NMOD	253697	_
+9	truck	truck	_	NN	_	6	PMOD	253697	_
+10	.	.	_	.	_	0	ROOT	_	_

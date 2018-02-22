@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	160055	_
+2	man	man	_	NN	_	7	SBJ	160055	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	160056	_
+5	black	black	_	JJ	_	6	NMOD	160056	_
+6	suit	suit	_	NN	_	3	PMOD	160056	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	dancing	dance	_	VBG	_	7	VC	_	_
+9	with	with	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	160059	_
+11	woman	woman	_	NN	_	9	PMOD	160059	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	160057	_
+14	floral	floral	_	JJ	_	15	NMOD	160057	_
+15	dress	dress	_	NN	_	12	PMOD	160057	_
+16	.	.	_	.	_	7	P	_	_

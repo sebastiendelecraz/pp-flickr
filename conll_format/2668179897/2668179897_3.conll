@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	65164	_
+2	man	man	_	NN	_	3	SBJ	65164	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	carving	carve	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	7	NMOD	65165	_
+6	large	large	_	JJ	_	7	NMOD	65165	_
+7	eagle	eagle	_	NN	_	4	OBJ	65165	_
+8	out of	out of	_	IN	_	4	ADV	_	4
+9	wood	wood	_	NN	_	8	PMOD	65166	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	65169	_
+12	public	public	_	JJ	_	13	NMOD	65169	_
+13	setting	setting	_	NN	_	10	PMOD	65169	_
+14	.	.	_	.	_	3	P	_	_

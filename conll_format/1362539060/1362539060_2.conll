@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	9982	_
+2	group	group	_	NN	_	0	ROOT	9982	_
+3	of	of	_	IN	_	2	NMOD	9982	_
+4	young	young	_	JJ	_	5	NMOD	9982	_
+5	people	people	_	NN	_	3	PMOD	9982	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	bright	bright	_	JJ	_	9	NMOD	9983	_
+8	clothing	clothing	_	NN	_	9	NMOD	9983	_
+9	stand	stand	_	NN	_	6	PMOD	_	_
+10	on	on	_	IN	_	5	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	9986	_
+12	steps	step	_	NNS	_	10	PMOD	9986	_
+13	of	of	_	IN	_	12	NMOD	9986	12
+14	a	a	_	DT	_	15	NMOD	9986	_
+15	building	building	_	NN	_	13	PMOD	9986	_
+16	.	.	_	.	_	0	ROOT	_	_

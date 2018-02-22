@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	75742	_
+2	men	man	_	NNS	_	3	SBJ	75742	_
+3	speak	speak	_	VBP	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	75743	_
+6	club	club	_	NN	_	4	PMOD	75743	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	green	green	_	JJ	_	9	NMOD	75754	_
+9	curtains	curtain	_	NNS	_	7	PMOD	75754	_
+10	.	.	_	.	_	3	P	_	_

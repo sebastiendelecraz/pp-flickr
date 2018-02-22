@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	219745	_
+2	man	man	_	NN	_	10	SBJ	219745	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	219750	_
+5	cowboy	cowboy	_	NN	_	6	NMOD	219750	_
+6	hat	hat	_	NN	_	3	PMOD	219750	_
+7	on	on	_	IN	_	2	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	219747	_
+9	horse	horse	_	NN	_	7	PMOD	219747	_
+10	swinging	swing	_	VBG	_	0	ROOT	_	_
+11	a	a	_	DT	_	12	NMOD	219748	_
+12	rope	rope	_	NN	_	10	OBJ	219748	_
+13	to	to	_	TO	_	10	OPRD	_	_
+14	catch	catch	_	VB	_	13	IM	_	_
+15	a	a	_	DT	_	16	NMOD	219746	_
+16	bull	bull	_	NN	_	14	OBJ	219746	_
+17	.	.	_	.	_	0	ROOT	_	_

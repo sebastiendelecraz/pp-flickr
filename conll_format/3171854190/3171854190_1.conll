@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	98150	_
+2	young	young	_	JJ	_	4	NMOD	98150	_
+3	African	African	_	JJ	_	4	NMOD	98150	_
+4	boy	boy	_	NN	_	5	SBJ	98150	_
+5	sits	sit	_	VBZ	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	98156	_
+8	dirt	dirt	_	NN	_	9	NMOD	98156	_
+9	courtyard	courtyard	_	NN	_	6	PMOD	98156	_
+10	in front of	in front of	_	IN	_	5	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	98151	_
+12	barbecue	barbecue	_	NN	_	13	NMOD	98151	_
+13	grill	grill	_	NN	_	10	PMOD	98151	_
+14	.	.	_	.	_	5	P	_	_

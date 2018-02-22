@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	2	SBJ	187117	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	walking	walk	_	VBG	_	2	VC	_	_
+4	along	along	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	187119	_
+6	beach	beach	_	NN	_	4	PMOD	187119	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	187121	_
+9	pier	pier	_	NN	_	7	PMOD	187121	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	background	background	_	NN	_	10	PMOD	0	_
+13	.	.	_	.	_	2	P	_	_

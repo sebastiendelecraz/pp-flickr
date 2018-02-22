@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	195466	_
+2	lady	lady	_	NN	_	0	ROOT	195466	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	195468	_
+5	green	green	_	JJ	_	6	NMOD	195468	_
+6	dress	dress	_	NN	_	3	PMOD	195468	_
+7	walking	walk	_	VBG	_	6	APPO	_	_
+8	with	with	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	195467	_
+10	cane	cane	_	NN	_	8	PMOD	195467	_
+11	down	down	_	IN	_	10	NMOD	_	7
+12	the	the	_	DT	_	13	NMOD	195469	_
+13	road	road	_	NN	_	11	PMOD	195469	_
+14	.	.	_	.	_	0	ROOT	_	_

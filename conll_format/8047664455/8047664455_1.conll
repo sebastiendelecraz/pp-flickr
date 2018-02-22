@@ -1,0 +1,27 @@
+1	Two	Two	_	CD	_	3	NMOD	278227	_
+2	football	football	_	NN	_	3	NMOD	278227	_
+3	teams	team	_	NNS	_	4	SBJ	278227	_
+4	are	be	_	VBP	_	16	SBJ	_	_
+5	in the middle of	in the middle of	_	IN	_	4	LOC-PRD	278229	4
+6	a	a	_	DT	_	7	NMOD	278229	_
+7	play	play	_	NN	_	5	PMOD	278229	_
+8	as	as	_	IN	_	7	NMOD	_	_
+9	white	white	_	JJ	_	10	NMOD	278235	_
+10	jerseys	jersey	_	NNS	_	8	PMOD	278235	_
+11	and	and	_	CC	_	7	COORD	_	_
+12	the	the	_	DT	_	15	NMOD	278236	_
+13	opposing	oppose	_	VBG	_	15	NMOD	278236	_
+14	green	green	_	JJ	_	15	NMOD	278236	_
+15	jerseys	jersey	_	NNS	_	11	CONJ	278236	_
+16	are	be	_	VBP	_	0	ROOT	_	_
+17	in	in	_	IN	_	16	LOC-PRD	_	_
+18	all	all	_	DT	_	19	NMOD	278232	_
+19	positions	position	_	NNS	_	17	PMOD	278232	_
+20	of	of	_	IN	_	19	NMOD	278232	_
+21	motion	motion	_	NN	_	20	PMOD	278232	_
+22	while	while	_	IN	_	16	ADV	_	_
+23	scrambling	scramble	_	VBG	_	22	SUB	_	_
+24	for	for	_	IN	_	23	ADV	_	23
+25	the	the	_	DT	_	26	NMOD	278234	_
+26	football	football	_	NN	_	24	PMOD	278234	_
+27	.	.	_	.	_	16	P	_	_

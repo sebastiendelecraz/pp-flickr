@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	4	NMOD	145800	_
+2	SPFD	SPFD	_	NNP	_	3	NAME	145800	_
+3	Tactical	Tactical	_	NNP	_	4	NMOD	145800	_
+4	truck	truck	_	NN	_	5	SBJ	145800	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	sitting	sit	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	145801	_
+9	street	street	_	NN	_	7	PMOD	145801	_
+10	with	with	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	12	NMOD	145803	_
+12	driver	driver	_	NN	_	10	PMOD	145803	_
+13	inside	inside	_	IN	_	12	NMOD	_	_
+14	.	.	_	.	_	5	P	_	_

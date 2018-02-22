@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	43196	_
+2	man	man	_	NN	_	0	ROOT	43196	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	glasses	glass	_	NNS	_	7	NMOD	43197	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	sideburns	sideburn	_	NNS	_	5	CONJ	43202	_
+7	smiles	smile	_	NNS	_	3	PMOD	_	_
+8	with	with	_	IN	_	2	NMOD	_	_
+9	a	a	_	DT	_	10	NMOD	43200	_
+10	woman	woman	_	NN	_	8	PMOD	43200	_
+11	for	for	_	IN	_	10	NMOD	_	7
+12	a	a	_	DT	_	13	NMOD	43205	_
+13	picture	picture	_	NN	_	11	PMOD	43205	_
+14	.	.	_	.	_	0	ROOT	_	_

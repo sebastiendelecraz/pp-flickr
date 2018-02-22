@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	19564	_
+2	man	man	_	NN	_	3	SBJ	19564	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	19568	_
+6	truck	truck	_	NN	_	4	PMOD	19568	_
+7	next to	next to	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	12	NMOD	19566	_
+9	big	big	_	JJ	_	12	NMOD	19566	_
+10	green	green	_	JJ	_	11	NMOD	19566	_
+11	metal	metal	_	NN	_	12	NMOD	19566	_
+12	box	box	_	NN	_	7	PMOD	19566	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	two	two	_	CD	_	15	NMOD	19567	_
+15	men	man	_	NNS	_	13	CONJ	19567	_
+16	standing	stand	_	VBG	_	3	ADV	_	_
+17	below	below	_	IN	_	16	ADV	_	_
+18	him	him	_	PRP	_	17	PMOD	0	_
+19	.	.	_	.	_	0	ROOT	_	_

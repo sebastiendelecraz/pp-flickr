@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	236287	_
+2	girl	girl	_	NN	_	0	ROOT	236287	_
+3	reading	read	_	VBG	_	2	APPO	_	_
+4	an	an	_	DT	_	6	NMOD	236289	_
+5	adventure	adventure	_	NN	_	6	NMOD	236289	_
+6	book	book	_	NN	_	3	OBJ	236289	_
+7	during	during	_	IN	_	3	TMP	_	3
+8	here	here	_	RB	_	9	NMOD	236293	_
+9	travel	travel	_	NN	_	7	PMOD	_	_
+10	by	by	_	IN	_	9	NMOD	_	_
+11	train	train	_	NN	_	10	PMOD	236290	_
+12	.	.	_	.	_	0	ROOT	_	_

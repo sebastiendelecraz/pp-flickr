@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	159668	_
+2	man	man	_	NN	_	0	ROOT	159668	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	159669	_
+5	butchers	butcher	_	NNS	_	6	NMOD	159669	_
+6	uniform	uniform	_	NN	_	3	PMOD	159669	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	two	two	_	CD	_	11	NMOD	159671	_
+10	large	large	_	JJ	_	11	NMOD	159671	_
+11	rolls	roll	_	NNS	_	8	PMOD	159671	_
+12	of	of	_	IN	_	11	NMOD	159671	_
+13	beef	beef	_	NN	_	12	PMOD	159671	_
+14	.	.	_	.	_	0	ROOT	_	_

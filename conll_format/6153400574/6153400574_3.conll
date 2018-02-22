@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	248764	_
+2	man	man	_	NN	_	7	SBJ	248764	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	248766	_
+5	pink	pink	_	NN	_	6	NMOD	248766	_
+6	shirt	shirt	_	NN	_	3	PMOD	248766	_
+7	stands	stand	_	VBZ	_	0	ROOT	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	248765	_
+10	stack	stack	_	NN	_	8	PMOD	248765	_
+11	of	of	_	IN	_	10	NMOD	248765	_
+12	hats	hat	_	NNS	_	11	PMOD	248765	_
+13	.	.	_	.	_	7	P	_	_

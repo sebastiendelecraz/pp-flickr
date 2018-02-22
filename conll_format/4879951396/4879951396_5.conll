@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	214231	_
+2	woman	woman	_	NN	_	0	ROOT	214231	_
+3	under	under	_	IN	_	2	LOC	_	2
+4	an	an	_	DT	_	5	NMOD	214232	_
+5	umbrella	umbrella	_	NN	_	3	PMOD	214232	_
+6	with	with	_	IN	_	2	NMOD	_	_
+7	faded	fade	_	VBN	_	9	NMOD	214233	_
+8	black	black	_	JJ	_	9	NMOD	214233	_
+9	paint	paint	_	NN	_	6	PMOD	214233	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	her	her	_	PRP$	_	12	NMOD	214236	_
+12	face	face	_	NN	_	10	PMOD	214236	_
+13	.	.	_	.	_	0	ROOT	_	_

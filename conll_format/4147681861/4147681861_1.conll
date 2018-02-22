@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	157014	_
+2	man	man	_	NN	_	5	SBJ	157014	_
+3	in	in	_	IN	_	5	ADV	_	_
+4	black	black	_	JJ	_	3	PMOD	157021	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	cleaning	clean	_	VBG	_	5	VC	_	_
+7	the	the	_	DT	_	8	NMOD	157016	_
+8	roof	roof	_	NN	_	6	OBJ	157016	_
+9	of	of	_	IN	_	8	NMOD	157016	8
+10	a	a	_	DT	_	11	NMOD	157016	_
+11	building	building	_	NN	_	9	PMOD	157016	_
+12	with	with	_	IN	_	6	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	157018	_
+14	jet	jet	_	NN	_	12	PMOD	157018	_
+15	of	of	_	IN	_	14	NMOD	157018	_
+16	water	water	_	NN	_	15	PMOD	157018	_
+17	.	.	_	.	_	5	P	_	_

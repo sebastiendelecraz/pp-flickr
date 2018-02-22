@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	3	NMOD	140942	_
+2	older	old	_	JJR	_	3	NMOD	140942	_
+3	woman	woman	_	NN	_	0	ROOT	140942	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	140945	_
+6	multicolored	multicolored	_	JJ	_	7	NMOD	140945	_
+7	outfit	outfit	_	NN	_	4	PMOD	140945	_
+8	sitting	sit	_	VBG	_	7	APPO	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	140943	_
+11	pile	pile	_	NN	_	9	PMOD	140943	_
+12	of	of	_	IN	_	11	NMOD	140943	_
+13	peanuts	peanut	_	NNS	_	12	PMOD	140943	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	215904	_
+2	man	man	_	NN	_	3	SBJ	215904	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	outside	outside	_	IN	_	3	LOC	_	3
+5	his	his	_	PRP$	_	7	NMOD	215907	_
+6	hotdog	hotdog	_	NN	_	7	NMOD	215907	_
+7	booth	booth	_	NN	_	4	PMOD	215907	_
+8	next to	next to	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	11	NMOD	215906	_
+10	construction	construction	_	NN	_	11	NMOD	215906	_
+11	site	site	_	NN	_	8	PMOD	215906	_
+12	while	while	_	IN	_	3	ADV	_	_
+13	reading	read	_	VBG	_	12	SUB	_	_
+14	a	a	_	DT	_	15	NMOD	215905	_
+15	book	book	_	NN	_	13	OBJ	215905	_
+16	.	.	_	.	_	3	P	_	_

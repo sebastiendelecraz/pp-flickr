@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	264545	_
+2	fisherman	fisherman	_	NN	_	3	SBJ	264545	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	handling	handle	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	264547	_
+6	net	net	_	JJ	_	4	OBJ	264547	_
+7	on	on	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	10	NMOD	264546	_
+9	small	small	_	JJ	_	10	NMOD	264546	_
+10	boat	boat	_	NN	_	7	PMOD	264546	_
+11	near	near	_	IN	_	10	LOC	_	4
+12	a	a	_	DT	_	13	NMOD	264550	_
+13	dock	dock	_	NN	_	11	PMOD	264550	_
+14	.	.	_	.	_	3	P	_	_

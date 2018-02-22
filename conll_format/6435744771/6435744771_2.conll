@@ -1,0 +1,16 @@
+1	3	3	_	CD	_	2	NMOD	254216	_
+2	Children	child	_	NNS	_	3	SBJ	254216	_
+3	holding	hold	_	VBG	_	0	ROOT	_	_
+4	their	their	_	PRP$	_	5	NMOD	254219	_
+5	arms	arm	_	NNS	_	3	OBJ	254219	_
+6	up	up	_	RP	_	3	PRT	_	_
+7	while	while	_	IN	_	3	TMP	_	_
+8	smiling	smile	_	VBG	_	7	SUB	_	_
+9	with	with	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	12	NMOD	254218	_
+11	Christmas	Christmas	_	NNP	_	12	NAME	254218	_
+12	Tree	Tree	_	NNP	_	9	PMOD	254218	_
+13	in	in	_	IN	_	8	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	background	background	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

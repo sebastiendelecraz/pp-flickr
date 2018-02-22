@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	4	NMOD	192847	_
+2	young	young	_	JJ	_	4	NMOD	192847	_
+3	blond	blond	_	JJ	_	4	NMOD	192847	_
+4	girl	girl	_	NN	_	5	SBJ	192847	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	eating	eat	_	VBG	_	5	VC	_	_
+7	her	her	_	PRP$	_	9	NMOD	192850	_
+8	frozen	freeze	_	VBN	_	9	NMOD	192850	_
+9	snack	snack	_	NN	_	6	OBJ	192850	_
+10	while	while	_	IN	_	6	ADV	_	_
+11	sitting	sit	_	VBG	_	10	SUB	_	_
+12	on	on	_	IN	_	11	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	192848	_
+14	bench	bench	_	NN	_	12	PMOD	192848	_
+15	next to	next to	_	IN	_	11	LOC	_	11
+16	a	a	_	DT	_	18	NMOD	192849	_
+17	red	red	_	JJ	_	18	NMOD	192849	_
+18	stroller	stroller	_	NN	_	15	PMOD	192849	_
+19	.	.	_	.	_	5	P	_	_

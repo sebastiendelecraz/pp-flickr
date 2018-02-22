@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	186493	_
+2	band	band	_	NN	_	3	SBJ	186493	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	performing	perform	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	stage	stage	_	NN	_	5	PMOD	186498	_
+7	in front of	in front of	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	186499	_
+9	banner	banner	_	JJ	_	7	PMOD	186499	_
+10	for	for	_	IN	_	4	ADV	_	9
+11	Good	Good	_	NNP	_	13	NAME	186497	_
+12	Morning	Morning	_	NNP	_	13	NAME	186497	_
+13	America	America	_	NNP	_	15	NMOD	186497	_
+14	'	'	_	POS	_	13	SUFFIX	186497	_
+15	s	s	_	NN	_	10	PMOD	186497	_
+16	Summer	Summer	_	NNP	_	18	NAME	186497	_
+17	Concert	Concert	_	NNP	_	18	NAME	186497	_
+18	Series	Series	_	NNP	_	15	APPO	186497	_
+19	.	.	_	.	_	3	P	_	_

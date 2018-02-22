@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	195318	_
+2	woman	woman	_	NN	_	7	SBJ	195318	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	195319	_
+5	brown	brown	_	JJ	_	6	NMOD	195319	_
+6	dress	dress	_	NN	_	3	PMOD	195319	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	amongst	amongst	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	195321	_
+11	lot	lot	_	NN	_	9	PMOD	195321	_
+12	of	of	_	IN	_	11	NMOD	195321	_
+13	clothes	clothes	_	NNS	_	12	PMOD	195321	_
+14	.	.	_	.	_	7	P	_	_

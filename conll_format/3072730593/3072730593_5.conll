@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	91493	_
+2	woman	woman	_	NN	_	0	ROOT	91493	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	91494	_
+5	feather	feather	_	NN	_	3	PMOD	91494	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	her	her	_	PRP$	_	8	NMOD	91495	_
+8	hat	hat	_	NN	_	6	PMOD	91495	_
+9	.	.	_	.	_	0	ROOT	_	_

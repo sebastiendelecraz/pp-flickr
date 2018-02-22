@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	120208	_
+2	brown	brown	_	JJ	_	3	NMOD	120208	_
+3	dog	dog	_	NN	_	4	SBJ	120208	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	the	the	_	DT	_	7	NMOD	120211	_
+7	beach	beach	_	NN	_	5	PMOD	120211	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	120209	_
+10	ocean	ocean	_	NN	_	8	PMOD	120209	_
+11	.	.	_	.	_	0	ROOT	_	_

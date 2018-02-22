@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	4	NMOD	127838	_
+2	blue	blue	_	JJ	_	4	NMOD	127838	_
+3	race	race	_	NN	_	4	NMOD	127838	_
+4	car	car	_	NN	_	6	SBJ	127838	_
+5	almost	almost	_	RB	_	6	ADV	_	_
+6	crashing	crash	_	VBG	_	0	ROOT	_	_
+7	into	into	_	IN	_	6	DIR	_	6
+8	a	a	_	DT	_	9	NMOD	127841	_
+9	wall	wall	_	NN	_	7	PMOD	127841	_
+10	of	of	_	IN	_	9	NMOD	127841	_
+11	tires	tire	_	NNS	_	10	PMOD	127841	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	17180	_
+2	women	woman	_	NNS	_	6	SBJ	17180	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	white	white	_	JJ	_	5	NMOD	17182	_
+5	dresses	dress	_	NNS	_	3	PMOD	17182	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	walking	walk	_	VBG	_	6	VC	_	_
+8	past	past	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	17181	_
+10	picture	picture	_	NN	_	8	PMOD	17181	_
+11	of	of	_	IN	_	10	NMOD	17181	_
+12	people	people	_	NN	_	11	PMOD	17181	_
+13	golfing	golf	_	VBG	_	12	APPO	_	_
+14	.	.	_	.	_	6	P	_	_

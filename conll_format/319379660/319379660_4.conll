@@ -1,0 +1,11 @@
+1	Asian	Asian	_	JJ	_	3	NMOD	100062	_
+2	marketplace	marketplace	_	NN	_	3	NMOD	100062	_
+3	vendor	vendor	_	NN	_	4	SBJ	100062	_
+4	looking	look	_	VBG	_	0	ROOT	_	_
+5	over	over	_	IN	_	4	ADV	_	4
+6	her	her	_	PRP$	_	8	NMOD	100063	_
+7	wide	wide	_	JJ	_	8	NMOD	100063	_
+8	selection	selection	_	NN	_	5	PMOD	100063	_
+9	of	of	_	IN	_	8	NMOD	100063	_
+10	vegetables	vegetable	_	NNS	_	9	PMOD	100063	_
+11	.	.	_	.	_	0	ROOT	_	_

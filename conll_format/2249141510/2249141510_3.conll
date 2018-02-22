@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	36733	_
+2	young	young	_	JJ	_	3	NMOD	36733	_
+3	boy	boy	_	NN	_	0	ROOT	36733	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	red	red	_	JJ	_	6	NMOD	36734	_
+6	leaping	leaping	_	NN	_	4	PMOD	_	_
+7	into	into	_	IN	_	3	NMOD	_	6
+8	sand	sand	_	NN	_	7	PMOD	36736	_
+9	at	at	_	IN	_	3	TMP	_	_
+10	a	a	_	DT	_	11	NMOD	36735	_
+11	playground	playground	_	NN	_	9	PMOD	36735	_
+12	.	.	_	.	_	0	ROOT	_	_

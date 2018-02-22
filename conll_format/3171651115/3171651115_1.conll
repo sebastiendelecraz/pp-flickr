@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	3	NMOD	98142	_
+2	lone	lone	_	JJ	_	3	NMOD	98142	_
+3	surfer	surfer	_	NN	_	14	SBJ	98142	_
+4	riding	ride	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	98143	_
+6	huge	huge	_	JJ	_	7	NMOD	98143	_
+7	wave	wave	_	NN	_	4	OBJ	98143	_
+8	soaring	soar	_	VBG	_	7	APPO	_	_
+9	through	through	_	IN	_	8	ADV	_	8
+10	midair	midair	_	NN	_	9	PMOD	98147	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	his	his	_	PRP$	_	13	NMOD	98148	_
+13	arms	arm	_	NNS	_	11	PMOD	98148	_
+14	raised	raise	_	VBD	_	0	ROOT	_	_
+15	.	.	_	.	_	14	P	_	_

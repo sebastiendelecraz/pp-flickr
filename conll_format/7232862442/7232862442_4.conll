@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	267275	_
+2	wrestlers	wrestler	_	NNS	_	10	SBJ	267275	_
+3	during	during	_	IN	_	10	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	267280	_
+5	match	match	_	NN	_	3	PMOD	267280	_
+6	in	in	_	IN	_	10	TMP	_	_
+7	an	an	_	DT	_	9	NMOD	267290	_
+8	open	open	_	JJ	_	9	NMOD	267290	_
+9	stadium	stadium	_	NN	_	6	PMOD	267290	_
+10	get	get	_	VB	_	13	SBJ	_	_
+11	the	the	_	DT	_	12	NMOD	267276	_
+12	crowd	crowd	_	NN	_	10	OBJ	267276	_
+13	excited	excite	_	VBD	_	0	ROOT	_	_
+14	.	.	_	.	_	13	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	176788	_
+2	woman	woman	_	NN	_	5	SBJ	176788	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	purple	purple	_	NN	_	3	PMOD	176792	_
+5	stands	stand	_	VBZ	_	0	ROOT	_	_
+6	outside	outside	_	IN	_	5	LOC	_	5
+7	glass	glass	_	NN	_	8	NMOD	176791	_
+8	doors	door	_	NNS	_	6	PMOD	176791	_
+9	in front of	in front of	_	IN	_	5	TMP	_	5
+10	a	a	_	DT	_	11	NMOD	176790	_
+11	building	building	_	NN	_	9	PMOD	176790	_
+12	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,14 @@
+1	Children	child	_	NNS	_	2	SBJ	249141	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	next to	next to	_	IN	_	2	ADV	_	2
+4	the	the	_	DT	_	5	NMOD	249142	_
+5	statue	statue	_	NN	_	3	PMOD	249142	_
+6	of	of	_	IN	_	5	NMOD	249142	_
+7	an	an	_	DT	_	9	NMOD	249142	_
+8	old	old	_	JJ	_	9	NMOD	249142	_
+9	woman	woman	_	NN	_	6	PMOD	249142	_
+10	holding	hold	_	VBG	_	9	APPO	_	_
+11	full	full	_	JJ	_	13	NMOD	249143	_
+12	paper	paper	_	NN	_	13	NMOD	249143	_
+13	bags	bag	_	NNS	_	10	OBJ	249143	_
+14	.	.	_	.	_	0	ROOT	_	_

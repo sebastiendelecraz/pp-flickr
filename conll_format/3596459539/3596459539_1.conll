@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	130400	_
+2	motorcycle	motorcycle	_	NN	_	3	SBJ	130400	_
+3	goes	go	_	VBZ	_	0	ROOT	_	_
+4	by	by	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	6	NMOD	130401	_
+6	crowd	crowd	_	NN	_	4	PMOD	130401	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	its	its	_	PRP$	_	10	NMOD	130404	_
+9	rear	rear	_	NN	_	10	NMOD	130404	_
+10	wheel	wheel	_	NN	_	7	PMOD	130404	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	air	air	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	3	P	_	_

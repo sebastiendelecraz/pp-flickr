@@ -1,0 +1,10 @@
+1	Laura	Laura	_	NNP	_	2	NAME	58859	_
+2	Bush	Bush	_	NNP	_	3	SBJ	58859	_
+3	speaking	speak	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	58862	_
+6	conference	conference	_	NN	_	4	PMOD	58862	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	global	global	_	JJ	_	9	NMOD	58861	_
+9	literacy	literacy	_	NN	_	7	PMOD	58861	_
+10	.	.	_	.	_	0	ROOT	_	_

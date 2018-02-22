@@ -1,0 +1,12 @@
+1	Kids	kid	_	NNS	_	2	SBJ	1630	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	riding	ride	_	VBG	_	2	VC	_	_
+4	bikes	bike	_	NNS	_	3	OBJ	1633	_
+5	near	near	_	IN	_	3	LOC	_	3
+6	a	a	_	DT	_	8	NMOD	1631	_
+7	dirt	dirt	_	NN	_	8	NMOD	1631	_
+8	mound	mound	_	NN	_	5	PMOD	1631	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	1637	_
+11	street	street	_	NN	_	9	PMOD	1637	_
+12	.	.	_	.	_	2	P	_	_

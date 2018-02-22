@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	204678	_
+2	group	group	_	NN	_	6	SBJ	204678	_
+3	of	of	_	IN	_	2	NMOD	204678	_
+4	young	young	_	JJ	_	5	NMOD	204678	_
+5	people	people	_	NN	_	3	PMOD	204678	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	looking	look	_	VBG	_	6	VC	_	_
+8	over	over	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	204679	_
+10	fence	fence	_	NN	_	8	PMOD	204679	_
+11	at	at	_	IN	_	7	ADV	_	_
+12	a	a	_	DT	_	14	NMOD	204680	_
+13	sprawling	sprawl	_	VBG	_	14	NMOD	204680	_
+14	city	city	_	NN	_	11	PMOD	204680	_
+15	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	274819	_
+2	gold	gold	_	NN	_	3	NMOD	274819	_
+3	medalist	medalist	_	NN	_	4	SBJ	274819	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	celebrating	celebrate	_	VBG	_	4	VC	_	_
+6	his	his	_	PRP$	_	7	NMOD	274824	_
+7	win	win	_	NN	_	5	OBJ	274824	_
+8	next to	next to	_	IN	_	5	ADV	_	5
+9	his	his	_	PRP$	_	10	NMOD	274815	_
+10	teammate	teammate	_	NN	_	8	PMOD	274815	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	cameras	camera	_	NNS	_	11	PMOD	274818	_
+13	surrounding	surround	_	VBG	_	12	APPO	_	_
+14	him	him	_	PRP	_	13	OBJ	0	_
+15	.	.	_	.	_	4	P	_	_

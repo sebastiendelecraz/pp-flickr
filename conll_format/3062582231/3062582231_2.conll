@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	90951	_
+2	young	young	_	JJ	_	4	NMOD	90951	_
+3	dark-skinned	dark-skinned	_	JJ	_	4	NMOD	90951	_
+4	boy	boy	_	NN	_	0	ROOT	90951	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	90953	_
+7	large	large	_	JJ	_	8	NMOD	90953	_
+8	shirt	shirt	_	NN	_	5	PMOD	90953	_
+9	sitting	sit	_	VBG	_	8	APPO	_	_
+10	next to	next to	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	13	NMOD	90952	_
+12	large	large	_	JJ	_	13	NMOD	90952	_
+13	pile	pile	_	NN	_	10	PMOD	90952	_
+14	of	of	_	IN	_	13	NMOD	90952	_
+15	sandals	sandal	_	NNS	_	14	PMOD	90952	_
+16	.	.	_	.	_	0	ROOT	_	_

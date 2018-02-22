@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	282516	_
+2	man	man	_	NN	_	7	SBJ	282516	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	282527	_
+5	colorful	colorful	_	JJ	_	6	NMOD	282527	_
+6	hat	hat	_	NN	_	3	PMOD	282527	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	7	VC	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	282519	_
+11	variety	variety	_	NN	_	9	PMOD	282519	_
+12	of	of	_	IN	_	11	NMOD	282519	_
+13	tools	tool	_	NNS	_	12	PMOD	282519	_
+14	.	.	_	.	_	7	P	_	_

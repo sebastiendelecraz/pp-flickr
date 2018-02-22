@@ -1,0 +1,15 @@
+1	Party	Party	_	NNP	_	2	NMOD	92333	_
+2	goers	goer	_	NNS	_	0	ROOT	92333	_
+3	at	at	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	92339	_
+5	rave	rave	_	NN	_	3	PMOD	92339	_
+6	dancing	dance	_	VBG	_	5	APPO	_	_
+7	by	by	_	IN	_	6	MNR	_	6
+8	a	a	_	DT	_	9	NMOD	92334	_
+9	table	table	_	NN	_	7	PMOD	92334	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	glow	glow	_	NN	_	12	NMOD	92335	_
+12	sticks	stick	_	NNS	_	10	PMOD	92335	_
+13	on	on	_	IN	_	6	ADV	_	_
+14	it	it	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

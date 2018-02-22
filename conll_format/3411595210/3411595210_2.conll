@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	116205	_
+2	yellow	yellow	_	JJ	_	3	NMOD	116205	_
+3	dog	dog	_	NN	_	4	SBJ	116205	_
+4	shaking	shake	_	VBG	_	0	ROOT	_	_
+5	off	off	_	RP	_	4	PRT	_	_
+6	from	from	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	0	_
+8	jump	jump	_	NN	_	6	PMOD	0	_
+9	into	into	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	116206	_
+11	stream	stream	_	NN	_	9	PMOD	116206	_
+12	.	.	_	.	_	0	ROOT	_	_

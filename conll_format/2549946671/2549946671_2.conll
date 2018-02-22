@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	57478	_
+2	little	little	_	JJ	_	4	NMOD	57478	_
+3	Asian	Asian	_	JJ	_	4	NMOD	57478	_
+4	boy	boy	_	NN	_	5	SBJ	57478	_
+5	speaks	speak	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	57480	_
+8	phone	phone	_	NN	_	6	PMOD	57480	_
+9	outside of	outside of	_	IN	_	5	ADV	_	5
+10	a	a	_	DT	_	11	NMOD	57483	_
+11	building	building	_	NN	_	9	PMOD	57483	_
+12	.	.	_	.	_	5	P	_	_

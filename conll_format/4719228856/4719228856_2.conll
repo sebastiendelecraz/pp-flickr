@@ -1,0 +1,12 @@
+1	Man	Man	_	NNP	_	0	ROOT	195030	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	blue	blue	_	JJ	_	5	NMOD	195033	_
+4	jeans	jean	_	NNS	_	5	NMOD	195033	_
+5	walks	walk	_	NNS	_	2	PMOD	_	_
+6	past	past	_	IN	_	5	NMOD	195031	5
+7	street	street	_	NN	_	8	NMOD	195031	_
+8	art	art	_	NN	_	6	PMOD	195031	_
+9	of	of	_	IN	_	8	NMOD	195031	_
+10	a	a	_	DT	_	11	NMOD	195031	_
+11	ferret	ferret	_	NN	_	9	PMOD	195031	_
+12	.	.	_	.	_	0	ROOT	_	_

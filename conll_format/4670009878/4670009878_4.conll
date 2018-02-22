@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	188714	_
+2	sit	sit	_	VBP	_	0	ROOT	_	_
+3	in front of	in front of	_	IN	_	2	SBJ	_	2
+4	a	a	_	DT	_	6	NMOD	188715	_
+5	giant	giant	_	NN	_	6	NMOD	188715	_
+6	statue	statue	_	NN	_	3	PMOD	188715	_
+7	of	of	_	IN	_	6	NMOD	188715	_
+8	a	a	_	DT	_	9	NMOD	188715	_
+9	woman	woman	_	NN	_	7	PMOD	188715	_
+10	.	.	_	.	_	2	P	_	_

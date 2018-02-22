@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	85572	_
+2	boy	boy	_	NN	_	3	SBJ	85572	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	7	NMOD	85577	_
+6	wet	wet	_	NN	_	7	NMOD	85577	_
+7	sand	sand	_	NN	_	4	PMOD	85577	_
+8	at	at	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	85573	_
+10	beach	beach	_	NN	_	8	PMOD	85573	_
+11	,	,	_	,	_	3	P	_	_
+12	playing	play	_	VBG	_	3	ADV	_	_
+13	with	with	_	IN	_	12	ADV	_	_
+14	a	a	_	DT	_	16	NMOD	85576	_
+15	plastic	plastic	_	JJ	_	16	NMOD	85576	_
+16	shovel	shovel	_	NN	_	13	PMOD	85576	_
+17	.	.	_	.	_	3	P	_	_

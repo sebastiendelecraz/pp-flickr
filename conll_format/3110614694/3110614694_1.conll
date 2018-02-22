@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	5	NMOD	94287	_
+2	beautiful	beautiful	_	JJ	_	5	NMOD	94287	_
+3	reddish	reddish	_	JJ	_	5	NMOD	94287	_
+4	dog	dog	_	NN	_	5	NMOD	94287	_
+5	lopes	lope	_	NNS	_	0	ROOT	94287	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	the	the	_	DT	_	10	NMOD	94290	_
+8	flat	flat	_	JJ	_	10	NMOD	94290	_
+9	snowy	snowy	_	JJ	_	10	NMOD	94290	_
+10	street	street	_	NN	_	6	PMOD	94290	_
+11	with	with	_	IN	_	5	NMOD	_	_
+12	a	a	_	DT	_	13	NMOD	94288	_
+13	snowball	snowball	_	NN	_	11	PMOD	94288	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	its	its	_	PRP$	_	16	NMOD	94289	_
+16	mouth	mouth	_	NN	_	14	PMOD	94289	_
+17	.	.	_	.	_	0	ROOT	_	_

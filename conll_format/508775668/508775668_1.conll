@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	228566	_
+2	man	man	_	NN	_	7	SBJ	228566	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	228568	_
+5	trench	trench	_	NN	_	6	NMOD	228568	_
+6	coat	coat	_	NN	_	3	PMOD	228568	_
+7	stands	stand	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	walkway	walkway	_	NN	_	8	PMOD	228564	_
+10	close to	close to	_	IN	_	7	ADV	_	7
+11	a	a	_	DT	_	12	NMOD	228564	_
+12	pier	pier	_	NN	_	10	PMOD	228564	_
+13	with	with	_	IN	_	7	ADV	_	7
+14	a	a	_	DT	_	15	NMOD	228563	_
+15	boat	boat	_	NN	_	13	PMOD	228563	_
+16	that	that	_	WDT	_	17	SBJ	0	_
+17	has	have	_	VBZ	_	15	NMOD	_	_
+18	landed	land	_	VBN	_	17	VC	_	_
+19	.	.	_	.	_	7	P	_	_

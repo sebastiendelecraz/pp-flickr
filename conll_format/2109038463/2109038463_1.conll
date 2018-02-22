@@ -1,0 +1,18 @@
+1	Four	Four	_	CD	_	2	NMOD	29264	_
+2	bikes	bike	_	NNS	_	3	SBJ	29264	_
+3	line	line	_	VBP	_	0	ROOT	29264	_
+4	up	up	_	RP	_	3	PRT	_	_
+5	the	the	_	DT	_	6	NMOD	29262	_
+6	sidewalk	sidewalk	_	NN	_	3	OBJ	29262	_
+7	as	as	_	IN	_	0	ROOT	_	_
+8	man	man	_	NN	_	9	SBJ	29259	_
+9	stands	stand	_	VBZ	_	7	SUB	_	_
+10	next to	next to	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	29265	_
+12	wall	wall	_	NN	_	10	PMOD	29265	_
+13	in front of	in front of	_	IN	_	9	ADV	_	_
+14	a	a	_	DT	_	17	NMOD	29261	_
+15	light	light	_	NN	_	17	NMOD	29261	_
+16	green	green	_	JJ	_	17	NMOD	29261	_
+17	building	building	_	NN	_	13	PMOD	29261	_
+18	.	.	_	.	_	0	ROOT	_	_

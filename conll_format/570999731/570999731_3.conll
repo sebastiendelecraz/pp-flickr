@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	241399	_
+2	couple	couple	_	NN	_	3	NMOD	241399	_
+3	workers	worker	_	NNS	_	4	SBJ	241399	_
+4	carry	carry	_	VBP	_	0	ROOT	_	_
+5	orange	orange	_	JJ	_	6	NMOD	241401	_
+6	paint	paint	_	NN	_	4	OBJ	241401	_
+7	by	by	_	IN	_	4	MNR	_	4
+8	a	a	_	DT	_	9	NMOD	241402	_
+9	man	man	_	NN	_	7	PMOD	241402	_
+10	in	in	_	IN	_	4	LOC	_	_
+11	a	a	_	DT	_	14	NMOD	241404	_
+12	white	white	_	JJ	_	14	NMOD	241404	_
+13	hard	hard	_	JJ	_	14	NMOD	241404	_
+14	hat	hat	_	NN	_	10	PMOD	241404	_
+15	.	.	_	.	_	4	P	_	_

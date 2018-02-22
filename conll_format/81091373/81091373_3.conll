@@ -1,0 +1,10 @@
+1	Pilot	Pilot	_	NNP	_	2	SBJ	279100	_
+2	stands	stand	_	VBZ	_	0	ROOT	_	_
+3	next to	next to	_	IN	_	2	ADV	_	2
+4	cockpit	cockpit	_	NN	_	3	PMOD	279104	_
+5	of	of	_	IN	_	4	NMOD	279104	_
+6	airplane	airplane	_	NN	_	5	PMOD	279104	_
+7	with	with	_	IN	_	4	NMOD	_	_
+8	open	open	_	JJ	_	9	NMOD	279105	_
+9	door	door	_	NN	_	7	PMOD	279105	_
+10	.	.	_	.	_	2	P	_	_

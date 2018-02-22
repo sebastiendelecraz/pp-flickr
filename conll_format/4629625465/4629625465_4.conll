@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	184386	_
+2	young	young	_	JJ	_	3	NMOD	184386	_
+3	boy	boy	_	NN	_	8	SBJ	184386	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	184389	_
+6	red	red	_	JJ	_	7	NMOD	184389	_
+7	shirt	shirt	_	NN	_	4	PMOD	184389	_
+8	stands	stand	_	VBZ	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	184388	_
+11	stool	stool	_	NN	_	9	PMOD	184388	_
+12	in	in	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	14	NMOD	184393	_
+14	bathtub	bathtub	_	NN	_	12	PMOD	184393	_
+15	.	.	_	.	_	8	P	_	_

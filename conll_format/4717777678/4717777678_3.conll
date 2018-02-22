@@ -1,0 +1,12 @@
+1	Someone	someone	_	NN	_	0	ROOT	194704	_
+2	riding	ride	_	VBG	_	1	APPO	_	_
+3	a	a	_	DT	_	4	NMOD	194705	_
+4	bike	bike	_	NN	_	2	OBJ	194705	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	194706	_
+7	street	street	_	NN	_	5	PMOD	194706	_
+8	with	with	_	IN	_	2	ADV	_	2
+9	a	a	_	DT	_	11	NMOD	194707	_
+10	green	green	_	JJ	_	11	NMOD	194707	_
+11	backpack	backpack	_	NN	_	8	PMOD	194707	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	Five	Five	_	CD	_	2	NMOD	115872	_
+2	dogs	dog	_	NNS	_	3	SBJ	115872	_
+3	pull	pull	_	VBP	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	115871	_
+5	man	man	_	NN	_	3	OBJ	115871	_
+6	on	on	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	115873	_
+8	sled	sled	_	NN	_	6	PMOD	115873	_
+9	through	through	_	IN	_	3	ADV	_	3
+10	the	the	_	DT	_	11	NMOD	115874	_
+11	snow	snow	_	NN	_	9	PMOD	115874	_
+12	.	.	_	.	_	3	P	_	_

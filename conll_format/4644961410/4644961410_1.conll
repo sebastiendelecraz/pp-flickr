@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	186081	_
+2	group	group	_	NN	_	14	NMOD	186081	_
+3	of	of	_	IN	_	2	NMOD	186081	_
+4	police	police	_	NN	_	3	PMOD	186081	_
+5	,	,	_	,	_	4	P	_	_
+6	firemen	fireman	_	NNS	_	4	COORD	186091	_
+7	,	,	_	,	_	6	P	_	_
+8	and	and	_	CC	_	6	COORD	_	_
+9	men	man	_	NNS	_	8	CONJ	186082	_
+10	wearing	wear	_	VBG	_	9	APPO	_	_
+11	a	a	_	DT	_	13	NMOD	186090	_
+12	red	red	_	JJ	_	13	NMOD	186090	_
+13	cross	cross	_	NN	_	10	OBJ	186090	_
+14	on	on	_	IN	_	17	SBJ	_	_
+15	their	their	_	PRP$	_	16	NMOD	186092	_
+16	clothes	clothes	_	NNS	_	14	PMOD	186092	_
+17	stand	stand	_	VBP	_	0	ROOT	_	_
+18	outside of	outside of	_	IN	_	17	ADV	_	17
+19	a	a	_	DT	_	21	NMOD	186088	_
+20	black	black	_	JJ	_	21	NMOD	186088	_
+21	car	car	_	NN	_	18	PMOD	186088	_
+22	.	.	_	.	_	17	P	_	_

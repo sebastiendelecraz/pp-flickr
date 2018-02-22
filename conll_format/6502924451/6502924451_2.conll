@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	255061	_
+2	group	group	_	NN	_	5	SBJ	255061	_
+3	of	of	_	IN	_	2	NMOD	255061	_
+4	photographers	photographer	_	NNS	_	3	PMOD	255061	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	setting	set	_	VBG	_	5	VC	_	_
+7	up	up	_	RP	_	6	PRT	_	_
+8	for	for	_	IN	_	6	ADV	_	6
+9	a	a	_	DT	_	11	NMOD	255070	_
+10	photo	photo	_	NN	_	11	NMOD	255070	_
+11	shoot	shoot	_	NN	_	8	PMOD	255070	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	255062	_
+14	gymnasium	gymnasium	_	NN	_	12	PMOD	255062	_
+15	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	139335	_
+2	young	young	_	JJ	_	3	NMOD	139335	_
+3	person	person	_	NN	_	0	ROOT	139335	_
+4	diving	dive	_	VBG	_	3	APPO	_	_
+5	to	to	_	TO	_	4	OPRD	_	_
+6	make	make	_	VB	_	5	IM	_	_
+7	a	a	_	DT	_	8	NMOD	139339	_
+8	catch	catch	_	NN	_	6	OBJ	139339	_
+9	during	during	_	IN	_	6	TMP	_	4
+10	a	a	_	DT	_	11	NMOD	139341	_
+11	game	game	_	NN	_	9	PMOD	139341	_
+12	of	of	_	IN	_	11	NMOD	139341	_
+13	ultimate	ultimate	_	JJ	_	14	NMOD	139341	_
+14	frisbee	frisbee	_	NN	_	12	PMOD	139341	_
+15	.	.	_	.	_	0	ROOT	_	_

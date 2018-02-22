@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	41795	_
+2	man	man	_	NN	_	9	SBJ	41795	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	41806	_
+5	black	black	_	JJ	_	6	NMOD	41806	_
+6	t-shirt	t-shirt	_	NN	_	3	OBJ	41806	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	glasses	glass	_	NNS	_	7	CONJ	41807	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	looking	look	_	VBG	_	9	VC	_	_
+11	through	through	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	41797	_
+13	microscope	microscope	_	NN	_	11	PMOD	41797	_
+14	in	in	_	IN	_	10	TMP	_	10
+15	a	a	_	DT	_	16	NMOD	41796	_
+16	classroom	classroom	_	NN	_	14	PMOD	41796	_
+17	.	.	_	.	_	9	P	_	_

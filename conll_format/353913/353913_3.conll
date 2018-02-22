@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	125927	_
+2	man	man	_	NN	_	3	SBJ	125927	_
+3	sleeping	sleep	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	0	_
+6	ground	ground	_	NN	_	4	PMOD	0	_
+7	against	against	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	125929	_
+9	door	door	_	NN	_	7	PMOD	125929	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	plastic	plastic	_	NN	_	12	NMOD	125930	_
+12	bags	bag	_	NNS	_	10	PMOD	125930	_
+13	by	by	_	IN	_	3	MNR	_	_
+14	his	his	_	PRP$	_	15	NMOD	125937	_
+15	foot	foot	_	NN	_	13	PMOD	125937	_
+16	.	.	_	.	_	0	ROOT	_	_

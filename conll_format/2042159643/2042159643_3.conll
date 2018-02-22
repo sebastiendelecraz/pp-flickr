@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	25558	_
+2	group	group	_	NN	_	5	SBJ	25558	_
+3	of	of	_	IN	_	2	NMOD	25558	_
+4	people	people	_	NN	_	3	PMOD	25558	_
+5	gather	gather	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	25562	_
+8	street	street	_	NN	_	6	PMOD	25562	_
+9	for	for	_	IN	_	5	PRP	_	5
+10	a	a	_	DT	_	11	NMOD	25564	_
+11	celebration	celebration	_	NN	_	9	PMOD	25564	_
+12	.	.	_	.	_	5	P	_	_

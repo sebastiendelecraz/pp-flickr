@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	112149	_
+2	man	man	_	NN	_	3	SBJ	112149	_
+3	looks	look	_	VBZ	_	0	ROOT	_	_
+4	around	around	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	112153	_
+6	restaurant	restaurant	_	NN	_	4	PMOD	112153	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	the	the	_	DT	_	9	NMOD	112151	_
+9	menu	menu	_	NN	_	7	PMOD	112151	_
+10	.	.	_	.	_	3	P	_	_

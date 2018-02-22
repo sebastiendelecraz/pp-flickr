@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	189169	_
+2	group	group	_	NN	_	5	SBJ	189169	_
+3	of	of	_	IN	_	2	NMOD	189169	_
+4	people	people	_	NN	_	3	PMOD	189169	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	buying	buy	_	VBG	_	5	VC	_	_
+7	ice	ice	_	NN	_	8	NMOD	189172	_
+8	cream	cream	_	NN	_	6	OBJ	189172	_
+9	from	from	_	IN	_	6	ADV	_	6
+10	a	a	_	DT	_	11	NMOD	189170	_
+11	truck	truck	_	NN	_	9	PMOD	189170	_
+12	at	at	_	IN	_	6	ADV	_	_
+13	night	night	_	NN	_	12	PMOD	189174	_
+14	.	.	_	.	_	5	P	_	_

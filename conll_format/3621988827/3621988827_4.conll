@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	132272	_
+2	man	man	_	NN	_	0	ROOT	132272	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	132273	_
+5	train	train	_	NN	_	3	PMOD	132273	_
+6	with	with	_	IN	_	5	NMOD	_	2
+7	a	a	_	DT	_	9	NMOD	132278	_
+8	blue	blue	_	JJ	_	9	NMOD	132278	_
+9	shirt	shirt	_	NN	_	6	PMOD	132278	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	.	.	_	.	_	0	ROOT	_	_

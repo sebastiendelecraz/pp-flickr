@@ -1,0 +1,12 @@
+1	An	an	_	DT	_	4	NMOD	279219	_
+2	elderly	elderly	_	NN	_	4	NMOD	279219	_
+3	Asian	Asian	_	JJ	_	4	NMOD	279219	_
+4	women	woman	_	NNS	_	5	SBJ	279219	_
+5	rests	rest	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	her	her	_	PRP$	_	8	NMOD	279222	_
+8	shovel	shovel	_	NN	_	6	PMOD	279222	_
+9	after	after	_	IN	_	5	TMP	_	5
+10	a	a	_	DT	_	11	NMOD	279225	_
+11	snowstorm	snowstorm	_	NN	_	9	PMOD	279225	_
+12	.	.	_	.	_	5	P	_	_

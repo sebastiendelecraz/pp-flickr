@@ -1,0 +1,9 @@
+1	Ladies	Lady	_	NNPS	_	2	SBJ	274024	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	274048	_
+5	picture	picture	_	NN	_	3	PMOD	274048	_
+6	at	at	_	IN	_	2	LOC	_	_
+7	an	an	_	DT	_	8	NMOD	274035	_
+8	event	event	_	NN	_	6	PMOD	274035	_
+9	.	.	_	.	_	2	P	_	_

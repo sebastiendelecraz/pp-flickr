@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	45770	_
+2	shirtless	shirtless	_	JJ	_	3	NMOD	45770	_
+3	man	man	_	NN	_	11	SBJ	45770	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	45771	_
+6	blue	blue	_	JJ	_	7	NMOD	45771	_
+7	towel	towel	_	NN	_	4	PMOD	45771	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	his	his	_	PRP$	_	10	NMOD	45774	_
+10	head	head	_	NN	_	8	PMOD	45774	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	shaving	shave	_	VBG	_	11	VC	_	_
+13	his	his	_	PRP$	_	14	NMOD	45773	_
+14	beard	beard	_	NN	_	12	OBJ	45773	_
+15	.	.	_	.	_	11	P	_	_

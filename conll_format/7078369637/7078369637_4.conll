@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	265111	_
+2	lady	lady	_	NN	_	3	SBJ	265111	_
+3	speaking	speak	_	VBG	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	265115	_
+6	microphone	microphone	_	NN	_	4	PMOD	265115	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	265112	_
+9	man	man	_	NN	_	7	PMOD	265112	_
+10	holding	hold	_	VBG	_	9	APPO	_	_
+11	a	a	_	DT	_	12	NMOD	265114	_
+12	guitar	guitar	_	NN	_	10	OBJ	265114	_
+13	next to	next to	_	IN	_	0	ROOT	_	_
+14	her	her	_	PRP$	_	0	ROOT	0	_
+15	.	.	_	.	_	0	ROOT	_	_

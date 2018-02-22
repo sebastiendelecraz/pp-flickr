@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	929	_
+2	people	people	_	NN	_	3	SBJ	929	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	outside	outside	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	930	_
+6	blue	blue	_	JJ	_	8	NMOD	930	_
+7	tent	tent	_	NN	_	8	NMOD	930	_
+8	structure	structure	_	NN	_	4	PMOD	930	_
+9	on	on	_	IN	_	3	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	932	_
+11	snowy	snowy	_	JJ	_	12	NMOD	932	_
+12	surface	surface	_	NN	_	9	PMOD	932	_
+13	.	.	_	.	_	0	ROOT	_	_

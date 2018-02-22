@@ -1,0 +1,10 @@
+1	two	two	_	CD	_	2	NMOD	24544	_
+2	people	people	_	NN	_	3	SBJ	24544	_
+3	running	run	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	24545	_
+6	shore	shore	_	NN	_	4	PMOD	24545	_
+7	of	of	_	IN	_	6	NMOD	24545	6
+8	a	a	_	DT	_	9	NMOD	24545	_
+9	beach	beach	_	NN	_	7	PMOD	24545	_
+10	.	.	_	.	_	0	ROOT	_	_

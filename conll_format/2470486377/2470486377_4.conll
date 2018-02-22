@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	51857	_
+2	boys	boy	_	NNS	_	3	SBJ	51857	_
+3	talk	talk	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	51856	_
+6	field	field	_	NN	_	4	PMOD	51856	_
+7	near	near	_	IN	_	3	LOC	_	3
+8	palm	palm	_	NN	_	9	NMOD	51862	_
+9	trees	tree	_	NNS	_	7	PMOD	51862	_
+10	.	.	_	.	_	3	P	_	_

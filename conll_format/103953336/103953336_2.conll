@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	4	NMOD	1032	_
+2	solitary	solitary	_	JJ	_	4	NMOD	1032	_
+3	man	man	_	NN	_	4	NMOD	1032	_
+4	stand	stand	_	NN	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	1033	_
+7	bridge	bridge	_	NN	_	5	PMOD	1033	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	1036	_
+10	evening	evening	_	NN	_	8	PMOD	1036	_
+11	.	.	_	.	_	0	ROOT	_	_

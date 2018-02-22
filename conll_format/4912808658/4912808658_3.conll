@@ -1,0 +1,10 @@
+1	Jamaican	Jamaican	_	JJ	_	2	NMOD	217533	_
+2	musician	musician	_	NN	_	3	SBJ	217533	_
+3	entertaining	entertain	_	VBG	_	0	ROOT	_	_
+4	passers	passer	_	NNS	_	3	OBJ	217537	_
+5	on	on	_	IN	_	3	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	217538	_
+7	sidewalk	sidewalk	_	NN	_	5	PMOD	217538	_
+8	for	for	_	IN	_	7	NMOD	_	3
+9	tips	tip	_	NNS	_	8	PMOD	217539	_
+10	.	.	_	.	_	0	ROOT	_	_

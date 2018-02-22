@@ -1,0 +1,12 @@
+1	Brown	Brown	_	NNP	_	4	NMOD	14392	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	white	white	_	JJ	_	2	CONJ	14389	_
+4	dog	dog	_	NN	_	5	SBJ	14389	_
+5	running	run	_	VBG	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	fall	fall	_	NN	_	8	NMOD	14390	_
+8	leaves	leaf	_	NNS	_	6	PMOD	14390	_
+9	on	on	_	IN	_	5	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	ground	ground	_	NN	_	9	PMOD	0	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	124558	_
+2	man	man	_	NN	_	9	SBJ	124558	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	124561	_
+5	black	black	_	JJ	_	6	NMOD	124561	_
+6	hat	hat	_	NN	_	3	PMOD	124561	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	glasses	glass	_	NNS	_	7	CONJ	124562	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	dining	dine	_	VBG	_	9	VC	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	three	three	_	CD	_	13	NMOD	124560	_
+13	others	other	_	NNS	_	11	PMOD	124560	_
+14	in	in	_	IN	_	10	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	124556	_
+16	restaurant	restaurant	_	NN	_	14	PMOD	124556	_
+17	.	.	_	.	_	9	P	_	_

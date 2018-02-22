@@ -1,0 +1,14 @@
+1	Woman	Woman	_	NNP	_	0	ROOT	572	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	red	red	_	JJ	_	4	NMOD	576	_
+4	windbreaker	windbreaker	_	NN	_	2	PMOD	576	_
+5	looking	look	_	VBG	_	0	ROOT	_	_
+6	though	though	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	9	NMOD	577	_
+8	rooftop	rooftop	_	NN	_	9	NMOD	577	_
+9	binoculars	binocular	_	NNS	_	6	PMOD	_	_
+10	at	at	_	IN	_	5	ADV	_	_
+11	the	the	_	DT	_	12	NMOD	573	_
+12	city	city	_	NN	_	10	PMOD	573	_
+13	below	below	_	IN	_	12	NMOD	_	_
+14	.	.	_	.	_	0	ROOT	_	_

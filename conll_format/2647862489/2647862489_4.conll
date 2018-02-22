@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	63803	_
+2	man	man	_	NN	_	6	SBJ	63803	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	63804	_
+5	backpack	backpack	_	NN	_	3	PMOD	63804	_
+6	engages	engage	_	VBZ	_	0	ROOT	_	_
+7	a	a	_	DT	_	8	NMOD	63809	_
+8	woman	woman	_	NN	_	6	OBJ	63809	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	the	the	_	DT	_	11	NMOD	63812	_
+11	street	street	_	NN	_	9	PMOD	63812	_
+12	in	in	_	IN	_	8	LOC	_	_
+13	conversation	conversation	_	NN	_	12	PMOD	63808	_
+14	.	.	_	.	_	6	P	_	_

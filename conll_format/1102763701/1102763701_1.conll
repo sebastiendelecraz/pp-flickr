@@ -1,0 +1,14 @@
+1	Young	Young	_	NNP	_	2	NMOD	2601	_
+2	individuals	individual	_	NNS	_	5	SBJ	2601	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	uniforms	uniform	_	NNS	_	3	PMOD	2602	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	gathering	gather	_	VBG	_	5	VC	_	_
+7	under	under	_	IN	_	6	LOC	_	6
+8	the	the	_	DT	_	9	NMOD	2603	_
+9	flags	flag	_	NNS	_	7	PMOD	2603	_
+10	of	of	_	IN	_	9	NMOD	2603	_
+11	several	several	_	DT	_	13	NMOD	2603	_
+12	different	different	_	JJ	_	13	NMOD	2603	_
+13	countries	country	_	NNS	_	10	PMOD	2603	_
+14	.	.	_	.	_	5	P	_	_

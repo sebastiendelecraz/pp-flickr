@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	176062	_
+2	crowd	crowd	_	NN	_	5	SBJ	176062	_
+3	of	of	_	IN	_	2	NMOD	176062	_
+4	people	people	_	NN	_	3	PMOD	176062	_
+5	have	have	_	VBP	_	0	ROOT	_	_
+6	gathered	gather	_	VBN	_	5	VC	_	_
+7	near	near	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	176063	_
+9	blue	blue	_	JJ	_	10	NMOD	176063	_
+10	truck	truck	_	NN	_	7	PMOD	176063	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	safety	safety	_	NN	_	13	NMOD	176067	_
+13	cones	cone	_	NNS	_	11	PMOD	176067	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	176068	_
+16	back	back	_	NN	_	14	PMOD	176068	_
+17	.	.	_	.	_	5	P	_	_

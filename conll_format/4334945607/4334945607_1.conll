@@ -1,0 +1,21 @@
+1	Two	Two	_	CD	_	2	NMOD	163803	_
+2	girls	girl	_	NNS	_	9	SBJ	163803	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	white	white	_	JJ	_	3	PMOD	163805	_
+5	and	and	_	CC	_	4	COORD	163805	_
+6	gold	gold	_	NN	_	8	NMOD	163805	_
+7	seductive	seductive	_	JJ	_	8	NMOD	163805	_
+8	costumes	costume	_	NNS	_	5	CONJ	163805	_
+9	are	be	_	VBP	_	0	ROOT	_	_
+10	standing	stand	_	VBG	_	9	VC	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	microphones	microphone	_	NNS	_	11	PMOD	163807	_
+13	next to	next to	_	IN	_	10	ADV	_	10
+14	an	an	_	DT	_	16	NMOD	163801	_
+15	older	old	_	JJR	_	16	NMOD	163801	_
+16	man	man	_	NN	_	13	PMOD	163801	_
+17	,	,	_	,	_	10	P	_	_
+18	playing	play	_	VBG	_	10	ADV	_	_
+19	the	the	_	DT	_	20	NMOD	163804	_
+20	guitar	guitar	_	NN	_	18	OBJ	163804	_
+21	.	.	_	.	_	9	P	_	_

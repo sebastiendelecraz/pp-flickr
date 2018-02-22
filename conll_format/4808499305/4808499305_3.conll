@@ -1,0 +1,11 @@
+1	Asian	Asian	_	JJ	_	4	NMOD	205175	_
+2	emo	emo	_	CD	_	4	NMOD	205175	_
+3	boy	boy	_	NN	_	4	NMOD	205175	_
+4	rests	rest	_	NNS	_	5	SBJ	_	_
+5	hands	hand	_	VBZ	_	0	ROOT	205182	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	hips	hip	_	NNS	_	6	PMOD	205183	_
+8	beside	beside	_	IN	_	5	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	205177	_
+10	river	river	_	NN	_	8	PMOD	205177	_
+11	.	.	_	.	_	5	P	_	_

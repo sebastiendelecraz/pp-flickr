@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	156476	_
+2	man	man	_	NN	_	11	SBJ	156476	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	156477	_
+5	blue	blue	_	JJ	_	6	NMOD	156477	_
+6	jersey	jersey	_	NN	_	3	PMOD	156477	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	blue	blue	_	JJ	_	10	NMOD	156485	_
+9	baseball	baseball	_	NN	_	10	NMOD	156485	_
+10	cap	cap	_	NN	_	7	CONJ	156485	_
+11	prepares	prepare	_	VBZ	_	0	ROOT	_	_
+12	food	food	_	NN	_	11	OBJ	156481	_
+13	while	while	_	IN	_	11	ADV	_	_
+14	standing	stand	_	VBG	_	13	SUB	_	_
+15	at	at	_	IN	_	14	ADV	_	14
+16	a	a	_	DT	_	17	NMOD	156478	_
+17	counter	counter	_	NN	_	15	PMOD	156478	_
+18	in front of	in front of	_	IN	_	14	ADV	_	_
+19	a	a	_	DT	_	20	NMOD	156480	_
+20	window	window	_	NN	_	18	PMOD	156480	_
+21	.	.	_	.	_	11	P	_	_

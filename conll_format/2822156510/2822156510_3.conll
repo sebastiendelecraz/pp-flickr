@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	74840	_
+2	group	group	_	NN	_	0	ROOT	74840	_
+3	of	of	_	IN	_	2	NMOD	74840	_
+4	men	man	_	NNS	_	3	PMOD	74840	_
+5	looking	look	_	VBG	_	4	APPO	_	_
+6	over	over	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	74842	_
+8	section	section	_	NN	_	6	PMOD	74842	_
+9	of	of	_	IN	_	8	NMOD	74842	_
+10	wooded	wood	_	VBN	_	11	NMOD	74842	_
+11	land	land	_	NN	_	9	PMOD	74842	_
+12	.	.	_	.	_	0	ROOT	_	_

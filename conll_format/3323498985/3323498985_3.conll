@@ -1,0 +1,10 @@
+1	a	a	_	DT	_	2	NMOD	109413	_
+2	surfer	surfer	_	NN	_	0	ROOT	109413	_
+3	falling	fall	_	VBG	_	2	APPO	_	_
+4	of	of	_	IN	_	3	ADV	_	_
+5	his	his	_	PRP$	_	6	NMOD	109417	_
+6	board	board	_	NN	_	4	PMOD	109417	_
+7	into	into	_	IN	_	3	DIR	_	3
+8	a	a	_	DT	_	9	NMOD	109414	_
+9	wave	wave	_	NN	_	7	PMOD	109414	_
+10	.	.	_	.	_	0	ROOT	_	_

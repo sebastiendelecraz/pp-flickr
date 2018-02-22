@@ -1,0 +1,14 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	195795	_
+4	produce	produce	_	NN	_	5	NMOD	195795	_
+5	section	section	_	NN	_	2	PRD	195795	_
+6	at	at	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	195793	_
+8	warehouse	warehouse	_	NN	_	9	NMOD	195793	_
+9	supermarket	supermarket	_	NN	_	6	PMOD	195793	_
+10	next to	next to	_	IN	_	5	NMOD	_	5
+11	a	a	_	DT	_	13	NMOD	195794	_
+12	deli	deli	_	NN	_	13	NMOD	195794	_
+13	counter	counter	_	NN	_	10	PMOD	195794	_
+14	.	.	_	.	_	2	P	_	_

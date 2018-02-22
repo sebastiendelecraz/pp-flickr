@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	258992	_
+2	string	string	_	NN	_	3	NMOD	258992	_
+3	quartet	quartet	_	NN	_	0	ROOT	258992	_
+4	busking	busk	_	VBG	_	3	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	258993	_
+7	crowd	crowd	_	NN	_	5	PMOD	258993	_
+8	on	on	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	258995	_
+10	street	street	_	NN	_	8	PMOD	258995	_
+11	.	.	_	.	_	0	ROOT	_	_

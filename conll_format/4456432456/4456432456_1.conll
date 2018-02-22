@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	170092	_
+2	woman	woman	_	NN	_	7	SBJ	170092	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	170093	_
+5	blue	blue	_	JJ	_	6	NMOD	170093	_
+6	coat	coat	_	NN	_	3	PMOD	170093	_
+7	walks	walk	_	VBZ	_	0	ROOT	_	_
+8	in front of	in front of	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	170095	_
+10	sign	sign	_	NN	_	8	PMOD	170095	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	green	green	_	JJ	_	13	NMOD	170096	_
+13	men	man	_	NNS	_	11	PMOD	170096	_
+14	walking	walk	_	VBG	_	13	APPO	_	_
+15	under	under	_	IN	_	14	LOC	_	_
+16	the	the	_	DT	_	18	NMOD	170097	_
+17	two	two	_	CD	_	18	NMOD	170097	_
+18	words	word	_	NNS	_	19	NMOD	170097	_
+19	:berlin	:berlin	_	CD	_	15	PMOD	170097	_
+20	and	and	_	CC	_	19	COORD	170097	_
+21	kathmandu	kathmandu	_	NN	_	20	CONJ	170097	_
+22	.	.	_	.	_	7	P	_	_

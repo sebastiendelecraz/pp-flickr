@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	108059	_
+2	young	young	_	JJ	_	3	NMOD	108059	_
+3	group	group	_	NN	_	8	SBJ	108059	_
+4	of	of	_	IN	_	3	NMOD	108059	_
+5	children	child	_	NNS	_	4	PMOD	108059	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	uniforms	uniform	_	NNS	_	6	PMOD	108061	_
+8	talk	talk	_	VBP	_	0	ROOT	_	_
+9	to	to	_	TO	_	8	ADV	_	_
+10	an	an	_	DT	_	12	NMOD	108058	_
+11	elderly	elderly	_	JJ	_	12	NMOD	108058	_
+12	woman	woman	_	NN	_	9	PMOD	108058	_
+13	with	with	_	IN	_	12	NMOD	_	12
+14	a	a	_	DT	_	15	NMOD	108062	_
+15	bag	bag	_	NN	_	13	PMOD	108062	_
+16	.	.	_	.	_	8	P	_	_

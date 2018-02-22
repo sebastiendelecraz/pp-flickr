@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	195799	_
+2	ladies	lady	_	NNS	_	0	ROOT	195799	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	195803	_
+5	stroller	stroller	_	NN	_	3	PMOD	195803	_
+6	standing	stand	_	VBG	_	5	APPO	_	_
+7	in front of	in front of	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	10	NMOD	195805	_
+9	deli	deli	_	NN	_	10	NMOD	195805	_
+10	counter	counter	_	NN	_	7	PMOD	195805	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	195801	_
+13	market	market	_	NN	_	11	PMOD	195801	_
+14	.	.	_	.	_	0	ROOT	_	_

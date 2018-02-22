@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	104808	_
+2	man	man	_	NN	_	7	SBJ	104808	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	104812	_
+5	black	black	_	JJ	_	6	NMOD	104812	_
+6	shirt	shirt	_	NN	_	3	PMOD	104812	_
+7	jumps	jump	_	VBZ	_	0	ROOT	_	_
+8	from	from	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	104809	_
+10	wooden	wooden	_	JJ	_	11	NMOD	104809	_
+11	plank	plank	_	NN	_	8	PMOD	104809	_
+12	on	on	_	IN	_	7	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	104815	_
+14	cloudy	cloudy	_	JJ	_	15	NMOD	104815	_
+15	day	day	_	NN	_	12	PMOD	104815	_
+16	.	.	_	.	_	7	P	_	_

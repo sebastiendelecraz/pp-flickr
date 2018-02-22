@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	139280	_
+2	woman	woman	_	NN	_	0	ROOT	139280	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	139282	_
+5	blue	blue	_	JJ	_	6	NMOD	139282	_
+6	sweater	sweater	_	NN	_	3	PMOD	139282	_
+7	with	with	_	IN	_	6	NMOD	_	2
+8	a	a	_	DT	_	10	NMOD	139281	_
+9	blue	blue	_	JJ	_	10	NMOD	139281	_
+10	scarf	scarf	_	NN	_	7	PMOD	139281	_
+11	around	around	_	IN	_	10	LOC	_	10
+12	her	her	_	PRP$	_	13	NMOD	139283	_
+13	head	head	_	NN	_	11	PMOD	139283	_
+14	.	.	_	.	_	0	ROOT	_	_

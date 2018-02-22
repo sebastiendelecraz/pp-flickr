@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	230554	_
+2	child	child	_	NN	_	3	SBJ	230554	_
+3	does	do	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	230556	_
+5	handstand	handstand	_	NN	_	3	OBJ	230556	_
+6	at	at	_	IN	_	3	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	230558	_
+8	edge	edge	_	NN	_	6	PMOD	230558	_
+9	of	of	_	IN	_	8	NMOD	230558	8
+10	a	a	_	DT	_	11	NMOD	230558	_
+11	beach	beach	_	NN	_	9	PMOD	230558	_
+12	.	.	_	.	_	3	P	_	_

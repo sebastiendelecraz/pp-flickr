@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	200621	_
+2	lady	lady	_	NN	_	12	SBJ	200621	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	black	black	_	JJ	_	5	NMOD	200623	_
+5	dress	dress	_	NN	_	3	PMOD	200623	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	200622	_
+8	girl	girl	_	NN	_	6	CONJ	200622	_
+9	in	in	_	IN	_	2	LOC	_	_
+10	pink	pink	_	NN	_	11	NMOD	200631	_
+11	dress	dress	_	NN	_	9	PMOD	200631	_
+12	is	be	_	VBZ	_	0	ROOT	_	_
+13	walking	walk	_	VBG	_	12	VC	_	_
+14	near	near	_	IN	_	13	LOC	_	13
+15	bicycle	bicycle	_	NN	_	14	PMOD	200625	_
+16	.	.	_	.	_	12	P	_	_

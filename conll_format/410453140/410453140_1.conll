@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	155609	_
+2	man	man	_	NN	_	3	SBJ	155609	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	in front of	in front of	_	IN	_	4	ADV	_	_
+6	glass	glass	_	NN	_	7	NMOD	155610	_
+7	doors	door	_	NNS	_	5	PMOD	155610	_
+8	with	with	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	11	NMOD	155613	_
+10	blue	blue	_	JJ	_	11	NMOD	155613	_
+11	spot	spot	_	NN	_	8	PMOD	155613	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	a	a	_	DT	_	15	NMOD	155614	_
+14	pink	pink	_	NN	_	15	NMOD	155614	_
+15	spot	spot	_	NN	_	12	CONJ	155614	_
+16	.	.	_	.	_	3	P	_	_

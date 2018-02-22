@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	164811	_
+2	people	people	_	NN	_	0	ROOT	164811	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	164812	_
+6	rock	rock	_	NN	_	4	PMOD	164812	_
+7	in	in	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	164813	_
+9	city	city	_	NN	_	10	NMOD	164813	_
+10	park	park	_	NN	_	7	PMOD	164813	_
+11	.	.	_	.	_	0	ROOT	_	_

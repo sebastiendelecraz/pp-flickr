@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	109612	_
+2	black	black	_	JJ	_	4	NMOD	109612	_
+3	standard	standard	_	NN	_	4	NMOD	109612	_
+4	poodle	poodle	_	NN	_	5	SBJ	109612	_
+5	running	run	_	VBG	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	109613	_
+8	snow	snow	_	NN	_	6	PMOD	109613	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	109614	_
+11	fenced-in	fenced-in	_	CD	_	12	NMOD	109614	_
+12	yard	yard	_	NN	_	9	PMOD	109614	_
+13	.	.	_	.	_	0	ROOT	_	_

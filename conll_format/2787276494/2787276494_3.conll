@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	72964	_
+2	little	little	_	JJ	_	3	NMOD	72964	_
+3	boy	boy	_	NN	_	0	ROOT	72964	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	red	red	_	JJ	_	6	NMOD	72969	_
+6	shorts	short	_	NNS	_	7	NMOD	72969	_
+7	jumps	jump	_	NNS	_	4	PMOD	_	_
+8	into	into	_	IN	_	3	TMP	_	7
+9	the	the	_	DT	_	10	NMOD	72967	_
+10	water	water	_	NN	_	8	PMOD	72967	_
+11	.	.	_	.	_	0	ROOT	_	_

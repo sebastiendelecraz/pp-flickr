@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	70757	_
+2	man	man	_	NN	_	0	ROOT	70757	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	white	white	_	JJ	_	5	NMOD	70760	_
+5	standing	standing	_	NN	_	3	PMOD	_	_
+6	at	at	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	70758	_
+8	microphone	microphone	_	NN	_	6	PMOD	70758	_
+9	in front of	in front of	_	IN	_	0	ROOT	_	_
+10	a	a	_	DT	_	11	NMOD	70763	_
+11	lip	lip	_	NN	_	9	PMOD	70763	_
+12	up	up	_	IN	_	11	NMOD	_	11
+13	red	red	_	JJ	_	14	NMOD	70759	_
+14	backdrop	backdrop	_	NN	_	12	PMOD	70759	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	43839	_
+2	young	young	_	JJ	_	3	NMOD	43839	_
+3	boy	boy	_	NN	_	11	SBJ	43839	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	6	NMOD	43840	_
+6	shirt	shirt	_	NN	_	4	PMOD	43840	_
+7	with	with	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	10	NMOD	43843	_
+9	blue	blue	_	JJ	_	10	NMOD	43843	_
+10	stripe	stripe	_	NN	_	7	PMOD	43843	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	playing	play	_	VBG	_	11	VC	_	_
+13	with	with	_	IN	_	12	ADV	_	_
+14	a	a	_	DT	_	15	NMOD	43844	_
+15	toy	toy	_	NN	_	13	PMOD	43844	_
+16	.	.	_	.	_	11	P	_	_

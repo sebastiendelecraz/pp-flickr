@@ -1,0 +1,40 @@
+1	A	a	_	DT	_	2	NMOD	144930	_
+2	man	man	_	NN	_	6	SBJ	144930	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	swimming	swim	_	VBG	_	5	NMOD	144935	_
+5	trunks	trunk	_	NNS	_	3	PMOD	144935	_
+6	stands	stand	_	VBZ	_	0	ROOT	_	_
+7	in front of	in front of	_	IN	_	6	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	144937	_
+9	door	door	_	NN	_	7	PMOD	144937	_
+10	of	of	_	IN	_	9	NMOD	144937	_
+11	a	a	_	DT	_	12	NMOD	144937	_
+12	house	house	_	NN	_	10	PMOD	144937	_
+13	,	,	_	,	_	6	P	_	_
+14	looking	look	_	VBG	_	0	ROOT	_	_
+15	at	at	_	IN	_	0	ROOT	_	_
+16	a	a	_	DT	_	18	NMOD	144934	_
+17	swimming	swimming	_	NN	_	18	NMOD	144934	_
+18	pool	pool	_	NN	_	0	ROOT	144934	_
+19	,	,	_	,	_	18	P	_	_
+20	out of	out of	_	IN	_	0	ROOT	_	_
+21	which	which	_	WDT	_	20	PMOD	0	_
+22	,	,	_	,	_	33	P	_	_
+23	directly	directly	_	RB	_	24	PMOD	_	_
+24	in front of	in front of	_	IN	_	33	ADV	_	_
+25	the	the	_	DT	_	27	NMOD	144936	_
+26	diving	dive	_	VBG	_	27	NMOD	144936	_
+27	board	board	_	NN	_	24	PMOD	144936	_
+28	,	,	_	,	_	33	P	_	_
+29	a	a	_	DT	_	30	NMOD	144932	_
+30	pair	pair	_	NN	_	33	SBJ	144932	_
+31	of	of	_	IN	_	30	NMOD	144932	_
+32	feet	foot	_	NNS	_	31	PMOD	144932	_
+33	are	be	_	VBP	_	0	ROOT	_	_
+34	sticking	stick	_	VBG	_	33	VC	_	_
+35	up	up	_	RP	_	34	PRT	_	_
+36	out of	out of	_	IN	_	34	ADV	_	34
+37	the	the	_	DT	_	39	NMOD	144938	_
+38	splashed	splash	_	VBN	_	39	NMOD	144938	_
+39	water	water	_	NN	_	36	PMOD	144938	_
+40	.	.	_	.	_	33	P	_	_

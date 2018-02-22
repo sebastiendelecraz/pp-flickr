@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	195955	_
+2	man	man	_	NN	_	7	SBJ	195955	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	195956	_
+5	red	red	_	JJ	_	6	NMOD	195956	_
+6	motorcycle	motorcycle	_	NN	_	3	PMOD	195956	_
+7	drives	drive	_	VBZ	_	0	ROOT	_	_
+8	through	through	_	IN	_	7	ADV	_	7
+9	traffic	traffic	_	NN	_	8	PMOD	195957	_
+10	on	on	_	IN	_	7	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	195960	_
+12	busy	busy	_	JJ	_	13	NMOD	195960	_
+13	street	street	_	NN	_	10	PMOD	195960	_
+14	.	.	_	.	_	7	P	_	_

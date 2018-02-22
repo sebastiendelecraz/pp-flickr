@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	254000	_
+2	person	person	_	NN	_	7	SBJ	254000	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	254004	_
+5	white	white	_	JJ	_	6	NMOD	254004	_
+6	hoodie	hoodie	_	NN	_	3	OBJ	254004	_
+7	gazes	gaze	_	VBZ	_	0	ROOT	_	_
+8	across	across	_	IN	_	7	LOC	_	7
+9	the	the	_	DT	_	10	NMOD	254003	_
+10	water	water	_	NN	_	8	PMOD	254003	_
+11	at	at	_	IN	_	7	LOC	_	_
+12	the	the	_	DT	_	14	NMOD	254005	_
+13	Washington	Washington	_	NNP	_	14	NAME	254005	_
+14	Monument	Monument	_	NNP	_	11	PMOD	254005	_
+15	during	during	_	IN	_	7	TMP	_	7
+16	dusk	dusk	_	NN	_	15	PMOD	254007	_
+17	.	.	_	.	_	7	P	_	_

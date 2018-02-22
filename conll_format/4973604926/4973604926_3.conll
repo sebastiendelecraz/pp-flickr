@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	225007	_
+2	man	man	_	NN	_	6	SBJ	225007	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	225008	_
+5	woman	woman	_	NN	_	3	CONJ	225008	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	in front of	in front of	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	225012	_
+10	building	building	_	NN	_	8	PMOD	225012	_
+11	with	with	_	IN	_	7	ADV	_	_
+12	some	some	_	DT	_	13	NMOD	225014	_
+13	graffiti	graffito	_	NNS	_	11	PMOD	225014	_
+14	on	on	_	IN	_	7	ADV	_	_
+15	it	it	_	PRP	_	14	PMOD	0	_
+16	.	.	_	.	_	6	P	_	_

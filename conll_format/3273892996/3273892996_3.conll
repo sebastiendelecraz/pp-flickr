@@ -1,0 +1,10 @@
+1	Men	Men	_	NNPS	_	2	SBJ	106118	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	standing	stand	_	VBG	_	2	VC	_	_
+4	around	around	_	IN	_	3	ADV	_	3
+5	produce	produce	_	NN	_	4	PMOD	106120	_
+6	at	at	_	IN	_	3	ADV	_	_
+7	an	an	_	DT	_	9	NMOD	106128	_
+8	open	open	_	JJ	_	9	NMOD	106128	_
+9	market	market	_	NN	_	6	PMOD	106128	_
+10	.	.	_	.	_	2	P	_	_

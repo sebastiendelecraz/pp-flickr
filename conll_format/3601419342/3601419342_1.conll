@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	130698	_
+2	girl	girl	_	NN	_	13	SBJ	130698	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	long	long	_	JJ	_	5	NMOD	130704	_
+5	blond-hair	blond-hair	_	CD	_	3	PMOD	130704	_
+6	in the middle of	in the middle of	_	IN	_	2	NMOD	130700	2
+7	nowhere	nowhere	_	NN	_	6	PMOD	130700	_
+8	with	with	_	IN	_	7	NMOD	130700	_
+9	mountains	mountain	_	NNS	_	8	PMOD	130700	_
+10	in	in	_	IN	_	2	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	background	background	_	NN	_	10	PMOD	0	_
+13	wearing	wear	_	VBG	_	0	ROOT	_	_
+14	a	a	_	DT	_	15	NMOD	130699	_
+15	shirt	shirt	_	NN	_	13	OBJ	130699	_
+16	from	from	_	IN	_	15	NMOD	_	15
+17	Argentina	Argentina	_	NNP	_	16	PMOD	130701	_
+18	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	12677	_
+2	man	man	_	NN	_	3	SBJ	12677	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	toward	toward	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	12680	_
+6	car	car	_	NN	_	4	PMOD	12680	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	12677	_
+9	parking	parking	_	NN	_	10	NMOD	12677	_
+10	lot	lot	_	NN	_	7	PMOD	12677	_
+11	.	.	_	.	_	3	P	_	_

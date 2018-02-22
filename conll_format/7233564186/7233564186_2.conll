@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	267301	_
+2	boy	boy	_	NN	_	3	SBJ	267301	_
+3	hanging	hang	_	VBG	_	0	ROOT	_	_
+4	upside	upside	_	RB	_	3	ADV	_	_
+5	down	down	_	IN	_	3	DIR	_	_
+6	on	on	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	267304	_
+8	ladder	ladder	_	NN	_	6	PMOD	267304	_
+9	next to	next to	_	IN	_	3	LOC	_	3
+10	another	another	_	DT	_	11	NMOD	267302	_
+11	boy	boy	_	NN	_	9	PMOD	267302	_
+12	climbing	climb	_	VBG	_	11	APPO	_	_
+13	a	a	_	DT	_	15	NMOD	267303	_
+14	knotted	knot	_	VBN	_	15	NMOD	267303	_
+15	rope	rope	_	NN	_	12	OBJ	267303	_
+16	.	.	_	.	_	0	ROOT	_	_

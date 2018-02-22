@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	5244	_
+2	boy	boy	_	NN	_	7	SBJ	5244	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	5245	_
+5	blue	blue	_	JJ	_	6	NMOD	5245	_
+6	shirt	shirt	_	NN	_	3	PMOD	5245	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	posing	pose	_	VBG	_	7	VC	_	_
+9	in front of	in front of	_	IN	_	8	ADV	_	_
+10	an	an	_	DT	_	12	NMOD	5247	_
+11	igloo	igloo	_	NN	_	12	NMOD	5247	_
+12	type	type	_	NN	_	9	PMOD	5247	_
+13	building	build	_	VBG	_	12	APPO	5247	_
+14	with	with	_	IN	_	13	ADV	_	_
+15	a	a	_	DT	_	16	NMOD	5246	_
+16	person	person	_	NN	_	14	PMOD	5246	_
+17	dangling	dangle	_	VBG	_	16	APPO	_	_
+18	from	from	_	IN	_	17	ADV	_	17
+19	a	a	_	DT	_	20	NMOD	5248	_
+20	rope	rope	_	NN	_	18	PMOD	5248	_
+21	above	above	_	IN	_	20	NMOD	_	17
+22	the	the	_	DT	_	23	NMOD	5247	_
+23	building	building	_	NN	_	21	PMOD	5247	_
+24	.	.	_	.	_	7	P	_	_

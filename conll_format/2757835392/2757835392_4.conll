@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	3	NMOD	70889	_
+2	old	old	_	JJ	_	3	NMOD	70889	_
+3	woman	woman	_	NN	_	8	SBJ	70889	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	70891	_
+6	black	black	_	JJ	_	7	NMOD	70891	_
+7	dress	dress	_	NN	_	4	PMOD	70891	_
+8	holds	hold	_	VBZ	_	0	ROOT	_	_
+9	a	a	_	DT	_	10	NMOD	70893	_
+10	loaf	loaf	_	NN	_	8	OBJ	70893	_
+11	of	of	_	IN	_	10	NMOD	70893	_
+12	bread	bread	_	NN	_	11	PMOD	70893	_
+13	outside	outside	_	IN	_	10	LOC	_	8
+14	a	a	_	DT	_	15	NMOD	70895	_
+15	door	door	_	NN	_	13	PMOD	70895	_
+16	.	.	_	.	_	8	P	_	_

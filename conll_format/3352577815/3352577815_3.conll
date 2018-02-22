@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	111972	_
+2	young	young	_	JJ	_	3	NMOD	111972	_
+3	woman	woman	_	NN	_	0	ROOT	111972	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	8	NMOD	111973	_
+6	chestnut	chestnut	_	JJ	_	8	NMOD	111973	_
+7	horse	horse	_	NN	_	8	NMOD	111973	_
+8	wrangles	wrangle	_	NNS	_	4	PMOD	_	_
+9	a	a	_	DT	_	10	NMOD	111974	_
+10	steer	steer	_	NN	_	8	ADV	111974	_
+11	during	during	_	IN	_	3	TMP	_	8
+12	a	a	_	DT	_	13	NMOD	111977	_
+13	rodeo	rodeo	_	NN	_	11	PMOD	111977	_
+14	.	.	_	.	_	0	ROOT	_	_

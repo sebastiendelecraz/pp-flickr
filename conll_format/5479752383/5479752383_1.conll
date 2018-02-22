@@ -1,0 +1,24 @@
+1	An	an	_	DT	_	3	NMOD	237278	_
+2	older	old	_	JJR	_	3	NMOD	237278	_
+3	man	man	_	NN	_	8	SBJ	237278	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	237281	_
+6	red	red	_	JJ	_	7	NMOD	237281	_
+7	jacket	jacket	_	NN	_	4	PMOD	237281	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	using	use	_	VBG	_	8	VC	_	_
+10	a	a	_	DT	_	11	NMOD	237280	_
+11	chainsaw	chainsaw	_	NN	_	9	OBJ	237280	_
+12	to	to	_	TO	_	9	OPRD	_	_
+13	cut	cut	_	VB	_	12	IM	_	_
+14	into	into	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	237284	_
+16	block	block	_	NN	_	14	PMOD	237284	_
+17	of	of	_	IN	_	16	NMOD	237284	_
+18	ice	ice	_	NN	_	17	PMOD	237284	_
+19	in front of	in front of	_	IN	_	13	LOC	_	_
+20	a	a	_	DT	_	22	NMOD	237283	_
+21	Kettle	Kettle	_	NNP	_	22	NAME	237283	_
+22	Corn	Corn	_	NNP	_	19	PMOD	237283	_
+23	stand	stand	_	VBP	_	9	OPRD	237283	_
+24	.	.	_	.	_	8	P	_	_

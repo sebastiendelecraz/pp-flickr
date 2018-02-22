@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	49203	_
+2	man	man	_	NN	_	3	SBJ	49203	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	in front of	in front of	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	49208	_
+7	microphone	microphone	_	NN	_	5	PMOD	49208	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	49211	_
+10	room	room	_	NN	_	8	PMOD	49211	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	individuals	individual	_	NNS	_	11	PMOD	49204	_
+13	sitting	sit	_	VBG	_	10	APPO	_	_
+14	on	on	_	IN	_	13	ADV	_	_
+15	chairs	chair	_	NNS	_	14	PMOD	49212	_
+16	in	in	_	IN	_	15	LOC	_	_
+17	rows	row	_	NNS	_	16	PMOD	49213	_
+18	around	around	_	IN	_	13	LOC	_	13
+19	the	the	_	DT	_	20	NMOD	49214	_
+20	edges	edge	_	NNS	_	18	PMOD	49214	_
+21	of	of	_	IN	_	20	NMOD	49214	_
+22	the	the	_	DT	_	23	NMOD	49214	_
+23	room	room	_	NN	_	21	PMOD	49214	_
+24	.	.	_	.	_	3	P	_	_

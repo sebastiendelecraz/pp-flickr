@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	0	ROOT	205287	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	inside	inside	_	IN	_	2	DIR	_	2
+4	and	and	_	CC	_	3	COORD	_	_
+5	beside	beside	_	IN	_	4	CONJ	_	_
+6	red	red	_	JJ	_	7	NMOD	205288	_
+7	booths	booth	_	NNS	_	3	PMOD	205288	_
+8	with	with	_	IN	_	2	ADV	_	_
+9	white	white	_	JJ	_	10	NMOD	205289	_
+10	circles	circle	_	NNS	_	8	PMOD	205289	_
+11	on	on	_	IN	_	2	ADV	_	_
+12	them	them	_	PRP	_	11	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

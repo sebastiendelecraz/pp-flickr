@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	212864	_
+2	person	person	_	NN	_	0	ROOT	212864	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	212866	_
+5	full-body	full-body	_	CD	_	6	NMOD	212866	_
+6	suit	suit	_	NN	_	3	PMOD	212866	_
+7	working	work	_	VBG	_	6	APPO	_	_
+8	on	on	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	212865	_
+10	big	big	_	JJ	_	11	NMOD	212865	_
+11	piece	piece	_	NN	_	8	PMOD	212865	_
+12	of	of	_	IN	_	11	NMOD	212865	_
+13	metal	metal	_	NN	_	12	PMOD	212865	_
+14	.	.	_	.	_	0	ROOT	_	_

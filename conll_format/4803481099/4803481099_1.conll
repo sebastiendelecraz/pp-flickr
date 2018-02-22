@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	3	NMOD	204365	_
+2	news	news	_	NN	_	3	NMOD	204365	_
+3	media	media	_	NNS	_	4	SBJ	204365	_
+4	van	van	_	VBP	_	0	ROOT	204365	_
+5	is	be	_	VBZ	_	4	OBJ	_	_
+6	set	set	_	VBN	_	5	VC	_	_
+7	up to	up to	_	IN	_	6	ADV	_	6
+8	broadcast	broadcast	_	NN	_	7	PMOD	_	_
+9	in the middle of	in the middle of	_	IN	_	6	TMP	204368	6
+10	a	a	_	DT	_	13	NMOD	204368	_
+11	large	large	_	JJ	_	13	NMOD	204368	_
+12	urban	urban	_	JJ	_	13	NMOD	204368	_
+13	street	street	_	NN	_	9	PMOD	204368	_
+14	as	as	_	IN	_	6	ADV	_	_
+15	an	an	_	DT	_	18	NMOD	204364	_
+16	Asian	Asian	_	JJ	_	18	NMOD	204364	_
+17	man	man	_	NN	_	18	NMOD	204364	_
+18	crosses	cross	_	NNS	_	14	PMOD	_	_
+19	the	the	_	DT	_	20	NMOD	204367	_
+20	road	road	_	NN	_	18	ADV	204367	_
+21	.	.	_	.	_	4	P	_	_

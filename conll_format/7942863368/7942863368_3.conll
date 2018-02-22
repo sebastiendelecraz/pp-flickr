@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	276831	_
+2	men	man	_	NNS	_	3	NMOD	276831	_
+3	one	one	_	CD	_	5	NMOD	276831	_
+4	wearing	wear	_	VBG	_	5	NMOD	_	_
+5	blue	blue	_	NN	_	8	SBJ	276825	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	one	one	_	CD	_	6	CONJ	276827	_
+8	wearing	wear	_	VBG	_	0	ROOT	_	_
+9	orange	orange	_	JJ	_	10	NMOD	276828	_
+10	run	run	_	VBN	_	8	OBJ	_	_
+11	around	around	_	IN	_	10	LOC	_	10
+12	the	the	_	DT	_	13	NMOD	276826	_
+13	track	track	_	NN	_	11	PMOD	276826	_
+14	during	during	_	IN	_	10	TMP	_	10
+15	a	a	_	DT	_	16	NMOD	276833	_
+16	race	race	_	NN	_	14	PMOD	276833	_
+17	.	.	_	.	_	0	ROOT	_	_

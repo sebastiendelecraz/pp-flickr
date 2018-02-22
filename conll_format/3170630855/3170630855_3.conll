@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	98005	_
+2	couple	couple	_	NN	_	3	NMOD	98005	_
+3	sit	sit	_	NN	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	6	NMOD	98009	_
+6	rock	rock	_	NN	_	4	PMOD	98009	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	talk	talk	_	NN	_	7	CONJ	_	_
+9	under	under	_	IN	_	3	LOC	_	8
+10	the	the	_	DT	_	11	NMOD	98016	_
+11	moonlight	moonlight	_	NN	_	9	PMOD	98016	_
+12	.	.	_	.	_	0	ROOT	_	_

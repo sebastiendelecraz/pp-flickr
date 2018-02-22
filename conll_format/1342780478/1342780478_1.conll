@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	9257	_
+2	man	man	_	NN	_	0	ROOT	9257	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	9259	_
+5	white	white	_	JJ	_	6	NMOD	9259	_
+6	shirt	shirt	_	NN	_	3	PMOD	9259	_
+7	and	and	_	CC	_	2	COORD	_	_
+8	tie	tie	_	VB	_	7	CONJ	9262	_
+9	is	be	_	VBZ	_	8	OBJ	_	_
+10	standing	stand	_	VBG	_	9	VC	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	9260	_
+13	sidewalk	sidewalk	_	NN	_	11	PMOD	9260	_
+14	between	between	_	IN	_	13	NMOD	_	10
+15	cement	cement	_	NN	_	16	NMOD	9261	_
+16	barriers	barrier	_	NNS	_	14	PMOD	9261	_
+17	.	.	_	.	_	0	ROOT	_	_

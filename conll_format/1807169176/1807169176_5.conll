@@ -1,0 +1,8 @@
+1	People	People	_	NNPS	_	2	NAME	21087	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	21088	_
+5	campfire	campfire	_	NN	_	3	PMOD	21088	_
+6	at	at	_	IN	_	2	LOC	_	_
+7	night	night	_	NN	_	6	PMOD	21089	_
+8	.	.	_	.	_	0	ROOT	_	_

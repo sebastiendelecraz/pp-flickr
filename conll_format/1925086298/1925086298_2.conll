@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	23305	_
+2	woman	woman	_	NN	_	3	SBJ	23305	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	23307	_
+6	desktop	desktop	_	JJ	_	7	NMOD	23307	_
+7	computer	computer	_	NN	_	4	PMOD	23307	_
+8	as	as	_	IN	_	3	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	23305	_
+10	woman	woman	_	NN	_	8	PMOD	23305	_
+11	standing	stand	_	VBG	_	10	APPO	_	_
+12	next to	next to	_	IN	_	11	LOC	_	11
+13	her	her	_	PRP$	_	14	NMOD	0	_
+14	points	point	_	NNS	_	15	AMOD	_	_
+15	out	out	_	RP	_	16	NMOD	_	_
+16	something	something	_	NN	_	12	PMOD	23311	_
+17	on	on	_	IN	_	16	NMOD	_	_
+18	the	the	_	DT	_	19	NMOD	23307	_
+19	screen	screen	_	NN	_	17	PMOD	23307	_
+20	.	.	_	.	_	3	P	_	_

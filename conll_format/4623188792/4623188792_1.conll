@@ -1,0 +1,26 @@
+1	Two	Two	_	CD	_	2	NMOD	183845	_
+2	men	man	_	NNS	_	3	SBJ	183845	_
+3	stand	stand	_	VBP	_	25	NMOD	_	_
+4	on	on	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	183850	_
+6	sidewalk	sidewalk	_	NN	_	4	PMOD	183850	_
+7	next to	next to	_	IN	_	3	LOC	_	3
+8	an	an	_	DT	_	10	NMOD	183856	_
+9	ATM	ATM	_	NNP	_	10	NMOD	183856	_
+10	sign	sign	_	NN	_	7	PMOD	183856	_
+11	,	,	_	,	_	25	P	_	_
+12	one	one	_	CD	_	25	NMOD	183859	_
+13	smoking	smoke	_	VBG	_	12	APPO	_	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	casual	casual	_	JJ	_	16	NMOD	183858	_
+16	wear	wear	_	NN	_	14	PMOD	183858	_
+17	,	,	_	,	_	25	P	_	_
+18	the	the	_	DT	_	20	NMOD	183862	_
+19	other	other	_	JJ	_	20	NMOD	183862	_
+20	drinks	drink	_	NNS	_	25	NMOD	183862	_
+21	a	a	_	DT	_	22	NMOD	183848	_
+22	beverage	beverage	_	NN	_	25	NMOD	183848	_
+23	wearing	wear	_	VBG	_	25	NMOD	_	_
+24	business	business	_	NN	_	25	NMOD	183852	_
+25	clothes	clothes	_	NNS	_	0	ROOT	183852	_
+26	.	.	_	.	_	25	P	_	_

@@ -1,0 +1,19 @@
+1	Two	Two	_	CD	_	2	NMOD	284074	_
+2	men	man	_	NNS	_	0	ROOT	284074	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	5	NMOD	284078	_
+5	performance	performance	_	NN	_	6	NMOD	284078	_
+6	one-piece-suits	one-piece-suits	_	CD	_	3	PMOD	284078	_
+7	,	,	_	,	_	0	ROOT	_	_
+8	performing	perform	_	VBG	_	0	ROOT	_	_
+9	what	what	_	WP	_	10	SBJ	0	_
+10	looks	look	_	VBZ	_	8	OBJ	_	_
+11	like	like	_	IN	_	10	ADV	_	10
+12	gymnastics	gymnastics	_	NN	_	13	NMOD	284076	_
+13	feats	feat	_	NNS	_	11	PMOD	284076	_
+14	in front of	in front of	_	IN	_	10	ADV	_	_
+15	an	an	_	DT	_	16	NMOD	284073	_
+16	audience	audience	_	NN	_	14	PMOD	284073	_
+17	,	,	_	,	_	10	P	_	_
+18	outside	outside	_	IN	_	10	ADV	_	_
+19	.	.	_	.	_	0	ROOT	_	_

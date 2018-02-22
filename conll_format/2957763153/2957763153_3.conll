@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	84149	_
+2	group	group	_	NN	_	5	SBJ	84149	_
+3	of	of	_	IN	_	2	NMOD	84149	_
+4	lifeguards	lifeguard	_	NNS	_	3	PMOD	84149	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	together	together	_	RB	_	5	ADV	_	_
+7	in	in	_	IN	_	5	LOC	_	_
+8	highchairs	highchair	_	NNS	_	7	PMOD	84148	_
+9	along	along	_	IN	_	5	LOC	_	5
+10	side	side	_	NN	_	9	PMOD	_	_
+11	the	the	_	DT	_	12	NMOD	84153	_
+12	shoreline	shoreline	_	NN	_	5	OBJ	84153	_
+13	of	of	_	IN	_	12	NMOD	84153	12
+14	a	a	_	DT	_	15	NMOD	84153	_
+15	beach	beach	_	NN	_	13	PMOD	84153	_
+16	.	.	_	.	_	5	P	_	_

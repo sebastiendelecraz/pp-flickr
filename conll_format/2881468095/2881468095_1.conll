@@ -1,0 +1,16 @@
+1	The	the	_	DT	_	2	NMOD	78685	_
+2	skateboarder	skateboarder	_	NN	_	3	SBJ	78685	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	balancing	balance	_	VBG	_	3	VC	_	_
+5	himself	himself	_	PRP	_	4	OBJ	0	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	his	his	_	PRP$	_	8	NMOD	78686	_
+8	skateboard	skateboard	_	NN	_	6	CONJ	78686	_
+9	on	on	_	IN	_	4	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	78687	_
+11	edge	edge	_	NN	_	9	PMOD	78687	_
+12	of	of	_	IN	_	11	NMOD	78687	11
+13	a	a	_	DT	_	15	NMOD	78687	_
+14	brick	brick	_	NN	_	15	NMOD	78687	_
+15	wall	wall	_	NN	_	12	PMOD	78687	_
+16	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	3	NMOD	223421	_
+2	blond	blond	_	JJ	_	3	NMOD	223421	_
+3	woman	woman	_	NN	_	8	SBJ	223421	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	223422	_
+6	black	black	_	JJ	_	7	NMOD	223422	_
+7	jacket	jacket	_	NN	_	4	PMOD	223422	_
+8	walks	walk	_	VBZ	_	0	ROOT	_	_
+9	in front of	in front of	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	223425	_
+11	wall	wall	_	NN	_	9	PMOD	223425	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	wall	wall	_	NN	_	14	NMOD	223424	_
+14	art	art	_	NN	_	12	PMOD	223424	_
+15	pushing	push	_	VBG	_	14	APPO	_	_
+16	a	a	_	DT	_	18	NMOD	223423	_
+17	red	red	_	JJ	_	18	NMOD	223423	_
+18	cart	cart	_	NN	_	15	OBJ	223423	_
+19	.	.	_	.	_	8	P	_	_

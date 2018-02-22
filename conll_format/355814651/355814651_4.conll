@@ -1,0 +1,9 @@
+1	children	child	_	NNS	_	0	ROOT	127444	_
+2	walking	walk	_	VBG	_	1	APPO	_	_
+3	between	between	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	127441	_
+5	row	row	_	NN	_	3	PMOD	127441	_
+6	of	of	_	IN	_	5	NMOD	127441	_
+7	large	large	_	JJ	_	8	NMOD	127441	_
+8	trees	tree	_	NNS	_	6	PMOD	127441	_
+9	.	.	_	.	_	0	ROOT	_	_

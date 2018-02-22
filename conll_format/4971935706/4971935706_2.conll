@@ -1,0 +1,15 @@
+1	three	three	_	CD	_	2	NMOD	224866	_
+2	people	people	_	NN	_	6	SBJ	224866	_
+3	over	over	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	224869	_
+5	culvert	culvert	_	NN	_	3	PMOD	224869	_
+6	looking	look	_	VBG	_	0	ROOT	_	_
+7	into	into	_	IN	_	6	ADV	_	6
+8	the	the	_	DT	_	9	NMOD	224867	_
+9	water	water	_	NN	_	7	PMOD	224867	_
+10	beside	beside	_	IN	_	6	LOC	_	6
+11	an	an	_	DT	_	14	NMOD	224868	_
+12	alligator	alligator	_	NN	_	13	NMOD	224868	_
+13	caution	caution	_	NN	_	14	NMOD	224868	_
+14	sign	sign	_	NN	_	10	PMOD	224868	_
+15	.	.	_	.	_	0	ROOT	_	_

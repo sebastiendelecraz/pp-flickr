@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	263906	_
+2	bearded	beard	_	VBN	_	3	NMOD	263906	_
+3	man	man	_	NN	_	7	SBJ	263906	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	all	all	_	DT	_	6	NMOD	263911	_
+6	black	black	_	JJ	_	4	OBJ	263911	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	across	across	_	IN	_	8	LOC	_	8
+10	the	the	_	DT	_	11	NMOD	263914	_
+11	street	street	_	NN	_	9	PMOD	263914	_
+12	from	from	_	IN	_	8	ADV	_	9
+13	a	a	_	DT	_	14	NMOD	263907	_
+14	Bradford	Bradford	_	NNP	_	16	NMOD	263907	_
+15	'	'	_	POS	_	14	SUFFIX	263907	_
+16	s	s	_	NN	_	12	PMOD	263907	_
+17	.	.	_	.	_	7	P	_	_

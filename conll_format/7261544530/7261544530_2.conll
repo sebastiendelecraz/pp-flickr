@@ -1,0 +1,15 @@
+1	In	in	_	IN	_	0	ROOT	_	_
+2	an	an	_	DT	_	3	NMOD	267664	_
+3	office	office	_	NN	_	1	PMOD	267664	_
+4	,	,	_	,	_	0	ROOT	_	_
+5	a	a	_	DT	_	6	NMOD	267660	_
+6	man	man	_	NN	_	0	ROOT	267660	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	11	NMOD	267661	_
+9	military	military	_	JJ	_	11	NMOD	267661	_
+10	uniform	uniform	_	NN	_	11	NMOD	267661	_
+11	talks	talk	_	NNS	_	7	PMOD	_	_
+12	into	into	_	IN	_	6	NMOD	_	11
+13	a	a	_	DT	_	14	NMOD	267663	_
+14	walkie-talkie	walkie-talkie	_	NN	_	12	PMOD	267663	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	27357	_
+2	women	woman	_	NNS	_	3	SBJ	27357	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	in front of	in front of	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	27356	_
+7	class	class	_	NN	_	5	PMOD	27356	_
+8	of	of	_	IN	_	7	NMOD	27356	_
+9	children	child	_	NNS	_	8	PMOD	27356	_
+10	talking	talk	_	VBG	_	7	APPO	_	_
+11	about	about	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	27359	_
+13	book	book	_	NN	_	11	PMOD	27359	_
+14	.	.	_	.	_	3	P	_	_

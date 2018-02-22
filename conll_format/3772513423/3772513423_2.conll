@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	141939	_
+2	man	man	_	NN	_	0	ROOT	141939	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	141943	_
+5	beard	beard	_	NN	_	3	PMOD	141943	_
+6	standing	stand	_	VBG	_	5	APPO	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	141942	_
+9	water	water	_	NN	_	7	PMOD	141942	_
+10	next to	next to	_	IN	_	2	NMOD	_	6
+11	a	a	_	DT	_	13	NMOD	141940	_
+12	wooden	wooden	_	JJ	_	13	NMOD	141940	_
+13	platform	platform	_	NN	_	10	PMOD	141940	_
+14	.	.	_	.	_	0	ROOT	_	_

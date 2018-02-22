@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	27230	_
+2	young	young	_	JJ	_	3	NMOD	27230	_
+3	man	man	_	NN	_	8	SBJ	27230	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	27231	_
+6	jean	jean	_	NN	_	7	NMOD	27231	_
+7	jacket	jacket	_	NN	_	4	PMOD	27231	_
+8	smiles	smile	_	VBZ	_	0	ROOT	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	0	_
+11	camera	camera	_	NN	_	9	PMOD	0	_
+12	inside	inside	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	14	NMOD	27238	_
+14	store	store	_	NN	_	12	PMOD	27238	_
+15	.	.	_	.	_	8	P	_	_

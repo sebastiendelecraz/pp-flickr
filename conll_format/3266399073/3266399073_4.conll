@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	105640	_
+2	group	group	_	NN	_	0	ROOT	105640	_
+3	of	of	_	IN	_	2	NMOD	105640	_
+4	people	people	_	NN	_	3	PMOD	105640	_
+5	in	in	_	IN	_	4	LOC	_	2
+6	a	a	_	DT	_	8	NMOD	105642	_
+7	dim	dim	_	JJ	_	8	NMOD	105642	_
+8	room	room	_	NN	_	5	PMOD	105642	_
+9	.	.	_	.	_	0	ROOT	_	_

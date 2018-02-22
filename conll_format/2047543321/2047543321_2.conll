@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	25806	_
+2	worker	worker	_	NN	_	3	SBJ	25806	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	atop	atop	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	25807	_
+6	pile	pile	_	NN	_	4	PMOD	25807	_
+7	of	of	_	IN	_	6	NMOD	25807	_
+8	rubble	rubble	_	NN	_	7	PMOD	25807	_
+9	with	with	_	IN	_	3	ADV	_	3
+10	a	a	_	DT	_	11	NMOD	25810	_
+11	hose	hose	_	NN	_	9	PMOD	25810	_
+12	in	in	_	IN	_	3	LOC	_	_
+13	his	his	_	PRP$	_	14	NMOD	25813	_
+14	hand	hand	_	NN	_	12	PMOD	25813	_
+15	.	.	_	.	_	3	P	_	_

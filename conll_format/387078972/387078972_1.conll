@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	3	NMOD	146415	_
+2	white	white	_	JJ	_	3	NMOD	146415	_
+3	dog	dog	_	NN	_	4	SBJ	146415	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	LOC	_	_
+6	some	some	_	DT	_	7	NMOD	146419	_
+7	rocks	rock	_	NNS	_	5	PMOD	146419	_
+8	along	along	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	146416	_
+10	house	house	_	NN	_	8	PMOD	146416	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	146417	_
+13	snow	snow	_	NN	_	11	PMOD	146417	_
+14	.	.	_	.	_	0	ROOT	_	_

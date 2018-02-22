@@ -1,0 +1,12 @@
+1	Fisheye	Fisheye	_	NNP	_	2	NMOD	132403	_
+2	view	view	_	NN	_	8	SBJ	132403	_
+3	of	of	_	IN	_	2	NMOD	132403	_
+4	a	a	_	DT	_	5	NMOD	132403	_
+5	man	man	_	NN	_	3	PMOD	132403	_
+6	in	in	_	IN	_	2	LOC	_	5
+7	Rollerblades	Rollerblades	_	NNPS	_	6	PMOD	132404	_
+8	grinding	grind	_	VBG	_	0	ROOT	_	_
+9	at the top of	at the top of	_	IN	_	8	ADV	132406	8
+10	a	a	_	DT	_	11	NMOD	132406	_
+11	ramp	ramp	_	NN	_	9	PMOD	132406	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	87817	_
+2	man	man	_	NN	_	3	PMOD	87817	_
+3	inside	inside	_	IN	_	8	ADV	_	2
+4	a	a	_	DT	_	7	NMOD	87819	_
+5	red	red	_	JJ	_	7	NMOD	87819	_
+6	race	race	_	NN	_	7	NMOD	87819	_
+7	car	car	_	NN	_	3	PMOD	87819	_
+8	gives	give	_	VBZ	_	0	ROOT	_	_
+9	a	a	_	DT	_	10	NMOD	87821	_
+10	thumbs	thumb	_	NNS	_	8	OBJ	87821	_
+11	up	up	_	IN	_	10	NMOD	_	10
+12	sign	sign	_	NN	_	11	AMOD	87823	_
+13	.	.	_	.	_	8	P	_	_

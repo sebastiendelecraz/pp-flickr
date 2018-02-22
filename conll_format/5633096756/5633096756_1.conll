@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	240062	_
+2	young	young	_	JJ	_	3	NMOD	240062	_
+3	person	person	_	NN	_	7	SBJ	240062	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	240065	_
+6	helmet	helmet	_	NN	_	4	OBJ	240065	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	jumping	jump	_	VBG	_	7	VC	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	air	air	_	NN	_	9	PMOD	0	_
+12	during	during	_	IN	_	8	TMP	_	8
+13	a	a	_	DT	_	14	NMOD	240064	_
+14	gymnastics	gymnastics	_	NN	_	12	PMOD	240064	_
+15	routine	routine	_	JJ	_	8	TMP	240064	_
+16	.	.	_	.	_	7	P	_	_

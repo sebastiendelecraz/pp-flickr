@@ -1,0 +1,14 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	6	DEP	_	_
+3	a	a	_	DT	_	5	NMOD	278040	_
+4	large	large	_	JJ	_	5	NMOD	278040	_
+5	crowd	crowd	_	NN	_	6	SBJ	278040	_
+6	lined	line	_	VBD	_	0	ROOT	_	_
+7	up	up	_	RP	_	6	PRT	_	_
+8	along	along	_	IN	_	6	LOC	_	6
+9	either	either	_	DT	_	10	NMOD	278044	_
+10	side	side	_	NN	_	8	PMOD	278044	_
+11	of	of	_	IN	_	10	NMOD	278044	_
+12	this	this	_	DT	_	13	NMOD	278044	_
+13	road	road	_	NN	_	11	PMOD	278044	_
+14	.	.	_	.	_	6	P	_	_

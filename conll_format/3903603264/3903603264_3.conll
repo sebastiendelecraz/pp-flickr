@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	147579	_
+2	man	man	_	NN	_	3	SBJ	147579	_
+3	singing	sing	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	stage	stage	_	NN	_	4	PMOD	147589	_
+6	with	with	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	9	NMOD	147581	_
+8	female	female	_	JJ	_	9	NMOD	147581	_
+9	musician	musician	_	NN	_	6	PMOD	147581	_
+10	accompanying	accompany	_	VBG	_	9	APPO	_	_
+11	.	.	_	.	_	0	ROOT	_	_

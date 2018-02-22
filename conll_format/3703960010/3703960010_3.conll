@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	138037	_
+2	man	man	_	NN	_	0	ROOT	138037	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	7	NMOD	138040	_
+5	woman	woman	_	NN	_	6	NMOD	138040	_
+6	sit	sit	_	NN	_	7	NMOD	_	_
+7	back-to-back	back-to-back	_	NN	_	3	CONJ	_	_
+8	on	on	_	IN	_	2	NMOD	_	6
+9	a	a	_	DT	_	10	NMOD	138038	_
+10	bench	bench	_	NN	_	8	PMOD	138038	_
+11	outside	outside	_	IN	_	2	LOC	_	6
+12	a	a	_	DT	_	13	NMOD	138044	_
+13	storefront	storefront	_	NN	_	11	PMOD	138044	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	An	an	_	DT	_	3	NMOD	42716	_
+2	Asian	Asian	_	JJ	_	3	NMOD	42716	_
+3	band	band	_	NN	_	0	ROOT	42716	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	42713	_
+6	parade	parade	_	NN	_	4	PMOD	42713	_
+7	with	with	_	IN	_	6	NMOD	_	3
+8	a	a	_	DT	_	11	NMOD	42711	_
+9	female	female	_	JJ	_	11	NMOD	42711	_
+10	band	band	_	NN	_	11	NMOD	42711	_
+11	majorette	majorette	_	NN	_	7	PMOD	42711	_
+12	.	.	_	.	_	0	ROOT	_	_

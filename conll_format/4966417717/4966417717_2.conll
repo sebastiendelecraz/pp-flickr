@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	4	NMOD	224074	_
+2	older	old	_	JJR	_	4	NMOD	224074	_
+3	bald	bald	_	JJ	_	4	NMOD	224074	_
+4	man	man	_	NN	_	5	SBJ	224074	_
+5	runs	run	_	VBZ	_	0	ROOT	_	_
+6	near	near	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	10	NMOD	224075	_
+8	young	young	_	JJ	_	10	NMOD	224075	_
+9	black-haired	black-haired	_	JJ	_	10	NMOD	224075	_
+10	boy	boy	_	NN	_	6	PMOD	224075	_
+11	at	at	_	IN	_	5	TMP	_	_
+12	a	a	_	DT	_	13	NMOD	224076	_
+13	race	race	_	NN	_	11	PMOD	224076	_
+14	.	.	_	.	_	5	P	_	_

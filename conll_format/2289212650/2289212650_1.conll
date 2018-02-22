@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	39277	_
+2	white	white	_	JJ	_	7	SBJ	39277	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	39279	_
+5	white	white	_	JJ	_	6	NMOD	39279	_
+6	dog	dog	_	NN	_	3	CONJ	39279	_
+7	are	be	_	VBP	_	0	ROOT	_	_
+8	fighting	fight	_	VBG	_	7	VC	_	_
+9	over	over	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	39276	_
+11	stick	stick	_	NN	_	9	PMOD	39276	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	39275	_
+14	water	water	_	NN	_	12	PMOD	39275	_
+15	.	.	_	.	_	7	P	_	_

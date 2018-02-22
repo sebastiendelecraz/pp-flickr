@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	33616	_
+2	shirtless	shirtless	_	JJ	_	3	NMOD	33616	_
+3	man	man	_	NN	_	6	SBJ	33616	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	sunglasses	sunglass	_	NNS	_	4	PMOD	33617	_
+6	looks	look	_	VBZ	_	0	ROOT	_	_
+7	at	at	_	IN	_	6	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	0	_
+9	camera	camera	_	NN	_	7	PMOD	0	_
+10	during	during	_	IN	_	6	TMP	_	6
+11	a	a	_	DT	_	13	NMOD	33624	_
+12	beach	beach	_	NN	_	13	NMOD	33624	_
+13	party	party	_	NN	_	10	PMOD	33624	_
+14	.	.	_	.	_	6	P	_	_

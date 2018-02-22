@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	72938	_
+2	woman	woman	_	NN	_	6	SBJ	72938	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	72939	_
+5	bikini	bikini	_	NN	_	3	PMOD	72939	_
+6	pulls	pull	_	VBZ	_	0	ROOT	_	_
+7	a	a	_	DT	_	8	NMOD	72941	_
+8	dog	dog	_	NN	_	6	OBJ	72941	_
+9	on	on	_	IN	_	6	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	72942	_
+11	leash	leash	_	NN	_	9	PMOD	72942	_
+12	at	at	_	IN	_	6	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	72940	_
+14	beach	beach	_	NN	_	12	PMOD	72940	_
+15	.	.	_	.	_	6	P	_	_

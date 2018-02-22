@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	191634	_
+2	group	group	_	NN	_	0	ROOT	191634	_
+3	of	of	_	IN	_	2	NMOD	191634	_
+4	5	5	_	CD	_	5	NMOD	191634	_
+5	people	people	_	NN	_	3	PMOD	191634	_
+6	standing	stand	_	VBG	_	5	APPO	_	_
+7	outside	outside	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	191635	_
+9	stone-brick	stone-brick	_	CD	_	10	NMOD	191635	_
+10	building	building	_	NN	_	7	PMOD	191635	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	191640	_
+13	daylight	daylight	_	NN	_	11	PMOD	191640	_
+14	.	.	_	.	_	0	ROOT	_	_

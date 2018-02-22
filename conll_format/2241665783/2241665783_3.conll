@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	36259	_
+2	little	little	_	JJ	_	3	NMOD	36259	_
+3	boy	boy	_	NN	_	8	SBJ	36259	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	an	an	_	DT	_	7	NMOD	36260	_
+6	orange	orange	_	JJ	_	7	NMOD	36260	_
+7	backpack	backpack	_	NN	_	4	PMOD	36260	_
+8	walks	walk	_	VBZ	_	0	ROOT	_	_
+9	under	under	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	36264	_
+11	tree	tree	_	NN	_	9	PMOD	36264	_
+12	through	through	_	IN	_	8	DIR	_	8
+13	the	the	_	DT	_	14	NMOD	36262	_
+14	woods	wood	_	NNS	_	12	PMOD	36262	_
+15	.	.	_	.	_	8	P	_	_

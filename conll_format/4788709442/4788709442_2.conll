@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	202936	_
+2	girl	girl	_	NN	_	3	SBJ	202936	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	the	the	_	DT	_	7	NMOD	0	_
+7	ground	ground	_	NN	_	5	PMOD	0	_
+8	next to	next to	_	IN	_	4	TMP	_	4
+9	a	a	_	DT	_	10	NMOD	202939	_
+10	tree	tree	_	NN	_	8	PMOD	202939	_
+11	and	and	_	CC	_	3	COORD	_	_
+12	there	there	_	EX	_	13	SBJ	0	_
+13	is	be	_	VBZ	_	11	CONJ	_	_
+14	a	a	_	DT	_	15	NMOD	202935	_
+15	bicycle	bicycle	_	NN	_	13	PRD	202935	_
+16	in	in	_	IN	_	15	LOC	_	_
+17	the	the	_	DT	_	18	NMOD	202937	_
+18	tree	tree	_	NN	_	16	PMOD	202937	_
+19	.	.	_	.	_	3	P	_	_

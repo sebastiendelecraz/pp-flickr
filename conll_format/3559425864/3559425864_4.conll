@@ -1,0 +1,12 @@
+1	Bikers	biker	_	NNS	_	2	SBJ	127545	_
+2	getting	get	_	VBG	_	0	ROOT	_	_
+3	airborne	airborne	_	JJ	_	2	PRD	_	_
+4	on	on	_	IN	_	2	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	127552	_
+6	track	track	_	NN	_	4	PMOD	127552	_
+7	near	near	_	IN	_	6	LOC	_	2
+8	water	water	_	NN	_	7	PMOD	127548	_
+9	and	and	_	CC	_	6	COORD	_	_
+10	a	a	_	DT	_	11	NMOD	127555	_
+11	skyline	skyline	_	NN	_	9	CONJ	127555	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,28 @@
+1	An	an	_	DT	_	3	NMOD	218297	_
+2	Asian	Asian	_	JJ	_	3	NMOD	218297	_
+3	man	man	_	NN	_	4	SBJ	218297	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	standing	stand	_	VBG	_	4	VC	_	_
+6	in front of	in front of	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	218300	_
+8	desk	desk	_	NN	_	6	PMOD	218300	_
+9	with	with	_	IN	_	5	ADV	_	5
+10	a	a	_	DT	_	11	NMOD	218306	_
+11	computer	computer	_	NN	_	9	PMOD	218306	_
+12	on	on	_	IN	_	5	ADV	_	_
+13	it	it	_	PRP	_	12	PMOD	0	_
+14	and	and	_	CC	_	0	ROOT	_	_
+15	next to	next to	_	IN	_	0	ROOT	_	_
+16	a	a	_	DT	_	18	NMOD	218304	_
+17	projector	projector	_	NN	_	18	NMOD	218304	_
+18	screen	screen	_	NN	_	15	PMOD	218304	_
+19	with	with	_	IN	_	18	NMOD	_	_
+20	a	a	_	DT	_	21	NMOD	218304	_
+21	slide	slide	_	NN	_	19	PMOD	218304	_
+22	about	about	_	IN	_	21	NMOD	_	21
+23	the	the	_	DT	_	25	NMOD	218298	_
+24	Ford	Ford	_	NNP	_	25	NAME	218298	_
+25	Fiesta	Fiesta	_	NNP	_	22	PMOD	218298	_
+26	on	on	_	IN	_	21	LOC	_	_
+27	it	it	_	PRP	_	26	PMOD	0	_
+28	.	.	_	.	_	0	ROOT	_	_

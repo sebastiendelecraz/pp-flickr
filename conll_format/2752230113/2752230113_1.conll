@@ -1,0 +1,23 @@
+1	The	the	_	DT	_	3	NMOD	70619	_
+2	little	little	_	JJ	_	3	NMOD	70619	_
+3	girl	girl	_	NN	_	8	SBJ	70619	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	7	NMOD	70620	_
+6	pink	pink	_	NN	_	7	NMOD	70620	_
+7	shirt	shirt	_	NN	_	4	PMOD	70620	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	walking	walk	_	VBG	_	8	VC	_	_
+10	ahead of	ahead of	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	70621	_
+12	man	man	_	NN	_	10	PMOD	70621	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	woman	woman	_	NN	_	13	CONJ	70622	_
+15	on	on	_	IN	_	9	ADV	_	_
+16	the	the	_	DT	_	17	NMOD	70625	_
+17	side	side	_	NN	_	15	PMOD	70625	_
+18	of	of	_	IN	_	17	NMOD	70625	_
+19	the	the	_	DT	_	20	NMOD	70625	_
+20	body	body	_	NN	_	18	PMOD	70625	_
+21	of	of	_	IN	_	20	NMOD	70625	_
+22	water	water	_	NN	_	21	PMOD	70625	_
+23	.	.	_	.	_	8	P	_	_

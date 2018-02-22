@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	250033	_
+2	wares	ware	_	NNS	_	3	NMOD	250033	_
+3	peddler	peddler	_	NN	_	4	SBJ	250033	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	along	along	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	250036	_
+7	beach	beach	_	NN	_	5	PMOD	250036	_
+8	with	with	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	250034	_
+10	basket	basket	_	NN	_	8	PMOD	250034	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	her	her	_	PRP$	_	13	NMOD	250037	_
+13	head	head	_	NN	_	11	PMOD	250037	_
+14	.	.	_	.	_	0	ROOT	_	_

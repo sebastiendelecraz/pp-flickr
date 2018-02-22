@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	NAME	211981	_
+2	waiting	wait	_	VBG	_	0	ROOT	_	_
+3	at	at	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	211983	_
+5	bus	bus	_	NN	_	6	NMOD	211983	_
+6	stop	stop	_	NN	_	3	PMOD	211983	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	211984	_
+9	city	city	_	NN	_	7	PMOD	211984	_
+10	.	.	_	.	_	0	ROOT	_	_

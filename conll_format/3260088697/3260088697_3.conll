@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	105165	_
+2	boy	boy	_	NN	_	3	SBJ	105165	_
+3	running	run	_	VBG	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	MNR	_	3
+5	surf	surf	_	NN	_	4	PMOD	105168	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	105166	_
+8	beach	beach	_	NN	_	6	PMOD	105166	_
+9	.	.	_	.	_	0	ROOT	_	_

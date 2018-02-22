@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	199461	_
+2	man	man	_	NN	_	0	ROOT	199461	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	199466	_
+5	suit	suit	_	NN	_	3	PMOD	199466	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	9	NMOD	199464	_
+8	large	large	_	JJ	_	9	NMOD	199464	_
+9	bag	bag	_	NN	_	6	CONJ	199464	_
+10	walking	walk	_	VBG	_	9	APPO	_	_
+11	through	through	_	IN	_	10	DIR	_	10
+12	the	the	_	DT	_	13	NMOD	199465	_
+13	streets	street	_	NNS	_	11	PMOD	199465	_
+14	of	of	_	IN	_	13	NMOD	199465	_
+15	the	the	_	DT	_	16	NMOD	199465	_
+16	city	city	_	NN	_	14	PMOD	199465	_
+17	.	.	_	.	_	0	ROOT	_	_

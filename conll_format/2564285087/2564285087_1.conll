@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	3	NMOD	58334	_
+2	young	young	_	JJ	_	3	NMOD	58334	_
+3	boy	boy	_	NN	_	8	SBJ	58334	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	colorful	colorful	_	JJ	_	7	NMOD	58335	_
+6	swimming	swimming	_	NN	_	7	NMOD	58335	_
+7	trunks	trunk	_	NNS	_	4	OBJ	58335	_
+8	plays	play	_	VBZ	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	58336	_
+11	lawn	lawn	_	NN	_	9	PMOD	58336	_
+12	of	of	_	IN	_	11	NMOD	58336	_
+13	a	a	_	DT	_	15	NMOD	58336	_
+14	suburban	suburban	_	JJ	_	15	NMOD	58336	_
+15	home	home	_	NN	_	12	PMOD	58336	_
+16	,	,	_	,	_	8	P	_	_
+17	in view of	in view of	_	IN	_	8	ADV	58337	8
+18	a	a	_	DT	_	22	NMOD	58337	_
+19	sprinkler	sprinkler	_	NN	_	22	NMOD	58337	_
+20	and	and	_	CC	_	19	COORD	_	_
+21	flower	flower	_	NN	_	20	CONJ	58340	_
+22	beds	bed	_	NNS	_	17	PMOD	58340	_
+23	.	.	_	.	_	8	P	_	_

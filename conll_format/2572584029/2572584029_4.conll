@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	58765	_
+2	group	group	_	NN	_	5	SBJ	58765	_
+3	of	of	_	IN	_	2	NMOD	58765	_
+4	people	people	_	NN	_	3	PMOD	58765	_
+5	sift	sift	_	VBP	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	ADV	_	5
+7	shelves	shelf	_	NNS	_	6	PMOD	58768	_
+8	of	of	_	IN	_	7	NMOD	58768	_
+9	books	book	_	NNS	_	8	PMOD	58768	_
+10	.	.	_	.	_	5	P	_	_

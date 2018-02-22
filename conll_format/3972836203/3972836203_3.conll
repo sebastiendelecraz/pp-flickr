@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	150470	_
+2	young	young	_	JJ	_	3	NMOD	150470	_
+3	boy	boy	_	NN	_	4	SBJ	150470	_
+4	laying	lay	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	8	NMOD	150471	_
+7	hospital	hospital	_	NN	_	8	NMOD	150471	_
+8	bed	bed	_	NN	_	5	PMOD	150471	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	his	his	_	PRP$	_	11	NMOD	150472	_
+11	leg	leg	_	NN	_	9	PMOD	150472	_
+12	over	over	_	IN	_	11	NMOD	_	11
+13	the	the	_	DT	_	14	NMOD	0	_
+14	side	side	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

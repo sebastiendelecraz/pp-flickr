@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	3	NMOD	255784	_
+2	little	little	_	JJ	_	3	NMOD	255784	_
+3	girl	girl	_	NN	_	17	SBJ	255784	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	pigtails	pigtail	_	NNS	_	4	PMOD	255789	_
+6	and	and	_	CC	_	3	COORD	_	_
+7	a	a	_	DT	_	9	NMOD	255790	_
+8	white	white	_	JJ	_	9	NMOD	255790	_
+9	shirt	shirt	_	NN	_	6	CONJ	255790	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	a	a	_	DT	_	12	NMOD	255785	_
+12	woman	woman	_	NN	_	10	CONJ	255785	_
+13	in	in	_	IN	_	3	LOC	_	12
+14	a	a	_	DT	_	16	NMOD	255791	_
+15	black	black	_	JJ	_	16	NMOD	255791	_
+16	shirt	shirt	_	NN	_	13	PMOD	255791	_
+17	are	be	_	VBP	_	0	ROOT	_	_
+18	in front of	in front of	_	IN	_	17	LOC-PRD	_	_
+19	a	a	_	DT	_	21	NMOD	255787	_
+20	Christmas	Christmas	_	NNP	_	21	NMOD	255787	_
+21	tree	tree	_	NN	_	18	PMOD	255787	_
+22	,	,	_	,	_	17	P	_	_
+23	smiling	smile	_	VBG	_	17	ADV	_	_
+24	.	.	_	.	_	17	P	_	_

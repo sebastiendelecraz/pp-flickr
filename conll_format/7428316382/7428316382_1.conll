@@ -1,0 +1,14 @@
+1	young	young	_	JJ	_	2	NMOD	269732	_
+2	gentlemen	gentleman	_	NNS	_	3	SBJ	269732	_
+3	wearing	wear	_	VBG	_	6	SBJ	_	_
+4	green	green	_	JJ	_	5	NMOD	269734	_
+5	shorts	short	_	NNS	_	3	OBJ	269734	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	walking	walk	_	VBG	_	6	VC	_	_
+8	towards	towards	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	10	NMOD	269735	_
+10	ocean	ocean	_	NN	_	8	PMOD	269735	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	his	his	_	PRP$	_	13	NMOD	269733	_
+13	surfboard	surfboard	_	NN	_	11	PMOD	269733	_
+14	.	.	_	.	_	6	P	_	_

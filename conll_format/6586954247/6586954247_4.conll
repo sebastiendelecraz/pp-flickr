@@ -1,0 +1,15 @@
+1	Street	Street	_	NNP	_	2	NMOD	255915	_
+2	magician	magician	_	NN	_	0	ROOT	255915	_
+3	showing	show	_	VBG	_	2	APPO	_	_
+4	an	an	_	DT	_	5	NMOD	255920	_
+5	act	act	_	NN	_	3	OBJ	255920	_
+6	to	to	_	TO	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	255916	_
+8	group	group	_	NN	_	6	PMOD	255916	_
+9	of	of	_	IN	_	8	NMOD	255916	_
+10	5	5	_	CD	_	11	NMOD	255916	_
+11	people	people	_	NN	_	9	PMOD	255916	_
+12	in	in	_	IN	_	11	LOC	_	3
+13	a	a	_	DT	_	14	NMOD	255926	_
+14	city	city	_	NN	_	12	PMOD	255926	_
+15	.	.	_	.	_	0	ROOT	_	_

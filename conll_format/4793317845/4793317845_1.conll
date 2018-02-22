@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	203284	_
+2	crane	crane	_	NN	_	3	SBJ	203284	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	being	be	_	VBG	_	0	ROOT	_	_
+5	used	use	_	VBN	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	203293	_
+8	construction	construction	_	NN	_	6	PMOD	203293	_
+9	or	or	_	CC	_	8	COORD	203293	_
+10	destruction	destruction	_	NN	_	9	CONJ	203293	_
+11	of	of	_	IN	_	8	NMOD	203293	10
+12	a	a	_	DT	_	13	NMOD	203293	_
+13	building	building	_	NN	_	11	PMOD	203293	_
+14	along with	along with	_	IN	_	0	ROOT	_	_
+15	a	a	_	DT	_	16	NMOD	203285	_
+16	worker	worker	_	NN	_	0	ROOT	203285	_
+17	spraying	spray	_	VBG	_	16	APPO	_	_
+18	water	water	_	NN	_	17	OBJ	203287	_
+19	at	at	_	IN	_	17	ADV	_	_
+20	the	the	_	DT	_	21	NMOD	203286	_
+21	building	building	_	NN	_	19	PMOD	203286	_
+22	.	.	_	.	_	0	ROOT	_	_

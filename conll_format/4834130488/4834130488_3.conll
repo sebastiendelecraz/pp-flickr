@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	208982	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	relaxing	relax	_	VBG	_	2	VC	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	208987	_
+6	sidewalk	sidewalk	_	NN	_	4	PMOD	208987	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	the	the	_	DT	_	9	NMOD	208985	_
+9	statues	statue	_	NNS	_	7	PMOD	208985	_
+10	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	13472	_
+2	pitcher	pitcher	_	NN	_	0	ROOT	13472	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	13472	_
+5	catcher	catcher	_	NN	_	3	CONJ	13472	_
+6	talking	talk	_	VBG	_	5	NMOD	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	13475	_
+9	mound	mound	_	NN	_	7	PMOD	13475	_
+10	at	at	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	13	NMOD	13476	_
+12	baseball	baseball	_	NN	_	13	NMOD	13476	_
+13	field	field	_	NN	_	10	PMOD	13476	_
+14	.	.	_	.	_	0	ROOT	_	_

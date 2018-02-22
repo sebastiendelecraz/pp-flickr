@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	188616	_
+2	teacher	teacher	_	NN	_	3	SBJ	188616	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	up	up	_	RP	_	3	PRT	_	_
+5	in front of	in front of	_	IN	_	3	ADV	_	_
+6	her	her	_	PRP$	_	7	NMOD	188617	_
+7	students	student	_	NNS	_	5	PMOD	188617	_
+8	in	in	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	188619	_
+10	classroom	classroom	_	NN	_	8	PMOD	188619	_
+11	.	.	_	.	_	0	ROOT	_	_

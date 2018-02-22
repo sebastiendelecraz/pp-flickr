@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	78159	_
+2	boy	boy	_	NN	_	3	SBJ	78159	_
+3	standing	stand	_	VBG	_	12	SBJ	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	one	one	_	CD	_	6	NMOD	78164	_
+6	leg	leg	_	NN	_	4	PMOD	78164	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	water	water	_	NN	_	7	PMOD	78160	_
+9	and	and	_	CC	_	6	COORD	_	_
+10	one	one	_	CD	_	11	NMOD	78165	_
+11	leg	leg	_	NN	_	9	CONJ	78165	_
+12	held	hold	_	VBD	_	0	ROOT	_	_
+13	up	up	_	RP	_	12	PRT	_	_
+14	over	over	_	IN	_	12	LOC	_	12
+15	the	the	_	DT	_	16	NMOD	78160	_
+16	surface	surface	_	NN	_	14	PMOD	78160	_
+17	.	.	_	.	_	12	P	_	_

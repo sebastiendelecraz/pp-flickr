@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	100896	_
+2	men	man	_	NNS	_	8	SBJ	100896	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	gloves	glove	_	NNS	_	3	PMOD	100900	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	white	white	_	JJ	_	7	NMOD	100898	_
+7	overalls	overall	_	NNS	_	5	CONJ	100898	_
+8	stand	stand	_	VBP	_	0	ROOT	_	_
+9	behind	behind	_	IN	_	8	LOC	_	8
+10	several	several	_	DT	_	11	NMOD	100901	_
+11	containers	container	_	NNS	_	9	PMOD	100901	_
+12	of	of	_	IN	_	11	NMOD	100901	_
+13	seafood	seafood	_	NN	_	12	PMOD	100901	_
+14	.	.	_	.	_	8	P	_	_

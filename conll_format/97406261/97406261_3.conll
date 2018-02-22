@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	284674	_
+2	calico	calico	_	JJ	_	3	NMOD	284674	_
+3	cat	cat	_	NN	_	4	SBJ	284674	_
+4	raising	raise	_	VBG	_	0	ROOT	_	_
+5	its	its	_	PRP$	_	6	NMOD	284677	_
+6	paws	paw	_	NNS	_	4	OBJ	284677	_
+7	towards	towards	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	284675	_
+9	dog	dog	_	NN	_	7	PMOD	284675	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	an	an	_	DT	_	13	NMOD	284678	_
+12	open	open	_	JJ	_	13	NMOD	284678	_
+13	mouth	mouth	_	NN	_	10	PMOD	284678	_
+14	.	.	_	.	_	0	ROOT	_	_

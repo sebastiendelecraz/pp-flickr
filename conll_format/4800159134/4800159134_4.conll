@@ -1,0 +1,11 @@
+1	The	the	_	DT	_	2	NMOD	204060	_
+2	crowd	crowd	_	NN	_	3	SBJ	204060	_
+3	anticipates	anticipate	_	VBZ	_	0	ROOT	_	_
+4	the	the	_	DT	_	5	NMOD	204066	_
+5	Running	Running	_	NNP	_	3	OBJ	204066	_
+6	of	of	_	IN	_	5	NMOD	204066	_
+7	the	the	_	DT	_	8	NMOD	204066	_
+8	Bulls	Bulls	_	NNP	_	6	PMOD	204066	_
+9	in	in	_	IN	_	8	LOC	_	3
+10	Spain	Spain	_	NNP	_	9	PMOD	204065	_
+11	.	.	_	.	_	3	P	_	_

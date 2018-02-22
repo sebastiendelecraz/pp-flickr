@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	3	NMOD	276094	_
+2	small	small	_	JJ	_	3	NMOD	276094	_
+3	children	child	_	NNS	_	0	ROOT	276094	_
+4	walking	walk	_	VBG	_	3	APPO	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	tall	tall	_	JJ	_	7	NMOD	276097	_
+7	grass	grass	_	NN	_	5	PMOD	276097	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	276101	_
+10	woods	wood	_	NNS	_	8	PMOD	276101	_
+11	.	.	_	.	_	0	ROOT	_	_

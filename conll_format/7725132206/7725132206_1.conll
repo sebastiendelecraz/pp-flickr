@@ -1,0 +1,16 @@
+1	Four	Four	_	CD	_	2	NMOD	274202	_
+2	women	woman	_	NNS	_	0	ROOT	274202	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	swimsuits	swimsuit	_	NNS	_	3	PMOD	274203	_
+5	playing	play	_	VBG	_	4	APPO	_	_
+6	volleyball	volleyball	_	NN	_	5	OBJ	274205	_
+7	on	on	_	IN	_	5	ADV	_	5
+8	a	a	_	DT	_	9	NMOD	274210	_
+9	beach	beach	_	NN	_	7	PMOD	274210	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	cameramen	cameraman	_	NNS	_	10	PMOD	274211	_
+12	recording	record	_	VBG	_	11	APPO	_	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	background	background	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

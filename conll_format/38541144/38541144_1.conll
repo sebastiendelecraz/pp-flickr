@@ -1,0 +1,25 @@
+1	Young	Young	_	NNP	_	2	AMOD	145707	_
+2	male	male	_	JJ	_	12	SBJ	145707	_
+3	in	in	_	IN	_	12	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	145710	_
+5	white	white	_	JJ	_	7	NMOD	145710	_
+6	karate	karate	_	NN	_	7	NMOD	145710	_
+7	outfit	outfit	_	NN	_	3	PMOD	145710	_
+8	with	with	_	IN	_	7	NMOD	_	2
+9	a	a	_	DT	_	11	NMOD	145708	_
+10	blue	blue	_	JJ	_	11	NMOD	145708	_
+11	belt	belt	_	NN	_	8	PMOD	145708	_
+12	wrapped	wrap	_	VBD	_	16	SBJ	_	_
+13	around	around	_	IN	_	12	LOC	_	12
+14	his	his	_	PRP$	_	15	NMOD	145714	_
+15	waist	waist	_	NN	_	13	PMOD	145714	_
+16	performs	perform	_	VBZ	_	0	ROOT	_	_
+17	karate	karate	_	NN	_	18	NMOD	145709	_
+18	moves	move	_	NNS	_	16	OBJ	145709	_
+19	in front of	in front of	_	IN	_	16	ADV	_	_
+20	the	the	_	DT	_	21	NMOD	145711	_
+21	judges	judge	_	NNS	_	19	PMOD	145711	_
+22	of	of	_	IN	_	21	NMOD	145711	_
+23	the	the	_	DT	_	24	NMOD	145711	_
+24	competition	competition	_	NN	_	22	PMOD	145711	_
+25	.	.	_	.	_	16	P	_	_

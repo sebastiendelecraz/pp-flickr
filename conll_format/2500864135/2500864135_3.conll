@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	53559	_
+2	group	group	_	NN	_	5	SBJ	53559	_
+3	of	of	_	IN	_	2	NMOD	53559	_
+4	people	people	_	NN	_	3	PMOD	53559	_
+5	wait	wait	_	VBP	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	53564	_
+8	stop	stop	_	NN	_	6	PMOD	53564	_
+9	for	for	_	IN	_	5	TMP	_	5
+10	the	the	_	DT	_	12	NMOD	53566	_
+11	next	next	_	JJ	_	12	NMOD	53566	_
+12	trolley	trolley	_	NN	_	9	PMOD	53566	_
+13	.	.	_	.	_	5	P	_	_

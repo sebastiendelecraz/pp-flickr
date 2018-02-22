@@ -1,0 +1,11 @@
+1	Woman	Woman	_	NNP	_	0	ROOT	178224	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	man	man	_	NN	_	2	CONJ	178226	_
+4	with	with	_	IN	_	1	NMOD	_	_
+5	cane	cane	_	NN	_	7	NMOD	178230	_
+6	climb	climb	_	NN	_	7	NMOD	178230	_
+7	stairs	stair	_	NNS	_	4	PMOD	178230	_
+8	from	from	_	IN	_	7	NMOD	_	6
+9	underground	underground	_	JJ	_	10	NMOD	178232	_
+10	station	station	_	NN	_	8	PMOD	178232	_
+11	.	.	_	.	_	0	ROOT	_	_

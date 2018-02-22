@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	3	NMOD	42587	_
+2	young	young	_	JJ	_	3	NMOD	42587	_
+3	people	people	_	NN	_	4	SBJ	42587	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	a	a	_	DT	_	7	NMOD	42588	_
+7	prairie	prairie	_	NN	_	5	PMOD	42588	_
+8	towards	towards	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	42589	_
+10	hill	hill	_	NN	_	8	PMOD	42589	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	houses	house	_	NNS	_	11	PMOD	42591	_
+13	on	on	_	IN	_	4	ADV	_	_
+14	it	it	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

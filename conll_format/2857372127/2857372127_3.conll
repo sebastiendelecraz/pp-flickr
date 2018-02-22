@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	77125	_
+2	man	man	_	NN	_	0	ROOT	77125	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	77126	_
+5	brown	brown	_	JJ	_	6	NMOD	77126	_
+6	hat	hat	_	NN	_	3	PMOD	77126	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	bowtie	bowtie	_	CD	_	7	CONJ	77131	_
+9	with	with	_	IN	_	2	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	77128	_
+11	woman	woman	_	NN	_	9	PMOD	77128	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	16	NMOD	77127	_
+14	red	red	_	JJ	_	16	NMOD	77127	_
+15	flower	flower	_	NN	_	16	NMOD	77127	_
+16	hat	hat	_	NN	_	12	PMOD	77127	_
+17	.	.	_	.	_	0	ROOT	_	_

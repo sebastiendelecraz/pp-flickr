@@ -1,0 +1,9 @@
+1	Little	Little	_	NNP	_	2	NMOD	79092	_
+2	boy	boy	_	NN	_	3	SBJ	79092	_
+3	surrounded	surround	_	VBD	_	0	ROOT	_	_
+4	by	by	_	IN	_	3	EXT	_	3
+5	a	a	_	DT	_	6	NMOD	79093	_
+6	pile	pile	_	NN	_	4	PMOD	79093	_
+7	of	of	_	IN	_	6	NMOD	79093	_
+8	leaves	leaf	_	NNS	_	7	PMOD	79093	_
+9	.	.	_	.	_	3	P	_	_

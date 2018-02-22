@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	276092	_
+2	small	small	_	JJ	_	3	NMOD	276092	_
+3	male	male	_	JJ	_	4	SBJ	276092	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	walking	walk	_	VBG	_	4	VC	_	_
+6	behind	behind	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	276093	_
+8	larger	large	_	JJR	_	9	NMOD	276093	_
+9	male	male	_	NN	_	6	PMOD	276093	_
+10	through	through	_	IN	_	5	MNR	_	5
+11	some	some	_	DT	_	13	NMOD	276097	_
+12	high	high	_	JJ	_	13	NMOD	276097	_
+13	grass	grass	_	NN	_	10	PMOD	276097	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	276097	_
+16	park	park	_	NN	_	14	PMOD	276097	_
+17	.	.	_	.	_	4	P	_	_

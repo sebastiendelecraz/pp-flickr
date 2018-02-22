@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	157815	_
+2	bunch	bunch	_	NN	_	0	ROOT	157815	_
+3	of	of	_	IN	_	2	NMOD	157815	_
+4	people	people	_	NN	_	3	PMOD	157815	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	tables	table	_	NNS	_	6	PMOD	157818	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	drinks	drink	_	NNS	_	8	PMOD	157816	_
+10	.	.	_	.	_	0	ROOT	_	_

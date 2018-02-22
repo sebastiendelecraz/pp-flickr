@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	137557	_
+2	dogs	dog	_	NNS	_	3	SBJ	137557	_
+3	play	play	_	VBP	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	137558	_
+6	ball	ball	_	NN	_	4	PMOD	137558	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	137559	_
+9	field	field	_	NN	_	7	PMOD	137559	_
+10	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	267219	_
+2	man	man	_	NN	_	7	SBJ	267219	_
+3	drawing	draw	_	VBG	_	2	APPO	_	_
+4	pictures	picture	_	NNS	_	3	OBJ	267220	_
+5	of	of	_	IN	_	4	NMOD	267220	_
+6	individuals	individual	_	NNS	_	5	PMOD	267220	_
+7	sits	sit	_	VBZ	_	0	ROOT	_	_
+8	under	under	_	IN	_	7	LOC	_	7
+9	an	an	_	DT	_	10	NMOD	267221	_
+10	umbrella	umbrella	_	NN	_	8	PMOD	267221	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	previous	previous	_	JJ	_	13	NMOD	267225	_
+13	works	work	_	NNS	_	11	PMOD	267225	_
+14	such as	such as	_	IN	_	0	ROOT	_	_
+15	justin	justin	_	CD	_	16	NMOD	267230	_
+16	beiber	beiber	_	CD	_	14	PMOD	267230	_
+17	around	around	_	IN	_	0	ROOT	_	_
+18	him	him	_	PRP	_	17	PMOD	0	_
+19	.	.	_	.	_	0	ROOT	_	_

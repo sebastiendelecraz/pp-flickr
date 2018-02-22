@@ -1,0 +1,17 @@
+1	Men	Men	_	NNPS	_	2	SBJ	203280	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	outside of	outside of	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	203282	_
+5	store	store	_	NN	_	3	PMOD	203282	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	Indian	Indian	_	JJ	_	8	NMOD	203279	_
+8	writing	writing	_	NN	_	6	PMOD	203279	_
+9	as	as	_	IN	_	0	ROOT	_	_
+10	they	they	_	PRP	_	11	SBJ	0	_
+11	transport	transport	_	VBP	_	9	SUB	_	_
+12	metal	metal	_	NN	_	13	NMOD	203277	_
+13	buckets	bucket	_	NNS	_	11	OBJ	203277	_
+14	on	on	_	IN	_	13	NMOD	_	11
+15	a	a	_	DT	_	16	NMOD	203276	_
+16	bicycle	bicycle	_	NN	_	14	PMOD	203276	_
+17	.	.	_	.	_	0	ROOT	_	_

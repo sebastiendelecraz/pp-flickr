@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	65455	_
+2	city	city	_	NN	_	3	NMOD	65455	_
+3	street	street	_	NN	_	0	ROOT	65455	_
+4	crowded	crowd	_	VBN	_	3	APPO	_	_
+5	with	with	_	IN	_	4	ADV	_	_
+6	pedestrians	pedestrian	_	NNS	_	5	PMOD	65449	_
+7	outside	outside	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	65451	_
+9	building	building	_	NN	_	7	PMOD	65451	_
+10	with	with	_	IN	_	4	ADV	_	_
+11	illuminated	illuminate	_	VBN	_	13	NMOD	65452	_
+12	blue	blue	_	JJ	_	13	NMOD	65452	_
+13	words	word	_	NNS	_	10	PMOD	65452	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	173984	_
+2	man	man	_	NN	_	0	ROOT	173984	_
+3	in	in	_	IN	_	2	NMOD	_	_
+4	black	black	_	JJ	_	5	NMOD	173986	_
+5	cap	cap	_	NN	_	3	PMOD	173986	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	jacket	jacket	_	NN	_	6	CONJ	173988	_
+8	sitting	sit	_	VBG	_	5	APPO	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	blue	blue	_	JJ	_	12	NMOD	173985	_
+11	duffel	duffel	_	NN	_	12	NMOD	173985	_
+12	bag	bag	_	NN	_	9	PMOD	173985	_
+13	in front of	in front of	_	IN	_	8	LOC	_	8
+14	a	a	_	DT	_	15	NMOD	173989	_
+15	building	building	_	NN	_	13	PMOD	173989	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,9 @@
+1	Man	Man	_	NNP	_	2	SBJ	67913	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	on top of	on top of	_	IN	_	2	ADV	_	2
+4	jagged	jag	_	VBN	_	5	NMOD	67915	_
+5	rocks	rock	_	NNS	_	3	PMOD	67915	_
+6	near	near	_	IN	_	2	LOC	_	2
+7	the	the	_	DT	_	8	NMOD	67914	_
+8	ocean	ocean	_	NN	_	6	PMOD	67914	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	35822	_
+2	middle-aged	middle-aged	_	JJ	_	3	NMOD	35822	_
+3	men	man	_	NNS	_	0	ROOT	35822	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	business	business	_	NN	_	6	NMOD	35824	_
+6	clothing	clothing	_	NN	_	4	PMOD	35824	_
+7	on	on	_	IN	_	3	NMOD	_	_
+8	their	their	_	PRP$	_	9	NMOD	35825	_
+9	laptops	laptop	_	NNS	_	7	PMOD	35825	_
+10	in	in	_	IN	_	9	LOC	_	3
+11	a	a	_	DT	_	13	NMOD	35826	_
+12	bar	bar	_	NN	_	13	NMOD	35826	_
+13	scenario	scenario	_	NN	_	10	PMOD	35826	_
+14	.	.	_	.	_	0	ROOT	_	_

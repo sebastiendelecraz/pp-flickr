@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	142359	_
+2	bunch	bunch	_	NN	_	0	ROOT	142359	_
+3	of	of	_	IN	_	2	NMOD	142359	_
+4	people	people	_	NN	_	3	PMOD	142359	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	outside	outside	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	142360	_
+8	building	building	_	NN	_	6	PMOD	142360	_
+9	at	at	_	IN	_	8	LOC	_	_
+10	night	night	_	NN	_	9	PMOD	142366	_
+11	.	.	_	.	_	0	ROOT	_	_

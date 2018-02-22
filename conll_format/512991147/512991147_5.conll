@@ -1,0 +1,8 @@
+1	Man	Man	_	NNP	_	2	SBJ	229537	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	DIR	_	2
+4	large	large	_	JJ	_	5	NMOD	229538	_
+5	puddle	puddle	_	NN	_	3	PMOD	229538	_
+6	of	of	_	IN	_	5	NMOD	229538	_
+7	water	water	_	NN	_	6	PMOD	229538	_
+8	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	3	NMOD	108195	_
+2	basketball	basketball	_	NN	_	3	NMOD	108195	_
+3	players	player	_	NNS	_	6	SBJ	108195	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	white	white	_	JJ	_	4	PMOD	108205	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	defending	defend	_	VBG	_	6	VC	_	_
+8	against	against	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	11	NMOD	108194	_
+10	attacking	attack	_	VBG	_	11	NMOD	108194	_
+11	player	player	_	NN	_	8	PMOD	108194	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	the	the	_	DT	_	14	NMOD	108197	_
+14	ball	ball	_	NN	_	12	PMOD	108197	_
+15	in	in	_	IN	_	11	LOC	_	_
+16	orange	orange	_	JJ	_	15	PMOD	108196	_
+17	.	.	_	.	_	6	P	_	_

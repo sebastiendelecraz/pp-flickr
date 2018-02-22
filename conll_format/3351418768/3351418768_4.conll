@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	111860	_
+2	woman	woman	_	NN	_	6	SBJ	111860	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	two	two	_	CD	_	5	NMOD	111862	_
+5	children	child	_	NNS	_	3	CONJ	111862	_
+6	pose	pose	_	VBP	_	0	ROOT	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	111867	_
+9	picture	picture	_	NN	_	7	PMOD	111867	_
+10	under	under	_	IN	_	6	LOC	_	6
+11	some	some	_	DT	_	12	NMOD	111861	_
+12	rocks	rock	_	NNS	_	10	PMOD	111861	_
+13	.	.	_	.	_	6	P	_	_

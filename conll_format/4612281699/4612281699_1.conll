@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	182657	_
+2	young	young	_	JJ	_	3	NMOD	182657	_
+3	boy	boy	_	NN	_	8	SBJ	182657	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	a	a	_	DT	_	7	NMOD	182663	_
+6	young	young	_	JJ	_	7	NMOD	182663	_
+7	girl	girl	_	NN	_	4	CONJ	182663	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	holding	hold	_	VBG	_	8	VC	_	_
+10	hands	hand	_	NNS	_	9	OBJ	182665	_
+11	walking	walk	_	VBG	_	9	OPRD	_	_
+12	through	through	_	IN	_	11	ADV	_	11
+13	water	water	_	NN	_	12	PMOD	182659	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	182659	_
+16	street	street	_	NN	_	14	PMOD	182659	_
+17	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	99855	_
+2	men	man	_	NNS	_	0	ROOT	99855	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	as	as	_	IN	_	3	ADV	_	_
+5	Santa	Santa	_	NNP	_	6	NAME	99854	_
+6	Claus	Claus	_	NNP	_	7	NMOD	99854	_
+7	dance	dance	_	NN	_	4	PMOD	_	_
+8	on	on	_	IN	_	3	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	99856	_
+10	ledge	ledge	_	NN	_	8	PMOD	99856	_
+11	in front of	in front of	_	IN	_	3	TMP	_	7
+12	a	a	_	DT	_	13	NMOD	99860	_
+13	car	car	_	NN	_	11	PMOD	99860	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	74426	_
+2	player	player	_	NN	_	3	SBJ	74426	_
+3	kicks	kick	_	VBZ	_	0	ROOT	_	_
+4	the	the	_	DT	_	6	NMOD	74430	_
+5	soccer	soccer	_	NN	_	6	NMOD	74430	_
+6	ball	ball	_	NN	_	3	OBJ	74430	_
+7	from	from	_	IN	_	6	NMOD	_	3
+8	the	the	_	DT	_	9	NMOD	74432	_
+9	corner	corner	_	NN	_	7	PMOD	74432	_
+10	of	of	_	IN	_	9	NMOD	74432	_
+11	the	the	_	DT	_	12	NMOD	74432	_
+12	field	field	_	NN	_	10	PMOD	74432	_
+13	.	.	_	.	_	3	P	_	_

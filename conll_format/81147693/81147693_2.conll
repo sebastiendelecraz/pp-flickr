@@ -1,0 +1,20 @@
+1	An	an	_	DT	_	3	NMOD	279219	_
+2	Oriental	Oriental	_	JJ	_	3	NMOD	279219	_
+3	woman	woman	_	NN	_	8	SBJ	279219	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	279221	_
+6	pink	pink	_	NN	_	7	NMOD	279221	_
+7	jacket	jacket	_	NN	_	4	PMOD	279221	_
+8	smiles	smile	_	VBZ	_	0	ROOT	_	_
+9	as	as	_	IN	_	8	ADV	_	_
+10	she	she	_	PRP	_	11	SBJ	0	_
+11	shovels	shovel	_	VBZ	_	9	SUB	_	_
+12	snow	snow	_	NN	_	11	OBJ	279223	_
+13	from	from	_	IN	_	11	ADV	_	11
+14	the	the	_	DT	_	15	NMOD	279223	_
+15	sidewalk	sidewalk	_	NN	_	13	PMOD	279223	_
+16	in front of	in front of	_	IN	_	11	ADV	_	_
+17	a	a	_	DT	_	19	NMOD	279220	_
+18	pay	pay	_	NN	_	19	NMOD	279220	_
+19	phone	phone	_	NN	_	16	PMOD	279220	_
+20	.	.	_	.	_	8	P	_	_

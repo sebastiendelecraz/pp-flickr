@@ -1,0 +1,13 @@
+1	Four	Four	_	CD	_	2	NMOD	4121	_
+2	men	man	_	NNS	_	4	HMOD	4121	_
+3	-	-	_	HYPH	_	2	HYPH	_	_
+4	one	one	_	CD	_	5	NMOD	4126	_
+5	looking	look	_	VBG	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	10	NMOD	4122	_
+8	book	book	_	NN	_	10	HMOD	4122	_
+9	-	-	_	HYPH	_	8	HYPH	_	_
+10	sit	sit	_	NN	_	6	PMOD	_	_
+11	in front of	in front of	_	IN	_	10	NMOD	_	_
+12	laptops	laptop	_	NNS	_	11	PMOD	4123	_
+13	.	.	_	.	_	0	ROOT	_	_

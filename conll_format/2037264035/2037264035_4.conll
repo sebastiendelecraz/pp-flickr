@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	25412	_
+2	girl	girl	_	NN	_	3	SBJ	25412	_
+3	posing	pose	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	8	NMOD	25413	_
+6	open	open	_	JJ	_	8	NMOD	25413	_
+7	stone	stone	_	NN	_	8	NMOD	25413	_
+8	walkway	walkway	_	NN	_	4	PMOD	25413	_
+9	for	for	_	IN	_	8	NMOD	_	3
+10	a	a	_	DT	_	11	NMOD	25419	_
+11	picture	picture	_	NN	_	9	PMOD	25419	_
+12	taken	take	_	VBN	_	11	APPO	_	_
+13	by	by	_	IN	_	12	LGS	_	12
+14	a	a	_	DT	_	15	NMOD	25411	_
+15	friend	friend	_	NN	_	13	PMOD	25411	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	4	NMOD	52859	_
+2	small	small	_	JJ	_	3	NMOD	52859	_
+3	sweets	sweet	_	NNS	_	4	NMOD	52859	_
+4	vendor	vendor	_	NN	_	5	SBJ	52859	_
+5	sells	sell	_	VBZ	_	0	ROOT	_	_
+6	under	under	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	52868	_
+8	tent	tent	_	NN	_	6	PMOD	52868	_
+9	at	at	_	IN	_	5	TMP	_	_
+10	night	night	_	NN	_	9	PMOD	52869	_
+11	.	.	_	.	_	5	P	_	_

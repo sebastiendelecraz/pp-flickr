@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	52497	_
+2	woman	woman	_	NN	_	3	SBJ	52497	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	52503	_
+6	seat	seat	_	NN	_	4	PMOD	52503	_
+7	with	with	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	52500	_
+9	hat	hat	_	NN	_	7	PMOD	52500	_
+10	on	on	_	IN	_	3	ADV	_	_
+11	singing	sing	_	VBG	_	10	PMOD	52502	_
+12	.	.	_	.	_	0	ROOT	_	_

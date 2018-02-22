@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	265803	_
+2	crowd	crowd	_	NN	_	5	SBJ	265803	_
+3	of	of	_	IN	_	2	NMOD	265803	_
+4	people	people	_	NN	_	3	PMOD	265803	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	passing	pass	_	VBG	_	5	VC	_	_
+7	a	a	_	DT	_	8	NMOD	265804	_
+8	person	person	_	NN	_	6	OBJ	265804	_
+9	over	over	_	IN	_	6	ADV	_	6
+10	their	their	_	PRP$	_	11	NMOD	265813	_
+11	heads	head	_	NNS	_	9	PMOD	265813	_
+12	at	at	_	IN	_	6	ADV	_	_
+13	a	a	_	DT	_	15	NMOD	265806	_
+14	music	music	_	NN	_	15	NMOD	265806	_
+15	concert	concert	_	NN	_	12	PMOD	265806	_
+16	.	.	_	.	_	5	P	_	_

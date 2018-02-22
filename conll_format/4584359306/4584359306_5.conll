@@ -1,0 +1,8 @@
+1	Two	Two	_	CD	_	2	NMOD	180484	_
+2	women	woman	_	NNS	_	3	SBJ	180484	_
+3	talk	talk	_	VBP	_	0	ROOT	_	_
+4	over	over	_	IN	_	3	ADV	_	3
+5	lunch	lunch	_	NN	_	4	PMOD	180487	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	cafeteria	cafeteria	_	NN	_	6	PMOD	180485	_
+8	.	.	_	.	_	3	P	_	_

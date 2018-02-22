@@ -1,0 +1,23 @@
+1	Three	Three	_	CD	_	2	NMOD	69237	_
+2	men	man	_	NNS	_	3	SBJ	69237	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	69238	_
+6	sidewalk	sidewalk	_	NN	_	4	PMOD	69238	_
+7	up against	up against	_	IN	_	3	LOC	_	3
+8	the	the	_	DT	_	9	NMOD	69239	_
+9	building	building	_	NN	_	7	PMOD	69239	_
+10	,	,	_	,	_	3	P	_	_
+11	with	with	_	IN	_	3	ADV	_	_
+12	piles	pile	_	NNS	_	11	PMOD	69240	_
+13	of	of	_	IN	_	12	NMOD	69240	_
+14	dirt	dirt	_	NN	_	13	PMOD	69240	_
+15	and	and	_	CC	_	14	COORD	_	_
+16	an	an	_	DT	_	18	NMOD	69241	_
+17	orange	orange	_	JJ	_	18	NMOD	69241	_
+18	cone	cone	_	NN	_	15	CONJ	69241	_
+19	indicating	indicate	_	VBG	_	18	APPO	_	_
+20	the	the	_	DT	_	22	NMOD	69242	_
+21	work	work	_	NN	_	22	NMOD	69242	_
+22	area	area	_	NN	_	19	OBJ	69242	_
+23	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	73753	_
+2	young	young	_	JJ	_	3	NMOD	73753	_
+3	boy	boy	_	NN	_	0	ROOT	73753	_
+4	dumping	dump	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	73754	_
+6	pail	pail	_	NN	_	4	OBJ	73754	_
+7	of	of	_	IN	_	6	NMOD	73754	_
+8	water	water	_	NN	_	7	PMOD	73754	_
+9	over	over	_	IN	_	6	NMOD	_	4
+10	his	his	_	PRP$	_	11	NMOD	73756	_
+11	head	head	_	NN	_	9	PMOD	73756	_
+12	.	.	_	.	_	0	ROOT	_	_

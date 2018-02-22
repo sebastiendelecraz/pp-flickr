@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	91400	_
+2	child	child	_	NN	_	6	SBJ	91400	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	91401	_
+5	helmet	helmet	_	NN	_	3	PMOD	91401	_
+6	jumps	jump	_	VBZ	_	0	ROOT	_	_
+7	over	over	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	91402	_
+9	pile	pile	_	NN	_	7	PMOD	91402	_
+10	of	of	_	IN	_	9	NMOD	91402	_
+11	old	old	_	JJ	_	12	NMOD	91402	_
+12	tires	tire	_	NNS	_	10	PMOD	91402	_
+13	.	.	_	.	_	6	P	_	_

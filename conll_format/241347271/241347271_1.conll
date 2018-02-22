@@ -1,0 +1,7 @@
+1	Quarterback	Quarterback	_	NNP	_	2	SBJ	47495	_
+2	waiting	wait	_	VBG	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	snap	snap	_	NN	_	3	PMOD	47501	_
+5	of	of	_	IN	_	4	NMOD	47501	_
+6	football	football	_	NN	_	5	PMOD	47501	_
+7	.	.	_	.	_	0	ROOT	_	_

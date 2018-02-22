@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	282368	_
+2	kids	kid	_	NNS	_	3	SBJ	282368	_
+3	play	play	_	VBP	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	282370	_
+5	game	game	_	NN	_	3	OBJ	282370	_
+6	together with	together with	_	IN	_	3	ADV	_	3
+7	sticks	stick	_	NNS	_	6	PMOD	282372	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	282369	_
+10	snow	snow	_	NN	_	8	PMOD	282369	_
+11	.	.	_	.	_	3	P	_	_

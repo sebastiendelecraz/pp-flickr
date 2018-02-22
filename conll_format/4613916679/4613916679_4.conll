@@ -1,0 +1,15 @@
+1	People	People	_	NNPS	_	2	SBJ	182911	_
+2	gather	gather	_	VBP	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	182912	_
+5	lantern	lantern	_	NN	_	3	PMOD	182912	_
+6	to	to	_	TO	_	0	ROOT	_	_
+7	look	look	_	VB	_	6	IM	_	_
+8	at	at	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	182913	_
+10	colored	color	_	VBN	_	11	NMOD	182913	_
+11	mat	mat	_	NN	_	8	PMOD	182913	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	182914	_
+14	sand	sand	_	NN	_	12	PMOD	182914	_
+15	.	.	_	.	_	0	ROOT	_	_

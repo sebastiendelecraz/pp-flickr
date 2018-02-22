@@ -1,0 +1,11 @@
+1	Three	Three	_	CD	_	3	NMOD	4738	_
+2	young	young	_	JJ	_	3	NMOD	4738	_
+3	boys	boy	_	NNS	_	4	SBJ	4738	_
+4	playing	play	_	VBG	_	0	ROOT	_	_
+5	with	with	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	4739	_
+7	ball	ball	_	NN	_	5	PMOD	4739	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	4740	_
+10	park	park	_	NN	_	8	PMOD	4740	_
+11	.	.	_	.	_	0	ROOT	_	_

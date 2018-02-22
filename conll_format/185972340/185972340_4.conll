@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	22122	_
+2	vehicle	vehicle	_	NN	_	3	SBJ	22122	_
+3	climbs	climb	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	rocks	rock	_	NNS	_	4	PMOD	22123	_
+6	near	near	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	8	NMOD	22124	_
+8	forest	forest	_	NN	_	6	PMOD	22124	_
+9	.	.	_	.	_	3	P	_	_

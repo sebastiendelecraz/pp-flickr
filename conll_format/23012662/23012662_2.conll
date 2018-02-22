@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	40038	_
+2	blond	blond	_	JJ	_	3	NMOD	40038	_
+3	girl	girl	_	NN	_	8	SBJ	40038	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	40042	_
+6	tennis	tennis	_	NN	_	7	NMOD	40042	_
+7	uniform	uniform	_	NN	_	4	PMOD	40042	_
+8	walks	walk	_	VBZ	_	0	ROOT	_	_
+9	toward	toward	_	IN	_	8	DIR	_	8
+10	the	the	_	DT	_	12	NMOD	40044	_
+11	other	other	_	JJ	_	12	NMOD	40044	_
+12	side	side	_	NN	_	9	PMOD	40044	_
+13	of	of	_	IN	_	12	NMOD	40044	_
+14	th	th	_	NN	_	15	NMOD	40044	_
+15	court	court	_	NN	_	13	PMOD	40044	_
+16	.	.	_	.	_	8	P	_	_

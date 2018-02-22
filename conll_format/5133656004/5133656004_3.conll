@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	229582	_
+2	brown	brown	_	JJ	_	3	NMOD	229582	_
+3	dog	dog	_	NN	_	0	ROOT	229582	_
+4	sitting	sit	_	VBG	_	3	APPO	_	_
+5	under	under	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	229584	_
+7	bench	bench	_	NN	_	5	PMOD	229584	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	two	two	_	CD	_	10	NMOD	229583	_
+10	people	people	_	NN	_	8	PMOD	229583	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	background	background	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

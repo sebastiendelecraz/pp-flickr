@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	47668	_
+2	newly	newly	_	RB	_	3	AMOD	47668	_
+3	bathed	bath	_	VBN	_	4	NMOD	47668	_
+4	dog	dog	_	NN	_	5	SBJ	47668	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	wrapped	wrap	_	VBN	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	47670	_
+9	blanket	blanket	_	NN	_	7	PMOD	47670	_
+10	by	by	_	IN	_	6	LGS	_	6
+11	a	a	_	DT	_	13	NMOD	47667	_
+12	caring	care	_	VBG	_	13	NMOD	47667	_
+13	woman	woman	_	NN	_	10	PMOD	47667	_
+14	.	.	_	.	_	5	P	_	_

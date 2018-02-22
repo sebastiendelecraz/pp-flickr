@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	182880	_
+2	man	man	_	NN	_	3	SBJ	182880	_
+3	rides	ride	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	182885	_
+5	cart	cart	_	NN	_	3	OBJ	182885	_
+6	with	with	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	8	NMOD	182881	_
+8	display	display	_	NN	_	6	PMOD	182881	_
+9	asking	ask	_	VBG	_	8	APPO	_	_
+10	for	for	_	IN	_	9	ADV	_	9
+11	an	an	_	DT	_	12	NMOD	182881	_
+12	advertisement	advertisement	_	NN	_	10	PMOD	182881	_
+13	up	up	_	RP	_	9	PRT	_	_
+14	onto	onto	_	IN	_	9	ADV	_	3
+15	a	a	_	DT	_	16	NMOD	182888	_
+16	curb	curb	_	NN	_	14	PMOD	182888	_
+17	.	.	_	.	_	3	P	_	_

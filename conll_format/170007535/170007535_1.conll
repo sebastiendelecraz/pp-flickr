@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	18998	_
+2	man	man	_	NN	_	0	ROOT	18998	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	18999	_
+5	woman	woman	_	NN	_	3	CONJ	18999	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	wedding	wed	_	VBG	_	6	PMOD	19000	_
+8	clothes	clothes	_	NNS	_	7	OBJ	19000	_
+9	in back of	in back of	_	IN	_	7	ADV	19003	2
+10	a	a	_	DT	_	11	NMOD	19003	_
+11	limo	limo	_	NN	_	9	PMOD	19003	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	others	other	_	NNS	_	12	PMOD	19001	_
+14	of	of	_	IN	_	13	NMOD	19001	_
+15	a	a	_	DT	_	17	NMOD	19001	_
+16	wedding	wedding	_	NN	_	17	NMOD	19001	_
+17	party	party	_	NN	_	14	PMOD	19001	_
+18	.	.	_	.	_	0	ROOT	_	_

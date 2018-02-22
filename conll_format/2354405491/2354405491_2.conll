@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	43679	_
+2	young	young	_	JJ	_	3	NMOD	43679	_
+3	girl	girl	_	NN	_	8	SBJ	43679	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	43680	_
+6	white	white	_	JJ	_	7	NMOD	43680	_
+7	dress	dress	_	NN	_	4	OBJ	43680	_
+8	runs	run	_	VBZ	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	12	NMOD	43687	_
+11	green	green	_	JJ	_	12	NMOD	43687	_
+12	grass	grass	_	NN	_	9	PMOD	43687	_
+13	near	near	_	IN	_	12	LOC	_	8
+14	a	a	_	DT	_	15	NMOD	43681	_
+15	forest	forest	_	NN	_	13	PMOD	43681	_
+16	.	.	_	.	_	8	P	_	_

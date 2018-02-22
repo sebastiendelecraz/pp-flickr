@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	68	_
+2	men	man	_	NNS	_	5	SBJ	68	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	Germany	Germany	_	NNP	_	3	PMOD	72	_
+5	jumping	jump	_	VBG	_	0	ROOT	_	_
+6	over	over	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	69	_
+8	rail	rail	_	NN	_	6	PMOD	69	_
+9	at	at	_	IN	_	5	LOC	_	_
+10	the	the	_	DT	_	12	NMOD	74	_
+11	same	same	_	JJ	_	12	NMOD	74	_
+12	time	time	_	NN	_	9	PMOD	74	_
+13	without	without	_	IN	_	12	NMOD	_	5
+14	shirts	shirt	_	NNS	_	13	PMOD	71	_
+15	.	.	_	.	_	0	ROOT	_	_

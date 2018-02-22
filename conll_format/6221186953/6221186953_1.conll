@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	250456	_
+2	man	man	_	NN	_	6	SBJ	250456	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	250458	_
+5	woman	woman	_	NN	_	3	CONJ	250458	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	busy	busy	_	JJ	_	6	PRD	_	_
+8	working	work	_	VBG	_	6	VC	_	_
+9	together	together	_	RB	_	8	MNR	_	_
+10	at	at	_	IN	_	8	LOC	_	_
+11	the	the	_	DT	_	13	NMOD	250457	_
+12	front	front	_	NN	_	13	NMOD	250457	_
+13	desk	desk	_	NN	_	10	PMOD	250457	_
+14	of	of	_	IN	_	13	NMOD	250457	13
+15	a	a	_	DT	_	16	NMOD	250457	_
+16	building	building	_	NN	_	14	PMOD	250457	_
+17	.	.	_	.	_	6	P	_	_

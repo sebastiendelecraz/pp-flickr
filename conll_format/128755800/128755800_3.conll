@@ -1,0 +1,8 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	7364	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	over	over	_	IN	_	2	ADV	_	2
+4	bridge	bridge	_	NN	_	3	PMOD	7365	_
+5	with	with	_	IN	_	4	NMOD	_	_
+6	teal	teal	_	NN	_	7	NMOD	7366	_
+7	handrails	handrail	_	NNS	_	5	PMOD	7366	_
+8	.	.	_	.	_	0	ROOT	_	_

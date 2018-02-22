@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	256248	_
+2	little	little	_	JJ	_	3	NMOD	256248	_
+3	boy	boy	_	NN	_	0	ROOT	256248	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	256250	_
+6	hat	hat	_	NN	_	4	PMOD	256250	_
+7	with	with	_	IN	_	3	NMOD	_	6
+8	a	a	_	DT	_	11	NMOD	256249	_
+9	blue	blue	_	JJ	_	11	NMOD	256249	_
+10	band	band	_	NN	_	11	NMOD	256249	_
+11	drinking	drinking	_	NN	_	7	PMOD	_	_
+12	from	from	_	IN	_	11	NMOD	_	11
+13	a	a	_	DT	_	15	NMOD	256252	_
+14	pink	pink	_	NN	_	15	NMOD	256252	_
+15	cup	cup	_	NN	_	12	PMOD	256252	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	Boys	Boys	_	NNP	_	5	SBJ	242046	_
+2	in	in	_	IN	_	5	LOC	_	_
+3	baseball	baseball	_	NN	_	4	NMOD	242053	_
+4	jerseys	jersey	_	NNS	_	2	PMOD	242053	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	242047	_
+8	bench	bench	_	NN	_	6	PMOD	242047	_
+9	at	at	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	12	NMOD	242050	_
+11	baseball	baseball	_	NN	_	12	NMOD	242050	_
+12	game	game	_	NN	_	9	PMOD	242050	_
+13	.	.	_	.	_	5	P	_	_

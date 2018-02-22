@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	4622	_
+2	little	little	_	JJ	_	3	NMOD	4622	_
+3	boy	boy	_	NN	_	10	SBJ	4622	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	6	NMOD	4625	_
+6	pacifier	pacifier	_	NN	_	4	PMOD	4625	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	his	his	_	PRP$	_	9	NMOD	4628	_
+9	mouth	mouth	_	NN	_	7	PMOD	4628	_
+10	stands	stand	_	VBZ	_	0	ROOT	_	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	4624	_
+13	park	park	_	NN	_	11	PMOD	4624	_
+14	with	with	_	IN	_	13	NMOD	_	10
+15	a	a	_	DT	_	16	NMOD	4623	_
+16	goose	goose	_	NN	_	14	PMOD	4623	_
+17	.	.	_	.	_	10	P	_	_

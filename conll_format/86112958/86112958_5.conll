@@ -1,0 +1,9 @@
+1	a	a	_	DT	_	2	NMOD	281927	_
+2	group	group	_	NN	_	3	SBJ	281927	_
+3	posing	pose	_	VBG	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	SpongeBob	SpongeBob	_	NNP	_	4	PMOD	281928	_
+6	for	for	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	281936	_
+8	picture	picture	_	NN	_	6	PMOD	281936	_
+9	.	.	_	.	_	0	ROOT	_	_

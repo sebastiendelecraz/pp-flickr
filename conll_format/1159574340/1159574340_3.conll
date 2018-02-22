@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	4171	_
+2	child	child	_	NN	_	3	SBJ	4171	_
+3	jumps	jump	_	VBZ	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	4172	_
+6	water	water	_	NN	_	4	PMOD	4172	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	his	his	_	PRP$	_	9	NMOD	4176	_
+9	sneakers	sneaker	_	NNS	_	7	PMOD	4176	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,10 @@
+1	two	two	_	CD	_	2	NMOD	180543	_
+2	children	child	_	NNS	_	0	ROOT	180543	_
+3	asleep	asleep	_	RB	_	4	PMOD	_	_
+4	in	in	_	IN	_	2	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	180546	_
+6	back	back	_	NN	_	4	PMOD	180546	_
+7	of	of	_	IN	_	6	NMOD	180546	6
+8	a	a	_	DT	_	9	NMOD	180546	_
+9	car	car	_	NN	_	7	PMOD	180546	_
+10	.	.	_	.	_	0	ROOT	_	_

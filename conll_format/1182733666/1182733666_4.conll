@@ -1,0 +1,11 @@
+1	Men	Men	_	NNPS	_	4	NMOD	4641	_
+2	filling	fill	_	VBG	_	4	NMOD	_	_
+3	concrete	concrete	_	JJ	_	4	NMOD	4651	_
+4	basins	basin	_	NNS	_	0	ROOT	4651	_
+5	with	with	_	IN	_	4	NMOD	_	_
+6	water	water	_	NN	_	5	PMOD	4650	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	canvas	canvas	_	NN	_	7	CONJ	4652	_
+9	like	like	_	IN	_	4	NMOD	_	10
+10	material	material	_	NN	_	9	PMOD	4649	_
+11	.	.	_	.	_	0	ROOT	_	_

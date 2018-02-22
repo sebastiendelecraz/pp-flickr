@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	65992	_
+2	girl	girl	_	NN	_	0	ROOT	65992	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	65996	_
+5	newspaper	newspaper	_	NN	_	3	PMOD	65996	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	65995	_
+8	cafe	cafe	_	NN	_	6	PMOD	65995	_
+9	.	.	_	.	_	0	ROOT	_	_

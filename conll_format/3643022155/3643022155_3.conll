@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	133670	_
+2	young	young	_	JJ	_	4	NMOD	133670	_
+3	Asian	Asian	_	JJ	_	4	NMOD	133670	_
+4	girl	girl	_	NN	_	9	SBJ	133670	_
+5	with	with	_	IN	_	4	NMOD	_	_
+6	a	a	_	DT	_	8	NMOD	133671	_
+7	pink	pink	_	NN	_	8	NMOD	133671	_
+8	purse	purse	_	NN	_	5	PMOD	133671	_
+9	leans	lean	_	VBZ	_	0	ROOT	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	the	the	_	DT	_	12	NMOD	133677	_
+12	edge	edge	_	NN	_	10	PMOD	133677	_
+13	of	of	_	IN	_	12	NMOD	133677	12
+14	a	a	_	DT	_	15	NMOD	133677	_
+15	building	building	_	NN	_	13	PMOD	133677	_
+16	.	.	_	.	_	9	P	_	_

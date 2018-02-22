@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	63859	_
+2	man	man	_	NN	_	0	ROOT	63859	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	63860	_
+5	bike	bike	_	NN	_	3	PMOD	63860	_
+6	riding	ride	_	VBG	_	5	APPO	_	_
+7	home	home	_	NN	_	6	OBJ	63863	_
+8	from	from	_	IN	_	6	ADV	_	6
+9	a	a	_	DT	_	11	NMOD	63862	_
+10	long	long	_	JJ	_	11	NMOD	63862	_
+11	day	day	_	NN	_	8	PMOD	63862	_
+12	at	at	_	IN	_	6	ADV	_	_
+13	work	work	_	NN	_	12	PMOD	63866	_
+14	.	.	_	.	_	0	ROOT	_	_

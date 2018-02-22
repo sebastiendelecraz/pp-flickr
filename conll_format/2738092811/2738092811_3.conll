@@ -1,0 +1,15 @@
+1	Four	Four	_	CD	_	2	NMOD	69604	_
+2	people	people	_	NN	_	0	ROOT	69604	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	bright	bright	_	JJ	_	6	NMOD	69605	_
+5	blue	blue	_	JJ	_	6	NMOD	69605	_
+6	water	water	_	NN	_	3	PMOD	69605	_
+7	with	with	_	IN	_	2	NMOD	_	2
+8	a	a	_	DT	_	9	NMOD	69603	_
+9	child	child	_	NN	_	7	PMOD	69603	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	a	a	_	DT	_	14	NMOD	69606	_
+12	pink	pink	_	NN	_	13	NMOD	69606	_
+13	inter	inter	_	NN	_	14	NMOD	69606	_
+14	tube	tube	_	NN	_	10	PMOD	69606	_
+15	.	.	_	.	_	0	ROOT	_	_

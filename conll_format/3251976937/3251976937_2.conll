@@ -1,0 +1,14 @@
+1	Brown	Brown	_	NNP	_	2	NMOD	104514	_
+2	dog	dog	_	NN	_	3	SBJ	104514	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	snow	snow	_	NN	_	4	PMOD	104517	_
+6	with	with	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	104515	_
+8	snow	snow	_	NN	_	6	PMOD	104515	_
+9	covered	cover	_	VBN	_	10	NMOD	104515	_
+10	branch	branch	_	NN	_	3	OBJ	104515	_
+11	in	in	_	IN	_	3	LOC	_	_
+12	its	its	_	PRP$	_	13	NMOD	104516	_
+13	mouth	mouth	_	NN	_	11	PMOD	104516	_
+14	.	.	_	.	_	3	P	_	_

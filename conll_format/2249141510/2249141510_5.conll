@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	36733	_
+2	boy	boy	_	NN	_	0	ROOT	36733	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	5	NMOD	36734	_
+5	jumping	jumping	_	NN	_	3	PMOD	_	_
+6	into	into	_	IN	_	2	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	36737	_
+8	sandbox	sandbox	_	NN	_	6	PMOD	36737	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	16385	_
+2	band	band	_	NN	_	4	SBJ	16385	_
+3	,	,	_	,	_	2	P	_	_
+4	comprised	comprise	_	VBD	_	0	ROOT	_	_
+5	of	of	_	IN	_	4	ADV	_	_
+6	two	two	_	CD	_	7	NMOD	16381	_
+7	men	man	_	NNS	_	5	PMOD	16381	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	a	a	_	DT	_	11	NMOD	16382	_
+10	woman	woman	_	NN	_	11	NMOD	16382	_
+11	play	play	_	NN	_	8	CONJ	_	_
+12	for	for	_	IN	_	11	NMOD	_	11
+13	a	a	_	DT	_	14	NMOD	16386	_
+14	group	group	_	NN	_	12	PMOD	16386	_
+15	of	of	_	IN	_	14	NMOD	16386	_
+16	people	people	_	NN	_	15	PMOD	16386	_
+17	.	.	_	.	_	4	P	_	_

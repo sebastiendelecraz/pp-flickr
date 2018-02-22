@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	169732	_
+2	boys	boy	_	NNS	_	0	ROOT	169732	_
+3	near	near	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	169731	_
+5	goat	goat	_	NN	_	3	PMOD	169731	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	169734	_
+8	petting	petting	_	NN	_	9	NMOD	169734	_
+9	zoo	zoo	_	NN	_	6	PMOD	169734	_
+10	.	.	_	.	_	0	ROOT	_	_

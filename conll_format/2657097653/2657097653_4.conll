@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	64396	_
+2	rock	rock	_	NN	_	3	NMOD	64396	_
+3	band	band	_	NN	_	0	ROOT	64396	_
+4	playing	play	_	VBG	_	3	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	64397	_
+7	small	small	_	JJ	_	8	NMOD	64397	_
+8	audience	audience	_	NN	_	5	PMOD	64397	_
+9	in	in	_	IN	_	4	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	64405	_
+11	house	house	_	NN	_	9	PMOD	64405	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	178904	_
+2	person	person	_	NN	_	7	SBJ	178904	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	178905	_
+5	green	green	_	JJ	_	6	NMOD	178905	_
+6	sweatshirt	sweatshirt	_	NN	_	3	OBJ	178905	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	walking	walk	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	178906	_
+11	ledge	ledge	_	NN	_	9	PMOD	178906	_
+12	of	of	_	IN	_	11	NMOD	178906	11
+13	a	a	_	DT	_	14	NMOD	178906	_
+14	building	building	_	NN	_	12	PMOD	178906	_
+15	.	.	_	.	_	7	P	_	_

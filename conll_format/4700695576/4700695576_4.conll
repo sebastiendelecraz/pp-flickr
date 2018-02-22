@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	192705	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	6	NMOD	192714	_
+5	street	street	_	NN	_	6	NMOD	192714	_
+6	corner	corner	_	NN	_	3	PMOD	192714	_
+7	in	in	_	IN	_	6	LOC	_	2
+8	Asian	Asian	_	NNP	_	9	NAME	192707	_
+9	City	City	_	NNP	_	7	PMOD	192707	_
+10	.	.	_	.	_	0	ROOT	_	_

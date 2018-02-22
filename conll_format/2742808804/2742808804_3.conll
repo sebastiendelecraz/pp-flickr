@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	69768	_
+2	woman	woman	_	NN	_	0	ROOT	69768	_
+3	playing	play	_	VBG	_	0	ROOT	_	_
+4	hopscotch	hopscotch	_	NN	_	0	ROOT	69775	_
+5	with	with	_	IN	_	0	ROOT	_	_
+6	a	a	_	DT	_	0	ROOT	69771	_
+7	set	set	_	VBN	_	0	ROOT	69771	_
+8	of	of	_	IN	_	7	ADV	69771	_
+9	concrete	concrete	_	NN	_	8	PMOD	69771	_
+10	inside	inside	_	IN	_	7	LOC	_	9
+11	the	the	_	DT	_	12	NMOD	69773	_
+12	grass	grass	_	NN	_	10	PMOD	69773	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Travelers	Travelers	_	NNP	_	0	ROOT	185040	_
+2	with	with	_	IN	_	1	NMOD	_	_
+3	lots	lot	_	NNS	_	2	PMOD	185043	_
+4	of	of	_	IN	_	3	NMOD	185043	_
+5	luggage	luggage	_	NN	_	4	PMOD	185043	_
+6	standing	stand	_	VBG	_	3	APPO	_	_
+7	in the middle of	in the middle of	_	IN	_	6	ADV	185048	6
+8	a	a	_	DT	_	13	NMOD	185048	_
+9	large	large	_	JJ	_	13	NMOD	185048	_
+10	,	,	_	,	_	13	P	185048	_
+11	empty	empty	_	JJ	_	13	NMOD	185048	_
+12	city	city	_	NN	_	13	NMOD	185048	_
+13	area	area	_	NN	_	7	PMOD	185048	_
+14	.	.	_	.	_	0	ROOT	_	_

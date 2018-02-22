@@ -1,0 +1,10 @@
+1	An	an	_	DT	_	3	NMOD	211458	_
+2	Asian	Asian	_	JJ	_	3	NMOD	211458	_
+3	marketplace	marketplace	_	NN	_	4	SBJ	211458	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	open	open	_	JJ	_	4	PRD	_	_
+6	for	for	_	IN	_	4	ADV	_	5
+7	business	business	_	NN	_	6	PMOD	211460	_
+8	at	at	_	IN	_	4	TMP	_	_
+9	night	night	_	NN	_	8	PMOD	211461	_
+10	.	.	_	.	_	4	P	_	_

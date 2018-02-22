@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	177246	_
+2	group	group	_	NN	_	8	SBJ	177246	_
+3	of	of	_	IN	_	2	NMOD	177246	_
+4	cheerleaders	cheerleader	_	NNS	_	3	PMOD	177246	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	warm-up	warm-up	_	NN	_	7	NMOD	177253	_
+7	suits	suit	_	NNS	_	5	PMOD	177253	_
+8	posing	pose	_	VBG	_	0	ROOT	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	photo	photo	_	NN	_	9	PMOD	177250	_
+11	.	.	_	.	_	0	ROOT	_	_

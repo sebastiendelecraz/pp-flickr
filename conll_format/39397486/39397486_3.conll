@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	148848	_
+2	young	young	_	JJ	_	4	NMOD	148848	_
+3	boy	boy	_	NN	_	4	NMOD	148848	_
+4	presses	press	_	NNS	_	6	NMOD	_	_
+5	his	his	_	PRP$	_	6	NMOD	148851	_
+6	face	face	_	NN	_	0	ROOT	148851	_
+7	into	into	_	IN	_	6	NMOD	_	4
+8	his	his	_	PRP$	_	9	NMOD	148849	_
+9	plate	plate	_	NN	_	7	PMOD	148849	_
+10	of	of	_	IN	_	9	NMOD	148849	_
+11	food	food	_	NN	_	10	PMOD	148849	_
+12	.	.	_	.	_	0	ROOT	_	_

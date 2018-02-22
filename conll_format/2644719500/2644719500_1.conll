@@ -1,0 +1,15 @@
+1	The	the	_	DT	_	2	NMOD	63554	_
+2	newlyweds	newlywed	_	NNS	_	3	SBJ	63554	_
+3	cutting	cut	_	VBG	_	0	ROOT	_	_
+4	their	their	_	PRP$	_	6	NMOD	63555	_
+5	wedding	wedding	_	NN	_	6	NMOD	63555	_
+6	cake	cake	_	NN	_	3	OBJ	63555	_
+7	at	at	_	IN	_	3	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	63559	_
+9	reception	reception	_	NN	_	7	PMOD	63559	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	leis	lei	_	NNS	_	10	PMOD	63556	_
+12	around	around	_	IN	_	9	LOC	_	11
+13	their	their	_	PRP$	_	14	NMOD	63560	_
+14	necks	neck	_	NNS	_	12	PMOD	63560	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	222764	_
+2	woman	woman	_	NN	_	0	ROOT	222764	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	222769	_
+5	swimsuit	swimsuit	_	NN	_	3	PMOD	222769	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	on	on	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	222766	_
+9	bench	bench	_	NN	_	7	PMOD	222766	_
+10	with	with	_	IN	_	9	NMOD	_	6
+11	a	a	_	DT	_	12	NMOD	222767	_
+12	dog	dog	_	NN	_	10	PMOD	222767	_
+13	.	.	_	.	_	0	ROOT	_	_

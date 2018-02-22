@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	268737	_
+2	young	young	_	JJ	_	3	NMOD	268737	_
+3	boy	boy	_	NN	_	7	SBJ	268737	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	268740	_
+6	kitchen	kitchen	_	NN	_	4	PMOD	268740	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	mixing	mix	_	VBG	_	7	VC	_	_
+9	something	something	_	NN	_	8	OBJ	268747	_
+10	in	in	_	IN	_	8	LOC	_	8
+11	a	a	_	DT	_	12	NMOD	268739	_
+12	bowl	bowl	_	NN	_	10	PMOD	268739	_
+13	with	with	_	IN	_	12	NMOD	_	_
+14	a	a	_	DT	_	15	NMOD	268742	_
+15	spoon	spoon	_	NN	_	13	PMOD	268742	_
+16	.	.	_	.	_	7	P	_	_

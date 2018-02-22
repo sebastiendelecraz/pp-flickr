@@ -1,0 +1,11 @@
+1	Three	Three	_	CD	_	2	NMOD	81728	_
+2	greyhounds	greyhound	_	NNS	_	3	SBJ	81728	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC-PRD	_	3
+5	a	a	_	DT	_	7	NMOD	81730	_
+6	dog	dog	_	NN	_	7	NMOD	81730	_
+7	race	race	_	NN	_	4	PMOD	81730	_
+8	at	at	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	81731	_
+10	track	track	_	NN	_	8	PMOD	81731	_
+11	.	.	_	.	_	3	P	_	_

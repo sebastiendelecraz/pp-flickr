@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	40029	_
+2	woman	woman	_	NN	_	3	SBJ	40029	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	40035	_
+6	chair	chair	_	NN	_	4	PMOD	40035	_
+7	and	and	_	CC	_	3	COORD	_	_
+8	writes	write	_	VBZ	_	7	CONJ	_	_
+9	a	a	_	DT	_	10	NMOD	40031	_
+10	note	note	_	NN	_	8	OBJ	40031	_
+11	on	on	_	IN	_	8	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	40032	_
+13	piece	piece	_	NN	_	11	PMOD	40032	_
+14	of	of	_	IN	_	13	NMOD	40032	_
+15	paper	paper	_	NN	_	14	PMOD	40032	_
+16	.	.	_	.	_	3	P	_	_

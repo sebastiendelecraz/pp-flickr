@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	281174	_
+2	small	small	_	JJ	_	3	NMOD	281174	_
+3	child	child	_	NN	_	4	SBJ	281174	_
+4	hangs	hang	_	VBZ	_	0	ROOT	_	_
+5	upside	upside	_	RB	_	4	ADV	_	_
+6	down	down	_	RB	_	5	AMOD	_	_
+7	from	from	_	IN	_	4	ADV	_	4
+8	the	the	_	DT	_	9	NMOD	281177	_
+9	back	back	_	NN	_	7	PMOD	281177	_
+10	of	of	_	IN	_	9	NMOD	281177	_
+11	an	an	_	DT	_	12	NMOD	281177	_
+12	adult	adult	_	NN	_	10	PMOD	281177	_
+13	.	.	_	.	_	4	P	_	_

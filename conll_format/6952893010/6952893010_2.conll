@@ -1,0 +1,19 @@
+1	Blue	Blue	_	NNP	_	4	NMOD	262312	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	gray	gray	_	JJ	_	2	CONJ	262309	_
+4	sailboat	sailboat	_	NN	_	0	ROOT	262309	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	262311	_
+7	water	water	_	NN	_	5	PMOD	262311	_
+8	with	with	_	IN	_	4	NMOD	_	4
+9	a	a	_	DT	_	12	NMOD	262308	_
+10	few	few	_	DT	_	12	NMOD	262308	_
+11	other	other	_	JJ	_	12	NMOD	262308	_
+12	boats	boat	_	NNS	_	8	PMOD	262308	_
+13	in front of	in front of	_	IN	_	0	ROOT	_	_
+14	it	it	_	PRP	_	13	PMOD	0	_
+15	against	against	_	IN	_	0	ROOT	_	_
+16	a	a	_	DT	_	18	NMOD	262310	_
+17	gray	gray	_	JJ	_	18	NMOD	262310	_
+18	sky	sky	_	NN	_	15	PMOD	262310	_
+19	.	.	_	.	_	0	ROOT	_	_

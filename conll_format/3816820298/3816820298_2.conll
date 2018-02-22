@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	143817	_
+2	man	man	_	NN	_	6	SBJ	143817	_
+3	riding	ride	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	143819	_
+5	horse	horse	_	NN	_	3	OBJ	143819	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	chasing	chase	_	VBG	_	6	VC	_	_
+8	after	after	_	IN	_	7	TMP	_	7
+9	a	a	_	DT	_	11	NMOD	143818	_
+10	young	young	_	JJ	_	11	NMOD	143818	_
+11	cow	cow	_	NN	_	8	PMOD	143818	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	a	a	_	DT	_	14	NMOD	143823	_
+14	lasso	lasso	_	NN	_	12	PMOD	143823	_
+15	.	.	_	.	_	6	P	_	_

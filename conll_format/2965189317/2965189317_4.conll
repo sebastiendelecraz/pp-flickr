@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	84393	_
+2	man	man	_	NN	_	3	SBJ	84393	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	popping	pop	_	VBG	_	3	VC	_	_
+5	balloons	balloon	_	NNS	_	4	OBJ	84396	_
+6	with	with	_	IN	_	4	ADV	_	_
+7	a	a	_	DT	_	9	NMOD	84395	_
+8	long	long	_	JJ	_	9	NMOD	84395	_
+9	stick	stick	_	NN	_	6	PMOD	84395	_
+10	in	in	_	IN	_	9	LOC	_	4
+11	a	a	_	DT	_	12	NMOD	84394	_
+12	cubicle	cubicle	_	NN	_	10	PMOD	84394	_
+13	.	.	_	.	_	3	P	_	_

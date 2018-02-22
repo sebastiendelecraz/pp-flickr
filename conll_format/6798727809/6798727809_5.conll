@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	258277	_
+2	scientist	scientist	_	NN	_	3	SBJ	258277	_
+3	looks	look	_	VBZ	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	258279	_
+6	microscope	microscope	_	NN	_	4	PMOD	258279	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	258281	_
+9	lab	lab	_	NN	_	7	PMOD	258281	_
+10	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	14893	_
+2	men	man	_	NNS	_	0	ROOT	14893	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	scuba	scuba	_	NN	_	6	NMOD	14895	_
+5	gear	gear	_	NN	_	6	NMOD	14895	_
+6	swim	swim	_	NN	_	3	PMOD	_	_
+7	with	with	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	14894	_
+9	dolphin	dolphin	_	NN	_	7	PMOD	14894	_
+10	.	.	_	.	_	0	ROOT	_	_

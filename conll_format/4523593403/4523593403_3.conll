@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	175241	_
+2	girl	girl	_	NN	_	3	SBJ	175241	_
+3	rides	ride	_	VBZ	_	0	ROOT	_	_
+4	her	her	_	PRP$	_	5	NMOD	0	_
+5	bike	bike	_	NN	_	3	OBJ	175244	_
+6	in	in	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	175242	_
+8	crosswalk	crosswalk	_	NN	_	6	PMOD	175242	_
+9	at	at	_	IN	_	3	LOC	_	_
+10	an	an	_	DT	_	11	NMOD	175243	_
+11	intersection	intersection	_	NN	_	9	PMOD	175243	_
+12	.	.	_	.	_	3	P	_	_

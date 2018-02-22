@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	70711	_
+2	man	man	_	NN	_	3	SBJ	70711	_
+3	leans	lean	_	VBZ	_	0	ROOT	_	_
+4	against	against	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	70712	_
+6	tree	tree	_	NN	_	4	PMOD	70712	_
+7	with	with	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	70715	_
+9	beer	beer	_	NN	_	7	PMOD	70715	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	hand	hand	_	NN	_	10	PMOD	70716	_
+12	.	.	_	.	_	3	P	_	_

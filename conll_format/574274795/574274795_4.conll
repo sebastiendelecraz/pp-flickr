@@ -1,0 +1,7 @@
+1	Animal	Animal	_	NNP	_	2	SBJ	242207	_
+2	running	run	_	VBG	_	0	ROOT	_	_
+3	after	after	_	IN	_	2	TMP	_	2
+4	Frisbee	Frisbee	_	NNP	_	3	PMOD	242208	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	field	field	_	NN	_	5	PMOD	242209	_
+7	.	.	_	.	_	0	ROOT	_	_

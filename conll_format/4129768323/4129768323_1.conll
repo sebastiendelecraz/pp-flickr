@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	156507	_
+2	man	man	_	NN	_	3	SBJ	156507	_
+3	sleeping	sleep	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	some	some	_	DT	_	6	NMOD	156514	_
+6	pipes	pipe	_	NNS	_	4	PMOD	156514	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	156516	_
+9	park	park	_	NN	_	7	PMOD	156516	_
+10	next to	next to	_	IN	_	3	TMP	_	3
+11	a	a	_	DT	_	12	NMOD	156510	_
+12	guitar	guitar	_	NN	_	10	PMOD	156510	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	some	some	_	DT	_	15	NMOD	156509	_
+15	blocks	block	_	NNS	_	13	CONJ	156509	_
+16	of	of	_	IN	_	15	NMOD	156509	_
+17	cement	cement	_	NN	_	16	PMOD	156509	_
+18	.	.	_	.	_	0	ROOT	_	_

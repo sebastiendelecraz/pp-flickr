@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	251220	_
+2	man	man	_	NN	_	9	SBJ	251220	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	251226	_
+5	blue	blue	_	JJ	_	6	NMOD	251226	_
+6	t-shirt	t-shirt	_	NN	_	3	PMOD	251226	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	jeans	jean	_	NNS	_	7	CONJ	251227	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	blowing	blow	_	VBG	_	9	VC	_	_
+11	into	into	_	IN	_	10	ADV	_	10
+12	an	an	_	DT	_	14	NMOD	251224	_
+13	orange	orange	_	JJ	_	14	NMOD	251224	_
+14	balloon	balloon	_	NN	_	11	PMOD	251224	_
+15	in front of	in front of	_	IN	_	10	TMP	_	_
+16	six	six	_	CD	_	18	NMOD	251221	_
+17	young	young	_	JJ	_	18	NMOD	251221	_
+18	children	child	_	NNS	_	15	PMOD	251221	_
+19	.	.	_	.	_	9	P	_	_

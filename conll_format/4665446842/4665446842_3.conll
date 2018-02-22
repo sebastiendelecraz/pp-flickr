@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	188258	_
+2	referee	referee	_	NN	_	3	SBJ	188258	_
+3	talking	talk	_	VBG	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	188257	_
+6	group	group	_	NN	_	4	PMOD	188257	_
+7	of	of	_	IN	_	6	NMOD	188257	_
+8	girls	girl	_	NNS	_	7	PMOD	188257	_
+9	wearing	wear	_	VBG	_	6	APPO	_	_
+10	helmets	helmet	_	NNS	_	9	OBJ	188264	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	rollerskates	rollerskates	_	CD	_	11	CONJ	188260	_
+13	.	.	_	.	_	0	ROOT	_	_

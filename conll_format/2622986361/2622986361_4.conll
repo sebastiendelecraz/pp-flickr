@@ -1,0 +1,14 @@
+1	People	People	_	NNPS	_	0	ROOT	62098	_
+2	on	on	_	IN	_	0	ROOT	_	_
+3	the	the	_	DT	_	4	NMOD	62099	_
+4	roof	roof	_	NN	_	2	PMOD	62099	_
+5	of	of	_	IN	_	4	NMOD	62099	4
+6	a	a	_	DT	_	8	NMOD	62099	_
+7	building	building	_	NN	_	8	NMOD	62099	_
+8	look	look	_	NN	_	5	PMOD	_	_
+9	down	down	_	RB	_	8	NMOD	_	_
+10	on	on	_	IN	_	8	NMOD	_	_
+11	a	a	_	DT	_	13	NMOD	62103	_
+12	crowded	crowded	_	JJ	_	13	NMOD	62103	_
+13	street	street	_	NN	_	10	PMOD	62103	_
+14	.	.	_	.	_	0	ROOT	_	_

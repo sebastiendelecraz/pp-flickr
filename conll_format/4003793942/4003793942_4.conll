@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	151585	_
+2	marching	march	_	VBG	_	3	NMOD	151585	_
+3	band	band	_	NN	_	0	ROOT	151585	_
+4	playing	play	_	VBG	_	3	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	the	the	_	DT	_	7	NMOD	151589	_
+7	crowd	crowd	_	NN	_	5	PMOD	151589	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	151587	_
+10	parade	parade	_	NN	_	8	PMOD	151587	_
+11	.	.	_	.	_	0	ROOT	_	_

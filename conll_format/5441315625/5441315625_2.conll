@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	236645	_
+2	monks	monk	_	NNS	_	3	SBJ	236645	_
+3	coming	come	_	VBG	_	0	ROOT	_	_
+4	down	down	_	RP	_	3	PRT	_	_
+5	of	of	_	IN	_	3	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	236646	_
+7	big	big	_	JJ	_	8	NMOD	236646	_
+8	stair	stair	_	NN	_	5	PMOD	236646	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	236648	_
+11	temple	temple	_	NN	_	9	PMOD	236648	_
+12	.	.	_	.	_	0	ROOT	_	_

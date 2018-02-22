@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	184720	_
+2	man	man	_	NN	_	0	ROOT	184720	_
+3	next to	next to	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	184721	_
+5	bike	bike	_	NN	_	3	PMOD	184721	_
+6	with	with	_	IN	_	2	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	184722	_
+8	flag	flag	_	NN	_	6	PMOD	184722	_
+9	attached	attach	_	VBN	_	8	APPO	_	_
+10	trying	try	_	VBG	_	9	VC	_	_
+11	to	to	_	TO	_	10	OPRD	_	_
+12	get	get	_	VB	_	11	IM	_	_
+13	the	the	_	DT	_	14	NMOD	184725	_
+14	attention	attention	_	NN	_	12	OBJ	184725	_
+15	of	of	_	IN	_	14	NMOD	184725	_
+16	others	other	_	NNS	_	15	PMOD	184725	_
+17	around	around	_	IN	_	12	ADV	_	_
+18	him	him	_	PRP	_	17	PMOD	0	_
+19	.	.	_	.	_	0	ROOT	_	_

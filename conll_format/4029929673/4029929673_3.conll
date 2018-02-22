@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	152525	_
+2	boy	boy	_	NN	_	7	SBJ	152525	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	152529	_
+5	yellow	yellow	_	JJ	_	6	NMOD	152529	_
+6	jacket	jacket	_	NN	_	3	PMOD	152529	_
+7	pores	pore	_	VBZ	_	23	SBJ	_	_
+8	something	something	_	NN	_	7	OBJ	152530	_
+9	out of	out of	_	IN	_	7	ADV	_	7
+10	a	a	_	DT	_	12	NMOD	152528	_
+11	red	red	_	JJ	_	12	NMOD	152528	_
+12	pot	pot	_	NN	_	9	PMOD	152528	_
+13	into	into	_	IN	_	7	ADV	_	7
+14	a	a	_	DT	_	15	NMOD	152527	_
+15	tube	tube	_	NN	_	13	PMOD	152527	_
+16	as	as	_	IN	_	7	ADV	_	_
+17	a	a	_	DT	_	18	NMOD	152531	_
+18	girl	girl	_	NN	_	16	PMOD	152531	_
+19	in	in	_	IN	_	7	LOC	_	_
+20	a	a	_	DT	_	22	NMOD	152529	_
+21	yellow	yellow	_	JJ	_	22	NMOD	152529	_
+22	jacket	jacket	_	NN	_	19	PMOD	152529	_
+23	watches	watch	_	VBZ	_	0	ROOT	_	_
+24	him	him	_	PRP	_	23	OBJ	0	_
+25	.	.	_	.	_	23	P	_	_

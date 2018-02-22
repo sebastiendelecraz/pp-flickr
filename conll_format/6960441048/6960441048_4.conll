@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	262578	_
+2	man	man	_	NN	_	3	NMOD	262578	_
+3	dirt	dirt	_	NN	_	4	SBJ	262578	_
+4	biking	bike	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	MNR	_	4
+6	some	some	_	DT	_	7	NMOD	262583	_
+7	mud	mud	_	NN	_	5	PMOD	262583	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	full	full	_	JJ	_	10	NMOD	262578	_
+10	costume	costume	_	NN	_	8	PMOD	262578	_
+11	.	.	_	.	_	0	ROOT	_	_

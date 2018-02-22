@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	96299	_
+2	man	man	_	NN	_	0	ROOT	96299	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	96301	_
+5	camera	camera	_	NN	_	3	PMOD	96301	_
+6	aimed	aim	_	VBN	_	5	APPO	_	_
+7	at	at	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	96306	_
+9	singer	singer	_	NN	_	7	PMOD	96306	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	96309	_
+12	green	green	_	JJ	_	13	NMOD	96309	_
+13	jacket	jacket	_	NN	_	10	PMOD	96309	_
+14	.	.	_	.	_	0	ROOT	_	_

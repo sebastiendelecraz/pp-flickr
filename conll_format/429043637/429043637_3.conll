@@ -1,0 +1,12 @@
+1	He	he	_	PRP	_	2	SBJ	0	_
+2	jumped	jump	_	VBD	_	0	ROOT	_	_
+3	into	into	_	IN	_	2	DIR	_	2
+4	the	the	_	DT	_	5	NMOD	161848	_
+5	pile	pile	_	NN	_	3	PMOD	161848	_
+6	of	of	_	IN	_	5	NMOD	161848	_
+7	leaves	leaf	_	NNS	_	6	PMOD	161848	_
+8	we	we	_	PRP	_	10	SBJ	161851	_
+9	just	just	_	RB	_	10	ADV	_	_
+10	finished	finish	_	VBD	_	0	ROOT	_	_
+11	raking	rake	_	VBG	_	10	OPRD	_	_
+12	.	.	_	.	_	10	P	_	_

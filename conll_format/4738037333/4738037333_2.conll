@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	4	NMOD	197284	_
+2	scantily	scantily	_	RB	_	3	AMOD	197284	_
+3	clad	clad	_	VBN	_	4	NMOD	197284	_
+4	women	woman	_	NNS	_	5	SBJ	197284	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	kissing	kiss	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	197288	_
+9	crowd	crowd	_	NN	_	7	PMOD	197288	_
+10	of	of	_	IN	_	9	NMOD	197288	_
+11	people	people	_	NN	_	10	PMOD	197288	_
+12	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	80884	_
+2	man	man	_	NN	_	7	SBJ	80884	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	80885	_
+5	young	young	_	JJ	_	6	NMOD	80885	_
+6	boy	boy	_	NN	_	3	CONJ	80885	_
+7	are	be	_	VBP	_	0	ROOT	_	_
+8	eating	eat	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	80890	_
+11	city	city	_	NN	_	12	NMOD	80890	_
+12	sidewalk	sidewalk	_	NN	_	9	PMOD	80890	_
+13	next to	next to	_	IN	_	8	MNR	_	8
+14	a	a	_	DT	_	16	NMOD	80889	_
+15	cardboard	cardboard	_	JJ	_	16	NMOD	80889	_
+16	box	box	_	NN	_	13	PMOD	80889	_
+17	and	and	_	CC	_	16	COORD	_	_
+18	a	a	_	DT	_	21	NMOD	80888	_
+19	red	red	_	JJ	_	21	NMOD	80888	_
+20	shopping	shopping	_	NN	_	21	NMOD	80888	_
+21	cart	cart	_	NN	_	17	CONJ	80888	_
+22	.	.	_	.	_	7	P	_	_

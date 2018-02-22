@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	44419	_
+2	man	man	_	NN	_	10	SBJ	44419	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	white	white	_	JJ	_	5	NMOD	44420	_
+5	hair	hair	_	NN	_	3	PMOD	44420	_
+6	wearing	wear	_	VBG	_	5	APPO	_	_
+7	a	a	_	DT	_	9	NMOD	44421	_
+8	gray	gray	_	JJ	_	9	NMOD	44421	_
+9	suit	suit	_	NN	_	6	OBJ	44421	_
+10	speaks	speak	_	VBZ	_	0	ROOT	_	_
+11	into	into	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	44422	_
+13	microphone	microphone	_	NN	_	11	PMOD	44422	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	a	a	_	DT	_	17	NMOD	44423	_
+16	metal	metal	_	NN	_	17	NMOD	44423	_
+17	jug	jug	_	NN	_	14	PMOD	44423	_
+18	sitting	sit	_	VBG	_	17	APPO	_	_
+19	in front of	in front of	_	IN	_	18	ADV	_	_
+20	him	him	_	PRP	_	19	PMOD	0	_
+21	.	.	_	.	_	10	P	_	_

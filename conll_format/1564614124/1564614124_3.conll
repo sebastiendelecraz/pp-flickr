@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	16524	_
+2	girl	girl	_	NN	_	0	ROOT	16524	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	the	the	_	DT	_	5	NMOD	16527	_
+5	sun	sun	_	NN	_	3	PMOD	16527	_
+6	behind	behind	_	IN	_	5	NMOD	_	5
+7	her	her	_	PRP$	_	8	NMOD	0	_
+8	plays	play	_	NNS	_	6	PMOD	_	_
+9	with	with	_	IN	_	2	NMOD	_	_
+10	some	some	_	DT	_	11	NMOD	16525	_
+11	jewelry	jewelry	_	NN	_	9	PMOD	16525	_
+12	.	.	_	.	_	0	ROOT	_	_

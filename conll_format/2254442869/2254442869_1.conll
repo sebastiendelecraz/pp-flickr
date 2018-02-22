@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	3	NMOD	37140	_
+2	elderly	elderly	_	NN	_	3	NMOD	37140	_
+3	man	man	_	NN	_	6	SBJ	37140	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	woman	woman	_	NN	_	4	CONJ	37141	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	seated	seat	_	VBN	_	6	VC	_	_
+8	at	at	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	11	NMOD	37144	_
+10	dining	dine	_	VBG	_	11	NMOD	37144	_
+11	table	table	_	NN	_	8	PMOD	37144	_
+12	in front of	in front of	_	IN	_	7	ADV	_	_
+13	a	a	_	DT	_	15	NMOD	37143	_
+14	Christmas	Christmas	_	NNP	_	15	NMOD	37143	_
+15	tree	tree	_	NN	_	12	PMOD	37143	_
+16	.	.	_	.	_	6	P	_	_

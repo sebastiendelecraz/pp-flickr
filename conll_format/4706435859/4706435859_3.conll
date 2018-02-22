@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	193361	_
+2	person	person	_	NN	_	3	SBJ	193361	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	floating	float	_	VBG	_	3	VC	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	0	_
+7	air	air	_	NN	_	5	PMOD	0	_
+8	above	above	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	193360	_
+10	crowd	crowd	_	NN	_	8	PMOD	193360	_
+11	in	in	_	IN	_	4	TMP	_	4
+12	a	a	_	DT	_	13	NMOD	193364	_
+13	city	city	_	NN	_	11	PMOD	193364	_
+14	.	.	_	.	_	3	P	_	_

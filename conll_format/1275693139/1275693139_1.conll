@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	6958	_
+2	group	group	_	NN	_	5	SBJ	6958	_
+3	of	of	_	IN	_	2	NMOD	6958	_
+4	people	people	_	NN	_	3	PMOD	6958	_
+5	wait	wait	_	VBP	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	ADV	_	_
+7	line	line	_	NN	_	6	PMOD	6961	_
+8	in front of	in front of	_	IN	_	5	TMP	_	5
+9	a	a	_	DT	_	10	NMOD	6959	_
+10	counter	counter	_	NN	_	8	PMOD	6959	_
+11	.	.	_	.	_	5	P	_	_

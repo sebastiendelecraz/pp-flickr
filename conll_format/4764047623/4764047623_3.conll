@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	200476	_
+2	man	man	_	NN	_	6	SBJ	200476	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	200479	_
+5	woman	woman	_	NN	_	3	CONJ	200479	_
+6	standing	stand	_	VBG	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	200481	_
+9	bridge	bridge	_	NN	_	10	NMOD	200481	_
+10	look	look	_	NN	_	7	PMOD	200481	_
+11	across	across	_	IN	_	6	LOC	_	10
+12	the	the	_	DT	_	13	NMOD	200480	_
+13	water	water	_	NN	_	11	PMOD	200480	_
+14	at	at	_	IN	_	6	LOC	_	10
+15	a	a	_	DT	_	16	NMOD	200477	_
+16	boat	boat	_	NN	_	14	PMOD	200477	_
+17	.	.	_	.	_	0	ROOT	_	_

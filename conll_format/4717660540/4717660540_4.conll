@@ -1,0 +1,9 @@
+1	Men	Men	_	NNPS	_	2	NAME	194688	_
+2	sleeping	sleep	_	VBG	_	0	ROOT	_	_
+3	outside	outside	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	194689	_
+5	store	store	_	NN	_	3	PMOD	194689	_
+6	during	during	_	IN	_	2	TMP	_	2
+7	the	the	_	DT	_	8	NMOD	194692	_
+8	night	night	_	NN	_	6	PMOD	194692	_
+9	.	.	_	.	_	0	ROOT	_	_

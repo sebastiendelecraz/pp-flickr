@@ -1,0 +1,9 @@
+1	Children	child	_	NNS	_	0	ROOT	40440	_
+2	gathered	gather	_	VBN	_	1	APPO	_	_
+3	around	around	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	40439	_
+5	woman	woman	_	NN	_	3	PMOD	40439	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	the	the	_	DT	_	8	NMOD	40441	_
+8	sidewalk	sidewalk	_	NN	_	6	PMOD	40441	_
+9	.	.	_	.	_	0	ROOT	_	_

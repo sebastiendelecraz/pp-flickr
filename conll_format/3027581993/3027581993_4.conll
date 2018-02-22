@@ -1,0 +1,17 @@
+1	a	a	_	DT	_	3	NMOD	88537	_
+2	young	young	_	JJ	_	3	NMOD	88537	_
+3	man	man	_	NN	_	0	ROOT	88537	_
+4	standing	stand	_	VBG	_	3	APPO	_	_
+5	next to	next to	_	IN	_	4	ADV	_	4
+6	his	his	_	PRP$	_	7	NMOD	88539	_
+7	motorcycle	motorcycle	_	NN	_	5	PMOD	88539	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	88543	_
+10	poor	poor	_	JJ	_	11	NMOD	88543	_
+11	side	side	_	NN	_	8	PMOD	88543	_
+12	of	of	_	IN	_	11	NMOD	88543	_
+13	town	town	_	NN	_	12	PMOD	88543	_
+14	waving	wave	_	VBG	_	11	APPO	_	_
+15	to	to	_	TO	_	14	ADV	_	_
+16	camera	camera	_	NN	_	15	PMOD	88545	_
+17	.	.	_	.	_	0	ROOT	_	_

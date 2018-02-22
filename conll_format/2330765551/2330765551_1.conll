@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	42049	_
+2	man	man	_	NN	_	7	SBJ	42049	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	42053	_
+5	woman	woman	_	NN	_	6	NMOD	42053	_
+6	ride	ride	_	NN	_	3	CONJ	_	_
+7	bicycles	bicycle	_	VBZ	_	0	ROOT	42048	_
+8	away from	away from	_	IN	_	7	ADV	_	6
+9	the	the	_	DT	_	10	NMOD	0	_
+10	camera	camera	_	NN	_	8	PMOD	0	_
+11	as	as	_	IN	_	7	ADV	_	_
+12	they	they	_	PRP	_	13	SBJ	0	_
+13	traverse	traverse	_	VBP	_	11	SUB	_	_
+14	a	a	_	DT	_	16	NMOD	42051	_
+15	remote	remote	_	JJ	_	16	NMOD	42051	_
+16	area	area	_	NN	_	13	OBJ	42051	_
+17	toward	toward	_	IN	_	16	NMOD	_	13
+18	undulating	undulate	_	VBG	_	19	NMOD	42047	_
+19	hills	hill	_	NNS	_	17	PMOD	42047	_
+20	,	,	_	,	_	13	P	_	_
+21	with	with	_	IN	_	13	ADV	_	_
+22	blue	blue	_	JJ	_	23	NMOD	42052	_
+23	sky	sky	_	NN	_	21	PMOD	42052	_
+24	in	in	_	IN	_	23	LOC	_	_
+25	the	the	_	DT	_	26	NMOD	0	_
+26	background	background	_	NN	_	24	PMOD	0	_
+27	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	172063	_
+2	woman	woman	_	NN	_	11	SBJ	172063	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	172064	_
+6	green	green	_	JJ	_	7	NMOD	172064	_
+7	shirt	shirt	_	NN	_	4	PMOD	172064	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	dark	dark	_	JJ	_	10	NMOD	172070	_
+10	pants	pant	_	NNS	_	8	CONJ	172070	_
+11	stands	stand	_	VBZ	_	0	ROOT	_	_
+12	in the middle of	in the middle of	_	IN	_	11	LOC	172065	11
+13	a	a	_	DT	_	14	NMOD	172065	_
+14	street	street	_	NN	_	12	PMOD	172065	_
+15	looking	look	_	VBG	_	14	APPO	_	_
+16	at	at	_	IN	_	15	ADV	_	_
+17	storm	storm	_	NN	_	18	NMOD	172066	_
+18	clouds	cloud	_	NNS	_	16	PMOD	172066	_
+19	in	in	_	IN	_	18	LOC	_	_
+20	the	the	_	DT	_	21	NMOD	0	_
+21	distance	distance	_	NN	_	19	PMOD	0	_
+22	.	.	_	.	_	11	P	_	_

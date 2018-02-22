@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	186062	_
+2	businessman	businessman	_	NN	_	3	SBJ	186062	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	186064	_
+6	bench	bench	_	NN	_	4	PMOD	186064	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	his	his	_	PRP$	_	9	NMOD	186065	_
+9	cellphone	cellphone	_	NN	_	7	PMOD	186065	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	Boy	Boy	_	NNP	_	2	SBJ	26538	_
+2	jumping	jump	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	0	_
+5	air	air	_	NN	_	3	PMOD	0	_
+6	with	with	_	IN	_	2	ADV	_	2
+7	a	a	_	DT	_	8	NMOD	26539	_
+8	girl	girl	_	NN	_	6	PMOD	26539	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	the	the	_	DT	_	12	NMOD	26540	_
+11	couch	couch	_	NN	_	12	NMOD	26540	_
+12	punching	punching	_	NN	_	9	PMOD	_	_
+13	towards	towards	_	IN	_	2	ADV	_	_
+14	him	him	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

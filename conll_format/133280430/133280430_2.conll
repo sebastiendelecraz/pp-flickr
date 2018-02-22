@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	4	NMOD	8906	_
+2	African	African	_	JJ	_	4	NMOD	8906	_
+3	American	American	_	JJ	_	4	NMOD	8906	_
+4	men	man	_	NNS	_	0	ROOT	8906	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	some	some	_	DT	_	7	NMOD	8907	_
+7	kind	kind	_	NN	_	5	PMOD	8907	_
+8	of	of	_	IN	_	7	NMOD	8907	_
+9	uniform	uniform	_	NN	_	8	PMOD	8907	_
+10	for	for	_	IN	_	7	NMOD	_	4
+11	a	a	_	DT	_	12	NMOD	8910	_
+12	job	job	_	NN	_	10	PMOD	8910	_
+13	in	in	_	IN	_	7	LOC	_	4
+14	a	a	_	DT	_	16	NMOD	8909	_
+15	back	back	_	RB	_	16	NMOD	8909	_
+16	alley	alley	_	NN	_	13	PMOD	8909	_
+17	.	.	_	.	_	0	ROOT	_	_

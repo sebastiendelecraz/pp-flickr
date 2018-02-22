@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	3	NMOD	207910	_
+2	little	little	_	JJ	_	3	NMOD	207910	_
+3	boys	boy	_	NNS	_	4	SBJ	207910	_
+4	wearing	wear	_	VBG	_	0	ROOT	_	_
+5	yellow	yellow	_	JJ	_	6	NMOD	207914	_
+6	t-shirts	t-shirt	_	NNS	_	4	OBJ	207914	_
+7	walk	walk	_	VB	_	4	OPRD	_	_
+8	towards	towards	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	207916	_
+10	group	group	_	NN	_	8	PMOD	207916	_
+11	of	of	_	IN	_	10	NMOD	207916	_
+12	people	people	_	NN	_	11	PMOD	207916	_
+13	.	.	_	.	_	0	ROOT	_	_

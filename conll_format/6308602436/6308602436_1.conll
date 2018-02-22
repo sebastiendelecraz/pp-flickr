@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	252161	_
+2	group	group	_	NN	_	5	SBJ	252161	_
+3	of	of	_	IN	_	2	NMOD	252161	_
+4	people	people	_	NN	_	3	PMOD	252161	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	traveling	travel	_	VBG	_	5	VC	_	_
+7	through	through	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	252164	_
+9	terminal	terminal	_	NN	_	7	PMOD	252164	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	moving	move	_	VBG	_	12	NMOD	252163	_
+12	walkways	walkway	_	NNS	_	10	PMOD	252163	_
+13	.	.	_	.	_	5	P	_	_

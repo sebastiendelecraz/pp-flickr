@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	51969	_
+2	dark-haired	dark-haired	_	JJ	_	3	NMOD	51969	_
+3	woman	woman	_	NN	_	0	ROOT	51969	_
+4	sitting	sit	_	VBG	_	3	APPO	_	_
+5	with	with	_	IN	_	4	ADV	_	_
+6	her	her	_	PRP$	_	7	NMOD	51970	_
+7	knees	knee	_	NNS	_	5	PMOD	51970	_
+8	up to	up to	_	IN	_	4	LOC	_	7
+9	her	her	_	PRP$	_	10	NMOD	51971	_
+10	chest	chest	_	NN	_	8	PMOD	51971	_
+11	on	on	_	IN	_	10	NMOD	_	4
+12	a	a	_	DT	_	14	NMOD	51972	_
+13	worn	wear	_	VBN	_	14	NMOD	51972	_
+14	chair	chair	_	NN	_	11	PMOD	51972	_
+15	.	.	_	.	_	0	ROOT	_	_

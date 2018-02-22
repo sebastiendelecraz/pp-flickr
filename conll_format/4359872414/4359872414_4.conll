@@ -1,0 +1,11 @@
+1	African	African	_	JJ	_	2	NMOD	164793	_
+2	woman	woman	_	NN	_	3	SBJ	164793	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	near	near	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	164794	_
+6	hut	hut	_	NN	_	4	PMOD	164794	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	pots	pot	_	NNS	_	7	PMOD	164802	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	jugs	jug	_	NNS	_	9	CONJ	164795	_
+11	.	.	_	.	_	0	ROOT	_	_

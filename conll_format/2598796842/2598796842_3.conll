@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	60546	_
+2	father	father	_	NN	_	0	ROOT	60546	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	his	his	_	PRP$	_	5	NMOD	60547	_
+5	child	child	_	NN	_	3	CONJ	60547	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	on	on	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	60551	_
+9	bench	bench	_	NN	_	7	PMOD	60551	_
+10	at	at	_	IN	_	6	LOC	_	6
+11	a	a	_	DT	_	12	NMOD	60550	_
+12	barbecue	barbecue	_	NN	_	10	PMOD	60550	_
+13	.	.	_	.	_	0	ROOT	_	_

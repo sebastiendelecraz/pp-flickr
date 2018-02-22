@@ -1,0 +1,18 @@
+1	An	an	_	DT	_	3	NMOD	264604	_
+2	athletic	athletic	_	JJ	_	3	NMOD	264604	_
+3	woman	woman	_	NN	_	10	SBJ	264604	_
+4	,	,	_	,	_	10	P	_	_
+5	wearing	wear	_	VBG	_	10	ADV	_	_
+6	red	red	_	JJ	_	5	PRD	264608	_
+7	and	and	_	CC	_	6	COORD	264608	_
+8	black	black	_	JJ	_	7	CONJ	264608	_
+9	,	,	_	,	_	10	P	_	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	running	run	_	VBG	_	10	VC	_	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	264605	_
+14	marathon	marathon	_	NN	_	12	PMOD	264605	_
+15	along with	along with	_	IN	_	11	ADV	_	11
+16	other	other	_	JJ	_	17	NMOD	264607	_
+17	people	people	_	NN	_	15	PMOD	264607	_
+18	.	.	_	.	_	10	P	_	_

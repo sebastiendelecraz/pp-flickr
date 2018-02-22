@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	73112	_
+2	woman	woman	_	NN	_	7	SBJ	73112	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	73119	_
+5	red	red	_	JJ	_	6	NMOD	73119	_
+6	shirt	shirt	_	NN	_	3	PMOD	73119	_
+7	stands	stand	_	VBZ	_	0	ROOT	_	_
+8	by	by	_	IN	_	7	MNR	_	7
+9	a	a	_	DT	_	10	NMOD	73117	_
+10	man	man	_	NN	_	8	PMOD	73117	_
+11	in	in	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	14	NMOD	73121	_
+13	white	white	_	JJ	_	14	NMOD	73121	_
+14	shirt	shirt	_	NN	_	11	PMOD	73121	_
+15	and	and	_	CC	_	14	COORD	_	_
+16	a	a	_	DT	_	17	NMOD	73122	_
+17	woman	woman	_	NN	_	15	CONJ	73122	_
+18	in	in	_	IN	_	7	LOC	_	17
+19	a	a	_	DT	_	21	NMOD	73113	_
+20	black	black	_	JJ	_	21	NMOD	73113	_
+21	shirt	shirt	_	NN	_	18	PMOD	73113	_
+22	in front of	in front of	_	IN	_	7	TMP	_	_
+23	a	a	_	DT	_	24	NMOD	73111	_
+24	stairway	stairway	_	NN	_	22	PMOD	73111	_
+25	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	126465	_
+2	group	group	_	NN	_	5	SBJ	126465	_
+3	of	of	_	IN	_	2	NMOD	126465	_
+4	fans	fan	_	NNS	_	3	PMOD	126465	_
+5	gather	gather	_	VBP	_	0	ROOT	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	some	some	_	DT	_	8	NMOD	126473	_
+8	type	type	_	NN	_	6	PMOD	126473	_
+9	of	of	_	IN	_	8	NMOD	126473	_
+10	event	event	_	NN	_	9	PMOD	126473	_
+11	.	.	_	.	_	5	P	_	_

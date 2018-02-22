@@ -1,0 +1,15 @@
+1	An	an	_	DT	_	3	NMOD	199573	_
+2	elderly	elderly	_	NN	_	3	NMOD	199573	_
+3	woman	woman	_	NN	_	6	SBJ	199573	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	red-hair	red-hair	_	CD	_	4	PMOD	199578	_
+6	sitting	sit	_	VBG	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	199574	_
+9	bench	bench	_	NN	_	7	PMOD	199574	_
+10	with	with	_	IN	_	6	ADV	_	_
+11	three	three	_	CD	_	12	NMOD	199577	_
+12	bags	bag	_	NNS	_	10	PMOD	199577	_
+13	around	around	_	IN	_	0	ROOT	_	_
+14	her	her	_	PRP$	_	0	ROOT	0	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	147327	_
+2	old	old	_	JJ	_	3	NMOD	147327	_
+3	woman	woman	_	NN	_	0	ROOT	147327	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	8	NMOD	147335	_
+6	flowered	flower	_	VBN	_	8	NMOD	147335	_
+7	print	print	_	NN	_	8	NMOD	147335	_
+8	dress	dress	_	NN	_	4	PMOD	147335	_
+9	stirring	stir	_	VBG	_	8	APPO	_	_
+10	some	some	_	DT	_	11	NMOD	147329	_
+11	type	type	_	NN	_	9	OBJ	147329	_
+12	of	of	_	IN	_	11	NMOD	147329	_
+13	food	food	_	NN	_	12	PMOD	147329	_
+14	in	in	_	IN	_	11	LOC	_	_
+15	large	large	_	JJ	_	16	NMOD	147334	_
+16	barrels	barrel	_	NNS	_	14	PMOD	147334	_
+17	.	.	_	.	_	0	ROOT	_	_

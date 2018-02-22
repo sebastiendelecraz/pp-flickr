@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	213054	_
+2	group	group	_	NN	_	7	SBJ	213054	_
+3	of	of	_	IN	_	2	NMOD	213054	_
+4	four	four	_	CD	_	6	NMOD	213054	_
+5	older	old	_	JJR	_	6	NMOD	213054	_
+6	women	woman	_	NNS	_	3	PMOD	213054	_
+7	look	look	_	VBP	_	0	ROOT	_	_
+8	through	through	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	213055	_
+10	large	large	_	JJ	_	11	NMOD	213055	_
+11	book	book	_	NN	_	8	PMOD	213055	_
+12	of	of	_	IN	_	11	NMOD	213055	_
+13	photographs	photograph	_	NNS	_	12	PMOD	213055	_
+14	.	.	_	.	_	7	P	_	_

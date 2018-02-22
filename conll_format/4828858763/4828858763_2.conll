@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	208078	_
+2	man	man	_	NN	_	8	NMOD	208078	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	7	NMOD	208074	_
+5	black	black	_	JJ	_	7	NMOD	208074	_
+6	ball	ball	_	NN	_	7	NMOD	208074	_
+7	cap	cap	_	NN	_	3	PMOD	208074	_
+8	on	on	_	IN	_	9	SBJ	_	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	sitting	sit	_	VBG	_	9	VC	_	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	watching	watch	_	VBG	_	11	CONJ	_	_
+13	people	people	_	NN	_	12	OBJ	208075	_
+14	on	on	_	IN	_	12	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	208080	_
+16	street	street	_	NN	_	14	PMOD	208080	_
+17	.	.	_	.	_	9	P	_	_

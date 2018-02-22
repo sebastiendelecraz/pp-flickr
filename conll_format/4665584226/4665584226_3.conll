@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	188266	_
+2	man	man	_	NN	_	11	SBJ	188266	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	188279	_
+5	beard	beard	_	NN	_	3	PMOD	188279	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	188270	_
+8	woman	woman	_	NN	_	6	CONJ	188270	_
+9	in	in	_	IN	_	2	LOC	_	_
+10	sunglasses	sunglass	_	NNS	_	9	PMOD	188275	_
+11	are	be	_	VBP	_	0	ROOT	_	_
+12	standing	stand	_	VBG	_	11	VC	_	_
+13	in front of	in front of	_	IN	_	12	ADV	_	_
+14	a	a	_	DT	_	16	NMOD	188267	_
+15	liquor	liquor	_	NN	_	16	NMOD	188267	_
+16	store	store	_	NN	_	13	PMOD	188267	_
+17	.	.	_	.	_	11	P	_	_

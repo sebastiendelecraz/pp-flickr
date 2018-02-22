@@ -1,0 +1,11 @@
+1	An	an	_	DT	_	3	NMOD	96539	_
+2	older	old	_	JJR	_	3	NMOD	96539	_
+3	lady	lady	_	NN	_	0	ROOT	96539	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	96546	_
+6	blue	blue	_	JJ	_	7	NMOD	96546	_
+7	shirt	shirt	_	NN	_	4	PMOD	96546	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	96540	_
+10	rowboat	rowboat	_	NN	_	8	PMOD	96540	_
+11	.	.	_	.	_	0	ROOT	_	_

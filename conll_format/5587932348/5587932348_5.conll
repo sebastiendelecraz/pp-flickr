@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	239208	_
+2	woman	woman	_	NN	_	5	SBJ	239208	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	costume	costume	_	NN	_	3	PMOD	239211	_
+5	performs	perform	_	VBZ	_	0	ROOT	_	_
+6	with	with	_	IN	_	5	ADV	_	_
+7	poi	poi	_	NN	_	6	PMOD	239217	_
+8	for	for	_	IN	_	7	NMOD	_	5
+9	onlookers	onlooker	_	NNS	_	8	PMOD	239216	_
+10	.	.	_	.	_	5	P	_	_

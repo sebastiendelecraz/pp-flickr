@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	0	ROOT	17471	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	costume	costume	_	NN	_	2	PMOD	17472	_
+4	standing	stand	_	VBG	_	3	APPO	_	_
+5	around	around	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	17476	_
+7	tree	tree	_	NN	_	5	PMOD	17476	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	17475	_
+10	forest	forest	_	NN	_	8	PMOD	17475	_
+11	.	.	_	.	_	0	ROOT	_	_

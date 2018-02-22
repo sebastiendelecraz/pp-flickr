@@ -1,0 +1,16 @@
+1	Four	Four	_	CD	_	3	NMOD	14596	_
+2	young	young	_	JJ	_	3	NMOD	14596	_
+3	women	woman	_	NNS	_	0	ROOT	14596	_
+4	around	around	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	14598	_
+6	kitchen	kitchen	_	NN	_	7	NMOD	14598	_
+7	counter	counter	_	NN	_	4	PMOD	14598	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	a	a	_	DT	_	10	NMOD	14599	_
+10	plate	plate	_	NN	_	8	PMOD	14599	_
+11	of	of	_	IN	_	10	NMOD	14599	_
+12	brownies	brownie	_	NNS	_	11	PMOD	14599	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	foreground	foreground	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	Some	some	_	DT	_	2	NMOD	222172	_
+2	children	child	_	NNS	_	3	SBJ	222172	_
+3	tugging	tug	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	222174	_
+6	rope	rope	_	NN	_	4	PMOD	222174	_
+7	next to	next to	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	222176	_
+9	building	building	_	NN	_	7	PMOD	222176	_
+10	in	in	_	IN	_	9	LOC	_	3
+11	a	a	_	DT	_	12	NMOD	222177	_
+12	city	city	_	NN	_	10	PMOD	222177	_
+13	.	.	_	.	_	0	ROOT	_	_

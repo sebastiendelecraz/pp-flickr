@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	5	NMOD	131017	_
+2	brown	brown	_	JJ	_	5	NMOD	131017	_
+3	and	and	_	CC	_	2	COORD	131017	_
+4	white	white	_	JJ	_	3	CONJ	131017	_
+5	dog	dog	_	NN	_	6	SBJ	131017	_
+6	barking	bark	_	VBG	_	0	ROOT	_	_
+7	through	through	_	IN	_	6	DIR	_	6
+8	the	the	_	DT	_	9	NMOD	131018	_
+9	fence	fence	_	NN	_	7	PMOD	131018	_
+10	at	at	_	IN	_	6	LOC	_	_
+11	smaller	small	_	JJR	_	15	NMOD	131019	_
+12	black	black	_	JJ	_	15	NMOD	131019	_
+13	and	and	_	CC	_	12	COORD	131019	_
+14	white	white	_	JJ	_	13	CONJ	131019	_
+15	dog	dog	_	NN	_	10	PMOD	131019	_
+16	.	.	_	.	_	0	ROOT	_	_

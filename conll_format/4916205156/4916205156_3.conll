@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	SBJ	218091	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	outside of	outside of	_	IN	_	2	LOC	_	2
+4	an	an	_	DT	_	7	NMOD	218092	_
+5	Amsterdam	Amsterdam	_	NNP	_	7	NMOD	218092	_
+6	tourist	tourist	_	NN	_	7	NMOD	218092	_
+7	center	center	_	NN	_	3	PMOD	218092	_
+8	on	on	_	IN	_	2	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	218094	_
+10	sunny	sunny	_	JJ	_	11	NMOD	218094	_
+11	day	day	_	NN	_	8	PMOD	218094	_
+12	.	.	_	.	_	2	P	_	_

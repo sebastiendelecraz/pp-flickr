@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	4	NMOD	116393	_
+2	BMX	BMX	_	NNP	_	4	NMOD	116393	_
+3	bike	bike	_	NN	_	4	NMOD	116393	_
+4	rider	rider	_	NN	_	0	ROOT	116393	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	10	NMOD	116397	_
+7	black	black	_	JJ	_	10	NMOD	116397	_
+8	and	and	_	CC	_	7	COORD	116397	_
+9	red	red	_	JJ	_	8	CONJ	116397	_
+10	uniform	uniform	_	NN	_	5	PMOD	116397	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	a	a	_	DT	_	14	NMOD	116395	_
+13	dirt	dirt	_	NN	_	14	NMOD	116395	_
+14	bike	bike	_	NN	_	11	PMOD	116395	_
+15	.	.	_	.	_	0	ROOT	_	_

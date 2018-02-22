@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	190900	_
+2	youth	youth	_	NN	_	3	SBJ	190900	_
+3	skateboards	skateboard	_	VBZ	_	0	ROOT	_	_
+4	by	by	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	6	NMOD	190901	_
+6	mural	mural	_	NN	_	4	PMOD	190901	_
+7	of	of	_	IN	_	6	NMOD	190901	_
+8	a	a	_	DT	_	9	NMOD	190901	_
+9	griffin	griffin	_	NN	_	7	PMOD	190901	_
+10	wielding	wield	_	VBG	_	9	APPO	_	_
+11	a	a	_	DT	_	13	NMOD	190902	_
+12	flaming	flame	_	VBG	_	13	NMOD	190902	_
+13	sword	sword	_	NN	_	10	OBJ	190902	_
+14	.	.	_	.	_	3	P	_	_

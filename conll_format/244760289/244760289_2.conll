@@ -1,0 +1,10 @@
+1	Three	Three	_	CD	_	2	NMOD	50362	_
+2	men	man	_	NNS	_	0	ROOT	50362	_
+3	standing	stand	_	VBG	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	50365	_
+6	tide	tide	_	NN	_	4	PMOD	50365	_
+7	at	at	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	50364	_
+9	beach	beach	_	NN	_	7	PMOD	50364	_
+10	.	.	_	.	_	0	ROOT	_	_

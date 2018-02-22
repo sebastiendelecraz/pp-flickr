@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	188023	_
+2	men	man	_	NNS	_	3	SBJ	188023	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	down	down	_	RP	_	4	PRT	_	_
+6	in	in	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	9	NMOD	188024	_
+8	busy	busy	_	JJ	_	9	NMOD	188024	_
+9	area	area	_	NN	_	6	PMOD	188024	_
+10	in	in	_	IN	_	9	LOC	_	4
+11	India	India	_	NNP	_	10	PMOD	188026	_
+12	.	.	_	.	_	3	P	_	_

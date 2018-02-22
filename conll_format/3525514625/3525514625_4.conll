@@ -1,0 +1,10 @@
+1	Adjustments	adjustment	_	NNS	_	2	SBJ	124835	_
+2	being	be	_	VBG	_	0	ROOT	_	_
+3	performed	perform	_	VBN	_	2	VC	_	_
+4	on	on	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	124833	_
+6	bicycle	bicycle	_	NN	_	4	PMOD	124833	_
+7	under	under	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	124834	_
+9	tent	tent	_	NN	_	7	PMOD	124834	_
+10	.	.	_	.	_	0	ROOT	_	_

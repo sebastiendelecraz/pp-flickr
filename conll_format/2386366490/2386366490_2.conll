@@ -1,0 +1,15 @@
+1	Several	several	_	DT	_	2	NMOD	45660	_
+2	groups	group	_	NNS	_	6	SBJ	45660	_
+3	of	of	_	IN	_	2	NMOD	45660	_
+4	young	young	_	JJ	_	5	NMOD	45660	_
+5	boys	boy	_	NNS	_	3	PMOD	45660	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	paired	pair	_	VBN	_	6	VC	_	_
+8	up to	up to	_	IN	_	7	ADV	_	7
+9	practice	practice	_	NN	_	11	NMOD	_	_
+10	martial	martial	_	JJ	_	11	NMOD	45662	_
+11	arts	art	_	NNS	_	8	PMOD	45662	_
+12	on	on	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	45663	_
+14	grass	grass	_	NN	_	12	PMOD	45663	_
+15	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	206172	_
+2	man	man	_	NN	_	5	SBJ	206172	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	glasses	glass	_	NNS	_	3	PMOD	206179	_
+5	sits	sit	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	206177	_
+8	milk	milk	_	NN	_	9	NMOD	206177	_
+9	crate	crate	_	NN	_	6	PMOD	_	_
+10	in front of	in front of	_	IN	_	5	ADV	_	5
+11	a	a	_	DT	_	13	NMOD	206174	_
+12	green	green	_	JJ	_	13	NMOD	206174	_
+13	door	door	_	NN	_	10	PMOD	206174	_
+14	playing	play	_	VBG	_	13	APPO	_	_
+15	the	the	_	DT	_	16	NMOD	206175	_
+16	accordion	accordion	_	NN	_	14	OBJ	206175	_
+17	.	.	_	.	_	5	P	_	_

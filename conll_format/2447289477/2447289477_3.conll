@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	50353	_
+2	woman	woman	_	NN	_	5	SBJ	50353	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	jeans	jean	_	NNS	_	3	PMOD	50357	_
+5	rests	rest	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	50354	_
+8	bench	bench	_	NN	_	6	PMOD	50354	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	50356	_
+11	gallery	gallery	_	NN	_	9	PMOD	50356	_
+12	or	or	_	CC	_	11	COORD	50356	_
+13	shop	shop	_	NN	_	12	CONJ	50356	_
+14	setting	set	_	VBG	_	11	APPO	_	_
+15	.	.	_	.	_	5	P	_	_

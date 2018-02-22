@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	219060	_
+2	man	man	_	NN	_	18	SBJ	219060	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	219067	_
+5	collared	collar	_	VBN	_	6	NMOD	219067	_
+6	shirt	shirt	_	NN	_	3	PMOD	219067	_
+7	,	,	_	,	_	18	P	_	_
+8	writing	write	_	VBG	_	18	ADV	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	219062	_
+11	pad	pad	_	NN	_	9	PMOD	219062	_
+12	of	of	_	IN	_	11	NMOD	219062	_
+13	paper	paper	_	NN	_	12	PMOD	219062	_
+14	with	with	_	IN	_	11	NMOD	_	_
+15	his	his	_	PRP$	_	17	NMOD	219059	_
+16	looney	looney	_	JJ	_	17	NMOD	219059	_
+17	tunes	tune	_	NNS	_	14	PMOD	219059	_
+18	mug	mug	_	VBP	_	0	ROOT	219059	_
+19	sitting	sit	_	VBG	_	18	VC	_	_
+20	next to	next to	_	IN	_	19	ADV	_	_
+21	him	him	_	PRP	_	20	PMOD	0	_
+22	.	.	_	.	_	18	P	_	_

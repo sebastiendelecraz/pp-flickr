@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	279858	_
+2	man	man	_	NN	_	3	SBJ	279858	_
+3	diving	dive	_	VBG	_	0	ROOT	_	_
+4	off	off	_	RP	_	3	PRT	_	_
+5	a	a	_	DT	_	6	NMOD	279859	_
+6	cliff	cliff	_	NN	_	3	OBJ	279859	_
+7	into	into	_	IN	_	3	ADV	_	3
+8	water	water	_	NN	_	7	PMOD	279861	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	other	other	_	JJ	_	11	NMOD	279863	_
+11	islands	island	_	NNS	_	9	PMOD	279863	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

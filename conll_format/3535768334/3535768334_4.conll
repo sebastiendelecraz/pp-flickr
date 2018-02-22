@@ -1,0 +1,9 @@
+1	Young	Young	_	NNP	_	2	NMOD	125722	_
+2	man	man	_	NN	_	3	SBJ	125722	_
+3	does	do	_	VBZ	_	0	ROOT	_	_
+4	stunt	stunt	_	VB	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	bicycle	bicycle	_	NN	_	5	PMOD	125724	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	beach	beach	_	NN	_	7	PMOD	125728	_
+9	.	.	_	.	_	3	P	_	_

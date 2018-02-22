@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	203732	_
+2	woman	woman	_	NN	_	3	SBJ	203732	_
+3	looks	look	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	203730	_
+6	telescope	telescope	_	NN	_	4	PMOD	203730	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	203734	_
+9	monument	monument	_	NN	_	7	PMOD	203734	_
+10	as	as	_	IN	_	3	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	203728	_
+12	child	child	_	NN	_	13	SBJ	203728	_
+13	looks	look	_	VBZ	_	10	SUB	_	_
+14	toward	toward	_	IN	_	13	DIR	_	13
+15	the	the	_	DT	_	16	NMOD	0	_
+16	camera	camera	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	3	P	_	_

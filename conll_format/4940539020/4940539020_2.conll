@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	221047	_
+2	young	young	_	JJ	_	3	NMOD	221047	_
+3	man	man	_	NN	_	6	SBJ	221047	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	lady	lady	_	NN	_	4	CONJ	221052	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	walking	walk	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	221048	_
+10	sidewalk	sidewalk	_	NN	_	8	PMOD	221048	_
+11	next to	next to	_	IN	_	7	ADV	_	7
+12	a	a	_	DT	_	14	NMOD	221049	_
+13	white	white	_	JJ	_	14	NMOD	221049	_
+14	building	building	_	NN	_	11	PMOD	221049	_
+15	.	.	_	.	_	6	P	_	_

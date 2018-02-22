@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	187369	_
+2	man	man	_	NN	_	11	SBJ	187369	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	7	NMOD	187372	_
+5	big	big	_	JJ	_	7	NMOD	187372	_
+6	white	white	_	JJ	_	7	NMOD	187372	_
+7	e	e	_	NN	_	3	PMOD	187372	_
+8	on	on	_	IN	_	2	NMOD	_	_
+9	his	his	_	PRP$	_	10	NMOD	187370	_
+10	shirt	shirt	_	NN	_	8	PMOD	187370	_
+11	sings	sing	_	VBZ	_	0	ROOT	_	_
+12	into	into	_	IN	_	11	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	187371	_
+14	microphone	microphone	_	NN	_	12	PMOD	187371	_
+15	on	on	_	IN	_	14	NMOD	_	_
+16	stage	stage	_	NN	_	15	PMOD	187374	_
+17	.	.	_	.	_	11	P	_	_

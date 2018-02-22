@@ -1,0 +1,11 @@
+1	An	an	_	DT	_	3	NMOD	282489	_
+2	elderly	elderly	_	NN	_	3	NMOD	282489	_
+3	man	man	_	NN	_	0	ROOT	282489	_
+4	working	work	_	VBG	_	3	APPO	_	_
+5	with	with	_	IN	_	4	ADV	_	_
+6	tools	tool	_	NNS	_	5	PMOD	282493	_
+7	around	around	_	IN	_	4	LOC	_	4
+8	some	some	_	DT	_	10	NMOD	282494	_
+9	flower	flower	_	NN	_	10	NMOD	282494	_
+10	pots	pot	_	NNS	_	7	PMOD	282494	_
+11	.	.	_	.	_	0	ROOT	_	_

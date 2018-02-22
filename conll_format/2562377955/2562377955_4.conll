@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	58208	_
+2	little	little	_	JJ	_	3	NMOD	58208	_
+3	boy	boy	_	NN	_	0	ROOT	58208	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	orange	orange	_	JJ	_	6	NMOD	58209	_
+6	pitching	pitching	_	NN	_	4	PMOD	_	_
+7	at	at	_	IN	_	3	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	58211	_
+9	baseball	baseball	_	NN	_	10	NMOD	58211	_
+10	game	game	_	NN	_	7	PMOD	58211	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	136542	_
+2	man	man	_	NN	_	7	SBJ	136542	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	136547	_
+5	black	black	_	JJ	_	6	NMOD	136547	_
+6	suit	suit	_	NN	_	3	PMOD	136547	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	in front of	in front of	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	136543	_
+11	wedding	wedding	_	NN	_	12	NMOD	136543	_
+12	party	party	_	NN	_	9	PMOD	136543	_
+13	of	of	_	IN	_	12	NMOD	136543	_
+14	women	woman	_	NNS	_	13	PMOD	136543	_
+15	.	.	_	.	_	7	P	_	_

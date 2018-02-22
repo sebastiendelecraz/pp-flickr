@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	105882	_
+2	young	young	_	JJ	_	3	NMOD	105882	_
+3	children	child	_	NNS	_	4	SBJ	105882	_
+4	jumping	jump	_	VBG	_	0	ROOT	_	_
+5	off	off	_	RP	_	4	PRT	_	_
+6	of	of	_	IN	_	4	ADV	_	_
+7	a	a	_	DT	_	9	NMOD	105883	_
+8	cement	cement	_	NN	_	9	NMOD	105883	_
+9	ledge	ledge	_	NN	_	6	PMOD	105883	_
+10	onto	onto	_	IN	_	4	ADV	_	4
+11	the	the	_	DT	_	13	NMOD	0	_
+12	dirt	dirt	_	NN	_	13	NMOD	0	_
+13	ground	ground	_	NN	_	10	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Here	here	_	RB	_	2	LOC-PRD	_	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	72197	_
+4	picture	picture	_	NN	_	2	PRD	72197	_
+5	of	of	_	IN	_	4	NMOD	72197	_
+6	customers	customer	_	NNS	_	5	PMOD	72197	_
+7	standing	stand	_	VBG	_	4	APPO	_	_
+8	in	in	_	IN	_	7	ADV	_	_
+9	line	line	_	NN	_	8	PMOD	72188	_
+10	of	of	_	IN	_	9	NMOD	72188	9
+11	a	a	_	DT	_	13	NMOD	72188	_
+12	Mexican	Mexican	_	JJ	_	13	NMOD	72188	_
+13	Restaurant	Restaurant	_	NNP	_	10	PMOD	72188	_
+14	.	.	_	.	_	2	P	_	_

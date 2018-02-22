@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	262846	_
+2	men	man	_	NNS	_	3	SBJ	262846	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	262850	_
+7	rock	rock	_	NN	_	5	PMOD	262850	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	262845	_
+10	ocean	ocean	_	NN	_	8	PMOD	262845	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	another	another	_	DT	_	13	NMOD	262849	_
+13	man	man	_	NN	_	11	PMOD	262849	_
+14	standing	stand	_	VBG	_	13	APPO	_	_
+15	nearby	nearby	_	JJ	_	14	PRD	_	_
+16	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	87464	_
+2	blond	blond	_	JJ	_	3	NMOD	87464	_
+3	girl	girl	_	NN	_	0	ROOT	87464	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	7	NMOD	87461	_
+6	poster	post	_	JJR	_	7	NMOD	87461	_
+7	poses	pose	_	NNS	_	4	PMOD	_	_
+8	with	with	_	IN	_	7	NMOD	_	7
+9	a	a	_	DT	_	11	NMOD	87465	_
+10	black-haired	black-haired	_	JJ	_	11	NMOD	87465	_
+11	girl	girl	_	NN	_	8	PMOD	87465	_
+12	.	.	_	.	_	0	ROOT	_	_

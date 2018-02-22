@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	155008	_
+2	group	group	_	NN	_	5	SBJ	155008	_
+3	of	of	_	IN	_	2	NMOD	155008	_
+4	people	people	_	NN	_	3	PMOD	155008	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	gathered	gather	_	VBN	_	5	VC	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	155011	_
+9	meal	meal	_	NN	_	7	PMOD	155011	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	business	business	_	NN	_	13	NMOD	155016	_
+12	casual	casual	_	JJ	_	13	NMOD	155018	_
+13	attire	attire	_	NN	_	10	PMOD	155018	_
+14	.	.	_	.	_	5	P	_	_

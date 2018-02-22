@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	165467	_
+2	group	group	_	NN	_	5	SBJ	165467	_
+3	of	of	_	IN	_	2	NMOD	165467	_
+4	runners	runner	_	NNS	_	3	PMOD	165467	_
+5	run	run	_	VBP	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	ADV	_	5
+7	the	the	_	DT	_	8	NMOD	165470	_
+8	park	park	_	NN	_	6	PMOD	165470	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	165475	_
+11	winter	winter	_	NN	_	9	PMOD	165475	_
+12	.	.	_	.	_	5	P	_	_

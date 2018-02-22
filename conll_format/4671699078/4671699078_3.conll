@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	4	NMOD	188948	_
+2	young	young	_	JJ	_	4	NMOD	188948	_
+3	blond	blond	_	JJ	_	4	NMOD	188948	_
+4	woman	woman	_	NN	_	0	ROOT	188948	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	9	NMOD	188949	_
+7	blue	blue	_	JJ	_	9	NMOD	188949	_
+8	top	top	_	JJ	_	9	NMOD	188949	_
+9	sits	sit	_	NNS	_	5	PMOD	_	_
+10	at	at	_	IN	_	4	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	188950	_
+12	green	green	_	JJ	_	13	NMOD	188950	_
+13	table	table	_	NN	_	10	PMOD	188950	_
+14	studying	study	_	VBG	_	13	APPO	_	_
+15	.	.	_	.	_	0	ROOT	_	_

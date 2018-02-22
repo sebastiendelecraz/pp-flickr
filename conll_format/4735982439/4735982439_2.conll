@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	4	NMOD	197081	_
+2	enormous	enormous	_	JJ	_	4	NMOD	197081	_
+3	black	black	_	JJ	_	4	NMOD	197081	_
+4	woman	woman	_	NN	_	5	SBJ	197081	_
+5	sits	sit	_	VBZ	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	197088	_
+8	bus	bus	_	NN	_	9	NMOD	197088	_
+9	stop	stop	_	NN	_	6	PMOD	197088	_
+10	beside	beside	_	IN	_	5	LOC	_	5
+11	an	an	_	DT	_	13	NMOD	197085	_
+12	elderly	elderly	_	JJ	_	13	NMOD	197085	_
+13	woman	woman	_	NN	_	10	PMOD	197085	_
+14	of	of	_	IN	_	13	NMOD	197085	_
+15	east-Asian	east-Asian	_	CD	_	16	NMOD	197085	_
+16	descent	descent	_	NN	_	14	PMOD	197085	_
+17	.	.	_	.	_	5	P	_	_

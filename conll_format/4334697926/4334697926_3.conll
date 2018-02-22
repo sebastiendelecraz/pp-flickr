@@ -1,0 +1,9 @@
+1	people	people	_	NN	_	0	ROOT	163752	_
+2	at	at	_	IN	_	1	LOC	_	1
+3	a	a	_	DT	_	5	NMOD	163754	_
+4	busy	busy	_	JJ	_	5	NMOD	163754	_
+5	terminal	terminal	_	NN	_	2	PMOD	163754	_
+6	during	during	_	IN	_	1	TMP	_	1
+7	rush	rush	_	NN	_	8	NMOD	163757	_
+8	hour	hour	_	NN	_	6	PMOD	163757	_
+9	.	.	_	.	_	0	ROOT	_	_

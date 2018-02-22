@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	166271	_
+2	man	man	_	NN	_	9	SBJ	166271	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	8	NMOD	166273	_
+5	green	green	_	JJ	_	8	NMOD	166273	_
+6	and	and	_	CC	_	5	COORD	166273	_
+7	black	black	_	JJ	_	6	CONJ	166273	_
+8	coat	coat	_	NN	_	3	PMOD	166273	_
+9	does	do	_	VBZ	_	0	ROOT	_	_
+10	a	a	_	DT	_	11	NMOD	166277	_
+11	burnout	burnout	_	NN	_	9	OBJ	166277	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	166274	_
+14	matching	match	_	VBG	_	15	NMOD	166274	_
+15	motorcycle	motorcycle	_	NN	_	12	PMOD	166274	_
+16	in front of	in front of	_	IN	_	9	ADV	_	9
+17	a	a	_	DT	_	18	NMOD	166272	_
+18	crowd	crowd	_	NN	_	16	PMOD	166272	_
+19	behind	behind	_	IN	_	18	NMOD	_	9
+20	fences	fence	_	NNS	_	19	PMOD	166279	_
+21	.	.	_	.	_	9	P	_	_

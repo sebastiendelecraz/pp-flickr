@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	2744	_
+2	woman	woman	_	NN	_	0	ROOT	2744	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	2752	_
+5	cap	cap	_	NN	_	3	PMOD	2752	_
+6	at	at	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	2754	_
+8	coffee	coffee	_	NN	_	9	NMOD	2754	_
+9	shop	shop	_	NN	_	6	PMOD	2754	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	270122	_
+2	man	man	_	NN	_	5	SBJ	270122	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	woman	woman	_	NN	_	3	CONJ	270124	_
+5	look	look	_	VBP	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	ADV	_	5
+7	CD	cd	_	NN	_	6	PMOD	270127	_
+8	'	'	_	''	_	5	P	270127	_
+9	s	s	_	NN	_	5	OBJ	270127	_
+10	at	at	_	IN	_	5	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	270124	_
+12	street	street	_	NN	_	13	NMOD	270124	_
+13	vendor	vendor	_	NN	_	10	PMOD	270124	_
+14	.	.	_	.	_	5	P	_	_

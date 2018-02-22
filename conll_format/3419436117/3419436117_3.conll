@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	116816	_
+2	bride	bride	_	NN	_	7	SBJ	116816	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	116819	_
+5	wedding	wedding	_	NN	_	6	NMOD	116819	_
+6	dress	dress	_	NN	_	3	PMOD	116819	_
+7	stands	stand	_	VBZ	_	0	ROOT	_	_
+8	near	near	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	116817	_
+10	group	group	_	NN	_	8	PMOD	116817	_
+11	of	of	_	IN	_	10	NMOD	116817	_
+12	students	student	_	NNS	_	11	PMOD	116817	_
+13	in	in	_	IN	_	7	LOC	_	_
+14	an	an	_	DT	_	16	NMOD	116823	_
+15	outdoor	outdoor	_	JJ	_	16	NMOD	116823	_
+16	setting	setting	_	NN	_	13	PMOD	116823	_
+17	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	141923	_
+2	men	man	_	NNS	_	0	ROOT	141923	_
+3	putting	put	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	141925	_
+5	cover	cover	_	NN	_	3	OBJ	141925	_
+6	over	over	_	IN	_	3	PUT	_	3
+7	a	a	_	DT	_	9	NMOD	141927	_
+8	makeshift	makeshift	_	JJ	_	9	NMOD	141927	_
+9	boat	boat	_	NN	_	6	PMOD	141927	_
+10	with	with	_	IN	_	9	NMOD	_	9
+11	a	a	_	DT	_	12	NMOD	141924	_
+12	couch	couch	_	NN	_	10	PMOD	141924	_
+13	on	on	_	IN	_	3	PUT	_	_
+14	it	it	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

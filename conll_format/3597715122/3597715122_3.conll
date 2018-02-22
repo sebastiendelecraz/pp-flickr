@@ -1,0 +1,12 @@
+1	Guys	Guy	_	NNPS	_	2	SBJ	130478	_
+2	gathered	gather	_	VBD	_	0	ROOT	_	_
+3	outside	outside	_	IN	_	2	LOC	_	2
+4	an	an	_	DT	_	7	NMOD	130479	_
+5	ice	ice	_	NN	_	6	NMOD	130479	_
+6	cream	cream	_	NN	_	7	NMOD	130479	_
+7	store	store	_	NN	_	3	PMOD	130479	_
+8	on	on	_	IN	_	2	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	130482	_
+10	sunny	sunny	_	JJ	_	11	NMOD	130482	_
+11	day	day	_	NN	_	8	PMOD	130482	_
+12	.	.	_	.	_	2	P	_	_

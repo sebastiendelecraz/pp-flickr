@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	247483	_
+2	climber	climber	_	NN	_	3	SBJ	247483	_
+3	hangs	hang	_	VBZ	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	247487	_
+6	rock	rock	_	NN	_	7	NMOD	247487	_
+7	face	face	_	NN	_	4	PMOD	247487	_
+8	over	over	_	IN	_	7	NMOD	_	3
+9	blue	blue	_	JJ	_	10	NMOD	247486	_
+10	water	water	_	NN	_	8	PMOD	247486	_
+11	.	.	_	.	_	3	P	_	_

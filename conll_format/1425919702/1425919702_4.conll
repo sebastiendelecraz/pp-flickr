@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	SBJ	12457	_
+2	wait	wait	_	VBP	_	0	ROOT	_	_
+3	patiently	patiently	_	RB	_	4	PMOD	_	_
+4	in	in	_	IN	_	2	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	12459	_
+6	seats	seat	_	NNS	_	4	PMOD	12459	_
+7	for	for	_	IN	_	6	NMOD	_	2
+8	the	the	_	DT	_	9	NMOD	12462	_
+9	show	show	_	NN	_	7	PMOD	12462	_
+10	to	to	_	TO	_	9	NMOD	_	_
+11	begin	begin	_	VB	_	10	IM	_	_
+12	.	.	_	.	_	2	P	_	_

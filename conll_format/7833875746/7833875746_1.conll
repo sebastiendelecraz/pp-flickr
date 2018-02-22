@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	275923	_
+2	woman	woman	_	NN	_	10	SBJ	275923	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	275929	_
+5	heart	heart	_	NN	_	6	NMOD	275929	_
+6	tattoo	tattoo	_	NN	_	3	PMOD	275929	_
+7	on	on	_	IN	_	2	NMOD	_	_
+8	her	her	_	PRP$	_	9	NMOD	275930	_
+9	calf	calf	_	NN	_	7	PMOD	275930	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	riding	ride	_	VBG	_	10	VC	_	_
+12	her	her	_	PRP$	_	13	NMOD	275925	_
+13	bike	bike	_	NN	_	11	OBJ	275925	_
+14	past	past	_	IN	_	11	TMP	_	11
+15	a	a	_	DT	_	16	NMOD	275924	_
+16	cornfield	cornfield	_	NN	_	14	PMOD	275924	_
+17	.	.	_	.	_	10	P	_	_

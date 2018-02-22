@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	2	SBJ	115863	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	watching	watch	_	VBG	_	2	VC	_	_
+4	a	a	_	DT	_	5	NMOD	115864	_
+5	boy	boy	_	NN	_	3	OBJ	115864	_
+6	on	on	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	115866	_
+8	skateboard	skateboard	_	NN	_	6	PMOD	115866	_
+9	at the top of	at the top of	_	IN	_	3	LOC	115865	3
+10	a	a	_	DT	_	12	NMOD	115865	_
+11	skate	skate	_	NN	_	12	NMOD	115865	_
+12	ramp	ramp	_	NN	_	9	PMOD	115865	_
+13	.	.	_	.	_	2	P	_	_

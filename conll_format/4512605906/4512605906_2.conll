@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	174531	_
+2	women	woman	_	NNS	_	6	SBJ	174531	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	head	head	_	NN	_	5	NMOD	174537	_
+5	coverings	covering	_	NNS	_	3	PMOD	174537	_
+6	run	run	_	VBP	_	0	ROOT	_	_
+7	next to	next to	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	174536	_
+9	tree	tree	_	NN	_	7	PMOD	174536	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	174538	_
+12	sand	sand	_	NN	_	10	PMOD	174538	_
+13	.	.	_	.	_	6	P	_	_

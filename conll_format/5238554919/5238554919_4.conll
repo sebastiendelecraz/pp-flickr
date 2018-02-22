@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	231784	_
+2	man	man	_	NN	_	3	SBJ	231784	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	fixing	fix	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	231786	_
+6	bicycle	bicycle	_	NN	_	4	OBJ	231786	_
+7	for	for	_	IN	_	4	ADV	_	4
+8	another	another	_	DT	_	9	NMOD	231783	_
+9	man	man	_	NN	_	7	PMOD	231783	_
+10	in	in	_	IN	_	4	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	231794	_
+12	snow	snow	_	NN	_	10	PMOD	231794	_
+13	.	.	_	.	_	3	P	_	_

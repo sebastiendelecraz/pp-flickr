@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	117963	_
+2	construction	construction	_	NN	_	3	NMOD	117963	_
+3	worker	worker	_	NN	_	0	ROOT	117963	_
+4	installing	instal	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	117965	_
+6	window	window	_	NN	_	4	OBJ	117965	_
+7	in	in	_	IN	_	4	LOC	_	4
+8	a	a	_	DT	_	9	NMOD	117964	_
+9	building	building	_	NN	_	7	PMOD	117964	_
+10	with	with	_	IN	_	4	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	117966	_
+12	turquoise	turquoise	_	JJ	_	13	NMOD	117966	_
+13	door	door	_	NN	_	10	PMOD	117966	_
+14	.	.	_	.	_	0	ROOT	_	_

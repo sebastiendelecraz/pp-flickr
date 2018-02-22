@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	64732	_
+2	man	man	_	NN	_	3	SBJ	64732	_
+3	doing	do	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	64734	_
+5	karate	karate	_	NN	_	6	NMOD	64734	_
+6	kick	kick	_	NN	_	3	OBJ	64734	_
+7	on	on	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	64733	_
+9	block	block	_	NN	_	7	PMOD	64733	_
+10	of	of	_	IN	_	9	NMOD	64733	_
+11	ice	ice	_	NN	_	10	PMOD	64733	_
+12	.	.	_	.	_	0	ROOT	_	_

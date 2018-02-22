@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	157089	_
+2	boy	boy	_	NN	_	3	SBJ	157089	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	diving	dive	_	VBG	_	3	VC	157093	_
+5	headfirst	headfirst	_	RB	_	4	MNR	157093	_
+6	into	into	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	157092	_
+8	pool	pool	_	NN	_	6	PMOD	157092	_
+9	of	of	_	IN	_	8	NMOD	157092	_
+10	water	water	_	NN	_	9	PMOD	157092	_
+11	,	,	_	,	_	10	P	_	_
+12	which	which	_	WDT	_	13	SBJ	0	_
+13	is	be	_	VBZ	_	10	NMOD	_	_
+14	indoors	indoors	_	RB	_	13	PRD	157094	_
+15	.	.	_	.	_	3	P	_	_

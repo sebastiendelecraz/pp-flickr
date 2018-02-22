@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	3	NMOD	243475	_
+2	young	young	_	JJ	_	3	NMOD	243475	_
+3	boy	boy	_	NN	_	8	SBJ	243475	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	243480	_
+6	red	red	_	JJ	_	7	NMOD	243480	_
+7	coat	coat	_	NN	_	4	PMOD	243480	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	next to	next to	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	243478	_
+12	mount	mount	_	NN	_	10	PMOD	243478	_
+13	of	of	_	IN	_	12	NMOD	243478	_
+14	snow	snow	_	NN	_	13	PMOD	243478	_
+15	that	that	_	WDT	_	17	OBJ	_	_
+16	he	he	_	PRP	_	17	SBJ	0	_
+17	piled	pile	_	VBD	_	12	NMOD	_	_
+18	himself	himself	_	PRP	_	17	OBJ	0	_
+19	and	and	_	CC	_	17	COORD	_	_
+20	stuck	stick	_	VBD	_	19	CONJ	_	_
+21	metal	metal	_	NN	_	20	OBJ	243481	_
+22	out of	out of	_	IN	_	20	ADV	_	_
+23	.	.	_	.	_	8	P	_	_

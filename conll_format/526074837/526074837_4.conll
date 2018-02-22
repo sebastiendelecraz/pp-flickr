@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	232352	_
+2	woman	woman	_	NN	_	8	SBJ	232352	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	232354	_
+5	Green	Green	_	NNP	_	6	NAME	232354	_
+6	Day	Day	_	NNP	_	7	NMOD	232354	_
+7	t-shirt	t-shirt	_	NN	_	3	PMOD	232354	_
+8	fishes	fish	_	VBZ	_	0	ROOT	_	_
+9	from	from	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	232355	_
+11	side	side	_	NN	_	9	PMOD	232355	_
+12	of	of	_	IN	_	11	NMOD	232355	11
+13	a	a	_	DT	_	14	NMOD	232355	_
+14	boat	boat	_	NN	_	12	PMOD	232355	_
+15	.	.	_	.	_	8	P	_	_

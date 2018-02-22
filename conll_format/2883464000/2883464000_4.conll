@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	78844	_
+2	group	group	_	NN	_	5	SBJ	78844	_
+3	of	of	_	IN	_	2	NMOD	78844	_
+4	people	people	_	NN	_	3	PMOD	78844	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	near	near	_	IN	_	5	LOC-PRD	_	5
+7	a	a	_	DT	_	8	NMOD	78842	_
+8	man	man	_	NN	_	6	PMOD	78842	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	black	black	_	JJ	_	12	NMOD	78845	_
+11	hanging	hanging	_	NN	_	12	NMOD	_	_
+12	upside	upside	_	NN	_	9	PMOD	_	_
+13	down	down	_	RB	_	12	NMOD	_	_
+14	.	.	_	.	_	5	P	_	_

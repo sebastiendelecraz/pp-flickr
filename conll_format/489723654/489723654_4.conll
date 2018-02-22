@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	216194	_
+2	busker	busker	_	NN	_	3	SBJ	216194	_
+3	performs	perform	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	guitar	guitar	_	NN	_	4	PMOD	216199	_
+6	among	among	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	9	NMOD	216198	_
+8	crowded	crowd	_	VBN	_	9	NMOD	216198	_
+9	street	street	_	NN	_	6	PMOD	216198	_
+10	.	.	_	.	_	3	P	_	_

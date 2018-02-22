@@ -1,0 +1,9 @@
+1	Two	Two	_	CD	_	2	NMOD	127981	_
+2	dogs	dog	_	NNS	_	3	SBJ	127981	_
+3	fight	fight	_	VBP	_	0	ROOT	_	_
+4	over	over	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	127982	_
+6	piece	piece	_	NN	_	4	PMOD	127982	_
+7	of	of	_	IN	_	6	NMOD	127982	_
+8	cloth	cloth	_	NN	_	7	PMOD	127982	_
+9	.	.	_	.	_	3	P	_	_

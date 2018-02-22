@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	106324	_
+2	boy	boy	_	NN	_	0	ROOT	106324	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	106325	_
+5	scooter	scooter	_	NN	_	3	PMOD	106325	_
+6	outside	outside	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	106326	_
+8	toy	toy	_	NN	_	9	NMOD	106326	_
+9	store	store	_	NN	_	6	PMOD	106326	_
+10	.	.	_	.	_	0	ROOT	_	_

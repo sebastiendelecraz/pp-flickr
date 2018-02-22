@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	116139	_
+2	man	man	_	NN	_	7	SBJ	116139	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	116142	_
+5	green	green	_	JJ	_	6	NMOD	116142	_
+6	shirt	shirt	_	NN	_	3	PMOD	116142	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	lying	lie	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	116144	_
+11	grass	grass	_	NN	_	9	PMOD	116144	_
+12	with	with	_	IN	_	8	ADV	_	8
+13	a	a	_	DT	_	14	NMOD	116141	_
+14	bandanna	bandanna	_	NN	_	12	PMOD	116141	_
+15	over	over	_	IN	_	14	NMOD	_	14
+16	his	his	_	PRP$	_	17	NMOD	116143	_
+17	eyes	eye	_	NNS	_	15	PMOD	116143	_
+18	,	,	_	,	_	8	P	_	_
+19	next to	next to	_	IN	_	8	ADV	_	8
+20	a	a	_	DT	_	22	NMOD	116140	_
+21	black	black	_	JJ	_	22	NMOD	116140	_
+22	bird	bird	_	NN	_	19	PMOD	116140	_
+23	.	.	_	.	_	7	P	_	_

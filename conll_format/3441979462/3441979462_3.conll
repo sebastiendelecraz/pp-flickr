@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	118588	_
+2	young	young	_	JJ	_	3	NMOD	118588	_
+3	man	man	_	NN	_	0	ROOT	118588	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	8	NMOD	118591	_
+6	red	red	_	JJ	_	8	NMOD	118591	_
+7	vest	vest	_	NN	_	8	NMOD	118591	_
+8	swings	swing	_	NNS	_	4	PMOD	_	_
+9	from	from	_	IN	_	3	NMOD	_	8
+10	a	a	_	DT	_	12	NMOD	118590	_
+11	blue	blue	_	JJ	_	12	NMOD	118590	_
+12	rope	rope	_	NN	_	9	PMOD	118590	_
+13	atop	atop	_	IN	_	0	ROOT	_	_
+14	a	a	_	DT	_	16	NMOD	118589	_
+15	pink	pink	_	NN	_	16	NMOD	118589	_
+16	ball	ball	_	NN	_	13	PMOD	118589	_
+17	.	.	_	.	_	0	ROOT	_	_

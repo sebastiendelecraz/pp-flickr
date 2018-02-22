@@ -1,0 +1,10 @@
+1	Teenager	Teenager	_	NNP	_	2	SBJ	229700	_
+2	rides	ride	_	VBZ	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	MNR	_	2
+4	the	the	_	DT	_	5	NMOD	229701	_
+5	forest	forest	_	NN	_	3	PMOD	229701	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	his	his	_	PRP$	_	9	NMOD	229702	_
+8	mountain	mountain	_	NN	_	9	NMOD	229702	_
+9	bike	bike	_	NN	_	6	PMOD	229702	_
+10	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	3	NMOD	35623	_
+2	young	young	_	JJ	_	3	NMOD	35623	_
+3	man	man	_	NN	_	11	SBJ	35623	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	woman	woman	_	NN	_	4	CONJ	35626	_
+6	in the middle of	in the middle of	_	IN	_	3	NMOD	35632	5
+7	the	the	_	DT	_	8	NMOD	35632	_
+8	road	road	_	NN	_	6	PMOD	35632	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	grass	grass	_	NN	_	9	PMOD	35627	_
+11	holding	hold	_	VBG	_	0	ROOT	_	_
+12	up	up	_	RP	_	11	PRT	_	_
+13	a	a	_	DT	_	15	NMOD	35624	_
+14	Huckabee	Huckabee	_	NNP	_	15	NMOD	35624	_
+15	sign	sign	_	NN	_	11	OBJ	35624	_
+16	,	,	_	,	_	0	ROOT	_	_
+17	while	while	_	IN	_	0	ROOT	_	_
+18	other	other	_	JJ	_	20	NMOD	35624	_
+19	Huckabee	Huckabee	_	NNP	_	20	NMOD	35624	_
+20	signs	sign	_	NNS	_	21	SBJ	35624	_
+21	are	be	_	VBP	_	17	SUB	_	_
+22	on	on	_	IN	_	21	LOC-PRD	_	_
+23	the	the	_	DT	_	24	NMOD	35627	_
+24	floor	floor	_	NN	_	22	PMOD	35627	_
+25	.	.	_	.	_	0	ROOT	_	_

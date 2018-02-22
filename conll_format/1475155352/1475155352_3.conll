@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	14312	_
+2	men	man	_	NNS	_	6	SBJ	14312	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	teal	teal	_	NN	_	5	NMOD	14314	_
+5	scrubs	scrub	_	NNS	_	3	PMOD	14314	_
+6	stand	stand	_	VBP	_	0	ROOT	_	_
+7	in front of	in front of	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	14313	_
+9	cafe	cafe	_	NN	_	7	PMOD	14313	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	an	an	_	DT	_	13	NMOD	14316	_
+12	open	open	_	JJ	_	13	NMOD	14316	_
+13	sign	sign	_	NN	_	10	PMOD	14316	_
+14	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,9 @@
+1	Four	Four	_	CD	_	2	NMOD	116486	_
+2	children	child	_	NNS	_	0	ROOT	116486	_
+3	looking	look	_	VBG	_	2	APPO	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	rocks	rock	_	NNS	_	4	PMOD	116495	_
+6	in the middle of	in the middle of	_	IN	_	3	ADV	116497	3
+7	the	the	_	DT	_	8	NMOD	116497	_
+8	desert	desert	_	NN	_	6	PMOD	116497	_
+9	.	.	_	.	_	0	ROOT	_	_

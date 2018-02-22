@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	169126	_
+2	street	street	_	NN	_	0	ROOT	169126	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	169125	_
+5	church	church	_	NN	_	3	PMOD	169125	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	0	_
+8	background	background	_	NN	_	6	PMOD	0	_
+9	.	.	_	.	_	0	ROOT	_	_

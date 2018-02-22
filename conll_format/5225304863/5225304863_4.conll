@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	231451	_
+2	people	people	_	NN	_	0	ROOT	231451	_
+3	sleeping	sleep	_	VBG	_	2	APPO	_	_
+4	next to	next to	_	IN	_	3	ADV	_	3
+5	wooden	wooden	_	JJ	_	6	NMOD	231464	_
+6	logs	log	_	NNS	_	4	PMOD	231464	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	231455	_
+9	water	water	_	NN	_	7	PMOD	231455	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	118879	_
+2	homeless	homeless	_	JJ	_	3	NMOD	118879	_
+3	man	man	_	NN	_	0	ROOT	118879	_
+4	sleeping	sleep	_	VBG	_	3	APPO	_	_
+5	under	under	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	8	NMOD	118880	_
+7	green	green	_	JJ	_	8	NMOD	118880	_
+8	blanket	blanket	_	NN	_	5	PMOD	118880	_
+9	along	along	_	IN	_	8	LOC	_	4
+10	side	side	_	NN	_	9	PMOD	_	_
+11	a	a	_	DT	_	13	NMOD	118882	_
+12	cement	cement	_	NN	_	13	NMOD	118882	_
+13	wall	wall	_	NN	_	8	APPO	118882	_
+14	.	.	_	.	_	0	ROOT	_	_

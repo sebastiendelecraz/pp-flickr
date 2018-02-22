@@ -1,0 +1,12 @@
+1	Flight	Flight	_	NNP	_	2	NMOD	133614	_
+2	attendant	attendant	_	NN	_	6	SBJ	133614	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	5	NMOD	133618	_
+5	pushes	push	_	NNS	_	3	PMOD	_	_
+6	drink	drink	_	VBP	_	0	ROOT	_	_
+7	cart	cart	_	NN	_	6	OBJ	133615	_
+8	through	through	_	IN	_	6	ADV	_	5
+9	aisle	aisle	_	NN	_	8	PMOD	133616	_
+10	of	of	_	IN	_	9	NMOD	133616	_
+11	airplane	airplane	_	NN	_	10	PMOD	133616	_
+12	.	.	_	.	_	6	P	_	_

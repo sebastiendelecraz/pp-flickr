@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	140810	_
+2	woman	woman	_	NN	_	14	SBJ	140810	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	140814	_
+5	gray	gray	_	JJ	_	7	NMOD	140814	_
+6	top	top	_	NN	_	7	NMOD	140814	_
+7	gestures	gesture	_	NNS	_	3	PMOD	_	_
+8	next to	next to	_	IN	_	14	TMP	_	7
+9	a	a	_	DT	_	10	NMOD	140810	_
+10	woman	woman	_	NN	_	8	PMOD	140810	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	a	a	_	DT	_	13	NMOD	140811	_
+13	knit	knit	_	NN	_	11	PMOD	140811	_
+14	had	have	_	VBD	_	0	ROOT	_	_
+15	holding	hold	_	VBG	_	14	OPRD	_	_
+16	a	a	_	DT	_	17	NMOD	140807	_
+17	wineglass	wineglass	_	NN	_	15	OBJ	140807	_
+18	.	.	_	.	_	14	P	_	_

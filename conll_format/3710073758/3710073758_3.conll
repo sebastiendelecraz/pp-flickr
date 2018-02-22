@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	138508	_
+2	man	man	_	NN	_	3	SBJ	138508	_
+3	performs	perform	_	VBZ	_	0	ROOT	_	_
+4	motorbike	motorbike	_	NN	_	5	NMOD	0	_
+5	tricks	trick	_	NNS	_	3	OBJ	0	_
+6	off	off	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	138509	_
+8	ramp	ramp	_	NN	_	6	PMOD	138509	_
+9	in	in	_	IN	_	3	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	138513	_
+11	stadium	stadium	_	NN	_	9	PMOD	138513	_
+12	.	.	_	.	_	3	P	_	_

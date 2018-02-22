@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	171746	_
+2	woman	woman	_	NN	_	0	ROOT	171746	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	171750	_
+5	camera	camera	_	NN	_	3	PMOD	171750	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	a	a	_	DT	_	9	NMOD	171751	_
+8	foggy	foggy	_	JJ	_	9	NMOD	171751	_
+9	day	day	_	NN	_	6	PMOD	171751	_
+10	.	.	_	.	_	0	ROOT	_	_

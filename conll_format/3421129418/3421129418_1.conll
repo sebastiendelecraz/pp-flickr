@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	116957	_
+2	person	person	_	NN	_	0	ROOT	116957	_
+3	in	in	_	IN	_	0	ROOT	_	_
+4	black	black	_	JJ	_	8	NMOD	116961	_
+5	and	and	_	CC	_	4	COORD	116961	_
+6	white	white	_	JJ	_	5	CONJ	116961	_
+7	swim	swim	_	NN	_	8	NMOD	116961	_
+8	trunks	trunk	_	NNS	_	3	PMOD	116961	_
+9	falling	fall	_	VBG	_	8	APPO	_	_
+10	into	into	_	IN	_	9	DIR	_	9
+11	the	the	_	DT	_	12	NMOD	116959	_
+12	sand	sand	_	NN	_	10	PMOD	116959	_
+13	at	at	_	IN	_	9	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	116959	_
+15	beach	beach	_	NN	_	13	PMOD	116959	_
+16	.	.	_	.	_	0	ROOT	_	_

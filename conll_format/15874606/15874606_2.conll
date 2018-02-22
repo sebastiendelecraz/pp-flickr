@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	17046	_
+2	swimmer	swimmer	_	NN	_	0	ROOT	17046	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	17047	_
+5	pool	pool	_	NN	_	3	PMOD	17047	_
+6	at	at	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	17049	_
+8	depth	depth	_	NN	_	6	PMOD	17049	_
+9	of	of	_	IN	_	8	NMOD	17049	_
+10	3	3	_	CD	_	11	DEP	17049	_
+11	.5	.5	_	CD	_	12	NMOD	17049	_
+12	feet	foot	_	NNS	_	9	PMOD	_	_
+13	.	.	_	.	_	0	ROOT	_	_

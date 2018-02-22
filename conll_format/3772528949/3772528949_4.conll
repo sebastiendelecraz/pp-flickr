@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	141956	_
+2	men	man	_	NNS	_	0	ROOT	141956	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	141957	_
+6	homemade	homemade	_	JJ	_	7	NMOD	141957	_
+7	raft	raft	_	NN	_	4	PMOD	141957	_
+8	with	with	_	IN	_	7	NMOD	_	7
+9	a	a	_	DT	_	10	NMOD	141960	_
+10	canopy	canopy	_	NN	_	8	PMOD	141960	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	227457	_
+2	man	man	_	NN	_	3	SBJ	227457	_
+3	talking	talk	_	VBG	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	227459	_
+6	microphone	microphone	_	NN	_	4	PMOD	227459	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	227460	_
+9	woman	woman	_	NN	_	7	PMOD	227460	_
+10	standing	stand	_	VBG	_	3	ADV	_	_
+11	next to	next to	_	IN	_	10	ADV	_	_
+12	him	him	_	PRP	_	11	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

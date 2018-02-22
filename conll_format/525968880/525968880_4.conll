@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	232343	_
+2	closeup	closeup	_	NN	_	0	ROOT	232343	_
+3	of	of	_	IN	_	2	NMOD	232343	_
+4	a	a	_	DT	_	7	NMOD	232343	_
+5	white	white	_	JJ	_	7	NMOD	232343	_
+6	dog	dog	_	NN	_	7	NMOD	232343	_
+7	drinking	drinking	_	NN	_	3	PMOD	_	_
+8	from	from	_	IN	_	7	NMOD	_	7
+9	a	a	_	DT	_	10	NMOD	232344	_
+10	pipe	pipe	_	NN	_	8	PMOD	232344	_
+11	.	.	_	.	_	0	ROOT	_	_

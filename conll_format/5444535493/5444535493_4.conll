@@ -1,0 +1,12 @@
+1	Group	Group	_	NNP	_	0	ROOT	236708	_
+2	of	of	_	IN	_	1	NMOD	236708	_
+3	hikers	hiker	_	NNS	_	2	PMOD	236708	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	top	top	_	JJ	_	8	NMOD	236720	_
+6	a	a	_	DT	_	8	NMOD	236713	_
+7	snowy	snowy	_	JJ	_	8	NMOD	236713	_
+8	mountain	mountain	_	NN	_	4	PMOD	236713	_
+9	during	during	_	IN	_	1	TMP	_	1
+10	a	a	_	DT	_	11	NMOD	236710	_
+11	storm	storm	_	NN	_	9	PMOD	236710	_
+12	.	.	_	.	_	0	ROOT	_	_

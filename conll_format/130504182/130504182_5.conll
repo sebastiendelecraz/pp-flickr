@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	8098	_
+2	woman	woman	_	NN	_	12	SBJ	8098	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	jeans	jean	_	NNS	_	3	PMOD	8099	_
+5	and	and	_	CC	_	2	COORD	_	_
+6	a	a	_	DT	_	7	NMOD	8100	_
+7	woman	woman	_	NN	_	5	CONJ	8100	_
+8	in	in	_	IN	_	2	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	8101	_
+10	white	white	_	JJ	_	11	NMOD	8101	_
+11	skirt	skirt	_	NN	_	8	PMOD	8101	_
+12	are	be	_	VBP	_	0	ROOT	_	_
+13	walking	walk	_	VBG	_	12	VC	_	_
+14	in	in	_	IN	_	13	LOC	_	13
+15	a	a	_	DT	_	16	NMOD	8102	_
+16	building	building	_	NN	_	14	PMOD	8102	_
+17	.	.	_	.	_	12	P	_	_

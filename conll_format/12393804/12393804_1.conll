@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	6013	_
+2	man	man	_	NN	_	11	SBJ	6013	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	7	NMOD	6014	_
+5	large	large	_	JJ	_	7	NMOD	6014	_
+6	red	red	_	JJ	_	7	NMOD	6014	_
+7	feather	feather	_	NN	_	3	PMOD	6014	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	his	his	_	PRP$	_	10	NMOD	6015	_
+10	hat	hat	_	NN	_	8	PMOD	6015	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	sitting	sit	_	VBG	_	11	VC	_	_
+13	on top of	on top of	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	6016	_
+15	horse	horse	_	NN	_	13	PMOD	6016	_
+16	.	.	_	.	_	11	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	202817	_
+2	young	young	_	JJ	_	3	NMOD	202817	_
+3	boy	boy	_	NN	_	0	ROOT	202817	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	10	NMOD	202820	_
+6	blue	blue	_	JJ	_	10	NMOD	202820	_
+7	top	top	_	JJ	_	10	NMOD	202820	_
+8	and	and	_	CC	_	7	COORD	202820	_
+9	jeans	jean	_	NNS	_	8	CONJ	202820	_
+10	sprints	sprint	_	NNS	_	4	PMOD	_	_
+11	across	across	_	IN	_	10	LOC	_	10
+12	a	a	_	DT	_	14	NMOD	202818	_
+13	grass	grass	_	NN	_	14	NMOD	202818	_
+14	field	field	_	NN	_	11	PMOD	202818	_
+15	.	.	_	.	_	0	ROOT	_	_

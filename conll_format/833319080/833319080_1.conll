@@ -1,0 +1,25 @@
+1	During	during	_	IN	_	15	TMP	_	15
+2	a	a	_	DT	_	4	NMOD	281103	_
+3	baseball	baseball	_	NN	_	4	NMOD	281103	_
+4	game	game	_	NN	_	1	PMOD	281103	_
+5	,	,	_	,	_	15	P	_	_
+6	a	a	_	DT	_	7	NMOD	281102	_
+7	batter	batter	_	NN	_	15	SBJ	281102	_
+8	bearing	bear	_	VBG	_	7	APPO	_	_
+9	the	the	_	DT	_	10	NMOD	281106	_
+10	number	number	_	NN	_	8	OBJ	281106	_
+11	13	13	_	CD	_	8	TMP	281106	_
+12	on	on	_	IN	_	8	LOC	_	_
+13	his	his	_	PRP$	_	14	NMOD	281105	_
+14	uniform	uniform	_	NN	_	12	PMOD	281105	_
+15	prepares	prepare	_	VBZ	_	0	ROOT	_	_
+16	to	to	_	TO	_	15	ADV	_	_
+17	swing	swing	_	VBG	_	16	PMOD	_	_
+18	his	his	_	PRP$	_	19	NMOD	281112	_
+19	bat	bat	_	NN	_	17	OBJ	281112	_
+20	in front of	in front of	_	IN	_	17	ADV	_	15
+21	a	a	_	DT	_	22	NMOD	281104	_
+22	crowd	crowd	_	NN	_	20	PMOD	281104	_
+23	of	of	_	IN	_	22	NMOD	281104	_
+24	spectators	spectator	_	NNS	_	23	PMOD	281104	_
+25	.	.	_	.	_	15	P	_	_

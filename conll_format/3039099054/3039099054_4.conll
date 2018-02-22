@@ -1,0 +1,10 @@
+1	Young	Young	_	NNP	_	2	NMOD	89330	_
+2	people	people	_	NN	_	3	SBJ	89330	_
+3	stand	stand	_	VBP	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	89331	_
+6	yard	yard	_	NN	_	4	PMOD	89331	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	89332	_
+9	mailbox	mailbox	_	NN	_	7	PMOD	89332	_
+10	.	.	_	.	_	3	P	_	_

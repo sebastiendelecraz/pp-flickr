@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	181091	_
+2	woman	woman	_	NN	_	9	SBJ	181091	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	181095	_
+5	purple	purple	_	NN	_	6	NMOD	181095	_
+6	shirt	shirt	_	NN	_	3	PMOD	181095	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	pink	pink	_	NN	_	7	CONJ	181094	_
+9	had	have	_	VBD	_	0	ROOT	181094	_
+10	walking	walk	_	VBG	_	9	OPRD	_	_
+11	in	in	_	IN	_	10	LOC	_	10
+12	a	a	_	DT	_	13	NMOD	181092	_
+13	crowd	crowd	_	NN	_	11	PMOD	181092	_
+14	of	of	_	IN	_	13	NMOD	181092	_
+15	people	people	_	NN	_	14	PMOD	181092	_
+16	.	.	_	.	_	9	P	_	_

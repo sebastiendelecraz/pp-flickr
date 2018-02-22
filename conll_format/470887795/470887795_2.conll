@@ -1,0 +1,13 @@
+1	Boy	Boy	_	NNP	_	2	NMOD	193619	_
+2	drinking	drinking	_	NN	_	0	ROOT	_	_
+3	from	from	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	193620	_
+5	green	green	_	JJ	_	6	NMOD	193620	_
+6	bottle	bottle	_	NN	_	3	PMOD	193620	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	girl	girl	_	NN	_	7	PMOD	193618	_
+9	in	in	_	IN	_	6	LOC	_	_
+10	purple	purple	_	NN	_	11	NMOD	193622	_
+11	sweater	sweater	_	NN	_	9	PMOD	193622	_
+12	watching	watch	_	VBG	_	11	APPO	_	_
+13	.	.	_	.	_	0	ROOT	_	_

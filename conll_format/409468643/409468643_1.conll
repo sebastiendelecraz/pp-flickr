@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	155201	_
+2	man	man	_	NN	_	0	ROOT	155201	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	on	on	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	155203	_
+6	bucket	bucket	_	NN	_	4	PMOD	155203	_
+7	,	,	_	,	_	3	P	_	_
+8	facing	face	_	VBG	_	3	COORD	_	_
+9	away from	away from	_	IN	_	8	ADV	_	8
+10	viewer	viewer	_	NN	_	9	PMOD	155205	_
+11	,	,	_	,	_	8	P	_	_
+12	with	with	_	IN	_	8	ADV	_	_
+13	flowers	flower	_	NNS	_	12	PMOD	155202	_
+14	in front of	in front of	_	IN	_	13	NMOD	_	_
+15	him	him	_	PRP	_	14	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

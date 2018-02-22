@@ -1,0 +1,12 @@
+1	Person	Person	_	NNP	_	0	ROOT	38768	_
+2	with	with	_	IN	_	1	NMOD	_	_
+3	black	black	_	JJ	_	4	NMOD	38769	_
+4	hat	hat	_	NN	_	2	PMOD	38769	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	black	black	_	JJ	_	7	NMOD	38776	_
+7	coat	coat	_	NN	_	5	CONJ	38776	_
+8	near	near	_	IN	_	7	LOC	_	1
+9	buildings	building	_	NNS	_	8	PMOD	38771	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	signs	sign	_	NNS	_	10	PMOD	38779	_
+12	.	.	_	.	_	0	ROOT	_	_

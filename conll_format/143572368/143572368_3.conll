@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	12972	_
+2	woman	woman	_	NN	_	10	SBJ	12972	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	12978	_
+5	green	green	_	JJ	_	6	NMOD	12978	_
+6	shirt	shirt	_	NN	_	3	PMOD	12978	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	red	red	_	JJ	_	9	NMOD	12973	_
+9	hat	hat	_	NN	_	7	CONJ	12973	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	standing	stand	_	VBG	_	10	VC	_	_
+12	in	in	_	IN	_	11	LOC	_	11
+13	a	a	_	DT	_	14	NMOD	12974	_
+14	body	body	_	NN	_	12	PMOD	12974	_
+15	of	of	_	IN	_	14	NMOD	12974	_
+16	water	water	_	NN	_	15	PMOD	12974	_
+17	.	.	_	.	_	10	P	_	_

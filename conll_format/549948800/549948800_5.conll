@@ -1,0 +1,9 @@
+1	Firemen	fireman	_	NNS	_	0	ROOT	237562	_
+2	gathered	gather	_	VBN	_	1	APPO	_	_
+3	around	around	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	237561	_
+5	firetruck	firetruck	_	NN	_	3	PMOD	237561	_
+6	on	on	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	237568	_
+8	roadside	roadside	_	NN	_	6	PMOD	237568	_
+9	.	.	_	.	_	0	ROOT	_	_

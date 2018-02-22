@@ -1,0 +1,17 @@
+1	people	people	_	NN	_	2	SBJ	99137	_
+2	pass	pass	_	VBP	_	0	ROOT	99137	_
+3	by	by	_	IN	_	2	LGS	_	2
+4	a	a	_	DT	_	9	NMOD	99130	_
+5	huge	huge	_	JJ	_	9	NMOD	99130	_
+6	black	black	_	JJ	_	9	NMOD	99130	_
+7	and	and	_	CC	_	6	COORD	99130	_
+8	white	white	_	JJ	_	7	CONJ	99130	_
+9	poster	poster	_	NN	_	3	PMOD	99130	_
+10	of	of	_	IN	_	9	NMOD	99130	_
+11	a	a	_	DT	_	13	NMOD	99130	_
+12	male	male	_	JJ	_	13	NMOD	99130	_
+13	model	model	_	NN	_	10	PMOD	99130	_
+14	unzipping	unzip	_	VBG	_	13	APPO	_	_
+15	his	his	_	PRP$	_	16	NMOD	99135	_
+16	jeans	jean	_	NNS	_	14	OBJ	99135	_
+17	.	.	_	.	_	2	P	_	_

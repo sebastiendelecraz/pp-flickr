@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	270522	_
+2	man	man	_	NN	_	3	SBJ	270522	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	outside of	outside of	_	IN	_	3	ADV	270524	3
+5	a	a	_	DT	_	6	NMOD	270524	_
+6	doorway	doorway	_	NN	_	4	PMOD	270524	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	his	his	_	PRP$	_	9	NMOD	270523	_
+9	cellphone	cellphone	_	NN	_	7	PMOD	270523	_
+10	.	.	_	.	_	3	P	_	_

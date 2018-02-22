@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	147307	_
+2	man	man	_	NN	_	0	ROOT	147307	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	147314	_
+5	red	red	_	JJ	_	6	NMOD	147314	_
+6	shirt	shirt	_	NN	_	3	PMOD	147314	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	sunglasses	sunglass	_	NNS	_	7	PMOD	147315	_
+9	playing	play	_	VBG	_	8	APPO	_	_
+10	an	an	_	DT	_	11	NMOD	147309	_
+11	accordion	accordion	_	JJ	_	9	OBJ	147309	_
+12	outside of	outside of	_	IN	_	9	LOC	_	9
+13	a	a	_	DT	_	15	NMOD	147308	_
+14	clothes	clothes	_	NNS	_	15	NMOD	147308	_
+15	shop	shop	_	NN	_	12	PMOD	147308	_
+16	.	.	_	.	_	0	ROOT	_	_

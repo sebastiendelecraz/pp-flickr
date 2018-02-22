@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	127436	_
+2	friends	friend	_	NNS	_	3	SBJ	127436	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	among	among	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	127438	_
+6	shadows	shadow	_	NNS	_	4	PMOD	127438	_
+7	of	of	_	IN	_	6	NMOD	127438	_
+8	the	the	_	DT	_	9	NMOD	127438	_
+9	trees	tree	_	NNS	_	7	PMOD	127438	_
+10	.	.	_	.	_	0	ROOT	_	_

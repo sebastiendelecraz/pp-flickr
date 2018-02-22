@@ -1,0 +1,9 @@
+1	Crowd	Crowd	_	NNP	_	2	SBJ	83547	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	83550	_
+5	tent	tent	_	NN	_	3	PMOD	83550	_
+6	after	after	_	IN	_	2	TMP	_	2
+7	a	a	_	DT	_	8	NMOD	83552	_
+8	meal	meal	_	NN	_	6	PMOD	83552	_
+9	.	.	_	.	_	0	ROOT	_	_

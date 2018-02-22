@@ -1,0 +1,15 @@
+1	Four	Four	_	CD	_	4	NMOD	28144	_
+2	young	young	_	JJ	_	4	NMOD	28144	_
+3	adult	adult	_	NN	_	4	NMOD	28144	_
+4	females	female	_	NNS	_	5	SBJ	28144	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	seated	seat	_	VBN	_	5	VC	_	_
+7	on	on	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	11	NMOD	28145	_
+9	black	black	_	JJ	_	11	NMOD	28145	_
+10	leather	leather	_	NN	_	11	NMOD	28145	_
+11	couch	couch	_	NN	_	7	PMOD	28145	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	alcoholic	alcoholic	_	JJ	_	14	NMOD	28146	_
+14	beverages	beverage	_	NNS	_	12	PMOD	28146	_
+15	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,16 @@
+1	Carnival	Carnival	_	NNP	_	2	SBJ	189668	_
+2	games	game	_	VBZ	_	0	ROOT	189668	_
+3	at	at	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	5	NMOD	189667	_
+5	place	place	_	NN	_	3	PMOD	189667	_
+6	called	call	_	VBN	_	5	APPO	_	_
+7	Giorgio	Giorgio	_	NNP	_	6	OPRD	189664	_
+8	,	,	_	,	_	5	P	_	_
+9	with	with	_	IN	_	5	NMOD	_	_
+10	stuffed	stuff	_	VBN	_	11	NMOD	189671	_
+11	animals	animal	_	NNS	_	9	PMOD	189671	_
+12	hanging	hang	_	VBG	_	11	APPO	_	_
+13	from	from	_	IN	_	12	DIR	_	12
+14	the	the	_	DT	_	15	NMOD	189672	_
+15	ceiling	ceiling	_	NN	_	13	PMOD	189672	_
+16	.	.	_	.	_	2	P	_	_

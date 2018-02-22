@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	193162	_
+2	man	man	_	NN	_	0	ROOT	193162	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	193163	_
+5	black	black	_	JJ	_	6	NMOD	193163	_
+6	shirt	shirt	_	NN	_	3	PMOD	193163	_
+7	holding	hold	_	VBG	_	0	ROOT	_	_
+8	up	up	_	RP	_	7	PRT	_	_
+9	pieces	piece	_	NNS	_	7	OBJ	193165	_
+10	of	of	_	IN	_	9	NMOD	193165	_
+11	meat	meat	_	NN	_	10	PMOD	193165	_
+12	in	in	_	IN	_	9	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	193164	_
+14	kitchen	kitchen	_	NN	_	12	PMOD	193164	_
+15	.	.	_	.	_	7	P	_	_

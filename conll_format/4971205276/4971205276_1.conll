@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	4	NMOD	224732	_
+2	Asian	Asian	_	JJ	_	4	NMOD	224732	_
+3	man	man	_	NN	_	4	NMOD	224732	_
+4	studies	study	_	NNS	_	6	NMOD	_	_
+5	the	the	_	DT	_	6	NMOD	224738	_
+6	interior	interior	_	NN	_	0	ROOT	224738	_
+7	of	of	_	IN	_	6	NMOD	224738	_
+8	a	a	_	DT	_	10	NMOD	224738	_
+9	glass	glass	_	NN	_	10	NMOD	224738	_
+10	building	building	_	NN	_	7	PMOD	224738	_
+11	from	from	_	IN	_	10	NMOD	_	4
+12	the	the	_	DT	_	13	NMOD	224739	_
+13	street	street	_	NN	_	11	PMOD	224739	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	146095	_
+2	man	man	_	NN	_	6	SBJ	146095	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	146100	_
+5	headdress	headdress	_	NN	_	3	PMOD	146100	_
+6	looking	look	_	VBG	_	0	ROOT	_	_
+7	among	among	_	IN	_	6	ADV	_	6
+8	pieces	piece	_	NNS	_	7	PMOD	146101	_
+9	of	of	_	IN	_	8	NMOD	146101	_
+10	fruit	fruit	_	NN	_	9	PMOD	146101	_
+11	.	.	_	.	_	0	ROOT	_	_

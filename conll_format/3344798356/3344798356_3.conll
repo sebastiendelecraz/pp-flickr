@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	111327	_
+2	small	small	_	JJ	_	3	NMOD	111327	_
+3	child	child	_	NN	_	0	ROOT	111327	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	10	NMOD	111329	_
+6	blue	blue	_	JJ	_	10	NMOD	111329	_
+7	hat	hat	_	NN	_	10	NMOD	111329	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	coat	coat	_	NN	_	8	CONJ	111332	_
+10	skis	ski	_	NNS	_	4	PMOD	111332	_
+11	on	on	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	111331	_
+13	snow	snow	_	NN	_	11	PMOD	111331	_
+14	.	.	_	.	_	0	ROOT	_	_

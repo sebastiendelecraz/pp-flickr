@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	160489	_
+2	men	man	_	NNS	_	3	SBJ	160489	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	outside	outside	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	160490	_
+7	restaurant	restaurant	_	NN	_	5	PMOD	160490	_
+8	at	at	_	IN	_	4	ADV	_	_
+9	dusk	dusk	_	NN	_	8	PMOD	160492	_
+10	.	.	_	.	_	3	P	_	_

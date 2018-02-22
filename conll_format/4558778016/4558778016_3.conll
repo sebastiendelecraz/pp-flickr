@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	178435	_
+2	man	man	_	NN	_	0	ROOT	178435	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	178436	_
+5	woman	woman	_	NN	_	6	NMOD	178436	_
+6	walk	walk	_	NN	_	3	CONJ	_	_
+7	past	past	_	IN	_	2	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	178438	_
+9	poster	poster	_	NN	_	7	PMOD	178438	_
+10	of	of	_	IN	_	9	NMOD	178438	_
+11	a	a	_	DT	_	14	NMOD	178438	_
+12	screaming	scream	_	VBG	_	14	NMOD	178438	_
+13	soccer	soccer	_	NN	_	14	NMOD	178438	_
+14	player	player	_	NN	_	10	PMOD	178438	_
+15	.	.	_	.	_	0	ROOT	_	_

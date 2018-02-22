@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	166658	_
+2	person	person	_	NN	_	3	SBJ	166658	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	leaning	lean	_	VBG	_	3	VC	_	_
+5	down	down	_	RP	_	4	PRT	_	_
+6	behind	behind	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	8	NMOD	166666	_
+8	stove	stove	_	NN	_	6	PMOD	166666	_
+9	in	in	_	IN	_	4	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	166660	_
+11	kitchen	kitchen	_	NN	_	9	PMOD	166660	_
+12	.	.	_	.	_	3	P	_	_

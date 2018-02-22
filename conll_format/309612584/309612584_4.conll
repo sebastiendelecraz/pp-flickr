@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	93323	_
+2	kids	kid	_	NNS	_	3	SBJ	93323	_
+3	peek	peek	_	VBP	_	0	ROOT	_	_
+4	their	their	_	PRP$	_	5	NMOD	93325	_
+5	head	head	_	NN	_	3	OBJ	93325	_
+6	from	from	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	93324	_
+8	pile	pile	_	NN	_	6	PMOD	93324	_
+9	of	of	_	IN	_	8	NMOD	93324	_
+10	leaves	leaf	_	NNS	_	9	PMOD	93324	_
+11	on	on	_	IN	_	3	LOC	_	3
+12	a	a	_	DT	_	15	NMOD	93326	_
+13	beautiful	beautiful	_	JJ	_	15	NMOD	93326	_
+14	fall	fall	_	NN	_	15	NMOD	93326	_
+15	day	day	_	NN	_	11	PMOD	93326	_
+16	.	.	_	.	_	3	P	_	_

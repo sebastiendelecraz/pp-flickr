@@ -1,0 +1,16 @@
+1	Woman	Woman	_	NNP	_	0	ROOT	267714	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	blue	blue	_	JJ	_	4	NMOD	267716	_
+4	headscarf	headscarf	_	NN	_	0	ROOT	267716	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	black	black	_	JJ	_	7	NMOD	267723	_
+7	clothing	clothing	_	NN	_	8	NMOD	267723	_
+8	carrying	carrying	_	NN	_	5	CONJ	_	_
+9	2	2	_	CD	_	10	NMOD	267713	_
+10	trays	tray	_	NNS	_	0	ROOT	267713	_
+11	of	of	_	IN	_	10	NMOD	267713	_
+12	pastries	pastry	_	NNS	_	11	PMOD	267713	_
+13	outside	outside	_	IN	_	12	LOC	_	8
+14	a	a	_	DT	_	15	NMOD	267720	_
+15	building	building	_	NN	_	13	PMOD	267720	_
+16	.	.	_	.	_	0	ROOT	_	_

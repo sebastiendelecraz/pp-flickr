@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	154473	_
+2	man	man	_	NN	_	3	SBJ	154473	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	8	NMOD	154474	_
+5	black	black	_	JJ	_	8	NMOD	154474	_
+6	and	and	_	CC	_	5	COORD	154474	_
+7	white	white	_	JJ	_	6	CONJ	154474	_
+8	hat	hat	_	NN	_	3	OBJ	154474	_
+9	as well as	as well as	_	IN	_	3	ADV	_	_
+10	a	a	_	DT	_	14	NMOD	154475	_
+11	black	black	_	JJ	_	14	NMOD	154475	_
+12	and	and	_	CC	_	11	COORD	154475	_
+13	white	white	_	JJ	_	12	CONJ	154475	_
+14	shirt	shirt	_	NN	_	15	SBJ	154475	_
+15	is	be	_	VBZ	_	9	SUB	_	_
+16	singing	sing	_	VBG	_	15	VC	_	_
+17	into	into	_	IN	_	16	ADV	_	16
+18	a	a	_	DT	_	19	NMOD	154476	_
+19	microphone	microphone	_	NN	_	17	PMOD	154476	_
+20	in front of	in front of	_	IN	_	16	ADV	_	_
+21	band	band	_	NN	_	22	NMOD	154477	_
+22	mates	mate	_	NNS	_	20	PMOD	154477	_
+23	.	.	_	.	_	0	ROOT	_	_

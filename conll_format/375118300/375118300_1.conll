@@ -1,0 +1,19 @@
+1	Two	Two	_	CD	_	2	NMOD	141209	_
+2	women	woman	_	NNS	_	3	SBJ	141209	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	in front of	in front of	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	7	NMOD	141213	_
+7	table	table	_	NN	_	5	PMOD	141213	_
+8	where	where	_	WRB	_	10	LOC	_	_
+9	they	they	_	PRP	_	10	SBJ	0	_
+10	have	have	_	VBP	_	7	NMOD	_	_
+11	many	many	_	DT	_	12	NMOD	141216	_
+12	items	item	_	NNS	_	10	OBJ	141216	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	display	display	_	NN	_	13	PMOD	141215	_
+15	such as	such as	_	IN	_	10	ADV	_	12
+16	parts	part	_	NNS	_	15	PMOD	141211	_
+17	of	of	_	IN	_	16	NMOD	141211	_
+18	fish	fish	_	NN	_	17	PMOD	141211	_
+19	.	.	_	.	_	3	P	_	_

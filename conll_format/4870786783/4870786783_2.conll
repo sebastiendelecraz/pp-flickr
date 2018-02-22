@@ -1,0 +1,17 @@
+1	Lots	Lot	_	NNPS	_	3	NMOD	213373	_
+2	of	of	_	IN	_	3	NMOD	213373	_
+3	people	people	_	NN	_	0	ROOT	213373	_
+4	sitting	sit	_	VBG	_	3	APPO	_	_
+5	along	along	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	8	NMOD	213377	_
+7	low	low	_	JJ	_	8	NMOD	213377	_
+8	wall	wall	_	NN	_	5	PMOD	213377	_
+9	in front of	in front of	_	IN	_	8	NMOD	_	_
+10	grass	grass	_	NN	_	9	PMOD	213382	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	buildings	building	_	NNS	_	11	PMOD	213381	_
+13	lining	line	_	VBG	_	12	APPO	_	_
+14	along	along	_	RB	_	13	ADV	_	_
+15	the	the	_	DT	_	16	NMOD	213378	_
+16	road	road	_	NN	_	13	OBJ	213378	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	198324	_
+2	person	person	_	NN	_	3	SBJ	198324	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	next to	next to	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	198322	_
+7	sculpture	sculpture	_	NN	_	5	PMOD	198322	_
+8	of	of	_	IN	_	7	NMOD	198322	_
+9	an	an	_	DT	_	12	NMOD	198322	_
+10	extremely	extremely	_	RB	_	11	AMOD	198322	_
+11	large	large	_	JJ	_	12	NMOD	198322	_
+12	pair	pair	_	NN	_	8	PMOD	198322	_
+13	of	of	_	IN	_	12	NMOD	_	_
+14	glasses	glass	_	NNS	_	13	PMOD	198321	_
+15	.	.	_	.	_	3	P	_	_

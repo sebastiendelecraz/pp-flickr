@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	145006	_
+2	people	people	_	NN	_	3	SBJ	145006	_
+3	pulling	pull	_	VBG	_	0	ROOT	_	_
+4	funny	funny	_	JJ	_	5	NMOD	145009	_
+5	faces	face	_	NNS	_	3	OBJ	145009	_
+6	for	for	_	IN	_	3	ADV	_	3
+7	the	the	_	DT	_	8	NMOD	0	_
+8	camera	camera	_	NN	_	6	PMOD	0	_
+9	in	in	_	IN	_	3	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	145007	_
+11	pool	pool	_	NN	_	9	PMOD	145007	_
+12	.	.	_	.	_	0	ROOT	_	_

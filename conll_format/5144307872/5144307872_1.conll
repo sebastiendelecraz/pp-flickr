@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	229821	_
+2	dark-haired	dark-haired	_	JJ	_	3	NMOD	229821	_
+3	woman	woman	_	NN	_	4	SBJ	229821	_
+4	wearing	wear	_	VBG	_	8	SBJ	_	_
+5	a	a	_	DT	_	7	NMOD	229822	_
+6	black	black	_	JJ	_	7	NMOD	229822	_
+7	dress	dress	_	NN	_	4	OBJ	229822	_
+8	sings	sing	_	VBZ	_	0	ROOT	_	_
+9	into	into	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	229824	_
+11	microphone	microphone	_	NN	_	9	PMOD	229824	_
+12	at	at	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	15	NMOD	229823	_
+14	dark	dark	_	JJ	_	15	NMOD	229823	_
+15	venue	venue	_	NN	_	12	PMOD	229823	_
+16	.	.	_	.	_	8	P	_	_

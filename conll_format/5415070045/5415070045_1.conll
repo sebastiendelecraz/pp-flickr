@@ -1,0 +1,26 @@
+1	A	a	_	DT	_	2	NMOD	235961	_
+2	woman	woman	_	NN	_	3	SBJ	235961	_
+3	wearing	wear	_	VBG	_	13	VC	_	_
+4	all	all	_	DT	_	6	NMOD	235965	_
+5	orange	orange	_	JJ	_	6	NMOD	235965	_
+6	clothing	clothing	_	NN	_	3	OBJ	235965	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	a	a	_	DT	_	9	NMOD	235966	_
+9	man	man	_	NN	_	7	CONJ	235966	_
+10	wearing	wear	_	VBG	_	9	APPO	_	_
+11	blue	blue	_	JJ	_	12	NMOD	235974	_
+12	shorts	short	_	NNS	_	10	OBJ	235974	_
+13	are	be	_	VBP	_	0	ROOT	_	_
+14	sweeping	sweep	_	VBG	_	13	VC	_	_
+15	water	water	_	NN	_	14	OBJ	235967	_
+16	into	into	_	IN	_	14	ADV	_	14
+17	a	a	_	DT	_	18	NMOD	235970	_
+18	drain	drain	_	NN	_	16	PMOD	235970	_
+19	in	in	_	IN	_	14	LOC	_	_
+20	the	the	_	DT	_	21	NMOD	0	_
+21	ground	ground	_	NN	_	19	PMOD	0	_
+22	next to	next to	_	IN	_	14	ADV	_	_
+23	a	a	_	DT	_	25	NMOD	235964	_
+24	blue	blue	_	JJ	_	25	NMOD	235964	_
+25	trashcan	trashcan	_	CD	_	22	PMOD	235964	_
+26	.	.	_	.	_	13	P	_	_

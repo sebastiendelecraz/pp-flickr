@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	229429	_
+2	man	man	_	NN	_	7	SBJ	229429	_
+3	attending	attend	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	229432	_
+5	trade	trade	_	NN	_	6	NMOD	229432	_
+6	show	show	_	NN	_	3	OBJ	229432	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	looking	look	_	VBG	_	7	VC	_	_
+9	through	through	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	229431	_
+11	telescope	telescope	_	NN	_	9	PMOD	229431	_
+12	at	at	_	IN	_	8	ADV	_	8
+13	a	a	_	DT	_	14	NMOD	229435	_
+14	booth	booth	_	NN	_	12	PMOD	229435	_
+15	there	there	_	EX	_	8	LOC	_	_
+16	.	.	_	.	_	7	P	_	_

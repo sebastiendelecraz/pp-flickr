@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	201414	_
+2	women	woman	_	NNS	_	6	SBJ	201414	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	long	long	_	JJ	_	5	NMOD	201424	_
+5	hair	hair	_	NN	_	3	PMOD	201424	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	walking	walk	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	201421	_
+10	sidewalk	sidewalk	_	NN	_	8	PMOD	201421	_
+11	under	under	_	IN	_	7	LOC	_	7
+12	an	an	_	DT	_	13	NMOD	201420	_
+13	overpass	overpass	_	NN	_	11	PMOD	201420	_
+14	.	.	_	.	_	6	P	_	_

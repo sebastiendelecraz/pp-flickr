@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	114930	_
+2	couple	couple	_	NN	_	3	SBJ	114930	_
+3	gazes	gaze	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	awe	awe	_	NN	_	4	PMOD	114937	_
+6	at	at	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	114932	_
+8	display	display	_	NN	_	6	PMOD	114932	_
+9	at	at	_	IN	_	3	LOC	_	3
+10	a	a	_	DT	_	11	NMOD	114931	_
+11	carnival	carnival	_	NN	_	9	PMOD	114931	_
+12	.	.	_	.	_	3	P	_	_

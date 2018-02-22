@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	109979	_
+2	Africans	Africans	_	JJ	_	8	SBJ	109979	_
+3	in	in	_	IN	_	8	LOC	_	_
+4	red	red	_	JJ	_	7	NMOD	109991	_
+5	and	and	_	CC	_	4	COORD	109991	_
+6	blue	blue	_	JJ	_	5	CONJ	109991	_
+7	shawls	shawl	_	NNS	_	3	PMOD	109991	_
+8	pose	pose	_	VBP	_	0	ROOT	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	109992	_
+11	picture	picture	_	NN	_	9	PMOD	109992	_
+12	outside	outside	_	IN	_	11	LOC	_	8
+13	a	a	_	DT	_	15	NMOD	109981	_
+14	barber	barber	_	NN	_	15	NMOD	109981	_
+15	shop	shop	_	NN	_	12	PMOD	109981	_
+16	.	.	_	.	_	8	P	_	_

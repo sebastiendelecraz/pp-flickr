@@ -1,0 +1,9 @@
+1	Beautiful	Beautiful	_	NNP	_	2	NMOD	26169	_
+2	scenery	scenery	_	NN	_	0	ROOT	26169	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	26171	_
+5	boat	boat	_	NN	_	3	PMOD	26171	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	the	the	_	DT	_	8	NMOD	26172	_
+8	lake	lake	_	NN	_	6	PMOD	26172	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	3	NMOD	207288	_
+2	crying	cry	_	VBG	_	3	NMOD	207288	_
+3	man	man	_	NN	_	14	SBJ	207288	_
+4	looking	look	_	VBG	_	3	APPO	_	_
+5	at	at	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	207289	_
+7	motorcycle	motorcycle	_	NN	_	5	PMOD	207289	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	another	another	_	DT	_	10	NMOD	207290	_
+10	man	man	_	NN	_	8	CONJ	207290	_
+11	in	in	_	IN	_	4	LOC	_	_
+12	jean	jean	_	NN	_	13	NMOD	207297	_
+13	shorts	short	_	NNS	_	11	PMOD	207297	_
+14	sits	sit	_	VBZ	_	0	ROOT	_	_
+15	in	in	_	IN	_	14	LOC	_	_
+16	a	a	_	DT	_	19	NMOD	207287	_
+17	white	white	_	JJ	_	19	NMOD	207287	_
+18	plastic	plastic	_	NN	_	19	NMOD	207287	_
+19	chair	chair	_	NN	_	15	PMOD	207287	_
+20	in front of	in front of	_	IN	_	0	ROOT	_	_
+21	a	a	_	DT	_	23	NMOD	207284	_
+22	bungalow	bungalow	_	NN	_	23	NMOD	207284	_
+23	store	store	_	NN	_	24	SBJ	207284	_
+24	open	open	_	VB	_	20	SUB	_	_
+25	for	for	_	IN	_	24	ADV	_	24
+26	business	business	_	NN	_	25	PMOD	207291	_
+27	.	.	_	.	_	20	P	_	_

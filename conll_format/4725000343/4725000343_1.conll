@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	195560	_
+2	man	man	_	NN	_	3	SBJ	195560	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	selecting	select	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	195563	_
+6	chair	chair	_	NN	_	4	OBJ	195563	_
+7	from	from	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	195565	_
+9	stack	stack	_	NN	_	7	PMOD	195565	_
+10	under	under	_	IN	_	4	LOC	_	4
+11	a	a	_	DT	_	13	NMOD	195564	_
+12	shady	shady	_	JJ	_	13	NMOD	195564	_
+13	awning	awning	_	NN	_	10	PMOD	195564	_
+14	.	.	_	.	_	3	P	_	_

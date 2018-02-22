@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	144645	_
+2	man	man	_	NN	_	11	SBJ	144645	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	144646	_
+5	black	black	_	JJ	_	6	NMOD	144646	_
+6	sweater	sweater	_	NN	_	3	OBJ	144646	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	a	a	_	DT	_	10	NMOD	144649	_
+9	knit	knit	_	NN	_	10	NMOD	144649	_
+10	cap	cap	_	NN	_	7	CONJ	144649	_
+11	sits	sit	_	VBZ	_	0	ROOT	_	_
+12	in front of	in front of	_	IN	_	11	ADV	_	_
+13	mountain	mountain	_	NN	_	14	NMOD	144650	_
+14	scenery	scenery	_	NN	_	12	PMOD	144650	_
+15	,	,	_	,	_	11	P	_	_
+16	with	with	_	IN	_	11	ADV	_	11
+17	a	a	_	DT	_	20	NMOD	144647	_
+18	cloudy	cloudy	_	JJ	_	20	NMOD	144647	_
+19	sky	sky	_	NN	_	20	NMOD	144647	_
+20	overhead	overhead	_	NN	_	16	PMOD	144647	_
+21	.	.	_	.	_	11	P	_	_

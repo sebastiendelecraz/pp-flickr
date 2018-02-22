@@ -1,0 +1,11 @@
+1	Chinese	Chinese	_	JJ	_	2	NMOD	224732	_
+2	man	man	_	NN	_	3	SBJ	224732	_
+3	looking	look	_	VBG	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	ADV	_	3
+5	an	an	_	DT	_	7	NMOD	224736	_
+6	automobile	automobile	_	NN	_	7	NMOD	224736	_
+7	dealer	dealer	_	NN	_	4	PMOD	224736	_
+8	at	at	_	IN	_	7	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	224740	_
+10	car	car	_	NN	_	8	PMOD	224740	_
+11	.	.	_	.	_	0	ROOT	_	_

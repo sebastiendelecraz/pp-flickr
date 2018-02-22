@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	96125	_
+2	woman	woman	_	NN	_	3	SBJ	96125	_
+3	working	work	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	96129	_
+6	laptop	laptop	_	NN	_	4	PMOD	96129	_
+7	referencing	reference	_	VBG	_	6	APPO	_	_
+8	documents	document	_	NNS	_	7	OBJ	96131	_
+9	in	in	_	IN	_	7	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	96130	_
+11	binder	binder	_	NN	_	9	PMOD	96130	_
+12	on	on	_	IN	_	11	NMOD	_	_
+13	her	her	_	PRP$	_	14	NMOD	96135	_
+14	lap	lap	_	NN	_	12	PMOD	96135	_
+15	.	.	_	.	_	0	ROOT	_	_

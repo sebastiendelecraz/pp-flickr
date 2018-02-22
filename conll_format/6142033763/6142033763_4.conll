@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	248543	_
+2	man	man	_	NN	_	0	ROOT	248543	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	248545	_
+5	blue	blue	_	JJ	_	7	NMOD	248545	_
+6	uniform	uniform	_	NN	_	7	NMOD	248545	_
+7	jumps	jump	_	NNS	_	3	PMOD	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	0	_
+10	air	air	_	NN	_	8	PMOD	0	_
+11	to	to	_	TO	_	2	NMOD	_	_
+12	shoot	shoot	_	VB	_	11	IM	_	_
+13	a	a	_	DT	_	14	NMOD	248540	_
+14	basketball	basketball	_	NN	_	12	OBJ	248540	_
+15	.	.	_	.	_	0	ROOT	_	_

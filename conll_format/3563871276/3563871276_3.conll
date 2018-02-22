@@ -1,0 +1,12 @@
+1	That	that	_	DT	_	2	NMOD	127974	_
+2	person	person	_	NN	_	3	SBJ	127974	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC-PRD	_	_
+5	the	the	_	DT	_	6	NMOD	127977	_
+6	water	water	_	NN	_	4	PMOD	127977	_
+7	with	with	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	11	NMOD	127975	_
+9	World	World	_	NNP	_	11	NMOD	127975	_
+10	festival	festival	_	JJ	_	11	NMOD	127975	_
+11	sign	sign	_	NN	_	7	PMOD	127975	_
+12	.	.	_	.	_	3	P	_	_

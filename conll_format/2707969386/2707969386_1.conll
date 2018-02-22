@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	5	NMOD	67671	_
+2	little	little	_	JJ	_	5	NMOD	67671	_
+3	gray	gray	_	JJ	_	5	NMOD	67671	_
+4	dog	dog	_	NN	_	5	NMOD	67671	_
+5	jumps	jump	_	NNS	_	0	ROOT	_	_
+6	over	over	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	67672	_
+8	bar	bar	_	NN	_	6	PMOD	67672	_
+9	at	at	_	IN	_	5	LOC	_	_
+10	an	an	_	DT	_	12	NMOD	67674	_
+11	agility	agility	_	NN	_	12	NMOD	67674	_
+12	test	test	_	NN	_	9	PMOD	67674	_
+13	.	.	_	.	_	0	ROOT	_	_

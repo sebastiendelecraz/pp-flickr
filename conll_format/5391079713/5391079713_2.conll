@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	235261	_
+2	man	man	_	NN	_	7	SBJ	235261	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	235264	_
+5	blue	blue	_	JJ	_	6	NMOD	235264	_
+6	jacket	jacket	_	NN	_	3	PMOD	235264	_
+7	smiles	smile	_	VBZ	_	0	ROOT	_	_
+8	back	back	_	RB	_	7	ADV	_	_
+9	at	at	_	IN	_	7	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	camera	camera	_	NN	_	9	PMOD	0	_
+12	,	,	_	,	_	7	P	_	_
+13	positioned	position	_	VBN	_	7	ADV	_	_
+14	in front of	in front of	_	IN	_	13	ADV	_	_
+15	a	a	_	DT	_	16	NMOD	235262	_
+16	lake	lake	_	NN	_	14	PMOD	235262	_
+17	or	or	_	CC	_	16	COORD	235262	_
+18	large	large	_	JJ	_	19	NMOD	235262	_
+19	river	river	_	NN	_	17	CONJ	235262	_
+20	on	on	_	IN	_	13	ADV	_	_
+21	a	a	_	DT	_	24	NMOD	235265	_
+22	clear	clear	_	JJ	_	24	NMOD	235265	_
+23	sunny	sunny	_	JJ	_	24	NMOD	235265	_
+24	day	day	_	NN	_	20	PMOD	235265	_
+25	.	.	_	.	_	7	P	_	_

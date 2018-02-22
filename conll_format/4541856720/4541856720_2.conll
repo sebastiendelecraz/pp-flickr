@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	176599	_
+2	man	man	_	NN	_	3	SBJ	176599	_
+3	surfing	surf	_	VBG	_	12	SBJ	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	176601	_
+6	blue	blue	_	JJ	_	8	NMOD	176601	_
+7	watered	water	_	VBN	_	8	NMOD	176601	_
+8	ocean	ocean	_	NN	_	4	PMOD	176601	_
+9	along	along	_	IN	_	8	LOC	_	3
+10	a	a	_	DT	_	11	NMOD	176600	_
+11	rock	rock	_	NN	_	9	PMOD	176600	_
+12	lined	line	_	VBD	_	0	ROOT	176600	_
+13	beach	beach	_	NN	_	12	OBJ	176600	_
+14	.	.	_	.	_	12	P	_	_

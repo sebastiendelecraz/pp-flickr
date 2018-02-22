@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	113624	_
+2	group	group	_	NN	_	5	SBJ	113624	_
+3	of	of	_	IN	_	2	NMOD	113624	_
+4	people	people	_	NN	_	3	PMOD	113624	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	posing	pose	_	VBG	_	5	VC	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	113627	_
+9	photo	photo	_	NN	_	7	PMOD	113627	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	a	a	_	DT	_	14	NMOD	113625	_
+12	hot	hot	_	JJ	_	14	NMOD	113625	_
+13	air	air	_	NN	_	14	NMOD	113625	_
+14	balloon	balloon	_	NN	_	10	PMOD	113625	_
+15	.	.	_	.	_	5	P	_	_

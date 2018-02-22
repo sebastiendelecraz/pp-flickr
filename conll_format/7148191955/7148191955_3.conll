@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	4	NMOD	265978	_
+2	tall	tall	_	JJ	_	4	NMOD	265978	_
+3	elder	elder	_	JJ	_	4	NMOD	265978	_
+4	man	man	_	NN	_	5	SBJ	265978	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	with	with	_	IN	_	6	ADV	_	_
+8	his	his	_	PRP$	_	9	NMOD	265986	_
+9	hand	hand	_	NN	_	7	PMOD	265986	_
+10	around	around	_	IN	_	6	LOC	_	9
+11	another	another	_	DT	_	14	NMOD	265981	_
+12	shorter	short	_	JJR	_	14	NMOD	265981	_
+13	elder	elder	_	NN	_	14	NMOD	265981	_
+14	man	man	_	NN	_	10	PMOD	265981	_
+15	in the middle of	in the middle of	_	IN	_	6	TMP	265990	6
+16	the	the	_	DT	_	17	NMOD	265990	_
+17	city	city	_	NN	_	15	PMOD	265990	_
+18	.	.	_	.	_	5	P	_	_

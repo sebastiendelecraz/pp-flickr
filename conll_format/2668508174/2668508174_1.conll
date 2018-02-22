@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	65175	_
+2	woman	woman	_	NN	_	3	SBJ	65175	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	65176	_
+5	nice	nice	_	JJ	_	6	NMOD	65176	_
+6	dress	dress	_	NN	_	3	OBJ	65176	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	one	one	_	CD	_	9	NMOD	65177	_
+9	hand	hand	_	NN	_	7	PMOD	65177	_
+10	in	in	_	IN	_	3	LOC	_	_
+11	her	her	_	PRP$	_	12	NMOD	65178	_
+12	hair	hair	_	NN	_	10	PMOD	65178	_
+13	standing	stand	_	VBG	_	12	APPO	_	_
+14	in front of	in front of	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	17	NMOD	65179	_
+16	palm	palm	_	NN	_	17	NMOD	65179	_
+17	tree	tree	_	NN	_	14	PMOD	65179	_
+18	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	168734	_
+2	man	man	_	NN	_	0	ROOT	168734	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	168736	_
+5	bicycle	bicycle	_	NN	_	3	PMOD	168736	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	168737	_
+8	street	street	_	NN	_	6	PMOD	168737	_
+9	with	with	_	IN	_	2	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	168739	_
+11	bridge	bridge	_	NN	_	9	PMOD	168739	_
+12	.	.	_	.	_	0	ROOT	_	_

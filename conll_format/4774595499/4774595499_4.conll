@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	201487	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	sitting	sit	_	VBG	_	2	VC	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	201485	_
+6	boat	boat	_	NN	_	4	PMOD	201485	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	9	NMOD	201488	_
+9	water	water	_	NN	_	7	PMOD	201488	_
+10	.	.	_	.	_	2	P	_	_

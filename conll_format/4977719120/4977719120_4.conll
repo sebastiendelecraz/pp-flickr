@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	225320	_
+2	young	young	_	JJ	_	3	NMOD	225320	_
+3	man	man	_	NN	_	0	ROOT	225320	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	225323	_
+6	black	black	_	JJ	_	7	NMOD	225323	_
+7	cap	cap	_	NN	_	4	PMOD	225323	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	a	a	_	DT	_	11	NMOD	225321	_
+10	green	green	_	JJ	_	11	NMOD	225321	_
+11	bike	bike	_	NN	_	8	PMOD	225321	_
+12	.	.	_	.	_	0	ROOT	_	_

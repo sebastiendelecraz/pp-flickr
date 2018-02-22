@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	87095	_
+2	man	man	_	NN	_	3	SBJ	87095	_
+3	kneels	kneel	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	7	NMOD	87098	_
+6	wet	wet	_	NN	_	7	NMOD	87098	_
+7	sand	sand	_	NN	_	4	PMOD	87098	_
+8	at	at	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	10	NMOD	87097	_
+10	beach	beach	_	NN	_	8	PMOD	87097	_
+11	near	near	_	IN	_	3	TMP	_	3
+12	a	a	_	DT	_	13	NMOD	87096	_
+13	dog	dog	_	NN	_	11	PMOD	87096	_
+14	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	64748	_
+2	group	group	_	NN	_	5	SBJ	64748	_
+3	of	of	_	IN	_	2	NMOD	64748	_
+4	ladies	lady	_	NNS	_	3	PMOD	64748	_
+5	stands	stand	_	VBZ	_	0	ROOT	_	_
+6	outside	outside	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	64754	_
+8	station	station	_	NN	_	6	PMOD	64754	_
+9	with	with	_	IN	_	5	ADV	_	_
+10	their	their	_	PRP$	_	11	NMOD	64750	_
+11	luggage	luggage	_	NN	_	9	PMOD	64750	_
+12	.	.	_	.	_	5	P	_	_

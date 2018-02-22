@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	197523	_
+2	police	police	_	NN	_	3	NMOD	197523	_
+3	offer	offer	_	NN	_	5	NMOD	197523	_
+4	wearing	wear	_	VBG	_	5	NMOD	_	_
+5	sunglasses	sunglass	_	NNS	_	6	SBJ	197522	_
+6	stands	stand	_	VBZ	_	16	SBJ	_	_
+7	in	in	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	197520	_
+9	crowd	crowd	_	NN	_	7	PMOD	197520	_
+10	of	of	_	IN	_	9	NMOD	197520	_
+11	other	other	_	JJ	_	12	NMOD	197520	_
+12	officers	officer	_	NNS	_	10	PMOD	197520	_
+13	with	with	_	IN	_	12	NMOD	_	_
+14	his	his	_	PRP$	_	15	NMOD	197521	_
+15	arms	arm	_	NNS	_	13	PMOD	197521	_
+16	crossed	cross	_	VBD	_	0	ROOT	_	_
+17	.	.	_	.	_	16	P	_	_

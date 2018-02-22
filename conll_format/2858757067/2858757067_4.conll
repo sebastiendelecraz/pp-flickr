@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	77188	_
+2	people	people	_	NN	_	0	ROOT	77188	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	red	red	_	JJ	_	8	NMOD	77183	_
+6	and	and	_	CC	_	5	COORD	77183	_
+7	white	white	_	JJ	_	6	CONJ	77183	_
+8	wait	wait	_	NN	_	4	PMOD	_	_
+9	at	at	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	12	NMOD	77187	_
+11	horse	horse	_	NN	_	12	NMOD	77187	_
+12	track	track	_	NN	_	9	PMOD	77187	_
+13	with	with	_	IN	_	8	NMOD	_	8
+14	a	a	_	DT	_	15	NMOD	77186	_
+15	horse	horse	_	NN	_	13	PMOD	77186	_
+16	.	.	_	.	_	0	ROOT	_	_

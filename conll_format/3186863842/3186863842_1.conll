@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	99534	_
+2	woman	woman	_	NN	_	3	SBJ	99534	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	7	NMOD	99539	_
+5	black	black	_	JJ	_	7	NMOD	99539	_
+6	shirt	shirt	_	NN	_	7	NMOD	99539	_
+7	browses	browse	_	NNS	_	3	OBJ	_	_
+8	through	through	_	IN	_	3	MNR	_	7
+9	a	a	_	DT	_	10	NMOD	99536	_
+10	book	book	_	NN	_	8	PMOD	99536	_
+11	at	at	_	IN	_	3	TMP	_	_
+12	a	a	_	DT	_	13	NMOD	99538	_
+13	store	store	_	NN	_	11	PMOD	99538	_
+14	.	.	_	.	_	0	ROOT	_	_

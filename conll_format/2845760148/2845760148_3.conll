@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	76495	_
+2	couple	couple	_	NN	_	5	SBJ	76495	_
+3	of	of	_	IN	_	2	NMOD	76495	_
+4	people	people	_	NN	_	3	PMOD	76495	_
+5	working	work	_	VBG	_	0	ROOT	_	_
+6	around	around	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	76498	_
+8	pile	pile	_	NN	_	6	PMOD	76498	_
+9	of	of	_	IN	_	8	NMOD	76498	_
+10	rocks	rock	_	NNS	_	9	PMOD	76498	_
+11	.	.	_	.	_	0	ROOT	_	_

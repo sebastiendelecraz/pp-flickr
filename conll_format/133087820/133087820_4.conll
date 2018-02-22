@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	3	NMOD	8811	_
+2	young	young	_	JJ	_	3	NMOD	8811	_
+3	man	man	_	NN	_	0	ROOT	8811	_
+4	on	on	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	8812	_
+6	bench	bench	_	NN	_	4	PMOD	8812	_
+7	outside of	outside of	_	IN	_	3	NMOD	_	3
+8	a	a	_	DT	_	9	NMOD	8813	_
+9	bookstore	bookstore	_	NN	_	7	PMOD	8813	_
+10	.	.	_	.	_	0	ROOT	_	_

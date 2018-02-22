@@ -1,0 +1,9 @@
+1	three	three	_	CD	_	2	NMOD	159621	_
+2	men	man	_	NNS	_	0	ROOT	159621	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	159623	_
+5	crevice	crevice	_	NN	_	3	PMOD	159623	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	159625	_
+8	street	street	_	NN	_	6	PMOD	159625	_
+9	.	.	_	.	_	0	ROOT	_	_

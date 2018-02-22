@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	245080	_
+2	man	man	_	NN	_	3	SBJ	245080	_
+3	putting	put	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	PUT	_	_
+5	a	a	_	DT	_	7	NMOD	245084	_
+6	red	red	_	JJ	_	7	NMOD	245084	_
+7	sweatshirt	sweatshirt	_	NN	_	4	PMOD	245084	_
+8	with	with	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	10	NMOD	245086	_
+10	cityscape	cityscape	_	NN	_	8	PMOD	245086	_
+11	behind	behind	_	IN	_	10	LOC	_	_
+12	him	him	_	PRP	_	11	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

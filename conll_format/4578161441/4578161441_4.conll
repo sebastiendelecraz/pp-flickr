@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	180111	_
+2	boy	boy	_	NN	_	3	SBJ	180111	_
+3	gives	give	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	180117	_
+5	shy	shy	_	JJ	_	6	NMOD	180117	_
+6	smile	smile	_	NN	_	3	OBJ	180117	_
+7	through	through	_	IN	_	3	MNR	_	6
+8	gaps	gap	_	NNS	_	7	PMOD	180108	_
+9	in	in	_	IN	_	3	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	180109	_
+11	fence	fence	_	NN	_	9	PMOD	180109	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	106796	_
+2	man	man	_	NN	_	0	ROOT	106796	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	106799	_
+5	phone	phone	_	NN	_	6	NMOD	106799	_
+6	stands	stand	_	NNS	_	3	PMOD	_	_
+7	before	before	_	IN	_	2	TMP	_	6
+8	a	a	_	DT	_	10	NMOD	106794	_
+9	seated	seat	_	VBN	_	10	NMOD	106794	_
+10	man	man	_	NN	_	7	PMOD	106794	_
+11	.	.	_	.	_	0	ROOT	_	_

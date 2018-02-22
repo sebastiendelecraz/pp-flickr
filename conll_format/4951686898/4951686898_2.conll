@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	222541	_
+2	woman	woman	_	NN	_	12	SBJ	222541	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	black	black	_	JJ	_	5	NMOD	222550	_
+5	hair	hair	_	NN	_	3	PMOD	222550	_
+6	and	and	_	CC	_	2	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	222546	_
+8	tattoo	tattoo	_	NN	_	6	CONJ	222546	_
+9	on	on	_	IN	_	2	NMOD	_	_
+10	her	her	_	PRP$	_	11	NMOD	222551	_
+11	arm	arm	_	NN	_	9	PMOD	222551	_
+12	is	be	_	VBZ	_	0	ROOT	_	_
+13	standing	stand	_	VBG	_	12	VC	_	_
+14	next to	next to	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	222540	_
+16	man	man	_	NN	_	14	PMOD	222540	_
+17	in	in	_	IN	_	13	LOC	_	16
+18	a	a	_	DT	_	20	NMOD	222543	_
+19	black	black	_	JJ	_	20	NMOD	222543	_
+20	shirt	shirt	_	NN	_	17	PMOD	222543	_
+21	with	with	_	IN	_	20	NMOD	_	_
+22	white	white	_	JJ	_	23	NMOD	222547	_
+23	writing	writing	_	NN	_	21	PMOD	222547	_
+24	near	near	_	IN	_	23	LOC	_	13
+25	a	a	_	DT	_	26	NMOD	222554	_
+26	car	car	_	NN	_	24	PMOD	222554	_
+27	.	.	_	.	_	12	P	_	_

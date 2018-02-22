@@ -1,0 +1,9 @@
+1	Woman	Woman	_	NNP	_	3	NMOD	225838	_
+2	dipping	dip	_	VBG	_	3	NMOD	_	_
+3	sauce	sauce	_	NN	_	0	ROOT	225837	_
+4	over	over	_	IN	_	3	NMOD	_	2
+5	a	a	_	DT	_	6	NMOD	225839	_
+6	bowl	bowl	_	NN	_	4	PMOD	225839	_
+7	of	of	_	IN	_	6	NMOD	225839	_
+8	something	something	_	NN	_	7	PMOD	225839	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	54810	_
+2	child	child	_	NN	_	3	SBJ	54810	_
+3	jumping	jump	_	VBG	_	0	ROOT	_	_
+4	out of	out of	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	54811	_
+6	swing	swing	_	NN	_	4	PMOD	54811	_
+7	toward	toward	_	IN	_	3	DIR	_	3
+8	a	a	_	DT	_	9	NMOD	54815	_
+9	target	target	_	NN	_	7	PMOD	54815	_
+10	placed	place	_	VBN	_	9	APPO	_	_
+11	on	on	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	ground	ground	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

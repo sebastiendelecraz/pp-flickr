@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	4	NMOD	45067	_
+2	long	long	_	JJ	_	4	NMOD	45067	_
+3	dark-haired	dark-haired	_	JJ	_	4	NMOD	45067	_
+4	man	man	_	NN	_	0	ROOT	45067	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	on	on	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	45071	_
+8	grass	grass	_	NN	_	6	PMOD	45071	_
+9	with	with	_	IN	_	5	ADV	_	5
+10	a	a	_	DT	_	11	NMOD	45068	_
+11	guitar	guitar	_	NN	_	9	PMOD	45068	_
+12	in	in	_	IN	_	5	LOC	_	_
+13	his	his	_	PRP$	_	14	NMOD	45075	_
+14	lap	lap	_	NN	_	12	PMOD	45075	_
+15	in front of	in front of	_	IN	_	0	ROOT	_	_
+16	a	a	_	DT	_	18	NMOD	45073	_
+17	blue	blue	_	JJ	_	18	NMOD	45073	_
+18	sky	sky	_	NN	_	15	PMOD	45073	_
+19	.	.	_	.	_	0	ROOT	_	_

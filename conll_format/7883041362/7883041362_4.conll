@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	276317	_
+2	girl	girl	_	NN	_	0	ROOT	276317	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	276319	_
+5	bicycle	bicycle	_	NN	_	3	PMOD	276319	_
+6	doing	do	_	VBG	_	5	APPO	_	_
+7	a	a	_	DT	_	8	NMOD	0	_
+8	jump	jump	_	NN	_	6	OBJ	0	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	air	air	_	NN	_	9	PMOD	0	_
+12	with	with	_	IN	_	8	NMOD	_	_
+13	no	no	_	DT	_	14	NMOD	276322	_
+14	hands	hand	_	NNS	_	12	PMOD	276322	_
+15	.	.	_	.	_	0	ROOT	_	_

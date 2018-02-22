@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	116718	_
+2	man	man	_	NN	_	9	SBJ	116718	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	116722	_
+5	bike	bike	_	NN	_	3	PMOD	116722	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	116718	_
+8	man	man	_	NN	_	6	CONJ	116718	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	walking	walk	_	VBG	_	9	VC	_	_
+11	in front of	in front of	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	116717	_
+13	bus	bus	_	NN	_	11	PMOD	116717	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	a	a	_	DT	_	17	NMOD	116721	_
+16	'	'	_	''	_	17	P	116721	_
+17	Sex	sex	_	NN	_	14	PMOD	116721	_
+18	And	and	_	CC	_	17	COORD	_	_
+19	The	the	_	DT	_	20	NMOD	116719	_
+20	City	City	_	NNP	_	22	NMOD	116719	_
+21	'	'	_	POS	_	20	SUFFIX	116723	_
+22	ad	ad	_	NN	_	18	CONJ	116723	_
+23	.	.	_	.	_	9	P	_	_

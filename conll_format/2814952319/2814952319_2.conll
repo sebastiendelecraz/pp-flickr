@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	74519	_
+2	group	group	_	NN	_	8	SBJ	74519	_
+3	of	of	_	IN	_	2	NMOD	74519	_
+4	women	woman	_	NNS	_	3	PMOD	74519	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	white	white	_	JJ	_	7	NMOD	74520	_
+7	robes	robe	_	NNS	_	5	PMOD	74520	_
+8	walk	walk	_	VBP	_	0	ROOT	_	_
+9	through	through	_	IN	_	8	DIR	_	8
+10	the	the	_	DT	_	11	NMOD	74522	_
+11	grass	grass	_	NN	_	9	PMOD	74522	_
+12	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	149525	_
+2	bride	bride	_	NN	_	5	SBJ	149525	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	groom	groom	_	NN	_	3	CONJ	149526	_
+5	walk	walk	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	149530	_
+8	path	path	_	NN	_	6	PMOD	149530	_
+9	through	through	_	IN	_	5	ADV	_	5
+10	grass	grass	_	NN	_	9	PMOD	149534	_
+11	while	while	_	IN	_	5	TMP	_	_
+12	another	another	_	DT	_	13	NMOD	149527	_
+13	couple	couple	_	NN	_	14	SBJ	149527	_
+14	follows	follow	_	VBZ	_	11	SUB	_	_
+15	behind	behind	_	IN	_	14	ADV	_	_
+16	them	them	_	PRP	_	15	PMOD	0	_
+17	.	.	_	.	_	5	P	_	_

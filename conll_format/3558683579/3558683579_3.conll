@@ -1,0 +1,14 @@
+1	The	the	_	DT	_	2	NMOD	127483	_
+2	man	man	_	NN	_	3	SBJ	127483	_
+3	drives	drive	_	VBZ	_	0	ROOT	_	_
+4	the	the	_	DT	_	5	NMOD	127490	_
+5	lane	lane	_	JJ	_	3	OBJ	127490	_
+6	for	for	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	127486	_
+8	shot	shot	_	NN	_	6	PMOD	127486	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	13	NMOD	127488	_
+11	outdoor	outdoor	_	JJ	_	13	NMOD	127488	_
+12	basketball	basketball	_	NN	_	13	NMOD	127488	_
+13	game	game	_	NN	_	9	PMOD	127488	_
+14	.	.	_	.	_	3	P	_	_

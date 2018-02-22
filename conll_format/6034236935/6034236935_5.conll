@@ -1,0 +1,12 @@
+1	One	One	_	CD	_	2	NMOD	246879	_
+2	man	man	_	NN	_	9	SBJ	246879	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	246881	_
+5	room	room	_	NN	_	3	PMOD	246881	_
+6	during	during	_	IN	_	2	TMP	_	2
+7	the	the	_	DT	_	8	NMOD	246886	_
+8	day	day	_	NN	_	6	PMOD	246886	_
+9	doing	do	_	VBG	_	0	ROOT	_	_
+10	a	a	_	DT	_	11	NMOD	246879	_
+11	handstand	handstand	_	NN	_	9	OBJ	246879	_
+12	.	.	_	.	_	0	ROOT	_	_

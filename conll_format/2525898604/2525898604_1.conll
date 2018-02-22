@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	55332	_
+2	boat	boat	_	NN	_	6	SBJ	55332	_
+3	carrying	carry	_	VBG	_	2	APPO	_	_
+4	several	several	_	DT	_	5	NMOD	55334	_
+5	men	man	_	NNS	_	3	OBJ	55334	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	pulled	pull	_	VBN	_	6	VC	_	_
+8	to	to	_	TO	_	7	OPRD	_	_
+9	shore	shore	_	VB	_	8	IM	_	_
+10	by	by	_	IN	_	9	MNR	_	7
+11	a	a	_	DT	_	13	NMOD	55333	_
+12	large	large	_	JJ	_	13	NMOD	55333	_
+13	team	team	_	NN	_	10	PMOD	55333	_
+14	of	of	_	IN	_	13	NMOD	55333	_
+15	horses	horse	_	NNS	_	14	PMOD	55333	_
+16	.	.	_	.	_	6	P	_	_

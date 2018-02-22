@@ -1,0 +1,11 @@
+1	man	man	_	NN	_	0	ROOT	242022	_
+2	on	on	_	IN	_	1	NMOD	_	1
+3	a	a	_	DT	_	4	NMOD	242023	_
+4	bike	bike	_	NN	_	2	PMOD	242023	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	in front of	in front of	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	242027	_
+8	stand	stand	_	NN	_	6	PMOD	242027	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	food	food	_	NN	_	9	PMOD	242026	_
+11	.	.	_	.	_	0	ROOT	_	_

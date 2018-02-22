@@ -1,0 +1,11 @@
+1	The	the	_	DT	_	2	NMOD	91366	_
+2	man	man	_	NN	_	9	SBJ	91366	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	91370	_
+5	blue	blue	_	JJ	_	6	NMOD	91370	_
+6	pair	pair	_	NN	_	3	PMOD	91370	_
+7	of	of	_	IN	_	6	NMOD	91370	_
+8	shorts	short	_	NNS	_	7	PMOD	91370	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	rowing	row	_	VBG	_	0	ROOT	_	_
+11	.	.	_	.	_	0	ROOT	_	_

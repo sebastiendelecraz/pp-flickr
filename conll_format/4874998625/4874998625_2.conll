@@ -1,0 +1,14 @@
+1	Men	Men	_	NNPS	_	5	SBJ	213849	_
+2	in	in	_	IN	_	5	LOC	_	_
+3	short-sleeved	short-sleeved	_	CD	_	4	NMOD	213859	_
+4	shirts	shirt	_	NNS	_	2	PMOD	213859	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	gathered	gather	_	VBN	_	5	VC	_	_
+7	around	around	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	213853	_
+9	table	table	_	NN	_	7	PMOD	213853	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	213850	_
+12	meat	meat	_	NN	_	13	NMOD	213850	_
+13	shop	shop	_	NN	_	10	PMOD	213850	_
+14	.	.	_	.	_	5	P	_	_

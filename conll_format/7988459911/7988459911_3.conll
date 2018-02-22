@@ -1,0 +1,16 @@
+1	Man	Man	_	NNP	_	0	ROOT	277381	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	277386	_
+4	white	white	_	JJ	_	5	NMOD	277386	_
+5	shirt	shirt	_	NN	_	2	PMOD	277386	_
+6	kneeing	kneeing	_	CD	_	8	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	277383	_
+8	man	man	_	NN	_	0	ROOT	277383	_
+9	in	in	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	12	NMOD	277382	_
+11	black	black	_	JJ	_	12	NMOD	277382	_
+12	shirt	shirt	_	NN	_	9	PMOD	277382	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	277387	_
+15	face	face	_	NN	_	13	PMOD	277387	_
+16	.	.	_	.	_	8	P	_	_

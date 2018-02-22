@@ -1,0 +1,12 @@
+1	An	an	_	DT	_	3	NMOD	217527	_
+2	elderly	elderly	_	NN	_	3	NMOD	217527	_
+3	group	group	_	NN	_	0	ROOT	217527	_
+4	of	of	_	IN	_	3	NMOD	217527	_
+5	ladies	lady	_	NNS	_	4	PMOD	217527	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	standing	stand	_	VBG	_	7	CONJ	_	_
+9	by	by	_	IN	_	3	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	217530	_
+11	bench	bench	_	NN	_	9	PMOD	217530	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	262046	_
+2	dog	dog	_	NN	_	3	SBJ	262046	_
+3	has	have	_	VBZ	_	0	ROOT	_	_
+4	its	its	_	PRP$	_	5	NMOD	262055	_
+5	photo	photo	_	NN	_	3	OBJ	262055	_
+6	taken	take	_	VBN	_	5	APPO	_	_
+7	with	with	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	10	NMOD	262047	_
+9	big	big	_	JJ	_	10	NMOD	262047	_
+10	bow	bow	_	NN	_	7	PMOD	262047	_
+11	made	make	_	VBD	_	3	VC	_	_
+12	of	of	_	IN	_	11	ADV	_	_
+13	ribbon	ribbon	_	NN	_	12	PMOD	262047	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	its	its	_	PRP$	_	16	NMOD	262053	_
+16	head	head	_	NN	_	14	PMOD	262053	_
+17	.	.	_	.	_	3	P	_	_

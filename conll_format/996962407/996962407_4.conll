@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	285179	_
+2	man	man	_	NN	_	6	SBJ	285179	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	285180	_
+5	raincoat	raincoat	_	NN	_	3	PMOD	285180	_
+6	stands	stand	_	VBZ	_	0	ROOT	_	_
+7	outside	outside	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	285186	_
+9	house	house	_	NN	_	7	PMOD	285186	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	285182	_
+12	rain	rain	_	NN	_	10	PMOD	285182	_
+13	.	.	_	.	_	6	P	_	_

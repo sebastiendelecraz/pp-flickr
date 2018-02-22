@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	40714	_
+2	man	man	_	NN	_	0	ROOT	40714	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	40720	_
+5	white	white	_	JJ	_	6	NMOD	40720	_
+6	shirt	shirt	_	NN	_	3	PMOD	40720	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	Khaki	Khaki	_	NNP	_	9	NMOD	40717	_
+9	pants	pant	_	NNS	_	7	CONJ	40717	_
+10	with	with	_	IN	_	2	NMOD	_	2
+11	a	a	_	DT	_	12	NMOD	40715	_
+12	hat	hat	_	NN	_	10	PMOD	40715	_
+13	on	on	_	IN	_	2	NMOD	_	_
+14	climbing	climb	_	VBG	_	13	PMOD	_	_
+15	a	a	_	DT	_	16	NMOD	40713	_
+16	mountain	mountain	_	NN	_	14	OBJ	40713	_
+17	.	.	_	.	_	0	ROOT	_	_

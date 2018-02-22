@@ -1,0 +1,10 @@
+1	Tourists	tourist	_	NNS	_	2	SBJ	222916	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	among	among	_	IN	_	2	LOC-PRD	_	2
+4	the	the	_	DT	_	5	NMOD	0	_
+5	grounds	ground	_	NNS	_	3	PMOD	0	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	222919	_
+8	historic	historic	_	JJ	_	9	NMOD	222919	_
+9	site	site	_	NN	_	6	PMOD	222919	_
+10	.	.	_	.	_	2	P	_	_

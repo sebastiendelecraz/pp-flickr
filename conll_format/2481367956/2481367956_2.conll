@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	52658	_
+2	little	little	_	JJ	_	3	NMOD	52658	_
+3	boy	boy	_	NN	_	0	ROOT	52658	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	navy	navy	_	NN	_	4	PMOD	52663	_
+6	blue	blue	_	JJ	_	0	ROOT	52663	_
+7	reaching	reach	_	VBG	_	6	AMOD	_	_
+8	up	up	_	RP	_	7	PRT	_	_
+9	for	for	_	IN	_	7	ADV	_	7
+10	a	a	_	DT	_	11	NMOD	52659	_
+11	bar	bar	_	NN	_	9	PMOD	52659	_
+12	on	on	_	IN	_	7	TMP	_	_
+13	a	a	_	DT	_	14	NMOD	52660	_
+14	playground	playground	_	NN	_	12	PMOD	52660	_
+15	.	.	_	.	_	0	ROOT	_	_

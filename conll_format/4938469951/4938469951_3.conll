@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	NAME	220792	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	past	past	_	IN	_	2	ADV	_	2
+4	an	an	_	DT	_	5	NMOD	220793	_
+5	escalator	escalator	_	NN	_	3	PMOD	220793	_
+6	under	under	_	IN	_	2	LOC	_	3
+7	a	a	_	DT	_	11	NMOD	220796	_
+8	beam	beam	_	NN	_	11	NMOD	220796	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	glass	glass	_	NN	_	9	CONJ	220799	_
+11	ceiling	ceiling	_	NN	_	6	PMOD	_	_
+12	.	.	_	.	_	0	ROOT	_	_

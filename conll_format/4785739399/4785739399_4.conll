@@ -1,0 +1,9 @@
+1	Three	Three	_	CD	_	2	NMOD	202630	_
+2	men	man	_	NNS	_	0	ROOT	202630	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	202631	_
+5	boat	boat	_	NN	_	3	PMOD	202631	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	the	the	_	DT	_	8	NMOD	202632	_
+8	water	water	_	NN	_	6	PMOD	202632	_
+9	.	.	_	.	_	0	ROOT	_	_

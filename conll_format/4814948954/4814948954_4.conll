@@ -1,0 +1,9 @@
+1	Women	woman	_	NNS	_	2	SBJ	206257	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	206258	_
+5	box	box	_	NN	_	6	NMOD	206258	_
+6	drinking	drinking	_	NN	_	3	PMOD	_	_
+7	out of	out of	_	IN	_	6	NMOD	_	6
+8	cups	cup	_	NNS	_	7	PMOD	206261	_
+9	.	.	_	.	_	0	ROOT	_	_

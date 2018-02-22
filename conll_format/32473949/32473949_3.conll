@@ -1,0 +1,16 @@
+1	Group	Group	_	NNP	_	0	ROOT	104135	_
+2	of	of	_	IN	_	1	NMOD	104135	_
+3	men	man	_	NNS	_	2	PMOD	104135	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	blue	blue	_	JJ	_	6	NMOD	104139	_
+6	shirts	shirt	_	NNS	_	4	PMOD	104139	_
+7	drying	dry	_	VBG	_	3	APPO	_	_
+8	off	off	_	RP	_	7	PRT	_	_
+9	a	a	_	DT	_	11	NMOD	104137	_
+10	red	red	_	JJ	_	11	NMOD	104137	_
+11	car	car	_	NN	_	7	OBJ	104137	_
+12	at	at	_	IN	_	7	LOC	_	7
+13	a	a	_	DT	_	15	NMOD	104141	_
+14	car	car	_	NN	_	15	NMOD	104141	_
+15	wash	wash	_	NN	_	12	PMOD	104141	_
+16	.	.	_	.	_	0	ROOT	_	_

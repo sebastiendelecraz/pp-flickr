@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	2	NMOD	97760	_
+2	boy	boy	_	NN	_	3	SBJ	97760	_
+3	holding	hold	_	VBG	_	0	ROOT	_	_
+4	onto	onto	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	97762	_
+6	wall	wall	_	NN	_	4	PMOD	97762	_
+7	of	of	_	IN	_	6	NMOD	97762	_
+8	an	an	_	DT	_	11	NMOD	97762	_
+9	old	old	_	JJ	_	11	NMOD	97762	_
+10	brick	brick	_	NN	_	11	NMOD	97762	_
+11	house	house	_	NN	_	13	NMOD	97762	_
+12	'	'	_	POS	_	11	SUFFIX	97764	_
+13	s	s	_	NN	_	7	PMOD	97764	_
+14	raised	raise	_	VBD	_	3	COORD	97764	_
+15	foundation	foundation	_	NN	_	14	OBJ	97764	_
+16	.	.	_	.	_	0	ROOT	_	_

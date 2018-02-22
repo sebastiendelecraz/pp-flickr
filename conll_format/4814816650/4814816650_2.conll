@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	206162	_
+2	Boston	Boston	_	NNP	_	3	NAME	206162	_
+3	Celtics	Celtics	_	NNP	_	4	NMOD	206162	_
+4	fan	fan	_	NN	_	0	ROOT	206162	_
+5	having	have	_	VBG	_	4	APPO	_	_
+6	lunch	lunch	_	NN	_	5	OBJ	206164	_
+7	before	before	_	IN	_	5	TMP	_	5
+8	the	the	_	DT	_	9	NMOD	206167	_
+9	game	game	_	NN	_	7	PMOD	206167	_
+10	between	between	_	IN	_	9	NMOD	_	9
+11	Boston	Boston	_	NNP	_	10	PMOD	206165	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	Lakers	Lakers	_	NNPS	_	12	CONJ	206166	_
+14	.	.	_	.	_	0	ROOT	_	_

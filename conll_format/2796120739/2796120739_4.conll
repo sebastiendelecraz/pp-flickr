@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	73377	_
+2	swimmer	swimmer	_	NN	_	5	SBJ	73377	_
+3	from	from	_	IN	_	2	NMOD	_	2
+4	Hungary	Hungary	_	NNP	_	3	PMOD	73384	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	near	near	_	IN	_	6	LOC	_	6
+8	the	the	_	DT	_	9	NMOD	73383	_
+9	edge	edge	_	NN	_	7	PMOD	73383	_
+10	of	of	_	IN	_	9	NMOD	73383	_
+11	the	the	_	DT	_	12	NMOD	73383	_
+12	pool	pool	_	NN	_	10	PMOD	73383	_
+13	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	201154	_
+2	man	man	_	NN	_	8	SBJ	201154	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	201155	_
+5	blue	blue	_	JJ	_	7	NMOD	201155	_
+6	jogging	jogging	_	NN	_	7	NMOD	201155	_
+7	suit	suit	_	NN	_	3	PMOD	201155	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	running	run	_	VBG	_	8	VC	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	the	the	_	DT	_	12	NMOD	201160	_
+12	sidewalk	sidewalk	_	NN	_	10	PMOD	201160	_
+13	in front of	in front of	_	IN	_	9	TMP	_	_
+14	a	a	_	DT	_	15	NMOD	201156	_
+15	painting	painting	_	NN	_	13	PMOD	201156	_
+16	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,14 @@
+1	Three	Three	_	CD	_	2	NMOD	134658	_
+2	puppies	puppy	_	NNS	_	3	SBJ	134658	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC-PRD	_	_
+5	the	the	_	DT	_	6	NMOD	134659	_
+6	tub	tub	_	NN	_	4	PMOD	134659	_
+7	being	be	_	VBG	_	6	APPO	_	_
+8	sprayed	spray	_	VBN	_	7	VC	_	_
+9	with	with	_	IN	_	8	ADV	_	_
+10	water	water	_	NN	_	9	PMOD	134660	_
+11	by	by	_	IN	_	8	LGS	_	8
+12	a	a	_	DT	_	13	NMOD	134664	_
+13	person	person	_	NN	_	11	PMOD	134664	_
+14	.	.	_	.	_	3	P	_	_

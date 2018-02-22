@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	282340	_
+2	grown	grow	_	VBN	_	3	NMOD	282340	_
+3	man	man	_	NN	_	4	SBJ	282340	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	using	use	_	VBG	_	4	VC	_	_
+6	the	the	_	DT	_	7	NMOD	282345	_
+7	vacuum	vacuum	_	NN	_	5	OBJ	282345	_
+8	next to	next to	_	IN	_	5	ADV	_	5
+9	a	a	_	DT	_	11	NMOD	282342	_
+10	little	little	_	JJ	_	11	NMOD	282342	_
+11	boy	boy	_	NN	_	8	PMOD	282342	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	a	a	_	DT	_	15	NMOD	282343	_
+14	pretend	pretend	_	JJ	_	15	NMOD	282343	_
+15	vacuum	vacuum	_	NN	_	12	PMOD	282343	_
+16	.	.	_	.	_	4	P	_	_

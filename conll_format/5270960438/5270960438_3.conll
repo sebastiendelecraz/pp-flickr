@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	232628	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	232634	_
+5	beautiful	beautiful	_	JJ	_	6	NMOD	232634	_
+6	day	day	_	NN	_	3	PMOD	232634	_
+7	in	in	_	IN	_	6	LOC	_	2
+8	San	San	_	NNP	_	9	NAME	232632	_
+9	Francisco	Francisco	_	NNP	_	7	PMOD	232632	_
+10	.	.	_	.	_	0	ROOT	_	_

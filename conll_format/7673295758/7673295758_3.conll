@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	273188	_
+2	soccer	soccer	_	NN	_	3	NMOD	273188	_
+3	team	team	_	NN	_	7	NMOD	273188	_
+4	wearing	wear	_	VBG	_	5	NMOD	_	_
+5	light	light	_	NN	_	7	NMOD	273194	_
+6	blue	blue	_	JJ	_	7	NMOD	273194	_
+7	gets	get	_	NNS	_	0	ROOT	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	273188	_
+10	huddle	huddle	_	NN	_	8	PMOD	273188	_
+11	during	during	_	IN	_	7	TMP	_	7
+12	a	a	_	DT	_	13	NMOD	273192	_
+13	match	match	_	NN	_	11	PMOD	273192	_
+14	.	.	_	.	_	0	ROOT	_	_

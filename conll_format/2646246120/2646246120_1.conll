@@ -1,0 +1,17 @@
+1	People	People	_	NNPS	_	2	SBJ	63703	_
+2	enjoying	enjoy	_	VBG	_	0	ROOT	_	_
+3	the	the	_	DT	_	5	NMOD	63699	_
+4	sandy	sandy	_	JJ	_	5	NMOD	63699	_
+5	beach	beach	_	NN	_	2	OBJ	63699	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	the	the	_	DT	_	8	NMOD	63707	_
+8	water	water	_	NN	_	6	PMOD	63707	_
+9	with	with	_	IN	_	2	ADV	_	2
+10	a	a	_	DT	_	13	NMOD	63701	_
+11	funny	funny	_	JJ	_	13	NMOD	63701	_
+12	looking	look	_	VBG	_	13	NMOD	63701	_
+13	tree	tree	_	NN	_	9	PMOD	63701	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	the	the	_	DT	_	16	NMOD	63699	_
+16	beach	beach	_	NN	_	14	PMOD	63699	_
+17	.	.	_	.	_	0	ROOT	_	_

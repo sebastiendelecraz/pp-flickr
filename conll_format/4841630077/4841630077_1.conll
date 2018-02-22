@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	209647	_
+2	woman	woman	_	NN	_	0	ROOT	209647	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	209648	_
+5	blue	blue	_	JJ	_	6	NMOD	209648	_
+6	dress	dress	_	NN	_	3	PMOD	209648	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	10	NMOD	209652	_
+9	red	red	_	JJ	_	10	NMOD	209652	_
+10	shawl	shawl	_	NN	_	7	PMOD	209652	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	black	black	_	JJ	_	14	NMOD	209648	_
+13	shirt	shirt	_	NN	_	14	NMOD	209648	_
+14	dances	dance	_	NNS	_	11	CONJ	_	_
+15	in front of	in front of	_	IN	_	6	NMOD	_	_
+16	a	a	_	DT	_	18	NMOD	209650	_
+17	bearded	beard	_	VBN	_	18	NMOD	209650	_
+18	man	man	_	NN	_	15	PMOD	209650	_
+19	playing	play	_	VBG	_	18	APPO	_	_
+20	a	a	_	DT	_	22	NMOD	209658	_
+21	hand	hand	_	NN	_	22	NMOD	209658	_
+22	drum	drum	_	NN	_	19	OBJ	209658	_
+23	.	.	_	.	_	0	ROOT	_	_

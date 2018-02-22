@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	169697	_
+2	man	man	_	NN	_	0	ROOT	169697	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	native	native	_	JJ	_	6	NMOD	169699	_
+5	clothing	clothing	_	NN	_	6	NMOD	169699	_
+6	passes	pass	_	NNS	_	3	PMOD	_	_
+7	by	by	_	IN	_	2	NMOD	_	6
+8	a	a	_	DT	_	10	NMOD	169698	_
+9	shoe	shoe	_	NN	_	10	NMOD	169698	_
+10	store	store	_	NN	_	7	PMOD	169698	_
+11	.	.	_	.	_	0	ROOT	_	_

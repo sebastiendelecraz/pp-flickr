@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	244161	_
+2	girl	girl	_	NN	_	9	SBJ	244161	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	244166	_
+5	feather	feather	_	NN	_	3	PMOD	244166	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	her	her	_	PRP$	_	8	NMOD	244172	_
+8	head	head	_	NN	_	6	PMOD	244172	_
+9	applies	apply	_	VBZ	_	0	ROOT	_	_
+10	makeup	makeup	_	NN	_	9	OBJ	244173	_
+11	at	at	_	IN	_	9	ADV	_	_
+12	an	an	_	DT	_	14	NMOD	244163	_
+13	outdoor	outdoor	_	JJ	_	14	NMOD	244163	_
+14	gathering	gathering	_	NN	_	11	PMOD	244163	_
+15	.	.	_	.	_	9	P	_	_

@@ -1,0 +1,16 @@
+1	Several	several	_	DT	_	3	NMOD	259743	_
+2	soccer	soccer	_	NN	_	3	NMOD	259743	_
+3	players	player	_	NNS	_	0	ROOT	259743	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	defensive	defensive	_	JJ	_	6	NMOD	259751	_
+6	position	position	_	NN	_	4	PMOD	259751	_
+7	(	(	_	(	_	8	P	_	_
+8	s	s	_	NN	_	6	APPO	259754	_
+9	)	)	_	)	_	8	P	_	_
+10	on	on	_	IN	_	3	NMOD	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	ground	ground	_	NN	_	10	PMOD	0	_
+13	during	during	_	IN	_	3	TMP	_	3
+14	a	a	_	DT	_	15	NMOD	259745	_
+15	game	game	_	NN	_	13	PMOD	259745	_
+16	.	.	_	.	_	0	ROOT	_	_

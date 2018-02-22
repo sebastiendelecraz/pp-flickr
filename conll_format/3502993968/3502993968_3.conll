@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	123224	_
+2	bike	bike	_	NN	_	3	NMOD	123224	_
+3	rider	rider	_	NN	_	0	ROOT	123224	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	green	green	_	JJ	_	7	NMOD	123229	_
+6	jersey	jersey	_	NN	_	7	NMOD	123229	_
+7	races	race	_	NNS	_	4	PMOD	_	_
+8	along	along	_	IN	_	3	NMOD	_	7
+9	a	a	_	DT	_	10	NMOD	123226	_
+10	road	road	_	NN	_	8	PMOD	123226	_
+11	.	.	_	.	_	0	ROOT	_	_

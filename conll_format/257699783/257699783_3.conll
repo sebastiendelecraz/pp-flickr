@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	59173	_
+2	man	man	_	NN	_	3	SBJ	59173	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	59174	_
+6	herd	herd	_	NN	_	4	PMOD	59174	_
+7	of	of	_	IN	_	6	NMOD	59174	_
+8	cows	cow	_	NNS	_	7	PMOD	59174	_
+9	on	on	_	IN	_	6	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	59175	_
+11	beach	beach	_	NN	_	9	PMOD	59175	_
+12	.	.	_	.	_	0	ROOT	_	_

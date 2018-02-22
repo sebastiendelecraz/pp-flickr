@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	SBJ	131491	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	LOC-PRD	_	_
+4	a	a	_	DT	_	6	NMOD	131493	_
+5	roller	roller	_	NN	_	6	NMOD	131493	_
+6	coaster	coaster	_	NN	_	3	PMOD	131493	_
+7	next to	next to	_	IN	_	6	NMOD	_	2
+8	water	water	_	NN	_	7	PMOD	131492	_
+9	.	.	_	.	_	2	P	_	_

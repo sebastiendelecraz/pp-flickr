@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	106069	_
+2	man	man	_	NN	_	5	SBJ	106069	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	boy	boy	_	NN	_	3	CONJ	106072	_
+5	wearing	wear	_	VBG	_	0	ROOT	_	_
+6	blue	blue	_	JJ	_	8	NMOD	106071	_
+7	wetsuits	wetsuits	_	CD	_	8	NMOD	106071	_
+8	play	play	_	NN	_	5	OBJ	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	106075	_
+11	ocean	ocean	_	NN	_	9	PMOD	106075	_
+12	near	near	_	IN	_	11	LOC	_	8
+13	a	a	_	DT	_	15	NMOD	106070	_
+14	large	large	_	JJ	_	15	NMOD	106070	_
+15	rock	rock	_	NN	_	12	PMOD	106070	_
+16	.	.	_	.	_	0	ROOT	_	_

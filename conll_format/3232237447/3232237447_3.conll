@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	102954	_
+2	homeless	homeless	_	JJ	_	4	NMOD	102954	_
+3	man	man	_	NN	_	4	NMOD	102954	_
+4	stand	stand	_	NN	_	0	ROOT	_	_
+5	between	between	_	IN	_	4	NMOD	_	4
+6	two	two	_	CD	_	7	NMOD	102957	_
+7	pedestrians	pedestrian	_	NNS	_	5	PMOD	102957	_
+8	on	on	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	102956	_
+10	street	street	_	NN	_	11	NMOD	102956	_
+11	corner	corner	_	NN	_	8	PMOD	102956	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	Little	Little	_	NNP	_	2	NMOD	19165	_
+2	boy	boy	_	NN	_	0	ROOT	19165	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	19167	_
+5	red	red	_	JJ	_	6	NMOD	19167	_
+6	shirt	shirt	_	NN	_	3	PMOD	19167	_
+7	looking	look	_	VBG	_	6	APPO	_	_
+8	over	over	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	11	NMOD	19168	_
+10	window	window	_	NN	_	11	NMOD	19168	_
+11	ledge	ledge	_	NN	_	8	PMOD	19168	_
+12	of	of	_	IN	_	11	NMOD	19168	_
+13	a	a	_	DT	_	15	NMOD	19168	_
+14	train	train	_	NN	_	15	NMOD	19168	_
+15	car	car	_	NN	_	12	PMOD	19168	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	192118	_
+2	man	man	_	NN	_	6	SBJ	192118	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	192120	_
+5	kilt	kilt	_	NN	_	3	PMOD	192120	_
+6	competes	compete	_	VBZ	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	an	an	_	DT	_	10	NMOD	192124	_
+9	sporting	sport	_	VBG	_	10	NMOD	192124	_
+10	contest	contest	_	NN	_	7	PMOD	192124	_
+11	at	at	_	IN	_	10	LOC	_	6
+12	a	a	_	DT	_	15	NMOD	192122	_
+13	Highland	Highland	_	NNP	_	14	NAME	192122	_
+14	Games	Games	_	NNPS	_	15	NMOD	192122	_
+15	event	event	_	NN	_	11	PMOD	192122	_
+16	.	.	_	.	_	6	P	_	_

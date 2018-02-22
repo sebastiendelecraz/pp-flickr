@@ -1,0 +1,15 @@
+1	Men	Men	_	NNPS	_	0	ROOT	182782	_
+2	and	and	_	CC	_	0	ROOT	_	_
+3	women	woman	_	NNS	_	4	SBJ	182789	_
+4	are	be	_	VBP	_	2	CONJ	_	_
+5	waiting	wait	_	VBG	_	4	VC	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	plane	plane	_	NN	_	8	NMOD	182785	_
+8	departure	departure	_	NN	_	6	PMOD	182785	_
+9	or	or	_	CC	_	8	COORD	182785	_
+10	arrival	arrival	_	NN	_	9	CONJ	182785	_
+11	of	of	_	IN	_	10	NMOD	182785	_
+12	planes	plane	_	NNS	_	11	PMOD	182785	_
+13	at	at	_	IN	_	8	LOC	_	_
+14	airport	airport	_	NN	_	13	PMOD	182779	_
+15	.	.	_	.	_	0	ROOT	_	_

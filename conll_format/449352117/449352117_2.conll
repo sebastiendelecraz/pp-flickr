@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	172930	_
+2	dog	dog	_	NN	_	3	SBJ	172930	_
+3	chews	chew	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	172931	_
+6	strap	strap	_	NN	_	4	PMOD	172931	_
+7	of	of	_	IN	_	6	NMOD	172931	6
+8	a	a	_	DT	_	10	NMOD	172931	_
+9	camera	camera	_	NN	_	10	NMOD	172931	_
+10	case	case	_	NN	_	7	PMOD	172931	_
+11	.	.	_	.	_	3	P	_	_

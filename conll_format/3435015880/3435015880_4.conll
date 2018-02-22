@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	118044	_
+2	women	woman	_	NNS	_	3	SBJ	118044	_
+3	jump	jump	_	VBP	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	118047	_
+6	grass	grass	_	NN	_	4	PMOD	118047	_
+7	atop	atop	_	IN	_	3	TMP	_	3
+8	a	a	_	DT	_	9	NMOD	118045	_
+9	mountain	mountain	_	NN	_	7	PMOD	118045	_
+10	.	.	_	.	_	3	P	_	_

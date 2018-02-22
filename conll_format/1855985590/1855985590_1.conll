@@ -1,0 +1,18 @@
+1	The	the	_	DT	_	2	NMOD	22050	_
+2	back	back	_	NN	_	12	SBJ	22050	_
+3	of	of	_	IN	_	2	NMOD	22050	_
+4	a	a	_	DT	_	5	NMOD	22050	_
+5	man	man	_	NN	_	3	PMOD	22050	_
+6	in	in	_	IN	_	2	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	22051	_
+8	black	black	_	JJ	_	9	NMOD	22051	_
+9	hat	hat	_	NN	_	6	PMOD	22051	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	coat	coat	_	NN	_	10	CONJ	22052	_
+12	standing	stand	_	VBG	_	0	ROOT	_	_
+13	in front of	in front of	_	IN	_	12	ADV	_	_
+14	a	a	_	DT	_	17	NMOD	22053	_
+15	large	large	_	JJ	_	17	NMOD	22053	_
+16	green	green	_	JJ	_	17	NMOD	22053	_
+17	structure	structure	_	NN	_	13	PMOD	22053	_
+18	.	.	_	.	_	0	ROOT	_	_

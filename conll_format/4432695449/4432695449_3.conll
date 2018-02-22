@@ -1,0 +1,14 @@
+1	Four	Four	_	CD	_	3	NMOD	167578	_
+2	police	police	_	NN	_	3	NMOD	167578	_
+3	officers	officer	_	NNS	_	4	SBJ	167578	_
+4	standing	stand	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	167581	_
+7	street	street	_	NN	_	5	PMOD	167581	_
+8	with	with	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	167579	_
+10	clown	clown	_	NN	_	8	PMOD	167579	_
+11	walking	walk	_	VBG	_	4	COORD	_	_
+12	in front of	in front of	_	IN	_	11	ADV	_	_
+13	them	them	_	PRP	_	12	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

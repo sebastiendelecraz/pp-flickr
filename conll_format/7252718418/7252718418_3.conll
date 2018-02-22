@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	267576	_
+2	young	young	_	JJ	_	4	NMOD	267576	_
+3	pig-tailed	pig-tailed	_	CD	_	4	NMOD	267576	_
+4	girl	girl	_	NN	_	6	SBJ	267576	_
+5	,	,	_	,	_	6	P	_	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	swinging	swing	_	VBG	_	6	VC	_	_
+8	her	her	_	PRP$	_	9	NMOD	267581	_
+9	bat	bat	_	NN	_	7	OBJ	267581	_
+10	at	at	_	IN	_	7	ADV	_	7
+11	a	a	_	DT	_	12	NMOD	267577	_
+12	ball	ball	_	NN	_	10	PMOD	267577	_
+13	on	on	_	IN	_	7	ADV	_	_
+14	a	a	_	DT	_	15	NMOD	267578	_
+15	post	post	_	NN	_	13	PMOD	267578	_
+16	.	.	_	.	_	6	P	_	_

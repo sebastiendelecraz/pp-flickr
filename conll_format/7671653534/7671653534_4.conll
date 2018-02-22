@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	273094	_
+2	group	group	_	NN	_	0	ROOT	273094	_
+3	of	of	_	IN	_	2	NMOD	273094	_
+4	bikers	biker	_	NNS	_	3	PMOD	273094	_
+5	biking	bike	_	VBG	_	4	APPO	_	_
+6	along	along	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	273097	_
+8	street	street	_	NN	_	6	PMOD	273097	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	the	the	_	DT	_	13	NMOD	273095	_
+11	London	London	_	NNP	_	12	NMOD	273095	_
+12	2012	2012	_	CD	_	13	NMOD	273095	_
+13	games	game	_	NNS	_	9	PMOD	273095	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	14134	_
+2	man	man	_	NN	_	3	SBJ	14134	_
+3	poses	pose	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	his	his	_	PRP$	_	7	NMOD	14135	_
+6	black	black	_	JJ	_	7	NMOD	14135	_
+7	dog	dog	_	NN	_	4	PMOD	14135	_
+8	at the top of	at the top of	_	IN	_	3	ADV	14136	3
+9	a	a	_	DT	_	10	NMOD	14136	_
+10	mountain	mountain	_	NN	_	8	PMOD	14136	_
+11	.	.	_	.	_	3	P	_	_

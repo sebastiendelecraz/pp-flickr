@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	196759	_
+2	young	young	_	JJ	_	3	NMOD	196759	_
+3	man	man	_	NN	_	12	SBJ	196759	_
+4	greeting	greet	_	VBG	_	3	APPO	_	_
+5	his	his	_	PRP$	_	6	NMOD	196770	_
+6	supporters	supporter	_	NNS	_	4	OBJ	196770	_
+7	before	before	_	IN	_	12	TMP	_	4
+8	a	a	_	DT	_	11	NMOD	196767	_
+9	big	big	_	JJ	_	11	NMOD	196767	_
+10	karate	karate	_	NN	_	11	NMOD	196767	_
+11	fight	fight	_	NN	_	7	PMOD	196767	_
+12	hosted	host	_	VBD	_	0	ROOT	_	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	his	his	_	PRP$	_	15	NMOD	196772	_
+15	town	town	_	NN	_	13	PMOD	196772	_
+16	.	.	_	.	_	12	P	_	_

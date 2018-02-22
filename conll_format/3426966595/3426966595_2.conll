@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	117412	_
+2	gorup	gorup	_	CD	_	5	SBJ	117412	_
+3	of	of	_	IN	_	2	NMOD	117412	_
+4	boys	boy	_	NNS	_	3	PMOD	117412	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	playing	play	_	VBG	_	5	VC	_	_
+7	with	with	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	117413	_
+9	ball	ball	_	NN	_	7	PMOD	117413	_
+10	in front of	in front of	_	IN	_	6	MNR	_	_
+11	a	a	_	DT	_	14	NMOD	117416	_
+12	large	large	_	JJ	_	14	NMOD	117416	_
+13	wooden	wooden	_	JJ	_	14	NMOD	117416	_
+14	door	door	_	NN	_	10	PMOD	117416	_
+15	.	.	_	.	_	5	P	_	_

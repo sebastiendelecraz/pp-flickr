@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	151604	_
+2	young	young	_	JJ	_	3	NMOD	151604	_
+3	man	man	_	NN	_	0	ROOT	151604	_
+4	,	,	_	,	_	3	P	_	_
+5	dressed	dress	_	VBN	_	3	APPO	_	_
+6	in	in	_	IN	_	5	ADV	_	_
+7	black	black	_	JJ	_	6	PMOD	151605	_
+8	,	,	_	,	_	3	P	_	_
+9	cheering	cheer	_	VBG	_	3	APPO	_	_
+10	out of	out of	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	151600	_
+12	crowd	crowd	_	NN	_	10	PMOD	151600	_
+13	of	of	_	IN	_	12	NMOD	151600	_
+14	people	people	_	NN	_	13	PMOD	151600	_
+15	.	.	_	.	_	3	P	_	_

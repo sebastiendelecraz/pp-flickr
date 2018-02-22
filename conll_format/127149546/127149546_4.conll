@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	6831	_
+2	young	young	_	JJ	_	3	NMOD	6831	_
+3	man	man	_	NN	_	0	ROOT	6831	_
+4	looking	look	_	VBG	_	3	APPO	_	_
+5	at	at	_	IN	_	4	ADV	_	_
+6	wires	wire	_	NNS	_	5	PMOD	6833	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	cords	cord	_	NNS	_	7	CONJ	6833	_
+9	behind	behind	_	IN	_	4	LOC	_	4
+10	a	a	_	DT	_	11	NMOD	6835	_
+11	computer	computer	_	NN	_	9	PMOD	6835	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	195764	_
+2	woman	woman	_	NN	_	3	SBJ	195764	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	viewing	view	_	VBG	_	3	VC	_	_
+5	fresh	fresh	_	JJ	_	6	NMOD	195767	_
+6	meats	meat	_	NNS	_	4	OBJ	195767	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	seafood	seafood	_	NN	_	7	CONJ	195769	_
+9	at	at	_	IN	_	4	ADV	_	4
+10	a	a	_	DT	_	11	NMOD	195765	_
+11	deli	deli	_	NN	_	9	PMOD	195765	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	195766	_
+14	grocery	grocery	_	NN	_	15	NMOD	195766	_
+15	store	store	_	NN	_	12	PMOD	195766	_
+16	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	163506	_
+2	group	group	_	NN	_	6	SBJ	163506	_
+3	of	of	_	IN	_	2	NMOD	163506	_
+4	Asian	Asian	_	JJ	_	5	NMOD	163506	_
+5	children	child	_	NNS	_	3	PMOD	163506	_
+6	participate	participate	_	VBP	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	ADV	_	_
+8	group	group	_	NN	_	9	NMOD	163508	_
+9	activities	activity	_	NNS	_	7	PMOD	163508	_
+10	in	in	_	IN	_	9	LOC	_	6
+11	a	a	_	DT	_	12	NMOD	163507	_
+12	classroom	classroom	_	NN	_	10	PMOD	163507	_
+13	.	.	_	.	_	6	P	_	_

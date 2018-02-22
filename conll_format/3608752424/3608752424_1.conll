@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	2	NMOD	131248	_
+2	couple	couple	_	NN	_	0	ROOT	131248	_
+3	of	of	_	IN	_	2	NMOD	131248	_
+4	dogs	dog	_	NNS	_	3	PMOD	131248	_
+5	running	run	_	VBG	_	4	APPO	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	131249	_
+8	water	water	_	NN	_	6	PMOD	131249	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	trees	tree	_	NNS	_	9	PMOD	131250	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	background	background	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

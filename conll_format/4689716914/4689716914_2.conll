@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	191368	_
+2	women	woman	_	NNS	_	3	SBJ	191368	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	posing	pose	_	VBG	_	3	VC	_	_
+5	with	with	_	IN	_	4	ADV	_	_
+6	the	the	_	DT	_	8	NMOD	191365	_
+7	Naked	Naked	_	NNP	_	8	NAME	191365	_
+8	Cowboy	Cowboy	_	NNP	_	5	PMOD	191365	_
+9	in	in	_	IN	_	8	LOC	_	4
+10	Times	Times	_	NNP	_	11	NAME	191367	_
+11	Square	Square	_	NNP	_	9	PMOD	191367	_
+12	,	,	_	,	_	15	P	_	_
+13	New	New	_	NNP	_	14	NAME	191371	_
+14	York	York	_	NNP	_	15	NAME	191371	_
+15	City	City	_	NNP	_	0	ROOT	191371	_
+16	.	.	_	.	_	15	P	_	_

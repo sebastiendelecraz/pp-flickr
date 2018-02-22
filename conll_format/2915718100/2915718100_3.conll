@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	81139	_
+2	group	group	_	NN	_	6	SBJ	81139	_
+3	of	of	_	IN	_	2	NMOD	81139	_
+4	young	young	_	JJ	_	5	NMOD	81139	_
+5	monks	monk	_	NNS	_	3	PMOD	81139	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	holding	hold	_	VBG	_	6	VC	_	_
+8	a	a	_	DT	_	9	NMOD	81143	_
+9	ceremony	ceremony	_	NN	_	7	OBJ	81143	_
+10	for	for	_	IN	_	9	NMOD	_	7
+11	passengers	passenger	_	NNS	_	10	PMOD	81146	_
+12	on	on	_	IN	_	9	NMOD	_	_
+13	boats	boat	_	NNS	_	12	PMOD	81141	_
+14	.	.	_	.	_	6	P	_	_

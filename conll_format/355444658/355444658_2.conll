@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	127224	_
+2	man	man	_	NN	_	10	SBJ	127224	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	127228	_
+5	hat	hat	_	NN	_	3	OBJ	127228	_
+6	and	and	_	CC	_	3	COORD	_	_
+7	holding	hold	_	VBG	_	6	CONJ	_	_
+8	a	a	_	DT	_	9	NMOD	127227	_
+9	gun	gun	_	NN	_	7	OBJ	127227	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	kneeling	kneel	_	VBG	_	10	VC	_	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	127226	_
+14	field	field	_	NN	_	12	PMOD	127226	_
+15	next to	next to	_	IN	_	11	ADV	_	11
+16	a	a	_	DT	_	18	NMOD	127225	_
+17	brown	brown	_	JJ	_	18	NMOD	127225	_
+18	dog	dog	_	NN	_	15	PMOD	127225	_
+19	.	.	_	.	_	10	P	_	_

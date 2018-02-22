@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	128257	_
+2	celebration	celebration	_	NN	_	0	ROOT	128257	_
+3	of	of	_	IN	_	2	NMOD	128257	_
+4	Christmas	Christmas	_	NNP	_	5	NMOD	128257	_
+5	lights	light	_	NNS	_	3	PMOD	128257	_
+6	behind	behind	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	10	NMOD	128266	_
+8	chain	chain	_	NN	_	9	NMOD	128266	_
+9	link	link	_	NN	_	10	NMOD	128266	_
+10	fence	fence	_	NN	_	6	PMOD	128266	_
+11	.	.	_	.	_	0	ROOT	_	_

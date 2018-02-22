@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	192847	_
+2	young	young	_	JJ	_	4	NMOD	192847	_
+3	blond	blond	_	JJ	_	4	NMOD	192847	_
+4	girl	girl	_	NN	_	0	ROOT	192847	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	on	on	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	192848	_
+8	bench	bench	_	NN	_	6	PMOD	192848	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	12	NMOD	192849	_
+11	red	red	_	JJ	_	12	NMOD	192849	_
+12	pram	pram	_	NN	_	9	PMOD	192849	_
+13	along	along	_	IN	_	12	NMOD	_	12
+14	side	side	_	NN	_	13	PMOD	_	_
+15	her	her	_	PRP$	_	0	ROOT	0	_
+16	.	.	_	.	_	0	ROOT	_	_

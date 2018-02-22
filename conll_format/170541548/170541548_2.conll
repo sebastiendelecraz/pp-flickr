@@ -1,0 +1,11 @@
+1	Participant	Participant	_	NNP	_	2	SBJ	19108	_
+2	walk	walk	_	VB	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	19110	_
+5	Breast	Breast	_	NNP	_	7	NMOD	19110	_
+6	cancer	cancer	_	NN	_	7	NMOD	19110	_
+7	relay	relay	_	NN	_	3	PMOD	19110	_
+8	by	by	_	IN	_	2	TMP	_	2
+9	a	a	_	DT	_	10	NMOD	19109	_
+10	port	port	_	NN	_	8	PMOD	19109	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	212672	_
+2	woman	woman	_	NN	_	11	SBJ	212672	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	212677	_
+5	blue	blue	_	JJ	_	6	NMOD	212677	_
+6	smock	smock	_	NN	_	3	PMOD	212677	_
+7	in	in	_	IN	_	6	LOC	_	2
+8	a	a	_	DT	_	10	NMOD	212673	_
+9	blue	blue	_	JJ	_	10	NMOD	212673	_
+10	smock	smock	_	NN	_	7	PMOD	212673	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	smiling	smile	_	VBG	_	0	ROOT	_	_
+13	.	.	_	.	_	0	ROOT	_	_

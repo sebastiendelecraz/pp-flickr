@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	NAME	11210	_
+2	waiting	wait	_	VBG	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	their	their	_	PRP$	_	5	NMOD	11211	_
+5	bags	bag	_	NNS	_	3	PMOD	11211	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	an	an	_	DT	_	8	NMOD	11213	_
+8	airport	airport	_	NN	_	6	PMOD	11213	_
+9	.	.	_	.	_	0	ROOT	_	_

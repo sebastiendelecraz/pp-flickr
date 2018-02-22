@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	54599	_
+2	man	man	_	NN	_	5	SBJ	54599	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	woman	woman	_	NN	_	3	CONJ	54602	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	reading	read	_	VBG	_	5	VC	_	_
+7	from	from	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	54600	_
+9	script	script	_	NN	_	7	PMOD	54600	_
+10	into	into	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	12	NMOD	54601	_
+12	microphone	microphone	_	NN	_	10	PMOD	54601	_
+13	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,16 @@
+1	Four	Four	_	CD	_	2	NMOD	240181	_
+2	men	man	_	NNS	_	3	SBJ	240181	_
+3	lounging	lounge	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	furniture	furniture	_	NN	_	4	PMOD	240182	_
+6	while	while	_	IN	_	3	ADV	_	_
+7	all	all	_	DT	_	8	SBJ	240191	_
+8	on	on	_	IN	_	6	SUB	_	_
+9	their	their	_	PRP$	_	10	NMOD	240185	_
+10	laptops	laptop	_	NNS	_	8	PMOD	240185	_
+11	against	against	_	IN	_	3	ADV	_	3
+12	a	a	_	DT	_	15	NMOD	240193	_
+13	tan	tan	_	JJ	_	15	NMOD	240193	_
+14	colored	color	_	VBN	_	15	NMOD	240193	_
+15	wall	wall	_	NN	_	11	PMOD	240193	_
+16	.	.	_	.	_	0	ROOT	_	_

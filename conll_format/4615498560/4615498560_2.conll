@@ -1,0 +1,14 @@
+1	Musicians	musician	_	NNS	_	0	ROOT	183091	_
+2	singing	sing	_	VBG	_	1	APPO	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	183094	_
+5	music	music	_	NN	_	6	NMOD	183094	_
+6	concert	concert	_	NN	_	3	PMOD	183094	_
+7	in	in	_	IN	_	6	LOC	_	2
+8	Los	Los	_	NNP	_	9	NAME	183096	_
+9	Angele	Angele	_	NNP	_	11	NMOD	183096	_
+10	'	'	_	POS	_	9	SUFFIX	183096	_
+11	s	s	_	NN	_	7	PMOD	183096	_
+12	,	,	_	,	_	6	P	183096	_
+13	California	California	_	NNP	_	6	APPO	183096	_
+14	.	.	_	.	_	0	ROOT	_	_

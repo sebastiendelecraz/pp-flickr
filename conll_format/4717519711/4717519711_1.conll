@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	194627	_
+2	women	woman	_	NNS	_	3	SBJ	194627	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	together	together	_	RB	_	4	ADV	_	_
+6	among	among	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	8	NMOD	194626	_
+8	crowd	crowd	_	NN	_	6	PMOD	194626	_
+9	of	of	_	IN	_	8	NMOD	194626	_
+10	people	people	_	NN	_	9	PMOD	194626	_
+11	eating	eat	_	VBG	_	8	APPO	_	_
+12	some	some	_	DT	_	13	NMOD	194629	_
+13	food	food	_	NN	_	11	OBJ	194629	_
+14	.	.	_	.	_	3	P	_	_

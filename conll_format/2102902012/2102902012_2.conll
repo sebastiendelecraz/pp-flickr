@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	28989	_
+2	boy	boy	_	NN	_	0	ROOT	28989	_
+3	who	who	_	WP	_	4	SBJ	0	_
+4	is	be	_	VBZ	_	2	NMOD	_	_
+5	taking	take	_	VBG	_	4	VC	_	_
+6	a	a	_	DT	_	7	NMOD	28991	_
+7	stick	stick	_	NN	_	5	OBJ	28991	_
+8	from	from	_	IN	_	5	ADV	_	5
+9	a	a	_	DT	_	10	NMOD	28992	_
+10	girl	girl	_	NN	_	8	PMOD	28992	_
+11	in the middle of	in the middle of	_	IN	_	5	TMP	28994	5
+12	a	a	_	DT	_	13	NMOD	28994	_
+13	race	race	_	NN	_	11	PMOD	28994	_
+14	.	.	_	.	_	0	ROOT	_	_

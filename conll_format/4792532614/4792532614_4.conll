@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	3	NMOD	203215	_
+2	police	police	_	NN	_	3	NMOD	203215	_
+3	officer	officer	_	NN	_	4	SBJ	203215	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	standing	stand	_	VBG	_	4	VC	_	_
+6	in the middle of	in the middle of	_	IN	_	5	ADV	203216	5
+7	crowd	crowd	_	NN	_	6	PMOD	203216	_
+8	of	of	_	IN	_	7	NMOD	203216	_
+9	people	people	_	NN	_	8	PMOD	203216	_
+10	.	.	_	.	_	4	P	_	_

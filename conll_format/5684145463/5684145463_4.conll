@@ -1,0 +1,9 @@
+1	Two	Two	_	CD	_	2	NMOD	240896	_
+2	women	woman	_	NNS	_	3	NMOD	240896	_
+3	shopping	shopping	_	NN	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	NMOD	_	3
+5	groceries	grocery	_	NNS	_	4	PMOD	240901	_
+6	at	at	_	IN	_	3	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	240900	_
+8	store	store	_	NN	_	6	PMOD	240900	_
+9	.	.	_	.	_	0	ROOT	_	_

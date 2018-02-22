@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	158651	_
+2	man	man	_	NN	_	3	SBJ	158651	_
+3	appears	appear	_	VBZ	_	0	ROOT	_	_
+4	to	to	_	TO	_	3	OPRD	_	_
+5	be	be	_	VB	_	4	IM	_	_
+6	balancing	balance	_	VBG	_	5	VC	_	_
+7	on	on	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	158652	_
+9	bicycle	bicycle	_	NN	_	7	PMOD	158652	_
+10	on top of	on top of	_	IN	_	6	ADV	_	6
+11	some	some	_	DT	_	12	NMOD	158655	_
+12	sort	sort	_	NN	_	10	PMOD	158655	_
+13	of	of	_	IN	_	12	NMOD	158655	_
+14	mechanism	mechanism	_	NN	_	13	PMOD	158655	_
+15	while	while	_	IN	_	6	TMP	_	6
+16	"	"	_	CD	_	17	NMOD	_	_
+17	swallowing	swallowing	_	NN	_	18	NMOD	_	_
+18	"	"	_	CD	_	22	NMOD	_	_
+19	a	a	_	DT	_	20	NMOD	158656	_
+20	sword	sword	_	NN	_	22	NMOD	_	_
+21	shaped	shape	_	VBN	_	22	NMOD	_	_
+22	balloon	balloon	_	NN	_	15	PMOD	158654	_
+23	.	.	_	.	_	3	P	_	_

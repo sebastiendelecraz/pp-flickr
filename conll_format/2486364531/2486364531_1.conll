@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	3	NMOD	52899	_
+2	little	little	_	JJ	_	3	NMOD	52899	_
+3	boy	boy	_	NN	_	4	SBJ	52899	_
+4	wearing	wear	_	VBG	_	11	SBJ	_	_
+5	an	an	_	DT	_	7	NMOD	52902	_
+6	orange	orange	_	JJ	_	7	NMOD	52902	_
+7	shirt	shirt	_	NN	_	4	OBJ	52902	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	white	white	_	JJ	_	10	NMOD	52906	_
+10	shorts	short	_	NNS	_	8	CONJ	52906	_
+11	jumps	jump	_	VBZ	_	0	ROOT	_	_
+12	barefoot	barefoot	_	JJ	_	11	PRD	_	_
+13	on	on	_	IN	_	11	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	52901	_
+15	plastic	plastic	_	NN	_	16	NMOD	52901	_
+16	jumper	jumper	_	NN	_	13	PMOD	52901	_
+17	on top of	on top of	_	IN	_	11	ADV	_	16
+18	the	the	_	DT	_	20	NMOD	52900	_
+19	green	green	_	JJ	_	20	NMOD	52900	_
+20	grass	grass	_	NN	_	17	PMOD	52900	_
+21	.	.	_	.	_	11	P	_	_

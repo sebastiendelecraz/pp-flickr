@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	163883	_
+2	man	man	_	NN	_	3	SBJ	163883	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	scooping	scoop	_	VBG	_	3	VC	_	_
+5	something	something	_	NN	_	4	OBJ	163887	_
+6	out of	out of	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	163886	_
+8	barrel	barrel	_	NN	_	6	PMOD	163886	_
+9	into	into	_	IN	_	4	ADV	_	4
+10	a	a	_	DT	_	12	NMOD	163894	_
+11	plastic	plastic	_	NN	_	12	NMOD	163894	_
+12	container	container	_	NN	_	9	PMOD	163894	_
+13	.	.	_	.	_	3	P	_	_

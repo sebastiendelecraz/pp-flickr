@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	72868	_
+2	doctor	doctor	_	NN	_	7	SBJ	72868	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	72869	_
+5	white	white	_	JJ	_	6	NMOD	72869	_
+6	coat	coat	_	NN	_	3	PMOD	72869	_
+7	smiles	smile	_	VBZ	_	0	ROOT	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	72879	_
+10	picture	picture	_	NN	_	8	PMOD	72879	_
+11	in front of	in front of	_	IN	_	7	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	72870	_
+13	wall	wall	_	NN	_	11	PMOD	72870	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	photos	photo	_	NNS	_	14	PMOD	72872	_
+16	.	.	_	.	_	7	P	_	_

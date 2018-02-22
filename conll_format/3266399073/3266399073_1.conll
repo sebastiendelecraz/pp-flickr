@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	105641	_
+2	man	man	_	NN	_	6	SBJ	105641	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	two	two	_	CD	_	5	NMOD	105644	_
+5	women	woman	_	NNS	_	3	CONJ	105644	_
+6	sit	sit	_	VBP	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	105642	_
+9	darkened	darken	_	VBN	_	10	NMOD	105642	_
+10	room	room	_	NN	_	7	PMOD	105642	_
+11	at	at	_	IN	_	6	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	105643	_
+13	table	table	_	NN	_	11	PMOD	105643	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	candles	candle	_	NNS	_	14	PMOD	105647	_
+16	.	.	_	.	_	6	P	_	_

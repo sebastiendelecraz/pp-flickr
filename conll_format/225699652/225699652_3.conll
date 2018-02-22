@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	37319	_
+2	dolphins	dolphin	_	NNS	_	3	SBJ	37319	_
+3	jumped	jump	_	VBD	_	0	ROOT	_	_
+4	out of	out of	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	37320	_
+6	water	water	_	NN	_	4	PMOD	37320	_
+7	in	in	_	IN	_	3	TMP	_	_
+8	this	this	_	DT	_	9	NMOD	37322	_
+9	zoo	zoo	_	NN	_	7	PMOD	37322	_
+10	.	.	_	.	_	3	P	_	_

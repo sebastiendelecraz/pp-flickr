@@ -1,0 +1,9 @@
+1	One	One	_	CD	_	2	NMOD	72108	_
+2	man	man	_	NN	_	0	ROOT	72108	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	plaid	plaid	_	NN	_	5	NMOD	72112	_
+5	standing	standing	_	NN	_	3	PMOD	_	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	72109	_
+8	backyard	backyard	_	NN	_	6	PMOD	72109	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	51805	_
+2	woman	woman	_	NN	_	3	SBJ	51805	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	51807	_
+6	bench	bench	_	NN	_	4	PMOD	51807	_
+7	by	by	_	IN	_	3	MNR	_	_
+8	a	a	_	DT	_	10	NMOD	51806	_
+9	coffee	coffee	_	NN	_	10	NMOD	51806	_
+10	house	house	_	NN	_	7	PMOD	51806	_
+11	.	.	_	.	_	0	ROOT	_	_

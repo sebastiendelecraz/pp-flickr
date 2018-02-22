@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	3	NMOD	114185	_
+2	middle-aged	middle-aged	_	JJ	_	3	NMOD	114185	_
+3	women	woman	_	NNS	_	4	SBJ	114185	_
+4	stand	stand	_	VBP	_	0	ROOT	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	114191	_
+7	picture	picture	_	NN	_	5	PMOD	114191	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	114192	_
+10	forest	forest	_	NN	_	8	PMOD	114192	_
+11	.	.	_	.	_	4	P	_	_

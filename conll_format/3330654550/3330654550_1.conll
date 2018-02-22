@@ -1,0 +1,16 @@
+1	Five	Five	_	CD	_	2	NMOD	109993	_
+2	people	people	_	NN	_	0	ROOT	109993	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	bikes	bike	_	NNS	_	3	PMOD	109997	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	traffic	traffic	_	NN	_	5	PMOD	110000	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	man	man	_	NN	_	7	PMOD	109998	_
+9	watching	watch	_	VBG	_	8	APPO	_	_
+10	from	from	_	IN	_	9	DIR	_	9
+11	the	the	_	DT	_	12	NMOD	109999	_
+12	side	side	_	NN	_	10	PMOD	109999	_
+13	of	of	_	IN	_	12	NMOD	109999	_
+14	the	the	_	DT	_	15	NMOD	109999	_
+15	road	road	_	NN	_	13	PMOD	109999	_
+16	.	.	_	.	_	0	ROOT	_	_

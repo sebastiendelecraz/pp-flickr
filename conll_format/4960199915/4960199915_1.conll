@@ -1,0 +1,11 @@
+1	Man	Man	_	NNP	_	2	SBJ	223463	_
+2	chooses	choose	_	VBZ	_	0	ROOT	_	_
+3	one	one	_	CD	_	4	NMOD	223466	_
+4	tomato	tomato	_	NN	_	2	OBJ	223466	_
+5	from	from	_	IN	_	2	ADV	_	2
+6	a	a	_	DT	_	8	NMOD	223465	_
+7	large	large	_	JJ	_	8	NMOD	223465	_
+8	collection	collection	_	NN	_	5	PMOD	223465	_
+9	of	of	_	IN	_	8	NMOD	223465	_
+10	tomatoes	tomato	_	NNS	_	9	PMOD	223465	_
+11	.	.	_	.	_	2	P	_	_

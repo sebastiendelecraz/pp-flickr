@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	224569	_
+2	young	young	_	JJ	_	3	NMOD	224569	_
+3	woman	woman	_	NN	_	9	SBJ	224569	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	feathers	feather	_	NNS	_	4	PMOD	224570	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	her	her	_	PRP$	_	8	NMOD	224571	_
+8	hair	hair	_	NN	_	6	PMOD	224571	_
+9	seems	seem	_	VBZ	_	0	ROOT	_	_
+10	to	to	_	TO	_	9	OPRD	_	_
+11	be	be	_	VB	_	10	IM	_	_
+12	posting	post	_	VBG	_	11	VC	_	_
+13	for	for	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	224580	_
+15	photograph	photograph	_	NN	_	13	PMOD	224580	_
+16	.	.	_	.	_	9	P	_	_

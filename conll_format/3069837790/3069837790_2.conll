@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	91308	_
+2	old	old	_	JJ	_	3	NMOD	91308	_
+3	woman	woman	_	NN	_	9	SBJ	91308	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	8	NMOD	91318	_
+6	long	long	_	JJ	_	8	NMOD	91318	_
+7	white	white	_	JJ	_	8	NMOD	91318	_
+8	skirt	skirt	_	NN	_	4	PMOD	91318	_
+9	walks	walk	_	VBZ	_	0	ROOT	_	_
+10	out of	out of	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	91311	_
+12	shop	shop	_	NN	_	10	PMOD	91311	_
+13	on	on	_	IN	_	9	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	91315	_
+15	stone	stone	_	NN	_	16	NMOD	91315	_
+16	road	road	_	NN	_	13	PMOD	91315	_
+17	.	.	_	.	_	9	P	_	_

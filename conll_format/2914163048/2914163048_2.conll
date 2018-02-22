@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	2	NMOD	81014	_
+2	children	child	_	NNS	_	3	SBJ	81014	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	81019	_
+6	table	table	_	NN	_	4	PMOD	81019	_
+7	of	of	_	IN	_	6	NMOD	81019	_
+8	ice	ice	_	NN	_	9	NMOD	81019	_
+9	cream	cream	_	NN	_	10	NMOD	81019	_
+10	toppings	topping	_	NNS	_	7	PMOD	81019	_
+11	getting	get	_	VBG	_	10	APPO	_	_
+12	ready	ready	_	JJ	_	11	PRD	_	_
+13	to	to	_	TO	_	12	AMOD	_	_
+14	create	create	_	VB	_	13	IM	_	_
+15	their	their	_	PRP$	_	16	NMOD	81016	_
+16	treat	treat	_	NN	_	14	OBJ	81016	_
+17	.	.	_	.	_	3	P	_	_

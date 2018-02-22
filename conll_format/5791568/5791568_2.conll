@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	243131	_
+2	man	man	_	NN	_	3	SBJ	243131	_
+3	wearing	wear	_	VBG	_	7	SBJ	_	_
+4	an	an	_	DT	_	6	NMOD	243136	_
+5	orange	orange	_	JJ	_	6	NMOD	243136	_
+6	vest	vest	_	NN	_	3	OBJ	243136	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	243133	_
+11	street	street	_	NN	_	9	PMOD	243133	_
+12	with	with	_	IN	_	8	ADV	_	8
+13	a	a	_	DT	_	14	NMOD	243132	_
+14	bulldozer	bulldozer	_	NN	_	12	PMOD	243132	_
+15	behind	behind	_	IN	_	14	LOC	_	_
+16	him	him	_	PRP	_	15	PMOD	0	_
+17	.	.	_	.	_	7	P	_	_

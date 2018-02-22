@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	3	NMOD	123820	_
+2	little	little	_	JJ	_	3	NMOD	123820	_
+3	girl	girl	_	NN	_	6	SBJ	123820	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	pink	pink	_	NN	_	4	PMOD	123822	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	123821	_
+10	doorway	doorway	_	NN	_	8	PMOD	123821	_
+11	between	between	_	IN	_	10	NMOD	_	7
+12	the	the	_	DT	_	13	NMOD	123824	_
+13	artwork	artwork	_	NN	_	11	PMOD	123824	_
+14	on	on	_	IN	_	10	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	123828	_
+16	walls	wall	_	NNS	_	14	PMOD	123828	_
+17	.	.	_	.	_	6	P	_	_

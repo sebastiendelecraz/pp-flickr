@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	16390	_
+2	scuba	scuba	_	NN	_	3	SBJ	_	_
+3	divers	divers	_	VBD	_	0	ROOT	16390	_
+4	underwater	underwater	_	JJ	_	7	NMOD	_	_
+5	wearing	wear	_	VBG	_	7	NMOD	_	_
+6	white	white	_	JJ	_	7	NMOD	16392	_
+7	shirts	shirt	_	NNS	_	3	OBJ	16392	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	scuba	scuba	_	NN	_	10	NMOD	16393	_
+10	equipment	equipment	_	NN	_	8	CONJ	16393	_
+11	along with	along with	_	IN	_	3	ADV	_	3
+12	fins	fin	_	NNS	_	11	PMOD	16394	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	their	their	_	PRP$	_	15	NMOD	16394	_
+15	feet	foot	_	NNS	_	13	PMOD	16394	_
+16	.	.	_	.	_	3	P	_	_

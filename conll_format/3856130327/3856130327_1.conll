@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	145811	_
+2	group	group	_	NN	_	11	SBJ	145811	_
+3	of	of	_	IN	_	2	NMOD	145811	_
+4	people	people	_	NN	_	3	PMOD	145811	_
+5	wearing	wear	_	VBG	_	4	APPO	_	_
+6	hospital	hospital	_	NN	_	7	NMOD	145812	_
+7	scrubs	scrub	_	NNS	_	5	OBJ	145812	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	lab	lab	_	NN	_	10	NMOD	145813	_
+10	coats	coat	_	NNS	_	8	CONJ	145813	_
+11	pose	pose	_	VBP	_	0	ROOT	_	_
+12	together	together	_	RB	_	11	ADV	_	_
+13	on	on	_	IN	_	11	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	145819	_
+15	wooden	wooden	_	JJ	_	16	NMOD	145819	_
+16	floor	floor	_	NN	_	13	PMOD	145819	_
+17	next to	next to	_	IN	_	11	ADV	_	11
+18	purple	purple	_	NN	_	19	NMOD	145815	_
+19	curtains	curtain	_	NNS	_	17	PMOD	145815	_
+20	.	.	_	.	_	11	P	_	_

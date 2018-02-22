@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	110373	_
+2	woman	woman	_	NN	_	3	SBJ	110373	_
+3	speaking	speak	_	VBG	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	110374	_
+6	powerpoint	powerpoint	_	NN	_	7	NMOD	110374	_
+7	display	display	_	NN	_	4	PMOD	110374	_
+8	for	for	_	IN	_	7	NMOD	_	7
+9	Michael	Michael	_	NNP	_	11	NMOD	110381	_
+10	'	'	_	POS	_	9	SUFFIX	110381	_
+11	s	s	_	NN	_	8	PMOD	110381	_
+12	Portfolio	Portfolio	_	NNP	_	11	APPO	110381	_
+13	.	.	_	.	_	0	ROOT	_	_

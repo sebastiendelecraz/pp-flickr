@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	181604	_
+2	graying	gray	_	VBG	_	3	NMOD	181604	_
+3	man	man	_	NN	_	6	SBJ	181604	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	glasses	glass	_	NNS	_	4	PMOD	181609	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	in back of	in back of	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	181605	_
+10	barber	barber	_	NN	_	13	NMOD	181605	_
+11	'	'	_	POS	_	10	SUFFIX	181605	_
+12	s	s	_	NN	_	13	NMOD	181605	_
+13	chair	chair	_	NN	_	8	PMOD	181605	_
+14	in	in	_	IN	_	7	LOC	_	_
+15	a	a	_	DT	_	19	NMOD	181606	_
+16	seemingly	seemingly	_	RB	_	17	AMOD	181606	_
+17	empty	empty	_	JJ	_	19	NMOD	181606	_
+18	barber	barber	_	NN	_	19	NMOD	181606	_
+19	shop	shop	_	NN	_	14	PMOD	181606	_
+20	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	61470	_
+2	blond	blond	_	JJ	_	3	NMOD	61470	_
+3	woman	woman	_	NN	_	4	SBJ	61470	_
+4	numbered	number	_	VBD	_	0	ROOT	_	_
+5	"	"	_	CD	_	7	DEP	_	_
+6	3443	3443	_	CD	_	7	DEP	61473	_
+7	"	"	_	CD	_	8	NMOD	_	_
+8	runs	run	_	NNS	_	4	OBJ	_	_
+9	in	in	_	IN	_	4	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	61472	_
+11	street	street	_	NN	_	9	PMOD	61472	_
+12	past	past	_	IN	_	4	ADV	_	8
+13	a	a	_	DT	_	15	NMOD	61474	_
+14	blue	blue	_	JJ	_	15	NMOD	61474	_
+15	building	building	_	NN	_	12	PMOD	61474	_
+16	.	.	_	.	_	4	P	_	_

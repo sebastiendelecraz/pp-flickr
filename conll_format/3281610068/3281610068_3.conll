@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	106670	_
+2	man	man	_	NN	_	6	SBJ	106670	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	106672	_
+5	suit	suit	_	NN	_	3	PMOD	106672	_
+6	walks	walk	_	VBZ	_	0	ROOT	_	_
+7	away from	away from	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	106671	_
+9	building	building	_	NN	_	7	PMOD	106671	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	long	long	_	JJ	_	12	NMOD	106679	_
+12	shadows	shadow	_	NNS	_	10	PMOD	106679	_
+13	.	.	_	.	_	6	P	_	_

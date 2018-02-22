@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	23531	_
+2	dogs	dog	_	NNS	_	3	SBJ	23531	_
+3	tug	tug	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	23532	_
+6	pink	pink	_	NN	_	4	PMOD	23532	_
+7	and	and	_	CC	_	6	COORD	23532	_
+8	orange	orange	_	JJ	_	9	NMOD	23532	_
+9	ball	ball	_	NN	_	7	CONJ	23532	_
+10	from	from	_	IN	_	3	ADV	_	3
+11	opposite	opposite	_	JJ	_	12	NMOD	23535	_
+12	ends	end	_	NNS	_	10	PMOD	23535	_
+13	.	.	_	.	_	3	P	_	_

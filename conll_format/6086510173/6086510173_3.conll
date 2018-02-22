@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	247799	_
+2	lab	lab	_	NN	_	3	NMOD	247799	_
+3	technician	technician	_	NN	_	4	SBJ	247799	_
+4	looking	look	_	VBG	_	0	ROOT	_	_
+5	at	at	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	247805	_
+7	slide	slide	_	NN	_	5	PMOD	247805	_
+8	under	under	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	11	NMOD	247801	_
+10	high-powered	high-powered	_	JJ	_	11	NMOD	247801	_
+11	microscope	microscope	_	NN	_	8	PMOD	247801	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	230814	_
+2	skier	skier	_	NN	_	3	SBJ	230814	_
+3	flies	fly	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	DIR	_	3
+5	the	the	_	DT	_	6	NMOD	0	_
+6	air	air	_	NN	_	4	PMOD	0	_
+7	in front of	in front of	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	10	NMOD	230820	_
+9	snowy	snowy	_	JJ	_	10	NMOD	230820	_
+10	mountaintop	mountaintop	_	NN	_	7	PMOD	230820	_
+11	.	.	_	.	_	3	P	_	_

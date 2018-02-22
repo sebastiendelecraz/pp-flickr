@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	34656	_
+2	mother	mother	_	NN	_	3	SBJ	34656	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	reaching	reach	_	VBG	_	3	VC	_	_
+5	down	down	_	RP	_	4	PRT	_	_
+6	for	for	_	IN	_	4	ADV	_	4
+7	her	her	_	PRP$	_	8	NMOD	34658	_
+8	child	child	_	NN	_	6	PMOD	34658	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	34659	_
+11	sidewalk	sidewalk	_	NN	_	9	PMOD	34659	_
+12	.	.	_	.	_	3	P	_	_

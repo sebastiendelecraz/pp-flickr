@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	269709	_
+2	young	young	_	JJ	_	3	NMOD	269709	_
+3	women	woman	_	NNS	_	0	ROOT	269709	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	269710	_
+6	bright	bright	_	JJ	_	8	NMOD	269710	_
+7	blue	blue	_	JJ	_	8	NMOD	269710	_
+8	dress	dress	_	NN	_	4	PMOD	269710	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	269713	_
+11	stage	stage	_	NN	_	9	PMOD	269713	_
+12	.	.	_	.	_	0	ROOT	_	_

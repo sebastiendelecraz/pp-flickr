@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	148241	_
+2	group	group	_	NN	_	9	SBJ	148241	_
+3	of	of	_	IN	_	2	NMOD	148241	_
+4	children	child	_	NNS	_	3	PMOD	148241	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	primarily	primarily	_	RB	_	7	AMOD	148245	_
+7	yellow	yellow	_	JJ	_	8	NMOD	148245	_
+8	shirts	shirt	_	NNS	_	5	PMOD	148245	_
+9	are	be	_	VBP	_	0	ROOT	_	_
+10	being	be	_	VBG	_	9	VC	_	_
+11	watched	watch	_	VBN	_	10	VC	_	_
+12	over	over	_	RP	_	11	PRT	_	_
+13	by	by	_	IN	_	11	LGS	_	11
+14	adults	adult	_	NNS	_	13	PMOD	148242	_
+15	.	.	_	.	_	9	P	_	_

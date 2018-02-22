@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	66012	_
+2	man	man	_	NN	_	3	SBJ	66012	_
+3	leaning	lean	_	VBG	_	0	ROOT	_	_
+4	against	against	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	66017	_
+6	wall	wall	_	NN	_	4	PMOD	66017	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	an	an	_	DT	_	9	NMOD	66014	_
+9	umbrella	umbrella	_	NN	_	7	PMOD	66014	_
+10	.	.	_	.	_	0	ROOT	_	_

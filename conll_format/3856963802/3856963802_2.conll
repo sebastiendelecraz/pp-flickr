@@ -1,0 +1,14 @@
+1	Three	Three	_	CD	_	2	NMOD	145931	_
+2	woman	woman	_	NN	_	9	SBJ	145931	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	145933	_
+5	sticker	sticker	_	NN	_	3	PMOD	145933	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	their	their	_	PRP$	_	8	NMOD	145938	_
+8	shoulder	shoulder	_	NN	_	6	PMOD	145938	_
+9	are	be	_	VBP	_	0	ROOT	_	_
+10	looking	look	_	VBG	_	9	VC	_	_
+11	at	at	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	145932	_
+13	book	book	_	NN	_	11	PMOD	145932	_
+14	.	.	_	.	_	9	P	_	_

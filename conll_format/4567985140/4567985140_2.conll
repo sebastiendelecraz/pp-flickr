@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	179327	_
+2	man	man	_	NN	_	0	ROOT	179327	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	179328	_
+5	beard	beard	_	NN	_	3	PMOD	179328	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	179330	_
+8	gray	gray	_	JJ	_	9	NMOD	179330	_
+9	suit	suit	_	NN	_	6	PMOD	179330	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	brown	brown	_	JJ	_	12	NMOD	179333	_
+12	shirt	shirt	_	NN	_	10	CONJ	179333	_
+13	standing	stand	_	VBG	_	12	APPO	_	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	179332	_
+16	marketplace	marketplace	_	NN	_	14	PMOD	179332	_
+17	.	.	_	.	_	0	ROOT	_	_

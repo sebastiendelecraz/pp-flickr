@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	187678	_
+2	young	young	_	JJ	_	3	NMOD	187678	_
+3	man	man	_	NN	_	8	SBJ	187678	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	an	an	_	DT	_	7	NMOD	187682	_
+6	old	old	_	JJ	_	7	NMOD	187682	_
+7	woman	woman	_	NN	_	4	CONJ	187682	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	walking	walk	_	VBG	_	8	VC	_	_
+10	along	along	_	RB	_	9	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	187680	_
+12	sidewalk	sidewalk	_	NN	_	9	OBJ	187680	_
+13	next to	next to	_	IN	_	9	ADV	_	9
+14	a	a	_	DT	_	15	NMOD	187683	_
+15	wall	wall	_	NN	_	13	PMOD	187683	_
+16	with	with	_	IN	_	15	NMOD	_	_
+17	graffiti	graffito	_	NNS	_	16	PMOD	187681	_
+18	on	on	_	IN	_	9	ADV	_	_
+19	it	it	_	PRP	_	18	PMOD	0	_
+20	.	.	_	.	_	8	P	_	_

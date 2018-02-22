@@ -1,0 +1,10 @@
+1	Some	some	_	DT	_	2	NMOD	27354	_
+2	children	child	_	NNS	_	3	SBJ	27354	_
+3	participating	participate	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	27360	_
+6	class	class	_	NN	_	7	NMOD	27360	_
+7	activity	activity	_	NN	_	4	PMOD	27360	_
+8	at	at	_	IN	_	7	LOC	_	_
+9	school	school	_	NN	_	8	PMOD	27362	_
+10	.	.	_	.	_	0	ROOT	_	_

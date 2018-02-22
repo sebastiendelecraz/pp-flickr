@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	188526	_
+2	brunette	brunette	_	JJ	_	3	NMOD	188526	_
+3	lady	lady	_	NN	_	0	ROOT	188526	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	188537	_
+6	blue	blue	_	JJ	_	8	NMOD	188537	_
+7	shirt	shirt	_	NN	_	8	NMOD	188537	_
+8	rings	ring	_	NNS	_	4	PMOD	_	_
+9	up	up	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	188527	_
+11	customer	customer	_	NN	_	9	PMOD	188527	_
+12	at	at	_	IN	_	3	TMP	_	_
+13	a	a	_	DT	_	14	NMOD	188530	_
+14	store	store	_	NN	_	12	PMOD	188530	_
+15	.	.	_	.	_	0	ROOT	_	_

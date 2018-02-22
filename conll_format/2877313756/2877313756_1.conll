@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	78420	_
+2	man	man	_	NN	_	5	SBJ	78420	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	woman	woman	_	NN	_	3	CONJ	78421	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	looking	look	_	VBG	_	5	VC	_	_
+7	over	over	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	10	NMOD	78422	_
+9	brick	brick	_	NN	_	10	NMOD	78422	_
+10	wall	wall	_	NN	_	7	PMOD	78422	_
+11	at	at	_	IN	_	10	LOC	_	6
+12	a	a	_	DT	_	14	NMOD	78427	_
+13	beach	beach	_	NN	_	14	NMOD	78427	_
+14	scene	scene	_	NN	_	11	PMOD	78427	_
+15	with	with	_	IN	_	14	NMOD	_	_
+16	a	a	_	DT	_	17	NMOD	78423	_
+17	man	man	_	NN	_	15	PMOD	78423	_
+18	and	and	_	CC	_	17	COORD	_	_
+19	a	a	_	DT	_	20	NMOD	78423	_
+20	woman	woman	_	NN	_	18	CONJ	78423	_
+21	embracing	embrace	_	VBG	_	20	APPO	_	_
+22	at the bottom of	at the bottom of	_	IN	_	21	ADV	78428	21
+23	the	the	_	DT	_	24	NMOD	78428	_
+24	wall	wall	_	NN	_	22	PMOD	78428	_
+25	.	.	_	.	_	5	P	_	_

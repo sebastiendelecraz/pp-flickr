@@ -1,0 +1,13 @@
+1	Someone	someone	_	NN	_	6	SBJ	94544	_
+2	wearing	wear	_	VBG	_	1	APPO	_	_
+3	a	a	_	DT	_	5	NMOD	94545	_
+4	white	white	_	JJ	_	5	NMOD	94545	_
+5	hat	hat	_	NN	_	2	OBJ	94545	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	sitting	sit	_	VBG	_	6	VC	_	_
+8	next to	next to	_	IN	_	7	LOC	_	7
+9	some	some	_	DT	_	10	NMOD	94547	_
+10	baskets	basket	_	NNS	_	8	PMOD	94547	_
+11	of	of	_	IN	_	10	NMOD	94547	_
+12	produce	produce	_	NN	_	11	PMOD	94547	_
+13	.	.	_	.	_	6	P	_	_

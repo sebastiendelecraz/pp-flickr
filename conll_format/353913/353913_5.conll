@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	125927	_
+2	man	man	_	NN	_	0	ROOT	125927	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	black	black	_	JJ	_	5	NMOD	125932	_
+5	sleeps	sleep	_	NNS	_	3	PMOD	_	_
+6	in front of	in front of	_	IN	_	2	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	125929	_
+8	door	door	_	NN	_	6	PMOD	125929	_
+9	.	.	_	.	_	0	ROOT	_	_

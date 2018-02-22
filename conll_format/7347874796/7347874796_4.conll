@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	268806	_
+2	man	man	_	NN	_	0	ROOT	268806	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	7	NMOD	268808	_
+5	large	large	_	JJ	_	7	NMOD	268808	_
+6	net	net	_	JJ	_	7	NMOD	268808	_
+7	stands	stand	_	NNS	_	3	PMOD	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	water	water	_	NN	_	8	PMOD	268807	_
+10	that	that	_	WDT	_	11	SBJ	0	_
+11	is	be	_	VBZ	_	9	NMOD	_	_
+12	up to	up to	_	IN	_	11	PRD	_	11
+13	his	his	_	PRP$	_	14	NMOD	268812	_
+14	chest	chest	_	NN	_	12	PMOD	268812	_
+15	.	.	_	.	_	0	ROOT	_	_

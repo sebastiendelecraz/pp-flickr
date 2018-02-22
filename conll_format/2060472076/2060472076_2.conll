@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	3	NMOD	26349	_
+2	older	old	_	JJR	_	3	NMOD	26349	_
+3	man	man	_	NN	_	4	SBJ	26349	_
+4	places	place	_	VBZ	_	0	ROOT	_	_
+5	a	a	_	DT	_	7	NMOD	26350	_
+6	wooden	wooden	_	JJ	_	7	NMOD	26350	_
+7	crate	crate	_	NN	_	4	OBJ	26350	_
+8	on top of	on top of	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	26350	_
+10	stack	stack	_	NN	_	8	PMOD	26350	_
+11	of	of	_	IN	_	10	NMOD	26350	_
+12	wooden	wooden	_	JJ	_	13	NMOD	26350	_
+13	crates	crate	_	NNS	_	11	PMOD	26350	_
+14	.	.	_	.	_	4	P	_	_

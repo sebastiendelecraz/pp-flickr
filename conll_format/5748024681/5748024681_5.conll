@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	242375	_
+2	mountain	mountain	_	NN	_	3	NMOD	242375	_
+3	biker	biker	_	NN	_	0	ROOT	242375	_
+4	in	in	_	IN	_	6	PMOD	_	_
+5	midair	midair	_	NN	_	4	PMOD	242383	_
+6	from	from	_	IN	_	3	NMOD	_	3
+7	a	a	_	DT	_	8	NMOD	0	_
+8	jump	jump	_	NN	_	6	PMOD	0	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	242378	_
+11	course	course	_	NN	_	9	PMOD	242378	_
+12	.	.	_	.	_	0	ROOT	_	_

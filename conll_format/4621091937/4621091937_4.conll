@@ -1,0 +1,10 @@
+1	Men	Men	_	NNPS	_	2	NAME	183477	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	PMOD	_	_
+4	the	the	_	DT	_	5	NMOD	183480	_
+5	side	side	_	NN	_	3	PMOD	183480	_
+6	of	of	_	IN	_	5	NMOD	183480	5
+7	a	a	_	DT	_	9	NMOD	183480	_
+8	brick	brick	_	NN	_	9	NMOD	183480	_
+9	road	road	_	NN	_	6	PMOD	183480	_
+10	.	.	_	.	_	0	ROOT	_	_

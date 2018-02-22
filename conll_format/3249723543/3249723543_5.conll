@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	SBJ	104319	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	near	near	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	104322	_
+5	car	car	_	NN	_	3	PMOD	104322	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	104324	_
+8	snow	snow	_	NN	_	6	PMOD	104324	_
+9	.	.	_	.	_	2	P	_	_

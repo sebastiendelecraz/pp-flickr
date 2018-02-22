@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	235514	_
+2	little	little	_	JJ	_	3	NMOD	235514	_
+3	girl	girl	_	NN	_	10	SBJ	235514	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	6	NMOD	235516	_
+6	sled	sled	_	NN	_	4	PMOD	235516	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	her	her	_	PRP$	_	9	NMOD	235518	_
+9	hand	hand	_	NN	_	7	PMOD	235518	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	picking	pick	_	VBG	_	10	VC	_	_
+12	up	up	_	RP	_	11	PRT	_	_
+13	snow	snow	_	NN	_	11	OBJ	235515	_
+14	from	from	_	IN	_	11	ADV	_	11
+15	the	the	_	DT	_	16	NMOD	0	_
+16	ground	ground	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	10	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	13654	_
+2	band	band	_	NN	_	0	ROOT	13654	_
+3	of	of	_	IN	_	2	NMOD	13654	_
+4	cellos	cello	_	NNS	_	3	PMOD	13654	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	violins	violin	_	NNS	_	5	CONJ	13655	_
+7	playing	play	_	VBG	_	4	APPO	_	_
+8	in front of	in front of	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	13656	_
+10	crowd	crowd	_	NN	_	8	PMOD	13656	_
+11	at	at	_	IN	_	10	LOC	_	7
+12	The	the	_	DT	_	14	NMOD	13657	_
+13	Market	Market	_	NNP	_	14	NAME	13657	_
+14	Gallery	Gallery	_	NNP	_	11	PMOD	13657	_
+15	.	.	_	.	_	0	ROOT	_	_

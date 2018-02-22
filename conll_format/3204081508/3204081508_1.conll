@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	100832	_
+2	group	group	_	NN	_	5	SBJ	100832	_
+3	of	of	_	IN	_	2	NMOD	100832	_
+4	sunbathers	sunbather	_	NNS	_	3	PMOD	100832	_
+5	gather	gather	_	VBP	_	0	ROOT	_	_
+6	near	near	_	IN	_	5	LOC	_	5
+7	some	some	_	DT	_	8	NMOD	100834	_
+8	kayaks	kayak	_	NNS	_	6	PMOD	100834	_
+9	at	at	_	IN	_	5	TMP	_	_
+10	the	the	_	DT	_	11	NMOD	100830	_
+11	beach	beach	_	NN	_	9	PMOD	100830	_
+12	.	.	_	.	_	5	P	_	_

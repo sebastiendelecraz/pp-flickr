@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	182300	_
+2	woman	woman	_	NN	_	9	SBJ	182300	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	182307	_
+5	purse	purse	_	NN	_	3	PMOD	182307	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	her	her	_	PRP$	_	8	NMOD	182309	_
+8	shoulder	shoulder	_	NN	_	6	PMOD	182309	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	standing	stand	_	VBG	_	9	VC	_	_
+11	beside	beside	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	182301	_
+13	doorway	doorway	_	NN	_	11	PMOD	182301	_
+14	.	.	_	.	_	9	P	_	_

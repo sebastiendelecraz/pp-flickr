@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	43954	_
+2	dogs	dog	_	NNS	_	0	ROOT	43954	_
+3	pulling	pull	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	43952	_
+5	man	man	_	NN	_	3	OBJ	43952	_
+6	on	on	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	43951	_
+8	bicycle	bicycle	_	NN	_	6	PMOD	43951	_
+9	through	through	_	IN	_	3	DIR	_	3
+10	the	the	_	DT	_	11	NMOD	43953	_
+11	snow	snow	_	NN	_	9	PMOD	43953	_
+12	.	.	_	.	_	0	ROOT	_	_

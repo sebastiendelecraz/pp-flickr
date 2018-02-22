@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	53116	_
+2	woman	woman	_	NN	_	11	SBJ	53116	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	53122	_
+5	pink	pink	_	NN	_	6	NMOD	53122	_
+6	dress	dress	_	NN	_	3	PMOD	53122	_
+7	with	with	_	IN	_	6	NMOD	_	2
+8	a	a	_	DT	_	10	NMOD	53124	_
+9	black	black	_	JJ	_	10	NMOD	53124	_
+10	purse	purse	_	NN	_	7	PMOD	53124	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	walking	walk	_	VBG	_	11	VC	_	_
+13	down	down	_	RP	_	12	PRT	_	_
+14	a	a	_	DT	_	16	NMOD	53121	_
+15	stone	stone	_	NN	_	16	NMOD	53121	_
+16	road	road	_	NN	_	12	OBJ	53121	_
+17	.	.	_	.	_	11	P	_	_

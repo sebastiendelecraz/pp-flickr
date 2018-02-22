@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	133778	_
+2	kid	kid	_	NN	_	3	SBJ	133778	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC-PRD	_	_
+5	the	the	_	DT	_	7	NMOD	133781	_
+6	ready	ready	_	JJ	_	7	NMOD	133781	_
+7	position	position	_	NN	_	4	PMOD	133781	_
+8	under	under	_	IN	_	7	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	133784	_
+10	building	building	_	NN	_	8	PMOD	133784	_
+11	and	and	_	CC	_	4	COORD	_	_
+12	behind	behind	_	IN	_	11	CONJ	_	_
+13	an	an	_	DT	_	14	NMOD	133786	_
+14	archway	archway	_	NN	_	12	PMOD	133786	_
+15	.	.	_	.	_	3	P	_	_

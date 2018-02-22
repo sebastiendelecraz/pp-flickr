@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	NAME	123145	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	PMOD	_	_
+4	the	the	_	DT	_	5	NMOD	123148	_
+5	grass	grass	_	NN	_	3	PMOD	123148	_
+6	with	with	_	IN	_	2	ADV	_	2
+7	a	a	_	DT	_	11	NMOD	123147	_
+8	black	black	_	JJ	_	11	NMOD	123147	_
+9	and	and	_	CC	_	8	COORD	123147	_
+10	white	white	_	JJ	_	9	CONJ	123147	_
+11	dog	dog	_	NN	_	6	PMOD	123147	_
+12	.	.	_	.	_	0	ROOT	_	_

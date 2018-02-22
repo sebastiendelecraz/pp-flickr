@@ -1,0 +1,14 @@
+1	One	One	_	CD	_	2	NMOD	104839	_
+2	person	person	_	NN	_	3	SBJ	104839	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	104840	_
+7	beach	beach	_	NN	_	5	PMOD	104840	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	104841	_
+10	rainbow	rainbow	_	NN	_	8	PMOD	104841	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	background	background	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	3	P	_	_

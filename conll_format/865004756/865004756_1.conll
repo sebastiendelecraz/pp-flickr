@@ -1,0 +1,17 @@
+1	Here	here	_	RB	_	2	LOC-PRD	_	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	282362	_
+4	picture	picture	_	NN	_	2	PRD	282362	_
+5	of	of	_	IN	_	4	NMOD	282362	_
+6	Nigerians	Nigerians	_	JJ	_	8	NMOD	282362	_
+7	playing	playing	_	NN	_	8	NMOD	_	_
+8	tug-of-war	tug-of-war	_	NN	_	5	PMOD	282360	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	an	an	_	DT	_	11	NMOD	282357	_
+11	audience	audience	_	NN	_	9	PMOD	282357	_
+12	watching	watch	_	VBG	_	8	APPO	_	_
+13	them	them	_	PRP	_	12	OBJ	0	_
+14	from	from	_	IN	_	12	ADV	_	12
+15	their	their	_	PRP$	_	16	NMOD	282367	_
+16	village	village	_	NN	_	14	PMOD	282367	_
+17	.	.	_	.	_	2	P	_	_

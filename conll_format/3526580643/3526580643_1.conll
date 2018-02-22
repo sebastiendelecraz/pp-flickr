@@ -1,0 +1,34 @@
+1	A	a	_	DT	_	2	NMOD	124930	_
+2	man	man	_	NN	_	14	SBJ	124930	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	124932	_
+5	blue	blue	_	JJ	_	6	NMOD	124932	_
+6	shirt	shirt	_	NN	_	3	PMOD	124932	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	10	NMOD	124934	_
+9	name	name	_	NN	_	10	NMOD	124934	_
+10	tag	tag	_	NN	_	7	PMOD	124934	_
+11	around	around	_	IN	_	14	ADV	_	10
+12	his	his	_	PRP$	_	13	NMOD	124941	_
+13	neck	neck	_	NN	_	11	PMOD	124941	_
+14	is	be	_	VBZ	_	30	SBJ	_	_
+15	standing	stand	_	VBG	_	14	VC	_	_
+16	next to	next to	_	IN	_	15	ADV	_	15
+17	a	a	_	DT	_	18	NMOD	124931	_
+18	bar	bar	_	NN	_	16	PMOD	124931	_
+19	,	,	_	,	_	15	P	_	_
+20	while	while	_	IN	_	15	TMP	_	_
+21	a	a	_	DT	_	22	NMOD	124930	_
+22	man	man	_	NN	_	23	SBJ	124930	_
+23	stands	stand	_	VBZ	_	20	SUB	_	_
+24	next to	next to	_	IN	_	23	ADV	_	_
+25	him	him	_	PRP	_	24	PMOD	0	_
+26	in	in	_	IN	_	23	LOC	_	_
+27	a	a	_	DT	_	29	NMOD	124932	_
+28	tan	tan	_	NN	_	29	NMOD	124932	_
+29	shirt	shirt	_	NN	_	26	PMOD	124932	_
+30	is	be	_	VBZ	_	0	ROOT	_	_
+31	on	on	_	IN	_	30	PRD	_	_
+32	his	his	_	PRP$	_	33	NMOD	124937	_
+33	cellphone	cellphone	_	NN	_	31	PMOD	124937	_
+34	.	.	_	.	_	30	P	_	_

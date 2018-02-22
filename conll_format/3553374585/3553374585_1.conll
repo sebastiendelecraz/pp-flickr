@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	3	NMOD	127169	_
+2	young	young	_	JJ	_	3	NMOD	127169	_
+3	men	man	_	NNS	_	0	ROOT	127169	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	white	white	_	JJ	_	6	NMOD	127174	_
+6	walking	walking	_	NN	_	4	PMOD	_	_
+7	near	near	_	IN	_	6	LOC	_	6
+8	tented	tent	_	VBN	_	9	NMOD	127171	_
+9	area	area	_	NN	_	7	PMOD	127171	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	banner	banner	_	JJ	_	12	NMOD	127170	_
+12	advertisement	advertisement	_	NN	_	10	PMOD	127170	_
+13	.	.	_	.	_	0	ROOT	_	_

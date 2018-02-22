@@ -1,0 +1,10 @@
+1	Three	Three	_	CD	_	2	NMOD	80038	_
+2	men	man	_	NNS	_	0	ROOT	80038	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	80039	_
+5	beach	beach	_	NN	_	3	PMOD	80039	_
+6	with	with	_	IN	_	2	NMOD	_	_
+7	a	a	_	DT	_	9	NMOD	80040	_
+8	metal	metal	_	NN	_	9	NMOD	80040	_
+9	detector	detector	_	NN	_	6	PMOD	80040	_
+10	.	.	_	.	_	0	ROOT	_	_

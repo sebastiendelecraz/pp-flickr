@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	203096	_
+2	teenage	teenage	_	JJ	_	3	NMOD	203096	_
+3	girl	girl	_	NN	_	0	ROOT	203096	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	203098	_
+6	t-shirt	t-shirt	_	NN	_	4	OBJ	203098	_
+7	and	and	_	CC	_	4	COORD	_	_
+8	bathing	bath	_	VBG	_	7	CONJ	203102	_
+9	suit	suit	_	NN	_	11	NMOD	203102	_
+10	bottom	bottom	_	NN	_	11	NMOD	203102	_
+11	jumps	jump	_	NNS	_	8	OBJ	_	_
+12	into	into	_	IN	_	8	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	203097	_
+14	body	body	_	NN	_	12	PMOD	203097	_
+15	of	of	_	IN	_	14	NMOD	203097	_
+16	water	water	_	NN	_	15	PMOD	203097	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Young	Young	_	NNP	_	2	NMOD	171936	_
+2	couple	couple	_	NN	_	3	SBJ	171936	_
+3	peers	peer	_	VBZ	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	171937	_
+6	storefront	storefront	_	NN	_	7	NMOD	171937	_
+7	display	display	_	NN	_	4	PMOD	171937	_
+8	under	under	_	IN	_	3	LOC	_	3
+9	an	an	_	DT	_	10	NMOD	171938	_
+10	umbrella	umbrella	_	NN	_	8	PMOD	171938	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	171940	_
+13	rain	rain	_	NN	_	11	PMOD	171940	_
+14	.	.	_	.	_	3	P	_	_

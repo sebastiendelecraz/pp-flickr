@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	34574	_
+2	young	young	_	JJ	_	3	NMOD	34574	_
+3	man	man	_	NN	_	4	SBJ	34574	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	playing	play	_	VBG	_	4	VC	_	_
+6	his	his	_	PRP$	_	7	NMOD	34574	_
+7	guitar	guitar	_	NN	_	5	OBJ	34574	_
+8	and	and	_	CC	_	5	COORD	_	_
+9	singing	sing	_	VBG	_	8	CONJ	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	34576	_
+12	stage	stage	_	NN	_	10	PMOD	34576	_
+13	with	with	_	IN	_	12	NMOD	_	9
+14	a	a	_	DT	_	15	NMOD	34569	_
+15	band	band	_	NN	_	13	PMOD	34569	_
+16	.	.	_	.	_	4	P	_	_

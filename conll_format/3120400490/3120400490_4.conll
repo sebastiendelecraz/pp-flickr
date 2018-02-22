@@ -1,0 +1,10 @@
+1	seniors	senior	_	NNS	_	0	ROOT	94945	_
+2	sitting	sit	_	VBG	_	1	APPO	_	_
+3	next to	next to	_	IN	_	2	ADV	_	2
+4	the	the	_	DT	_	5	NMOD	94948	_
+5	ocean	ocean	_	NN	_	3	PMOD	94948	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	blue	blue	_	JJ	_	9	NMOD	94947	_
+8	metal	metal	_	NN	_	9	NMOD	94947	_
+9	chairs	chair	_	NNS	_	6	PMOD	94947	_
+10	.	.	_	.	_	0	ROOT	_	_

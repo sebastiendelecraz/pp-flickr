@@ -1,0 +1,13 @@
+1	Youths	youth	_	NNS	_	2	SBJ	140975	_
+2	sit	sit	_	VBP	_	7	SBJ	_	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	lie	lie	_	VBP	_	3	CONJ	_	_
+5	on	on	_	IN	_	2	LOC	_	_
+6	blankets	blanket	_	NNS	_	5	PMOD	140977	_
+7	spread	spread	_	VBP	_	0	ROOT	_	_
+8	over	over	_	IN	_	7	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	140976	_
+10	field	field	_	NN	_	8	PMOD	140976	_
+11	of	of	_	IN	_	10	NMOD	140976	_
+12	grass	grass	_	NN	_	11	PMOD	140976	_
+13	.	.	_	.	_	7	P	_	_

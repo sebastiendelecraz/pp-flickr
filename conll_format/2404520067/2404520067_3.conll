@@ -1,0 +1,9 @@
+1	Black	Black	_	NNP	_	2	NMOD	46793	_
+2	dog	dog	_	NN	_	3	SBJ	46793	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	field	field	_	NN	_	4	PMOD	46794	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	46795	_
+8	rain	rain	_	NN	_	6	PMOD	46795	_
+9	.	.	_	.	_	3	P	_	_

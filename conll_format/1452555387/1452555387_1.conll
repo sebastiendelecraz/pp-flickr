@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	13380	_
+2	hard	hard	_	JJ	_	4	NMOD	13380	_
+3	working	working	_	NN	_	4	NMOD	13380	_
+4	technician	technician	_	NN	_	5	SBJ	13380	_
+5	digs	dig	_	VBZ	_	0	ROOT	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	13386	_
+8	solution	solution	_	NN	_	6	PMOD	13386	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	13	NMOD	13381	_
+11	huge	huge	_	JJ	_	13	NMOD	13381	_
+12	television	television	_	NN	_	13	NMOD	13381	_
+13	console	console	_	NN	_	9	PMOD	13381	_
+14	.	.	_	.	_	5	P	_	_

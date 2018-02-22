@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	3	NMOD	94803	_
+2	rickshaw	rickshaw	_	NN	_	3	NMOD	94803	_
+3	operators	operator	_	NNS	_	4	SBJ	94803	_
+4	waiting	wait	_	VBG	_	0	ROOT	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	94808	_
+7	fare	fare	_	NN	_	5	PMOD	94808	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	traffic	traffic	_	NN	_	8	PMOD	94814	_
+10	in	in	_	IN	_	7	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	0	_
+12	background	background	_	NN	_	10	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	27472	_
+2	man	man	_	NN	_	0	ROOT	27472	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	27474	_
+5	blue	blue	_	JJ	_	6	NMOD	27474	_
+6	shirt	shirt	_	NN	_	3	PMOD	27474	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	his	his	_	PRP$	_	9	NMOD	27477	_
+9	hand	hand	_	NN	_	7	PMOD	27477	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	his	his	_	PRP$	_	12	NMOD	27478	_
+12	pocket	pocket	_	NN	_	10	PMOD	27478	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,21 @@
+1	An	an	_	DT	_	3	NMOD	140942	_
+2	older	old	_	JJR	_	3	NMOD	140942	_
+3	women	woman	_	NNS	_	0	ROOT	140942	_
+4	,	,	_	,	_	0	ROOT	_	_
+5	with	with	_	IN	_	0	ROOT	_	_
+6	dark	dark	_	JJ	_	7	NMOD	140946	_
+7	skin	skin	_	NN	_	5	PMOD	140946	_
+8	,	,	_	,	_	0	ROOT	_	_
+9	and	and	_	CC	_	0	ROOT	_	_
+10	tall	tall	_	JJ	_	13	NMOD	140947	_
+11	,	,	_	,	_	13	P	140947	_
+12	gray	gray	_	JJ	_	13	NMOD	140947	_
+13	hair	hair	_	NN	_	9	CONJ	140947	_
+14	,	,	_	,	_	15	P	_	_
+15	sits	sit	_	VBZ	_	0	ROOT	_	_
+16	next to	next to	_	IN	_	15	ADV	_	15
+17	a	a	_	DT	_	18	NMOD	140944	_
+18	pile	pile	_	NN	_	16	PMOD	140944	_
+19	of	of	_	IN	_	18	NMOD	140944	_
+20	peanuts	peanut	_	NNS	_	19	PMOD	140944	_
+21	.	.	_	.	_	15	P	_	_

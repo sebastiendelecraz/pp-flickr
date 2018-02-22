@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	267061	_
+2	girl	girl	_	NN	_	6	SBJ	267061	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	pink	pink	_	NN	_	5	NMOD	267065	_
+5	shoes	shoe	_	NNS	_	3	PMOD	267065	_
+6	sits	sit	_	VBZ	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	267062	_
+9	bed	bed	_	NN	_	7	PMOD	267062	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	a	a	_	DT	_	13	NMOD	267064	_
+12	stuffed	stuff	_	VBN	_	13	NMOD	267064	_
+13	monkey	monkey	_	NN	_	10	PMOD	267064	_
+14	.	.	_	.	_	6	P	_	_

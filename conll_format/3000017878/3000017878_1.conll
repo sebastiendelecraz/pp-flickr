@@ -1,0 +1,17 @@
+1	Five	Five	_	CD	_	2	NMOD	86433	_
+2	men	man	_	NNS	_	5	SBJ	86433	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	jeans	jean	_	NNS	_	3	PMOD	86434	_
+5	play	play	_	VBP	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	86435	_
+8	band	band	_	NN	_	6	PMOD	86435	_
+9	on	on	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	86436	_
+11	stage	stage	_	NN	_	9	PMOD	86436	_
+12	with	with	_	IN	_	11	NMOD	_	5
+13	a	a	_	DT	_	16	NMOD	86437	_
+14	brightly	brightly	_	RB	_	15	AMOD	86437	_
+15	colored	color	_	VBN	_	16	NMOD	86437	_
+16	backdrop	backdrop	_	NN	_	12	PMOD	86437	_
+17	.	.	_	.	_	5	P	_	_

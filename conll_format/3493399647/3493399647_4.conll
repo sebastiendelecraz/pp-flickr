@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	122351	_
+2	adults	adult	_	NNS	_	3	SBJ	122351	_
+3	hold	hold	_	VBP	_	0	ROOT	_	_
+4	either	either	_	RB	_	5	NMOD	122352	_
+5	side	side	_	NN	_	3	OBJ	122352	_
+6	of	of	_	IN	_	5	NMOD	122352	5
+7	a	a	_	DT	_	8	NMOD	122352	_
+8	boat	boat	_	NN	_	6	PMOD	122352	_
+9	at	at	_	IN	_	3	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	122362	_
+11	edge	edge	_	NN	_	9	PMOD	122362	_
+12	of	of	_	IN	_	11	NMOD	122362	_
+13	the	the	_	DT	_	14	NMOD	122362	_
+14	water	water	_	NN	_	12	PMOD	122362	_
+15	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	106375	_
+2	crowd	crowd	_	VBP	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	106380	_
+5	gyro	gyro	_	NN	_	6	NMOD	106380	_
+6	stand	stand	_	NN	_	3	PMOD	106380	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	106381	_
+9	snow	snow	_	NN	_	7	PMOD	106381	_
+10	.	.	_	.	_	2	P	_	_

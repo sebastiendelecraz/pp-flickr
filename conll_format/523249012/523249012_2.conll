@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	231620	_
+2	man	man	_	NN	_	3	SBJ	231620	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	231624	_
+6	rock	rock	_	NN	_	4	PMOD	231624	_
+7	next to	next to	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	11	NMOD	231622	_
+9	folding	fold	_	VBG	_	11	NMOD	231622	_
+10	deck	deck	_	NN	_	11	NMOD	231622	_
+11	chair	chair	_	NN	_	7	PMOD	231622	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	a	a	_	DT	_	15	NMOD	231623	_
+14	fishing	fishing	_	NN	_	15	NMOD	231623	_
+15	pole	pole	_	NN	_	12	CONJ	231623	_
+16	.	.	_	.	_	3	P	_	_

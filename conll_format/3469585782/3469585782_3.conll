@@ -1,0 +1,16 @@
+1	The	the	_	DT	_	2	NMOD	120385	_
+2	girl	girl	_	NN	_	7	SBJ	120385	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	6	NMOD	120386	_
+5	red	red	_	JJ	_	6	NMOD	120386	_
+6	dress	dress	_	NN	_	3	PMOD	120386	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	raising	raise	_	VBG	_	7	VC	_	_
+9	her	her	_	PRP$	_	10	NMOD	120392	_
+10	hand	hand	_	NN	_	8	OBJ	120392	_
+11	amidst	amidst	_	IN	_	8	ADV	_	8
+12	a	a	_	DT	_	13	NMOD	120384	_
+13	group	group	_	NN	_	11	PMOD	120384	_
+14	of	of	_	IN	_	13	NMOD	120384	_
+15	people	people	_	NN	_	14	PMOD	120384	_
+16	.	.	_	.	_	7	P	_	_

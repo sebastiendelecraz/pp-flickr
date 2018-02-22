@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	265237	_
+2	young	young	_	JJ	_	3	NMOD	265237	_
+3	boy	boy	_	NN	_	4	SBJ	265237	_
+4	poses	pose	_	VBZ	_	0	ROOT	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	the	the	_	DT	_	7	NMOD	0	_
+7	camera	camera	_	NN	_	5	PMOD	0	_
+8	at	at	_	IN	_	4	LOC	_	_
+9	an	an	_	DT	_	11	NMOD	265239	_
+10	amusement	amusement	_	NN	_	11	NMOD	265239	_
+11	park	park	_	NN	_	8	PMOD	265239	_
+12	while	while	_	IN	_	4	ADV	_	_
+13	riding	ride	_	VBG	_	12	SUB	_	_
+14	a	a	_	DT	_	15	NMOD	265238	_
+15	ride	ride	_	NN	_	13	OBJ	265238	_
+16	.	.	_	.	_	4	P	_	_

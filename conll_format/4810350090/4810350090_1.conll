@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	4	NMOD	205438	_
+2	dirty	dirty	_	JJ	_	4	NMOD	205438	_
+3	looking	look	_	VBG	_	4	NMOD	205438	_
+4	guys	guy	_	NNS	_	0	ROOT	205438	_
+5	who	who	_	WP	_	6	SBJ	0	_
+6	look	look	_	VBP	_	4	NMOD	_	_
+7	like	like	_	IN	_	6	ADV	_	6
+8	Doctor	Doctor	_	NNP	_	9	NAME	205442	_
+9	Livingstone	Livingstone	_	NNP	_	7	PMOD	205442	_
+10	walking	walk	_	VBG	_	6	ADV	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	bunch	bunch	_	NN	_	11	PMOD	205437	_
+13	of	of	_	IN	_	12	NMOD	205437	_
+14	British	British	_	JJ	_	15	NMOD	205437	_
+15	flags	flag	_	NNS	_	13	PMOD	205437	_
+16	.	.	_	.	_	0	ROOT	_	_

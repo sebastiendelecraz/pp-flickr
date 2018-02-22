@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	271498	_
+2	swimmer	swimmer	_	NN	_	12	SBJ	271498	_
+3	,	,	_	,	_	12	P	_	_
+4	with	with	_	IN	_	12	ADV	_	2
+5	a	a	_	DT	_	7	NMOD	271499	_
+6	blue	blue	_	JJ	_	7	NMOD	271499	_
+7	cap	cap	_	NN	_	4	PMOD	271499	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	blue	blue	_	JJ	_	10	NMOD	271501	_
+10	goggles	goggle	_	NNS	_	8	CONJ	271501	_
+11	,	,	_	,	_	12	P	_	_
+12	swims	swim	_	VBZ	_	0	ROOT	_	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	calm	calm	_	JJ	_	15	NMOD	271500	_
+15	water	water	_	NN	_	13	PMOD	271500	_
+16	.	.	_	.	_	12	P	_	_

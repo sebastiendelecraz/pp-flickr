@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	283722	_
+2	woman	woman	_	NN	_	0	ROOT	283722	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	283727	_
+5	blue	blue	_	JJ	_	6	NMOD	283727	_
+6	leotard	leotard	_	NN	_	3	PMOD	283727	_
+7	performing	perform	_	VBG	_	6	APPO	_	_
+8	on	on	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	11	NMOD	283728	_
+10	balancing	balance	_	VBG	_	11	NMOD	283728	_
+11	beam	beam	_	NN	_	8	PMOD	283728	_
+12	for	for	_	IN	_	11	NMOD	_	7
+13	gymnastics	gymnastics	_	NN	_	12	PMOD	283730	_
+14	.	.	_	.	_	0	ROOT	_	_

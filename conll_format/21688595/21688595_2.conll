@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	32049	_
+2	lot	lot	_	NN	_	5	SBJ	32049	_
+3	of	of	_	IN	_	2	NMOD	32049	_
+4	people	people	_	NN	_	3	PMOD	32049	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	gathered	gather	_	VBN	_	5	VC	_	_
+7	around	around	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	32055	_
+9	couple	couple	_	NN	_	7	PMOD	32055	_
+10	of	of	_	IN	_	9	NMOD	32055	_
+11	people	people	_	NN	_	10	PMOD	32055	_
+12	who	who	_	WP	_	13	SBJ	0	_
+13	are	be	_	VBP	_	11	NMOD	_	_
+14	dressed	dress	_	VBN	_	13	VC	_	_
+15	in	in	_	IN	_	14	ADV	_	_
+16	costumes	costume	_	NNS	_	15	PMOD	32056	_
+17	.	.	_	.	_	5	P	_	_

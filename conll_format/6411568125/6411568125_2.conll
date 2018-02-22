@@ -1,0 +1,17 @@
+1	Street	Street	_	NNP	_	2	NMOD	254010	_
+2	view	view	_	NN	_	0	ROOT	254010	_
+3	of	of	_	IN	_	2	NMOD	254010	_
+4	an	an	_	DT	_	7	NMOD	254010	_
+5	Asian	Asian	_	JJ	_	7	NMOD	254010	_
+6	food	food	_	NN	_	7	NMOD	254010	_
+7	cart	cart	_	NN	_	3	PMOD	254010	_
+8	at	at	_	IN	_	2	NMOD	_	_
+9	night	night	_	NN	_	8	PMOD	254017	_
+10	with	with	_	IN	_	2	NMOD	_	7
+11	a	a	_	DT	_	12	NMOD	254012	_
+12	customer	customer	_	NN	_	10	PMOD	254012	_
+13	waiting	wait	_	VBG	_	12	APPO	_	_
+14	for	for	_	IN	_	13	ADV	_	13
+15	his	his	_	PRP$	_	16	NMOD	254016	_
+16	dinner	dinner	_	NN	_	14	PMOD	254016	_
+17	.	.	_	.	_	0	ROOT	_	_

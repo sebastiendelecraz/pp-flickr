@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	146184	_
+2	men	man	_	NNS	_	0	ROOT	146184	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	146187	_
+6	table	table	_	NN	_	4	PMOD	146187	_
+7	smoking	smoke	_	VBG	_	6	APPO	_	_
+8	with	with	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	146188	_
+10	creepy	creepy	_	JJ	_	11	NMOD	146188	_
+11	picture	picture	_	NN	_	8	PMOD	146188	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

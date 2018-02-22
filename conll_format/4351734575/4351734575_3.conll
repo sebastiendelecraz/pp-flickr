@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	164457	_
+2	band	band	_	NN	_	3	SBJ	164457	_
+3	performing	perform	_	VBG	_	0	ROOT	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	entertaining	entertain	_	VBG	_	4	CONJ	_	_
+6	on	on	_	IN	_	3	ADV	_	_
+7	stage	stage	_	NN	_	6	PMOD	164459	_
+8	at	at	_	IN	_	7	LOC	_	5
+9	a	a	_	DT	_	10	NMOD	164463	_
+10	Valentine	Valentine	_	NNP	_	14	NMOD	164463	_
+11	'	'	_	POS	_	10	SUFFIX	164463	_
+12	s	s	_	NN	_	13	NAME	164463	_
+13	Day	Day	_	NNP	_	14	NMOD	164463	_
+14	event	event	_	NN	_	8	PMOD	164463	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	3	NMOD	79710	_
+2	gray-haired	gray-haired	_	JJ	_	3	NMOD	79710	_
+3	women	woman	_	NNS	_	4	SBJ	79710	_
+4	holding	hold	_	VBG	_	5	NMOD	_	_
+5	bags	bag	_	NNS	_	6	SBJ	79712	_
+6	talk	talk	_	VBP	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	79713	_
+9	sidewalk	sidewalk	_	NN	_	7	PMOD	79713	_
+10	near	near	_	IN	_	9	LOC	_	6
+11	a	a	_	DT	_	12	NMOD	79713	_
+12	road	road	_	NN	_	10	PMOD	79713	_
+13	.	.	_	.	_	6	P	_	_

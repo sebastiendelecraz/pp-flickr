@@ -1,0 +1,15 @@
+1	An	an	_	DT	_	3	NMOD	21573	_
+2	Israeli	Israeli	_	JJ	_	3	NMOD	21573	_
+3	child	child	_	NN	_	4	SBJ	21573	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	behind	behind	_	IN	_	4	LOC-PRD	_	4
+6	the	the	_	DT	_	7	NMOD	21578	_
+7	counter	counter	_	NN	_	5	PMOD	21578	_
+8	at	at	_	IN	_	4	TMP	_	_
+9	stand	stand	_	NN	_	8	PMOD	21578	_
+10	that	that	_	WDT	_	11	SBJ	_	_
+11	vends	vend	_	VBZ	_	9	NMOD	21582	_
+12	nuts	nut	_	NNS	_	11	OBJ	21582	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	cigarettes	cigarette	_	NNS	_	13	CONJ	21579	_
+15	.	.	_	.	_	4	P	_	_

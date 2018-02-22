@@ -1,0 +1,19 @@
+1	People	People	_	NNPS	_	2	NAME	73927	_
+2	lounging	lounge	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	purple	purple	_	NN	_	5	NMOD	73933	_
+5	blow	blow	_	NN	_	3	PMOD	73933	_
+6	up	up	_	IN	_	5	NMOD	_	5
+7	chairs	chair	_	NNS	_	6	PMOD	73930	_
+8	and	and	_	CC	_	3	COORD	_	_
+9	on	on	_	IN	_	8	CONJ	_	_
+10	green	green	_	JJ	_	11	NMOD	73931	_
+11	grass	grass	_	NN	_	9	PMOD	73931	_
+12	at	at	_	IN	_	2	ADV	_	_
+13	an	an	_	DT	_	15	NMOD	73929	_
+14	outdoor	outdoor	_	JJ	_	15	NMOD	73929	_
+15	event	event	_	NN	_	12	PMOD	73929	_
+16	in front of	in front of	_	IN	_	2	TMP	_	2
+17	a	a	_	DT	_	18	NMOD	73928	_
+18	building	building	_	NN	_	16	PMOD	73928	_
+19	.	.	_	.	_	0	ROOT	_	_

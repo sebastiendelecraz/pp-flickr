@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	130422	_
+2	little	little	_	JJ	_	3	NMOD	130422	_
+3	girl	girl	_	NN	_	4	SBJ	130422	_
+4	jumping	jump	_	VBG	_	0	ROOT	_	_
+5	into	into	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	130423	_
+7	stream	stream	_	NN	_	5	PMOD	130423	_
+8	of	of	_	IN	_	7	NMOD	130423	_
+9	water	water	_	NN	_	8	PMOD	130423	_
+10	on	on	_	IN	_	4	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	130425	_
+12	hot	hot	_	JJ	_	13	NMOD	130425	_
+13	day	day	_	NN	_	10	PMOD	130425	_
+14	.	.	_	.	_	0	ROOT	_	_

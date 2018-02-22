@@ -1,0 +1,11 @@
+1	Swimmers	swimmer	_	NNS	_	2	SBJ	95668	_
+2	gather	gather	_	VBP	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	practice	practice	_	NN	_	3	PMOD	95676	_
+5	at	at	_	IN	_	2	LOC	_	_
+6	a	a	_	DT	_	7	NMOD	95670	_
+7	pool	pool	_	NN	_	5	PMOD	95670	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	swimming	swim	_	VBG	_	10	NMOD	95673	_
+10	lanes	lane	_	NNS	_	8	PMOD	95673	_
+11	.	.	_	.	_	2	P	_	_

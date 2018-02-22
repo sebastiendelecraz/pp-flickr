@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	47186	_
+2	woman	woman	_	NN	_	8	SBJ	47186	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	47189	_
+5	red	red	_	JJ	_	7	NMOD	47189	_
+6	sports	sport	_	NNS	_	7	NMOD	47189	_
+7	outfit	outfit	_	NN	_	3	PMOD	47189	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	running	run	_	VBG	_	8	VC	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	the	the	_	DT	_	12	NMOD	47188	_
+12	grass	grass	_	NN	_	10	PMOD	47188	_
+13	in front of	in front of	_	IN	_	9	ADV	_	9
+14	a	a	_	DT	_	15	NMOD	47187	_
+15	crowd	crowd	_	NN	_	13	PMOD	47187	_
+16	of	of	_	IN	_	15	NMOD	47187	_
+17	spectators	spectator	_	NNS	_	16	PMOD	47187	_
+18	.	.	_	.	_	8	P	_	_

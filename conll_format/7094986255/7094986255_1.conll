@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	3	NMOD	265297	_
+2	young	young	_	JJ	_	3	NMOD	265297	_
+3	boy	boy	_	NN	_	4	SBJ	265297	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	wading	wade	_	VBG	_	4	VC	_	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	265302	_
+8	waters	water	_	NNS	_	6	PMOD	265302	_
+9	of	of	_	IN	_	8	NMOD	265302	_
+10	some	some	_	DT	_	11	NMOD	265302	_
+11	body	body	_	NN	_	9	PMOD	265302	_
+12	of	of	_	IN	_	11	NMOD	265302	_
+13	water	water	_	NN	_	12	PMOD	265302	_
+14	,	,	_	,	_	16	P	_	_
+15	there	there	_	EX	_	16	SBJ	0	_
+16	are	be	_	VBP	_	0	ROOT	_	_
+17	plants	plant	_	NNS	_	16	PRD	265304	_
+18	on the bottom of	on the bottom of	_	IN	_	16	LOC	265305	16
+19	the	the	_	DT	_	20	NMOD	265305	_
+20	picture	picture	_	NN	_	18	PMOD	265305	_
+21	.	.	_	.	_	16	P	_	_

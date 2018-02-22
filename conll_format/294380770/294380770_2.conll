@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	83250	_
+2	group	group	_	NN	_	5	SBJ	83250	_
+3	of	of	_	IN	_	2	NMOD	83250	_
+4	people	people	_	NN	_	3	PMOD	83250	_
+5	stand	stand	_	VBP	_	0	ROOT	_	_
+6	watching	watch	_	VBG	_	5	VC	_	_
+7	six	six	_	CD	_	8	NMOD	83240	_
+8	men	man	_	NNS	_	6	OBJ	83240	_
+9	as	as	_	IN	_	6	ADV	_	_
+10	they	they	_	PRP	_	11	SBJ	0	_
+11	form	form	_	VBP	_	9	SUB	_	_
+12	a	a	_	DT	_	14	NMOD	83240	_
+13	human	human	_	JJ	_	14	NMOD	83240	_
+14	ladder	ladder	_	NN	_	11	OBJ	83240	_
+15	around	around	_	IN	_	11	ADV	_	11
+16	a	a	_	DT	_	17	NMOD	83241	_
+17	pole	pole	_	NN	_	15	PMOD	83241	_
+18	that	that	_	WDT	_	19	SBJ	0	_
+19	stands	stand	_	VBZ	_	17	NMOD	_	_
+20	in the middle of	in the middle of	_	IN	_	19	ADV	83252	19
+21	an	an	_	DT	_	22	NMOD	83252	_
+22	area	area	_	NN	_	20	PMOD	83252	_
+23	of	of	_	IN	_	22	NMOD	_	_
+24	water	water	_	NN	_	23	PMOD	83242	_
+25	.	.	_	.	_	5	P	_	_

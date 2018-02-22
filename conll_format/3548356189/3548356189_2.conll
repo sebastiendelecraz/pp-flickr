@@ -1,0 +1,16 @@
+1	Kids	kid	_	NNS	_	5	SBJ	126625	_
+2	of	of	_	IN	_	1	NMOD	126625	_
+3	various	various	_	JJ	_	4	NMOD	126625	_
+4	ages	age	_	NNS	_	2	PMOD	126625	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	126626	_
+9	room	room	_	NN	_	7	PMOD	126626	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	others	other	_	NNS	_	10	PMOD	126627	_
+12	seated	seat	_	VBN	_	11	APPO	_	_
+13	along	along	_	IN	_	12	LOC	_	12
+14	the	the	_	DT	_	15	NMOD	126631	_
+15	perimeter	perimeter	_	NN	_	13	PMOD	126631	_
+16	.	.	_	.	_	5	P	_	_

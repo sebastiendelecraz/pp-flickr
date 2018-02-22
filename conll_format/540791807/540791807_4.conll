@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	235802	_
+2	man	man	_	NN	_	0	ROOT	235802	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	8	NMOD	235803	_
+5	blue	blue	_	JJ	_	8	NMOD	235803	_
+6	rain	rain	_	NN	_	7	NMOD	235803	_
+7	jacket	jacket	_	NN	_	8	NMOD	235803	_
+8	fishing	fishing	_	NN	_	3	PMOD	_	_
+9	during	during	_	IN	_	2	TMP	_	8
+10	a	a	_	DT	_	11	NMOD	235807	_
+11	rainstorm	rainstorm	_	NN	_	9	PMOD	235807	_
+12	.	.	_	.	_	0	ROOT	_	_

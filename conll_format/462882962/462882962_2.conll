@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	184327	_
+2	group	group	_	NN	_	6	SBJ	184327	_
+3	of	of	_	IN	_	2	NMOD	184327	_
+4	construction	construction	_	NN	_	5	NMOD	184327	_
+5	workers	worker	_	NNS	_	3	PMOD	184327	_
+6	pose	pose	_	VBP	_	0	ROOT	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	184333	_
+9	picture	picture	_	NN	_	7	PMOD	184333	_
+10	at	at	_	IN	_	6	LOC	_	_
+11	their	their	_	PRP$	_	13	NMOD	184328	_
+12	work	work	_	NN	_	13	NMOD	184328	_
+13	site	site	_	NN	_	10	PMOD	184328	_
+14	.	.	_	.	_	6	P	_	_

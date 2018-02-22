@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	3	NMOD	36733	_
+2	young	young	_	JJ	_	3	NMOD	36733	_
+3	boy	boy	_	NN	_	4	SBJ	36733	_
+4	wearing	wear	_	VBG	_	0	ROOT	_	_
+5	a	a	_	DT	_	8	NMOD	36734	_
+6	bright	bright	_	JJ	_	8	NMOD	36734	_
+7	red	red	_	JJ	_	8	NMOD	36734	_
+8	outfit	outfit	_	NN	_	4	OBJ	36734	_
+9	jumping	jump	_	VBG	_	8	APPO	_	_
+10	into	into	_	IN	_	9	DIR	_	9
+11	the	the	_	DT	_	12	NMOD	36736	_
+12	sand	sand	_	NN	_	10	PMOD	36736	_
+13	at	at	_	IN	_	9	TMP	_	_
+14	a	a	_	DT	_	15	NMOD	36735	_
+15	playground	playground	_	NN	_	13	PMOD	36735	_
+16	.	.	_	.	_	0	ROOT	_	_

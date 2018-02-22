@@ -1,0 +1,8 @@
+1	Members	member	_	NNS	_	0	ROOT	285145	_
+2	of	of	_	IN	_	1	NMOD	285145	_
+3	a	a	_	DT	_	4	NMOD	285145	_
+4	strike	strike	_	NN	_	2	PMOD	285145	_
+5	at	at	_	IN	_	4	LOC	_	1
+6	Yale	Yale	_	NNP	_	7	NAME	285152	_
+7	University	University	_	NNP	_	5	PMOD	285152	_
+8	.	.	_	.	_	0	ROOT	_	_

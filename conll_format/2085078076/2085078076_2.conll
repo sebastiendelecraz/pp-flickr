@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	27688	_
+2	young	young	_	JJ	_	4	NMOD	27688	_
+3	black	black	_	JJ	_	4	NMOD	27688	_
+4	child	child	_	NN	_	5	SBJ	27688	_
+5	stands	stand	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	27691	_
+8	edge	edge	_	NN	_	6	PMOD	27691	_
+9	of	of	_	IN	_	8	NMOD	27691	8
+10	a	a	_	DT	_	11	NMOD	27691	_
+11	body	body	_	NN	_	9	PMOD	27691	_
+12	of	of	_	IN	_	11	NMOD	27691	_
+13	water	water	_	NN	_	12	PMOD	27691	_
+14	near	near	_	IN	_	11	LOC	_	5
+15	buckets	bucket	_	NNS	_	14	PMOD	27692	_
+16	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	104125	_
+2	person	person	_	NN	_	8	SBJ	104125	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	104127	_
+5	bright	bright	_	JJ	_	7	NMOD	104127	_
+6	yellow	yellow	_	NN	_	7	NMOD	104127	_
+7	jacket	jacket	_	NN	_	3	PMOD	104127	_
+8	rides	ride	_	VBZ	_	0	ROOT	_	_
+9	a	a	_	DT	_	10	NMOD	104126	_
+10	bicycle	bicycle	_	NN	_	8	OBJ	104126	_
+11	on	on	_	IN	_	8	ADV	_	_
+12	the	the	_	DT	_	13	NMOD	104129	_
+13	sidewalk	sidewalk	_	NN	_	11	PMOD	104129	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	104129	_
+16	snow	snow	_	NN	_	14	PMOD	104129	_
+17	.	.	_	.	_	8	P	_	_

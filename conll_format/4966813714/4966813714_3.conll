@@ -1,0 +1,12 @@
+1	Vendors	vendor	_	NNS	_	2	SBJ	224115	_
+2	sell	sell	_	VBP	_	0	ROOT	_	_
+3	fruit	fruit	_	NN	_	2	OBJ	224121	_
+4	in	in	_	IN	_	2	LOC	_	_
+5	an	an	_	DT	_	7	NMOD	224118	_
+6	open-air	open-air	_	JJ	_	7	NMOD	224118	_
+7	market	market	_	NN	_	4	PMOD	224118	_
+8	under	under	_	IN	_	2	LOC	_	2
+9	an	an	_	DT	_	11	NMOD	224119	_
+10	olive	olive	_	JJ	_	11	NMOD	224119	_
+11	tree	tree	_	NN	_	8	PMOD	224119	_
+12	.	.	_	.	_	2	P	_	_

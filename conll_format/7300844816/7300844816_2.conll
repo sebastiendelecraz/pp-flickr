@@ -1,0 +1,17 @@
+1	Four	Four	_	CD	_	2	NMOD	268188	_
+2	runners	runner	_	NNS	_	8	SBJ	268188	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	race	race	_	NN	_	5	NMOD	268191	_
+5	gears	gear	_	NNS	_	3	PMOD	268191	_
+6	with	with	_	IN	_	2	NMOD	_	_
+7	numbers	number	_	NNS	_	6	PMOD	268193	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	running	run	_	VBG	_	8	VC	_	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	268188	_
+12	tight	tight	_	JJ	_	13	NMOD	268188	_
+13	group	group	_	NN	_	10	PMOD	268188	_
+14	along	along	_	IN	_	13	LOC	_	9
+15	a	a	_	DT	_	16	NMOD	268190	_
+16	road	road	_	NN	_	14	PMOD	268190	_
+17	.	.	_	.	_	8	P	_	_

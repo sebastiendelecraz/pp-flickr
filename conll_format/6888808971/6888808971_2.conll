@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	260488	_
+2	postal	postal	_	JJ	_	3	NMOD	260488	_
+3	carrier	carrier	_	NN	_	8	SBJ	260488	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	260496	_
+6	big	big	_	JJ	_	7	NMOD	260496	_
+7	smile	smile	_	NN	_	4	PMOD	260496	_
+8	stands	stand	_	VBZ	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	260489	_
+11	sidewalk	sidewalk	_	NN	_	9	PMOD	260489	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	his	his	_	PRP$	_	14	NMOD	260491	_
+14	cart	cart	_	NN	_	12	PMOD	260491	_
+15	of	of	_	IN	_	14	NMOD	260491	_
+16	mail	mail	_	NN	_	15	PMOD	260491	_
+17	.	.	_	.	_	8	P	_	_

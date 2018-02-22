@@ -1,0 +1,13 @@
+1	profile	profile	_	NN	_	2	NMOD	270709	_
+2	view	view	_	NN	_	0	ROOT	270709	_
+3	of	of	_	IN	_	2	NMOD	270709	_
+4	a	a	_	DT	_	5	NMOD	270709	_
+5	man	man	_	NN	_	3	PMOD	270709	_
+6	with	with	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	9	NMOD	270710	_
+8	brown	brown	_	JJ	_	9	NMOD	270710	_
+9	pipe	pipe	_	NN	_	6	PMOD	270710	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	his	his	_	PRP$	_	12	NMOD	270711	_
+12	mouth	mouth	_	NN	_	10	PMOD	270711	_
+13	.	.	_	.	_	0	ROOT	_	_

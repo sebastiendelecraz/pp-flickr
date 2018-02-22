@@ -1,0 +1,8 @@
+1	Not	not	_	RB	_	2	ADV	_	_
+2	appearing	appear	_	VBG	_	0	ROOT	_	_
+3	within	within	_	IN	_	2	LOC	_	2
+4	my	my	_	PRP$	_	5	NMOD	253700	_
+5	field	field	_	NN	_	3	PMOD	253700	_
+6	of	of	_	IN	_	5	NMOD	253700	_
+7	vision	vision	_	NN	_	6	PMOD	253700	_
+8	.	.	_	.	_	0	ROOT	_	_

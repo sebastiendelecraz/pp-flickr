@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	80815	_
+2	man	man	_	NN	_	5	SBJ	80815	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	suspenders	suspender	_	NNS	_	3	PMOD	80823	_
+5	bales	bale	_	VBZ	_	0	ROOT	80823	_
+6	crops	crop	_	NNS	_	5	OBJ	80823	_
+7	near	near	_	IN	_	5	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	80818	_
+9	body	body	_	NN	_	7	PMOD	80818	_
+10	of	of	_	IN	_	9	NMOD	80818	_
+11	water	water	_	NN	_	10	PMOD	80818	_
+12	.	.	_	.	_	5	P	_	_

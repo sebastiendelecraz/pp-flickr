@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	55395	_
+2	boy	boy	_	NN	_	12	SBJ	55395	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	55396	_
+6	plaid	plaid	_	NN	_	7	NMOD	55396	_
+7	kilt	kilt	_	NN	_	4	PMOD	55396	_
+8	with	with	_	IN	_	7	NMOD	_	2
+9	a	a	_	DT	_	11	NMOD	55398	_
+10	brown	brown	_	JJ	_	11	NMOD	55398	_
+11	hat	hat	_	NN	_	8	PMOD	55398	_
+12	wields	wield	_	VBZ	_	0	ROOT	_	_
+13	a	a	_	DT	_	15	NMOD	55397	_
+14	long	long	_	JJ	_	15	NMOD	55397	_
+15	pole	pole	_	NN	_	12	OBJ	55397	_
+16	.	.	_	.	_	12	P	_	_

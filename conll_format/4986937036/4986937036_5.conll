@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	226287	_
+2	girls	girl	_	NNS	_	3	SBJ	226287	_
+3	pose	pose	_	VBP	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	226294	_
+6	picture	picture	_	NN	_	4	PMOD	226294	_
+7	among	among	_	IN	_	6	LOC	_	3
+8	vibrant	vibrant	_	JJ	_	9	NMOD	226288	_
+9	flowers	flower	_	NNS	_	7	PMOD	226288	_
+10	.	.	_	.	_	3	P	_	_

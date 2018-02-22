@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	246418	_
+2	man	man	_	NN	_	6	SBJ	246418	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	246420	_
+5	helmet	helmet	_	NN	_	3	PMOD	246420	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	performing	perform	_	VBG	_	6	VC	_	_
+8	a	a	_	DT	_	9	NMOD	246422	_
+9	stunt	stunt	_	NN	_	7	OBJ	246422	_
+10	on	on	_	IN	_	7	ADV	_	_
+11	his	his	_	PRP$	_	13	NMOD	246421	_
+12	dirt	dirt	_	NN	_	13	NMOD	246421	_
+13	bike	bike	_	NN	_	10	PMOD	246421	_
+14	in front of	in front of	_	IN	_	7	TMP	_	7
+15	a	a	_	DT	_	16	NMOD	246419	_
+16	crowd	crowd	_	NN	_	14	PMOD	246419	_
+17	.	.	_	.	_	6	P	_	_

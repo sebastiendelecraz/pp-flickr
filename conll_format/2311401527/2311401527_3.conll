@@ -1,0 +1,14 @@
+1	Blue	Blue	_	NNP	_	2	SBJ	40794	_
+2	prints	print	_	VBZ	_	0	ROOT	40794	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	40800	_
+5	house	house	_	NN	_	6	NMOD	40800	_
+6	hang	hang	_	NN	_	3	PMOD	_	_
+7	above	above	_	IN	_	2	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	40793	_
+9	woman	woman	_	NN	_	7	PMOD	40793	_
+10	working	work	_	VBG	_	9	APPO	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	40795	_
+13	doorway	doorway	_	NN	_	11	PMOD	40795	_
+14	.	.	_	.	_	2	P	_	_

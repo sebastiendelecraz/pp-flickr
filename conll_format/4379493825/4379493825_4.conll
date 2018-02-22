@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	165554	_
+2	woman	woman	_	NN	_	0	ROOT	165554	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	5	NMOD	165565	_
+5	skates	skates	_	NNS	_	3	PMOD	165565	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	ice	ice	_	NN	_	6	PMOD	165562	_
+8	while	while	_	IN	_	0	ROOT	_	_
+9	people	people	_	NN	_	0	ROOT	165563	_
+10	behind	behind	_	IN	_	9	LOC	_	9
+11	her	her	_	PRP$	_	12	NMOD	0	_
+12	look	look	_	NN	_	10	PMOD	_	_
+13	.	.	_	.	_	0	ROOT	_	_

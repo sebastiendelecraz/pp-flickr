@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	3	NMOD	10886	_
+2	lone	lone	_	JJ	_	3	NMOD	10886	_
+3	woman	woman	_	NN	_	0	ROOT	10886	_
+4	sitting	sit	_	VBG	_	3	APPO	_	_
+5	on	on	_	IN	_	4	LOC	_	_
+6	an	an	_	DT	_	9	NMOD	10890	_
+7	usual	usual	_	JJ	_	9	NMOD	10890	_
+8	green	green	_	JJ	_	9	NMOD	10890	_
+9	bench	bench	_	NN	_	5	PMOD	10890	_
+10	with	with	_	IN	_	4	ADV	_	4
+11	a	a	_	DT	_	12	NMOD	10889	_
+12	cup	cup	_	NN	_	10	PMOD	10889	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	her	her	_	PRP$	_	15	NMOD	10893	_
+15	hand	hand	_	NN	_	13	PMOD	10893	_
+16	.	.	_	.	_	0	ROOT	_	_

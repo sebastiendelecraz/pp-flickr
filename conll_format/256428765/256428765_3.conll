@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	58342	_
+2	man	man	_	NN	_	0	ROOT	58342	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	9	NMOD	58347	_
+5	black	black	_	JJ	_	9	NMOD	58347	_
+6	and	and	_	CC	_	5	COORD	58347	_
+7	white	white	_	JJ	_	6	CONJ	58347	_
+8	jacket	jacket	_	NN	_	9	NMOD	58347	_
+9	sit	sit	_	NN	_	3	PMOD	_	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	his	his	_	PRP$	_	13	NMOD	58346	_
+12	silver	silver	_	NN	_	13	NMOD	58346	_
+13	motorcycle	motorcycle	_	NN	_	10	PMOD	58346	_
+14	.	.	_	.	_	0	ROOT	_	_

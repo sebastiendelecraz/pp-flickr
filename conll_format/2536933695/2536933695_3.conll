@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	56072	_
+2	man	man	_	NN	_	8	SBJ	56072	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	56074	_
+5	bright	bright	_	JJ	_	7	NMOD	56074	_
+6	orange	orange	_	NN	_	7	NMOD	56074	_
+7	vest	vest	_	NN	_	3	PMOD	56074	_
+8	smiles	smile	_	VBZ	_	14	SBJ	_	_
+9	as	as	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	56072	_
+11	group	group	_	NN	_	9	PMOD	56072	_
+12	of	of	_	IN	_	11	NMOD	56072	_
+13	men	man	_	NNS	_	12	PMOD	56072	_
+14	work	work	_	VBP	_	0	ROOT	_	_
+15	behind	behind	_	IN	_	14	LOC	_	_
+16	him	him	_	PRP	_	15	PMOD	0	_
+17	.	.	_	.	_	14	P	_	_

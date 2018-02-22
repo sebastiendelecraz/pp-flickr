@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	4	NMOD	82174	_
+2	Middle	Middle	_	NNP	_	3	NAME	82174	_
+3	Eastern	Eastern	_	NNP	_	4	NMOD	82174	_
+4	man	man	_	NN	_	5	SBJ	82174	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	with	with	_	IN	_	6	ADV	_	_
+8	his	his	_	PRP$	_	9	NMOD	82179	_
+9	back	back	_	RB	_	7	PMOD	82179	_
+10	against	against	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	13	NMOD	82176	_
+12	lamp	lamp	_	NN	_	13	NMOD	82176	_
+13	post	post	_	NN	_	10	PMOD	82176	_
+14	near to	near to	_	IN	_	13	NMOD	_	6
+15	other	other	_	JJ	_	16	NMOD	82175	_
+16	people	people	_	NN	_	14	PMOD	82175	_
+17	who	who	_	WP	_	18	SBJ	0	_
+18	are	be	_	VBP	_	16	NMOD	_	_
+19	waiting	wait	_	VBG	_	18	VC	_	_
+20	around	around	_	IN	_	19	ADV	_	_
+21	.	.	_	.	_	5	P	_	_

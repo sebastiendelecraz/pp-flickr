@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	262465	_
+2	band	band	_	NN	_	7	SBJ	262465	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	262460	_
+5	female	female	_	JJ	_	6	NMOD	262460	_
+6	singer	singer	_	NN	_	3	PMOD	262460	_
+7	performs	perform	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	stage	stage	_	NN	_	8	PMOD	262462	_
+10	with	with	_	IN	_	9	NMOD	_	7
+11	a	a	_	DT	_	12	NMOD	262461	_
+12	guitarist	guitarist	_	NN	_	10	PMOD	262461	_
+13	wearing	wear	_	VBG	_	12	APPO	_	_
+14	a	a	_	DT	_	16	NMOD	262469	_
+15	green	green	_	JJ	_	16	NMOD	262469	_
+16	jacket	jacket	_	NN	_	13	OBJ	262469	_
+17	.	.	_	.	_	7	P	_	_

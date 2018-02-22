@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	262529	_
+2	group	group	_	NN	_	0	ROOT	262529	_
+3	of	of	_	IN	_	2	NMOD	262529	_
+4	kids	kid	_	NNS	_	3	PMOD	262529	_
+5	playing	play	_	VBG	_	4	APPO	_	_
+6	football	football	_	NN	_	5	OBJ	262531	_
+7	by	by	_	IN	_	2	NMOD	_	5
+8	an	an	_	DT	_	10	NMOD	262532	_
+9	old	old	_	JJ	_	10	NMOD	262532	_
+10	castle	castle	_	NN	_	7	PMOD	262532	_
+11	.	.	_	.	_	0	ROOT	_	_

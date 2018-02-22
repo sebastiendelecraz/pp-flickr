@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	111622	_
+2	man	man	_	NN	_	0	ROOT	111622	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	an	an	_	DT	_	6	NMOD	111623	_
+5	orange	orange	_	JJ	_	6	NMOD	111623	_
+6	jumpsuit	jumpsuit	_	NN	_	3	PMOD	111623	_
+7	welding	weld	_	VBG	_	6	APPO	_	_
+8	with	with	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	111627	_
+10	assistance	assistance	_	NN	_	8	PMOD	111627	_
+11	of	of	_	IN	_	10	NMOD	111627	10
+12	a	a	_	DT	_	14	NMOD	111627	_
+13	bright	bright	_	JJ	_	14	NMOD	111627	_
+14	light	light	_	NN	_	11	PMOD	111627	_
+15	.	.	_	.	_	0	ROOT	_	_

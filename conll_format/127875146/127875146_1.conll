@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	7061	_
+2	man	man	_	NN	_	7	SBJ	7061	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	7062	_
+5	blue	blue	_	JJ	_	6	NMOD	7062	_
+6	sweater	sweater	_	NN	_	3	PMOD	7062	_
+7	stares	stare	_	VBZ	_	0	ROOT	_	_
+8	at	at	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	7063	_
+10	driver	driver	_	NN	_	8	PMOD	7063	_
+11	of	of	_	IN	_	10	NMOD	7063	_
+12	a	a	_	DT	_	13	NMOD	7063	_
+13	car	car	_	NN	_	11	PMOD	7063	_
+14	on	on	_	IN	_	10	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	7065	_
+16	street	street	_	NN	_	14	PMOD	7065	_
+17	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,11 @@
+1	man	man	_	NN	_	0	ROOT	104025	_
+2	wearing	wear	_	VBG	_	1	APPO	_	_
+3	red	red	_	JJ	_	4	NMOD	104028	_
+4	jacket	jacket	_	NN	_	2	OBJ	104028	_
+5	running	run	_	VBG	_	2	OPRD	_	_
+6	next to	next to	_	IN	_	5	ADV	_	5
+7	frozen	freeze	_	VBN	_	8	NMOD	104027	_
+8	body	body	_	NN	_	6	PMOD	104027	_
+9	of	of	_	IN	_	8	NMOD	104027	_
+10	water	water	_	NN	_	9	PMOD	104027	_
+11	.	.	_	.	_	0	ROOT	_	_

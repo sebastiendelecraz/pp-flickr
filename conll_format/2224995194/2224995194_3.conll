@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	35177	_
+2	people	people	_	NN	_	3	SBJ	35177	_
+3	hang	hang	_	VBP	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	safety	safety	_	NN	_	6	NMOD	35181	_
+6	ropes	rope	_	NNS	_	4	PMOD	35181	_
+7	over	over	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	35180	_
+9	giant	giant	_	NN	_	10	NMOD	35180	_
+10	cliff	cliff	_	NN	_	7	PMOD	35180	_
+11	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	old	old	_	JJ	_	4	NMOD	159580	_
+4	buildings	building	_	NNS	_	2	PRD	159580	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	0	_
+7	distance	distance	_	NN	_	5	PMOD	0	_
+8	along	along	_	IN	_	7	LOC	_	2
+9	a	a	_	DT	_	11	NMOD	159576	_
+10	brick	brick	_	NN	_	11	NMOD	159576	_
+11	road	road	_	NN	_	8	PMOD	159576	_
+12	.	.	_	.	_	2	P	_	_

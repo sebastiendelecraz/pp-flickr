@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	114588	_
+2	skier	skier	_	NN	_	3	SBJ	114588	_
+3	jumps	jump	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	0	_
+6	air	air	_	NN	_	4	PMOD	0	_
+7	,	,	_	,	_	3	P	_	_
+8	next to	next to	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	11	NMOD	114589	_
+10	tall	tall	_	JJ	_	11	NMOD	114589	_
+11	tree	tree	_	NN	_	8	PMOD	114589	_
+12	,	,	_	,	_	3	P	_	_
+13	while	while	_	IN	_	3	ADV	_	_
+14	a	a	_	DT	_	15	NMOD	114587	_
+15	man	man	_	NN	_	16	SBJ	114587	_
+16	videotapes	videotape	_	VBZ	_	13	SUB	_	_
+17	him	him	_	PRP	_	16	OBJ	0	_
+18	.	.	_	.	_	3	P	_	_

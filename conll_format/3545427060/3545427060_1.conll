@@ -1,0 +1,12 @@
+1	These	these	_	DT	_	4	NMOD	126443	_
+2	three	three	_	CD	_	4	NMOD	126443	_
+3	young	young	_	JJ	_	4	NMOD	126443	_
+4	boys	boy	_	NNS	_	5	SBJ	126443	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	posing	pose	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	126444	_
+9	body	body	_	NN	_	7	PMOD	126444	_
+10	of	of	_	IN	_	9	NMOD	126444	_
+11	water	water	_	NN	_	10	PMOD	126444	_
+12	.	.	_	.	_	5	P	_	_

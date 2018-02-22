@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	14205	_
+2	woman	woman	_	NN	_	0	ROOT	14205	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	14206	_
+5	red	red	_	JJ	_	6	NMOD	14206	_
+6	jacket	jacket	_	NN	_	3	PMOD	14206	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	14209	_
+10	rock	rock	_	NN	_	8	PMOD	14209	_
+11	next to	next to	_	IN	_	2	NMOD	_	7
+12	a	a	_	DT	_	13	NMOD	14201	_
+13	woman	woman	_	NN	_	11	PMOD	14201	_
+14	crouching	crouch	_	VBG	_	13	APPO	_	_
+15	on	on	_	IN	_	14	ADV	_	_
+16	a	a	_	DT	_	17	NMOD	14207	_
+17	rock	rock	_	NN	_	15	PMOD	14207	_
+18	.	.	_	.	_	0	ROOT	_	_

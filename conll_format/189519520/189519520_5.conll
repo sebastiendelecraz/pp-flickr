@@ -1,0 +1,8 @@
+1	Watermelons	watermelon	_	NNS	_	0	ROOT	22808	_
+2	for	for	_	IN	_	1	NMOD	_	1
+3	sale	sale	_	NN	_	2	PMOD	22814	_
+4	in	in	_	IN	_	1	LOC	_	1
+5	a	a	_	DT	_	7	NMOD	22810	_
+6	asian	asian	_	JJ	_	7	NMOD	22810	_
+7	market	market	_	NN	_	4	PMOD	22810	_
+8	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	63173	_
+2	lady	lady	_	NN	_	3	SBJ	63173	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	63179	_
+6	building	building	_	NN	_	4	PMOD	63179	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	blue	blue	_	JJ	_	9	NMOD	63176	_
+9	jeans	jean	_	NNS	_	7	PMOD	63176	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	a	a	_	DT	_	13	NMOD	63175	_
+12	white	white	_	JJ	_	13	NMOD	63175	_
+13	shirt	shirt	_	NN	_	10	CONJ	63175	_
+14	.	.	_	.	_	0	ROOT	_	_

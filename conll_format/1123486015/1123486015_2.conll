@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	3206	_
+2	young	young	_	JJ	_	3	NMOD	3206	_
+3	man	man	_	NN	_	0	ROOT	3206	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	7	NMOD	3207	_
+6	dock	dock	_	NN	_	7	NMOD	3207	_
+7	fishing	fishing	_	NN	_	4	PMOD	_	_
+8	near	near	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	3208	_
+10	flag	flag	_	NN	_	8	PMOD	3208	_
+11	from	from	_	IN	_	7	NMOD	_	10
+12	France	France	_	NNP	_	11	PMOD	3211	_
+13	.	.	_	.	_	0	ROOT	_	_

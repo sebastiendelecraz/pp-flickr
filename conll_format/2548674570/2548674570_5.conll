@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	57390	_
+2	men	man	_	NNS	_	0	ROOT	57390	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	57383	_
+5	band	band	_	NN	_	6	NMOD	57383	_
+6	play	play	_	NN	_	3	PMOD	_	_
+7	at	at	_	IN	_	2	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	57388	_
+9	venue	venue	_	NN	_	7	PMOD	57388	_
+10	.	.	_	.	_	0	ROOT	_	_

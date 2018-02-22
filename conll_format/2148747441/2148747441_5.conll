@@ -1,0 +1,11 @@
+1	Man	Man	_	NNP	_	0	ROOT	31199	_
+2	working	work	_	VBG	_	0	ROOT	_	_
+3	behind	behind	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	31200	_
+5	watch	watch	_	NN	_	6	NMOD	31200	_
+6	repair	repair	_	NN	_	7	NMOD	31200	_
+7	booth	booth	_	NN	_	3	PMOD	31200	_
+8	on	on	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	31207	_
+10	street	street	_	NN	_	8	PMOD	31207	_
+11	.	.	_	.	_	0	ROOT	_	_

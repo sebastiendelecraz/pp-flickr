@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	239028	_
+2	men	man	_	NNS	_	0	ROOT	239028	_
+3	playing	play	_	VBG	_	2	APPO	_	_
+4	swinging	swing	_	VBG	_	3	OPRD	_	_
+5	hockey	hockey	_	NN	_	6	NMOD	239035	_
+6	pucks	puck	_	NNS	_	4	OBJ	239035	_
+7	at	at	_	IN	_	4	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	239029	_
+9	ball	ball	_	NN	_	7	PMOD	239029	_
+10	in	in	_	IN	_	4	LOC	_	_
+11	a	a	_	DT	_	12	NMOD	239030	_
+12	field	field	_	NN	_	10	PMOD	239030	_
+13	.	.	_	.	_	0	ROOT	_	_

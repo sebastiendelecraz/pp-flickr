@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	144969	_
+2	man	man	_	NN	_	10	SBJ	144969	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	144970	_
+5	red	red	_	JJ	_	6	NMOD	144970	_
+6	jacket	jacket	_	NN	_	3	PMOD	144970	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	white	white	_	JJ	_	9	NMOD	144973	_
+9	apron	apron	_	NN	_	7	CONJ	144973	_
+10	stands	stand	_	VBZ	_	0	ROOT	_	_
+11	in front of	in front of	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	15	NMOD	144971	_
+13	brightly	brightly	_	RB	_	14	AMOD	144971	_
+14	painted	paint	_	VBN	_	15	NMOD	144971	_
+15	wall	wall	_	NN	_	11	PMOD	144971	_
+16	with	with	_	IN	_	15	NMOD	_	_
+17	yellow	yellow	_	JJ	_	18	NMOD	144975	_
+18	lettering	lettering	_	NN	_	16	PMOD	144975	_
+19	.	.	_	.	_	10	P	_	_

@@ -1,0 +1,14 @@
+1	2	2	_	CD	_	2	NMOD	60230	_
+2	men	man	_	NNS	_	0	ROOT	60230	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	8	NMOD	60231	_
+5	busy	busy	_	JJ	_	8	NMOD	60231	_
+6	city	city	_	NN	_	7	NMOD	60231	_
+7	painting	painting	_	NN	_	8	NMOD	60231	_
+8	pictures	picture	_	NNS	_	3	PMOD	_	_
+9	with	with	_	IN	_	8	NMOD	_	7
+10	a	a	_	DT	_	11	NMOD	60232	_
+11	canvas	canvas	_	NN	_	9	PMOD	60232	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	easel	easel	_	NN	_	12	CONJ	60234	_
+14	.	.	_	.	_	0	ROOT	_	_

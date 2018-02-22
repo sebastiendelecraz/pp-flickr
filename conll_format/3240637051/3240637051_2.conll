@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	103503	_
+2	girl	girl	_	NN	_	3	SBJ	103503	_
+3	singing	sing	_	VBG	_	0	ROOT	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	playing	play	_	VBG	_	4	CONJ	_	_
+6	the	the	_	DT	_	7	NMOD	103504	_
+7	drums	drum	_	NNS	_	3	OBJ	103504	_
+8	for	for	_	IN	_	3	ADV	_	5
+9	the	the	_	DT	_	10	NMOD	103507	_
+10	people	people	_	NN	_	8	PMOD	103507	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	line	line	_	NN	_	11	PMOD	103512	_
+13	.	.	_	.	_	0	ROOT	_	_

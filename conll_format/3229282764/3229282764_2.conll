@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	102775	_
+2	little	little	_	JJ	_	3	NMOD	102775	_
+3	girl	girl	_	NN	_	4	SBJ	102775	_
+4	runs	run	_	VBZ	_	0	ROOT	_	_
+5	along	along	_	IN	_	4	ADV	_	4
+6	the	the	_	DT	_	7	NMOD	102777	_
+7	beach	beach	_	NN	_	5	PMOD	102777	_
+8	toward	toward	_	IN	_	7	NMOD	_	4
+9	a	a	_	DT	_	10	NMOD	102776	_
+10	man	man	_	NN	_	8	PMOD	102776	_
+11	who	who	_	WP	_	12	SBJ	0	_
+12	admires	admire	_	VBZ	_	10	NMOD	_	_
+13	the	the	_	DT	_	14	NMOD	102778	_
+14	sky	sky	_	NN	_	12	OBJ	102778	_
+15	.	.	_	.	_	4	P	_	_

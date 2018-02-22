@@ -1,0 +1,13 @@
+1	The	the	_	DT	_	2	NMOD	155992	_
+2	dog	dog	_	NN	_	3	SBJ	155992	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	DIR	_	3
+5	the	the	_	DT	_	6	NMOD	155997	_
+6	water	water	_	NN	_	4	PMOD	155997	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	155996	_
+9	stick	stick	_	NN	_	7	PMOD	155996	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	its	its	_	PRP$	_	12	NMOD	155998	_
+12	mouth	mouth	_	NN	_	10	PMOD	155998	_
+13	.	.	_	.	_	3	P	_	_

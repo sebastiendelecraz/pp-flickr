@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	253576	_
+2	young	young	_	JJ	_	3	NMOD	253576	_
+3	man	man	_	NN	_	0	ROOT	253576	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	running	run	_	VBG	_	4	OPRD	253580	_
+6	clothing	clothing	_	NN	_	7	NMOD	253580	_
+7	runs	run	_	NNS	_	5	OBJ	_	_
+8	through	through	_	IN	_	5	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	253577	_
+10	stream	stream	_	NN	_	8	PMOD	253577	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	253578	_
+13	forest	forest	_	NN	_	11	PMOD	253578	_
+14	.	.	_	.	_	0	ROOT	_	_

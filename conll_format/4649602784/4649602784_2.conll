@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	186645	_
+2	group	group	_	NN	_	0	ROOT	186645	_
+3	of	of	_	IN	_	2	NMOD	186645	_
+4	people	people	_	NN	_	3	PMOD	186645	_
+5	standing	stand	_	VBG	_	4	APPO	_	_
+6	outside	outside	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	186646	_
+8	building	building	_	NN	_	6	PMOD	186646	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	186655	_
+11	daytime	daytime	_	NN	_	9	PMOD	186655	_
+12	.	.	_	.	_	0	ROOT	_	_

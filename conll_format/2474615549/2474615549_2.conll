@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	52219	_
+2	man	man	_	NN	_	8	NMOD	52219	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	52221	_
+5	fist	fist	_	NN	_	6	NMOD	52221	_
+6	shares	share	_	NNS	_	3	PMOD	_	_
+7	his	his	_	PRP$	_	8	NMOD	52225	_
+8	ego	ego	_	NN	_	0	ROOT	52225	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	another	another	_	DT	_	11	NMOD	52222	_
+11	man	man	_	NN	_	9	PMOD	52222	_
+12	in	in	_	IN	_	8	LOC	_	11
+13	a	a	_	DT	_	15	NMOD	52220	_
+14	brown	brown	_	JJ	_	15	NMOD	52220	_
+15	shirt	shirt	_	NN	_	12	PMOD	52220	_
+16	.	.	_	.	_	0	ROOT	_	_

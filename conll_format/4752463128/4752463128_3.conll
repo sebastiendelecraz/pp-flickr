@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	198750	_
+2	group	group	_	NN	_	0	ROOT	198750	_
+3	of	of	_	IN	_	2	NMOD	198750	_
+4	people	people	_	NN	_	3	PMOD	198750	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	an	an	_	DT	_	7	NMOD	198752	_
+7	office	office	_	NN	_	5	PMOD	198752	_
+8	setting	set	_	VBG	_	7	APPO	_	_
+9	sitting	sit	_	VBG	_	8	OPRD	_	_
+10	in	in	_	IN	_	9	LOC	_	9
+11	a	a	_	DT	_	12	NMOD	198751	_
+12	circle	circle	_	NN	_	10	PMOD	198751	_
+13	.	.	_	.	_	0	ROOT	_	_

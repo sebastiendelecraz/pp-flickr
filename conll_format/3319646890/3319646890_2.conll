@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	SBJ	109114	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	109115	_
+5	field	field	_	NN	_	3	PMOD	109115	_
+6	with	with	_	IN	_	2	ADV	_	_
+7	helmets	helmet	_	NNS	_	6	PMOD	109116	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	.	.	_	.	_	2	P	_	_

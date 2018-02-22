@@ -1,0 +1,8 @@
+1	Tourists	tourist	_	NNS	_	2	SBJ	157195	_
+2	wandering	wander	_	VBG	_	0	ROOT	_	_
+3	in front of	in front of	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	157196	_
+5	building	building	_	NN	_	3	PMOD	157196	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	pillars	pillar	_	NNS	_	6	PMOD	157202	_
+8	.	.	_	.	_	0	ROOT	_	_

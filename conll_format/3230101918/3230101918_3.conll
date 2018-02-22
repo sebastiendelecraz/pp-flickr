@@ -1,0 +1,12 @@
+1	Hockey	Hockey	_	NNP	_	2	NMOD	102837	_
+2	player	player	_	NN	_	0	ROOT	102837	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	6	NMOD	102841	_
+5	uniform	uniform	_	NN	_	6	NMOD	102841	_
+6	drinking	drinking	_	NN	_	3	PMOD	_	_
+7	from	from	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	11	NMOD	102839	_
+9	green	green	_	JJ	_	11	NMOD	102839	_
+10	water	water	_	NN	_	11	NMOD	102839	_
+11	bottle	bottle	_	NN	_	7	PMOD	102839	_
+12	.	.	_	.	_	0	ROOT	_	_

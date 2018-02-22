@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	171736	_
+2	worker	worker	_	NN	_	3	SBJ	171736	_
+3	makes	make	_	VBZ	_	0	ROOT	_	_
+4	repairs	repair	_	NNS	_	3	OBJ	171743	_
+5	in	in	_	IN	_	3	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	171737	_
+7	wheel	wheel	_	NN	_	5	PMOD	171737	_
+8	of	of	_	IN	_	7	NMOD	171737	7
+9	a	a	_	DT	_	10	NMOD	171737	_
+10	bulldozer	bulldozer	_	NN	_	8	PMOD	171737	_
+11	during	during	_	IN	_	3	TMP	_	3
+12	winter	winter	_	NN	_	11	PMOD	171744	_
+13	.	.	_	.	_	3	P	_	_

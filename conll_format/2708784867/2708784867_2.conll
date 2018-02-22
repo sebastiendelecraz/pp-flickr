@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	67778	_
+2	man	man	_	NN	_	7	SBJ	67778	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	67780	_
+5	cowboy	cowboy	_	NN	_	6	NMOD	67780	_
+6	hat	hat	_	NN	_	3	PMOD	67780	_
+7	leans	lean	_	VBZ	_	0	ROOT	_	_
+8	backwards	backwards	_	RB	_	9	PMOD	67782	_
+9	on	on	_	IN	_	7	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	67781	_
+11	back	back	_	NN	_	9	PMOD	67781	_
+12	of	of	_	IN	_	11	NMOD	67781	_
+13	a	a	_	DT	_	15	NMOD	67781	_
+14	rearing	rear	_	VBG	_	15	NMOD	67781	_
+15	horse	horse	_	NN	_	12	PMOD	67781	_
+16	.	.	_	.	_	7	P	_	_

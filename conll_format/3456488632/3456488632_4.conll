@@ -1,0 +1,11 @@
+1	Man	Man	_	NNP	_	4	SBJ	119530	_
+2	and	and	_	CC	_	1	COORD	_	_
+3	woman	woman	_	VB	_	2	CONJ	119529	_
+4	kissing	kiss	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	sidewalk	sidewalk	_	NN	_	5	PMOD	119532	_
+7	next to	next to	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	10	NMOD	119531	_
+9	parked	park	_	VBN	_	10	NMOD	119531	_
+10	car	car	_	NN	_	7	PMOD	119531	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	94494	_
+2	man	man	_	NN	_	3	SBJ	94494	_
+3	blows	blow	_	VBZ	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	ADV	_	3
+5	an	an	_	DT	_	7	NMOD	94499	_
+6	electrical	electrical	_	JJ	_	7	NMOD	94499	_
+7	instrument	instrument	_	NN	_	4	PMOD	94499	_
+8	by	by	_	IN	_	3	MNR	_	3
+9	a	a	_	DT	_	10	NMOD	94502	_
+10	microphone	microphone	_	NN	_	8	PMOD	94502	_
+11	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	205195	_
+2	man	man	_	NN	_	3	SBJ	205195	_
+3	waiting	wait	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	205186	_
+6	subway	subway	_	NN	_	4	PMOD	205186	_
+7	for	for	_	IN	_	6	NMOD	_	3
+8	the	the	_	DT	_	9	NMOD	205198	_
+9	train	train	_	NN	_	7	PMOD	205198	_
+10	.	.	_	.	_	0	ROOT	_	_

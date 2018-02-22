@@ -1,0 +1,13 @@
+1	An	an	_	DT	_	3	NMOD	187227	_
+2	old	old	_	JJ	_	3	NMOD	187227	_
+3	man	man	_	NN	_	0	ROOT	187227	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	lady	lady	_	NN	_	4	CONJ	187231	_
+6	on	on	_	IN	_	3	NMOD	_	_
+7	grass	grass	_	NN	_	6	PMOD	187230	_
+8	in between	in between	_	IN	_	3	NMOD	_	5
+9	rows	row	_	NNS	_	8	PMOD	187228	_
+10	of	of	_	IN	_	9	NMOD	187228	_
+11	American	American	_	JJ	_	12	NMOD	187228	_
+12	flags	flag	_	NNS	_	10	PMOD	187228	_
+13	.	.	_	.	_	0	ROOT	_	_

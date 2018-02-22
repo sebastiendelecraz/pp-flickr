@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	51129	_
+2	boy	boy	_	NN	_	3	SBJ	51129	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	51131	_
+6	football	football	_	NN	_	7	NMOD	51131	_
+7	field	field	_	NN	_	4	PMOD	51131	_
+8	with	with	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	11	NMOD	51130	_
+10	colored	color	_	VBN	_	11	NMOD	51130	_
+11	ball	ball	_	NN	_	8	PMOD	51130	_
+12	.	.	_	.	_	0	ROOT	_	_

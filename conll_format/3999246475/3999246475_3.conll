@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	151398	_
+2	group	group	_	NN	_	0	ROOT	151398	_
+3	of	of	_	IN	_	2	NMOD	151398	_
+4	people	people	_	NN	_	3	PMOD	151398	_
+5	standing	stand	_	VBG	_	4	APPO	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	151404	_
+8	sidewalk	sidewalk	_	NN	_	6	PMOD	151404	_
+9	under	under	_	IN	_	5	LOC	_	5
+10	some	some	_	DT	_	11	NMOD	151406	_
+11	trees	tree	_	NNS	_	9	PMOD	151406	_
+12	.	.	_	.	_	0	ROOT	_	_

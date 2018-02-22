@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	212385	_
+2	girl	girl	_	NN	_	7	SBJ	212385	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	212386	_
+5	black	black	_	JJ	_	6	NMOD	212386	_
+6	dress	dress	_	NN	_	3	PMOD	212386	_
+7	looks	look	_	VBZ	_	0	ROOT	_	_
+8	at	at	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	212387	_
+10	cellphone	cellphone	_	NN	_	8	PMOD	212387	_
+11	next to	next to	_	IN	_	7	ADV	_	7
+12	a	a	_	DT	_	15	NMOD	212388	_
+13	small	small	_	JJ	_	15	NMOD	212388	_
+14	orange	orange	_	JJ	_	15	NMOD	212388	_
+15	dog	dog	_	NN	_	11	PMOD	212388	_
+16	.	.	_	.	_	7	P	_	_

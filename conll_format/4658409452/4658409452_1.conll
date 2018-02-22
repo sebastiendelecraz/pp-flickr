@@ -1,0 +1,21 @@
+1	An	an	_	DT	_	8	NMOD	187715	_
+2	old	old	_	JJ	_	8	NMOD	187715	_
+3	gray-haired	gray-haired	_	JJ	_	8	NMOD	187715	_
+4	balding	bald	_	VBG	_	8	NMOD	187715	_
+5	old	old	_	JJ	_	6	NMOD	187715	_
+6	man	man	_	NN	_	4	OBJ	187715	_
+7	wearing	wear	_	VBG	_	8	NMOD	_	_
+8	glasses	glass	_	NNS	_	9	SBJ	187720	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	looking	look	_	VBG	_	9	VC	_	_
+11	sideways	sideways	_	RB	_	10	MNR	_	_
+12	in front of	in front of	_	IN	_	10	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	187716	_
+14	van	van	_	NN	_	12	PMOD	187716	_
+15	with	with	_	IN	_	14	NMOD	_	14
+16	a	a	_	DT	_	18	NMOD	187718	_
+17	blue	blue	_	JJ	_	18	NMOD	187718	_
+18	bar	bar	_	NN	_	15	PMOD	187718	_
+19	on	on	_	IN	_	18	NMOD	_	_
+20	top	top	_	JJ	_	19	PMOD	187721	_
+21	.	.	_	.	_	9	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	273291	_
+2	person	person	_	NN	_	7	SBJ	273291	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	273293	_
+5	blue	blue	_	JJ	_	6	NMOD	273293	_
+6	shirt	shirt	_	NN	_	3	PMOD	273293	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	paddling	paddle	_	VBG	_	7	VC	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	273297	_
+11	kayak	kayak	_	NN	_	9	PMOD	273297	_
+12	through	through	_	IN	_	8	TMP	_	8
+13	rapids	rapid	_	NNS	_	12	PMOD	273292	_
+14	.	.	_	.	_	7	P	_	_

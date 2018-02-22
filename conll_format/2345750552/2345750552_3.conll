@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	43143	_
+2	girl	girl	_	NN	_	0	ROOT	43143	_
+3	lowering	lower	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	43145	_
+5	blue	blue	_	JJ	_	6	NMOD	43145	_
+6	container	container	_	NN	_	3	OBJ	43145	_
+7	from	from	_	IN	_	6	NMOD	_	3
+8	a	a	_	DT	_	10	NMOD	43150	_
+9	high	high	_	JJ	_	10	NMOD	43150	_
+10	location	location	_	NN	_	7	PMOD	43150	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	a	a	_	DT	_	13	NMOD	43148	_
+13	rope	rope	_	NN	_	11	PMOD	43148	_
+14	.	.	_	.	_	0	ROOT	_	_

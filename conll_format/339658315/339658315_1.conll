@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	115323	_
+2	women	woman	_	NNS	_	0	ROOT	115323	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	115330	_
+5	baby	baby	_	NN	_	6	NMOD	115330	_
+6	carriage	carriage	_	NN	_	3	PMOD	115330	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	115326	_
+9	building	building	_	NN	_	7	PMOD	115326	_
+10	next to	next to	_	IN	_	2	NMOD	_	2
+11	a	a	_	DT	_	12	NMOD	115327	_
+12	table	table	_	NN	_	10	PMOD	115327	_
+13	and	and	_	CC	_	2	COORD	_	_
+14	chairs	chair	_	VBZ	_	13	CONJ	115328	_
+15	.	.	_	.	_	0	ROOT	_	_

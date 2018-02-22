@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	83720	_
+2	group	group	_	NN	_	5	SBJ	83720	_
+3	of	of	_	IN	_	2	NMOD	83720	_
+4	people	people	_	NN	_	3	PMOD	83720	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	walking	walk	_	VBG	_	5	VC	_	_
+7	through	through	_	IN	_	6	DIR	_	6
+8	a	a	_	DT	_	9	NMOD	83722	_
+9	bunch	bunch	_	NN	_	7	PMOD	83722	_
+10	of	of	_	IN	_	9	NMOD	83722	_
+11	leaves	leaf	_	NNS	_	10	PMOD	83722	_
+12	.	.	_	.	_	5	P	_	_

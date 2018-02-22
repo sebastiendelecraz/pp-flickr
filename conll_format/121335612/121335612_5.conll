@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	5353	_
+2	man	man	_	NN	_	0	ROOT	5353	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	5360	_
+5	yellow	yellow	_	JJ	_	6	NMOD	5360	_
+6	jumpsuit	jumpsuit	_	NN	_	3	PMOD	5360	_
+7	rowing	row	_	VBG	_	6	APPO	_	_
+8	a	a	_	DT	_	9	NMOD	5357	_
+9	boat	boat	_	NN	_	7	OBJ	5357	_
+10	with	with	_	IN	_	7	ADV	_	7
+11	a	a	_	DT	_	12	NMOD	5355	_
+12	bird	bird	_	NN	_	10	PMOD	5355	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	front	front	_	NN	_	13	PMOD	5361	_
+15	.	.	_	.	_	0	ROOT	_	_

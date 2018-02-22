@@ -1,0 +1,16 @@
+1	Young	Young	_	NNP	_	2	NMOD	189997	_
+2	people	people	_	NN	_	3	SBJ	189997	_
+3	walk	walk	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	190000	_
+6	street	street	_	NN	_	4	PMOD	190000	_
+7	outside of	outside of	_	IN	_	3	LOC	_	3
+8	an	an	_	DT	_	10	NMOD	189999	_
+9	apartment	apartment	_	NN	_	10	NMOD	189999	_
+10	building	building	_	NN	_	7	PMOD	189999	_
+11	called	call	_	VBD	_	0	ROOT	_	_
+12	"	"	_	CD	_	15	NMOD	189998	_
+13	Love	Love	_	NNP	_	14	NAME	189998	_
+14	Story	Story	_	NNP	_	15	NMOD	189998	_
+15	"	"	_	CD	_	11	OPRD	_	_
+16	.	.	_	.	_	11	P	_	_

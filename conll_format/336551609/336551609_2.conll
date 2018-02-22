@@ -1,0 +1,13 @@
+1	Someone	someone	_	NN	_	2	SBJ	113156	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	walking	walk	_	VBG	_	2	VC	_	_
+4	through	through	_	IN	_	3	DIR	_	3
+5	the	the	_	DT	_	6	NMOD	113158	_
+6	snow	snow	_	NN	_	4	PMOD	113158	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	snow	snow	_	NN	_	10	NMOD	113157	_
+9	covered	cover	_	VBN	_	10	NMOD	113157	_
+10	mountains	mountain	_	NNS	_	7	PMOD	113157	_
+11	behind	behind	_	IN	_	10	LOC	_	_
+12	them	them	_	PRP	_	11	PMOD	0	_
+13	.	.	_	.	_	2	P	_	_

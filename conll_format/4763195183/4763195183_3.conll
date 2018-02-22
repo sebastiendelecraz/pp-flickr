@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	200339	_
+2	woman	woman	_	NN	_	12	SBJ	200339	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	black	black	_	JJ	_	4	PMOD	200340	_
+6	,	,	_	,	_	12	P	_	_
+7	with	with	_	IN	_	12	ADV	_	_
+8	her	her	_	PRP$	_	9	NMOD	200342	_
+9	hair	hair	_	NN	_	7	PMOD	200342	_
+10	up	up	_	RP	_	7	PRT	_	_
+11	,	,	_	,	_	12	P	_	_
+12	squats	squat	_	VBZ	_	0	ROOT	200349	_
+13	next to	next to	_	IN	_	12	ADV	_	12
+14	her	her	_	PRP$	_	15	NMOD	200343	_
+15	luggage	luggage	_	NN	_	13	PMOD	200343	_
+16	to	to	_	TO	_	0	ROOT	_	_
+17	send	send	_	VB	_	16	IM	_	_
+18	a	a	_	DT	_	20	NMOD	200346	_
+19	text	text	_	NN	_	20	NMOD	200346	_
+20	message	message	_	NN	_	17	OBJ	200346	_
+21	.	.	_	.	_	0	ROOT	_	_

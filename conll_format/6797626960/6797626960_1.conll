@@ -1,0 +1,31 @@
+1	A	a	_	DT	_	3	NMOD	258262	_
+2	teenage	teenage	_	JJ	_	3	NMOD	258262	_
+3	boy	boy	_	NN	_	0	ROOT	258262	_
+4	who	who	_	WP	_	5	SBJ	0	_
+5	is	be	_	VBZ	_	3	NMOD	_	_
+6	wearing	wear	_	VBG	_	5	VC	_	_
+7	red	red	_	JJ	_	10	SBJ	258271	_
+8	and	and	_	CC	_	7	COORD	258271	_
+9	black	black	_	JJ	_	8	CONJ	258271	_
+10	is	be	_	VBZ	_	6	OBJ	_	_
+11	jumping	jump	_	VBG	_	10	VC	_	_
+12	up to	up to	_	RP	_	11	PRT	_	_
+13	knock	knock	_	NN	_	11	OBJ	_	_
+14	a	a	_	DT	_	15	NMOD	258263	_
+15	basketball	basketball	_	NN	_	11	OBJ	258263	_
+16	out of	out of	_	IN	_	11	ADV	_	13
+17	the	the	_	DT	_	18	NMOD	258272	_
+18	hand	hand	_	NN	_	16	PMOD	258272	_
+19	of	of	_	IN	_	18	NMOD	258272	_
+20	a	a	_	DT	_	22	NMOD	258272	_
+21	teenage	teenage	_	JJ	_	22	NMOD	258272	_
+22	boy	boy	_	NN	_	19	PMOD	258272	_
+23	wearing	wear	_	VBG	_	22	APPO	_	_
+24	white	white	_	JJ	_	23	OBJ	258273	_
+25	and	and	_	CC	_	24	COORD	258273	_
+26	orange	orange	_	JJ	_	25	CONJ	258273	_
+27	while	while	_	IN	_	23	TMP	_	_
+28	a	a	_	DT	_	29	NMOD	258268	_
+29	crowd	crowd	_	NN	_	30	SBJ	258268	_
+30	watches	watch	_	VBZ	_	27	SUB	_	_
+31	.	.	_	.	_	0	ROOT	_	_

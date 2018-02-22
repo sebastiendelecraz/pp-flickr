@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	5489	_
+2	group	group	_	NN	_	0	ROOT	5489	_
+3	of	of	_	IN	_	2	NMOD	5489	_
+4	people	people	_	NN	_	3	PMOD	5489	_
+5	walking	walk	_	VBG	_	4	APPO	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	5493	_
+8	snow	snow	_	NN	_	6	PMOD	5493	_
+9	near	near	_	IN	_	8	LOC	_	5
+10	a	a	_	DT	_	11	NMOD	5492	_
+11	bridge	bridge	_	NN	_	9	PMOD	5492	_
+12	.	.	_	.	_	0	ROOT	_	_

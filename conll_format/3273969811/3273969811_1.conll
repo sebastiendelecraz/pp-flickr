@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	4	NMOD	106129	_
+2	large	large	_	JJ	_	4	NMOD	106129	_
+3	white	white	_	JJ	_	4	NMOD	106129	_
+4	crane	crane	_	NN	_	5	SBJ	106129	_
+5	flying	fly	_	VBG	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	0	_
+8	air	air	_	NN	_	6	PMOD	0	_
+9	over	over	_	IN	_	5	TMP	_	5
+10	the	the	_	DT	_	11	NMOD	106132	_
+11	water	water	_	NN	_	9	PMOD	106132	_
+12	.	.	_	.	_	0	ROOT	_	_

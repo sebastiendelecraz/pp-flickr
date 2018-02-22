@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	84255	_
+2	man	man	_	NN	_	0	ROOT	84255	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	84253	_
+5	boy	boy	_	NN	_	3	CONJ	84253	_
+6	standing	stand	_	VBG	_	5	APPO	_	_
+7	around	around	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	84254	_
+9	bunch	bunch	_	NN	_	7	PMOD	84254	_
+10	of	of	_	IN	_	9	NMOD	84254	_
+11	pigeons	pigeon	_	NNS	_	10	PMOD	84254	_
+12	.	.	_	.	_	0	ROOT	_	_

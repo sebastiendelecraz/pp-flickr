@@ -1,0 +1,11 @@
+1	An	an	_	DT	_	2	NMOD	133483	_
+2	adult	adult	_	NN	_	0	ROOT	133483	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	133488	_
+5	child	child	_	NN	_	3	CONJ	133488	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	bleachers	bleacher	_	NNS	_	6	PMOD	133487	_
+8	near	near	_	IN	_	7	LOC	_	5
+9	the	the	_	DT	_	10	NMOD	133486	_
+10	water	water	_	NN	_	8	PMOD	133486	_
+11	.	.	_	.	_	0	ROOT	_	_

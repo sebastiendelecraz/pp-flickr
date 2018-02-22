@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	210658	_
+2	group	group	_	NN	_	0	ROOT	210658	_
+3	of	of	_	IN	_	2	NMOD	210658	_
+4	people	people	_	NN	_	3	PMOD	210658	_
+5	walking	walk	_	VBG	_	4	APPO	_	_
+6	towards	towards	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	0	_
+8	camera	camera	_	NN	_	6	PMOD	0	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	a	a	_	DT	_	11	NMOD	210662	_
+11	man	man	_	NN	_	9	CONJ	210662	_
+12	in	in	_	IN	_	5	LOC	_	11
+13	a	a	_	DT	_	16	NMOD	210663	_
+14	dark	dark	_	JJ	_	16	NMOD	210663	_
+15	blue	blue	_	JJ	_	16	NMOD	210663	_
+16	shirt	shirt	_	NN	_	12	PMOD	210663	_
+17	facing	face	_	VBG	_	16	APPO	_	_
+18	away from	away from	_	IN	_	17	ADV	_	17
+19	the	the	_	DT	_	20	NMOD	0	_
+20	camera	camera	_	NN	_	18	PMOD	0	_
+21	on	on	_	IN	_	17	LOC	_	_
+22	the	the	_	DT	_	24	NMOD	0	_
+23	right	right	_	NN	_	24	NMOD	0	_
+24	side	side	_	NN	_	21	PMOD	0	_
+25	.	.	_	.	_	0	ROOT	_	_

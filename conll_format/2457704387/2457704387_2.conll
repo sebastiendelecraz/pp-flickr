@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	51007	_
+2	band	band	_	NN	_	3	SBJ	51007	_
+3	plays	play	_	VBZ	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	51015	_
+6	crowd	crowd	_	NN	_	4	PMOD	51015	_
+7	at	at	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	11	NMOD	51017	_
+9	Euro	Euro	_	NNP	_	10	NAME	51017	_
+10	Jazz	Jazz	_	NNP	_	11	NMOD	51017	_
+11	concert	concert	_	NN	_	7	PMOD	51017	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	Little	Little	_	NNP	_	2	NMOD	141007	_
+2	kid	kid	_	NN	_	3	SBJ	141007	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	taking	take	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	141010	_
+6	bit	bit	_	NN	_	4	OBJ	141010	_
+7	of	of	_	IN	_	6	NMOD	141010	_
+8	something	something	_	NN	_	7	PMOD	141010	_
+9	from	from	_	IN	_	8	NMOD	_	4
+10	a	a	_	DT	_	11	NMOD	141011	_
+11	puppet	puppet	_	NN	_	9	PMOD	141011	_
+12	.	.	_	.	_	3	P	_	_

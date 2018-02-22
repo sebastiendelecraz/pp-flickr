@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	41769	_
+2	closeup	closeup	_	NN	_	0	ROOT	41769	_
+3	of	of	_	IN	_	2	NMOD	41769	2
+4	a	a	_	DT	_	6	NMOD	41769	_
+5	black	black	_	JJ	_	6	NMOD	41769	_
+6	dog	dog	_	NN	_	3	PMOD	41769	_
+7	sitting	sit	_	VBG	_	6	APPO	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	41770	_
+10	doll	doll	_	NN	_	8	PMOD	41770	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	a	a	_	DT	_	13	NMOD	41770	_
+13	toy	toy	_	NN	_	11	CONJ	41770	_
+14	next to	next to	_	IN	_	7	LOC	_	7
+15	a	a	_	DT	_	16	NMOD	41771	_
+16	fireplace	fireplace	_	NN	_	14	PMOD	41771	_
+17	.	.	_	.	_	0	ROOT	_	_

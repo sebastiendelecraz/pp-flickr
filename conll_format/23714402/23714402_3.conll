@@ -1,0 +1,14 @@
+1	People	People	_	NNPS	_	2	NAME	44668	_
+2	standing	stand	_	VBG	_	10	SBJ	_	_
+3	outside	outside	_	IN	_	2	LOC	_	2
+4	an	an	_	DT	_	5	NMOD	44670	_
+5	airplane	airplane	_	NN	_	3	PMOD	44670	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	Native	Native	_	NNP	_	8	NAME	44667	_
+8	American	American	_	NNP	_	9	NMOD	44667	_
+9	art	art	_	NN	_	6	PMOD	44667	_
+10	painted	paint	_	VBD	_	0	ROOT	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	the	the	_	DT	_	13	NMOD	44671	_
+13	tail	tail	_	NN	_	11	PMOD	44671	_
+14	.	.	_	.	_	10	P	_	_

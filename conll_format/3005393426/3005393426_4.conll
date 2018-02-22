@@ -1,0 +1,14 @@
+1	People	People	_	NNPS	_	2	NMOD	86802	_
+2	shopping	shopping	_	NN	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	NMOD	_	2
+4	clothes	clothes	_	NNS	_	3	PMOD	86809	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	86804	_
+7	large	large	_	JJ	_	8	NMOD	86804	_
+8	room	room	_	NN	_	5	PMOD	86804	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	windows	window	_	NNS	_	9	PMOD	86808	_
+11	on	on	_	IN	_	8	NMOD	_	_
+12	the	the	_	DT	_	13	NMOD	86813	_
+13	ceiling	ceiling	_	NN	_	11	PMOD	86813	_
+14	.	.	_	.	_	0	ROOT	_	_

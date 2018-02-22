@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	25963	_
+2	kid	kid	_	NN	_	0	ROOT	25963	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	orange	orange	_	JJ	_	5	NMOD	25965	_
+5	plays	play	_	NNS	_	3	PMOD	_	_
+6	with	with	_	IN	_	2	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	25964	_
+8	ball	ball	_	NN	_	6	PMOD	25964	_
+9	of	of	_	IN	_	8	NMOD	25964	_
+10	snow	snow	_	NN	_	9	PMOD	25964	_
+11	outside	outside	_	IN	_	8	LOC	25964	_
+12	.	.	_	.	_	0	ROOT	_	_

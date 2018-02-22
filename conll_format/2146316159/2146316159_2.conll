@@ -1,0 +1,25 @@
+1	2	2	_	CD	_	2	NMOD	31029	_
+2	guys	guy	_	NNS	_	17	NMOD	31029	_
+3	facing	face	_	VBG	_	2	APPO	_	_
+4	away from	away from	_	IN	_	3	ADV	_	3
+5	camera	camera	_	NN	_	4	PMOD	31033	_
+6	,	,	_	,	_	17	P	_	_
+7	1	1	_	CD	_	8	NMOD	31024	_
+8	girl	girl	_	NN	_	17	NMOD	31024	_
+9	smiling	smile	_	VBG	_	8	APPO	_	_
+10	at	at	_	IN	_	9	ADV	_	_
+11	camera	camera	_	NN	_	10	PMOD	31034	_
+12	with	with	_	IN	_	9	ADV	_	8
+13	blue	blue	_	JJ	_	14	NMOD	31032	_
+14	shirt	shirt	_	NN	_	12	PMOD	31032	_
+15	,	,	_	,	_	8	P	_	_
+16	1	1	_	CD	_	17	NMOD	31025	_
+17	guy	guy	_	NN	_	0	ROOT	31025	_
+18	with	with	_	IN	_	17	NMOD	_	17
+19	a	a	_	DT	_	20	NMOD	31027	_
+20	beverage	beverage	_	NN	_	18	PMOD	31027	_
+21	with	with	_	IN	_	17	NMOD	_	_
+22	a	a	_	DT	_	23	NMOD	31031	_
+23	jacket	jacket	_	NN	_	21	PMOD	31031	_
+24	on	on	_	IN	_	23	NMOD	_	_
+25	.	.	_	.	_	0	ROOT	_	_

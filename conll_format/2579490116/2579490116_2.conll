@@ -1,0 +1,10 @@
+1	Furniture	Furniture	_	NNP	_	2	SBJ	59349	_
+2	sits	sit	_	VBZ	_	0	ROOT	_	_
+3	inside of	inside of	_	IN	_	2	ADV	59344	2
+4	a	a	_	DT	_	6	NMOD	59344	_
+5	moving	move	_	VBG	_	6	NMOD	59344	_
+6	truck	truck	_	NN	_	3	PMOD	59344	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	59348	_
+9	ramp	ramp	_	NN	_	7	PMOD	59348	_
+10	.	.	_	.	_	2	P	_	_

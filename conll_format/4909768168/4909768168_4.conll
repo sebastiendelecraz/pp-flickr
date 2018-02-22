@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	217233	_
+2	group	group	_	NN	_	5	SBJ	217233	_
+3	of	of	_	IN	_	2	NMOD	217233	_
+4	people	people	_	NN	_	3	PMOD	217233	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	sitting	sit	_	VBG	_	5	VC	_	_
+7	on	on	_	IN	_	6	LOC	_	_
+8	benches	bench	_	NNS	_	7	PMOD	217234	_
+9	outside	outside	_	IN	_	8	LOC	_	6
+10	a	a	_	DT	_	11	NMOD	217235	_
+11	store	store	_	NN	_	9	PMOD	217235	_
+12	.	.	_	.	_	5	P	_	_

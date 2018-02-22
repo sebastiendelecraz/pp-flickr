@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	76281	_
+2	young	young	_	JJ	_	3	NMOD	76281	_
+3	boy	boy	_	NN	_	0	ROOT	76281	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	an	an	_	DT	_	7	NMOD	76280	_
+6	older	old	_	JJR	_	7	NMOD	76280	_
+7	woman	woman	_	NN	_	4	CONJ	76280	_
+8	sitting	sit	_	VBG	_	7	APPO	_	_
+9	at	at	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	12	NMOD	76282	_
+11	brown	brown	_	JJ	_	12	NMOD	76282	_
+12	table	table	_	NN	_	9	PMOD	76282	_
+13	in	in	_	IN	_	8	LOC	_	8
+14	a	a	_	DT	_	16	NMOD	76288	_
+15	blue	blue	_	JJ	_	16	NMOD	76288	_
+16	room	room	_	NN	_	13	PMOD	76288	_
+17	.	.	_	.	_	0	ROOT	_	_

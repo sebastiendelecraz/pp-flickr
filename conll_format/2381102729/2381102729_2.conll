@@ -1,0 +1,10 @@
+1	White	White	_	NNP	_	2	NMOD	45322	_
+2	dog	dog	_	NN	_	3	SBJ	45322	_
+3	leaping	leap	_	VBG	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	7	NMOD	45323	_
+6	small	small	_	JJ	_	7	NMOD	45323	_
+7	body	body	_	NN	_	4	PMOD	45323	_
+8	of	of	_	IN	_	7	NMOD	45323	_
+9	water	water	_	NN	_	8	PMOD	45323	_
+10	.	.	_	.	_	0	ROOT	_	_

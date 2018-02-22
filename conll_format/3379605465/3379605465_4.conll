@@ -1,0 +1,12 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	114251	_
+4	man	man	_	NN	_	2	SBJ	114251	_
+5	hanging	hang	_	VBG	_	4	APPO	_	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	0	_
+8	air	air	_	NN	_	6	PMOD	0	_
+9	from	from	_	IN	_	5	DIR	_	5
+10	a	a	_	DT	_	11	NMOD	114256	_
+11	pole	pole	_	NN	_	9	PMOD	114256	_
+12	.	.	_	.	_	2	P	_	_

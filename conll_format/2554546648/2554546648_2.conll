@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	57777	_
+2	guitarist	guitarist	_	NN	_	3	SBJ	57777	_
+3	plays	play	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	money	money	_	NN	_	4	PMOD	57781	_
+6	on	on	_	IN	_	3	LOC	_	_
+7	the	the	_	DT	_	9	NMOD	57779	_
+8	street	street	_	NN	_	9	NMOD	57779	_
+9	corner	corner	_	NN	_	6	PMOD	57779	_
+10	while	while	_	IN	_	3	ADV	_	_
+11	sitting	sit	_	VBG	_	10	SUB	_	_
+12	.	.	_	.	_	3	P	_	_

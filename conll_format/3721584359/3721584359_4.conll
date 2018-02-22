@@ -1,0 +1,9 @@
+1	Men	Men	_	NNPS	_	2	NAME	139466	_
+2	looking	look	_	VBG	_	0	ROOT	_	_
+3	under	under	_	IN	_	2	ADV	_	2
+4	the	the	_	DT	_	5	NMOD	139474	_
+5	hood	hood	_	NN	_	3	PMOD	139474	_
+6	of	of	_	IN	_	5	NMOD	139474	_
+7	a	a	_	DT	_	8	NMOD	139474	_
+8	dragster	dragster	_	NN	_	6	PMOD	139474	_
+9	.	.	_	.	_	0	ROOT	_	_

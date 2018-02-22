@@ -1,0 +1,12 @@
+1	An	an	_	DT	_	3	NMOD	261888	_
+2	ethnic	ethnic	_	JJ	_	3	NMOD	261888	_
+3	couple	couple	_	NN	_	4	SBJ	261888	_
+4	poses	pose	_	VBZ	_	0	ROOT	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	261906	_
+7	photograph	photograph	_	NN	_	5	PMOD	261906	_
+8	during	during	_	IN	_	4	TMP	_	4
+9	their	their	_	PRP$	_	11	NMOD	261902	_
+10	marriage	marriage	_	NN	_	11	NMOD	261902	_
+11	ceremony	ceremony	_	NN	_	8	PMOD	261902	_
+12	.	.	_	.	_	4	P	_	_

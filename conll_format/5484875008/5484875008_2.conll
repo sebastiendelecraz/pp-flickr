@@ -1,0 +1,16 @@
+1	person	person	_	NN	_	0	ROOT	237339	_
+2	wearing	wear	_	VBG	_	1	APPO	_	_
+3	a	a	_	DT	_	5	NMOD	237340	_
+4	purple	purple	_	NN	_	5	NMOD	237340	_
+5	coat	coat	_	NN	_	2	OBJ	237340	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	237342	_
+9	snow	snow	_	NN	_	7	PMOD	237342	_
+10	under	under	_	IN	_	6	LOC	_	6
+11	a	a	_	DT	_	12	NMOD	237343	_
+12	tree	tree	_	NN	_	10	PMOD	237343	_
+13	eating	eat	_	VBG	_	12	APPO	_	_
+14	a	a	_	DT	_	15	NMOD	237341	_
+15	sandwich	sandwich	_	NN	_	13	OBJ	237341	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	a	a	_	DT	_	6	NMOD	234132	_
+2	big	big	_	JJ	_	6	NMOD	234132	_
+3	black	black	_	JJ	_	6	NMOD	234132	_
+4	and	and	_	CC	_	3	COORD	234132	_
+5	white	white	_	JJ	_	4	CONJ	234132	_
+6	dog	dog	_	NN	_	7	SBJ	234132	_
+7	jumping	jump	_	VBG	_	0	ROOT	_	_
+8	in	in	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	234133	_
+10	body	body	_	NN	_	8	PMOD	234133	_
+11	of	of	_	IN	_	10	NMOD	234133	_
+12	water	water	_	NN	_	11	PMOD	234133	_
+13	.	.	_	.	_	0	ROOT	_	_

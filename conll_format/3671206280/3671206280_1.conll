@@ -1,0 +1,15 @@
+1	Many	many	_	DT	_	2	NMOD	135731	_
+2	people	people	_	NN	_	3	SBJ	135731	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	135733	_
+6	street	street	_	NN	_	4	PMOD	135733	_
+7	with	with	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	135732	_
+9	barricade	barricade	_	NN	_	7	PMOD	135732	_
+10	and	and	_	CC	_	3	COORD	_	_
+11	trash	trash	_	VB	_	10	CONJ	135737	_
+12	littered	litter	_	VBN	_	11	VC	_	_
+13	on	on	_	IN	_	12	ADV	_	_
+14	street	street	_	NN	_	13	PMOD	135733	_
+15	.	.	_	.	_	0	ROOT	_	_

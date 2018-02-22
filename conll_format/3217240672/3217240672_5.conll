@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	101911	_
+2	tractor	tractor	_	NN	_	0	ROOT	101911	_
+3	decorated	decorate	_	VBN	_	2	APPO	_	_
+4	as	as	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	101913	_
+6	float	float	_	NN	_	4	PMOD	101913	_
+7	for	for	_	IN	_	6	NMOD	_	3
+8	a	a	_	DT	_	9	NMOD	101920	_
+9	parade	parade	_	NN	_	7	PMOD	101920	_
+10	.	.	_	.	_	0	ROOT	_	_

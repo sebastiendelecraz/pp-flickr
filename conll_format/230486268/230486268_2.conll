@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	40384	_
+2	boy	boy	_	NN	_	3	SBJ	40384	_
+3	wearing	wear	_	VBG	_	7	SBJ	_	_
+4	a	a	_	DT	_	6	NMOD	40386	_
+5	red	red	_	JJ	_	6	NMOD	40386	_
+6	shirt	shirt	_	NN	_	3	OBJ	40386	_
+7	digs	dig	_	VBZ	_	0	ROOT	_	_
+8	into	into	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	10	NMOD	40388	_
+10	sand	sand	_	NN	_	8	PMOD	40388	_
+11	with	with	_	IN	_	7	ADV	_	_
+12	a	a	_	DT	_	14	NMOD	40385	_
+13	yellow	yellow	_	JJ	_	14	NMOD	40385	_
+14	shovel	shovel	_	NN	_	11	PMOD	40385	_
+15	.	.	_	.	_	7	P	_	_

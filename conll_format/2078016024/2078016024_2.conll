@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	27293	_
+2	woman	woman	_	NN	_	10	SBJ	27293	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	9	NMOD	27301	_
+5	colorful	colorful	_	JJ	_	9	NMOD	27301	_
+6	dress	dress	_	NN	_	9	NMOD	27301	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	headscarf	headscarf	_	NN	_	7	CONJ	27294	_
+9	displays	display	_	NNS	_	3	PMOD	27294	_
+10	mounds	mound	_	VBZ	_	0	ROOT	27294	_
+11	of	of	_	IN	_	10	ADV	27294	_
+12	fresh	fresh	_	JJ	_	13	NMOD	27294	_
+13	vegetables	vegetable	_	NNS	_	11	PMOD	27294	_
+14	on	on	_	IN	_	10	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	27296	_
+16	street	street	_	NN	_	14	PMOD	27296	_
+17	.	.	_	.	_	10	P	_	_

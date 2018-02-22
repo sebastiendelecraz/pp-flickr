@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	166034	_
+2	guys	guy	_	NNS	_	8	SBJ	166034	_
+3	on	on	_	IN	_	2	LOC	_	8
+4	a	a	_	DT	_	5	NMOD	166035	_
+5	beach	beach	_	NN	_	3	PMOD	166035	_
+6	in	in	_	IN	_	8	TMP	_	_
+7	jackets	jacket	_	NNS	_	6	PMOD	166036	_
+8	pose	pose	_	VBP	_	0	ROOT	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	0	_
+11	camera	camera	_	NN	_	9	PMOD	0	_
+12	.	.	_	.	_	8	P	_	_

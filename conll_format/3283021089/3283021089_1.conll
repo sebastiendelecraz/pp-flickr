@@ -1,0 +1,19 @@
+1	Two	Two	_	CD	_	2	NMOD	106775	_
+2	men	man	_	NNS	_	3	SBJ	106775	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	having	have	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	106779	_
+6	conversation	conversation	_	NN	_	4	OBJ	106779	_
+7	in front of	in front of	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	10	NMOD	106776	_
+9	graffiti-filled	graffiti-filled	_	CD	_	10	NMOD	106776	_
+10	wall	wall	_	NN	_	7	PMOD	106776	_
+11	,	,	_	,	_	4	P	_	_
+12	with	with	_	IN	_	4	ADV	_	_
+13	two	two	_	CD	_	15	NMOD	106780	_
+14	younger	young	_	JJR	_	15	NMOD	106780	_
+15	men	man	_	NNS	_	12	PMOD	106780	_
+16	in	in	_	IN	_	15	LOC	_	_
+17	the	the	_	DT	_	18	NMOD	0	_
+18	background	background	_	NN	_	16	PMOD	0	_
+19	.	.	_	.	_	3	P	_	_

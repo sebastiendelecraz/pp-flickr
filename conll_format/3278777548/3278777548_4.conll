@@ -1,0 +1,8 @@
+1	People	People	_	NNPS	_	2	NAME	106496	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	PMOD	_	2
+4	a	a	_	DT	_	5	NMOD	106498	_
+5	bridge	bridge	_	NN	_	3	PMOD	106498	_
+6	over	over	_	IN	_	5	NMOD	_	2
+7	water	water	_	NN	_	6	PMOD	106497	_
+8	.	.	_	.	_	0	ROOT	_	_

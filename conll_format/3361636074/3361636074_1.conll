@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	112785	_
+2	man	man	_	NN	_	9	SBJ	112785	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	112786	_
+5	green	green	_	JJ	_	6	NMOD	112786	_
+6	shirt	shirt	_	NN	_	3	PMOD	112786	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	jeans	jean	_	NNS	_	7	CONJ	112789	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	bent	bend	_	VBN	_	9	VC	_	_
+11	over	over	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	15	NMOD	112787	_
+13	red	red	_	JJ	_	15	NMOD	112787	_
+14	hockey	hockey	_	NN	_	15	NMOD	112787	_
+15	goal	goal	_	NN	_	11	PMOD	112787	_
+16	with	with	_	IN	_	15	NMOD	_	15
+17	a	a	_	DT	_	18	NMOD	112790	_
+18	drill	drill	_	NN	_	16	PMOD	112790	_
+19	on top of	on top of	_	IN	_	10	ADV	_	_
+20	it	it	_	PRP	_	19	PMOD	0	_
+21	.	.	_	.	_	9	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	195844	_
+2	young	young	_	JJ	_	3	NMOD	195844	_
+3	girl	girl	_	NN	_	0	ROOT	195844	_
+4	in	in	_	IN	_	0	ROOT	_	_
+5	black	black	_	JJ	_	4	PMOD	195845	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	watering	water	_	VBG	_	8	NMOD	_	_
+8	plants	plant	_	NNS	_	6	PRD	195847	_
+9	with	with	_	IN	_	8	NMOD	_	7
+10	a	a	_	DT	_	11	NMOD	195846	_
+11	hose	hose	_	NN	_	9	PMOD	195846	_
+12	on	on	_	IN	_	8	NMOD	_	_
+13	a	a	_	DT	_	14	NMOD	195848	_
+14	deck	deck	_	NN	_	12	PMOD	195848	_
+15	.	.	_	.	_	6	P	_	_

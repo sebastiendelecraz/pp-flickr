@@ -1,0 +1,22 @@
+1	An	an	_	DT	_	3	NMOD	27007	_
+2	Asian	Asian	_	JJ	_	3	NMOD	27007	_
+3	man	man	_	NN	_	8	SBJ	27007	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	27008	_
+6	black	black	_	JJ	_	7	NMOD	27008	_
+7	robe	robe	_	NN	_	4	PMOD	27008	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	holding	hold	_	VBG	_	8	VC	_	_
+10	up	up	_	RP	_	9	PRT	_	_
+11	a	a	_	DT	_	13	NMOD	27009	_
+12	small	small	_	JJ	_	13	NMOD	27009	_
+13	fan	fan	_	NN	_	9	OBJ	27009	_
+14	by	by	_	IN	_	9	MNR	_	_
+15	a	a	_	DT	_	16	NMOD	27010	_
+16	bush	bush	_	NN	_	14	PMOD	27010	_
+17	with	with	_	IN	_	16	NMOD	_	_
+18	smoke	smoke	_	NN	_	17	PMOD	27014	_
+19	coming	come	_	VBG	_	16	APPO	_	_
+20	out of	out of	_	IN	_	19	ADV	_	_
+21	it	it	_	PRP	_	20	PMOD	0	_
+22	.	.	_	.	_	8	P	_	_

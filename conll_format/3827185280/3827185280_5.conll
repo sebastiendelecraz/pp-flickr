@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	144572	_
+2	woman	woman	_	NN	_	0	ROOT	144572	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	144573	_
+5	colorful	colorful	_	JJ	_	6	NMOD	144573	_
+6	suit	suit	_	NN	_	3	PMOD	144573	_
+7	with	with	_	IN	_	2	NMOD	_	_
+8	a	a	_	DT	_	10	NMOD	144575	_
+9	pink	pink	_	NN	_	10	NMOD	144575	_
+10	hat	hat	_	NN	_	7	PMOD	144575	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	.	.	_	.	_	0	ROOT	_	_

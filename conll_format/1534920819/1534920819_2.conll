@@ -1,0 +1,15 @@
+1	People	People	_	NNPS	_	2	SBJ	15813	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	6	NMOD	15814	_
+5	grassy	grassy	_	JJ	_	6	NMOD	15814	_
+6	beach	beach	_	NN	_	3	PMOD	15814	_
+7	with	with	_	IN	_	2	ADV	_	2
+8	a	a	_	DT	_	10	NMOD	15818	_
+9	few	few	_	DT	_	10	NMOD	15818	_
+10	shrubs	shrub	_	NNS	_	7	PMOD	15818	_
+11	scattered	scatter	_	VBN	_	10	APPO	_	_
+12	throughout	throughout	_	IN	_	11	LOC	_	11
+13	the	the	_	DT	_	14	NMOD	15812	_
+14	beach	beach	_	NN	_	12	PMOD	15812	_
+15	.	.	_	.	_	0	ROOT	_	_

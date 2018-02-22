@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	5	NMOD	14667	_
+2	few	few	_	DT	_	5	NMOD	14667	_
+3	different	different	_	JJ	_	5	NMOD	14667	_
+4	colored	color	_	VBN	_	5	NMOD	14667	_
+5	dogs	dog	_	NNS	_	6	SBJ	14667	_
+6	jumping	jump	_	VBG	_	0	ROOT	_	_
+7	around	around	_	RP	_	6	PRT	_	_
+8	in	in	_	IN	_	6	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	14668	_
+10	grass	grass	_	NN	_	8	PMOD	14668	_
+11	behind	behind	_	IN	_	10	NMOD	_	6
+12	a	a	_	DT	_	13	NMOD	14668	_
+13	house	house	_	NN	_	11	PMOD	14668	_
+14	.	.	_	.	_	0	ROOT	_	_

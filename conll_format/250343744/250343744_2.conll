@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	53761	_
+2	child	child	_	NN	_	0	ROOT	53761	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	mother	mother	_	NN	_	3	CONJ	53770	_
+5	with	with	_	IN	_	2	NMOD	_	_
+6	golden	golden	_	JJ	_	7	NMOD	53768	_
+7	rings	ring	_	NNS	_	5	PMOD	53768	_
+8	around	around	_	IN	_	2	LOC	_	7
+9	their	their	_	PRP$	_	10	NMOD	53772	_
+10	neck	neck	_	NN	_	8	PMOD	53772	_
+11	resting	rest	_	VBG	_	10	APPO	_	_
+12	on	on	_	IN	_	11	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	53763	_
+14	bench	bench	_	NN	_	12	PMOD	53763	_
+15	.	.	_	.	_	0	ROOT	_	_

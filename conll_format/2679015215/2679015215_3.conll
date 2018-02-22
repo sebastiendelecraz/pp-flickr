@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	65725	_
+2	historian	historian	_	NN	_	0	ROOT	65725	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	his	his	_	PRP$	_	5	NMOD	65725	_
+5	friend	friend	_	NN	_	3	CONJ	65725	_
+6	digging	dig	_	VBG	_	5	APPO	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	65728	_
+9	mines	mine	_	NNS	_	7	PMOD	65728	_
+10	to	to	_	TO	_	2	NMOD	_	_
+11	look	look	_	VB	_	10	IM	_	_
+12	for	for	_	IN	_	11	ADV	_	11
+13	more	much	_	RBR	_	14	NMOD	65733	_
+14	fossils	fossil	_	NNS	_	12	PMOD	65733	_
+15	for	for	_	IN	_	14	NMOD	_	14
+16	study	study	_	NN	_	15	PMOD	65729	_
+17	.	.	_	.	_	0	ROOT	_	_

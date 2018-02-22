@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	116921	_
+2	man	man	_	NN	_	6	SBJ	116921	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	all	all	_	DT	_	5	NMOD	116928	_
+5	black	black	_	JJ	_	3	OBJ	116928	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	116925	_
+10	sidewalk	sidewalk	_	NN	_	8	PMOD	116925	_
+11	by	by	_	IN	_	7	MNR	_	7
+12	a	a	_	DT	_	14	NMOD	116922	_
+13	brick	brick	_	NN	_	14	NMOD	116922	_
+14	building	building	_	NN	_	11	PMOD	116922	_
+15	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,16 @@
+1	The	the	_	DT	_	2	NMOD	66249	_
+2	woman	woman	_	NN	_	7	SBJ	66249	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	66254	_
+5	henna	henna	_	NN	_	6	NMOD	66254	_
+6	tattoo	tattoo	_	NN	_	3	PMOD	66254	_
+7	holds	hold	_	VBZ	_	0	ROOT	_	_
+8	a	a	_	DT	_	9	NMOD	66253	_
+9	piece	piece	_	NN	_	7	OBJ	66253	_
+10	of	of	_	IN	_	9	NMOD	66253	_
+11	paper	paper	_	NN	_	10	PMOD	66253	_
+12	in	in	_	IN	_	9	LOC	_	_
+13	her	her	_	PRP$	_	15	NMOD	66254	_
+14	left	left	_	JJ	_	15	NMOD	66254	_
+15	hand	hand	_	NN	_	12	PMOD	66254	_
+16	.	.	_	.	_	7	P	_	_

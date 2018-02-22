@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	72904	_
+2	bull	bull	_	NN	_	3	SBJ	72904	_
+3	charging	charge	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	72905	_
+6	bull	bull	_	NN	_	7	NMOD	72905	_
+7	rider	rider	_	NN	_	4	PMOD	72905	_
+8	in	in	_	IN	_	3	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	72906	_
+10	live	live	_	JJ	_	11	NMOD	72906	_
+11	rodeo	rodeo	_	NN	_	8	PMOD	72906	_
+12	.	.	_	.	_	0	ROOT	_	_

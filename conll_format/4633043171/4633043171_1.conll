@@ -1,0 +1,21 @@
+1	An	an	_	DT	_	3	NMOD	184743	_
+2	old	old	_	JJ	_	3	NMOD	184743	_
+3	man	man	_	NN	_	8	SBJ	184743	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	184745	_
+6	gray	gray	_	JJ	_	7	NMOD	184745	_
+7	jacket	jacket	_	NN	_	4	OBJ	184745	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	looking	look	_	VBG	_	8	VC	_	_
+10	at	at	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	184744	_
+12	red	red	_	JJ	_	13	NMOD	184744	_
+13	bus	bus	_	NN	_	10	PMOD	184744	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	the	the	_	DT	_	16	NMOD	184747	_
+16	street	street	_	NN	_	14	PMOD	184747	_
+17	next to	next to	_	IN	_	9	ADV	_	9
+18	a	a	_	DT	_	20	NMOD	184746	_
+19	large	large	_	JJ	_	20	NMOD	184746	_
+20	sign	sign	_	NN	_	17	PMOD	184746	_
+21	.	.	_	.	_	8	P	_	_

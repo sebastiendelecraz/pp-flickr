@@ -1,0 +1,8 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	218389	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	atop	atop	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	218391	_
+5	row	row	_	NN	_	3	PMOD	218391	_
+6	of	of	_	IN	_	5	NMOD	218391	_
+7	blocks	block	_	NNS	_	6	PMOD	218391	_
+8	.	.	_	.	_	0	ROOT	_	_

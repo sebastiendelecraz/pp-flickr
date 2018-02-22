@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	18195	_
+2	brown	brown	_	JJ	_	3	NMOD	18195	_
+3	dog	dog	_	NN	_	4	SBJ	18195	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	panting	pant	_	VBG	_	4	VC	_	_
+6	hard	hard	_	JJ	_	5	OBJ	_	_
+7	on	on	_	IN	_	5	ADV	_	_
+8	grass	grass	_	NN	_	7	PMOD	18196	_
+9	during	during	_	IN	_	5	TMP	_	5
+10	a	a	_	DT	_	12	NMOD	18198	_
+11	sunny	sunny	_	JJ	_	12	NMOD	18198	_
+12	day	day	_	NN	_	9	PMOD	18198	_
+13	.	.	_	.	_	4	P	_	_

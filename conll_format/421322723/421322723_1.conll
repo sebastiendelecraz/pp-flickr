@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	159280	_
+2	dark-skinned	dark-skinned	_	JJ	_	3	NMOD	159280	_
+3	man	man	_	NN	_	0	ROOT	159280	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	159282	_
+6	green	green	_	JJ	_	7	NMOD	159282	_
+7	shirt	shirt	_	NN	_	4	PMOD	159282	_
+8	with	with	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	11	NMOD	159284	_
+10	green	green	_	JJ	_	11	NMOD	159284	_
+11	scarf	scarf	_	NN	_	8	PMOD	159284	_
+12	looking	look	_	VBG	_	11	APPO	_	_
+13	at	at	_	IN	_	12	ADV	_	_
+14	an	an	_	DT	_	16	NMOD	159281	_
+15	electronic	electronic	_	JJ	_	16	NMOD	159281	_
+16	device	device	_	NN	_	13	PMOD	159281	_
+17	.	.	_	.	_	0	ROOT	_	_

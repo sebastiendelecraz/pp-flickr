@@ -1,0 +1,13 @@
+1	Lady	Lady	_	NNP	_	2	SBJ	31993	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	past	past	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	31992	_
+5	man	man	_	NN	_	3	PMOD	31992	_
+6	on	on	_	IN	_	2	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	31994	_
+8	bench	bench	_	NN	_	6	PMOD	31994	_
+9	who	who	_	WP	_	10	SBJ	0	_
+10	is	be	_	VBZ	_	8	NMOD	_	_
+11	watching	watch	_	VBG	_	10	VC	_	_
+12	her	her	_	PRP$	_	11	OBJ	0	_
+13	.	.	_	.	_	0	ROOT	_	_

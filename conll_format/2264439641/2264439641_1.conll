@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	3	NMOD	37633	_
+2	brunette	brunette	_	JJ	_	3	NMOD	37633	_
+3	woman	woman	_	NN	_	4	SBJ	37633	_
+4	holding	hold	_	VBG	_	11	SBJ	_	_
+5	a	a	_	DT	_	7	NMOD	37634	_
+6	little	little	_	JJ	_	7	NMOD	37634	_
+7	girl	girl	_	NN	_	4	OBJ	37634	_
+8	dressed	dress	_	VBN	_	7	APPO	_	_
+9	in	in	_	IN	_	8	ADV	_	_
+10	pink	pink	_	NN	_	9	PMOD	37635	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	kneeling	kneel	_	VBG	_	11	VC	_	_
+13	next to	next to	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	19	NMOD	37636	_
+15	grazing	graze	_	VBG	_	19	NMOD	37636	_
+16	white	white	_	JJ	_	19	NMOD	37636	_
+17	and	and	_	CC	_	16	COORD	37636	_
+18	brown	brown	_	JJ	_	17	CONJ	37636	_
+19	llama	llama	_	NN	_	13	PMOD	37636	_
+20	in	in	_	IN	_	19	LOC	_	_
+21	the	the	_	DT	_	22	NMOD	37637	_
+22	foreground	foreground	_	NN	_	20	PMOD	37637	_
+23	of	of	_	IN	_	22	NMOD	37637	_
+24	a	a	_	DT	_	26	NMOD	37637	_
+25	hilly	hilly	_	JJ	_	26	NMOD	37637	_
+26	community	community	_	NN	_	23	PMOD	37637	_
+27	.	.	_	.	_	11	P	_	_

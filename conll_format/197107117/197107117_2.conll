@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	24301	_
+2	rock	rock	_	NN	_	3	NMOD	24301	_
+3	climber	climber	_	NN	_	4	SBJ	24301	_
+4	leans	lean	_	VBZ	_	0	ROOT	_	_
+5	out	out	_	RP	_	4	PRT	_	_
+6	from	from	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	24303	_
+8	crag	crag	_	NN	_	6	PMOD	24303	_
+9	against	against	_	IN	_	8	NMOD	_	4
+10	a	a	_	DT	_	13	NMOD	24305	_
+11	deep	deep	_	JJ	_	13	NMOD	24305	_
+12	blue	blue	_	JJ	_	13	NMOD	24305	_
+13	sky	sky	_	NN	_	9	PMOD	24305	_
+14	.	.	_	.	_	4	P	_	_

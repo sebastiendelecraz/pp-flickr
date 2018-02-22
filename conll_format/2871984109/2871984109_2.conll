@@ -1,0 +1,15 @@
+1	Cheerleaders	cheerleader	_	NNS	_	4	SBJ	78024	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	blue	blue	_	JJ	_	2	PMOD	78029	_
+4	performing	perform	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	8	NMOD	78026	_
+7	football	football	_	NN	_	8	NMOD	78026	_
+8	field	field	_	NN	_	5	PMOD	78026	_
+9	underneath	underneath	_	IN	_	4	MNR	_	4
+10	a	a	_	DT	_	14	NMOD	78030	_
+11	yellow	yellow	_	JJ	_	14	NMOD	78030	_
+12	football	football	_	NN	_	13	NMOD	78030	_
+13	goal	goal	_	NN	_	14	NMOD	78030	_
+14	post	post	_	NN	_	9	PMOD	78030	_
+15	.	.	_	.	_	0	ROOT	_	_

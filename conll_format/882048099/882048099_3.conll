@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	282884	_
+2	woman	woman	_	NN	_	8	SBJ	282884	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	sunglasses	sunglass	_	NNS	_	3	PMOD	282890	_
+5	and	and	_	CC	_	2	COORD	_	_
+6	a	a	_	DT	_	7	NMOD	282886	_
+7	sunhat	sunhat	_	NN	_	5	CONJ	282886	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	in	in	_	IN	_	8	LOC-PRD	_	_
+10	the	the	_	DT	_	11	NMOD	282891	_
+11	foreground	foreground	_	NN	_	9	PMOD	282891	_
+12	of	of	_	IN	_	11	NMOD	282891	11
+13	a	a	_	DT	_	16	NMOD	282891	_
+14	beautiful	beautiful	_	JJ	_	16	NMOD	282891	_
+15	mountain	mountain	_	NN	_	16	NMOD	282891	_
+16	region	region	_	NN	_	12	PMOD	282891	_
+17	.	.	_	.	_	8	P	_	_

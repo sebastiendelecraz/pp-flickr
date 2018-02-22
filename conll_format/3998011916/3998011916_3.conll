@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	151358	_
+2	ladies	lady	_	NNS	_	0	ROOT	151358	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	151359	_
+5	baby	baby	_	NN	_	6	NMOD	151359	_
+6	talk	talk	_	NN	_	3	PMOD	_	_
+7	in front of	in front of	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	10	NMOD	151361	_
+9	subway	subway	_	NN	_	10	NMOD	151361	_
+10	train	train	_	NN	_	7	PMOD	151361	_
+11	.	.	_	.	_	0	ROOT	_	_

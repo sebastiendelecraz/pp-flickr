@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	46914	_
+2	fluffy	fluffy	_	JJ	_	4	NMOD	46914	_
+3	black-and-white	black-and-white	_	NN	_	4	NMOD	46914	_
+4	dog	dog	_	NN	_	5	SBJ	46914	_
+5	runs	run	_	VBZ	_	0	ROOT	_	_
+6	from	from	_	IN	_	5	ADV	_	5
+7	three	three	_	CD	_	8	NMOD	46916	_
+8	people	people	_	NN	_	6	PMOD	46916	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	12	NMOD	46915	_
+11	sandy	sandy	_	JJ	_	12	NMOD	46915	_
+12	beach	beach	_	NN	_	9	PMOD	46915	_
+13	.	.	_	.	_	5	P	_	_

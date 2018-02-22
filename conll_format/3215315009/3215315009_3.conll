@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	101746	_
+2	bicyclist	bicyclist	_	NN	_	3	SBJ	101746	_
+3	becomes	become	_	VBZ	_	0	ROOT	_	_
+4	airborne	airborne	_	JJ	_	3	PRD	_	_
+5	among	among	_	IN	_	3	LOC	_	4
+6	dirt	dirt	_	JJ	_	7	NMOD	101747	_
+7	hills	hill	_	NNS	_	5	PMOD	101747	_
+8	at	at	_	IN	_	3	ADV	_	_
+9	night	night	_	NN	_	8	PMOD	101749	_
+10	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	84729	_
+2	man	man	_	NN	_	3	SBJ	84729	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	84731	_
+5	black	black	_	JJ	_	6	NMOD	84731	_
+6	top	top	_	JJ	_	7	SBJ	84731	_
+7	is	be	_	VBZ	_	3	OBJ	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	behind	behind	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	84732	_
+11	counter	counter	_	NN	_	9	PMOD	84732	_
+12	in	in	_	IN	_	8	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	84730	_
+14	store	store	_	NN	_	12	PMOD	84730	_
+15	.	.	_	.	_	0	ROOT	_	_

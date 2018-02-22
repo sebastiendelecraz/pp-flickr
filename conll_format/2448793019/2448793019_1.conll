@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	50505	_
+2	young	young	_	JJ	_	3	NMOD	50505	_
+3	child	child	_	NN	_	5	NMOD	50505	_
+4	wearing	wear	_	VBG	_	5	NMOD	_	_
+5	sunglasses	sunglass	_	NNS	_	6	SBJ	50508	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	at	at	_	IN	_	6	LOC-PRD	_	_
+8	the	the	_	DT	_	9	NMOD	50506	_
+9	base	base	_	NN	_	7	PMOD	50506	_
+10	of	of	_	IN	_	9	NMOD	50506	9
+11	a	a	_	DT	_	13	NMOD	50506	_
+12	blue	blue	_	JJ	_	13	NMOD	50506	_
+13	slide	slide	_	NN	_	10	PMOD	50506	_
+14	.	.	_	.	_	6	P	_	_

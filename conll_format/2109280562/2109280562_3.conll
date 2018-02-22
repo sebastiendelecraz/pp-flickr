@@ -1,0 +1,14 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	29268	_
+4	man	man	_	NN	_	2	SBJ	29268	_
+5	standing	stand	_	VBG	_	4	APPO	_	_
+6	near	near	_	IN	_	5	ADV	_	5
+7	ocean	ocean	_	NN	_	6	PMOD	29269	_
+8	with	with	_	IN	_	4	NMOD	_	_
+9	several	several	_	DT	_	10	NMOD	29267	_
+10	pigs	pig	_	NNS	_	8	PMOD	29267	_
+11	on	on	_	IN	_	10	LOC	_	_
+12	their	their	_	PRP$	_	13	NMOD	29273	_
+13	backs	back	_	NNS	_	11	PMOD	29273	_
+14	.	.	_	.	_	2	P	_	_

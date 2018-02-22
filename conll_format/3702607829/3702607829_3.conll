@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	137984	_
+2	women	woman	_	NNS	_	3	SBJ	137984	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	137985	_
+6	bench	bench	_	NN	_	4	PMOD	137985	_
+7	by	by	_	IN	_	3	MNR	_	_
+8	the	the	_	DT	_	9	NMOD	137986	_
+9	water	water	_	NN	_	7	PMOD	137986	_
+10	.	.	_	.	_	0	ROOT	_	_

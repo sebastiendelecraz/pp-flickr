@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	221886	_
+2	man	man	_	NN	_	7	SBJ	221886	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	221903	_
+5	dark	dark	_	JJ	_	6	NMOD	221903	_
+6	suit	suit	_	NN	_	3	PMOD	221903	_
+7	strides	stride	_	VBZ	_	0	ROOT	_	_
+8	in front of	in front of	_	IN	_	7	ADV	_	_
+9	an	an	_	DT	_	11	NMOD	221894	_
+10	apartment	apartment	_	NN	_	11	NMOD	221894	_
+11	building	building	_	NN	_	8	PMOD	221894	_
+12	in	in	_	IN	_	11	LOC	_	7
+13	New	New	_	NNP	_	14	NAME	221888	_
+14	York	York	_	NNP	_	12	PMOD	221888	_
+15	with	with	_	IN	_	0	ROOT	_	_
+16	a	a	_	DT	_	0	ROOT	221887	_
+17	mural	mural	_	JJ	_	0	ROOT	221887	_
+18	painted	paint	_	VBN	_	17	AMOD	_	_
+19	on	on	_	IN	_	17	AMOD	_	_
+20	it	it	_	PRP	_	19	PMOD	0	_
+21	protesting	protest	_	VBG	_	17	AMOD	_	_
+22	against	against	_	IN	_	21	ADV	_	21
+23	violence	violence	_	NN	_	22	PMOD	221897	_
+24	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	209224	_
+2	woman	woman	_	NN	_	3	SBJ	209224	_
+3	looks	look	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	fruit	fruit	_	NN	_	4	PMOD	209229	_
+6	at	at	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	209231	_
+8	market	market	_	NN	_	6	PMOD	209231	_
+9	.	.	_	.	_	3	P	_	_

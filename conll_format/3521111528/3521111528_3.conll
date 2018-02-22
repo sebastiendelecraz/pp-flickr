@@ -1,0 +1,12 @@
+1	Four	Four	_	CD	_	2	NMOD	124554	_
+2	diners	diner	_	NNS	_	3	SBJ	124554	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	8	NMOD	124557	_
+6	restaurant	restaurant	_	NN	_	7	NMOD	124557	_
+7	table	table	_	NN	_	8	NMOD	124557	_
+8	finish	finish	_	NN	_	4	PMOD	_	_
+9	up	up	_	IN	_	8	NMOD	_	8
+10	their	their	_	PRP$	_	11	NMOD	124555	_
+11	meals	meal	_	NNS	_	9	PMOD	124555	_
+12	.	.	_	.	_	0	ROOT	_	_

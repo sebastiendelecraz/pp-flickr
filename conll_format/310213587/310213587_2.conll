@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	93657	_
+2	man	man	_	NN	_	6	SBJ	93657	_
+3	drinking	drink	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	93659	_
+5	soda	soda	_	NN	_	3	OBJ	93659	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	in front of	in front of	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	93664	_
+10	bench	bench	_	NN	_	8	PMOD	93664	_
+11	near	near	_	IN	_	10	LOC	_	7
+12	a	a	_	DT	_	13	NMOD	93660	_
+13	group	group	_	NN	_	11	PMOD	93660	_
+14	of	of	_	IN	_	13	NMOD	93660	_
+15	people	people	_	NN	_	14	PMOD	93660	_
+16	sitting	sit	_	VBG	_	15	APPO	_	_
+17	.	.	_	.	_	6	P	_	_

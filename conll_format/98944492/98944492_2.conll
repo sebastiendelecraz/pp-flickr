@@ -1,0 +1,9 @@
+1	Person	Person	_	NNP	_	4	SBJ	285064	_
+2	with	with	_	IN	_	4	ADV	_	_
+3	shovel	shovel	_	NN	_	2	PMOD	285065	_
+4	walks	walk	_	VBZ	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	ADV	_	4
+6	snowstorm	snowstorm	_	NN	_	5	PMOD	285066	_
+7	in front of	in front of	_	IN	_	6	NMOD	_	_
+8	cafe	cafe	_	NN	_	7	PMOD	285069	_
+9	.	.	_	.	_	4	P	_	_

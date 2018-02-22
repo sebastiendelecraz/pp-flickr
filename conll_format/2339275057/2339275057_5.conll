@@ -1,0 +1,8 @@
+1	Kids	kid	_	NNS	_	2	SBJ	42636	_
+2	play	play	_	VBP	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	42641	_
+5	blow	blow	_	NN	_	3	PMOD	42641	_
+6	up	up	_	IN	_	5	NMOD	_	5
+7	playground	playground	_	NN	_	6	PMOD	42637	_
+8	.	.	_	.	_	2	P	_	_

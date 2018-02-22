@@ -1,0 +1,24 @@
+1	In	in	_	IN	_	12	LOC	_	_
+2	a	a	_	DT	_	5	NMOD	191264	_
+3	very	very	_	RB	_	4	AMOD	191264	_
+4	crowded	crowded	_	JJ	_	5	NMOD	191264	_
+5	city	city	_	NN	_	1	PMOD	191264	_
+6	,	,	_	,	_	12	P	_	_
+7	a	a	_	DT	_	9	NMOD	191257	_
+8	small	small	_	JJ	_	9	NMOD	191257	_
+9	group	group	_	NN	_	12	SBJ	191257	_
+10	of	of	_	IN	_	9	NMOD	191257	_
+11	adults	adult	_	NNS	_	10	PMOD	191257	_
+12	stand	stand	_	VBP	_	0	ROOT	_	_
+13	in the middle of	in the middle of	_	IN	_	12	ADV	191259	12
+14	a	a	_	DT	_	15	NMOD	191259	_
+15	patch	patch	_	NN	_	13	PMOD	191259	_
+16	of	of	_	IN	_	15	NMOD	_	_
+17	grass	grass	_	NN	_	16	PMOD	191259	_
+18	enclosed	enclose	_	VBN	_	17	APPO	_	_
+19	by	by	_	IN	_	18	LGS	_	_
+20	a	a	_	DT	_	23	NMOD	191258	_
+21	black	black	_	JJ	_	23	NMOD	191258	_
+22	metal	metal	_	NN	_	23	NMOD	191258	_
+23	fence	fence	_	NN	_	19	PMOD	191258	_
+24	.	.	_	.	_	12	P	_	_

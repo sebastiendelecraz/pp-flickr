@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	56347	_
+2	man	man	_	NN	_	3	SBJ	56347	_
+3	looking	look	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	56350	_
+6	set	set	_	NN	_	4	PMOD	56350	_
+7	of	of	_	IN	_	6	NMOD	56350	_
+8	train	train	_	NN	_	9	NMOD	56350	_
+9	tracks	track	_	NNS	_	7	PMOD	56350	_
+10	on	on	_	IN	_	9	NMOD	_	3
+11	a	a	_	DT	_	12	NMOD	56348	_
+12	bridge	bridge	_	NN	_	10	PMOD	56348	_
+13	.	.	_	.	_	0	ROOT	_	_

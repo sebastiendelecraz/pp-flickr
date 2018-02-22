@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	54687	_
+2	woman	woman	_	NN	_	0	ROOT	54687	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	54690	_
+5	hat	hat	_	NN	_	3	PMOD	54690	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	scarf	scarf	_	NN	_	6	CONJ	54691	_
+8	on	on	_	IN	_	2	NMOD	_	_
+9	stands	stand	_	NNS	_	8	PMOD	_	_
+10	outside	outside	_	IN	_	2	LOC	_	_
+11	knitting	knit	_	VBG	_	10	PMOD	54693	_
+12	.	.	_	.	_	0	ROOT	_	_

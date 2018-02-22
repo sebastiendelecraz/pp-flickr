@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	2	NMOD	15166	_
+2	adult	adult	_	NN	_	6	SBJ	15166	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	15168	_
+5	child	child	_	NN	_	3	CONJ	15168	_
+6	walking	walk	_	VBG	_	0	ROOT	_	_
+7	past	past	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	15167	_
+9	tree	tree	_	NN	_	7	PMOD	15167	_
+10	in front of	in front of	_	IN	_	6	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	15167	_
+12	vandalized	vandalize	_	VBN	_	13	NMOD	15167	_
+13	building	building	_	NN	_	10	PMOD	15167	_
+14	.	.	_	.	_	0	ROOT	_	_

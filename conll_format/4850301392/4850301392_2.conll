@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	210420	_
+2	woman	woman	_	NN	_	3	SBJ	210420	_
+3	views	view	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	7	NMOD	210423	_
+5	metal	metal	_	NN	_	6	NMOD	210423	_
+6	dinosaur	dinosaur	_	NN	_	7	NMOD	210423	_
+7	sculpture	sculpture	_	NN	_	3	OBJ	210423	_
+8	through	through	_	IN	_	3	MNR	_	3
+9	a	a	_	DT	_	11	NMOD	210422	_
+10	blue	blue	_	JJ	_	11	NMOD	210422	_
+11	telescope	telescope	_	NN	_	8	PMOD	210422	_
+12	during	during	_	IN	_	3	TMP	_	3
+13	a	a	_	DT	_	15	NMOD	210424	_
+14	cloudy	cloudy	_	JJ	_	15	NMOD	210424	_
+15	day	day	_	NN	_	12	PMOD	210424	_
+16	.	.	_	.	_	3	P	_	_

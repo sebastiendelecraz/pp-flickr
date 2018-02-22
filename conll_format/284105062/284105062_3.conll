@@ -1,0 +1,16 @@
+1	White	White	_	NNP	_	2	NMOD	76172	_
+2	man	man	_	NN	_	3	SBJ	76172	_
+3	wearing	wear	_	VBG	_	8	SBJ	_	_
+4	a	a	_	DT	_	7	NMOD	76174	_
+5	bright	bright	_	JJ	_	7	NMOD	76174	_
+6	red	red	_	JJ	_	7	NMOD	76174	_
+7	jacket	jacket	_	NN	_	3	OBJ	76174	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	sitting	sit	_	VBG	_	8	VC	_	_
+10	atop	atop	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	76175	_
+12	donkey	donkey	_	NN	_	10	PMOD	76175	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	76178	_
+15	desert	desert	_	NN	_	13	PMOD	76178	_
+16	.	.	_	.	_	8	P	_	_

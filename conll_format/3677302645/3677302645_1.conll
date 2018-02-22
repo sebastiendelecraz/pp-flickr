@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	136167	_
+2	person	person	_	NN	_	13	SBJ	136167	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	136171	_
+5	black	black	_	JJ	_	6	NMOD	136171	_
+6	coat	coat	_	NN	_	3	OBJ	136171	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	a	a	_	DT	_	9	NMOD	136173	_
+9	helmet	helmet	_	NN	_	7	CONJ	136173	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	spiky	spiky	_	JJ	_	12	NMOD	136174	_
+12	things	thing	_	NNS	_	10	PMOD	136174	_
+13	is	be	_	VBZ	_	0	ROOT	_	_
+14	posing	pose	_	VBG	_	13	VC	_	_
+15	on	on	_	RP	_	14	PRT	_	_
+16	the	the	_	DT	_	17	NMOD	136169	_
+17	lawn	lawn	_	NN	_	14	OBJ	136169	_
+18	in front of	in front of	_	IN	_	14	ADV	_	14
+19	a	a	_	DT	_	20	NMOD	136168	_
+20	crowd	crowd	_	NN	_	18	PMOD	136168	_
+21	of	of	_	IN	_	20	NMOD	136168	_
+22	people	people	_	NN	_	21	PMOD	136168	_
+23	.	.	_	.	_	13	P	_	_

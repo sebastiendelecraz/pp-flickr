@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	NAME	192755	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	192757	_
+5	pool	pool	_	NN	_	3	PMOD	192757	_
+6	of	of	_	IN	_	5	NMOD	192757	_
+7	water	water	_	NN	_	6	PMOD	192757	_
+8	in	in	_	IN	_	5	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	192760	_
+10	garden	garden	_	NN	_	8	PMOD	192760	_
+11	.	.	_	.	_	0	ROOT	_	_

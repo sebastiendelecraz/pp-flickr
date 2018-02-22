@@ -1,0 +1,20 @@
+1	Two	Two	_	CD	_	2	NMOD	125520	_
+2	people	people	_	NN	_	3	SBJ	125520	_
+3	standing	stand	_	VBG	_	8	VC	_	_
+4	next to	next to	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	125523	_
+6	red	red	_	JJ	_	7	NMOD	125523	_
+7	car	car	_	NN	_	4	PMOD	125523	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	hugging	hug	_	VBG	_	8	VC	_	_
+10	in	in	_	IN	_	9	ADV	_	_
+11	traffic	traffic	_	NN	_	10	PMOD	125528	_
+12	with	with	_	IN	_	9	ADV	_	9
+13	a	a	_	DT	_	17	NMOD	125524	_
+14	brightly	brightly	_	RB	_	15	AMOD	125524	_
+15	lit	lit	_	JJ	_	17	NMOD	125524	_
+16	city	city	_	NN	_	17	NMOD	125524	_
+17	scene	scene	_	NN	_	12	PMOD	125524	_
+18	behind	behind	_	IN	_	17	LOC	_	_
+19	them	them	_	PRP	_	18	PMOD	0	_
+20	.	.	_	.	_	8	P	_	_

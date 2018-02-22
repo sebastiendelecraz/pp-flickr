@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	173998	_
+2	woman	woman	_	NN	_	3	SBJ	173998	_
+3	wearing	wear	_	VBG	_	7	SBJ	_	_
+4	a	a	_	DT	_	6	NMOD	174001	_
+5	black	black	_	JJ	_	6	NMOD	174001	_
+6	beret	beret	_	NN	_	3	OBJ	174001	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	bending	bend	_	VBG	_	7	VC	_	_
+9	over	over	_	RP	_	8	PRT	_	_
+10	near	near	_	IN	_	8	LOC	_	8
+11	a	a	_	DT	_	12	NMOD	174000	_
+12	group	group	_	NN	_	10	PMOD	174000	_
+13	of	of	_	IN	_	12	NMOD	174000	_
+14	lit	lit	_	JJ	_	15	NMOD	174000	_
+15	lamps	lamp	_	NNS	_	13	PMOD	174000	_
+16	.	.	_	.	_	7	P	_	_

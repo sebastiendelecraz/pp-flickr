@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	221228	_
+2	police	police	_	NN	_	3	NMOD	221228	_
+3	officer	officer	_	NN	_	4	SBJ	221228	_
+4	blocks	block	_	VBZ	_	0	ROOT	_	_
+5	off	off	_	RP	_	4	PRT	_	_
+6	an	an	_	DT	_	7	NMOD	221231	_
+7	area	area	_	NN	_	4	OBJ	221231	_
+8	from	from	_	IN	_	7	NMOD	_	4
+9	spectators	spectator	_	NNS	_	8	PMOD	221230	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	yellow	yellow	_	JJ	_	12	NMOD	221229	_
+12	tape	tape	_	NN	_	10	PMOD	221229	_
+13	.	.	_	.	_	4	P	_	_

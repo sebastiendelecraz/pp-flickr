@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	99282	_
+2	women	woman	_	NNS	_	9	SBJ	99282	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	scarves	scarf	_	NNS	_	4	PMOD	99284	_
+6	over	over	_	IN	_	3	TMP	_	5
+7	their	their	_	PRP$	_	8	NMOD	99283	_
+8	heads	head	_	NNS	_	6	PMOD	99283	_
+9	look	look	_	VBP	_	0	ROOT	_	_
+10	angrily	angrily	_	RB	_	9	ADV	_	_
+11	at	at	_	IN	_	9	ADV	_	_
+12	the	the	_	DT	_	13	NMOD	99289	_
+13	photographer	photographer	_	NN	_	11	PMOD	99289	_
+14	.	.	_	.	_	9	P	_	_

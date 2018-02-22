@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	133702	_
+2	day	day	_	NN	_	0	ROOT	133702	_
+3	at	at	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	133701	_
+5	beach	beach	_	NN	_	3	PMOD	133701	_
+6	for	for	_	IN	_	5	NMOD	_	2
+7	the	the	_	DT	_	8	NMOD	133700	_
+8	baby	baby	_	NN	_	6	PMOD	133700	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	207489	_
+2	photograph	photograph	_	NN	_	0	ROOT	207489	_
+3	of	of	_	IN	_	2	NMOD	207489	_
+4	a	a	_	DT	_	6	NMOD	207489	_
+5	lady	lady	_	NN	_	6	NMOD	207489	_
+6	shopping	shopping	_	NN	_	3	PMOD	_	_
+7	in	in	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	207492	_
+9	city	city	_	NN	_	7	PMOD	207492	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	124974	_
+2	man	man	_	NN	_	0	ROOT	124974	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	helmet	helmet	_	NN	_	5	NMOD	124975	_
+5	stands	stand	_	NNS	_	3	PMOD	_	_
+6	in front of	in front of	_	IN	_	2	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	124980	_
+8	building	building	_	NN	_	6	PMOD	124980	_
+9	.	.	_	.	_	0	ROOT	_	_

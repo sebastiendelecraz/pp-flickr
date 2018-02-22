@@ -1,0 +1,12 @@
+1	Men	Men	_	NNPS	_	2	SBJ	213808	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	digging	dig	_	VBG	_	2	VC	_	_
+4	under	under	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	213810	_
+6	bridge	bridge	_	NN	_	4	PMOD	213810	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	wood	wood	_	NN	_	7	PMOD	213817	_
+9	and	and	_	CC	_	2	COORD	_	_
+10	bricks	brick	_	VBZ	_	9	CONJ	213814	_
+11	present	present	_	JJ	_	10	PRD	213814	_
+12	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	142011	_
+2	white	white	_	JJ	_	3	NMOD	142011	_
+3	man	man	_	NN	_	0	ROOT	142011	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	142012	_
+6	beer	beer	_	NN	_	4	PMOD	142012	_
+7	sitting	sit	_	VBG	_	6	APPO	_	_
+8	on	on	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	142013	_
+10	black	black	_	JJ	_	11	NMOD	142013	_
+11	balloon	balloon	_	NN	_	8	PMOD	142013	_
+12	in	in	_	IN	_	7	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	142015	_
+14	park	park	_	NN	_	12	PMOD	142015	_
+15	.	.	_	.	_	0	ROOT	_	_

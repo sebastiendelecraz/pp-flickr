@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	3066	_
+2	young	young	_	JJ	_	3	NMOD	3066	_
+3	woman	woman	_	NN	_	0	ROOT	3066	_
+4	in	in	_	IN	_	3	NMOD	_	_
+5	jogging	jog	_	VBG	_	4	PMOD	_	_
+6	suit	suit	_	NN	_	5	OBJ	3072	_
+7	running	run	_	VBG	_	5	OPRD	_	_
+8	along	along	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	10	NMOD	3068	_
+10	bank	bank	_	NN	_	8	PMOD	3068	_
+11	of	of	_	IN	_	10	NMOD	3068	_
+12	a	a	_	DT	_	13	NMOD	3068	_
+13	river	river	_	NN	_	11	PMOD	3068	_
+14	.	.	_	.	_	0	ROOT	_	_

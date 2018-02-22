@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	2056	_
+2	man	man	_	NN	_	7	SBJ	2056	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	2057	_
+5	yellow	yellow	_	JJ	_	6	NMOD	2057	_
+6	vest	vest	_	NN	_	3	PMOD	2057	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	2061	_
+11	wall	wall	_	NN	_	9	PMOD	2061	_
+12	above	above	_	IN	_	11	NMOD	_	8
+13	the	the	_	DT	_	14	NMOD	2058	_
+14	scaffold	scaffold	_	NN	_	12	PMOD	2058	_
+15	.	.	_	.	_	7	P	_	_

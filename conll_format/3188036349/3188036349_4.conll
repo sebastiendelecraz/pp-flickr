@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	5	NMOD	99606	_
+2	young	young	_	JJ	_	5	NMOD	99606	_
+3	blond	blond	_	JJ	_	5	NMOD	99606	_
+4	child	child	_	NN	_	5	NMOD	99606	_
+5	shoots	shoot	_	NNS	_	0	ROOT	_	_
+6	from	from	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	8	NMOD	99607	_
+8	slide	slide	_	NN	_	6	PMOD	99607	_
+9	at	at	_	IN	_	8	LOC	_	_
+10	high	high	_	JJ	_	11	NMOD	99610	_
+11	speed	speed	_	NN	_	9	PMOD	99610	_
+12	.	.	_	.	_	0	ROOT	_	_

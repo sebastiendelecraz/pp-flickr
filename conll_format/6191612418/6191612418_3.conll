@@ -1,0 +1,15 @@
+1	Marathon	Marathon	_	NNP	_	3	NAME	249679	_
+2	runner	runner	_	NN	_	3	NAME	249679	_
+3	Izabella	Izabella	_	NNP	_	4	SBJ	249679	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	while	while	_	IN	_	4	TMP	_	_
+6	being	be	_	VBG	_	5	SUB	_	_
+7	followed	follow	_	VBN	_	6	VC	_	_
+8	by	by	_	IN	_	7	LGS	_	7
+9	a	a	_	DT	_	10	NMOD	249680	_
+10	crowd	crowd	_	NN	_	8	PMOD	249680	_
+11	of	of	_	IN	_	10	NMOD	249680	_
+12	people	people	_	NN	_	11	PMOD	249680	_
+13	in	in	_	IN	_	10	LOC	_	_
+14	costumes	costume	_	NNS	_	13	PMOD	249688	_
+15	.	.	_	.	_	0	ROOT	_	_

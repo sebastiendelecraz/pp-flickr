@@ -1,0 +1,12 @@
+1	One	One	_	CD	_	2	NMOD	34895	_
+2	boy	boy	_	NN	_	3	SBJ	34895	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	34898	_
+6	rock	rock	_	NN	_	4	PMOD	34898	_
+7	in the middle of	in the middle of	_	IN	_	3	LOC	34899	3
+8	a	a	_	DT	_	9	NMOD	34899	_
+9	body	body	_	NN	_	7	PMOD	34899	_
+10	of	of	_	IN	_	9	NMOD	34899	_
+11	water	water	_	NN	_	10	PMOD	34899	_
+12	.	.	_	.	_	0	ROOT	_	_

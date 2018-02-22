@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	30339	_
+2	hiker	hiker	_	NN	_	7	SBJ	30339	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	30340	_
+5	blue	blue	_	JJ	_	6	NMOD	30340	_
+6	jacket	jacket	_	NN	_	3	PMOD	30340	_
+7	stands	stand	_	VBZ	_	0	ROOT	_	_
+8	among	among	_	IN	_	7	LOC	_	7
+9	numerous	numerous	_	JJ	_	11	NMOD	30342	_
+10	tall	tall	_	JJ	_	11	NMOD	30342	_
+11	trees	tree	_	NNS	_	8	PMOD	30342	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	30342	_
+14	woods	wood	_	NNS	_	12	PMOD	30342	_
+15	.	.	_	.	_	7	P	_	_

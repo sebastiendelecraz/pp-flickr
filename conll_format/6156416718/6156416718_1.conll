@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	248841	_
+2	man	man	_	NN	_	10	SBJ	248841	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	248841	_
+5	soccer	soccer	_	NN	_	6	NMOD	248841	_
+6	team	team	_	NN	_	3	PMOD	248841	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	red	red	_	JJ	_	9	NMOD	248846	_
+9	jerseys	jersey	_	NNS	_	7	PMOD	248846	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	trying	try	_	VBG	_	10	VC	_	_
+12	to	to	_	TO	_	11	OPRD	_	_
+13	keep	keep	_	VB	_	12	IM	_	_
+14	the	the	_	DT	_	15	NMOD	248847	_
+15	ball	ball	_	NN	_	13	OBJ	248847	_
+16	away from	away from	_	IN	_	13	LOC	_	13
+17	the	the	_	DT	_	19	NMOD	248845	_
+18	opposing	oppose	_	VBG	_	19	NMOD	248845	_
+19	player	player	_	NN	_	16	PMOD	248845	_
+20	in	in	_	IN	_	19	LOC	_	_
+21	a	a	_	DT	_	23	NMOD	248850	_
+22	yellow	yellow	_	JJ	_	23	NMOD	248850	_
+23	jersey	jersey	_	NN	_	20	PMOD	248850	_
+24	.	.	_	.	_	10	P	_	_

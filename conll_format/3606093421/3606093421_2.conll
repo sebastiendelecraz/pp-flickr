@@ -1,0 +1,11 @@
+1	two	two	_	CD	_	2	NMOD	131080	_
+2	men	man	_	NNS	_	0	ROOT	131080	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	an	an	_	DT	_	7	NMOD	131083	_
+5	orange	orange	_	JJ	_	7	NMOD	131083	_
+6	boat	boat	_	NN	_	7	NMOD	131083	_
+7	ride	ride	_	NN	_	3	PMOD	131083	_
+8	across	across	_	IN	_	2	LOC	_	2
+9	the	the	_	DT	_	10	NMOD	131082	_
+10	water	water	_	NN	_	8	PMOD	131082	_
+11	.	.	_	.	_	0	ROOT	_	_

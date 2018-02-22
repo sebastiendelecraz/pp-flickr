@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	228321	_
+2	little	little	_	JJ	_	3	NMOD	228321	_
+3	girl	girl	_	NN	_	0	ROOT	228321	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	228327	_
+6	bow	bow	_	NN	_	4	PMOD	228327	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	her	her	_	PRP$	_	9	NMOD	228329	_
+9	hair	hair	_	NN	_	7	PMOD	228329	_
+10	,	,	_	,	_	3	P	_	_
+11	doing	do	_	VBG	_	3	APPO	_	_
+12	a	a	_	DT	_	13	NMOD	228323	_
+13	push-up	push-up	_	NN	_	11	OBJ	228323	_
+14	on	on	_	IN	_	11	ADV	_	_
+15	the	the	_	DT	_	16	NMOD	228326	_
+16	grass	grass	_	NN	_	14	PMOD	228326	_
+17	.	.	_	.	_	0	ROOT	_	_

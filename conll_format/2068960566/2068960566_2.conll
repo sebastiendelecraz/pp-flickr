@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	26771	_
+2	boy	boy	_	NN	_	3	SBJ	26771	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	brown	brown	_	JJ	_	5	NMOD	26774	_
+5	swings	swing	_	NNS	_	3	OBJ	26774	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	26773	_
+8	playground	playground	_	NN	_	6	PMOD	26773	_
+9	against	against	_	IN	_	8	NMOD	_	5
+10	a	a	_	DT	_	12	NMOD	26772	_
+11	blue	blue	_	JJ	_	12	NMOD	26772	_
+12	sky	sky	_	NN	_	9	PMOD	26772	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	129040	_
+2	woman	woman	_	NN	_	7	SBJ	129040	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	129047	_
+5	white	white	_	JJ	_	6	NMOD	129047	_
+6	robe	robe	_	NN	_	3	PMOD	129047	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	speaking	speak	_	VBG	_	7	VC	_	_
+9	in front of	in front of	_	IN	_	8	ADV	_	_
+10	an	an	_	DT	_	11	NMOD	129039	_
+11	audience	audience	_	NN	_	9	PMOD	129039	_
+12	at	at	_	IN	_	8	TMP	_	8
+13	a	a	_	DT	_	14	NMOD	129042	_
+14	banquet	banquet	_	NN	_	12	PMOD	129042	_
+15	.	.	_	.	_	7	P	_	_

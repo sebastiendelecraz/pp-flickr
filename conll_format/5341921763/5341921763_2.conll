@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	234117	_
+2	man	man	_	NN	_	3	SBJ	234117	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	pulling	pull	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	234113	_
+6	group	group	_	NN	_	4	OBJ	234113	_
+7	of	of	_	IN	_	6	NMOD	234113	_
+8	children	child	_	NNS	_	7	PMOD	234113	_
+9	in	in	_	IN	_	4	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	234116	_
+11	horse-drawn	horse-drawn	_	JJ	_	12	NMOD	234116	_
+12	cart	cart	_	NN	_	9	PMOD	234116	_
+13	past	past	_	IN	_	4	ADV	_	4
+14	stone	stone	_	JJ	_	15	NMOD	234119	_
+15	buildings	building	_	NNS	_	13	PMOD	234119	_
+16	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	77622	_
+2	dogs	dog	_	NNS	_	3	SBJ	77622	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	being	be	_	VBG	_	3	VC	_	_
+5	led	lead	_	VBN	_	4	VC	_	_
+6	into	into	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	77626	_
+8	building	building	_	NN	_	6	PMOD	77626	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	leashes	leash	_	NNS	_	9	PMOD	77624	_
+11	.	.	_	.	_	3	P	_	_

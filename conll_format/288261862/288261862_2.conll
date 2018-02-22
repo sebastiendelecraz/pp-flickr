@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	78788	_
+2	marching	march	_	VBG	_	3	NMOD	78788	_
+3	band	band	_	NN	_	4	SBJ	78788	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	standing	stand	_	VBG	_	4	VC	_	_
+6	outside	outside	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	78789	_
+8	building	building	_	NN	_	6	PMOD	78789	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	an	an	_	DT	_	12	NMOD	78791	_
+11	urban	urban	_	JJ	_	12	NMOD	78791	_
+12	area	area	_	NN	_	9	PMOD	78791	_
+13	.	.	_	.	_	4	P	_	_

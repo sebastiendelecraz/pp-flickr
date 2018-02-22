@@ -1,0 +1,22 @@
+1	Three	Three	_	CD	_	2	NMOD	34672	_
+2	adults	adult	_	NNS	_	3	SBJ	34672	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	34679	_
+6	bench	bench	_	NN	_	4	PMOD	34679	_
+7	in front of	in front of	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	34675	_
+9	sign	sign	_	NN	_	7	PMOD	34675	_
+10	for	for	_	IN	_	9	NMOD	_	9
+11	Joe	Joe	_	NNP	_	13	NMOD	34674	_
+12	'	'	_	POS	_	11	SUFFIX	34674	_
+13	s	s	_	NN	_	10	PMOD	34674	_
+14	Cafe	Cafe	_	NNP	_	9	APPO	34674	_
+15	listening	listen	_	VBG	_	3	ADV	_	_
+16	to	to	_	TO	_	15	DIR	_	_
+17	one	one	_	CD	_	19	NMOD	34673	_
+18	man	man	_	NN	_	19	NMOD	34673	_
+19	play	play	_	NN	_	16	PMOD	_	_
+20	the	the	_	DT	_	21	NMOD	34680	_
+21	guitar	guitar	_	NN	_	19	ADV	34680	_
+22	.	.	_	.	_	0	ROOT	_	_

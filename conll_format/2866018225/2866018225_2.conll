@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	77678	_
+2	man	man	_	NN	_	0	ROOT	77678	_
+3	in	in	_	IN	_	0	ROOT	_	_
+4	black	black	_	JJ	_	3	PMOD	77679	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	singing	sing	_	VBG	_	5	VC	_	_
+7	into	into	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	77681	_
+9	microphone	microphone	_	NN	_	7	PMOD	77681	_
+10	behind	behind	_	IN	_	9	NMOD	_	6
+11	a	a	_	DT	_	13	NMOD	77680	_
+12	green	green	_	JJ	_	13	NMOD	77680	_
+13	light	light	_	NN	_	10	PMOD	77680	_
+14	.	.	_	.	_	5	P	_	_

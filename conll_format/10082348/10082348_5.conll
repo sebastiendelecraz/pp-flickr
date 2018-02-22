@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	253	_
+2	man	man	_	NN	_	3	SBJ	253	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	257	_
+6	urinal	urinal	_	NN	_	4	PMOD	257	_
+7	with	with	_	IN	_	6	NMOD	_	3
+8	a	a	_	DT	_	10	NMOD	256	_
+9	coffee	coffee	_	NN	_	10	NMOD	256	_
+10	cup	cup	_	NN	_	7	PMOD	256	_
+11	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	104094	_
+2	little	little	_	JJ	_	3	NMOD	104094	_
+3	girl	girl	_	NN	_	4	SBJ	104094	_
+4	blows	blow	_	VBZ	_	0	ROOT	_	_
+5	bubbles	bubble	_	NNS	_	4	OBJ	104099	_
+6	in	in	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	8	NMOD	104096	_
+8	courtyard	courtyard	_	NN	_	6	PMOD	104096	_
+9	with	with	_	IN	_	4	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	104095	_
+11	ship	ship	_	NN	_	9	PMOD	104095	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	4	P	_	_

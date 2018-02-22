@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	275932	_
+2	man	man	_	NN	_	0	ROOT	275932	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	racing	race	_	VBG	_	3	OPRD	275940	_
+5	gear	gear	_	NN	_	6	NMOD	275940	_
+6	rides	ride	_	NNS	_	4	OBJ	_	_
+7	a	a	_	DT	_	8	NMOD	275933	_
+8	bicycle	bicycle	_	NN	_	4	OBJ	275933	_
+9	on	on	_	IN	_	4	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	275935	_
+11	road	road	_	NN	_	9	PMOD	275935	_
+12	past	past	_	IN	_	4	ADV	_	6
+13	fields	field	_	NNS	_	12	PMOD	275936	_
+14	of	of	_	IN	_	13	NMOD	275936	_
+15	grapevines	grapevine	_	NNS	_	14	PMOD	275936	_
+16	.	.	_	.	_	0	ROOT	_	_

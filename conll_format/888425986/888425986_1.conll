@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	282997	_
+2	person	person	_	NN	_	3	SBJ	282997	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	doing	do	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	282998	_
+6	flip	flip	_	JJ	_	4	OBJ	282998	_
+7	in	in	_	IN	_	4	ADV	_	_
+8	midair	midair	_	NN	_	7	PMOD	283000	_
+9	near	near	_	IN	_	8	LOC	_	4
+10	a	a	_	DT	_	11	NMOD	282999	_
+11	lake	lake	_	NN	_	9	PMOD	282999	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	sails	sail	_	NNS	_	12	PMOD	283001	_
+14	behind	behind	_	IN	_	11	LOC	_	_
+15	him	him	_	PRP	_	14	PMOD	0	_
+16	.	.	_	.	_	3	P	_	_

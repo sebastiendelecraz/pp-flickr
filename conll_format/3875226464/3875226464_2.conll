@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	146605	_
+2	man	man	_	NN	_	9	SBJ	146605	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	146607	_
+5	beer	beer	_	NN	_	3	PMOD	146607	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	his	his	_	PRP$	_	8	NMOD	146613	_
+8	hand	hand	_	NN	_	6	PMOD	146613	_
+9	listens	listen	_	VBZ	_	0	ROOT	_	_
+10	to	to	_	TO	_	9	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	146606	_
+12	woman	woman	_	NN	_	13	NMOD	146606	_
+13	talk	talk	_	NN	_	10	PMOD	_	_
+14	.	.	_	.	_	9	P	_	_

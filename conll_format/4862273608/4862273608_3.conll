@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	NAME	212419	_
+2	waiting	wait	_	VBG	_	0	ROOT	_	_
+3	outside of	outside of	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	212421	_
+5	building	building	_	NN	_	3	PMOD	212421	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	212423	_
+8	sunlight	sunlight	_	NN	_	6	PMOD	212423	_
+9	.	.	_	.	_	0	ROOT	_	_

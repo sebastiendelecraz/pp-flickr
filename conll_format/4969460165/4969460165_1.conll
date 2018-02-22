@@ -1,0 +1,15 @@
+1	Young	Young	_	NNP	_	2	NMOD	224390	_
+2	men	man	_	NNS	_	3	SBJ	224390	_
+3	mingle	mingle	_	VBP	_	0	ROOT	_	_
+4	around	around	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	224393	_
+6	basketball	basketball	_	NN	_	7	NMOD	224393	_
+7	court	court	_	NN	_	4	PMOD	224393	_
+8	with	with	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	11	NMOD	224392	_
+10	ferris	ferris	_	CD	_	11	NMOD	224392	_
+11	wheel	wheel	_	NN	_	8	PMOD	224392	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	3	P	_	_

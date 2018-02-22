@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	87494	_
+2	fluffy	fluffy	_	JJ	_	3	NMOD	87494	_
+3	dog	dog	_	NN	_	4	SBJ	87494	_
+4	runs	run	_	VBZ	_	0	ROOT	_	_
+5	across	across	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	87495	_
+7	bridge	bridge	_	NN	_	5	PMOD	87495	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	87496	_
+10	forest	forest	_	NN	_	8	PMOD	87496	_
+11	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,10 @@
+1	Person	Person	_	NNP	_	6	NAME	112042	_
+2	on	on	_	IN	_	6	LOC	_	_
+3	skis	ski	_	NNS	_	2	PMOD	112046	_
+4	upside	upside	_	RB	_	6	TMP	_	_
+5	down	down	_	IN	_	4	AMOD	_	_
+6	caught	caught	_	VBN	_	0	ROOT	_	_
+7	between	between	_	IN	_	6	ADV	_	6
+8	two	two	_	CD	_	9	NMOD	112047	_
+9	trees	tree	_	NNS	_	7	PMOD	112047	_
+10	.	.	_	.	_	0	ROOT	_	_

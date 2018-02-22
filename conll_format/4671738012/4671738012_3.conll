@@ -1,0 +1,13 @@
+1	Palestinians	Palestinians	_	NNS	_	0	ROOT	188959	_
+2	demonstrating	demonstrate	_	VBG	_	1	APPO	_	_
+3	at	at	_	IN	_	2	LOC	_	2
+4	Gaza	Gaza	_	NNP	_	5	NAME	188965	_
+5	Street	Street	_	NNP	_	3	PMOD	188965	_
+6	amid	amid	_	IN	_	2	LOC	_	1
+7	strong	strong	_	JJ	_	8	NMOD	188974	_
+8	sanctions	sanction	_	NNS	_	6	PMOD	188974	_
+9	by	by	_	IN	_	1	NMOD	_	_
+10	the	the	_	DT	_	12	NMOD	188975	_
+11	Israel	Israel	_	NNP	_	12	NMOD	188975	_
+12	government	government	_	NN	_	9	PMOD	188975	_
+13	.	.	_	.	_	0	ROOT	_	_

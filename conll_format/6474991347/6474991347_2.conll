@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	3	NMOD	254742	_
+2	basketball	basketball	_	NN	_	3	NMOD	254742	_
+3	teams	team	_	NNS	_	4	SBJ	254742	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	scrambling	scramble	_	VBG	_	4	VC	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	the	the	_	DT	_	8	NMOD	254746	_
+8	ball	ball	_	NN	_	6	PMOD	254746	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	play	play	_	NN	_	9	PMOD	254753	_
+11	.	.	_	.	_	4	P	_	_

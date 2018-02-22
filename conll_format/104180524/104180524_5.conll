@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	SBJ	1071	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	over	over	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	8	NMOD	1072	_
+5	white	white	_	JJ	_	8	NMOD	1072	_
+6	and	and	_	CC	_	5	COORD	1072	_
+7	red	red	_	JJ	_	6	CONJ	1072	_
+8	bridge	bridge	_	NN	_	3	PMOD	1072	_
+9	over	over	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	1073	_
+11	pond	pond	_	NN	_	9	PMOD	1073	_
+12	.	.	_	.	_	0	ROOT	_	_

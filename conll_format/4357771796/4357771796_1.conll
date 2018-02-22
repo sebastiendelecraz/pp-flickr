@@ -1,0 +1,12 @@
+1	Man	Man	_	NNP	_	0	ROOT	164694	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	black	black	_	JJ	_	4	NMOD	164695	_
+4	shirt	shirt	_	NN	_	2	PMOD	164695	_
+5	singing	sing	_	VBG	_	4	APPO	_	_
+6	into	into	_	IN	_	5	DIR	_	5
+7	microphone	microphone	_	NN	_	6	PMOD	164697	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	playing	playing	_	NN	_	8	CONJ	_	_
+10	a	a	_	DT	_	11	NMOD	164696	_
+11	guitar	guitar	_	NN	_	6	PMOD	164696	_
+12	.	.	_	.	_	0	ROOT	_	_

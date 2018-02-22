@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	195136	_
+2	brick	brick	_	NN	_	4	NMOD	195136	_
+3	covered	cover	_	VBN	_	4	NMOD	_	_
+4	road	road	_	NN	_	5	SBJ	195144	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	outside of	outside of	_	IN	_	5	PRD	195134	5
+7	a	a	_	DT	_	10	NMOD	195134	_
+8	large	large	_	JJ	_	10	NMOD	195134	_
+9	tan	tan	_	NN	_	10	NMOD	195134	_
+10	building	building	_	NN	_	6	PMOD	195134	_
+11	with	with	_	IN	_	10	NMOD	_	10
+12	a	a	_	DT	_	15	NMOD	195140	_
+13	cm	cm	_	NN	_	14	NMOD	195140	_
+14	studio	studio	_	NN	_	15	NMOD	195140	_
+15	sign	sign	_	NN	_	11	PMOD	195140	_
+16	.	.	_	.	_	5	P	_	_

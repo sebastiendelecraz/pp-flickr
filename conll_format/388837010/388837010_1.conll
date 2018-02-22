@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	147081	_
+2	children	child	_	NNS	_	0	ROOT	147081	_
+3	looking	look	_	VBG	_	2	APPO	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	horses	horse	_	NNS	_	4	PMOD	147084	_
+6	through	through	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	9	NMOD	147082	_
+8	small	small	_	JJ	_	9	NMOD	147082	_
+9	fence	fence	_	NN	_	6	PMOD	147082	_
+10	.	.	_	.	_	0	ROOT	_	_

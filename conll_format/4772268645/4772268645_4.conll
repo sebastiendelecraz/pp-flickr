@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	201284	_
+2	man	man	_	NN	_	6	SBJ	201284	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	his	his	_	PRP$	_	5	NMOD	201286	_
+5	guitar	guitar	_	NN	_	3	PMOD	201286	_
+6	plays	play	_	VBZ	_	0	ROOT	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	201291	_
+9	street	street	_	NN	_	7	PMOD	201291	_
+10	for	for	_	IN	_	9	NMOD	_	6
+11	tips	tip	_	NNS	_	10	PMOD	201303	_
+12	.	.	_	.	_	6	P	_	_

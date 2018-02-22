@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	214938	_
+2	girl	girl	_	NN	_	0	ROOT	214938	_
+3	behind	behind	_	IN	_	2	LOC	_	2
+4	the	the	_	DT	_	5	NMOD	214941	_
+5	window	window	_	NN	_	3	PMOD	214941	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	the	the	_	DT	_	9	NMOD	214939	_
+8	red	red	_	JJ	_	9	NMOD	214939	_
+9	bus	bus	_	NN	_	6	PMOD	214939	_
+10	.	.	_	.	_	0	ROOT	_	_

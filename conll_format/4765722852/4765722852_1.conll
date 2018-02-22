@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	200716	_
+2	group	group	_	NN	_	0	ROOT	200716	_
+3	of	of	_	IN	_	2	NMOD	200716	_
+4	police	police	_	NN	_	5	NMOD	200716	_
+5	officers	officer	_	NNS	_	3	PMOD	200716	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	shields	shield	_	NNS	_	6	PMOD	200719	_
+8	on	on	_	IN	_	2	LOC	_	2
+9	a	a	_	DT	_	11	NMOD	200717	_
+10	brick	brick	_	NN	_	11	NMOD	200717	_
+11	courtyard	courtyard	_	NN	_	8	PMOD	200717	_
+12	,	,	_	,	_	0	ROOT	_	_
+13	outside	outside	_	IN	_	0	ROOT	_	_
+14	a	a	_	DT	_	16	NMOD	200718	_
+15	white	white	_	JJ	_	16	NMOD	200718	_
+16	building	building	_	NN	_	13	PMOD	200718	_
+17	.	.	_	.	_	0	ROOT	_	_

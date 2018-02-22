@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	218376	_
+2	trains	train	_	NNS	_	3	SBJ	218376	_
+3	stop	stop	_	VBP	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	passengers	passenger	_	NNS	_	4	PMOD	218375	_
+6	at	at	_	IN	_	3	LOC	_	_
+7	a	a	_	DT	_	10	NMOD	218378	_
+8	modern	modern	_	JJ	_	10	NMOD	218378	_
+9	train	train	_	NN	_	10	NMOD	218378	_
+10	station	station	_	NN	_	6	PMOD	218378	_
+11	.	.	_	.	_	3	P	_	_

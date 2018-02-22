@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	113822	_
+2	muscular	muscular	_	JJ	_	3	NMOD	113822	_
+3	dog	dog	_	NN	_	7	SBJ	113822	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	upturned	upturn	_	VBN	_	6	NMOD	113830	_
+6	face	face	_	NN	_	4	PMOD	113830	_
+7	looking	look	_	VBG	_	0	ROOT	_	_
+8	into	into	_	IN	_	7	ADV	_	7
+9	eyes	eye	_	NNS	_	8	PMOD	113819	_
+10	of	of	_	IN	_	9	NMOD	113819	_
+11	a	a	_	DT	_	13	NMOD	113819	_
+12	young	young	_	JJ	_	13	NMOD	113819	_
+13	boy	boy	_	NN	_	10	PMOD	113819	_
+14	.	.	_	.	_	0	ROOT	_	_

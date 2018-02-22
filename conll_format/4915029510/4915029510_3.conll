@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	217944	_
+2	man	man	_	NN	_	6	SBJ	217944	_
+3	without	without	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	217949	_
+5	shirt	shirt	_	NN	_	3	PMOD	217949	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	sitting	sit	_	VBG	_	6	VC	_	_
+8	in	in	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	11	NMOD	217945	_
+10	black	black	_	JJ	_	11	NMOD	217945	_
+11	chair	chair	_	NN	_	8	PMOD	217945	_
+12	on	on	_	IN	_	11	NMOD	_	_
+13	a	a	_	DT	_	15	NMOD	217947	_
+14	crowded	crowd	_	VBN	_	15	NMOD	217947	_
+15	sidewalk	sidewalk	_	NN	_	12	PMOD	217947	_
+16	.	.	_	.	_	6	P	_	_

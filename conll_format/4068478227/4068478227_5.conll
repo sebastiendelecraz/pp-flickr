@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	154059	_
+2	man	man	_	NN	_	8	SBJ	154059	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	154056	_
+5	bouquet	bouquet	_	NN	_	3	PMOD	154056	_
+6	of	of	_	IN	_	5	NMOD	154056	_
+7	recorders	recorder	_	NNS	_	6	PMOD	154056	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	playing	play	_	VBG	_	8	VC	_	_
+10	one	one	_	CD	_	9	OBJ	0	_
+11	of	of	_	IN	_	10	NMOD	0	_
+12	them	them	_	PRP	_	11	PMOD	0	_
+13	.	.	_	.	_	8	P	_	_

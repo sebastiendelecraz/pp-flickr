@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	34207	_
+2	girl	girl	_	NN	_	0	ROOT	34207	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	5	NMOD	34217	_
+5	chases	chase	_	NNS	_	3	PMOD	_	_
+6	the	the	_	DT	_	7	NMOD	34210	_
+7	ball	ball	_	NN	_	5	ADV	34210	_
+8	during	during	_	IN	_	2	TMP	_	5
+9	an	an	_	DT	_	12	NMOD	34211	_
+10	indoor	indoor	_	JJ	_	12	NMOD	34211	_
+11	basketball	basketball	_	NN	_	12	NMOD	34211	_
+12	game	game	_	NN	_	8	PMOD	34211	_
+13	.	.	_	.	_	0	ROOT	_	_

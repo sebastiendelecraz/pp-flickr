@@ -1,0 +1,22 @@
+1	The	the	_	DT	_	2	NMOD	127273	_
+2	boy	boy	_	NN	_	7	SBJ	127273	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	6	NMOD	127278	_
+5	gray	gray	_	JJ	_	6	NMOD	127278	_
+6	t-shirt	t-shirt	_	NN	_	3	PMOD	127278	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	127274	_
+11	girl	girl	_	NN	_	9	PMOD	127274	_
+12	in	in	_	IN	_	8	LOC	_	_
+13	the	the	_	DT	_	18	NMOD	127280	_
+14	green	green	_	JJ	_	18	NMOD	127280	_
+15	dress	dress	_	NN	_	18	NMOD	127280	_
+16	and	and	_	CC	_	15	COORD	_	_
+17	cowboy	cowboy	_	NN	_	16	CONJ	127276	_
+18	hat	hat	_	NN	_	12	PMOD	127276	_
+19	on	on	_	IN	_	18	NMOD	_	_
+20	the	the	_	DT	_	21	NMOD	127275	_
+21	beach	beach	_	NN	_	19	PMOD	127275	_
+22	.	.	_	.	_	7	P	_	_

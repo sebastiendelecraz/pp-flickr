@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	139396	_
+2	young	young	_	JJ	_	3	NMOD	139396	_
+3	girl	girl	_	NN	_	4	SBJ	139396	_
+4	crouched	crouch	_	VBD	_	8	SBJ	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	the	the	_	DT	_	7	NMOD	139401	_
+7	floor	floor	_	NN	_	5	PMOD	139401	_
+8	picks	pick	_	VBZ	_	0	ROOT	139401	_
+9	at	at	_	IN	_	8	ADV	_	_
+10	flowers	flower	_	NNS	_	9	PMOD	139399	_
+11	in	in	_	IN	_	10	LOC	_	8
+12	a	a	_	DT	_	13	NMOD	139397	_
+13	basket	basket	_	NN	_	11	PMOD	139397	_
+14	.	.	_	.	_	8	P	_	_

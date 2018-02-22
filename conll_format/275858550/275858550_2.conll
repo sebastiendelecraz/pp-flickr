@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	70934	_
+2	man	man	_	NN	_	0	ROOT	70934	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	70935	_
+5	black	black	_	JJ	_	6	NMOD	70935	_
+6	vest	vest	_	NN	_	3	PMOD	70935	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	in the middle of	in the middle of	_	IN	_	7	ADV	70936	7
+9	a	a	_	DT	_	10	NMOD	70936	_
+10	crowd	crowd	_	NN	_	8	PMOD	70936	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	his	his	_	PRP$	_	13	NMOD	70941	_
+13	hands	hand	_	NNS	_	11	PMOD	70941	_
+14	on	on	_	IN	_	10	LOC	_	_
+15	his	his	_	PRP$	_	16	NMOD	70942	_
+16	hips	hip	_	NNS	_	14	PMOD	70942	_
+17	.	.	_	.	_	0	ROOT	_	_

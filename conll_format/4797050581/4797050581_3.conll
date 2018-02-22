@@ -1,0 +1,10 @@
+1	Various	various	_	DT	_	2	NMOD	203623	_
+2	people	people	_	NN	_	3	SBJ	203623	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	6	NMOD	203627	_
+6	building	building	_	NN	_	4	PMOD	203627	_
+7	of	of	_	IN	_	6	NMOD	203627	_
+8	some	some	_	DT	_	9	NMOD	203627	_
+9	kind	kind	_	NN	_	7	PMOD	203627	_
+10	.	.	_	.	_	0	ROOT	_	_

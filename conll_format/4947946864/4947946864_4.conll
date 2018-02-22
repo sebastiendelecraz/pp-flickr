@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	SBJ	222014	_
+2	sit	sit	_	VBP	_	0	ROOT	_	_
+3	outside	outside	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	222018	_
+5	tea	tea	_	NN	_	6	NMOD	222018	_
+6	house	house	_	NN	_	3	PMOD	222018	_
+7	on	on	_	IN	_	2	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	222016	_
+9	nice	nice	_	JJ	_	10	NMOD	222016	_
+10	day	day	_	NN	_	7	PMOD	222016	_
+11	.	.	_	.	_	2	P	_	_

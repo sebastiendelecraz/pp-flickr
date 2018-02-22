@@ -1,0 +1,12 @@
+1	Five	Five	_	CD	_	2	NMOD	4833	_
+2	children	child	_	NNS	_	3	SBJ	4833	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC-PRD	_	_
+5	a	a	_	DT	_	7	NMOD	4834	_
+6	carnival	carnival	_	NN	_	7	NMOD	4834	_
+7	ride	ride	_	NN	_	4	PMOD	4834	_
+8	under	under	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	11	NMOD	4835	_
+10	clown	clown	_	NN	_	11	NMOD	4835	_
+11	face	face	_	NN	_	8	PMOD	4835	_
+12	.	.	_	.	_	3	P	_	_

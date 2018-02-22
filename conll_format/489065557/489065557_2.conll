@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	215405	_
+2	boy	boy	_	NN	_	3	SBJ	215405	_
+3	wearing	wear	_	VBG	_	7	SBJ	_	_
+4	red	red	_	JJ	_	6	NMOD	215408	_
+5	swim	swim	_	NN	_	6	NMOD	215408	_
+6	trunks	trunk	_	NNS	_	3	OBJ	215408	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	swinging	swing	_	VBG	_	7	VC	_	_
+9	from	from	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	215407	_
+11	rope	rope	_	NN	_	9	PMOD	215407	_
+12	into	into	_	IN	_	8	DIR	_	8
+13	the	the	_	DT	_	14	NMOD	215406	_
+14	water	water	_	NN	_	12	PMOD	215406	_
+15	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	77813	_
+2	man	man	_	NN	_	3	SBJ	77813	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	77821	_
+6	transportation	transportation	_	NN	_	7	NMOD	77821	_
+7	station	station	_	NN	_	4	PMOD	77821	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	two	two	_	CD	_	10	NMOD	77814	_
+10	officers	officer	_	NNS	_	8	CONJ	77814	_
+11	in	in	_	IN	_	7	LOC	_	_
+12	neon	neon	_	NN	_	13	NMOD	77817	_
+13	jackets	jacket	_	NNS	_	11	PMOD	77817	_
+14	stand	stand	_	VBP	_	15	NMOD	_	_
+15	guard	guard	_	NN	_	3	OBJ	77814	_
+16	.	.	_	.	_	3	P	_	_

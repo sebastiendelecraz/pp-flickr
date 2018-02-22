@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	224224	_
+2	couple	couple	_	NN	_	3	SBJ	224224	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	an	an	_	DT	_	7	NMOD	224230	_
+6	ally	ally	_	NN	_	7	NMOD	224230	_
+7	way	way	_	NN	_	4	PMOD	224230	_
+8	near	near	_	IN	_	7	LOC	_	3
+9	the	the	_	DT	_	10	NMOD	224227	_
+10	water	water	_	NN	_	8	PMOD	224227	_
+11	.	.	_	.	_	0	ROOT	_	_

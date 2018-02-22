@@ -1,0 +1,8 @@
+1	Children	child	_	NNS	_	2	SBJ	106809	_
+2	hang	hang	_	VBP	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	5	NMOD	106810	_
+5	wall	wall	_	NN	_	3	PMOD	106810	_
+6	next to	next to	_	IN	_	5	NMOD	_	2
+7	water	water	_	NN	_	6	PMOD	106812	_
+8	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	131153	_
+2	mountain	mountain	_	NN	_	3	NMOD	131153	_
+3	biker	biker	_	NN	_	4	SBJ	131153	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	giong	giong	_	CD	_	4	PRD	_	_
+6	down	down	_	IN	_	4	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	131158	_
+8	hill	hill	_	NN	_	6	PMOD	131158	_
+9	on	on	_	IN	_	4	LOC	_	_
+10	his	his	_	PRP$	_	11	NMOD	131154	_
+11	bike	bike	_	NN	_	9	PMOD	131154	_
+12	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	SBJ	91106	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	getting	get	_	VBG	_	2	VC	_	_
+4	food	food	_	NN	_	3	OBJ	91108	_
+5	from	from	_	IN	_	3	ADV	_	3
+6	a	a	_	DT	_	8	NMOD	91112	_
+7	food	food	_	NN	_	8	NMOD	91112	_
+8	stand	stand	_	NN	_	5	PMOD	91112	_
+9	by	by	_	IN	_	3	TMP	_	_
+10	the	the	_	DT	_	11	NMOD	91116	_
+11	water	water	_	NN	_	9	PMOD	91116	_
+12	.	.	_	.	_	2	P	_	_

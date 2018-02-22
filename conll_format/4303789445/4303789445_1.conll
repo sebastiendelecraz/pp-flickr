@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	162445	_
+2	man	man	_	NN	_	6	SBJ	162445	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	162446	_
+5	bicycle	bicycle	_	NN	_	3	PMOD	162446	_
+6	stops	stop	_	VBZ	_	0	ROOT	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	162449	_
+9	rest	rest	_	NN	_	7	PMOD	162449	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	his	his	_	PRP$	_	13	NMOD	162447	_
+12	leashed	leash	_	VBN	_	13	NMOD	162447	_
+13	dogs	dog	_	NNS	_	10	PMOD	162447	_
+14	.	.	_	.	_	6	P	_	_

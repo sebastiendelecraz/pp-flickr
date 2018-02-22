@@ -1,0 +1,21 @@
+1	Man	Man	_	NNP	_	0	ROOT	243174	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	red	red	_	JJ	_	4	NMOD	243180	_
+4	shirt	shirt	_	NN	_	2	PMOD	243180	_
+5	standing	stand	_	VBG	_	0	ROOT	_	_
+6	at the bottom of	at the bottom of	_	IN	_	5	ADV	243181	5
+7	steps	step	_	NNS	_	6	PMOD	243181	_
+8	overlooking	overlook	_	VBG	_	7	APPO	_	_
+9	blue	blue	_	JJ	_	10	NMOD	243175	_
+10	water	water	_	NN	_	8	OBJ	243175	_
+11	with	with	_	IN	_	8	ADV	_	_
+12	green	green	_	JJ	_	13	NMOD	243179	_
+13	mountain	mountain	_	NN	_	11	PMOD	243179	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	17	NMOD	243177	_
+16	right	right	_	NN	_	17	NMOD	243177	_
+17	two-thirds	two-thirds	_	NN	_	14	PMOD	243177	_
+18	of	of	_	IN	_	17	NMOD	243177	_
+19	the	the	_	DT	_	20	NMOD	243177	_
+20	horizon	horizon	_	NN	_	18	PMOD	243177	_
+21	.	.	_	.	_	0	ROOT	_	_

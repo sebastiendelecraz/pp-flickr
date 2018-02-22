@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	35088	_
+2	lady	lady	_	NN	_	10	SBJ	35088	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	9	NMOD	35089	_
+5	dark	dark	_	JJ	_	9	NMOD	35089	_
+6	top	top	_	JJ	_	9	NMOD	35089	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	black	black	_	JJ	_	7	CONJ	35090	_
+9	necklace	necklace	_	NN	_	3	PMOD	35090	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	sitting	sit	_	VBG	_	10	VC	_	_
+12	next to	next to	_	IN	_	11	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	35091	_
+14	man	man	_	NN	_	12	PMOD	35091	_
+15	in	in	_	IN	_	11	LOC	_	14
+16	a	a	_	DT	_	18	NMOD	35092	_
+17	black	black	_	JJ	_	18	NMOD	35092	_
+18	sweater	sweater	_	NN	_	15	PMOD	35092	_
+19	and	and	_	CC	_	11	COORD	_	_
+20	listening	listen	_	VBG	_	19	CONJ	_	_
+21	to	to	_	TO	_	20	ADV	_	_
+22	a	a	_	DT	_	23	NMOD	35095	_
+23	conversation	conversation	_	NN	_	21	PMOD	35095	_
+24	.	.	_	.	_	10	P	_	_

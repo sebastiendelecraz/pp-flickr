@@ -1,0 +1,14 @@
+1	Three	Three	_	CD	_	2	NMOD	269485	_
+2	members	member	_	NNS	_	0	ROOT	269485	_
+3	of	of	_	IN	_	2	NMOD	269485	_
+4	the	the	_	DT	_	6	NMOD	269485	_
+5	Guard	Guard	_	NNP	_	6	NMOD	269485	_
+6	march	march	_	NN	_	3	PMOD	269485	_
+7	with	with	_	IN	_	2	NMOD	_	_
+8	their	their	_	PRP$	_	9	NMOD	269488	_
+9	rifles	rifle	_	NNS	_	7	PMOD	269488	_
+10	in	in	_	IN	_	2	LOC	_	6
+11	a	a	_	DT	_	13	NMOD	269486	_
+12	ceremonial	ceremonial	_	JJ	_	13	NMOD	269486	_
+13	procession	procession	_	NN	_	10	PMOD	269486	_
+14	.	.	_	.	_	0	ROOT	_	_

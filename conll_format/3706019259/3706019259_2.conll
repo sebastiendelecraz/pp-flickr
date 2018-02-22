@@ -1,0 +1,18 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	138266	_
+4	woman	woman	_	NN	_	2	SBJ	138266	_
+5	holding	hold	_	VBG	_	4	APPO	_	_
+6	a	a	_	DT	_	7	NMOD	138258	_
+7	baby	baby	_	NN	_	5	OBJ	138258	_
+8	,	,	_	,	_	2	P	_	_
+9	along with	along with	_	IN	_	17	ADV	_	4
+10	a	a	_	DT	_	11	NMOD	138265	_
+11	man	man	_	NN	_	9	PMOD	138265	_
+12	with	with	_	IN	_	17	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	138269	_
+14	save	save	_	NN	_	12	PMOD	138269	_
+15	the	the	_	DT	_	16	NMOD	138263	_
+16	children	child	_	NNS	_	17	SBJ	138263	_
+17	bag	bag	_	VBP	_	2	PRD	138263	_
+18	.	.	_	.	_	2	P	_	_

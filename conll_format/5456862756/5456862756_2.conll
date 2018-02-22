@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	236977	_
+2	young	young	_	JJ	_	3	NMOD	236977	_
+3	women	woman	_	NNS	_	4	SBJ	236977	_
+4	dips	dip	_	VBZ	_	0	ROOT	_	_
+5	her	her	_	PRP$	_	6	NMOD	236980	_
+6	feet	foot	_	NNS	_	4	OBJ	236980	_
+7	into	into	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	10	NMOD	236978	_
+9	natural	natural	_	JJ	_	10	NMOD	236978	_
+10	spring	spring	_	NN	_	7	PMOD	236978	_
+11	in	in	_	IN	_	4	LOC	_	_
+12	an	an	_	DT	_	14	NMOD	236981	_
+13	outdoor	outdoor	_	JJ	_	14	NMOD	236981	_
+14	setting	setting	_	NN	_	11	PMOD	236981	_
+15	.	.	_	.	_	4	P	_	_

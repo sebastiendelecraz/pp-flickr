@@ -1,0 +1,21 @@
+1	Men	Men	_	NNPS	_	0	ROOT	85462	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	hard	hard	_	JJ	_	4	NMOD	85465	_
+4	hats	hat	_	NNS	_	2	PMOD	85465	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	orange	orange	_	JJ	_	9	NMOD	85466	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	green	green	_	JJ	_	7	CONJ	85467	_
+9	outfits	outfit	_	NNS	_	5	CONJ	85467	_
+10	walking	walk	_	VBG	_	9	APPO	_	_
+11	outside of	outside of	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	15	NMOD	85468	_
+13	gray	gray	_	JJ	_	15	NMOD	85468	_
+14	concrete	concrete	_	NN	_	15	NMOD	85468	_
+15	structure	structure	_	NN	_	11	PMOD	85468	_
+16	with	with	_	IN	_	15	NMOD	_	_
+17	short	short	_	JJ	_	18	NMOD	85469	_
+18	fencing	fencing	_	NN	_	16	PMOD	85469	_
+19	in front of	in front of	_	IN	_	10	ADV	_	_
+20	it	it	_	PRP	_	19	PMOD	0	_
+21	.	.	_	.	_	0	ROOT	_	_

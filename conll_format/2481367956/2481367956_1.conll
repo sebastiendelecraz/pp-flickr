@@ -1,0 +1,15 @@
+1	Small	Small	_	NNP	_	2	NMOD	52658	_
+2	boy	boy	_	NN	_	12	NMOD	52658	_
+3	reaching	reach	_	VBG	_	2	APPO	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	blue	blue	_	JJ	_	6	NMOD	52659	_
+6	bar	bar	_	NN	_	4	PMOD	52659	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	play	play	_	NN	_	9	NMOD	52660	_
+9	area	area	_	NN	_	7	PMOD	52660	_
+10	,	,	_	,	_	2	P	_	_
+11	another	another	_	DT	_	12	NMOD	52661	_
+12	child	child	_	NN	_	0	ROOT	52661	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	background	background	_	NN	_	13	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

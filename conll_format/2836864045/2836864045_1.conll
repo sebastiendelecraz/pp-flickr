@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	7	NMOD	75825	_
+2	black	black	_	JJ	_	7	NMOD	75825	_
+3	,	,	_	,	_	2	P	75825	_
+4	brown	brown	_	JJ	_	2	COORD	75825	_
+5	and	and	_	CC	_	4	COORD	75825	_
+6	white	white	_	JJ	_	5	CONJ	75825	_
+7	dog	dog	_	NN	_	8	SBJ	75825	_
+8	running	run	_	VBG	_	0	ROOT	_	_
+9	along with	along with	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	12	NMOD	75826	_
+11	white	white	_	JJ	_	12	NMOD	75826	_
+12	Frisbee	Frisbee	_	NNP	_	9	PMOD	75826	_
+13	in	in	_	IN	_	8	LOC	_	_
+14	his	his	_	PRP$	_	15	NMOD	75827	_
+15	mouth	mouth	_	NN	_	13	PMOD	75827	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	201544	_
+2	young	young	_	JJ	_	3	NMOD	201544	_
+3	woman	woman	_	NN	_	8	SBJ	201544	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	an	an	_	DT	_	7	NMOD	201547	_
+6	elaborate	elaborate	_	JJ	_	7	NMOD	201547	_
+7	hairstyle	hairstyle	_	NN	_	4	PMOD	201547	_
+8	sings	sing	_	VBZ	_	0	ROOT	_	_
+9	into	into	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	201546	_
+11	microphone	microphone	_	NN	_	9	PMOD	201546	_
+12	in	in	_	IN	_	8	LOC	_	_
+13	an	an	_	DT	_	15	NMOD	201551	_
+14	unspecified	unspecified	_	JJ	_	15	NMOD	201551	_
+15	situation	situation	_	NN	_	12	PMOD	201551	_
+16	.	.	_	.	_	8	P	_	_

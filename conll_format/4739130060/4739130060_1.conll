@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	197418	_
+2	crowd	crowd	_	NN	_	5	SBJ	197418	_
+3	of	of	_	IN	_	2	NMOD	197418	_
+4	people	people	_	NN	_	3	PMOD	197418	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	outside	outside	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	197420	_
+9	white	white	_	JJ	_	10	NMOD	197420	_
+10	train	train	_	NN	_	7	PMOD	197420	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	multiple	multiple	_	JJ	_	13	NMOD	197424	_
+13	entrances	entrance	_	NNS	_	11	PMOD	197424	_
+14	.	.	_	.	_	5	P	_	_

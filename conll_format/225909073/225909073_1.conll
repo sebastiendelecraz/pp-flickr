@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	37393	_
+2	wet	wet	_	NN	_	3	AMOD	37393	_
+3	German	German	_	JJ	_	5	NMOD	37393	_
+4	Shepherd	Shepherd	_	NNP	_	5	NMOD	37393	_
+5	dog	dog	_	NN	_	6	SBJ	37393	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	running	run	_	VBG	_	6	VC	_	_
+8	out of	out of	_	IN	_	7	ADV	_	7
+9	the	the	_	DT	_	10	NMOD	37398	_
+10	ocean	ocean	_	NN	_	8	PMOD	37398	_
+11	with	with	_	IN	_	7	ADV	_	7
+12	a	a	_	DT	_	13	NMOD	37397	_
+13	ball	ball	_	NN	_	11	PMOD	37397	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	its	its	_	PRP$	_	16	NMOD	37399	_
+16	mouth	mouth	_	NN	_	14	PMOD	37399	_
+17	.	.	_	.	_	6	P	_	_

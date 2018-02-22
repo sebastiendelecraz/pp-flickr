@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	130442	_
+2	guy	guy	_	NN	_	3	SBJ	130442	_
+3	lies	lie	_	VBZ	_	13	SBJ	_	_
+4	back	back	_	RP	_	3	PRT	_	_
+5	in	in	_	IN	_	3	LOC	_	3
+6	a	a	_	DT	_	9	NMOD	130443	_
+7	barber	barber	_	NN	_	8	NMOD	130443	_
+8	shop	shop	_	NN	_	9	NMOD	130443	_
+9	chair	chair	_	NN	_	5	PMOD	130443	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	his	his	_	PRP$	_	12	NMOD	130445	_
+12	face	face	_	NN	_	10	PMOD	130445	_
+13	covered	cover	_	VBD	_	0	ROOT	_	_
+14	in	in	_	IN	_	13	ADV	_	_
+15	shaving	shave	_	VBG	_	14	PMOD	130444	_
+16	cream	cream	_	NN	_	15	OBJ	130444	_
+17	.	.	_	.	_	13	P	_	_

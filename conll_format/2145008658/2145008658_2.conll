@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	30991	_
+2	man	man	_	NN	_	3	SBJ	30991	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	his	his	_	PRP$	_	6	NMOD	30993	_
+6	arms	arm	_	NNS	_	7	SBJ	30993	_
+7	crossed	cross	_	VBD	_	4	SUB	_	_
+8	,	,	_	,	_	7	P	_	_
+9	smiling	smile	_	VBG	_	7	ADV	_	_
+10	at	at	_	IN	_	9	ADV	_	_
+11	something	something	_	NN	_	10	PMOD	30998	_
+12	out of	out of	_	IN	_	11	NMOD	_	11
+13	view	view	_	NN	_	12	PMOD	30999	_
+14	.	.	_	.	_	3	P	_	_

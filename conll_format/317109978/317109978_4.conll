@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	98076	_
+2	brown	brown	_	JJ	_	3	NMOD	98076	_
+3	dog	dog	_	NN	_	4	SBJ	98076	_
+4	climbs	climb	_	VBZ	_	0	ROOT	_	_
+5	over	over	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	98078	_
+7	fallen	fall	_	VBN	_	8	NMOD	98078	_
+8	branch	branch	_	NN	_	5	PMOD	98078	_
+9	in	in	_	IN	_	4	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	98079	_
+11	wooded	wood	_	VBN	_	12	NMOD	98079	_
+12	area	area	_	NN	_	9	PMOD	98079	_
+13	.	.	_	.	_	4	P	_	_

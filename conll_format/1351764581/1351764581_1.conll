@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	9588	_
+2	fireman	fireman	_	NN	_	3	SBJ	9588	_
+3	sprays	spray	_	VBZ	_	0	ROOT	_	_
+4	inside	inside	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	7	NMOD	9584	_
+6	open	open	_	JJ	_	7	NMOD	9584	_
+7	hood	hood	_	NN	_	4	PMOD	9584	_
+8	of	of	_	IN	_	7	NMOD	9584	_
+9	small	small	_	JJ	_	11	NMOD	9584	_
+10	white	white	_	JJ	_	11	NMOD	9584	_
+11	car	car	_	NN	_	8	PMOD	9584	_
+12	,	,	_	,	_	3	P	_	_
+13	on	on	_	IN	_	3	ADV	_	_
+14	a	a	_	DT	_	15	NMOD	9589	_
+15	jack	jack	_	NN	_	13	PMOD	9589	_
+16	.	.	_	.	_	3	P	_	_

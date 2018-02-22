@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	88700	_
+2	couple	couple	_	NN	_	3	NMOD	88700	_
+3	talk	talk	_	NN	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	88703	_
+6	table	table	_	NN	_	4	PMOD	88703	_
+7	outside	outside	_	IN	_	6	LOC	_	3
+8	Au	Au	_	NNP	_	11	NAME	88704	_
+9	Grain	Grain	_	NNP	_	11	NAME	88704	_
+10	de	de	_	NNP	_	11	NAME	88704	_
+11	Folie	Folie	_	NNP	_	7	PMOD	88704	_
+12	.	.	_	.	_	0	ROOT	_	_

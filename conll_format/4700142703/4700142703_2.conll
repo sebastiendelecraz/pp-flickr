@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	192601	_
+2	man	man	_	NN	_	3	SBJ	192601	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	192604	_
+6	chair	chair	_	NN	_	4	PMOD	192604	_
+7	by	by	_	IN	_	3	LGS	_	_
+8	the	the	_	DT	_	9	NMOD	192602	_
+9	pool	pool	_	NN	_	7	PMOD	192602	_
+10	,	,	_	,	_	3	P	_	_
+11	playing	play	_	VBG	_	3	ADV	_	_
+12	the	the	_	DT	_	13	NMOD	192603	_
+13	guitar	guitar	_	NN	_	11	OBJ	192603	_
+14	.	.	_	.	_	3	P	_	_

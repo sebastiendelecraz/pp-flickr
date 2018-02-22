@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	238800	_
+2	jewelry	jewelry	_	NN	_	3	NMOD	238800	_
+3	maker	maker	_	NN	_	4	SBJ	238800	_
+4	working	work	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	238801	_
+7	beaded	bead	_	VBN	_	8	NMOD	238801	_
+8	necklace	necklace	_	NN	_	5	PMOD	238801	_
+9	at	at	_	IN	_	4	LOC	_	_
+10	his	his	_	PRP$	_	11	NMOD	238802	_
+11	workbench	workbench	_	NN	_	9	PMOD	238802	_
+12	.	.	_	.	_	0	ROOT	_	_

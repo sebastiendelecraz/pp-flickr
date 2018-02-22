@@ -1,0 +1,9 @@
+1	New	New	_	NNP	_	2	NAME	95708	_
+2	Yorkers	Yorkers	_	NNP	_	3	SBJ	95708	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	95710	_
+6	subway	subway	_	NN	_	4	PMOD	95710	_
+7	during	during	_	IN	_	3	TMP	_	3
+8	winter	winter	_	NN	_	7	PMOD	95711	_
+9	.	.	_	.	_	0	ROOT	_	_

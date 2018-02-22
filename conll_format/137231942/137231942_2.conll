@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	10399	_
+2	man	man	_	NN	_	0	ROOT	10399	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	blond-hair	blond-hair	_	CD	_	7	NMOD	10405	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	tattoos	tattoo	_	NNS	_	5	CONJ	10406	_
+7	strolls	stroll	_	NNS	_	3	PMOD	_	_
+8	behind	behind	_	IN	_	7	NMOD	_	7
+9	bleachers	bleacher	_	NNS	_	8	PMOD	10402	_
+10	on	on	_	IN	_	7	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	10401	_
+12	cellphone	cellphone	_	NN	_	10	PMOD	10401	_
+13	.	.	_	.	_	0	ROOT	_	_

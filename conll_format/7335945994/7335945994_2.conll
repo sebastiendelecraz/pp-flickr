@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	268614	_
+2	model	model	_	NN	_	3	SBJ	268614	_
+3	poses	pose	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	268616	_
+6	photo	photo	_	NN	_	7	NMOD	268616	_
+7	shoot	shoot	_	NN	_	4	PMOD	268616	_
+8	inside	inside	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	11	NMOD	268615	_
+10	luxurious	luxurious	_	JJ	_	11	NMOD	268615	_
+11	setting	setting	_	NN	_	8	PMOD	268615	_
+12	.	.	_	.	_	3	P	_	_

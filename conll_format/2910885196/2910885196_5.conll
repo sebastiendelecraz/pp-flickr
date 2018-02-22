@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	80777	_
+2	man	man	_	NN	_	0	ROOT	80777	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	80780	_
+5	knife	knife	_	NN	_	3	PMOD	80780	_
+6	in front of	in front of	_	IN	_	2	NMOD	_	2
+7	a	a	_	DT	_	8	NMOD	80779	_
+8	cake	cake	_	NN	_	6	PMOD	80779	_
+9	.	.	_	.	_	0	ROOT	_	_

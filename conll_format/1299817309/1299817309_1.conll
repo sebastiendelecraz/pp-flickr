@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	7844	_
+2	man	man	_	NN	_	0	ROOT	7844	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	his	his	_	PRP$	_	5	NMOD	7845	_
+5	friend	friend	_	NN	_	3	CONJ	7845	_
+6	hiking	hike	_	VBG	_	5	APPO	_	_
+7	in	in	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	7842	_
+9	mountain	mountain	_	NN	_	7	PMOD	7842	_
+10	near	near	_	IN	_	9	LOC	_	6
+11	Bakersfield	Bakersfield	_	NNP	_	13	NMOD	7846	_
+12	,	,	_	,	_	13	P	_	_
+13	California	California	_	NNP	_	10	PMOD	7847	_
+14	.	.	_	.	_	0	ROOT	_	_

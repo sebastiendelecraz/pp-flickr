@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	248981	_
+2	woman	woman	_	NN	_	0	ROOT	248981	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	9	NMOD	248983	_
+5	black	black	_	JJ	_	9	NMOD	248983	_
+6	dress	dress	_	NN	_	9	NMOD	248983	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	hat	hat	_	NN	_	7	CONJ	248987	_
+9	rides	ride	_	NNS	_	3	PMOD	_	_
+10	a	a	_	DT	_	11	NMOD	248982	_
+11	unicycle	unicycle	_	NN	_	9	ADV	248982	_
+12	in front of	in front of	_	IN	_	2	NMOD	_	9
+13	a	a	_	DT	_	14	NMOD	248984	_
+14	crowd	crowd	_	NN	_	12	PMOD	248984	_
+15	.	.	_	.	_	0	ROOT	_	_

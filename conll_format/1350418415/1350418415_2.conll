@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	9518	_
+2	young	young	_	JJ	_	3	NMOD	9518	_
+3	man	man	_	NN	_	4	SBJ	9518	_
+4	rests	rest	_	VBZ	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	an	an	_	DT	_	8	NMOD	9521	_
+7	airport	airport	_	NN	_	8	NMOD	9521	_
+8	seat	seat	_	NN	_	5	PMOD	9521	_
+9	with	with	_	IN	_	8	NMOD	_	4
+10	a	a	_	DT	_	12	NMOD	9519	_
+11	cowboy	cowboy	_	NN	_	12	NMOD	9519	_
+12	hat	hat	_	NN	_	9	PMOD	9519	_
+13	over	over	_	IN	_	12	NMOD	_	12
+14	his	his	_	PRP$	_	15	NMOD	9522	_
+15	face	face	_	NN	_	13	PMOD	9522	_
+16	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,16 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	279617	_
+4	jogger	jogger	_	NN	_	2	SBJ	279617	_
+5	jogging	jog	_	VBG	_	4	NMOD	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	279623	_
+8	road	road	_	NN	_	6	PMOD	279623	_
+9	with	with	_	IN	_	8	NMOD	_	5
+10	a	a	_	DT	_	11	NMOD	279619	_
+11	car	car	_	NN	_	9	PMOD	279619	_
+12	and	and	_	CC	_	8	COORD	_	_
+13	motorcycles	motorcycle	_	NNS	_	12	CONJ	279625	_
+14	following	follow	_	VBG	_	13	APPO	_	_
+15	him	him	_	PRP	_	14	OBJ	0	_
+16	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	193361	_
+2	man	man	_	NN	_	3	SBJ	193361	_
+3	jumping	jump	_	VBG	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	193363	_
+6	building	building	_	NN	_	4	PMOD	193363	_
+7	onto	onto	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	193362	_
+9	parachute	parachute	_	NN	_	7	PMOD	193362	_
+10	.	.	_	.	_	0	ROOT	_	_

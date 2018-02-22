@@ -1,0 +1,15 @@
+1	Man	Man	_	NNP	_	0	ROOT	53021	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	an	an	_	DT	_	5	NMOD	53023	_
+4	orange	orange	_	JJ	_	5	NMOD	53023	_
+5	vest	vest	_	NN	_	2	PMOD	53023	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	sitting	sit	_	VBG	_	6	VC	_	_
+8	down	down	_	RP	_	7	PRT	_	_
+9	in front of	in front of	_	IN	_	7	ADV	_	7
+10	a	a	_	DT	_	11	NMOD	53022	_
+11	computer	computer	_	NN	_	9	PMOD	53022	_
+12	at	at	_	IN	_	7	LOC	_	7
+13	a	a	_	DT	_	14	NMOD	53026	_
+14	desk	desk	_	NN	_	12	PMOD	53026	_
+15	.	.	_	.	_	6	P	_	_

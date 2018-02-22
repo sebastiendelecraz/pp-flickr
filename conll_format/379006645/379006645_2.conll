@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	5	NMOD	142703	_
+2	black	black	_	JJ	_	5	NMOD	142703	_
+3	and	and	_	CC	_	2	COORD	142703	_
+4	brown	brown	_	JJ	_	3	CONJ	142703	_
+5	dog	dog	_	NN	_	6	SBJ	142703	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	running	run	_	VBG	_	6	VC	_	_
+8	between	between	_	IN	_	7	ADV	_	7
+9	two	two	_	CD	_	11	NMOD	142708	_
+10	cement	cement	_	NN	_	11	NMOD	142708	_
+11	barriers	barrier	_	NNS	_	8	PMOD	142708	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	snow	snow	_	NN	_	12	PMOD	142704	_
+14	.	.	_	.	_	6	P	_	_

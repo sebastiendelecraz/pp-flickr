@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	3	NMOD	95965	_
+2	large	large	_	JJ	_	3	NMOD	95965	_
+3	group	group	_	NN	_	0	ROOT	95965	_
+4	of	of	_	IN	_	3	NMOD	95965	_
+5	football	football	_	NN	_	6	NMOD	95965	_
+6	players	player	_	NNS	_	4	PMOD	95965	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	blue	blue	_	JJ	_	9	NMOD	95968	_
+9	jerseys	jersey	_	NNS	_	7	PMOD	95968	_
+10	running	run	_	VBG	_	9	APPO	_	_
+11	through	through	_	IN	_	10	DIR	_	10
+12	the	the	_	DT	_	13	NMOD	95966	_
+13	field	field	_	NN	_	11	PMOD	95966	_
+14	.	.	_	.	_	0	ROOT	_	_

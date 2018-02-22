@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	8851	_
+2	group	group	_	NN	_	5	SBJ	8851	_
+3	of	of	_	IN	_	2	NMOD	8851	_
+4	people	people	_	NN	_	3	PMOD	8851	_
+5	stand	stand	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	8853	_
+8	balcony	balcony	_	NN	_	6	PMOD	8853	_
+9	near	near	_	IN	_	8	LOC	_	5
+10	a	a	_	DT	_	13	NMOD	8854	_
+11	colorful	colorful	_	JJ	_	13	NMOD	8854	_
+12	circus	circus	_	NN	_	13	NMOD	8854	_
+13	building	building	_	NN	_	9	PMOD	8854	_
+14	.	.	_	.	_	5	P	_	_

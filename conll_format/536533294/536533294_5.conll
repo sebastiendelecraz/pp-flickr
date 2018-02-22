@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	234615	_
+2	little	little	_	JJ	_	3	NMOD	234615	_
+3	girl	girl	_	NN	_	0	ROOT	234615	_
+4	walking	walk	_	VBG	_	3	APPO	_	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	234621	_
+7	sand	sand	_	NN	_	5	PMOD	234621	_
+8	along	along	_	IN	_	7	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	234616	_
+10	beach	beach	_	NN	_	8	PMOD	234616	_
+11	.	.	_	.	_	0	ROOT	_	_

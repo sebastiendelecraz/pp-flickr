@@ -1,0 +1,18 @@
+1	Young	Young	_	NNP	_	3	NAME	195472	_
+2	Los	Los	_	NNP	_	3	NAME	195472	_
+3	Angeles	Angeles	_	NNP	_	4	NAME	195472	_
+4	Lakers	Lakers	_	NNPS	_	5	SBJ	195472	_
+5	fans	fan	_	VBZ	_	0	ROOT	195472	_
+6	stand	stand	_	VB	_	5	VC	_	_
+7	on top of	on top of	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	195475	_
+9	car	car	_	NN	_	10	SBJ	195475	_
+10	waving	wave	_	VBG	_	7	PMOD	_	_
+11	Lakers	laker	_	NNS	_	12	NMOD	195471	_
+12	banners	banner	_	NNS	_	10	OBJ	195471	_
+13	in the middle of	in the middle of	_	IN	_	10	ADV	195477	6
+14	a	a	_	DT	_	15	NMOD	195477	_
+15	crowd	crowd	_	NN	_	13	PMOD	195477	_
+16	of	of	_	IN	_	15	NMOD	_	_
+17	fans	fan	_	NNS	_	16	PMOD	195472	_
+18	.	.	_	.	_	5	P	_	_

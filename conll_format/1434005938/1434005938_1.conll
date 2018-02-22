@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	12821	_
+2	person	person	_	NN	_	7	SBJ	12821	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	12822	_
+5	blue	blue	_	JJ	_	6	NMOD	12822	_
+6	backpack	backpack	_	NN	_	3	OBJ	12822	_
+7	stands	stand	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	12823	_
+10	field	field	_	NN	_	8	PMOD	12823	_
+11	above	above	_	IN	_	7	LOC	_	7
+12	a	a	_	DT	_	14	NMOD	12824	_
+13	scenic	scenic	_	JJ	_	14	NMOD	12824	_
+14	view	view	_	NN	_	11	PMOD	12824	_
+15	.	.	_	.	_	7	P	_	_

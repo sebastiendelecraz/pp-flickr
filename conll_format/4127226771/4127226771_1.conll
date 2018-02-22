@@ -1,0 +1,11 @@
+1	Migrant	Migrant	_	NNP	_	2	NMOD	156455	_
+2	workers	worker	_	NNS	_	0	ROOT	156455	_
+3	working	work	_	VBG	_	2	APPO	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	156457	_
+6	government	government	_	NN	_	4	PMOD	156457	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	its	its	_	PRP$	_	10	NMOD	156456	_
+9	big	big	_	JJ	_	10	NMOD	156456	_
+10	plantation	plantation	_	NN	_	7	PMOD	156456	_
+11	.	.	_	.	_	0	ROOT	_	_

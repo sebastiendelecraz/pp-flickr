@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	72880	_
+2	man	man	_	NN	_	8	SBJ	72880	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	an	an	_	DT	_	7	NMOD	72883	_
+5	old	old	_	JJ	_	7	NMOD	72883	_
+6	woman	woman	_	NN	_	7	NMOD	72883	_
+7	stand	stand	_	NN	_	3	CONJ	_	_
+8	and	and	_	CC	_	0	ROOT	_	_
+9	look	look	_	VB	_	8	CONJ	_	_
+10	at	at	_	IN	_	9	ADV	_	_
+11	something	something	_	NN	_	10	PMOD	72888	_
+12	behind	behind	_	IN	_	11	LOC	_	9
+13	the	the	_	DT	_	14	NMOD	72887	_
+14	photographer	photographer	_	NN	_	12	PMOD	72887	_
+15	.	.	_	.	_	0	ROOT	_	_

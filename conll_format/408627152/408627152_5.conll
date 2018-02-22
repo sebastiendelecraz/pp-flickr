@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	154719	_
+2	white	white	_	JJ	_	3	NMOD	154719	_
+3	dog	dog	_	NN	_	8	SBJ	154719	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	154722	_
+6	life	life	_	NN	_	7	NMOD	154722	_
+7	jacket	jacket	_	NN	_	4	PMOD	154722	_
+8	looks	look	_	VBZ	_	0	ROOT	_	_
+9	at	at	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	154720	_
+11	man	man	_	NN	_	9	PMOD	154720	_
+12	in	in	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	14	NMOD	154721	_
+14	boat	boat	_	NN	_	12	PMOD	154721	_
+15	.	.	_	.	_	8	P	_	_

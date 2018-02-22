@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	67573	_
+2	group	group	_	NN	_	0	ROOT	67573	_
+3	of	of	_	IN	_	2	NMOD	67573	_
+4	children	child	_	NNS	_	3	PMOD	67573	_
+5	gathered	gather	_	VBN	_	4	APPO	_	_
+6	in front of	in front of	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	10	NMOD	67575	_
+8	carnival	carnival	_	NN	_	9	NMOD	67575	_
+9	game	game	_	NN	_	10	NMOD	67575	_
+10	booth	booth	_	NN	_	6	PMOD	67575	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	stuffed	stuff	_	VBN	_	13	NMOD	67576	_
+13	animals	animal	_	NNS	_	11	PMOD	67576	_
+14	hanging	hang	_	VBG	_	13	APPO	_	_
+15	overhead	overhead	_	NN	_	14	OBJ	_	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	175777	_
+2	crowded	crowd	_	VBN	_	3	NMOD	175777	_
+3	intersection	intersection	_	NN	_	0	ROOT	175777	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	Manhattan	Manhattan	_	NNP	_	4	PMOD	175781	_
+6	with	with	_	IN	_	3	NMOD	_	_
+7	many	many	_	DT	_	8	NMOD	175778	_
+8	people	people	_	NN	_	6	PMOD	175778	_
+9	walking	walk	_	VBG	_	8	APPO	_	_
+10	or	or	_	CC	_	9	COORD	_	_
+11	standing	stand	_	VBG	_	10	CONJ	_	_
+12	around	around	_	RB	_	11	ADV	_	_
+13	.	.	_	.	_	0	ROOT	_	_

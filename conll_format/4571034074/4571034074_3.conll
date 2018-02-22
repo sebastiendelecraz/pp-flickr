@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	179651	_
+2	young	young	_	JJ	_	3	NMOD	179651	_
+3	woman	woman	_	NN	_	10	SBJ	179651	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	179652	_
+6	flower	flower	_	NN	_	4	PMOD	179652	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	her	her	_	PRP$	_	9	NMOD	179654	_
+9	hair	hair	_	NN	_	7	PMOD	179654	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	at	at	_	IN	_	10	LOC-PRD	_	_
+12	an	an	_	DT	_	14	NMOD	179653	_
+13	outdoor	outdoor	_	JJ	_	14	NMOD	179653	_
+14	event	event	_	NN	_	11	PMOD	179653	_
+15	.	.	_	.	_	10	P	_	_

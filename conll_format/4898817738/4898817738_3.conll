@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	216441	_
+2	man	man	_	NN	_	3	SBJ	216441	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	break-dancing	break-dancing	_	CD	_	3	PRD	_	_
+5	for	for	_	IN	_	3	ADV	_	4
+6	an	an	_	DT	_	7	NMOD	216442	_
+7	audience	audience	_	NN	_	5	PMOD	216442	_
+8	on	on	_	IN	_	3	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	216447	_
+10	street	street	_	NN	_	8	PMOD	216447	_
+11	.	.	_	.	_	3	P	_	_

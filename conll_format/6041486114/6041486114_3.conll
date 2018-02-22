@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	247022	_
+2	guitarist	guitarist	_	NN	_	3	SBJ	247022	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	preparing	prepare	_	VBG	_	3	VC	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	247024	_
+7	show	show	_	NN	_	5	PMOD	247024	_
+8	on	on	_	IN	_	4	ADV	_	_
+9	stage	stage	_	NN	_	8	PMOD	247028	_
+10	in front of	in front of	_	IN	_	4	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	247025	_
+12	waiting	wait	_	VBG	_	13	NMOD	247025	_
+13	crowd	crowd	_	NN	_	10	PMOD	247025	_
+14	.	.	_	.	_	3	P	_	_

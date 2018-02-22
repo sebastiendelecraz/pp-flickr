@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	128646	_
+2	girls	girl	_	NNS	_	5	SBJ	128646	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	swimsuits	swimsuit	_	NNS	_	3	PMOD	128657	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	playing	play	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	128648	_
+9	water	water	_	NN	_	7	PMOD	128648	_
+10	near	near	_	IN	_	9	LOC	_	6
+11	the	the	_	DT	_	12	NMOD	128648	_
+12	seashore	seashore	_	NN	_	10	PMOD	128648	_
+13	.	.	_	.	_	5	P	_	_

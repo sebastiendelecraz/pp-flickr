@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	277163	_
+2	man	man	_	NN	_	3	SBJ	277163	_
+3	surfs	surf	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	277167	_
+5	wave	wave	_	NN	_	3	OBJ	277167	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	blue	blue	_	JJ	_	9	NMOD	277169	_
+8	ocean	ocean	_	NN	_	9	NMOD	277169	_
+9	water	water	_	NN	_	6	PMOD	277169	_
+10	with	with	_	IN	_	5	NMOD	_	3
+11	a	a	_	DT	_	12	NMOD	277164	_
+12	beach	beach	_	NN	_	10	PMOD	277164	_
+13	in	in	_	IN	_	5	LOC	_	_
+14	the	the	_	DT	_	16	NMOD	0	_
+15	distant	distant	_	JJ	_	16	NMOD	0	_
+16	background	background	_	NN	_	13	PMOD	0	_
+17	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	64366	_
+2	man	man	_	NN	_	6	SBJ	64366	_
+3	using	use	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	64370	_
+5	shovel	shovel	_	NN	_	3	OBJ	64370	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	digging	dig	_	VBG	_	6	VC	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	64373	_
+10	lawn	lawn	_	NN	_	8	PMOD	64373	_
+11	next to	next to	_	IN	_	7	ADV	_	7
+12	his	his	_	PRP$	_	14	NMOD	64375	_
+13	red	red	_	JJ	_	14	NMOD	64375	_
+14	wheelbarrow	wheelbarrow	_	NN	_	11	PMOD	64375	_
+15	.	.	_	.	_	6	P	_	_

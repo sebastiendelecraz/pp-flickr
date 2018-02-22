@@ -1,0 +1,14 @@
+1	Somebody	somebody	_	PRP	_	2	SBJ	191377	_
+2	left	leave	_	VBD	_	0	ROOT	_	_
+3	the	the	_	DT	_	4	NMOD	191374	_
+4	keys	key	_	NNS	_	2	OBJ	191374	_
+5	inside	inside	_	IN	_	2	LOC	_	4
+6	a	a	_	DT	_	9	NMOD	191373	_
+7	green	green	_	JJ	_	9	NMOD	191373	_
+8	lock	lock	_	NN	_	9	NMOD	191373	_
+9	box	box	_	NN	_	5	PMOD	191373	_
+10	on	on	_	IN	_	2	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	191376	_
+12	lamp	lamp	_	NN	_	13	NMOD	191376	_
+13	post	post	_	NN	_	10	PMOD	191376	_
+14	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,13 @@
+1	Man	Man	_	NNP	_	4	SBJ	45971	_
+2	with	with	_	IN	_	1	NMOD	_	_
+3	tattoo	tattoo	_	NN	_	2	PMOD	45976	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	lying	lie	_	VBG	_	4	VC	_	_
+6	down	down	_	RP	_	5	PRT	_	_
+7	in	in	_	IN	_	5	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	45973	_
+9	sand	sand	_	NN	_	7	PMOD	45973	_
+10	next to	next to	_	IN	_	5	TMP	_	5
+11	a	a	_	DT	_	12	NMOD	45972	_
+12	cow	cow	_	NN	_	10	PMOD	45972	_
+13	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	112799	_
+2	man	man	_	NN	_	6	SBJ	112799	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	5	NMOD	112804	_
+5	jeans	jean	_	NNS	_	3	PMOD	112804	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	jumping	jump	_	VBG	_	6	VC	_	_
+8	a	a	_	DT	_	9	NMOD	112800	_
+9	bike	bike	_	NN	_	7	OBJ	112800	_
+10	over	over	_	IN	_	9	NMOD	_	7
+11	hills	hill	_	NNS	_	10	PMOD	112801	_
+12	of	of	_	IN	_	11	NMOD	112801	_
+13	dirt	dirt	_	NN	_	12	PMOD	112801	_
+14	.	.	_	.	_	6	P	_	_

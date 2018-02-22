@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	170700	_
+2	red-haired	red-haired	_	JJ	_	3	NMOD	170700	_
+3	woman	woman	_	NN	_	0	ROOT	170700	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	170702	_
+6	black	black	_	JJ	_	7	NMOD	170702	_
+7	coat	coat	_	NN	_	4	PMOD	170702	_
+8	in front of	in front of	_	IN	_	3	NMOD	_	_
+9	a	a	_	DT	_	10	NMOD	170704	_
+10	sign	sign	_	NN	_	8	PMOD	170704	_
+11	.	.	_	.	_	0	ROOT	_	_

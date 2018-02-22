@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	240864	_
+2	man	man	_	NN	_	3	SBJ	240864	_
+3	doing	do	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	0	_
+5	trick	trick	_	NN	_	3	OBJ	0	_
+6	on	on	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	240865	_
+8	bicycle	bicycle	_	NN	_	6	PMOD	240865	_
+9	in	in	_	IN	_	3	MNR	_	_
+10	a	a	_	DT	_	12	NMOD	240867	_
+11	wooded	wood	_	VBN	_	12	NMOD	240867	_
+12	area	area	_	NN	_	9	PMOD	240867	_
+13	.	.	_	.	_	0	ROOT	_	_

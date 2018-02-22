@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	258140	_
+2	group	group	_	NN	_	0	ROOT	258140	_
+3	of	of	_	IN	_	2	NMOD	258140	_
+4	young	young	_	JJ	_	5	NMOD	258140	_
+5	men	man	_	NNS	_	3	PMOD	258140	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	stage	stage	_	NN	_	8	NMOD	258142	_
+8	sing	sing	_	NN	_	6	PMOD	_	_
+9	together with	together with	_	IN	_	5	NMOD	_	8
+10	looks	look	_	NNS	_	9	PMOD	258145	_
+11	of	of	_	IN	_	10	NMOD	258145	_
+12	passionate	passionate	_	JJ	_	13	NMOD	258145	_
+13	expression	expression	_	NN	_	11	PMOD	258145	_
+14	on	on	_	IN	_	10	LOC	_	_
+15	their	their	_	PRP$	_	16	NMOD	258149	_
+16	faces	face	_	NNS	_	14	PMOD	258149	_
+17	.	.	_	.	_	0	ROOT	_	_

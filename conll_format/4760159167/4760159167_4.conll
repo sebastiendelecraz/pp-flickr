@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	199879	_
+2	man	man	_	NN	_	3	SBJ	199879	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	by	by	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	7	NMOD	199880	_
+6	cement	cement	_	NN	_	7	NMOD	199880	_
+7	column	column	_	NN	_	4	PMOD	199880	_
+8	next to	next to	_	IN	_	3	LOC	_	3
+9	the	the	_	DT	_	10	NMOD	199882	_
+10	sea	sea	_	NN	_	8	PMOD	199882	_
+11	.	.	_	.	_	0	ROOT	_	_

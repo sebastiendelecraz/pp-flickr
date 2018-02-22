@@ -1,0 +1,11 @@
+1	Firemen	fireman	_	NNS	_	2	SBJ	79343	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	outside	outside	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	79345	_
+5	burning	burn	_	VBG	_	6	NMOD	79345	_
+6	building	building	_	NN	_	3	PMOD	79345	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	lots	lot	_	NNS	_	7	PMOD	79348	_
+9	of	of	_	IN	_	8	NMOD	79348	_
+10	smoke	smoke	_	NN	_	9	PMOD	79348	_
+11	.	.	_	.	_	2	P	_	_

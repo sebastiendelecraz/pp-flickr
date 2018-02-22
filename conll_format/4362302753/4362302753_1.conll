@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	164941	_
+2	young	young	_	JJ	_	3	NMOD	164941	_
+3	girl	girl	_	NN	_	0	ROOT	164941	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	large	large	_	JJ	_	7	NMOD	164944	_
+6	brown	brown	_	JJ	_	7	NMOD	164944	_
+7	eyes	eye	_	NNS	_	4	PMOD	164944	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	dark	dark	_	JJ	_	11	NMOD	164948	_
+10	hair	hair	_	NN	_	11	NMOD	164948	_
+11	peers	peer	_	NNS	_	8	CONJ	_	_
+12	through	through	_	IN	_	3	NMOD	_	11
+13	holes	hole	_	NNS	_	12	PMOD	164946	_
+14	in	in	_	IN	_	3	LOC	_	13
+15	a	a	_	DT	_	16	NMOD	164941	_
+16	fence	fence	_	NN	_	14	PMOD	164941	_
+17	.	.	_	.	_	0	ROOT	_	_

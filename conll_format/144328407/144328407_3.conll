@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	13164	_
+2	woman	woman	_	NN	_	10	SBJ	13164	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	13170	_
+5	blue	blue	_	JJ	_	6	NMOD	13170	_
+6	hat	hat	_	NN	_	3	PMOD	13170	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	yellow	yellow	_	JJ	_	9	NMOD	13167	_
+9	skirt	skirt	_	NN	_	7	CONJ	13167	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	jumping	jump	_	VBG	_	10	VC	_	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	an	an	_	DT	_	14	NMOD	13171	_
+14	area	area	_	NN	_	12	PMOD	13171	_
+15	with	with	_	IN	_	14	NMOD	_	_
+16	lilacs	lilac	_	NNS	_	15	PMOD	13165	_
+17	.	.	_	.	_	10	P	_	_

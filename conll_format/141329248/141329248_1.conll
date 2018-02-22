@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	11883	_
+2	women	woman	_	NNS	_	3	SBJ	11883	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	wooden	wooden	_	JJ	_	7	NMOD	11884	_
+7	steps	step	_	NNS	_	5	PMOD	11884	_
+8	by	by	_	IN	_	7	NMOD	_	4
+9	a	a	_	DT	_	10	NMOD	11885	_
+10	lake	lake	_	NN	_	8	PMOD	11885	_
+11	.	.	_	.	_	3	P	_	_

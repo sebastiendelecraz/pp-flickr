@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	72190	_
+2	man	man	_	NN	_	8	SBJ	72190	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	gray	gray	_	JJ	_	7	NMOD	72191	_
+5	and	and	_	CC	_	4	COORD	72191	_
+6	yellow	yellow	_	JJ	_	5	CONJ	72191	_
+7	shirt	shirt	_	NN	_	3	OBJ	72191	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	against	against	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	72192	_
+12	wall	wall	_	NN	_	10	PMOD	72192	_
+13	in	in	_	IN	_	9	LOC	_	_
+14	a	a	_	DT	_	15	NMOD	72196	_
+15	restaurant	restaurant	_	NN	_	13	PMOD	72196	_
+16	.	.	_	.	_	8	P	_	_

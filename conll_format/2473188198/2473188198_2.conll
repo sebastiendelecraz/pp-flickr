@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	52076	_
+2	man	man	_	NN	_	7	SBJ	52076	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	52080	_
+5	baseball	baseball	_	NN	_	6	NMOD	52080	_
+6	cap	cap	_	NN	_	3	PMOD	52080	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	participating	participate	_	VBG	_	7	VC	_	_
+9	in	in	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	52084	_
+11	protest	protest	_	NN	_	9	PMOD	52084	_
+12	against	against	_	IN	_	11	NMOD	_	8
+13	ICE	ICE	_	NNP	_	14	NAME	52086	_
+14	Raids	Raids	_	NNPS	_	12	PMOD	52086	_
+15	in front of	in front of	_	IN	_	8	ADV	_	_
+16	Stonehurst	Stonehurst	_	NNP	_	18	NAME	52078	_
+17	Elementary	Elementary	_	NNP	_	18	NAME	52078	_
+18	School	School	_	NNP	_	15	PMOD	52078	_
+19	.	.	_	.	_	7	P	_	_

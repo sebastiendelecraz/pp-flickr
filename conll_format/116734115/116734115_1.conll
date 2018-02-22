@@ -1,0 +1,12 @@
+1	man	man	_	NN	_	0	ROOT	4403	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	dimly	dimly	_	RB	_	4	AMOD	4409	_
+4	lit	lit	_	JJ	_	5	NMOD	4409	_
+5	kitten	kitten	_	NN	_	2	PMOD	4409	_
+6	cutting	cut	_	VBG	_	5	APPO	_	_
+7	on	on	_	IN	_	6	ADV	_	_
+8	the	the	_	DT	_	9	NMOD	4404	_
+9	counter	counter	_	NN	_	7	PMOD	4404	_
+10	next to	next to	_	IN	_	6	ADV	_	6
+11	stove	stove	_	NN	_	10	PMOD	4406	_
+12	.	.	_	.	_	0	ROOT	_	_

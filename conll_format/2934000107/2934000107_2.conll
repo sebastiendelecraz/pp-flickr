@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	82398	_
+2	black	black	_	JJ	_	3	NMOD	82398	_
+3	dog	dog	_	NN	_	4	SBJ	82398	_
+4	jumps	jump	_	VBZ	_	0	ROOT	_	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	82399	_
+7	body	body	_	NN	_	5	PMOD	82399	_
+8	of	of	_	IN	_	7	NMOD	82399	_
+9	water	water	_	NN	_	8	PMOD	82399	_
+10	with	with	_	IN	_	4	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	82400	_
+12	stick	stick	_	NN	_	10	PMOD	82400	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	his	his	_	PRP$	_	15	NMOD	82401	_
+15	mouth	mouth	_	NN	_	13	PMOD	82401	_
+16	.	.	_	.	_	4	P	_	_

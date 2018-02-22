@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	28264	_
+2	man	man	_	NN	_	3	SBJ	28264	_
+3	looks	look	_	VBZ	_	0	ROOT	_	_
+4	under	under	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	28265	_
+6	car	car	_	NN	_	4	PMOD	28265	_
+7	on	on	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	10	NMOD	28266	_
+9	wet	wet	_	NN	_	10	NMOD	28266	_
+10	street	street	_	NN	_	7	PMOD	28266	_
+11	.	.	_	.	_	3	P	_	_

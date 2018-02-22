@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	257175	_
+2	young	young	_	JJ	_	3	NMOD	257175	_
+3	man	man	_	NN	_	4	SBJ	257175	_
+4	diving	dive	_	VBG	_	0	ROOT	_	_
+5	backwards	backwards	_	RB	_	4	MNR	257181	_
+6	off	off	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	257179	_
+8	pier	pier	_	NN	_	6	PMOD	257179	_
+9	into	into	_	IN	_	4	DIR	_	4
+10	the	the	_	DT	_	11	NMOD	257176	_
+11	water	water	_	NN	_	9	PMOD	257176	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	53889	_
+2	woman	woman	_	NN	_	11	SBJ	53889	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	53893	_
+5	tank	tank	_	NN	_	7	NMOD	53893	_
+6	top	top	_	JJ	_	7	NMOD	53893	_
+7	checks	check	_	NNS	_	3	PMOD	_	_
+8	out	out	_	IN	_	11	TMP	_	7
+9	the	the	_	DT	_	10	NMOD	53892	_
+10	trailer	trailer	_	NN	_	8	PMOD	53892	_
+11	decorated	decorate	_	VBD	_	0	ROOT	_	_
+12	with	with	_	IN	_	11	ADV	_	_
+13	potato	potato	_	NN	_	14	NMOD	53894	_
+14	chips	chip	_	NNS	_	12	PMOD	53894	_
+15	.	.	_	.	_	11	P	_	_

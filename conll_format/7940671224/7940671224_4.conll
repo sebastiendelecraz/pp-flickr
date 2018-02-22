@@ -1,0 +1,13 @@
+1	a	a	_	DT	_	2	NMOD	276791	_
+2	group	group	_	NN	_	6	SBJ	276791	_
+3	of	of	_	IN	_	2	NMOD	276791	_
+4	four	four	_	CD	_	5	NMOD	276791	_
+5	runners	runner	_	NNS	_	3	PMOD	276791	_
+6	stand	stand	_	VBP	_	0	ROOT	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	276798	_
+9	photo	photo	_	NN	_	7	PMOD	276798	_
+10	at	at	_	IN	_	6	LOC	_	_
+11	a	a	_	DT	_	12	NMOD	276793	_
+12	track	track	_	NN	_	10	PMOD	276793	_
+13	.	.	_	.	_	6	P	_	_

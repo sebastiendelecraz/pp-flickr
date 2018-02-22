@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	275195	_
+2	women	woman	_	NNS	_	3	SBJ	275195	_
+3	watching	watch	_	VBG	_	0	ROOT	_	_
+4	over	over	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	275199	_
+6	herd	herd	_	NN	_	4	PMOD	275199	_
+7	of	of	_	IN	_	6	NMOD	275199	_
+8	goats	goat	_	NNS	_	7	PMOD	275199	_
+9	in	in	_	IN	_	6	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	275196	_
+11	rural	rural	_	JJ	_	12	NMOD	275196	_
+12	setting	setting	_	NN	_	9	PMOD	275196	_
+13	.	.	_	.	_	0	ROOT	_	_

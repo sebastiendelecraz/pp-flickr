@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	3	NMOD	163557	_
+2	little	little	_	JJ	_	3	NMOD	163557	_
+3	girl	girl	_	NN	_	0	ROOT	163557	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	163558	_
+6	dress	dress	_	NN	_	4	PMOD	163558	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	163559	_
+9	playground	playground	_	NN	_	7	PMOD	163559	_
+10	.	.	_	.	_	0	ROOT	_	_

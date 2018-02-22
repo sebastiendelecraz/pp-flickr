@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	232972	_
+2	man	man	_	NN	_	9	SBJ	232972	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	232974	_
+5	beard	beard	_	NN	_	3	PMOD	232974	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	232975	_
+8	vest	vest	_	NN	_	6	CONJ	232975	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	decorating	decorate	_	VBG	_	9	VC	_	_
+11	his	his	_	PRP$	_	12	NMOD	232983	_
+12	mantle	mantle	_	NN	_	10	OBJ	232983	_
+13	with	with	_	IN	_	12	NMOD	_	_
+14	stockings	stocking	_	NNS	_	13	PMOD	232973	_
+15	for	for	_	IN	_	12	NMOD	_	10
+16	Christmas	Christmas	_	NNP	_	15	PMOD	232979	_
+17	.	.	_	.	_	9	P	_	_

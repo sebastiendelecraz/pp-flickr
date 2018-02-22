@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	143755	_
+2	man	man	_	NN	_	0	ROOT	143755	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	6	NMOD	143760	_
+5	Rodeo	Rodeo	_	NNP	_	6	NMOD	143760	_
+6	fall	fall	_	NN	_	3	PMOD	143760	_
+7	off	off	_	IN	_	2	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	143756	_
+9	bull	bull	_	NN	_	7	PMOD	143756	_
+10	.	.	_	.	_	0	ROOT	_	_

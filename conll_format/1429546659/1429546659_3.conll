@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	12611	_
+2	white	white	_	JJ	_	3	NMOD	12611	_
+3	dog	dog	_	NN	_	0	ROOT	12611	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	12612	_
+6	branch	branch	_	NN	_	4	PMOD	12612	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	his	his	_	PRP$	_	9	NMOD	12613	_
+9	mouth	mouth	_	NN	_	7	PMOD	12613	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	a	a	_	DT	_	13	NMOD	12614	_
+12	black	black	_	JJ	_	13	NMOD	12614	_
+13	dog	dog	_	NN	_	10	CONJ	12614	_
+14	.	.	_	.	_	0	ROOT	_	_

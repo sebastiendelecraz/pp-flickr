@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	76459	_
+2	friends	friend	_	NNS	_	3	SBJ	76459	_
+3	pose	pose	_	VBP	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	76463	_
+6	photo	photo	_	NN	_	4	PMOD	76463	_
+7	outside of	outside of	_	IN	_	6	NMOD	_	3
+8	the	the	_	DT	_	11	NMOD	76462	_
+9	2008	2008	_	CD	_	11	NMOD	76462	_
+10	Summer	Summer	_	NNP	_	11	NAME	76462	_
+11	Olympics	Olympics	_	NNP	_	7	PMOD	76462	_
+12	.	.	_	.	_	3	P	_	_

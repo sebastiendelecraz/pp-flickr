@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	60847	_
+2	man	man	_	NN	_	7	SBJ	60847	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	60849	_
+5	green	green	_	JJ	_	6	NMOD	60849	_
+6	hat	hat	_	NN	_	3	PMOD	60849	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	60851	_
+11	sidewalk	sidewalk	_	NN	_	9	PMOD	60851	_
+12	behind	behind	_	IN	_	11	LOC	_	8
+13	a	a	_	DT	_	15	NMOD	60850	_
+14	lawn	lawn	_	NN	_	15	NMOD	60850	_
+15	mower	mower	_	NN	_	12	PMOD	60850	_
+16	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	141950	_
+2	woman	woman	_	NN	_	3	SBJ	141950	_
+3	wearing	wear	_	VBG	_	13	SBJ	_	_
+4	a	a	_	DT	_	6	NMOD	141955	_
+5	white	white	_	JJ	_	6	NMOD	141955	_
+6	blouse	blouse	_	NN	_	3	OBJ	141955	_
+7	,	,	_	,	_	6	P	_	_
+8	eyeglasses	eyeglass	_	NNS	_	6	COORD	141954	_
+9	,	,	_	,	_	8	P	_	_
+10	and	and	_	CC	_	8	COORD	_	_
+11	floppy	floppy	_	JJ	_	12	NMOD	141953	_
+12	hat	hat	_	NN	_	10	CONJ	141953	_
+13	is	be	_	VBZ	_	0	ROOT	_	_
+14	reading	read	_	VBG	_	13	VC	_	_
+15	a	a	_	DT	_	16	NMOD	141952	_
+16	book	book	_	NN	_	14	OBJ	141952	_
+17	next to	next to	_	IN	_	14	ADV	_	14
+18	a	a	_	DT	_	20	NMOD	141951	_
+19	small	small	_	JJ	_	20	NMOD	141951	_
+20	body	body	_	NN	_	17	PMOD	141951	_
+21	of	of	_	IN	_	20	NMOD	141951	_
+22	water	water	_	NN	_	21	PMOD	141951	_
+23	.	.	_	.	_	13	P	_	_

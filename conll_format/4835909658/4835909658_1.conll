@@ -1,0 +1,11 @@
+1	three	three	_	CD	_	2	NMOD	209182	_
+2	people	people	_	NN	_	0	ROOT	209182	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	under	under	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	209180	_
+6	map	map	_	NN	_	4	PMOD	209180	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	209181	_
+9	bus	bus	_	NN	_	10	NMOD	209181	_
+10	stop	stop	_	NN	_	7	PMOD	209181	_
+11	.	.	_	.	_	0	ROOT	_	_

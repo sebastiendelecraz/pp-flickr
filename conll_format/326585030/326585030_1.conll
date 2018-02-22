@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	105596	_
+2	man	man	_	NN	_	3	SBJ	105596	_
+3	steers	steer	_	VBZ	_	9	SBJ	_	_
+4	a	a	_	DT	_	5	NMOD	105597	_
+5	boat	boat	_	NN	_	3	OBJ	105597	_
+6	through	through	_	IN	_	3	ADV	_	3
+7	the	the	_	DT	_	8	NMOD	105598	_
+8	canal	canal	_	NN	_	6	PMOD	105598	_
+9	lined	line	_	VBD	_	0	ROOT	_	_
+10	with	with	_	IN	_	9	ADV	_	_
+11	colorful	colorful	_	JJ	_	12	NMOD	105599	_
+12	houses	house	_	NNS	_	10	PMOD	105599	_
+13	with	with	_	IN	_	9	ADV	_	_
+14	red	red	_	JJ	_	15	NMOD	105600	_
+15	roofs	roof	_	NNS	_	13	PMOD	105600	_
+16	.	.	_	.	_	9	P	_	_

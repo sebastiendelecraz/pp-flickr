@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	247311	_
+2	young	young	_	JJ	_	3	NMOD	247311	_
+3	child	child	_	NN	_	0	ROOT	247311	_
+4	riding	ride	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	247312	_
+6	bicycle	bicycle	_	NN	_	4	OBJ	247312	_
+7	across	across	_	IN	_	4	LOC	_	4
+8	a	a	_	DT	_	10	NMOD	247313	_
+9	suspension	suspension	_	NN	_	10	NMOD	247313	_
+10	bridge	bridge	_	NN	_	7	PMOD	247313	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	trees	tree	_	NNS	_	11	PMOD	247316	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	background	background	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	137989	_
+2	woman	woman	_	NN	_	3	SBJ	137989	_
+3	does	do	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	137991	_
+5	wheelie	wheelie	_	NN	_	3	OBJ	137991	_
+6	on	on	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	137990	_
+8	bicycle	bicycle	_	NN	_	6	PMOD	137990	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	purple	purple	_	NN	_	11	NMOD	137993	_
+11	wheels	wheel	_	NNS	_	9	PMOD	137993	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	194721	_
+2	magicians	magician	_	NNS	_	0	ROOT	194721	_
+3	trying	try	_	VBG	_	2	APPO	_	_
+4	to	to	_	TO	_	3	OPRD	_	_
+5	hurry	hurry	_	VB	_	4	IM	_	_
+6	up	up	_	RP	_	5	PRT	_	_
+7	for	for	_	IN	_	5	ADV	_	5
+8	a	a	_	DT	_	9	NMOD	194724	_
+9	show	show	_	NN	_	7	PMOD	194724	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	town	town	_	NN	_	10	PMOD	194731	_
+12	.	.	_	.	_	0	ROOT	_	_

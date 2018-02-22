@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	233903	_
+2	child	child	_	NN	_	3	SBJ	233903	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	riding	ride	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	233905	_
+6	bike	bike	_	NN	_	4	OBJ	233905	_
+7	down	down	_	IN	_	4	ADV	_	4
+8	an	an	_	DT	_	9	NMOD	233911	_
+9	alleyway	alleyway	_	NN	_	7	PMOD	233911	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	graffiti	graffito	_	NNS	_	10	PMOD	233906	_
+12	in	in	_	IN	_	9	LOC	_	_
+13	it	it	_	PRP	_	12	PMOD	0	_
+14	.	.	_	.	_	3	P	_	_

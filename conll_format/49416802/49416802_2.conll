@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	221239	_
+2	man	man	_	NN	_	5	SBJ	221239	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	glasses	glass	_	NNS	_	3	PMOD	221242	_
+5	reads	read	_	VBZ	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	MNR	_	5
+7	a	a	_	DT	_	8	NMOD	221241	_
+8	menu	menu	_	NN	_	6	PMOD	221241	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	the	the	_	DT	_	12	NMOD	221243	_
+11	lake-side	lake-side	_	CD	_	12	NMOD	221243	_
+12	patio	patio	_	NN	_	9	PMOD	221243	_
+13	of	of	_	IN	_	12	NMOD	221243	_
+14	a	a	_	DT	_	15	NMOD	221243	_
+15	restaurant	restaurant	_	NN	_	13	PMOD	221243	_
+16	.	.	_	.	_	5	P	_	_

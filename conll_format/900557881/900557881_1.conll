@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	283232	_
+2	man	man	_	NN	_	9	SBJ	283232	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	283233	_
+5	collared	collar	_	VBN	_	6	NMOD	283233	_
+6	shirt	shirt	_	NN	_	3	PMOD	283233	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	slacks	slack	_	NNS	_	7	CONJ	283234	_
+9	grills	grill	_	VBZ	_	0	ROOT	283234	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	his	his	_	PRP$	_	13	NMOD	283240	_
+12	outdoor	outdoor	_	JJ	_	13	NMOD	283240	_
+13	barbecue	barbecue	_	NN	_	10	PMOD	283240	_
+14	next to	next to	_	IN	_	9	ADV	_	9
+15	a	a	_	DT	_	16	NMOD	283235	_
+16	house	house	_	NN	_	14	PMOD	283235	_
+17	.	.	_	.	_	9	P	_	_

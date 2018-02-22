@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	123725	_
+2	lady	lady	_	NN	_	3	SBJ	123725	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	near	near	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	123730	_
+6	counter	counter	_	NN	_	4	PMOD	123730	_
+7	of	of	_	IN	_	6	NMOD	123730	6
+8	a	a	_	DT	_	9	NMOD	123730	_
+9	bakery	bakery	_	NN	_	7	PMOD	123730	_
+10	smiling	smile	_	VBG	_	9	APPO	_	_
+11	at	at	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	0	_
+13	camera	camera	_	NN	_	11	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

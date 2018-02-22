@@ -1,0 +1,12 @@
+1	Walking	walk	_	VBG	_	0	ROOT	_	_
+2	through	through	_	IN	_	1	MNR	_	1
+3	an	an	_	DT	_	5	NMOD	96689	_
+4	amusement	amusement	_	NN	_	5	NMOD	96689	_
+5	park	park	_	NN	_	2	PMOD	96689	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	stuffed	stuff	_	VBN	_	8	NMOD	96695	_
+8	animals	animal	_	NNS	_	6	PMOD	96695	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	a	a	_	DT	_	11	NMOD	96688	_
+11	carriage	carriage	_	NN	_	9	CONJ	96688	_
+12	.	.	_	.	_	0	ROOT	_	_

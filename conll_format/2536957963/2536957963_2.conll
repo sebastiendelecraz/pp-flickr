@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	3	NMOD	56112	_
+2	male	male	_	JJ	_	3	NMOD	56112	_
+3	workers	worker	_	NNS	_	4	SBJ	56112	_
+4	hauling	haul	_	VBG	_	0	ROOT	_	_
+5	off	off	_	RP	_	4	PRT	_	_
+6	a	a	_	DT	_	7	NMOD	56113	_
+7	piece	piece	_	NN	_	4	OBJ	56113	_
+8	of	of	_	IN	_	7	NMOD	56113	_
+9	heavy	heavy	_	JJ	_	11	NMOD	56113	_
+10	off	off	_	JJ	_	11	NMOD	_	_
+11	metal	metal	_	NN	_	8	PMOD	56113	_
+12	down	down	_	IN	_	7	NMOD	_	4
+13	a	a	_	DT	_	14	NMOD	56121	_
+14	staircase	staircase	_	NN	_	12	PMOD	56121	_
+15	.	.	_	.	_	0	ROOT	_	_

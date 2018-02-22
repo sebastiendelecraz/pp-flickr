@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	3	NMOD	100161	_
+2	brown	brown	_	JJ	_	3	NMOD	100161	_
+3	dog	dog	_	NN	_	4	SBJ	100161	_
+4	jumping	jump	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	0	_
+7	air	air	_	NN	_	5	PMOD	0	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	100162	_
+10	grassy	grassy	_	JJ	_	11	NMOD	100162	_
+11	yard	yard	_	NN	_	8	PMOD	100162	_
+12	.	.	_	.	_	0	ROOT	_	_

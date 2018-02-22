@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	161944	_
+2	man	man	_	NN	_	11	DEP	161944	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	161947	_
+5	white	white	_	JJ	_	7	NMOD	161947	_
+6	shirt	shirt	_	NN	_	7	NMOD	161947	_
+7	advertising	advertising	_	NN	_	3	PMOD	_	_
+8	a	a	_	DT	_	10	NMOD	161949	_
+9	summer	summer	_	NN	_	10	NMOD	161949	_
+10	school	school	_	NN	_	11	SBJ	161949	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	talking	talk	_	VBG	_	11	VC	_	_
+13	to	to	_	TO	_	12	ADV	_	_
+14	a	a	_	DT	_	15	NMOD	161945	_
+15	man	man	_	NN	_	13	PMOD	161945	_
+16	in	in	_	IN	_	12	LOC	_	_
+17	a	a	_	DT	_	19	NMOD	161948	_
+18	pink	pink	_	NN	_	19	NMOD	161948	_
+19	shirt	shirt	_	NN	_	16	PMOD	161948	_
+20	in front of	in front of	_	IN	_	12	ADV	_	12
+21	a	a	_	DT	_	22	NMOD	161952	_
+22	crowd	crowd	_	NN	_	20	PMOD	161952	_
+23	.	.	_	.	_	11	P	_	_

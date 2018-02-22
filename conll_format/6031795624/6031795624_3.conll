@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	0	ROOT	246809	_
+2	on	on	_	IN	_	0	ROOT	_	_
+3	gondola	gondola	_	NN	_	4	NMOD	246811	_
+4	rides	ride	_	NNS	_	2	PMOD	_	_
+5	through	through	_	IN	_	0	ROOT	_	_
+6	the	the	_	DT	_	7	NMOD	246812	_
+7	canals	canal	_	NNS	_	5	PMOD	246812	_
+8	of	of	_	IN	_	7	NMOD	246812	7
+9	Venice	Venice	_	NNP	_	8	PMOD	246812	_
+10	between	between	_	IN	_	7	NMOD	_	4
+11	buildings	building	_	NNS	_	10	PMOD	246813	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	253716	_
+2	man	man	_	NN	_	3	PMOD	253716	_
+3	without	without	_	IN	_	7	SBJ	_	2
+4	a	a	_	DT	_	5	NMOD	253719	_
+5	shirt	shirt	_	NN	_	3	PMOD	253719	_
+6	on	on	_	IN	_	3	PMOD	_	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	laying	lay	_	VBG	_	7	VC	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	253718	_
+11	sidewalk	sidewalk	_	NN	_	9	PMOD	253718	_
+12	.	.	_	.	_	7	P	_	_

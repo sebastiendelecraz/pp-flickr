@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	86827	_
+2	young	young	_	JJ	_	3	NMOD	86827	_
+3	boy	boy	_	NN	_	13	SBJ	86827	_
+4	,	,	_	,	_	13	P	_	_
+5	sitting	sit	_	VBG	_	13	ADV	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	86830	_
+8	slide	slide	_	NN	_	6	PMOD	86830	_
+9	at	at	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	86831	_
+11	playground	playground	_	NN	_	9	PMOD	86831	_
+12	,	,	_	,	_	13	P	_	_
+13	poses	pose	_	VBZ	_	0	ROOT	_	_
+14	for	for	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	86832	_
+16	picture	picture	_	NN	_	14	PMOD	86832	_
+17	.	.	_	.	_	13	P	_	_

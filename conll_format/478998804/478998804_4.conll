@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	203065	_
+2	woman	woman	_	NN	_	7	SBJ	203065	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	203066	_
+5	black	black	_	JJ	_	6	NMOD	203066	_
+6	suit	suit	_	NN	_	3	PMOD	203066	_
+7	waits	wait	_	VBZ	_	0	ROOT	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	203071	_
+10	seat	seat	_	NN	_	8	PMOD	203071	_
+11	at	at	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	203068	_
+13	restaurant	restaurant	_	NN	_	11	PMOD	203068	_
+14	.	.	_	.	_	7	P	_	_

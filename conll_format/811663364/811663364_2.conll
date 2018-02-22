@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	279240	_
+2	little	little	_	JJ	_	3	NMOD	279240	_
+3	girl	girl	_	NN	_	7	SBJ	279240	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	279243	_
+6	swimsuit	swimsuit	_	NN	_	4	PMOD	279243	_
+7	jumps	jump	_	VBZ	_	14	SBJ	_	_
+8	over	over	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	279242	_
+10	sprinkler	sprinkler	_	NN	_	8	PMOD	279242	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	her	her	_	PRP$	_	13	NMOD	279245	_
+13	eyes	eye	_	NNS	_	11	PMOD	279245	_
+14	hut	hut	_	VBP	_	0	ROOT	_	_
+15	.	.	_	.	_	14	P	_	_

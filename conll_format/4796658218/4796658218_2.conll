@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	203562	_
+2	young	young	_	JJ	_	3	NMOD	203562	_
+3	woman	woman	_	NN	_	0	ROOT	203562	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	203565	_
+6	white	white	_	JJ	_	7	NMOD	203565	_
+7	sundress	sundress	_	NN	_	4	PMOD	203565	_
+8	and	and	_	CC	_	3	COORD	_	_
+9	wearing	wear	_	VBG	_	13	NMOD	_	_
+10	sunglasses	sunglass	_	NNS	_	11	NMOD	203567	_
+11	rides	ride	_	NNS	_	9	OBJ	_	_
+12	her	her	_	PRP$	_	13	NMOD	0	_
+13	bike	bike	_	NN	_	8	CONJ	203564	_
+14	with	with	_	IN	_	3	NMOD	_	11
+15	a	a	_	DT	_	16	NMOD	203563	_
+16	basket	basket	_	NN	_	14	PMOD	203563	_
+17	.	.	_	.	_	0	ROOT	_	_

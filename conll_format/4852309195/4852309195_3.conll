@@ -1,0 +1,12 @@
+1	Seven	Seven	_	NNP	_	2	NAME	210931	_
+2	Asian	Asian	_	NNP	_	3	NMOD	210931	_
+3	youths	youth	_	NNS	_	5	SBJ	210931	_
+4	joyously	joyously	_	RB	_	5	ADV	_	_
+5	gather	gather	_	VBP	_	0	ROOT	_	_
+6	at	at	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	9	NMOD	210935	_
+8	Pokemon	Pokemon	_	NNP	_	9	NAME	210935	_
+9	Center	Center	_	NNP	_	6	PMOD	210935	_
+10	in	in	_	IN	_	9	LOC	_	5
+11	Nagoya	Nagoya	_	NNP	_	10	PMOD	210930	_
+12	.	.	_	.	_	5	P	_	_

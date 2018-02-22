@@ -1,0 +1,16 @@
+1	Lots	Lot	_	NNPS	_	4	NAME	140182	_
+2	of	of	_	IN	_	4	ADV	140182	_
+3	people	people	_	NN	_	2	PMOD	140182	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	walking	walk	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	140186	_
+8	road	road	_	NN	_	6	PMOD	140186	_
+9	near	near	_	IN	_	5	LOC	_	5
+10	several	several	_	DT	_	12	NMOD	140187	_
+11	white	white	_	JJ	_	12	NMOD	140187	_
+12	buildings	building	_	NNS	_	9	PMOD	140187	_
+13	towards	towards	_	IN	_	5	LOC	_	5
+14	Nationals	national	_	NNS	_	15	NMOD	140183	_
+15	Park	Park	_	NNP	_	13	PMOD	140183	_
+16	.	.	_	.	_	4	P	_	_

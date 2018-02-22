@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	4149	_
+2	young	young	_	JJ	_	3	NMOD	4149	_
+3	adult	adult	_	NN	_	4	SBJ	4149	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	doing	do	_	VBG	_	4	VC	_	_
+6	a	a	_	DT	_	7	NMOD	4149	_
+7	back	back	_	RB	_	5	OBJ	4149	_
+8	flip	flip	_	JJ	_	5	OPRD	4149	_
+9	on	on	_	IN	_	5	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	4150	_
+11	trampoline	trampoline	_	NN	_	9	PMOD	4150	_
+12	near	near	_	IN	_	11	LOC	_	5
+13	a	a	_	DT	_	14	NMOD	4155	_
+14	lake	lake	_	NN	_	12	PMOD	4155	_
+15	.	.	_	.	_	4	P	_	_

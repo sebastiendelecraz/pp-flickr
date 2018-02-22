@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	3	NMOD	39061	_
+2	brown	brown	_	JJ	_	3	NMOD	39061	_
+3	dog	dog	_	NN	_	0	ROOT	39061	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	39064	_
+6	edge	edge	_	NN	_	4	PMOD	39064	_
+7	of	of	_	IN	_	6	NMOD	39064	6
+8	a	a	_	DT	_	9	NMOD	39064	_
+9	body	body	_	NN	_	7	PMOD	39064	_
+10	of	of	_	IN	_	9	NMOD	39064	_
+11	water	water	_	NN	_	10	PMOD	39064	_
+12	surrounded	surround	_	VBN	_	9	APPO	_	_
+13	by	by	_	IN	_	12	LGS	_	_
+14	snow	snow	_	NN	_	13	PMOD	39063	_
+15	.	.	_	.	_	0	ROOT	_	_

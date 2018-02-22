@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	29573	_
+2	lone	lone	_	JJ	_	3	NMOD	29573	_
+3	walker	walker	_	NN	_	0	ROOT	29573	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	a	a	_	DT	_	6	NMOD	29571	_
+6	family	family	_	NN	_	4	CONJ	29571	_
+7	along	along	_	IN	_	3	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	29569	_
+9	strip	strip	_	NN	_	7	PMOD	29569	_
+10	of	of	_	IN	_	9	NMOD	29569	_
+11	beach	beach	_	NN	_	10	PMOD	29569	_
+12	.	.	_	.	_	0	ROOT	_	_

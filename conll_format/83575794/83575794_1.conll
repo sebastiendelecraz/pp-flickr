@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	281188	_
+2	skier	skier	_	NN	_	7	SBJ	281188	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	281190	_
+5	brown	brown	_	JJ	_	6	NMOD	281190	_
+6	coat	coat	_	NN	_	3	PMOD	281190	_
+7	rises	rise	_	VBZ	_	0	ROOT	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	0	_
+10	air	air	_	NN	_	8	PMOD	0	_
+11	with	with	_	IN	_	7	ADV	_	7
+12	a	a	_	DT	_	13	NMOD	281189	_
+13	background	background	_	NN	_	11	PMOD	281189	_
+14	of	of	_	IN	_	13	NMOD	281189	_
+15	snow-covered	snow-covered	_	JJ	_	16	NMOD	281189	_
+16	trees	tree	_	NNS	_	14	PMOD	281189	_
+17	.	.	_	.	_	7	P	_	_

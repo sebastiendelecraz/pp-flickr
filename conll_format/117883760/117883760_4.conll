@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	NAME	4574	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	4577	_
+5	circle	circle	_	NN	_	3	PMOD	4577	_
+6	with	with	_	IN	_	2	ADV	_	2
+7	a	a	_	DT	_	8	NMOD	4573	_
+8	book	book	_	NN	_	6	PMOD	4573	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	4578	_
+11	middle	middle	_	NN	_	9	PMOD	4578	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	9312	_
+2	young	young	_	JJ	_	3	NMOD	9312	_
+3	boy	boy	_	NN	_	7	SBJ	9312	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	swimming	swim	_	VBG	_	6	NMOD	9314	_
+6	trunks	trunk	_	NNS	_	4	OBJ	9314	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	walking	walk	_	VBG	_	7	VC	_	_
+9	across	across	_	IN	_	8	DIR	_	8
+10	rocks	rock	_	NNS	_	9	PMOD	9315	_
+11	next to	next to	_	IN	_	8	TMP	_	8
+12	a	a	_	DT	_	13	NMOD	9313	_
+13	beach	beach	_	NN	_	11	PMOD	9313	_
+14	.	.	_	.	_	7	P	_	_

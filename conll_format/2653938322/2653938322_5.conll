@@ -1,0 +1,9 @@
+1	Young	Young	_	NNP	_	2	NMOD	64177	_
+2	boy	boy	_	NN	_	3	SBJ	64177	_
+3	plays	play	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	sparks	spark	_	NNS	_	4	PMOD	64180	_
+6	near	near	_	IN	_	5	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	64178	_
+8	pond	pond	_	NN	_	6	PMOD	64178	_
+9	.	.	_	.	_	3	P	_	_

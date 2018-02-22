@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	35486	_
+2	Shaved	shave	_	VBN	_	3	NMOD	35486	_
+3	man	man	_	NN	_	0	ROOT	35486	_
+4	about	about	_	IN	_	3	NMOD	35495	_
+5	to	to	_	TO	_	4	PMOD	_	_
+6	put	put	_	VB	_	5	IM	_	_
+7	a	a	_	DT	_	9	NMOD	35491	_
+8	blue	blue	_	JJ	_	9	NMOD	35491	_
+9	crab	crab	_	NN	_	6	OBJ	35491	_
+10	in	in	_	IN	_	6	PUT	_	6
+11	a	a	_	DT	_	13	NMOD	35489	_
+12	boiling	boil	_	VBG	_	13	NMOD	35489	_
+13	pot	pot	_	NN	_	10	PMOD	35489	_
+14	of	of	_	IN	_	13	NMOD	35489	_
+15	water	water	_	NN	_	14	PMOD	35489	_
+16	.	.	_	.	_	0	ROOT	_	_

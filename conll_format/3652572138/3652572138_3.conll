@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	134279	_
+2	boy	boy	_	NN	_	3	SBJ	134279	_
+3	raises	raise	_	VBZ	_	0	ROOT	_	_
+4	his	his	_	PRP$	_	5	NMOD	134282	_
+5	arms	arm	_	NNS	_	3	OBJ	134282	_
+6	amongst	amongst	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	134279	_
+8	crowd	crowd	_	NN	_	6	PMOD	134279	_
+9	of	of	_	IN	_	8	NMOD	134279	_
+10	people	people	_	NN	_	9	PMOD	134279	_
+11	who	who	_	WP	_	12	SBJ	0	_
+12	are	be	_	VBP	_	10	NMOD	_	_
+13	not	not	_	RB	_	12	ADV	_	_
+14	in	in	_	IN	_	12	PRD	_	_
+15	focus	focus	_	NN	_	14	PMOD	134285	_
+16	.	.	_	.	_	3	P	_	_

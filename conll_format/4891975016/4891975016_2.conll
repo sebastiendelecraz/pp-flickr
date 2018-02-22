@@ -1,0 +1,10 @@
+1	Bagpipers	bagpiper	_	NNS	_	0	ROOT	215613	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	traditional	traditional	_	JJ	_	6	NMOD	215618	_
+4	Scottish	Scottish	_	JJ	_	6	NMOD	215618	_
+5	garb	garb	_	NN	_	6	NMOD	215618	_
+6	march	march	_	NN	_	2	PMOD	215618	_
+7	down	down	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	215617	_
+9	street	street	_	NN	_	7	PMOD	215617	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	43566	_
+2	girl	girl	_	NN	_	12	SBJ	43566	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	43567	_
+5	bright	bright	_	JJ	_	7	NMOD	43567	_
+6	yellow	yellow	_	NN	_	7	NMOD	43567	_
+7	shirt	shirt	_	NN	_	3	PMOD	43567	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	dark	dark	_	JJ	_	11	NMOD	43569	_
+10	green	green	_	JJ	_	11	NMOD	43569	_
+11	shorts	short	_	NNS	_	8	CONJ	43569	_
+12	is	be	_	VBZ	_	0	ROOT	_	_
+13	sleeping	sleep	_	VBG	_	0	ROOT	_	_
+14	on	on	_	RP	_	13	PRT	_	_
+15	a	a	_	DT	_	16	NMOD	43568	_
+16	couch	couch	_	NN	_	0	ROOT	43568	_
+17	with	with	_	IN	_	16	NMOD	_	13
+18	a	a	_	DT	_	19	NMOD	43570	_
+19	bag	bag	_	NN	_	17	PMOD	43570	_
+20	of	of	_	IN	_	19	NMOD	43570	_
+21	pretzels	pretzel	_	NNS	_	20	PMOD	43570	_
+22	on	on	_	IN	_	16	NMOD	_	_
+23	the	the	_	DT	_	24	NMOD	43571	_
+24	floor	floor	_	NN	_	22	PMOD	43571	_
+25	next to	next to	_	IN	_	0	ROOT	_	_
+26	her	her	_	PRP$	_	0	ROOT	0	_
+27	.	.	_	.	_	0	ROOT	_	_

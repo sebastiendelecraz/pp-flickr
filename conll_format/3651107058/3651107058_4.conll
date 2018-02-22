@@ -1,0 +1,12 @@
+1	Someone	someone	_	NN	_	2	SBJ	134198	_
+2	sits	sit	_	VBZ	_	0	ROOT	_	_
+3	with	with	_	IN	_	2	ADV	_	_
+4	orange	orange	_	JJ	_	7	NMOD	134199	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	black	black	_	JJ	_	5	CONJ	134203	_
+7	tights	tights	_	NN	_	3	PMOD	134203	_
+8	at	at	_	IN	_	2	LOC	_	2
+9	an	an	_	DT	_	11	NMOD	134202	_
+10	outdoor	outdoor	_	JJ	_	11	NMOD	134202	_
+11	performance	performance	_	NN	_	8	PMOD	134202	_
+12	.	.	_	.	_	2	P	_	_

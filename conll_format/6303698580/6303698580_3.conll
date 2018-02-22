@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	252099	_
+2	person	person	_	NN	_	3	SBJ	252099	_
+3	speeding	speed	_	VBG	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	8	NMOD	252101	_
+6	heavily	heavily	_	RB	_	7	AMOD	252101	_
+7	wooded	wood	_	VBN	_	8	NMOD	252101	_
+8	trail	trail	_	NN	_	4	PMOD	252101	_
+9	on	on	_	IN	_	3	ADV	_	3
+10	a	a	_	DT	_	11	NMOD	252100	_
+11	bicycle	bicycle	_	NN	_	9	PMOD	252100	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	54280	_
+2	dog	dog	_	NN	_	0	ROOT	54280	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	54282	_
+5	Frisbee	Frisbee	_	NNP	_	3	PMOD	54282	_
+6	in front of	in front of	_	IN	_	2	NMOD	_	2
+7	a	a	_	DT	_	9	NMOD	54284	_
+8	brown	brown	_	JJ	_	9	NMOD	54284	_
+9	dog	dog	_	NN	_	6	PMOD	54284	_
+10	.	.	_	.	_	0	ROOT	_	_

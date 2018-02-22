@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	107125	_
+2	people	people	_	NN	_	3	SBJ	107125	_
+3	stand	stand	_	VBP	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	107127	_
+6	lake	lake	_	NN	_	4	PMOD	107127	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	107128	_
+9	snow	snow	_	NN	_	7	PMOD	107128	_
+10	and	and	_	CC	_	3	COORD	_	_
+11	pose	pose	_	VB	_	10	CONJ	_	_
+12	for	for	_	IN	_	11	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	107130	_
+14	picture	picture	_	NN	_	12	PMOD	107130	_
+15	.	.	_	.	_	3	P	_	_

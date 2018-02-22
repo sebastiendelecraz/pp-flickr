@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	211052	_
+2	man	man	_	NN	_	0	ROOT	211052	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	211053	_
+6	bench	bench	_	NN	_	4	PMOD	211053	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	his	his	_	PRP$	_	9	NMOD	211054	_
+9	bicycle	bicycle	_	NN	_	7	PMOD	211054	_
+10	leaning	lean	_	VBG	_	9	APPO	_	_
+11	against	against	_	IN	_	10	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	211055	_
+13	railing	rail	_	VBG	_	11	PMOD	211055	_
+14	.	.	_	.	_	0	ROOT	_	_

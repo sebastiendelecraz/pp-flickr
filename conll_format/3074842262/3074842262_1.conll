@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	91583	_
+2	kid	kid	_	NN	_	0	ROOT	91583	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	91584	_
+5	blue	blue	_	JJ	_	7	NMOD	91584	_
+6	top	top	_	JJ	_	7	NMOD	91584	_
+7	leaps	leap	_	NNS	_	3	PMOD	_	_
+8	into	into	_	IN	_	2	NMOD	_	7
+9	a	a	_	DT	_	11	NMOD	91585	_
+10	raked	rake	_	VBN	_	11	NMOD	91585	_
+11	pile	pile	_	NN	_	8	PMOD	91585	_
+12	of	of	_	IN	_	11	NMOD	91585	_
+13	leaves	leaf	_	NNS	_	12	PMOD	91585	_
+14	in front of	in front of	_	IN	_	0	ROOT	_	_
+15	trees	tree	_	NNS	_	14	PMOD	91586	_
+16	.	.	_	.	_	0	ROOT	_	_

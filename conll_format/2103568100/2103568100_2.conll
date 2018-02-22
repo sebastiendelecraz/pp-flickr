@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	29062	_
+2	white	white	_	JJ	_	3	NMOD	29062	_
+3	dog	dog	_	NN	_	4	SBJ	29062	_
+4	walks	walk	_	VBZ	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	ADV	_	4
+6	shallow	shallow	_	NN	_	7	NMOD	29065	_
+7	water	water	_	NN	_	5	PMOD	29065	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	29066	_
+10	wilderness	wilderness	_	NN	_	8	PMOD	29066	_
+11	.	.	_	.	_	4	P	_	_

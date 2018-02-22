@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	212351	_
+2	babies	baby	_	NNS	_	3	SBJ	212351	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	212356	_
+7	floor	floor	_	NN	_	5	PMOD	212356	_
+8	next to	next to	_	IN	_	4	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	212354	_
+10	table	table	_	NN	_	8	PMOD	212354	_
+11	,	,	_	,	_	3	P	_	_
+12	and	and	_	CC	_	3	COORD	_	_
+13	one	one	_	CD	_	14	NMOD	212349	_
+14	baby	baby	_	NN	_	15	SBJ	212349	_
+15	is	be	_	VBZ	_	12	CONJ	_	_
+16	crying	cry	_	VBG	_	15	VC	_	_
+17	.	.	_	.	_	3	P	_	_

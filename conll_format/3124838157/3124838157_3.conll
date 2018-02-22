@@ -1,0 +1,15 @@
+1	three	three	_	CD	_	2	NMOD	95194	_
+2	people	people	_	NN	_	3	SBJ	95194	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	outside	outside	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	95197	_
+6	store	store	_	NN	_	7	NMOD	95197	_
+7	window	window	_	NN	_	4	PMOD	95197	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	two	two	_	CD	_	11	NMOD	95202	_
+10	large	large	_	JJ	_	11	NMOD	95202	_
+11	signs	sign	_	NNS	_	8	PMOD	95202	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

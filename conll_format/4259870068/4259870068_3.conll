@@ -1,0 +1,9 @@
+1	Caviler	Caviler	_	NNP	_	2	SBJ	160583	_
+2	does	do	_	VBZ	_	0	ROOT	_	_
+3	rope	rope	_	VB	_	2	VC	0	_
+4	tricks	trick	_	NNS	_	3	OBJ	0	_
+5	on	on	_	IN	_	4	NMOD	_	_
+6	horseback	horseback	_	NN	_	5	PMOD	160589	_
+7	for	for	_	IN	_	4	NMOD	_	2
+8	parade	parade	_	NN	_	7	PMOD	160584	_
+9	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,22 @@
+1	Spectators	spectator	_	NNS	_	2	SBJ	254881	_
+2	sit	sit	_	VBP	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	254881	_
+5	audience	audience	_	NN	_	3	PMOD	254881	_
+6	at	at	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	254883	_
+8	hockey	hockey	_	NN	_	9	NMOD	254883	_
+9	game	game	_	NN	_	6	PMOD	254883	_
+10	while	while	_	IN	_	2	TMP	_	_
+11	a	a	_	DT	_	12	NMOD	254880	_
+12	photographer	photographer	_	NN	_	13	SBJ	254880	_
+13	takes	take	_	VBZ	_	10	SUB	_	_
+14	pictures	picture	_	NNS	_	13	OBJ	254884	_
+15	from	from	_	IN	_	13	ADV	_	13
+16	a	a	_	DT	_	17	NMOD	254882	_
+17	box	box	_	NN	_	15	PMOD	254882	_
+18	in between	in between	_	IN	_	13	TMP	_	17
+19	the	the	_	DT	_	21	NMOD	254890	_
+20	opposing	oppose	_	VBG	_	21	NMOD	254890	_
+21	teams	team	_	NNS	_	18	PMOD	254890	_
+22	.	.	_	.	_	2	P	_	_

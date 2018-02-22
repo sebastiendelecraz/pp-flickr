@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	145716	_
+2	man	man	_	NN	_	6	SBJ	145716	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	145720	_
+5	uniform	uniform	_	NN	_	3	PMOD	145720	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	standing	stand	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	145718	_
+10	beach	beach	_	NN	_	8	PMOD	145718	_
+11	with	with	_	IN	_	7	ADV	_	7
+12	a	a	_	DT	_	13	NMOD	145719	_
+13	camera	camera	_	NN	_	11	PMOD	145719	_
+14	in	in	_	IN	_	7	LOC	_	_
+15	his	his	_	PRP$	_	16	NMOD	145722	_
+16	hands	hand	_	NNS	_	14	PMOD	145722	_
+17	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,8 @@
+1	People	People	_	NNPS	_	2	SBJ	179281	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	at	at	_	IN	_	2	ADV	_	_
+4	street	street	_	NN	_	5	NMOD	179286	_
+5	corner	corner	_	NN	_	3	PMOD	179286	_
+6	in	in	_	IN	_	5	LOC	_	2
+7	France	France	_	NNP	_	6	PMOD	179282	_
+8	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	3	NMOD	142368	_
+2	little	little	_	JJ	_	3	NMOD	142368	_
+3	girl	girl	_	NN	_	4	SBJ	142368	_
+4	shows	show	_	VBZ	_	0	ROOT	_	_
+5	her	her	_	PRP$	_	6	NMOD	0	_
+6	enthusiasm	enthusiasm	_	NN	_	4	OBJ	142376	_
+7	for	for	_	IN	_	6	NMOD	_	6
+8	the	the	_	DT	_	9	NMOD	142379	_
+9	day	day	_	NN	_	7	PMOD	142379	_
+10	by	by	_	IN	_	6	NMOD	_	_
+11	dancing	dance	_	VBG	_	10	PMOD	_	_
+12	by	by	_	IN	_	6	NMOD	_	_
+13	the	the	_	DT	_	14	NMOD	142369	_
+14	water	water	_	NN	_	12	PMOD	142369	_
+15	.	.	_	.	_	4	P	_	_

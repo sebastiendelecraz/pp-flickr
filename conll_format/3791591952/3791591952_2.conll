@@ -1,0 +1,16 @@
+1	One	One	_	CD	_	3	NMOD	142789	_
+2	young	young	_	JJ	_	3	NMOD	142789	_
+3	dancer	dancer	_	NN	_	12	SBJ	142789	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	142792	_
+6	daring	dare	_	VBG	_	8	NMOD	142792	_
+7	upside-down	upside-down	_	JJ	_	8	NMOD	142792	_
+8	spin	spin	_	NN	_	4	PMOD	142792	_
+9	as	as	_	IN	_	3	NMOD	_	_
+10	his	his	_	PRP$	_	11	NMOD	142790	_
+11	partner	partner	_	NN	_	9	PMOD	142790	_
+12	looks	look	_	VBZ	_	0	ROOT	_	_
+13	on	on	_	IN	_	12	ADV	_	_
+14	in	in	_	IN	_	13	PMOD	_	_
+15	delight	delight	_	NN	_	14	PMOD	142798	_
+16	.	.	_	.	_	12	P	_	_

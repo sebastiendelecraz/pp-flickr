@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	3027	_
+2	man	man	_	NN	_	0	ROOT	3027	_
+3	under	under	_	IN	_	2	LOC	_	2
+4	the	the	_	DT	_	6	NMOD	3030	_
+5	black	black	_	JJ	_	6	NMOD	3030	_
+6	hood	hood	_	NN	_	3	PMOD	3030	_
+7	of	of	_	IN	_	6	NMOD	3030	6
+8	a	a	_	DT	_	9	NMOD	3030	_
+9	camera	camera	_	NN	_	7	PMOD	3030	_
+10	,	,	_	,	_	0	ROOT	_	_
+11	standing	stand	_	VBG	_	0	ROOT	_	_
+12	close to	close to	_	IN	_	11	ADV	_	11
+13	vehicles	vehicle	_	NNS	_	12	PMOD	3038	_
+14	and	and	_	CC	_	13	COORD	_	_
+15	an	an	_	DT	_	16	NMOD	3031	_
+16	RV	RV	_	NNP	_	14	CONJ	3031	_
+17	.	.	_	.	_	0	ROOT	_	_

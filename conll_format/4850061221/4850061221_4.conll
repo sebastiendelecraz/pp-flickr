@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	210412	_
+2	blurry	blurry	_	JJ	_	3	NMOD	210412	_
+3	photo	photo	_	NN	_	0	ROOT	210412	_
+4	of	of	_	IN	_	3	NMOD	210412	_
+5	a	a	_	DT	_	6	NMOD	210412	_
+6	couple	couple	_	NN	_	4	PMOD	210412	_
+7	on	on	_	IN	_	3	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	210414	_
+9	bench	bench	_	NN	_	7	PMOD	210414	_
+10	watching	watch	_	VBG	_	9	APPO	_	_
+11	other	other	_	JJ	_	12	NMOD	210408	_
+12	people	people	_	NN	_	10	OBJ	210408	_
+13	play	play	_	VB	_	10	OPRD	_	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	6386	_
+2	toddler	toddler	_	NN	_	0	ROOT	6386	_
+3	using	use	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	6390	_
+5	straw	straw	_	NN	_	3	OBJ	6390	_
+6	to	to	_	TO	_	3	OPRD	_	_
+7	drink	drink	_	VB	_	6	IM	_	_
+8	from	from	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	6388	_
+10	paper	paper	_	NN	_	11	NMOD	6388	_
+11	cup	cup	_	NN	_	8	PMOD	6388	_
+12	in front of	in front of	_	IN	_	7	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	6391	_
+14	McDonald	McDonald	_	NNP	_	16	NMOD	6391	_
+15	'	'	_	POS	_	14	SUFFIX	_	_
+16	s	s	_	NN	_	12	PMOD	_	_
+17	.	.	_	.	_	0	ROOT	_	_

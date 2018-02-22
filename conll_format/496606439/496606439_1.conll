@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	224002	_
+2	woman	woman	_	NN	_	7	SBJ	224002	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	224007	_
+5	red	red	_	JJ	_	6	NMOD	224007	_
+6	shirt	shirt	_	NN	_	3	PMOD	224007	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	waving	wave	_	VBG	_	0	ROOT	_	_
+9	while	while	_	IN	_	0	ROOT	_	_
+10	standing	stand	_	VBG	_	0	ROOT	_	_
+11	behind	behind	_	IN	_	10	LOC	_	10
+12	another	another	_	DT	_	13	NMOD	224002	_
+13	woman	woman	_	NN	_	11	PMOD	224002	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	black	black	_	JJ	_	16	NMOD	224011	_
+16	hair	hair	_	NN	_	14	PMOD	224011	_
+17	.	.	_	.	_	0	ROOT	_	_

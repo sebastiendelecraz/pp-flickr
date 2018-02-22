@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	225466	_
+2	clown	clown	_	NN	_	3	SBJ	225466	_
+3	holds	hold	_	VBZ	_	0	ROOT	_	_
+4	her	her	_	PRP$	_	5	NMOD	225468	_
+5	ears	ear	_	NNS	_	3	OBJ	225468	_
+6	with	with	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	225467	_
+8	balloon	balloon	_	NN	_	6	PMOD	225467	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	her	her	_	PRP$	_	12	NMOD	225470	_
+11	left	left	_	JJ	_	12	NMOD	225470	_
+12	hand	hand	_	NN	_	9	PMOD	225470	_
+13	.	.	_	.	_	3	P	_	_

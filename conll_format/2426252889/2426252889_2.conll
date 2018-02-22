@@ -1,0 +1,19 @@
+1	An	an	_	DT	_	2	NMOD	48577	_
+2	orchestra	orchestra	_	NN	_	5	SBJ	48577	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	choir	choir	_	NN	_	3	CONJ	48573	_
+5	prepare	prepare	_	VBP	_	16	SBJ	_	_
+6	to	to	_	TO	_	5	OPRD	_	_
+7	perform	perform	_	VB	_	6	IM	_	_
+8	in front of	in front of	_	IN	_	7	ADV	_	5
+9	a	a	_	DT	_	11	NMOD	48575	_
+10	golden	golden	_	JJ	_	11	NMOD	48575	_
+11	statue	statue	_	NN	_	8	PMOD	48575	_
+12	in	in	_	IN	_	7	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	48580	_
+14	large	large	_	JJ	_	15	NMOD	48580	_
+15	building	building	_	NN	_	12	PMOD	48580	_
+16	surrounded	surround	_	VBD	_	0	ROOT	_	_
+17	by	by	_	IN	_	16	LGS	_	_
+18	columns	column	_	NNS	_	17	PMOD	48578	_
+19	.	.	_	.	_	16	P	_	_

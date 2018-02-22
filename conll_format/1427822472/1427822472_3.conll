@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	12512	_
+2	man	man	_	NN	_	3	SBJ	12512	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	passed	pass	_	VBN	_	3	VC	_	_
+5	out	out	_	RP	_	4	PRT	_	_
+6	on	on	_	IN	_	4	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	12514	_
+8	concrete	concrete	_	NN	_	6	PMOD	12514	_
+9	with	with	_	IN	_	4	ADV	_	4
+10	a	a	_	DT	_	11	NMOD	12515	_
+11	bottle	bottle	_	NN	_	9	PMOD	12515	_
+12	of	of	_	IN	_	11	NMOD	12515	_
+13	water	water	_	NN	_	12	PMOD	12515	_
+14	.	.	_	.	_	3	P	_	_

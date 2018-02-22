@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	238699	_
+2	man	man	_	NN	_	9	SBJ	238699	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	238700	_
+5	cap	cap	_	NN	_	3	PMOD	238700	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	white	white	_	JJ	_	8	NMOD	238707	_
+8	shirt	shirt	_	NN	_	6	CONJ	238707	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	cutting	cut	_	VBG	_	9	VC	_	_
+11	some	some	_	DT	_	12	NMOD	238705	_
+12	fish	fish	_	NN	_	10	OBJ	238705	_
+13	on	on	_	IN	_	10	ADV	_	10
+14	a	a	_	DT	_	15	NMOD	238701	_
+15	boat	boat	_	NN	_	13	PMOD	238701	_
+16	that	that	_	WDT	_	17	SBJ	0	_
+17	is	be	_	VBZ	_	15	NMOD	_	_
+18	floating	float	_	VBG	_	17	VC	_	_
+19	on	on	_	IN	_	18	ADV	_	_
+20	water	water	_	NN	_	19	PMOD	238706	_
+21	next to	next to	_	IN	_	18	ADV	_	18
+22	a	a	_	DT	_	24	NMOD	238702	_
+23	wooden	wooden	_	JJ	_	24	NMOD	238702	_
+24	dock	dock	_	NN	_	21	PMOD	238702	_
+25	.	.	_	.	_	9	P	_	_

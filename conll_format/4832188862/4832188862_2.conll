@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	208691	_
+2	group	group	_	NN	_	0	ROOT	208691	_
+3	of	of	_	IN	_	2	NMOD	208691	_
+4	people	people	_	NN	_	3	PMOD	208691	_
+5	walking	walk	_	VBG	_	4	APPO	_	_
+6	outside	outside	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	208695	_
+8	theme	theme	_	NN	_	9	NMOD	208695	_
+9	park	park	_	NN	_	6	PMOD	208695	_
+10	in the middle of	in the middle of	_	IN	_	5	TMP	208697	5
+11	the	the	_	DT	_	12	NMOD	208697	_
+12	day	day	_	NN	_	10	PMOD	208697	_
+13	.	.	_	.	_	0	ROOT	_	_

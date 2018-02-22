@@ -1,0 +1,12 @@
+1	Dog	Dog	_	NNP	_	0	ROOT	88320	_
+2	on	on	_	IN	_	0	ROOT	_	_
+3	two	two	_	CD	_	4	NMOD	88321	_
+4	legs	leg	_	NNS	_	2	PMOD	88321	_
+5	leaning	lean	_	VBG	_	4	APPO	_	_
+6	against	against	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	88324	_
+8	counter	counter	_	NN	_	6	PMOD	88324	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	filled	fill	_	VBN	_	11	NMOD	88325	_
+11	bags	bag	_	NNS	_	9	PMOD	88325	_
+12	.	.	_	.	_	0	ROOT	_	_

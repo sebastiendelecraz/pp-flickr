@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	246336	_
+2	tired	tired	_	JJ	_	3	NMOD	246336	_
+3	man	man	_	NN	_	0	ROOT	246336	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	246337	_
+6	blue	blue	_	JJ	_	8	NMOD	246337	_
+7	shirt	shirt	_	NN	_	8	NMOD	246337	_
+8	kayaks	kayak	_	NNS	_	4	PMOD	_	_
+9	down	down	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	246338	_
+11	lake	lake	_	NN	_	9	PMOD	246338	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	5	NMOD	280902	_
+2	brown	brown	_	JJ	_	5	NMOD	280902	_
+3	and	and	_	CC	_	2	COORD	280902	_
+4	white	white	_	JJ	_	3	CONJ	280902	_
+5	dog	dog	_	NN	_	0	ROOT	280902	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	280903	_
+8	pink	pink	_	NN	_	6	PMOD	280903	_
+9	Frisbee	Frisbee	_	NNP	_	8	APPO	280903	_
+10	in	in	_	IN	_	8	LOC	_	_
+11	its	its	_	PRP$	_	13	NMOD	280906	_
+12	mouth	mouth	_	NN	_	13	NMOD	280906	_
+13	leaps	leap	_	NNS	_	10	PMOD	_	_
+14	through	through	_	IN	_	5	TMP	_	13
+15	the	the	_	DT	_	16	NMOD	0	_
+16	air	air	_	NN	_	14	PMOD	0	_
+17	next to	next to	_	IN	_	0	ROOT	_	_
+18	a	a	_	DT	_	20	NMOD	280905	_
+19	young	young	_	JJ	_	20	NMOD	280905	_
+20	man	man	_	NN	_	17	PMOD	280905	_
+21	in	in	_	IN	_	20	LOC	_	_
+22	a	a	_	DT	_	24	NMOD	280907	_
+23	knit	knit	_	NN	_	24	NMOD	280907	_
+24	cap	cap	_	NN	_	21	PMOD	280907	_
+25	.	.	_	.	_	0	ROOT	_	_

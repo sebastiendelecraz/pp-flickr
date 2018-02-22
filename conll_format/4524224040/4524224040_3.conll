@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	175349	_
+2	man	man	_	NN	_	3	SBJ	175349	_
+3	leans	lean	_	VBZ	_	0	ROOT	_	_
+4	against	against	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	175351	_
+6	telephone	telephone	_	NN	_	7	NMOD	175351	_
+7	booth	booth	_	NN	_	4	PMOD	175351	_
+8	next to	next to	_	IN	_	7	NMOD	_	3
+9	piles	pile	_	NNS	_	8	PMOD	175350	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	bags	bag	_	NNS	_	10	CONJ	175352	_
+12	of	of	_	IN	_	11	NMOD	175352	_
+13	trash	trash	_	NN	_	12	PMOD	175352	_
+14	.	.	_	.	_	3	P	_	_

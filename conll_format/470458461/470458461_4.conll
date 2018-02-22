@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	193078	_
+2	child	child	_	NN	_	0	ROOT	193078	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	8	NMOD	193079	_
+5	colored	color	_	VBN	_	8	NMOD	193079	_
+6	striped	stripe	_	VBN	_	8	NMOD	193079	_
+7	shirt	shirt	_	NN	_	8	NMOD	193079	_
+8	plays	play	_	NNS	_	3	PMOD	_	_
+9	with	with	_	IN	_	2	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	193080	_
+11	play	play	_	NN	_	9	PMOD	193080	_
+12	set	set	_	VBN	_	11	APPO	193080	_
+13	.	.	_	.	_	0	ROOT	_	_

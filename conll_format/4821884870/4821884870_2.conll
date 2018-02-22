@@ -1,0 +1,12 @@
+1	Woman	Woman	_	NNP	_	0	ROOT	207119	_
+2	in	in	_	IN	_	4	PMOD	_	_
+3	Jacket	Jacket	_	NNP	_	2	PMOD	207119	_
+4	with	with	_	IN	_	1	NMOD	_	_
+5	hood	hood	_	NN	_	4	PMOD	207119	_
+6	up	up	_	IN	_	5	NMOD	_	5
+7	walks	walk	_	NNS	_	6	PMOD	_	_
+8	alone	alone	_	RB	_	7	NMOD	_	_
+9	down	down	_	IN	_	7	NMOD	_	7
+10	crowded	crowd	_	VBN	_	11	NMOD	207125	_
+11	street	street	_	NN	_	9	PMOD	207125	_
+12	.	.	_	.	_	0	ROOT	_	_

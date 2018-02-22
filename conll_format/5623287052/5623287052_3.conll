@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	239963	_
+2	man	man	_	NN	_	0	ROOT	239963	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	239971	_
+5	green	green	_	JJ	_	6	NMOD	239971	_
+6	jacket	jacket	_	NN	_	3	PMOD	239971	_
+7	at	at	_	IN	_	2	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	239965	_
+9	supermarket	supermarket	_	NN	_	7	PMOD	239965	_
+10	looking	look	_	VBG	_	2	APPO	_	_
+11	over	over	_	IN	_	10	ADV	_	10
+12	products	product	_	NNS	_	11	PMOD	239965	_
+13	to	to	_	TO	_	10	OPRD	_	_
+14	buy	buy	_	VB	_	13	IM	_	_
+15	.	.	_	.	_	0	ROOT	_	_

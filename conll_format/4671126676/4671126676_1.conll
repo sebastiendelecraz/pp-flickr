@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	188824	_
+2	young	young	_	JJ	_	3	NMOD	188824	_
+3	woman	woman	_	NN	_	4	SBJ	188824	_
+4	leaps	leap	_	VBZ	_	0	ROOT	_	_
+5	into	into	_	IN	_	4	ADV	_	4
+6	the	the	_	DT	_	7	NMOD	0	_
+7	air	air	_	NN	_	5	PMOD	0	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	the	the	_	DT	_	12	NMOD	188829	_
+10	US	US	_	NNP	_	11	NAME	188829	_
+11	Capitol	Capitol	_	NNP	_	12	NMOD	188829	_
+12	building	building	_	NN	_	8	PMOD	_	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	background	background	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	34753	_
+2	bearded	beard	_	VBN	_	3	NMOD	34753	_
+3	man	man	_	NN	_	4	SBJ	34753	_
+4	plucks	pluck	_	VBZ	_	0	ROOT	_	_
+5	an	an	_	DT	_	7	NMOD	34756	_
+6	acoustic	acoustic	_	JJ	_	7	NMOD	34756	_
+7	guitar	guitar	_	NN	_	4	OBJ	34756	_
+8	with	with	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	11	NMOD	34755	_
+10	blue	blue	_	JJ	_	11	NMOD	34755	_
+11	pen	pen	_	NN	_	8	PMOD	34755	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	his	his	_	PRP$	_	14	NMOD	34757	_
+14	hand	hand	_	NN	_	12	PMOD	34757	_
+15	.	.	_	.	_	4	P	_	_

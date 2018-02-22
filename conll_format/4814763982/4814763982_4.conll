@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	206149	_
+2	man	man	_	NN	_	6	NMOD	206149	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	no	no	_	DT	_	5	NMOD	206159	_
+5	shirt	shirt	_	NN	_	3	PMOD	206159	_
+6	on	on	_	IN	_	7	SBJ	_	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	performing	perform	_	VBG	_	7	VC	_	_
+9	with	with	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	206150	_
+11	baton	baton	_	NN	_	9	PMOD	206150	_
+12	.	.	_	.	_	7	P	_	_

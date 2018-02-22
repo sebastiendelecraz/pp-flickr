@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	3	NMOD	119466	_
+2	brown	brown	_	JJ	_	3	NMOD	119466	_
+3	dog	dog	_	NN	_	4	SBJ	119466	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	along	along	_	IN	_	4	LOC	_	4
+6	the	the	_	DT	_	8	NMOD	119470	_
+7	dirt	dirt	_	NN	_	8	NMOD	119470	_
+8	shore	shore	_	NN	_	5	PMOD	119470	_
+9	of	of	_	IN	_	8	NMOD	119470	_
+10	a	a	_	DT	_	11	NMOD	119470	_
+11	stream	stream	_	NN	_	9	PMOD	119470	_
+12	.	.	_	.	_	0	ROOT	_	_

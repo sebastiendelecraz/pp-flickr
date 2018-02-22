@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	140120	_
+2	man	man	_	NN	_	0	ROOT	140120	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	140122	_
+5	bucket	bucket	_	NN	_	3	PMOD	140122	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	140123	_
+8	girl	girl	_	NN	_	6	CONJ	140123	_
+9	in	in	_	IN	_	2	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	140127	_
+11	hat	hat	_	NN	_	9	PMOD	140127	_
+12	on	on	_	IN	_	2	NMOD	_	_
+13	the	the	_	DT	_	14	NMOD	140121	_
+14	beach	beach	_	NN	_	12	PMOD	140121	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,9 @@
+1	kids	kid	_	NNS	_	2	SBJ	133115	_
+2	straggle	straggle	_	VBP	_	0	ROOT	_	_
+3	behind	behind	_	IN	_	2	ADV	_	2
+4	father	father	_	NN	_	3	PMOD	133114	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	graffiti	graffito	_	NNS	_	5	PMOD	133118	_
+7	covered	cover	_	VBN	_	8	NMOD	_	_
+8	alleyway	alleyway	_	NN	_	0	ROOT	_	_
+9	.	.	_	.	_	0	ROOT	_	_

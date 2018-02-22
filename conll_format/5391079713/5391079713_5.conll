@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	235261	_
+2	man	man	_	NN	_	7	SBJ	235261	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	235264	_
+5	blue	blue	_	JJ	_	6	NMOD	235264	_
+6	coat	coat	_	NN	_	3	PMOD	235264	_
+7	poses	pose	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	235263	_
+10	bench	bench	_	NN	_	8	PMOD	235263	_
+11	near	near	_	IN	_	10	LOC	_	7
+12	a	a	_	DT	_	13	NMOD	235262	_
+13	body	body	_	NN	_	11	PMOD	235262	_
+14	of	of	_	IN	_	13	NMOD	235262	_
+15	water	water	_	NN	_	14	PMOD	235262	_
+16	.	.	_	.	_	7	P	_	_

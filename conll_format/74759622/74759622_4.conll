@@ -1,0 +1,12 @@
+1	He	he	_	PRP	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC-PRD	_	_
+4	the	the	_	DT	_	5	NMOD	270345	_
+5	bathroom	bathroom	_	NN	_	3	PMOD	270345	_
+6	with	with	_	IN	_	2	ADV	_	2
+7	a	a	_	DT	_	8	NMOD	270346	_
+8	drink	drink	_	NN	_	6	PMOD	270346	_
+9	in	in	_	IN	_	2	LOC	_	_
+10	his	his	_	PRP$	_	11	NMOD	270349	_
+11	hand	hand	_	NN	_	9	PMOD	270349	_
+12	.	.	_	.	_	2	P	_	_

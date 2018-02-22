@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	207687	_
+2	group	group	_	NN	_	5	SBJ	207687	_
+3	of	of	_	IN	_	2	NMOD	207687	_
+4	people	people	_	NN	_	3	PMOD	207687	_
+5	stand	stand	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	207694	_
+8	sidewalk	sidewalk	_	NN	_	6	PMOD	207694	_
+9	in front of	in front of	_	IN	_	5	TMP	_	_
+10	several	several	_	DT	_	11	NMOD	207696	_
+11	storefronts	storefront	_	NNS	_	9	PMOD	207696	_
+12	,	,	_	,	_	5	P	_	_
+13	with	with	_	IN	_	5	ADV	_	5
+14	a	a	_	DT	_	15	NMOD	207688	_
+15	cart	cart	_	NN	_	13	PMOD	207688	_
+16	parked	park	_	VBN	_	15	APPO	_	_
+17	near	near	_	IN	_	16	LOC	_	_
+18	them	them	_	PRP	_	17	PMOD	0	_
+19	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	270024	_
+2	little	little	_	JJ	_	3	NMOD	270024	_
+3	brown	brown	_	NN	_	7	SBJ	270024	_
+4	and	and	_	CC	_	3	COORD	270024	_
+5	white	white	_	JJ	_	6	NMOD	270024	_
+6	dog	dog	_	NN	_	4	CONJ	270024	_
+7	emerges	emerge	_	VBZ	_	0	ROOT	_	_
+8	from	from	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	13	NMOD	270025	_
+10	yellow	yellow	_	JJ	_	13	NMOD	270025	_
+11	collapsable	collapsable	_	JJ	_	13	NMOD	270025	_
+12	toy	toy	_	NN	_	13	NMOD	270025	_
+13	tunnel	tunnel	_	NN	_	8	PMOD	270025	_
+14	onto	onto	_	IN	_	7	LOC	_	7
+15	the	the	_	DT	_	16	NMOD	270026	_
+16	lawn	lawn	_	NN	_	14	PMOD	270026	_
+17	.	.	_	.	_	7	P	_	_

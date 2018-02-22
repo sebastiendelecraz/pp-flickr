@@ -1,0 +1,26 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	243102	_
+4	woman	woman	_	NN	_	2	SBJ	243102	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	at	at	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	9	NMOD	243103	_
+8	front	front	_	NN	_	9	NMOD	243103	_
+9	desk	desk	_	NN	_	6	PMOD	243103	_
+10	of	of	_	IN	_	9	NMOD	243103	9
+11	a	a	_	DT	_	14	NMOD	243103	_
+12	Hollywood	Hollywood	_	NNP	_	14	NAME	243103	_
+13	Wax	Wax	_	NNP	_	14	NAME	243103	_
+14	Museum	Museum	_	NNP	_	10	PMOD	243103	_
+15	with	with	_	IN	_	9	NMOD	_	_
+16	a	a	_	DT	_	17	NMOD	243096	_
+17	statue	statue	_	NN	_	15	PMOD	243096	_
+18	standing	stand	_	VBG	_	17	APPO	_	_
+19	next to	next to	_	IN	_	18	DIR	_	18
+20	the	the	_	DT	_	21	NMOD	243099	_
+21	desk	desk	_	NN	_	19	PMOD	243099	_
+22	she	she	_	PRP	_	23	SBJ	0	_
+23	is	be	_	VBZ	_	21	NMOD	_	_
+24	sitting	sit	_	VBG	_	23	VC	_	_
+25	at	at	_	IN	_	24	ADV	_	_
+26	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	3	NMOD	181128	_
+2	content	content	_	NN	_	3	NMOD	181128	_
+3	skier	skier	_	NN	_	0	ROOT	181128	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	181130	_
+6	yellow	yellow	_	JJ	_	7	NMOD	181130	_
+7	jacket	jacket	_	NN	_	4	PMOD	181130	_
+8	posing	pose	_	VBG	_	7	APPO	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	181136	_
+11	picture	picture	_	NN	_	9	PMOD	181136	_
+12	on	on	_	IN	_	8	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	181131	_
+14	slopes	slope	_	NNS	_	12	PMOD	181131	_
+15	.	.	_	.	_	0	ROOT	_	_

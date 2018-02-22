@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	265671	_
+2	young	young	_	JJ	_	3	NMOD	265671	_
+3	girl	girl	_	NN	_	0	ROOT	265671	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	265672	_
+6	crowd	crowd	_	NN	_	4	PMOD	265672	_
+7	of	of	_	IN	_	6	NMOD	265672	_
+8	people	people	_	NN	_	7	PMOD	265672	_
+9	spinning	spin	_	VBG	_	6	APPO	_	_
+10	two	two	_	CD	_	12	NMOD	265670	_
+11	hula	hula	_	NN	_	12	NMOD	265670	_
+12	hoops	hoop	_	NNS	_	9	OBJ	265670	_
+13	at	at	_	IN	_	9	LOC	_	_
+14	once	once	_	RB	_	13	PMOD	265676	_
+15	.	.	_	.	_	0	ROOT	_	_

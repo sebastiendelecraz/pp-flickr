@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	196878	_
+2	man	man	_	NN	_	0	ROOT	196878	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	an	an	_	DT	_	7	NMOD	196881	_
+5	orange	orange	_	JJ	_	7	NMOD	196881	_
+6	ball	ball	_	NN	_	7	NMOD	196881	_
+7	cap	cap	_	NN	_	3	PMOD	196881	_
+8	,	,	_	,	_	7	P	_	_
+9	sunglasses	sunglass	_	NNS	_	7	COORD	196883	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	orange	orange	_	JJ	_	13	NMOD	196885	_
+12	reflector	reflector	_	NN	_	13	NMOD	196885	_
+13	jacket	jacket	_	NN	_	10	CONJ	196885	_
+14	holding	hold	_	VBG	_	13	APPO	_	_
+15	a	a	_	DT	_	16	NMOD	196879	_
+16	pole	pole	_	NN	_	14	OBJ	196879	_
+17	standing	stand	_	VBG	_	16	APPO	_	_
+18	next to	next to	_	IN	_	17	ADV	_	17
+19	another	another	_	DT	_	20	NMOD	196880	_
+20	man	man	_	NN	_	18	PMOD	196880	_
+21	in	in	_	IN	_	17	LOC	_	_
+22	a	a	_	DT	_	24	NMOD	196882	_
+23	striped	stripe	_	VBN	_	24	NMOD	196882	_
+24	shirt	shirt	_	NN	_	21	PMOD	196882	_
+25	and	and	_	CC	_	24	COORD	_	_
+26	glasses	glass	_	NNS	_	25	CONJ	196883	_
+27	.	.	_	.	_	0	ROOT	_	_

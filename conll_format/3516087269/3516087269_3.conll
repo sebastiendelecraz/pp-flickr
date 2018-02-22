@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	124069	_
+2	boy	boy	_	NN	_	3	SBJ	124069	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	leaning	lean	_	VBG	_	3	VC	_	_
+5	down	down	_	RP	_	4	PRT	_	_
+6	in front of	in front of	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	124070	_
+8	girl	girl	_	NN	_	6	PMOD	124070	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	blue	blue	_	JJ	_	12	NMOD	124072	_
+11	striped	stripe	_	VBN	_	12	NMOD	124072	_
+12	hair	hair	_	NN	_	9	PMOD	124072	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	124071	_
+15	subway	subway	_	NN	_	16	NMOD	124071	_
+16	station	station	_	NN	_	13	PMOD	124071	_
+17	.	.	_	.	_	3	P	_	_

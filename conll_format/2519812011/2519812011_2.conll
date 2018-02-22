@@ -1,0 +1,10 @@
+1	Children	child	_	NNS	_	2	SBJ	54796	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	under	under	_	IN	_	2	LOC-PRD	_	2
+4	a	a	_	DT	_	6	NMOD	54797	_
+5	large	large	_	JJ	_	6	NMOD	54797	_
+6	fountain	fountain	_	NN	_	3	PMOD	54797	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	54798	_
+9	city	city	_	NN	_	7	PMOD	54798	_
+10	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	30069	_
+2	group	group	_	NN	_	8	SBJ	30069	_
+3	of	of	_	IN	_	2	NMOD	30069	_
+4	young	young	_	JJ	_	5	NMOD	30069	_
+5	men	man	_	NNS	_	3	PMOD	30069	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	women	woman	_	NNS	_	6	CONJ	30069	_
+8	stand	stand	_	VBP	_	0	ROOT	_	_
+9	in front of	in front of	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	30072	_
+11	stage	stage	_	NN	_	9	PMOD	30072	_
+12	at	at	_	IN	_	8	LOC	_	8
+13	a	a	_	DT	_	14	NMOD	30070	_
+14	concert	concert	_	NN	_	12	PMOD	30070	_
+15	.	.	_	.	_	8	P	_	_

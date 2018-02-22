@@ -1,0 +1,12 @@
+1	The	the	_	DT	_	4	NMOD	278676	_
+2	New	New	_	NNP	_	3	NAME	278676	_
+3	York	York	_	NNP	_	4	NAME	278676	_
+4	Yankees	Yankees	_	NNP	_	5	SBJ	278676	_
+5	celebrate	celebrate	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	278680	_
+8	field	field	_	NN	_	6	PMOD	278680	_
+9	after	after	_	IN	_	5	TMP	_	5
+10	a	a	_	DT	_	11	NMOD	278675	_
+11	win	win	_	NN	_	9	PMOD	278675	_
+12	.	.	_	.	_	5	P	_	_

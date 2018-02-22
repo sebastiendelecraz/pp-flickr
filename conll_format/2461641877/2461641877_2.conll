@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	51285	_
+2	man	man	_	NN	_	7	SBJ	51285	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	51286	_
+5	blue	blue	_	JJ	_	6	NMOD	51286	_
+6	vest	vest	_	NN	_	3	PMOD	51286	_
+7	sits	sit	_	VBZ	_	15	SBJ	_	_
+8	perched	perch	_	VBN	_	7	VC	_	_
+9	outside	outside	_	IN	_	8	LOC	_	7
+10	a	a	_	DT	_	11	NMOD	51288	_
+11	window	window	_	NN	_	9	PMOD	51288	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	a	a	_	DT	_	14	NMOD	51291	_
+14	paint	paint	_	NN	_	12	PMOD	51291	_
+15	can	can	_	MD	_	0	ROOT	_	_
+16	.	.	_	.	_	15	P	_	_

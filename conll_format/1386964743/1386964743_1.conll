@@ -1,0 +1,12 @@
+1	Small	Small	_	NNP	_	2	NMOD	10744	_
+2	child	child	_	NN	_	0	ROOT	10744	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	black	black	_	JJ	_	5	NMOD	10751	_
+5	hair	hair	_	NN	_	3	PMOD	10751	_
+6	standing	stand	_	VBG	_	5	APPO	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	car	car	_	NN	_	9	NMOD	10745	_
+9	track	track	_	NN	_	7	PMOD	10745	_
+10	near	near	_	IN	_	6	LOC	_	6
+11	sunflowers	sunflower	_	NNS	_	10	PMOD	10750	_
+12	.	.	_	.	_	0	ROOT	_	_

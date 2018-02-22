@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	212555	_
+2	dogs	dog	_	NNS	_	3	SBJ	212555	_
+3	run	run	_	VBP	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	212556	_
+6	water	water	_	NN	_	4	PMOD	212556	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	212559	_
+9	beach	beach	_	NN	_	7	PMOD	212559	_
+10	,	,	_	,	_	3	P	_	_
+11	with	with	_	IN	_	3	ADV	_	_
+12	land	land	_	NN	_	11	PMOD	212558	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	the	the	_	DT	_	15	NMOD	212557	_
+15	horizon	horizon	_	NN	_	13	PMOD	212557	_
+16	.	.	_	.	_	3	P	_	_

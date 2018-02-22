@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	154305	_
+2	person	person	_	NN	_	9	SBJ	154305	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	154306	_
+5	basket	basket	_	NN	_	3	PMOD	154306	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	their	their	_	PRP$	_	8	NMOD	154308	_
+8	head	head	_	NN	_	6	PMOD	154308	_
+9	walks	walk	_	VBZ	_	0	ROOT	_	_
+10	through	through	_	IN	_	9	MNR	_	9
+11	a	a	_	DT	_	12	NMOD	154305	_
+12	crowd	crowd	_	NN	_	10	PMOD	154305	_
+13	.	.	_	.	_	9	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	127414	_
+2	group	group	_	NN	_	0	ROOT	127414	_
+3	of	of	_	IN	_	2	NMOD	127414	_
+4	runners	runner	_	NNS	_	3	PMOD	127414	_
+5	standing	stand	_	VBG	_	4	APPO	_	_
+6	in front of	in front of	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	9	NMOD	127421	_
+8	red	red	_	JJ	_	9	NMOD	127421	_
+9	car	car	_	NN	_	6	PMOD	127421	_
+10	in	in	_	IN	_	9	LOC	_	5
+11	Europe	Europe	_	NNP	_	10	PMOD	127419	_
+12	.	.	_	.	_	0	ROOT	_	_

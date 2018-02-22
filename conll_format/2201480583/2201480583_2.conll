@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	33794	_
+2	group	group	_	NN	_	5	SBJ	33794	_
+3	of	of	_	IN	_	2	NMOD	33794	_
+4	people	people	_	NN	_	3	PMOD	33794	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	chairs	chair	_	NNS	_	6	PMOD	33800	_
+8	around	around	_	IN	_	5	LOC	_	5
+9	a	a	_	DT	_	10	NMOD	33799	_
+10	table	table	_	NN	_	8	PMOD	33799	_
+11	while	while	_	IN	_	5	TMP	_	_
+12	a	a	_	DT	_	13	NMOD	33798	_
+13	grill	grill	_	NN	_	14	SBJ	33798	_
+14	cooks	cook	_	VBZ	_	11	SUB	_	_
+15	food	food	_	NN	_	14	OBJ	33801	_
+16	.	.	_	.	_	5	P	_	_

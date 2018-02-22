@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	33299	_
+2	man	man	_	NN	_	7	SBJ	33299	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	33300	_
+5	white	white	_	JJ	_	6	NMOD	33300	_
+6	cap	cap	_	NN	_	3	OBJ	33300	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	drinking	drink	_	VBG	_	7	VC	_	_
+9	water	water	_	NN	_	8	OBJ	33301	_
+10	with	with	_	IN	_	8	ADV	_	_
+11	lemon	lemon	_	JJ	_	10	PMOD	33302	_
+12	at	at	_	IN	_	8	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	33303	_
+14	table	table	_	NN	_	12	PMOD	33303	_
+15	next to	next to	_	IN	_	8	ADV	_	8
+16	a	a	_	DT	_	17	NMOD	33304	_
+17	mirror	mirror	_	NN	_	15	PMOD	33304	_
+18	that	that	_	WDT	_	19	SBJ	0	_
+19	shows	show	_	VBZ	_	17	NMOD	_	_
+20	a	a	_	DT	_	21	NMOD	33305	_
+21	server	server	_	NN	_	19	OBJ	33305	_
+22	and	and	_	CC	_	21	COORD	_	_
+23	three	three	_	CD	_	24	DEP	33306	_
+24	more	more	_	DT	_	22	CONJ	33306	_
+25	seated	seat	_	VBD	_	0	ROOT	33306	_
+26	customers	customer	_	NNS	_	25	OBJ	33306	_
+27	.	.	_	.	_	25	P	_	_

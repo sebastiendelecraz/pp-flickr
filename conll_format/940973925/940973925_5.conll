@@ -1,0 +1,11 @@
+1	Three	Three	_	CD	_	2	NMOD	283778	_
+2	kids	kid	_	NNS	_	3	SBJ	283778	_
+3	play	play	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	283781	_
+6	wall	wall	_	NN	_	4	PMOD	283781	_
+7	with	with	_	IN	_	6	NMOD	_	3
+8	a	a	_	DT	_	10	NMOD	283782	_
+9	green	green	_	JJ	_	10	NMOD	283782	_
+10	ball	ball	_	NN	_	7	PMOD	283782	_
+11	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	198290	_
+2	man	man	_	NN	_	0	ROOT	198290	_
+3	sticking	stick	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	198293	_
+5	metal	metal	_	NN	_	6	NMOD	198293	_
+6	rod	rod	_	NN	_	3	OBJ	198293	_
+7	into	into	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	198294	_
+9	river	river	_	NN	_	7	PMOD	198294	_
+10	of	of	_	IN	_	9	NMOD	198294	_
+11	lava	lava	_	NN	_	10	PMOD	198294	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	191804	_
+2	group	group	_	NN	_	5	SBJ	191804	_
+3	of	of	_	IN	_	2	NMOD	191804	_
+4	people	people	_	NN	_	3	PMOD	191804	_
+5	assemble	assemble	_	VBP	_	0	ROOT	_	_
+6	themselves	themselves	_	PRP	_	5	OBJ	0	_
+7	around	around	_	IN	_	5	ADV	_	5
+8	a	a	_	DT	_	10	NMOD	191805	_
+9	big	big	_	JJ	_	10	NMOD	191805	_
+10	body	body	_	NN	_	7	PMOD	191805	_
+11	of	of	_	IN	_	10	NMOD	191805	_
+12	water	water	_	NN	_	11	PMOD	191805	_
+13	at	at	_	IN	_	5	ADV	_	_
+14	night	night	_	NN	_	13	PMOD	191807	_
+15	.	.	_	.	_	5	P	_	_

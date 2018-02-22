@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	3	NMOD	91521	_
+2	bus	bus	_	NN	_	3	NMOD	91521	_
+3	driver	driver	_	NN	_	4	SBJ	91521	_
+4	holds	hold	_	VBZ	_	0	ROOT	_	_
+5	his	his	_	PRP$	_	6	NMOD	91528	_
+6	hand	hand	_	NN	_	4	OBJ	91528	_
+7	up to	up to	_	IN	_	4	ADV	_	4
+8	his	his	_	PRP$	_	9	NMOD	91529	_
+9	face	face	_	NN	_	7	PMOD	91529	_
+10	while	while	_	IN	_	4	ADV	_	_
+11	driving	drive	_	VBG	_	10	SUB	_	_
+12	on	on	_	IN	_	11	ADV	_	_
+13	a	a	_	DT	_	15	NMOD	91525	_
+14	major	major	_	JJ	_	15	NMOD	91525	_
+15	road	road	_	NN	_	12	PMOD	91525	_
+16	in	in	_	IN	_	15	LOC	_	_
+17	the	the	_	DT	_	18	NMOD	91527	_
+18	evening	evening	_	NN	_	16	PMOD	91527	_
+19	.	.	_	.	_	4	P	_	_

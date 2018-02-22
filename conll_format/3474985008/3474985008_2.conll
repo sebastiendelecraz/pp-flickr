@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	120973	_
+2	man	man	_	NN	_	0	ROOT	120973	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	9	NMOD	120975	_
+5	blue	blue	_	JJ	_	9	NMOD	120975	_
+6	helmet	helmet	_	NN	_	9	NMOD	120975	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	sunglasses	sunglass	_	NNS	_	7	CONJ	_	_
+9	bikes	bike	_	NNS	_	3	PMOD	120974	_
+10	through	through	_	IN	_	2	MNR	_	9
+11	wooded	wood	_	VBN	_	12	NMOD	120976	_
+12	terrain	terrain	_	NN	_	10	PMOD	120976	_
+13	.	.	_	.	_	0	ROOT	_	_

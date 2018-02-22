@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	4	NMOD	233564	_
+2	heavily	heavily	_	RB	_	3	AMOD	233564	_
+3	dressed	dress	_	VBN	_	4	NMOD	233564	_
+4	people	people	_	NN	_	5	SBJ	233564	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	preparing	prepare	_	VBG	_	5	VC	_	_
+7	to	to	_	TO	_	6	OPRD	_	_
+8	make	make	_	VB	_	7	IM	_	_
+9	tea	tea	_	NN	_	8	OBJ	233569	_
+10	in	in	_	IN	_	8	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	233571	_
+12	snow	snow	_	NN	_	10	PMOD	233571	_
+13	by	by	_	IN	_	8	MNR	_	6
+14	a	a	_	DT	_	15	NMOD	233565	_
+15	campfire	campfire	_	NN	_	13	PMOD	233565	_
+16	.	.	_	.	_	5	P	_	_

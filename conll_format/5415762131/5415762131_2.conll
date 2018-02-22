@@ -1,0 +1,14 @@
+1	Men	Men	_	NNPS	_	10	SBJ	236036	_
+2	in	in	_	IN	_	10	LOC	_	_
+3	the	the	_	DT	_	4	NMOD	236044	_
+4	midst	midst	_	NN	_	2	PMOD	236044	_
+5	of	of	_	IN	_	4	NMOD	_	_
+6	playing	play	_	VBG	_	5	PMOD	_	_
+7	a	a	_	DT	_	9	NMOD	236040	_
+8	pairs	pair	_	NNS	_	9	NMOD	236040	_
+9	tennis	tennis	_	NN	_	6	OBJ	236040	_
+10	match	match	_	VBP	_	0	ROOT	236040	_
+11	during	during	_	IN	_	10	TMP	_	1
+12	the	the	_	DT	_	13	NMOD	236043	_
+13	day	day	_	NN	_	11	PMOD	236043	_
+14	.	.	_	.	_	10	P	_	_

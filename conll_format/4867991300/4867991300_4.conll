@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	213042	_
+2	group	group	_	NN	_	0	ROOT	213042	_
+3	of	of	_	IN	_	2	NMOD	213042	_
+4	people	people	_	NN	_	3	PMOD	213042	_
+5	of	of	_	IN	_	4	NMOD	213042	_
+6	various	various	_	JJ	_	7	NMOD	213042	_
+7	ages	age	_	NNS	_	5	PMOD	213042	_
+8	at	at	_	IN	_	4	LOC	_	2
+9	a	a	_	DT	_	10	NMOD	213044	_
+10	conference	conference	_	NN	_	8	PMOD	213044	_
+11	talking	talk	_	VBG	_	10	APPO	_	_
+12	.	.	_	.	_	0	ROOT	_	_

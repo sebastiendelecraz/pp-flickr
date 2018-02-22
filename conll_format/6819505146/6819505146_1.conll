@@ -1,0 +1,19 @@
+1	Four	Four	_	CD	_	2	NMOD	258611	_
+2	men	man	_	NNS	_	3	SBJ	258611	_
+3	pose	pose	_	VBP	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	258619	_
+6	dry-docked	dry-docked	_	CD	_	7	NMOD	258619	_
+7	boat	boat	_	NN	_	4	PMOD	258619	_
+8	;	;	_	:	_	3	P	_	_
+9	three	three	_	CD	_	12	SBJ	0	_
+10	of	of	_	IN	_	9	NMOD	0	_
+11	them	them	_	PRP	_	10	PMOD	0	_
+12	are	be	_	VBP	_	3	OBJ	_	_
+13	sitting	sit	_	VBG	_	12	VC	_	_
+14	with	with	_	IN	_	13	ADV	_	_
+15	a	a	_	DT	_	16	NMOD	258612	_
+16	pair	pair	_	NN	_	14	PMOD	258612	_
+17	of	of	_	IN	_	16	NMOD	258612	_
+18	drums	drum	_	NNS	_	17	PMOD	258612	_
+19	.	.	_	.	_	3	P	_	_

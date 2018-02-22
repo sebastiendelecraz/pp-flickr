@@ -1,0 +1,15 @@
+1	This	this	_	DT	_	2	NMOD	106673	_
+2	view	view	_	NN	_	0	ROOT	106673	_
+3	from	from	_	IN	_	2	NMOD	_	2
+4	the	the	_	DT	_	5	NMOD	106674	_
+5	level	level	_	NN	_	3	PMOD	106674	_
+6	above	above	_	IN	_	2	NMOD	_	5
+7	captures	capture	_	NNS	_	6	PMOD	106677	_
+8	the	the	_	DT	_	9	NMOD	106676	_
+9	shadow	shadow	_	NN	_	7	ADV	106676	_
+10	over	over	_	IN	_	2	NMOD	_	7
+11	the	the	_	DT	_	14	NMOD	106681	_
+12	green	green	_	JJ	_	14	NMOD	106681	_
+13	tile	tile	_	NN	_	14	NMOD	106681	_
+14	floor	floor	_	NN	_	10	PMOD	106681	_
+15	.	.	_	.	_	0	ROOT	_	_

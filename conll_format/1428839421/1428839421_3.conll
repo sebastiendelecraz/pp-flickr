@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	12568	_
+2	man	man	_	NN	_	10	SBJ	12568	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	stretched	stretch	_	VBN	_	5	NMOD	12579	_
+5	earlobes	earlobe	_	NNS	_	3	PMOD	12579	_
+6	wearing	wear	_	VBG	_	5	APPO	_	_
+7	a	a	_	DT	_	9	NMOD	12569	_
+8	black	black	_	JJ	_	9	NMOD	12569	_
+9	hat	hat	_	NN	_	6	OBJ	12569	_
+10	stands	stand	_	VBZ	_	0	ROOT	_	_
+11	in front of	in front of	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	12571	_
+13	display	display	_	NN	_	11	PMOD	12571	_
+14	of	of	_	IN	_	13	NMOD	12571	_
+15	food	food	_	NN	_	14	PMOD	12571	_
+16	for	for	_	IN	_	13	NMOD	_	15
+17	sale	sale	_	NN	_	16	PMOD	12577	_
+18	.	.	_	.	_	10	P	_	_

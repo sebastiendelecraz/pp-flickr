@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	261447	_
+2	man	man	_	NN	_	3	SBJ	261447	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	261449	_
+6	workshop	workshop	_	NN	_	4	PMOD	261449	_
+7	,	,	_	,	_	3	P	_	_
+8	near	near	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	261453	_
+10	table	table	_	NN	_	8	PMOD	261453	_
+11	covered	cover	_	VBN	_	10	APPO	_	_
+12	with	with	_	IN	_	11	ADV	_	_
+13	metal	metal	_	NN	_	14	NMOD	261455	_
+14	parts	part	_	NNS	_	12	PMOD	261455	_
+15	and	and	_	CC	_	14	COORD	_	_
+16	machinery	machinery	_	NN	_	15	CONJ	261450	_
+17	.	.	_	.	_	3	P	_	_

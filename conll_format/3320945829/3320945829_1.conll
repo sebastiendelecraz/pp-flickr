@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	NAME	109229	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	PMOD	_	2
+4	a	a	_	DT	_	6	NMOD	109228	_
+5	produce	produce	_	NN	_	6	NMOD	109228	_
+6	market	market	_	NN	_	3	PMOD	109228	_
+7	with	with	_	IN	_	2	ADV	_	_
+8	beautiful	beautiful	_	JJ	_	10	NMOD	109230	_
+9	overhead	overhead	_	NN	_	10	NMOD	109230	_
+10	lights	light	_	NNS	_	7	PMOD	109230	_
+11	.	.	_	.	_	0	ROOT	_	_

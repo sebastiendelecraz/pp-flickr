@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	8287	_
+2	person	person	_	NN	_	3	SBJ	8287	_
+3	hanging	hang	_	VBG	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	8290	_
+6	telephone	telephone	_	NN	_	7	NMOD	8290	_
+7	pole	pole	_	NN	_	4	PMOD	8290	_
+8	near	near	_	IN	_	7	LOC	_	3
+9	the	the	_	DT	_	10	NMOD	8293	_
+10	mountains	mountain	_	NNS	_	8	PMOD	8293	_
+11	.	.	_	.	_	0	ROOT	_	_

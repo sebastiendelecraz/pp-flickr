@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	3	NMOD	213312	_
+2	Asian	Asian	_	JJ	_	3	NMOD	213312	_
+3	man	man	_	NN	_	0	ROOT	213312	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	all	all	_	DT	_	7	NMOD	213317	_
+6	black	black	_	JJ	_	7	NMOD	213317	_
+7	hanging	hanging	_	NN	_	4	PMOD	_	_
+8	up	up	_	IN	_	7	NMOD	_	7
+9	a	a	_	DT	_	12	NMOD	213313	_
+10	huge	huge	_	JJ	_	12	NMOD	213313	_
+11	dead	dead	_	JJ	_	12	NMOD	213313	_
+12	pig	pig	_	NN	_	8	PMOD	213313	_
+13	by	by	_	IN	_	3	NMOD	_	_
+14	its	its	_	PRP$	_	15	NMOD	213321	_
+15	feet	foot	_	NNS	_	13	PMOD	213321	_
+16	.	.	_	.	_	0	ROOT	_	_

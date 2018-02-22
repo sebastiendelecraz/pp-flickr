@@ -1,0 +1,10 @@
+1	The	the	_	DT	_	2	NMOD	6795	_
+2	boy	boy	_	NN	_	3	SBJ	6795	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	PRD	_	_
+5	the	the	_	DT	_	6	NMOD	0	_
+6	ground	ground	_	NN	_	4	PMOD	0	_
+7	next to	next to	_	IN	_	3	LOC	_	3
+8	the	the	_	DT	_	9	NMOD	6798	_
+9	football	football	_	NN	_	7	PMOD	6798	_
+10	.	.	_	.	_	3	P	_	_

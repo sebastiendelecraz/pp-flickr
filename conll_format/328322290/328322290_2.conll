@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	2	NMOD	106783	_
+2	abundance	abundance	_	NN	_	5	SBJ	106783	_
+3	of	of	_	IN	_	2	NMOD	106783	_
+4	food	food	_	NN	_	3	PMOD	106783	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	neatly	neatly	_	RB	_	7	MNR	_	_
+7	laid	lay	_	VBN	_	5	VC	_	_
+8	out	out	_	RP	_	7	PRT	_	_
+9	in front of	in front of	_	IN	_	7	ADV	_	7
+10	a	a	_	DT	_	11	NMOD	106782	_
+11	gentleman	gentleman	_	NN	_	9	PMOD	106782	_
+12	with	with	_	IN	_	7	ADV	_	_
+13	only	only	_	CD	_	14	NMOD	106790	_
+14	lanterns	lantern	_	NNS	_	12	PMOD	106790	_
+15	for	for	_	IN	_	14	NMOD	_	_
+16	light	light	_	JJ	_	15	PMOD	106789	_
+17	.	.	_	.	_	5	P	_	_

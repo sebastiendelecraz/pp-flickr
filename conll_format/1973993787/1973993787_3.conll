@@ -1,0 +1,11 @@
+1	It	it	_	PRP	_	2	SBJ	0	_
+2	looks	look	_	VBZ	_	0	ROOT	_	_
+3	like	like	_	IN	_	2	ADV	_	2
+4	choir	choir	_	JJ	_	5	NMOD	24349	_
+5	practice	practice	_	NN	_	3	PMOD	24349	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	an	an	_	DT	_	10	NMOD	24348	_
+8	older	old	_	JJR	_	10	NMOD	24348	_
+9	ornate	ornate	_	JJ	_	10	NMOD	24348	_
+10	church	church	_	NN	_	6	PMOD	24348	_
+11	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	280155	_
+2	man	man	_	NN	_	3	SBJ	280155	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	talking	talk	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	his	his	_	PRP$	_	7	NMOD	280157	_
+7	cellphone	cellphone	_	NN	_	5	PMOD	280157	_
+8	across	across	_	IN	_	4	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	280162	_
+10	street	street	_	NN	_	8	PMOD	280162	_
+11	from	from	_	IN	_	4	ADV	_	8
+12	a	a	_	DT	_	13	NMOD	280158	_
+13	cafe	cafe	_	NN	_	11	PMOD	280158	_
+14	.	.	_	.	_	3	P	_	_

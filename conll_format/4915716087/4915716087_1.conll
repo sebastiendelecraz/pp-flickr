@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	218065	_
+2	man	man	_	NN	_	6	SBJ	218065	_
+3	riding	ride	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	218066	_
+5	vehicle	vehicle	_	NN	_	3	OBJ	218066	_
+6	pulled	pull	_	VBD	_	0	ROOT	_	_
+7	by	by	_	IN	_	6	LGS	_	6
+8	a	a	_	DT	_	9	NMOD	218067	_
+9	donkey	donkey	_	NN	_	7	PMOD	218067	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	14	NMOD	218070	_
+12	run	run	_	VBN	_	14	NMOD	218070	_
+13	down	down	_	RP	_	12	PRT	_	_
+14	area	area	_	NN	_	10	PMOD	218072	_
+15	of	of	_	IN	_	14	NMOD	218072	_
+16	town	town	_	NN	_	15	PMOD	218072	_
+17	.	.	_	.	_	6	P	_	_

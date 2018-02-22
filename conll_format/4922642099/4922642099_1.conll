@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	218643	_
+2	dog	dog	_	NN	_	6	SBJ	218643	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	218645	_
+5	leash	leash	_	NN	_	3	PMOD	218645	_
+6	sits	sit	_	VBZ	_	0	ROOT	_	_
+7	alone	alone	_	RB	_	6	ADV	_	_
+8	on	on	_	IN	_	6	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	218648	_
+10	city	city	_	NN	_	11	NMOD	218648	_
+11	step	step	_	NN	_	8	PMOD	218648	_
+12	with	with	_	IN	_	11	NMOD	_	6
+13	a	a	_	DT	_	15	NMOD	218647	_
+14	bottled	bottle	_	VBN	_	15	NMOD	218647	_
+15	drink	drink	_	NN	_	12	PMOD	218647	_
+16	and	and	_	CC	_	15	COORD	_	_
+17	a	a	_	DT	_	18	NMOD	218646	_
+18	book	book	_	NN	_	16	CONJ	218646	_
+19	next to	next to	_	IN	_	11	NMOD	_	_
+20	it	it	_	PRP	_	19	PMOD	0	_
+21	.	.	_	.	_	6	P	_	_

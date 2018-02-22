@@ -1,0 +1,16 @@
+1	An	an	_	DT	_	3	NMOD	129573	_
+2	older	old	_	JJR	_	3	NMOD	129573	_
+3	man	man	_	NN	_	4	SBJ	129573	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	sitting	sit	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	129578	_
+8	riverbank	riverbank	_	NN	_	6	PMOD	129578	_
+9	,	,	_	,	_	5	P	_	_
+10	under	under	_	IN	_	5	LOC	_	5
+11	an	an	_	DT	_	12	NMOD	129575	_
+12	umbrella	umbrella	_	NN	_	10	PMOD	129575	_
+13	,	,	_	,	_	5	P	_	_
+14	while	while	_	IN	_	5	ADV	_	_
+15	painting	paint	_	VBG	_	14	SUB	129576	_
+16	.	.	_	.	_	4	P	_	_

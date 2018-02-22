@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	215691	_
+2	group	group	_	NN	_	5	SBJ	215691	_
+3	of	of	_	IN	_	2	NMOD	215691	_
+4	people	people	_	NN	_	3	PMOD	215691	_
+5	walk	walk	_	VBP	_	0	ROOT	_	_
+6	down	down	_	RB	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	215693	_
+8	walkway	walkway	_	NN	_	5	OBJ	215693	_
+9	surrounded	surround	_	VBN	_	8	APPO	_	_
+10	by	by	_	IN	_	9	LGS	_	_
+11	stores	store	_	NNS	_	10	PMOD	215697	_
+12	like	like	_	IN	_	11	NMOD	_	11
+13	McDonalds	McDonalds	_	NNP	_	12	PMOD	215692	_
+14	and	and	_	CC	_	13	COORD	_	_
+15	Vagabond	Vagabond	_	NNP	_	14	CONJ	215694	_
+16	.	.	_	.	_	5	P	_	_

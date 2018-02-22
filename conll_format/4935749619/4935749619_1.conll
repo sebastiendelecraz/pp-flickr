@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	220444	_
+2	older	old	_	JJR	_	3	NMOD	220444	_
+3	couple	couple	_	NN	_	4	SBJ	220444	_
+4	walks	walk	_	VBZ	_	0	ROOT	_	_
+5	a	a	_	DT	_	9	NMOD	220446	_
+6	narrow	narrow	_	JJ	_	9	NMOD	220446	_
+7	,	,	_	,	_	9	P	220446	_
+8	crowded	crowded	_	JJ	_	9	NMOD	220446	_
+9	street	street	_	NN	_	4	OBJ	220446	_
+10	under	under	_	IN	_	4	LOC	_	4
+11	orange	orange	_	JJ	_	14	NMOD	220452	_
+12	sodium	sodium	_	NN	_	13	NMOD	220452	_
+13	vapor	vapor	_	NN	_	14	NMOD	220452	_
+14	lamps	lamp	_	NNS	_	10	PMOD	220452	_
+15	at	at	_	IN	_	4	TMP	_	_
+16	night	night	_	NN	_	15	PMOD	220448	_
+17	.	.	_	.	_	4	P	_	_

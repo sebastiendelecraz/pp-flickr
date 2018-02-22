@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	273533	_
+2	bicycle	bicycle	_	NN	_	3	NMOD	273533	_
+3	racer	racer	_	NN	_	4	SBJ	273533	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	riding	ride	_	VBG	_	4	VC	_	_
+6	a	a	_	DT	_	7	NMOD	273534	_
+7	bike	bike	_	NN	_	5	OBJ	273534	_
+8	on	on	_	IN	_	5	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	273535	_
+10	street	street	_	NN	_	8	PMOD	273535	_
+11	with	with	_	IN	_	5	ADV	_	_
+12	people	people	_	NN	_	11	PMOD	273539	_
+13	watching	watch	_	VBG	_	12	APPO	_	_
+14	from	from	_	IN	_	13	DIR	_	13
+15	the	the	_	DT	_	16	NMOD	273542	_
+16	sidelines	sideline	_	NNS	_	14	PMOD	273542	_
+17	.	.	_	.	_	4	P	_	_

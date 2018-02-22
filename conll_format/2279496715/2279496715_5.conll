@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	3	NMOD	38667	_
+2	young	young	_	JJ	_	3	NMOD	38667	_
+3	boy	boy	_	NN	_	0	ROOT	38667	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	8	NMOD	38668	_
+6	green	green	_	JJ	_	8	NMOD	38668	_
+7	wheel	wheel	_	NN	_	8	NMOD	38668	_
+8	barrel	barrel	_	NN	_	4	PMOD	38668	_
+9	with	with	_	IN	_	8	NMOD	_	3
+10	a	a	_	DT	_	11	NMOD	38666	_
+11	girl	girl	_	NN	_	9	PMOD	38666	_
+12	pushing	push	_	VBG	_	11	APPO	_	_
+13	him	him	_	PRP	_	12	OBJ	0	_
+14	.	.	_	.	_	0	ROOT	_	_

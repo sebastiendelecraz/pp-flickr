@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	3330	_
+2	boy	boy	_	NN	_	3	SBJ	3330	_
+3	strolls	stroll	_	VBZ	_	0	ROOT	_	_
+4	by	by	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	6	NMOD	3332	_
+6	pond	pond	_	NN	_	4	PMOD	3332	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	3336	_
+9	park	park	_	NN	_	7	PMOD	3336	_
+10	.	.	_	.	_	3	P	_	_

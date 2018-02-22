@@ -1,0 +1,9 @@
+1	Construction	construction	_	NN	_	2	NMOD	262956	_
+2	workers	worker	_	NNS	_	3	SBJ	262956	_
+3	drilling	drill	_	VBG	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	6	NMOD	262957	_
+6	plank	plank	_	NN	_	4	PMOD	262957	_
+7	of	of	_	IN	_	6	NMOD	262957	_
+8	wood	wood	_	NN	_	7	PMOD	262957	_
+9	.	.	_	.	_	0	ROOT	_	_

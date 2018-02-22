@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	121950	_
+2	young	young	_	JJ	_	3	NMOD	121950	_
+3	boy	boy	_	NN	_	4	SBJ	121950	_
+4	pokes	poke	_	VBZ	_	0	ROOT	_	_
+5	his	his	_	PRP$	_	6	NMOD	121953	_
+6	head	head	_	NN	_	7	PMOD	121953	_
+7	above	above	_	IN	_	4	LOC	_	4
+8	a	a	_	DT	_	11	NMOD	121951	_
+9	brown	brown	_	NN	_	10	NMOD	121951	_
+10	cardboard	cardboard	_	NN	_	11	NMOD	121951	_
+11	box	box	_	NN	_	7	PMOD	121951	_
+12	hiding	hide	_	VBG	_	11	APPO	_	_
+13	him	him	_	PRP	_	12	OBJ	0	_
+14	.	.	_	.	_	4	P	_	_

@@ -1,0 +1,27 @@
+1	An	an	_	DT	_	4	NMOD	205101	_
+2	urban	urban	_	JJ	_	4	NMOD	205101	_
+3	street	street	_	NN	_	4	NMOD	205101	_
+4	corner	corner	_	NN	_	5	SBJ	205101	_
+5	features	feature	_	VBZ	_	0	ROOT	_	_
+6	a	a	_	DT	_	8	NMOD	205107	_
+7	white	white	_	JJ	_	8	NMOD	205107	_
+8	van	van	_	NN	_	5	OBJ	205107	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	a	a	_	DT	_	12	NMOD	205099	_
+11	bicycle	bicycle	_	NN	_	12	NMOD	205099	_
+12	rider	rider	_	NN	_	9	CONJ	205099	_
+13	to the left of	to the left of	_	IN	_	5	ADV	205109	12
+14	a	a	_	DT	_	16	NMOD	205109	_
+15	brown	brown	_	JJ	_	16	NMOD	205109	_
+16	building	building	_	NN	_	13	PMOD	205109	_
+17	which	which	_	WDT	_	18	SBJ	0	_
+18	has	have	_	VBZ	_	16	NMOD	_	_
+19	a	a	_	DT	_	20	NMOD	205106	_
+20	variety	variety	_	NN	_	18	OBJ	205106	_
+21	of	of	_	IN	_	20	NMOD	205106	_
+22	objects	object	_	NNS	_	21	PMOD	205106	_
+23	on	on	_	IN	_	20	NMOD	_	_
+24	display	display	_	NN	_	23	PMOD	205108	_
+25	in front of	in front of	_	IN	_	18	ADV	_	_
+26	it	it	_	PRP	_	25	PMOD	0	_
+27	.	.	_	.	_	5	P	_	_

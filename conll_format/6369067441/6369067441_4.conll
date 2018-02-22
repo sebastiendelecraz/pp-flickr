@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	253563	_
+2	group	group	_	NN	_	0	ROOT	253563	_
+3	of	of	_	IN	_	2	NMOD	253563	_
+4	people	people	_	NN	_	3	PMOD	253563	_
+5	on	on	_	IN	_	2	LOC	_	_
+6	a	a	_	DT	_	7	NMOD	253568	_
+7	pier	pier	_	NN	_	5	PMOD	253568	_
+8	posing	pose	_	VBG	_	7	APPO	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	253575	_
+11	picture	picture	_	NN	_	9	PMOD	253575	_
+12	.	.	_	.	_	0	ROOT	_	_

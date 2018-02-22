@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	16212	_
+2	skinny	skinny	_	JJ	_	4	NMOD	16212	_
+3	brown	brown	_	NN	_	4	NMOD	16212	_
+4	dog	dog	_	NN	_	5	SBJ	16212	_
+5	walks	walk	_	VBZ	_	0	ROOT	_	_
+6	across	across	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	16213	_
+8	large	large	_	JJ	_	9	NMOD	16213	_
+9	piece	piece	_	NN	_	6	PMOD	16213	_
+10	of	of	_	IN	_	9	NMOD	16213	_
+11	fallen	fall	_	VBN	_	12	NMOD	16213	_
+12	tree	tree	_	NN	_	10	PMOD	16213	_
+13	.	.	_	.	_	5	P	_	_

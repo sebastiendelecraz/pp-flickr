@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	SBJ	19272	_
+2	hang	hang	_	VBP	_	0	ROOT	_	_
+3	onto	onto	_	IN	_	2	ADV	_	2
+4	safety	safety	_	NN	_	5	NMOD	19275	_
+5	rails	rail	_	NNS	_	3	PMOD	19275	_
+6	on	on	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	10	NMOD	19276	_
+8	very	very	_	RB	_	9	AMOD	19276	_
+9	crowded	crowded	_	JJ	_	10	NMOD	19276	_
+10	bus	bus	_	NN	_	6	PMOD	19276	_
+11	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	114074	_
+2	silhouette	silhouette	_	NN	_	9	SBJ	114074	_
+3	of	of	_	IN	_	2	NMOD	114074	_
+4	a	a	_	DT	_	5	NMOD	114074	_
+5	janitor	janitor	_	NN	_	3	PMOD	114074	_
+6	with	with	_	IN	_	2	NMOD	_	2
+7	a	a	_	DT	_	8	NMOD	114078	_
+8	broom	broom	_	NN	_	6	PMOD	114078	_
+9	cleaning	clean	_	VBG	_	0	ROOT	_	_
+10	up	up	_	RP	_	9	PRT	_	_
+11	a	a	_	DT	_	13	NMOD	114079	_
+12	messy	messy	_	JJ	_	13	NMOD	114079	_
+13	venue	venue	_	NN	_	9	OBJ	114079	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	Many	many	_	DT	_	2	NMOD	93198	_
+2	people	people	_	NN	_	3	SBJ	93198	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	socialize	socialize	_	VBP	_	4	CONJ	_	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	groups	group	_	NNS	_	6	PMOD	93198	_
+8	inside	inside	_	IN	_	7	LOC	_	5
+9	a	a	_	DT	_	10	NMOD	93199	_
+10	restaurant	restaurant	_	NN	_	8	PMOD	93199	_
+11	.	.	_	.	_	3	P	_	_

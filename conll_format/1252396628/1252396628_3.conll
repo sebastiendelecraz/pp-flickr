@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	6379	_
+2	motorcycle	motorcycle	_	NN	_	3	NMOD	6379	_
+3	racer	racer	_	NN	_	0	ROOT	6379	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	10	NMOD	6382	_
+6	red	red	_	JJ	_	7	NMOD	6382	_
+7	jumpsuit	jumpsuit	_	NN	_	10	NMOD	6382	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	helmet	helmet	_	NN	_	8	CONJ	6384	_
+10	rides	ride	_	NNS	_	4	PMOD	_	_
+11	up	up	_	IN	_	10	NMOD	_	10
+12	a	a	_	DT	_	14	NMOD	6381	_
+13	dirt	dirt	_	NN	_	14	NMOD	6381	_
+14	hill	hill	_	NN	_	11	PMOD	6381	_
+15	.	.	_	.	_	0	ROOT	_	_

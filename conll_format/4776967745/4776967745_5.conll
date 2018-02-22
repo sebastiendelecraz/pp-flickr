@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	201758	_
+2	group	group	_	NN	_	0	ROOT	201758	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	8	NMOD	201760	_
+5	horse	horse	_	NN	_	8	NMOD	201760	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	carriage	carriage	_	NN	_	6	CONJ	201762	_
+8	pose	pose	_	NN	_	3	PMOD	_	_
+9	for	for	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	201769	_
+11	photo	photo	_	NN	_	9	PMOD	201769	_
+12	.	.	_	.	_	0	ROOT	_	_

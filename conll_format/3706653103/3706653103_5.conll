@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	138337	_
+2	man	man	_	NN	_	0	ROOT	138337	_
+3	pops	pops	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	138340	_
+5	wheelie	wheelie	_	NN	_	3	OBJ	138340	_
+6	on	on	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	138338	_
+8	bike	bike	_	NN	_	6	PMOD	138338	_
+9	on	on	_	IN	_	3	ADV	_	_
+10	a	a	_	DT	_	12	NMOD	138339	_
+11	rocky	rocky	_	JJ	_	12	NMOD	138339	_
+12	beach	beach	_	NN	_	9	PMOD	138339	_
+13	.	.	_	.	_	0	ROOT	_	_

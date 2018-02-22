@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	82569	_
+2	group	group	_	NN	_	7	SBJ	82569	_
+3	of	of	_	IN	_	2	NMOD	82569	_
+4	high	high	_	JJ	_	6	NMOD	82569	_
+5	school	school	_	NN	_	6	NMOD	82569	_
+6	students	student	_	NNS	_	3	PMOD	82569	_
+7	are	be	_	VBP	_	0	ROOT	_	_
+8	walking	walk	_	VBG	_	7	VC	_	_
+9	along	along	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	82572	_
+11	sidewalk	sidewalk	_	NN	_	9	PMOD	82572	_
+12	next to	next to	_	IN	_	8	TMP	_	8
+13	a	a	_	DT	_	14	NMOD	82570	_
+14	building	building	_	NN	_	12	PMOD	82570	_
+15	.	.	_	.	_	7	P	_	_

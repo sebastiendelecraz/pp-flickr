@@ -1,0 +1,13 @@
+1	Construction	construction	_	NN	_	2	NMOD	42073	_
+2	workers	worker	_	NNS	_	3	SBJ	42073	_
+3	work	work	_	VBP	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	42080	_
+6	backhoe	backhoe	_	NN	_	4	PMOD	42080	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	shovels	shovel	_	NNS	_	7	CONJ	42080	_
+9	near	near	_	IN	_	6	LOC	_	3
+10	a	a	_	DT	_	12	NMOD	42081	_
+11	snow	snow	_	NN	_	12	NMOD	42081	_
+12	fence	fence	_	NN	_	9	PMOD	42081	_
+13	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	39802	_
+2	man	man	_	NN	_	0	ROOT	39802	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	39804	_
+5	black	black	_	JJ	_	6	NMOD	39804	_
+6	suit	suit	_	NN	_	3	PMOD	39804	_
+7	looking	look	_	VBG	_	6	APPO	_	_
+8	toward	toward	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	39803	_
+10	woman	woman	_	NN	_	8	PMOD	39803	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	long	long	_	JJ	_	13	NMOD	39810	_
+13	hair	hair	_	NN	_	11	PMOD	39810	_
+14	.	.	_	.	_	0	ROOT	_	_

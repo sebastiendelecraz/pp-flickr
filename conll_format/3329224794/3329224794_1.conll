@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	109881	_
+2	Caucasian	Caucasian	_	JJ	_	3	NMOD	109881	_
+3	male	male	_	JJ	_	0	ROOT	109881	_
+4	with	with	_	IN	_	0	ROOT	_	_
+5	sunglasses	sunglass	_	NNS	_	4	PMOD	109885	_
+6	laying	lay	_	VBG	_	5	APPO	_	_
+7	a	a	_	DT	_	9	NMOD	109882	_
+8	wooden	wooden	_	JJ	_	9	NMOD	109882	_
+9	board	board	_	NN	_	6	OBJ	109882	_
+10	on	on	_	IN	_	6	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	109883	_
+12	roof	roof	_	NN	_	10	PMOD	109883	_
+13	of	of	_	IN	_	12	NMOD	109883	12
+14	a	a	_	DT	_	15	NMOD	109883	_
+15	building	building	_	NN	_	13	PMOD	109883	_
+16	.	.	_	.	_	0	ROOT	_	_

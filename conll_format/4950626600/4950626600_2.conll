@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	222367	_
+2	woman	woman	_	NN	_	3	SBJ	222367	_
+3	walks	walk	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	_
+5	her	her	_	PRP$	_	6	NMOD	222364	_
+6	bike	bike	_	NN	_	4	PMOD	222364	_
+7	behind	behind	_	IN	_	3	LOC	_	3
+8	two	two	_	CD	_	9	NMOD	222369	_
+9	people	people	_	NN	_	7	PMOD	222369	_
+10	carrying	carry	_	VBG	_	9	APPO	_	_
+11	umbrellas	umbrella	_	NNS	_	10	OBJ	222366	_
+12	.	.	_	.	_	3	P	_	_

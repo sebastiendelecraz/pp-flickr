@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	131455	_
+2	person	person	_	NN	_	3	SBJ	131455	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	131456	_
+6	rock	rock	_	NN	_	4	PMOD	131456	_
+7	beside	beside	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	131457	_
+9	waterfall	waterfall	_	NN	_	7	PMOD	131457	_
+10	.	.	_	.	_	0	ROOT	_	_

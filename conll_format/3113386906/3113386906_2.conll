@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	94544	_
+2	Asian	Asian	_	JJ	_	3	NMOD	94544	_
+3	peddler	peddler	_	NN	_	8	SBJ	94544	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	7	NMOD	94545	_
+6	wide	wide	_	JJ	_	7	NMOD	94545	_
+7	cone	cone	_	NN	_	4	PMOD	94545	_
+8	shaped	shape	_	VBD	_	0	ROOT	94545	_
+9	hat	hat	_	NN	_	8	OBJ	94545	_
+10	with	with	_	IN	_	8	ADV	_	_
+11	various	various	_	JJ	_	12	NMOD	94548	_
+12	fruits	fruit	_	NNS	_	10	PMOD	94548	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	vegetables	vegetable	_	NNS	_	13	CONJ	94549	_
+15	for	for	_	IN	_	12	NMOD	_	14
+16	sale	sale	_	NN	_	15	PMOD	94553	_
+17	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	224295	_
+2	woman	woman	_	NN	_	0	ROOT	224295	_
+3	crouched	crouch	_	VBN	_	2	APPO	_	_
+4	by	by	_	IN	_	3	LGS	_	3
+5	a	a	_	DT	_	6	NMOD	224299	_
+6	stroller	stroller	_	NN	_	4	PMOD	224299	_
+7	with	with	_	IN	_	3	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	224296	_
+9	baby	baby	_	NN	_	7	PMOD	224296	_
+10	in	in	_	IN	_	3	LOC	_	_
+11	it	it	_	PRP	_	10	PMOD	0	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	15900	_
+2	child	child	_	NN	_	9	SBJ	15900	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	15902	_
+5	skull	skull	_	NN	_	3	PMOD	15902	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	his	his	_	PRP$	_	8	NMOD	15903	_
+8	shirt	shirt	_	NN	_	6	PMOD	15903	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	sitting	sit	_	VBG	_	9	VC	_	_
+11	in front of	in front of	_	IN	_	10	ADV	_	_
+12	some	some	_	DT	_	13	NMOD	15907	_
+13	plants	plant	_	NNS	_	11	PMOD	15907	_
+14	and	and	_	CC	_	13	COORD	_	_
+15	a	a	_	DT	_	16	NMOD	15908	_
+16	building	building	_	NN	_	14	CONJ	15908	_
+17	and	and	_	CC	_	9	COORD	_	_
+18	is	be	_	VBZ	_	17	CONJ	_	_
+19	holding	hold	_	VBG	_	18	VC	_	_
+20	onto	onto	_	IN	_	19	ADV	_	19
+21	handlebars	handlebar	_	NNS	_	20	PMOD	15901	_
+22	.	.	_	.	_	9	P	_	_

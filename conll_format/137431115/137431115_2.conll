@@ -1,0 +1,13 @@
+1	young	young	_	JJ	_	2	NMOD	10501	_
+2	adults	adult	_	NNS	_	3	SBJ	10501	_
+3	posing	pose	_	VBG	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	10510	_
+6	photo	photo	_	NN	_	4	PMOD	10510	_
+7	at	at	_	IN	_	3	LOC	_	_
+8	night	night	_	NN	_	7	PMOD	10503	_
+9	,	,	_	,	_	0	ROOT	_	_
+10	somewhat	somewhat	_	RB	_	11	AMOD	_	_
+11	chilly	chilly	_	JJ	_	0	ROOT	10503	_
+12	outside	outside	_	IN	_	11	LOC	10503	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	73520	_
+2	man	man	_	NN	_	0	ROOT	73520	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	as	as	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	73520	_
+6	pirate	pirate	_	NN	_	7	SBJ	73520	_
+7	stands	stand	_	VBZ	_	4	SUB	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	73515	_
+10	man	man	_	NN	_	8	PMOD	73515	_
+11	playing	play	_	VBG	_	10	APPO	_	_
+12	a	a	_	DT	_	13	NMOD	73521	_
+13	saxophone	saxophone	_	NN	_	11	OBJ	73521	_
+14	as well as	as well as	_	IN	_	7	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	73517	_
+16	man	man	_	NN	_	14	PMOD	73517	_
+17	playing	play	_	VBG	_	16	APPO	_	_
+18	an	an	_	DT	_	19	NMOD	73522	_
+19	accordion	accordion	_	NN	_	17	OBJ	73522	_
+20	as	as	_	IN	_	7	TMP	_	_
+21	viewers	viewer	_	NNS	_	22	SBJ	73518	_
+22	watch	watch	_	VBP	_	20	SUB	_	_
+23	.	.	_	.	_	0	ROOT	_	_

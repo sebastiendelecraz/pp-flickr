@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	190238	_
+2	group	group	_	NN	_	5	SBJ	190238	_
+3	of	of	_	IN	_	2	NMOD	190238	_
+4	people	people	_	NN	_	3	PMOD	190238	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	PRD	_	_
+7	a	a	_	DT	_	8	NMOD	190242	_
+8	ferry	ferry	_	NN	_	6	PMOD	190242	_
+9	headed	head	_	VBN	_	8	APPO	_	_
+10	toward	toward	_	IN	_	9	DIR	_	9
+11	a	a	_	DT	_	12	NMOD	190244	_
+12	city	city	_	NN	_	10	PMOD	190244	_
+13	with	with	_	IN	_	9	ADV	_	_
+14	skyscrapers	skyscraper	_	NNS	_	13	PMOD	190246	_
+15	.	.	_	.	_	5	P	_	_

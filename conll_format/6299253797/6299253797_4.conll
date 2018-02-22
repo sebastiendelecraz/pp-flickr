@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	251935	_
+2	group	group	_	NN	_	5	SBJ	251935	_
+3	of	of	_	IN	_	2	NMOD	251935	_
+4	children	child	_	NNS	_	3	PMOD	251935	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	looking	look	_	VBG	_	5	VC	_	_
+7	into	into	_	IN	_	6	ADV	_	6
+8	microscopes	microscope	_	NNS	_	7	PMOD	251937	_
+9	with	with	_	IN	_	6	ADV	_	_
+10	two	two	_	CD	_	11	NMOD	251943	_
+11	men	man	_	NNS	_	9	PMOD	251943	_
+12	observing	observe	_	VBG	_	11	APPO	_	_
+13	.	.	_	.	_	5	P	_	_

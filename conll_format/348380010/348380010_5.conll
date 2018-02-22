@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	121661	_
+2	dog	dog	_	NN	_	3	SBJ	121661	_
+3	lays	lay	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	his	his	_	PRP$	_	6	NMOD	121664	_
+6	back	back	_	RB	_	4	PMOD	121664	_
+7	with	with	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	11	NMOD	121662	_
+9	favorite	favorite	_	JJ	_	11	NMOD	121662	_
+10	tennis	tennis	_	NN	_	11	NMOD	121662	_
+11	ball	ball	_	NN	_	7	PMOD	121662	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	his	his	_	PRP$	_	14	NMOD	121665	_
+14	mouth	mouth	_	NN	_	12	PMOD	121665	_
+15	.	.	_	.	_	3	P	_	_

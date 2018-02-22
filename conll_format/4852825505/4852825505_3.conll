@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	2	NAME	210986	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	past	past	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	210979	_
+5	wall	wall	_	NN	_	3	PMOD	210979	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	Graphite	Graphite	_	NNP	_	6	PMOD	210979	_
+8	and	and	_	CC	_	5	COORD	_	_
+9	writing	write	_	VBG	_	8	CONJ	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	the	the	_	DT	_	12	NMOD	210979	_
+12	wall	wall	_	NN	_	10	PMOD	210979	_
+13	.	.	_	.	_	0	ROOT	_	_

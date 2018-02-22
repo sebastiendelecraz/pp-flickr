@@ -1,0 +1,17 @@
+1	People	People	_	NNPS	_	2	SBJ	205271	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	outside	outside	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	205273	_
+5	souvenir	souvenir	_	NN	_	6	NMOD	205273	_
+6	shop	shop	_	NN	_	3	PMOD	205273	_
+7	near	near	_	IN	_	6	LOC	_	2
+8	a	a	_	DT	_	9	NMOD	205268	_
+9	hotel	hotel	_	NN	_	7	PMOD	205268	_
+10	in	in	_	IN	_	9	LOC	_	2
+11	Berlin	Berlin	_	NNP	_	10	PMOD	205270	_
+12	with	with	_	IN	_	9	NMOD	_	_
+13	art	art	_	NN	_	12	PMOD	205272	_
+14	on	on	_	IN	_	2	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	205280	_
+16	well	well	_	RB	_	14	PMOD	205280	_
+17	.	.	_	.	_	2	P	_	_

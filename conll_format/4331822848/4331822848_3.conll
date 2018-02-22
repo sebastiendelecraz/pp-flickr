@@ -1,0 +1,12 @@
+1	Woman	Woman	_	NNP	_	0	ROOT	163656	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	bra	bra	_	NN	_	2	PMOD	163657	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	skirt	skirt	_	NN	_	4	CONJ	163660	_
+6	performing	perform	_	VBG	_	0	ROOT	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	people	people	_	NN	_	7	PMOD	163658	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	163661	_
+11	park	park	_	NN	_	9	PMOD	163661	_
+12	.	.	_	.	_	0	ROOT	_	_

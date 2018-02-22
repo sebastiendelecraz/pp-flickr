@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	59863	_
+2	group	group	_	NN	_	5	SBJ	59863	_
+3	of	of	_	IN	_	2	NMOD	59863	_
+4	people	people	_	NN	_	3	PMOD	59863	_
+5	enjoy	enjoy	_	VBP	_	0	ROOT	_	_
+6	a	a	_	DT	_	8	NMOD	59865	_
+7	roller	roller	_	NN	_	8	NMOD	59865	_
+8	coaster	coaster	_	NN	_	5	OBJ	59865	_
+9	at	at	_	IN	_	5	LOC	_	5
+10	Coney	Coney	_	NNP	_	11	NAME	59864	_
+11	Island	Island	_	NNP	_	9	PMOD	59864	_
+12	in	in	_	IN	_	11	LOC	_	5
+13	New	New	_	NNP	_	14	NAME	59867	_
+14	York	York	_	NNP	_	12	PMOD	59867	_
+15	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	184091	_
+2	group	group	_	NN	_	14	SBJ	184091	_
+3	of	of	_	IN	_	2	NMOD	184091	_
+4	three	three	_	CD	_	5	NMOD	184091	_
+5	people	people	_	NN	_	3	PMOD	184091	_
+6	,	,	_	,	_	14	P	_	_
+7	one	one	_	CD	_	14	SBJ	0	_
+8	of	of	_	IN	_	7	NMOD	0	_
+9	them	them	_	PRP	_	8	PMOD	0	_
+10	a	a	_	DT	_	12	NMOD	184095	_
+11	young	young	_	JJ	_	12	NMOD	184095	_
+12	boy	boy	_	NN	_	7	APPO	184095	_
+13	,	,	_	,	_	14	P	_	_
+14	are	be	_	VBP	_	0	ROOT	_	_
+15	standing	stand	_	VBG	_	14	VC	_	_
+16	in front of	in front of	_	IN	_	15	ADV	_	_
+17	a	a	_	DT	_	19	NMOD	184093	_
+18	large	large	_	JJ	_	19	NMOD	184093	_
+19	aquarium	aquarium	_	NN	_	16	PMOD	184093	_
+20	like	like	_	IN	_	19	NMOD	_	22
+21	fish	fish	_	NN	_	22	NMOD	184100	_
+22	tank	tank	_	NN	_	20	PMOD	184100	_
+23	looking	look	_	VBG	_	22	APPO	_	_
+24	at	at	_	IN	_	23	ADV	_	_
+25	the	the	_	DT	_	26	NMOD	184094	_
+26	fish	fish	_	NN	_	24	PMOD	184094	_
+27	.	.	_	.	_	14	P	_	_

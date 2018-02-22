@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	14306	_
+2	woman	woman	_	NN	_	6	SBJ	14306	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	5	NMOD	14308	_
+5	shorts	short	_	NNS	_	3	PMOD	14308	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	carrying	carry	_	VBG	_	6	VC	_	_
+8	her	her	_	PRP$	_	9	NMOD	14309	_
+9	shoes	shoe	_	NNS	_	7	OBJ	14309	_
+10	whilst	whilst	_	IN	_	7	MNR	_	_
+11	walking	walk	_	VBG	_	10	PMOD	_	_
+12	on	on	_	IN	_	11	ADV	_	_
+13	the	the	_	DT	_	14	NMOD	14307	_
+14	beach	beach	_	NN	_	12	PMOD	14307	_
+15	next to	next to	_	IN	_	11	TMP	_	11
+16	the	the	_	DT	_	17	NMOD	14307	_
+17	ocean	ocean	_	NN	_	15	PMOD	14307	_
+18	.	.	_	.	_	6	P	_	_

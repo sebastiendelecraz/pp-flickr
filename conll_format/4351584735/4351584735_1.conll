@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	164440	_
+2	band	band	_	NN	_	3	SBJ	164440	_
+3	consisting	consist	_	VBG	_	0	ROOT	_	_
+4	of	of	_	IN	_	3	ADV	_	_
+5	two	two	_	CD	_	6	NMOD	164448	_
+6	males	mal	_	NNS	_	4	PMOD	164448	_
+7	and	and	_	CC	_	3	COORD	_	_
+8	a	a	_	DT	_	9	NMOD	164442	_
+9	female	female	_	JJ	_	10	SBJ	164442	_
+10	perform	perform	_	VBP	_	7	CONJ	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	stage	stage	_	NN	_	11	PMOD	164444	_
+13	in front of	in front of	_	IN	_	10	TMP	_	10
+14	a	a	_	DT	_	17	NMOD	164445	_
+15	giant	giant	_	NN	_	17	NMOD	164445	_
+16	red	red	_	JJ	_	17	NMOD	164445	_
+17	heart	heart	_	NN	_	13	PMOD	164445	_
+18	.	.	_	.	_	0	ROOT	_	_

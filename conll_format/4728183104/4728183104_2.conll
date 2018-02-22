@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	196117	_
+2	worker	worker	_	NN	_	3	SBJ	196117	_
+3	fills	fill	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	196119	_
+5	glass	glass	_	NN	_	3	OBJ	196119	_
+6	with	with	_	IN	_	3	ADV	_	_
+7	beer	beer	_	NN	_	6	PMOD	196118	_
+8	for	for	_	IN	_	7	NMOD	_	3
+9	the	the	_	DT	_	10	NMOD	196120	_
+10	lady	lady	_	NN	_	8	PMOD	196120	_
+11	.	.	_	.	_	3	P	_	_

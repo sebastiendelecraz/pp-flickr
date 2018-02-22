@@ -1,0 +1,8 @@
+1	People	People	_	NNPS	_	2	NAME	168819	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	New	New	_	NNP	_	5	NAME	168817	_
+5	York	York	_	NNP	_	3	PMOD	168817	_
+6	at	at	_	IN	_	2	ADV	_	_
+7	dusk	dusk	_	NN	_	6	PMOD	168822	_
+8	.	.	_	.	_	0	ROOT	_	_

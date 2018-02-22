@@ -1,0 +1,14 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	112515	_
+2	smiling	smile	_	VBG	_	0	ROOT	_	_
+3	outside of	outside of	_	IN	_	2	ADV	_	2
+4	tent	tent	_	NN	_	3	PMOD	112517	_
+5	surrounded	surround	_	VBN	_	4	APPO	_	_
+6	by	by	_	IN	_	5	LGS	_	_
+7	fake	fake	_	NN	_	8	NMOD	112516	_
+8	flamingos	flamingo	_	NNS	_	6	PMOD	112516	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	112518	_
+11	snow	snow	_	NN	_	9	PMOD	112518	_
+12	during	during	_	IN	_	5	TMP	_	1
+13	winter	winter	_	NN	_	12	PMOD	112522	_
+14	.	.	_	.	_	0	ROOT	_	_

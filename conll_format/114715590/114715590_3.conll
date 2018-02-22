@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	3819	_
+2	skateboarder	skateboarder	_	NN	_	3	SBJ	3819	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	does	do	_	VBZ	_	3	PRD	_	_
+5	an	an	_	DT	_	6	NMOD	3825	_
+6	"	"	_	CD	_	8	NMOD	3825	_
+7	ollie	ollie	_	CD	_	8	NMOD	3825	_
+8	"	"	_	CD	_	4	OBJ	3825	_
+9	down	down	_	IN	_	4	ADV	_	4
+10	a	a	_	DT	_	11	NMOD	3822	_
+11	couple	couple	_	NN	_	9	PMOD	3822	_
+12	of	of	_	IN	_	11	NMOD	3822	_
+13	stairs	stair	_	NNS	_	12	PMOD	3822	_
+14	.	.	_	.	_	3	P	_	_

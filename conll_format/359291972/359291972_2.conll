@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	130122	_
+2	man	man	_	NN	_	6	NMOD	130122	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	130123	_
+5	helmet	helmet	_	NN	_	3	OBJ	130123	_
+6	while	while	_	IN	_	0	ROOT	_	_
+7	walking	walk	_	VBG	_	6	SUB	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	ropes	rope	_	NNS	_	8	PMOD	130125	_
+10	above	above	_	IN	_	9	LOC	_	7
+11	the	the	_	DT	_	12	NMOD	0	_
+12	air	air	_	NN	_	10	PMOD	0	_
+13	.	.	_	.	_	0	ROOT	_	_

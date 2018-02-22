@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	75859	_
+2	people	people	_	NN	_	3	SBJ	75859	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	singing	sing	_	VBG	_	3	VC	_	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	dancing	dance	_	VBG	_	5	CONJ	_	_
+7	in	in	_	IN	_	4	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	75863	_
+9	bar	bar	_	NN	_	7	PMOD	75863	_
+10	in front of	in front of	_	IN	_	4	LOC	_	_
+11	many	many	_	DT	_	12	NMOD	75857	_
+12	people	people	_	NN	_	10	PMOD	75857	_
+13	.	.	_	.	_	3	P	_	_

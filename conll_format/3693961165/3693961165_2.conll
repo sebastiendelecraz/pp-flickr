@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	137391	_
+2	large	large	_	JJ	_	4	NMOD	137391	_
+3	black	black	_	JJ	_	4	NMOD	137391	_
+4	dog	dog	_	NN	_	5	SBJ	137391	_
+5	runs	run	_	VBZ	_	0	ROOT	_	_
+6	along	along	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	137392	_
+8	fence	fence	_	NN	_	6	PMOD	137392	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	137393	_
+11	grass	grass	_	NN	_	9	PMOD	137393	_
+12	.	.	_	.	_	5	P	_	_

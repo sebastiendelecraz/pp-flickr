@@ -1,0 +1,17 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	78169	_
+4	man	man	_	NN	_	2	SBJ	78169	_
+5	talking	talk	_	VBG	_	4	NMOD	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	78171	_
+8	phone	phone	_	NN	_	6	PMOD	78171	_
+9	leaning	lean	_	VBG	_	8	APPO	_	_
+10	against	against	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	78170	_
+12	building	building	_	NN	_	10	PMOD	78170	_
+13	on	on	_	IN	_	12	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	78173	_
+15	city	city	_	NN	_	16	NMOD	78173	_
+16	sidewalk	sidewalk	_	NN	_	13	PMOD	78173	_
+17	.	.	_	.	_	2	P	_	_

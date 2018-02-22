@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	42235	_
+2	construction	construction	_	NN	_	3	NMOD	42235	_
+3	workers	worker	_	NNS	_	4	SBJ	42235	_
+4	working	work	_	VBG	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	8	NMOD	42236	_
+7	decorative	decorative	_	JJ	_	8	NMOD	42236	_
+8	window	window	_	NN	_	5	PMOD	42236	_
+9	from	from	_	IN	_	4	TMP	_	4
+10	the	the	_	DT	_	13	NMOD	42238	_
+11	inside of	inside of	_	JJ	_	13	NMOD	42238	_
+12	an	an	_	DT	_	13	NMOD	42238	_
+13	establishment	establishment	_	NN	_	9	PMOD	42238	_
+14	.	.	_	.	_	0	ROOT	_	_

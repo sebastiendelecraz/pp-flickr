@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	14677	_
+2	lot	lot	_	NN	_	0	ROOT	14677	_
+3	of	of	_	IN	_	2	NMOD	14677	_
+4	people	people	_	NN	_	3	PMOD	14677	_
+5	walking	walk	_	VBG	_	4	APPO	_	_
+6	near	near	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	14679	_
+8	crosswalk	crosswalk	_	NN	_	6	PMOD	14679	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	14678	_
+11	rain	rain	_	NN	_	9	PMOD	14678	_
+12	.	.	_	.	_	0	ROOT	_	_

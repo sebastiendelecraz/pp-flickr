@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	66924	_
+2	man	man	_	NN	_	9	SBJ	66924	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	66925	_
+5	white	white	_	JJ	_	6	NMOD	66925	_
+6	shirt	shirt	_	NN	_	3	PMOD	66925	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	glasses	glass	_	NNS	_	7	PMOD	66926	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	typing	type	_	VBG	_	9	VC	_	_
+11	on	on	_	RP	_	10	PRT	_	_
+12	his	his	_	PRP$	_	13	NMOD	66927	_
+13	MacBook	MacBook	_	NNP	_	10	OBJ	66927	_
+14	in front of	in front of	_	IN	_	10	ADV	_	10
+15	a	a	_	DT	_	17	NMOD	66928	_
+16	fashion	fashion	_	NN	_	17	NMOD	66928	_
+17	ad	ad	_	NN	_	14	PMOD	66928	_
+18	with	with	_	IN	_	17	NMOD	_	_
+19	an	an	_	DT	_	21	NMOD	66929	_
+20	attractive	attractive	_	JJ	_	21	NMOD	66929	_
+21	woman	woman	_	NN	_	18	PMOD	66929	_
+22	.	.	_	.	_	9	P	_	_

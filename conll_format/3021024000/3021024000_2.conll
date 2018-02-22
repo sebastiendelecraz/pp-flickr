@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	88020	_
+2	women	woman	_	NNS	_	3	SBJ	88020	_
+3	playing	play	_	VBG	_	0	ROOT	_	_
+4	musical	musical	_	JJ	_	5	NMOD	88023	_
+5	instruments	instrument	_	NNS	_	3	OBJ	88023	_
+6	in	in	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	88025	_
+8	concert	concert	_	NN	_	6	PMOD	88025	_
+9	setting	set	_	VBG	_	8	APPO	_	_
+10	with	with	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	88022	_
+12	couple	couple	_	NN	_	10	PMOD	88022	_
+13	of	of	_	IN	_	12	NMOD	88022	_
+14	men	man	_	NNS	_	13	PMOD	88022	_
+15	.	.	_	.	_	0	ROOT	_	_

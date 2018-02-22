@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	220535	_
+2	man	man	_	NN	_	5	SBJ	220535	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	woman	woman	_	NN	_	3	CONJ	220534	_
+5	look	look	_	VBP	_	0	ROOT	_	_
+6	like	like	_	IN	_	5	ADV	_	_
+7	they	they	_	PRP	_	8	SBJ	0	_
+8	are	be	_	VBP	_	6	SUB	_	_
+9	having	have	_	VBG	_	8	VC	_	_
+10	their	their	_	PRP$	_	11	NMOD	220539	_
+11	picture	picture	_	NN	_	9	OBJ	220539	_
+12	taken	take	_	VBN	_	11	APPO	_	_
+13	in front of	in front of	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	16	NMOD	220537	_
+15	famous	famous	_	JJ	_	16	NMOD	220537	_
+16	building	building	_	NN	_	13	PMOD	220537	_
+17	in	in	_	IN	_	16	LOC	_	9
+18	France	France	_	NNP	_	17	PMOD	220540	_
+19	.	.	_	.	_	5	P	_	_

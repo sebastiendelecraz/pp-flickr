@@ -1,0 +1,10 @@
+1	little	little	_	JJ	_	2	NMOD	221105	_
+2	kid	kid	_	NN	_	0	ROOT	221105	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	221099	_
+5	guys	guy	_	NNS	_	6	NMOD	221099	_
+6	shoulders	shoulder	_	NNS	_	3	PMOD	221099	_
+7	in	in	_	IN	_	6	LOC	_	2
+8	a	a	_	DT	_	9	NMOD	221106	_
+9	crowd	crowd	_	NN	_	7	PMOD	221106	_
+10	.	.	_	.	_	0	ROOT	_	_

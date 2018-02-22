@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	280777	_
+2	elderly	elderly	_	JJ	_	3	NMOD	280777	_
+3	women	woman	_	NNS	_	4	SBJ	280777	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	walking	walk	_	VBG	_	4	VC	_	_
+6	past	past	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	9	NMOD	280781	_
+8	younger	young	_	JJR	_	9	NMOD	280781	_
+9	woman	woman	_	NN	_	6	PMOD	280781	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	a	a	_	DT	_	13	NMOD	280780	_
+12	public	public	_	JJ	_	13	NMOD	280780	_
+13	path	path	_	NN	_	10	PMOD	280780	_
+14	.	.	_	.	_	4	P	_	_

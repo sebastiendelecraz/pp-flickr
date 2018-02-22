@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	271833	_
+2	guys	guy	_	NNS	_	0	ROOT	271833	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	6	NMOD	271837	_
+5	chug	chug	_	NN	_	6	NMOD	271837	_
+6	alcohol	alcohol	_	NN	_	3	PMOD	271837	_
+7	from	from	_	IN	_	6	NMOD	_	5
+8	fancy	fancy	_	JJ	_	9	NMOD	271838	_
+9	cups	cup	_	NNS	_	7	PMOD	271838	_
+10	.	.	_	.	_	0	ROOT	_	_

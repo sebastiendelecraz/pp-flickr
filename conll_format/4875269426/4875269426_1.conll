@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	213871	_
+2	man	man	_	NN	_	0	ROOT	213871	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	near	near	_	IN	_	3	LOC	_	3
+5	piles	pile	_	NNS	_	4	PMOD	213875	_
+6	of	of	_	IN	_	5	NMOD	213875	_
+7	produce	produce	_	NN	_	6	PMOD	213875	_
+8	peeling	peel	_	VBG	_	5	APPO	_	_
+9	a	a	_	DT	_	10	NMOD	213872	_
+10	vegetable	vegetable	_	JJ	_	8	OBJ	213872	_
+11	.	.	_	.	_	0	ROOT	_	_

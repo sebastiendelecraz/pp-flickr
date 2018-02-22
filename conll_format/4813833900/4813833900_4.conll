@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	205959	_
+2	group	group	_	NN	_	8	SBJ	205959	_
+3	of	of	_	IN	_	2	NMOD	205959	_
+4	men	man	_	NNS	_	3	PMOD	205959	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	white	white	_	JJ	_	7	NMOD	205963	_
+7	coats	coat	_	NNS	_	5	PMOD	205963	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	walking	walk	_	VBG	_	8	VC	_	_
+10	through	through	_	IN	_	9	DIR	_	9
+11	the	the	_	DT	_	12	NMOD	205961	_
+12	street	street	_	NN	_	10	PMOD	205961	_
+13	.	.	_	.	_	8	P	_	_

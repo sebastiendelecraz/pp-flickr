@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	195657	_
+2	woman	woman	_	NN	_	0	ROOT	195657	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	195658	_
+5	blue	blue	_	JJ	_	7	NMOD	195658	_
+6	jacket	jacket	_	NN	_	7	NMOD	195658	_
+7	talks	talk	_	NNS	_	3	PMOD	_	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	the	the	_	DT	_	10	NMOD	195660	_
+10	phone	phone	_	NN	_	8	PMOD	195660	_
+11	a	a	_	DT	_	13	NMOD	195663	_
+12	the	the	_	DT	_	13	NMOD	195663	_
+13	boardwalk	boardwalk	_	NN	_	7	APPO	195663	_
+14	.	.	_	.	_	0	ROOT	_	_

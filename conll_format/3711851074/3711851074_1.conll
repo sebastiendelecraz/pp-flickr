@@ -1,0 +1,11 @@
+1	Shoppers	shopper	_	NNS	_	2	SBJ	138732	_
+2	purchase	purchase	_	VBP	_	0	ROOT	_	_
+3	produce	produce	_	NN	_	2	OBJ	138736	_
+4	from	from	_	IN	_	2	ADV	_	2
+5	a	a	_	DT	_	8	NMOD	138732	_
+6	busy	busy	_	JJ	_	8	NMOD	138732	_
+7	grocery	grocery	_	NN	_	8	NMOD	138732	_
+8	store	store	_	NN	_	4	PMOD	138732	_
+9	in	in	_	IN	_	8	LOC	_	2
+10	Asia	Asia	_	NNP	_	9	PMOD	138734	_
+11	.	.	_	.	_	2	P	_	_

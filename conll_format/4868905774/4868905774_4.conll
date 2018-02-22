@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	213152	_
+2	young	young	_	JJ	_	3	NMOD	213152	_
+3	boy	boy	_	NN	_	0	ROOT	213152	_
+4	carrying	carry	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	213156	_
+6	stool	stool	_	NN	_	4	OBJ	213156	_
+7	for	for	_	IN	_	6	NMOD	_	4
+8	a	a	_	DT	_	10	NMOD	213161	_
+9	big	big	_	JJ	_	10	NMOD	213161	_
+10	event	event	_	NN	_	7	PMOD	213161	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	his	his	_	PRP$	_	13	NMOD	213162	_
+13	village	village	_	NN	_	11	PMOD	213162	_
+14	.	.	_	.	_	0	ROOT	_	_

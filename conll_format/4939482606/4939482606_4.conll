@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	220927	_
+2	woman	woman	_	NN	_	0	ROOT	220927	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	220928	_
+5	blue	blue	_	JJ	_	6	NMOD	220928	_
+6	talks	talk	_	NNS	_	3	PMOD	_	_
+7	with	with	_	IN	_	6	NMOD	_	6
+8	a	a	_	DT	_	10	NMOD	220929	_
+9	fruit	fruit	_	NN	_	10	NMOD	220929	_
+10	salesman	salesman	_	NN	_	7	PMOD	220929	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	the	the	_	DT	_	13	NMOD	220931	_
+13	street	street	_	NN	_	11	PMOD	220931	_
+14	.	.	_	.	_	0	ROOT	_	_

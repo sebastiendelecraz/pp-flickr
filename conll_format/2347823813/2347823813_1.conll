@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	43328	_
+2	woman	woman	_	NN	_	7	SBJ	43328	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	43329	_
+5	blue	blue	_	JJ	_	6	NMOD	43329	_
+6	dress	dress	_	NN	_	3	PMOD	43329	_
+7	dances	dance	_	VBZ	_	0	ROOT	_	_
+8	with	with	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	43330	_
+10	man	man	_	NN	_	8	PMOD	43330	_
+11	in	in	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	43331	_
+13	tuxedo	tuxedo	_	NN	_	11	PMOD	43331	_
+14	on	on	_	IN	_	7	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	43326	_
+16	stage	stage	_	NN	_	14	PMOD	43326	_
+17	in front of	in front of	_	IN	_	0	ROOT	_	_
+18	a	a	_	DT	_	20	NMOD	43324	_
+19	mid-sized	mid-sized	_	CD	_	20	NMOD	43324	_
+20	audience	audience	_	NN	_	17	PMOD	43324	_
+21	.	.	_	.	_	0	ROOT	_	_

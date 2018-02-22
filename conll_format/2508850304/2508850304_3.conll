@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	54178	_
+2	group	group	_	NN	_	0	ROOT	54178	_
+3	of	of	_	IN	_	2	NMOD	54178	_
+4	people	people	_	NN	_	3	PMOD	54178	_
+5	walking	walk	_	VBG	_	4	APPO	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	a	a	_	DT	_	8	NMOD	54180	_
+8	park	park	_	NN	_	6	PMOD	54180	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	signs	sign	_	NNS	_	9	PMOD	54181	_
+11	.	.	_	.	_	0	ROOT	_	_

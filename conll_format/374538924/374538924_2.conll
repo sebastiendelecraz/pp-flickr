@@ -1,0 +1,12 @@
+1	Men	Men	_	NNPS	_	0	ROOT	140916	_
+2	and	and	_	CC	_	0	ROOT	_	_
+3	women	woman	_	NNS	_	4	SBJ	140921	_
+4	are	be	_	VBP	_	2	CONJ	_	_
+5	crowded	crowd	_	VBN	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	staircase	staircase	_	NN	_	6	PMOD	140917	_
+8	in	in	_	IN	_	7	LOC	_	5
+9	a	a	_	DT	_	11	NMOD	140914	_
+10	big	big	_	JJ	_	11	NMOD	140914	_
+11	room	room	_	NN	_	8	PMOD	140914	_
+12	.	.	_	.	_	0	ROOT	_	_

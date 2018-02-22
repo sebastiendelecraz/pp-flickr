@@ -1,0 +1,9 @@
+1	Three	Three	_	CD	_	2	NMOD	92100	_
+2	men	man	_	NNS	_	3	SBJ	92100	_
+3	stand	stand	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	92101	_
+6	bar	bar	_	NN	_	4	PMOD	92101	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	drinks	drink	_	NNS	_	7	PMOD	92102	_
+9	.	.	_	.	_	3	P	_	_

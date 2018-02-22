@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	194307	_
+2	singer	singer	_	NN	_	3	SBJ	194307	_
+3	singing	sing	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	stage	stage	_	NN	_	4	PMOD	194309	_
+6	at	at	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	194310	_
+8	concert	concert	_	NN	_	6	PMOD	194310	_
+9	.	.	_	.	_	0	ROOT	_	_

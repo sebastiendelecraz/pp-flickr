@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	86278	_
+2	man	man	_	NN	_	3	SBJ	86278	_
+3	sings	sing	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	86280	_
+6	crowd	crowd	_	NN	_	4	PMOD	86280	_
+7	in	in	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	86281	_
+9	banquet	banquet	_	NN	_	10	NMOD	86281	_
+10	hall	hall	_	NN	_	7	PMOD	86281	_
+11	for	for	_	IN	_	10	NMOD	_	3
+12	an	an	_	DT	_	13	NMOD	86280	_
+13	audience	audience	_	NN	_	11	PMOD	86280	_
+14	.	.	_	.	_	3	P	_	_

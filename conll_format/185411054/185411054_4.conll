@@ -1,0 +1,9 @@
+1	Six	Six	_	NNP	_	2	NMOD	22014	_
+2	men	man	_	NNS	_	3	SBJ	22014	_
+3	buried	bury	_	VBD	_	0	ROOT	_	_
+4	up to	up to	_	IN	_	3	ADV	_	3
+5	their	their	_	PRP$	_	6	NMOD	22018	_
+6	chest	chest	_	NN	_	4	PMOD	22018	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	sand	sand	_	NN	_	7	PMOD	22016	_
+9	.	.	_	.	_	3	P	_	_

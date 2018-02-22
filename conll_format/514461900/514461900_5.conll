@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	SBJ	229842	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	waiting	wait	_	VBG	_	2	VC	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	line	line	_	NN	_	4	PMOD	229845	_
+6	for	for	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	8	NMOD	229844	_
+8	train	train	_	NN	_	6	PMOD	229844	_
+9	.	.	_	.	_	2	P	_	_

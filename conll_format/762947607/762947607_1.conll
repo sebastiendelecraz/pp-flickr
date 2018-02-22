@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	272346	_
+2	little	little	_	JJ	_	3	NMOD	272346	_
+3	boy	boy	_	NN	_	0	ROOT	272346	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	shorts	short	_	NNS	_	4	PMOD	272351	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	t-shirt	t-shirt	_	NN	_	6	CONJ	272347	_
+8	run	run	_	VBN	_	5	APPO	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	272348	_
+11	field	field	_	NN	_	9	PMOD	272348	_
+12	of	of	_	IN	_	11	NMOD	272348	_
+13	grass	grass	_	NN	_	12	PMOD	272348	_
+14	towards	towards	_	IN	_	8	TMP	_	8
+15	some	some	_	DT	_	16	NMOD	272352	_
+16	trees	tree	_	NNS	_	14	PMOD	272352	_
+17	.	.	_	.	_	0	ROOT	_	_

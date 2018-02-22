@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	125434	_
+2	man	man	_	NN	_	0	ROOT	125434	_
+3	holding	hold	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	125435	_
+5	bunch	bunch	_	NN	_	3	OBJ	125435	_
+6	of	of	_	IN	_	5	NMOD	125435	_
+7	balloons	balloon	_	NNS	_	6	PMOD	125435	_
+8	against	against	_	IN	_	5	NMOD	_	3
+9	a	a	_	DT	_	11	NMOD	0	_
+10	fluffy	fluffy	_	JJ	_	11	NMOD	0	_
+11	cloud	cloud	_	NN	_	8	PMOD	0	_
+12	filled	fill	_	VBN	_	11	APPO	0	_
+13	sky	sky	_	NN	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	OBJ	0	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	271006	_
+2	guitarist	guitarist	_	NN	_	0	ROOT	271006	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	271011	_
+5	black	black	_	JJ	_	6	NMOD	271011	_
+6	shirt	shirt	_	NN	_	3	PMOD	271011	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	glasses	glass	_	NNS	_	7	CONJ	271013	_
+9	on	on	_	IN	_	0	ROOT	_	_
+10	a	a	_	DT	_	11	NMOD	271008	_
+11	stage	stage	_	NN	_	9	PMOD	271008	_
+12	surrounded	surround	_	VBN	_	11	APPO	_	_
+13	by	by	_	IN	_	12	LGS	_	_
+14	lights	light	_	NNS	_	13	PMOD	271010	_
+15	with	with	_	IN	_	12	ADV	_	_
+16	a	a	_	DT	_	17	NMOD	271012	_
+17	microphone	microphone	_	NN	_	15	PMOD	271012	_
+18	in front of	in front of	_	IN	_	12	ADV	_	_
+19	him	him	_	PRP	_	18	PMOD	0	_
+20	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	251117	_
+2	man	man	_	NN	_	3	SBJ	251117	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	wearing	wear	_	VBG	_	3	VC	_	_
+5	ear	ear	_	NN	_	6	NMOD	251123	_
+6	protection	protection	_	NN	_	4	OBJ	251123	_
+7	while	while	_	IN	_	4	TMP	_	_
+8	standing	stand	_	VBG	_	7	SUB	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	251119	_
+11	piece	piece	_	NN	_	9	PMOD	251119	_
+12	of	of	_	IN	_	11	NMOD	251119	_
+13	heavy	heavy	_	JJ	_	14	NMOD	251119	_
+14	machinery	machinery	_	NN	_	12	PMOD	251119	_
+15	on	on	_	IN	_	8	ADV	_	_
+16	a	a	_	DT	_	17	NMOD	251120	_
+17	sidewalk	sidewalk	_	NN	_	15	PMOD	251120	_
+18	in front of	in front of	_	IN	_	8	ADV	_	_
+19	a	a	_	DT	_	20	NMOD	251118	_
+20	house	house	_	NN	_	18	PMOD	251118	_
+21	with	with	_	IN	_	8	ADV	_	_
+22	a	a	_	DT	_	23	NMOD	251121	_
+23	tree	tree	_	NN	_	21	PMOD	251121	_
+24	in	in	_	IN	_	23	LOC	_	_
+25	the	the	_	DT	_	26	NMOD	251126	_
+26	yard	yard	_	NN	_	24	PMOD	251126	_
+27	.	.	_	.	_	3	P	_	_

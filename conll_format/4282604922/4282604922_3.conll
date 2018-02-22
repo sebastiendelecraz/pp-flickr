@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	3	NMOD	161480	_
+2	getting	get	_	VBG	_	3	NMOD	_	_
+3	food	food	_	NN	_	0	ROOT	161482	_
+4	at	at	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	161488	_
+6	walk	walk	_	NN	_	4	PMOD	161488	_
+7	up	up	_	IN	_	6	NMOD	_	6
+8	restaurant	restaurant	_	NN	_	9	NMOD	161486	_
+9	window	window	_	NN	_	7	PMOD	161486	_
+10	.	.	_	.	_	0	ROOT	_	_

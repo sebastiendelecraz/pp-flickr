@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	171097	_
+2	woman	woman	_	NN	_	8	SBJ	171097	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	171100	_
+5	light	light	_	JJ	_	7	NMOD	171100	_
+6	purple	purple	_	NN	_	7	NMOD	171100	_
+7	shirt	shirt	_	NN	_	3	PMOD	171100	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	walking	walk	_	VBG	_	8	VC	_	_
+10	next to	next to	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	13	NMOD	171101	_
+12	maroon	maroon	_	NN	_	13	NMOD	171101	_
+13	van	van	_	NN	_	10	PMOD	171101	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	a	a	_	DT	_	17	NMOD	171103	_
+16	motor	motor	_	NN	_	17	NMOD	171103	_
+17	home	home	_	NN	_	14	PMOD	171103	_
+18	behind	behind	_	IN	_	17	LOC	_	_
+19	it	it	_	PRP	_	18	PMOD	0	_
+20	at	at	_	IN	_	13	LOC	_	9
+21	a	a	_	DT	_	22	NMOD	171099	_
+22	campground	campground	_	NN	_	20	PMOD	171099	_
+23	.	.	_	.	_	8	P	_	_

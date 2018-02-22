@@ -1,0 +1,14 @@
+1	Here	here	_	RB	_	2	LOC-PRD	_	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	227124	_
+4	picture	picture	_	NN	_	2	PRD	227124	_
+5	of	of	_	IN	_	4	NMOD	227124	_
+6	an	an	_	DT	_	7	NMOD	227124	_
+7	ashtray	ashtray	_	NN	_	5	PMOD	227124	_
+8	and	and	_	CC	_	7	COORD	227124	_
+9	glasses	glass	_	NNS	_	8	CONJ	227124	_
+10	on top of	on top of	_	IN	_	4	NMOD	_	9
+11	a	a	_	DT	_	13	NMOD	227126	_
+12	checkered	checker	_	VBN	_	13	NMOD	227126	_
+13	table	table	_	NN	_	10	PMOD	227126	_
+14	.	.	_	.	_	2	P	_	_

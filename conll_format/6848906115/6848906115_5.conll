@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	259315	_
+2	adults	adult	_	NNS	_	6	SBJ	259315	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	lab	lab	_	NN	_	5	NMOD	259323	_
+5	coats	coat	_	NNS	_	3	OBJ	259323	_
+6	pose	pose	_	VBP	_	0	ROOT	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	259334	_
+9	picture	picture	_	NN	_	7	PMOD	259334	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	alcohol	alcohol	_	NN	_	10	PMOD	259321	_
+12	.	.	_	.	_	6	P	_	_

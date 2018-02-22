@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	3	NMOD	17252	_
+2	young	young	_	JJ	_	3	NMOD	17252	_
+3	men	man	_	NNS	_	4	SBJ	17252	_
+4	have	have	_	VBP	_	0	ROOT	_	_
+5	fun	fun	_	NN	_	4	OBJ	0	_
+6	in	in	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	8	NMOD	17255	_
+8	crowd	crowd	_	NN	_	6	PMOD	17255	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	crazy	crazy	_	JJ	_	12	NMOD	17254	_
+11	flaming	flaming	_	NN	_	12	NMOD	17254	_
+12	helmets	helmet	_	NNS	_	9	PMOD	17254	_
+13	on	on	_	IN	_	12	LOC	_	_
+14	their	their	_	PRP$	_	15	NMOD	17260	_
+15	heads	head	_	NNS	_	13	PMOD	17260	_
+16	.	.	_	.	_	4	P	_	_

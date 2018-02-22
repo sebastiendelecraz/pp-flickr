@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	138727	_
+2	dog	dog	_	NN	_	3	SBJ	138727	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	walking	walk	_	VBG	_	3	VC	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	an	an	_	DT	_	7	NMOD	138729	_
+7	area	area	_	NN	_	5	PMOD	138729	_
+8	of	of	_	IN	_	7	NMOD	138729	_
+9	heavy	heavy	_	JJ	_	10	NMOD	138729	_
+10	foliage	foliage	_	NN	_	8	PMOD	138729	_
+11	along	along	_	IN	_	10	LOC	_	4
+12	a	a	_	DT	_	14	NMOD	138728	_
+13	dirt	dirt	_	NN	_	14	NMOD	138728	_
+14	path	path	_	NN	_	11	PMOD	138728	_
+15	.	.	_	.	_	3	P	_	_

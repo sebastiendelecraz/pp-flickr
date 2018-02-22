@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	236208	_
+2	boy	boy	_	NN	_	3	SBJ	236208	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	the	the	_	DT	_	5	NMOD	236212	_
+5	number	number	_	NN	_	6	NMOD	236212	_
+6	53	53	_	CD	_	7	SBJ	236212	_
+7	is	be	_	VBZ	_	3	OBJ	_	_
+8	running	run	_	VBG	_	7	VC	_	_
+9	with	with	_	IN	_	8	ADV	_	_
+10	snowshoes	snowshoe	_	NNS	_	9	PMOD	236210	_
+11	outside	outside	_	IN	_	10	LOC	_	8
+12	a	a	_	DT	_	14	NMOD	236209	_
+13	brick	brick	_	NN	_	14	NMOD	236209	_
+14	building	building	_	NN	_	11	PMOD	236209	_
+15	.	.	_	.	_	0	ROOT	_	_

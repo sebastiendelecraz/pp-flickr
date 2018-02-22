@@ -1,0 +1,16 @@
+1	Women	woman	_	NNS	_	0	ROOT	94395	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	long	long	_	JJ	_	4	NMOD	94398	_
+4	skirts	skirt	_	NNS	_	2	PMOD	94398	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	jackets	jacket	_	NNS	_	5	CONJ	94401	_
+7	dancing	dance	_	VBG	_	4	APPO	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	94402	_
+10	back	back	_	NN	_	8	PMOD	94402	_
+11	of	of	_	IN	_	10	NMOD	94402	10
+12	a	a	_	DT	_	13	NMOD	94402	_
+13	McDonald	McDonald	_	NNP	_	15	NMOD	94402	_
+14	'	'	_	POS	_	13	SUFFIX	_	_
+15	s	s	_	NN	_	11	PMOD	_	_
+16	.	.	_	.	_	0	ROOT	_	_

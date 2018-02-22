@@ -1,0 +1,14 @@
+1	Greyhound	Greyhound	_	NNP	_	2	SBJ	26997	_
+2	dogs	dog	_	VBZ	_	6	SBJ	26997	_
+3	wearing	wear	_	VBG	_	2	OPRD	_	_
+4	racing	race	_	VBG	_	5	NMOD	27001	_
+5	stripes	stripe	_	NNS	_	3	OBJ	27001	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	running	run	_	VBG	_	6	VC	_	_
+8	out of	out of	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	26998	_
+10	gate	gate	_	NN	_	8	PMOD	26998	_
+11	on	on	_	IN	_	7	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	27000	_
+13	track	track	_	NN	_	11	PMOD	27000	_
+14	.	.	_	.	_	6	P	_	_

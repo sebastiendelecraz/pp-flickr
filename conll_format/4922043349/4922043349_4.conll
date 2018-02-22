@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	218582	_
+2	little	little	_	JJ	_	3	NMOD	218582	_
+3	boy	boy	_	NN	_	4	SBJ	218582	_
+4	running	run	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	218583	_
+7	grass	grass	_	NN	_	5	PMOD	218583	_
+8	with	with	_	IN	_	7	NMOD	_	4
+9	a	a	_	DT	_	10	NMOD	218585	_
+10	flag	flag	_	NN	_	8	PMOD	218585	_
+11	.	.	_	.	_	0	ROOT	_	_

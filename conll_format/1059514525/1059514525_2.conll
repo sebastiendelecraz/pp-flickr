@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	1501	_
+2	man	man	_	NN	_	7	SBJ	1501	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	1503	_
+5	plaid	plaid	_	NN	_	6	NMOD	1503	_
+6	blanket	blanket	_	NN	_	3	PMOD	1503	_
+7	sleeps	sleep	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	1502	_
+10	bench	bench	_	NN	_	8	PMOD	1502	_
+11	near	near	_	IN	_	10	LOC	_	7
+12	a	a	_	DT	_	14	NMOD	1505	_
+13	city	city	_	NN	_	14	NMOD	1505	_
+14	street	street	_	NN	_	11	PMOD	1505	_
+15	.	.	_	.	_	7	P	_	_

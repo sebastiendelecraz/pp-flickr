@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	41363	_
+2	small	small	_	JJ	_	3	NMOD	41363	_
+3	child	child	_	NN	_	6	SBJ	41363	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	pajamas	pajama	_	NNS	_	4	PMOD	41364	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	holding	hold	_	VBG	_	6	VC	_	_
+8	onto	onto	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	41366	_
+10	mop	mop	_	NN	_	8	PMOD	41366	_
+11	in	in	_	IN	_	7	LOC	_	10
+12	a	a	_	DT	_	13	NMOD	41365	_
+13	bucket	bucket	_	NN	_	11	PMOD	41365	_
+14	.	.	_	.	_	6	P	_	_

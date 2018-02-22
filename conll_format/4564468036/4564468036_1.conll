@@ -1,0 +1,15 @@
+1	Mannequins	mannequin	_	NNS	_	7	SBJ	178959	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	elaborate	elaborate	_	JJ	_	6	NMOD	178957	_
+4	and	and	_	CC	_	3	COORD	178957	_
+5	festive	festive	_	JJ	_	4	CONJ	178957	_
+6	dress	dress	_	NN	_	2	PMOD	178957	_
+7	have	have	_	VBP	_	0	ROOT	_	_
+8	been	be	_	VBN	_	7	VC	_	_
+9	arranged	arrange	_	VBN	_	8	VC	_	_
+10	into	into	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	178960	_
+12	scene	scene	_	NN	_	10	PMOD	178960	_
+13	of	of	_	IN	_	12	NMOD	178960	_
+14	celebration	celebration	_	NN	_	13	PMOD	178960	_
+15	.	.	_	.	_	7	P	_	_

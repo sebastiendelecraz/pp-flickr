@@ -1,0 +1,16 @@
+1	The	the	_	DT	_	2	NMOD	60810	_
+2	musicians	musician	_	NNS	_	3	SBJ	60810	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	rehearsing	rehearse	_	VBG	_	3	VC	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	the	the	_	DT	_	7	NMOD	60813	_
+7	event	event	_	NN	_	5	PMOD	60813	_
+8	,	,	_	,	_	4	P	_	_
+9	possibly	possibly	_	RB	_	10	PMOD	_	_
+10	at	at	_	IN	_	4	ADV	_	_
+11	school	school	_	NN	_	10	PMOD	60814	_
+12	or	or	_	CC	_	10	COORD	60814	_
+13	even	even	_	RB	_	15	NMOD	60814	_
+14	a	a	_	DT	_	15	NMOD	60814	_
+15	concert	concert	_	NN	_	12	CONJ	60814	_
+16	.	.	_	.	_	3	P	_	_

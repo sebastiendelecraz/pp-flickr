@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	3	NMOD	37712	_
+2	police	police	_	NN	_	3	NMOD	37712	_
+3	officers	officer	_	NNS	_	4	NMOD	37712	_
+4	2	2	_	CD	_	8	NMOD	37713	_
+5	male	male	_	JJ	_	8	NMOD	37713	_
+6	1	1	_	CD	_	8	NMOD	37713	_
+7	female	female	_	JJ	_	8	NMOD	37713	_
+8	standing	standing	_	NN	_	0	ROOT	_	_
+9	around	around	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	13	NMOD	37711	_
+11	girl	girl	_	NN	_	13	NMOD	37711	_
+12	holding	hold	_	VBG	_	13	NMOD	_	_
+13	something	something	_	NN	_	9	PMOD	37716	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	her	her	_	PRP$	_	16	NMOD	37720	_
+16	hands	hand	_	NNS	_	14	PMOD	37720	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	4	NMOD	63361	_
+2	physically	physically	_	RB	_	3	AMOD	63361	_
+3	fit	fit	_	JJ	_	4	NMOD	63361	_
+4	man	man	_	NN	_	5	SBJ	63361	_
+5	dives	dive	_	VBZ	_	0	ROOT	_	_
+6	into	into	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	63362	_
+8	water	water	_	NN	_	6	PMOD	63362	_
+9	,	,	_	,	_	5	P	_	_
+10	with	with	_	IN	_	5	ADV	_	_
+11	mountains	mountain	_	NNS	_	10	PMOD	63364	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	.	.	_	.	_	5	P	_	_

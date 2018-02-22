@@ -1,0 +1,18 @@
+1	Two	Two	_	CD	_	2	NMOD	188249	_
+2	men	man	_	NNS	_	3	SBJ	188249	_
+3	wearing	wear	_	VBG	_	8	SBJ	_	_
+4	orange	orange	_	JJ	_	5	NMOD	188251	_
+5	robes	robe	_	NNS	_	3	OBJ	188251	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	sandals	sandal	_	NNS	_	6	CONJ	188252	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	in front of	in front of	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	188250	_
+12	Bean	Bean	_	NNP	_	10	PMOD	188250	_
+13	in	in	_	IN	_	12	LOC	_	9
+14	Millenium	Millenium	_	NNP	_	15	NAME	188253	_
+15	Park	Park	_	NNP	_	17	NMOD	188253	_
+16	,	,	_	,	_	17	P	_	_
+17	Chicago	Chicago	_	NNP	_	13	PMOD	188248	_
+18	.	.	_	.	_	8	P	_	_

@@ -1,0 +1,10 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	77247	_
+2	diving	dive	_	VBG	_	0	ROOT	_	_
+3	into	into	_	IN	_	2	DIR	_	2
+4	deep	deep	_	JJ	_	5	NMOD	77248	_
+5	end	end	_	NN	_	3	PMOD	77248	_
+6	of	of	_	IN	_	5	NMOD	77248	_
+7	a	a	_	DT	_	9	NMOD	77248	_
+8	swimming	swim	_	VBG	_	9	NMOD	77248	_
+9	pool	pool	_	NN	_	6	PMOD	77248	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	People	People	_	NNPS	_	2	SBJ	95764	_
+2	gathered	gather	_	VBD	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	95761	_
+5	man	man	_	NN	_	3	PMOD	95761	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	uniform	uniform	_	NN	_	6	PMOD	95767	_
+8	who	who	_	WP	_	9	SBJ	0	_
+9	is	be	_	VBZ	_	7	NMOD	_	_
+10	clapping	clap	_	VBG	_	9	VC	_	_
+11	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	32887	_
+2	boy	boy	_	NN	_	3	SBJ	32887	_
+3	leaning	lean	_	VBG	_	0	ROOT	_	_
+4	against	against	_	IN	_	3	ADV	_	3
+5	somebody	somebody	_	NN	_	4	PMOD	32891	_
+6	on	on	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	9	NMOD	32888	_
+8	booth	booth	_	NN	_	9	NMOD	32888	_
+9	seat	seat	_	NN	_	6	PMOD	32888	_
+10	looking	look	_	VBG	_	9	APPO	_	_
+11	under	under	_	IN	_	10	LOC	_	10
+12	the	the	_	DT	_	13	NMOD	32887	_
+13	table	table	_	NN	_	11	PMOD	32887	_
+14	.	.	_	.	_	0	ROOT	_	_

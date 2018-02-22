@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	156209	_
+2	group	group	_	NN	_	5	SBJ	156209	_
+3	of	of	_	IN	_	2	NMOD	156209	_
+4	people	people	_	NN	_	3	PMOD	156209	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	around	around	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	156213	_
+9	dining	dining	_	NN	_	10	NMOD	156213	_
+10	table	table	_	NN	_	7	PMOD	156213	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	food	food	_	NN	_	11	PMOD	156216	_
+13	on	on	_	IN	_	6	ADV	_	_
+14	it	it	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	5	P	_	_

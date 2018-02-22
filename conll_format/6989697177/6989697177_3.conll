@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	263301	_
+2	group	group	_	NN	_	8	SBJ	263301	_
+3	of	of	_	IN	_	2	NMOD	263301	_
+4	boys	boy	_	NNS	_	3	PMOD	263301	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	263302	_
+7	mountains	mountain	_	NNS	_	5	PMOD	263302	_
+8	smile	smile	_	VBP	_	0	ROOT	_	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	make	make	_	VBP	_	9	CONJ	_	_
+11	peace	peace	_	NN	_	12	NMOD	263305	_
+12	signs	sign	_	NNS	_	8	OBJ	263305	_
+13	for	for	_	IN	_	12	NMOD	_	10
+14	the	the	_	DT	_	15	NMOD	0	_
+15	camera	camera	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	8	P	_	_

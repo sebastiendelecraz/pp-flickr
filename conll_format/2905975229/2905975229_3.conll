@@ -1,0 +1,11 @@
+1	Men	Men	_	NNPS	_	2	SBJ	80465	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	standing	stand	_	VBG	_	2	VC	_	_
+4	near	near	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	80468	_
+6	small	small	_	JJ	_	7	NMOD	80468	_
+7	plane	plane	_	NN	_	4	PMOD	80468	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	a	a	_	DT	_	10	NMOD	80467	_
+10	runway	runway	_	NN	_	8	PMOD	80467	_
+11	.	.	_	.	_	2	P	_	_

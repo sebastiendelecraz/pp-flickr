@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	134429	_
+2	dog	dog	_	NN	_	3	SBJ	134429	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	7	NMOD	134430	_
+6	grassy	grassy	_	JJ	_	7	NMOD	134430	_
+7	field	field	_	NN	_	4	PMOD	134430	_
+8	of	of	_	IN	_	7	NMOD	134430	_
+9	yellow	yellow	_	JJ	_	10	NMOD	134430	_
+10	flowers	flower	_	NNS	_	8	PMOD	134430	_
+11	.	.	_	.	_	3	P	_	_

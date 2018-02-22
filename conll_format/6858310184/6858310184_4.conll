@@ -1,0 +1,8 @@
+1	A	a	_	DT	_	2	NMOD	259595	_
+2	man	man	_	NN	_	0	ROOT	259595	_
+3	in the middle of	in the middle of	_	IN	_	2	NMOD	0	2
+4	a	a	_	DT	_	5	NMOD	0	_
+5	jump	jump	_	NN	_	3	PMOD	0	_
+6	while	while	_	IN	_	2	TMP	_	_
+7	snowboarding	snowboarding	_	NN	_	6	SUB	259599	_
+8	.	.	_	.	_	0	ROOT	_	_

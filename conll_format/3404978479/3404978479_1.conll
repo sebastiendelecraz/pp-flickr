@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	115877	_
+2	little	little	_	JJ	_	3	NMOD	115877	_
+3	girl	girl	_	NN	_	7	SBJ	115877	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	blue	blue	_	JJ	_	6	NMOD	115880	_
+6	overalls	overall	_	NNS	_	4	PMOD	115880	_
+7	plays	play	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	115879	_
+10	seesaw	seesaw	_	NN	_	8	PMOD	115879	_
+11	in	in	_	IN	_	7	LOC	_	7
+12	a	a	_	DT	_	13	NMOD	115878	_
+13	backyard	backyard	_	NN	_	11	PMOD	115878	_
+14	.	.	_	.	_	7	P	_	_

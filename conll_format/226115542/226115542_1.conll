@@ -1,0 +1,16 @@
+1	Several	several	_	DT	_	2	NMOD	37514	_
+2	people	people	_	NN	_	3	SBJ	37514	_
+3	stand	stand	_	VBP	_	0	ROOT	_	_
+4	near	near	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	37520	_
+6	cooking	cooking	_	NN	_	7	NMOD	37520	_
+7	area	area	_	NN	_	4	PMOD	37520	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	37516	_
+10	woods	wood	_	NNS	_	8	PMOD	37516	_
+11	while	while	_	IN	_	3	ADV	_	_
+12	eating	eat	_	VBG	_	11	SUB	_	_
+13	off	off	_	RP	_	12	PRT	_	_
+14	of	of	_	IN	_	12	ADV	_	_
+15	plates	plate	_	NNS	_	14	PMOD	37519	_
+16	.	.	_	.	_	3	P	_	_

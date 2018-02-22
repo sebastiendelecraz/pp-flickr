@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	165310	_
+2	woman	woman	_	NN	_	3	SBJ	165310	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	165313	_
+6	edge	edge	_	NN	_	4	PMOD	165313	_
+7	of	of	_	IN	_	6	NMOD	165313	_
+8	a	a	_	DT	_	9	NMOD	165313	_
+9	sidewalk	sidewalk	_	NN	_	7	PMOD	165313	_
+10	with	with	_	IN	_	9	NMOD	_	3
+11	a	a	_	DT	_	13	NMOD	165314	_
+12	garbage	garbage	_	NN	_	13	NMOD	165314	_
+13	bin	bin	_	NN	_	10	PMOD	165314	_
+14	beside	beside	_	IN	_	0	ROOT	_	_
+15	her	her	_	PRP$	_	0	ROOT	0	_
+16	.	.	_	.	_	0	ROOT	_	_

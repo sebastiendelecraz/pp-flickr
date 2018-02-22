@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	280887	_
+2	young	young	_	JJ	_	3	NMOD	280887	_
+3	boy	boy	_	NN	_	4	SBJ	280887	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	280893	_
+7	water	water	_	NN	_	5	PMOD	280893	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	280889	_
+10	net	net	_	JJ	_	8	PMOD	280889	_
+11	with	with	_	IN	_	4	ADV	_	_
+12	waves	wave	_	NNS	_	11	PMOD	280899	_
+13	behind	behind	_	IN	_	12	NMOD	_	_
+14	him	him	_	PRP	_	13	PMOD	0	_
+15	.	.	_	.	_	0	ROOT	_	_

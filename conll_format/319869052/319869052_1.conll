@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	100376	_
+2	person	person	_	NN	_	3	SBJ	100376	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	next to	next to	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	100377	_
+6	rock	rock	_	NN	_	7	NMOD	100377	_
+7	monument	monument	_	NN	_	4	PMOD	100377	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	his	his	_	PRP$	_	10	NMOD	100380	_
+10	hand	hand	_	NN	_	8	PMOD	100380	_
+11	near	near	_	IN	_	7	LOC	_	10
+12	his	his	_	PRP$	_	13	NMOD	100381	_
+13	head	head	_	NN	_	11	PMOD	100381	_
+14	.	.	_	.	_	3	P	_	_

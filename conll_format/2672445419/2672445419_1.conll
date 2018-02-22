@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	65324	_
+2	young	young	_	JJ	_	3	NMOD	65324	_
+3	boy	boy	_	NN	_	4	SBJ	65324	_
+4	smiles	smile	_	VBZ	_	0	ROOT	_	_
+5	as	as	_	IN	_	4	ADV	_	_
+6	he	he	_	PRP	_	7	SBJ	0	_
+7	hangs	hang	_	VBZ	_	5	SUB	_	_
+8	onto	onto	_	IN	_	7	ADV	_	7
+9	bars	bar	_	NNS	_	8	PMOD	65326	_
+10	at	at	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	65325	_
+12	playground	playground	_	NN	_	10	PMOD	65325	_
+13	.	.	_	.	_	4	P	_	_

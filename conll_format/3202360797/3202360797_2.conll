@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	100620	_
+2	young	young	_	JJ	_	3	NMOD	100620	_
+3	dog	dog	_	NN	_	4	SBJ	100620	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	through	through	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	100623	_
+7	snow	snow	_	NN	_	5	PMOD	100623	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	100621	_
+10	tire	tire	_	NN	_	11	NMOD	100621	_
+11	track	track	_	NN	_	8	PMOD	100621	_
+12	.	.	_	.	_	0	ROOT	_	_

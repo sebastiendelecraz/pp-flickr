@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	3	NMOD	268800	_
+2	young	young	_	JJ	_	3	NMOD	268800	_
+3	ladies	lady	_	NNS	_	5	SBJ	268800	_
+4	carefully	carefully	_	RB	_	5	MNR	_	_
+5	balancing	balance	_	VBG	_	0	ROOT	_	_
+6	while	while	_	IN	_	5	TMP	_	_
+7	walking	walk	_	VBG	_	6	SUB	_	_
+8	across	across	_	IN	_	7	DIR	_	7
+9	a	a	_	DT	_	10	NMOD	268803	_
+10	log	log	_	NN	_	8	PMOD	268803	_
+11	in	in	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	268802	_
+13	field	field	_	NN	_	11	PMOD	268802	_
+14	with	with	_	IN	_	7	ADV	_	_
+15	tall	tall	_	JJ	_	16	NMOD	268802	_
+16	grass	grass	_	NN	_	14	PMOD	268802	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	Man	Man	_	NNP	_	2	SBJ	192771	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	bench	bench	_	NN	_	3	PMOD	192773	_
+5	with	with	_	IN	_	4	NMOD	_	_
+6	suitcase	suitcase	_	NN	_	5	PMOD	192774	_
+7	waiting	wait	_	VBG	_	4	APPO	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	his	his	_	PRP$	_	10	NMOD	192778	_
+10	source	source	_	NN	_	8	PMOD	192778	_
+11	of	of	_	IN	_	10	NMOD	192778	_
+12	transportation	transportation	_	NN	_	11	PMOD	192778	_
+13	.	.	_	.	_	0	ROOT	_	_

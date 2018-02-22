@@ -1,0 +1,20 @@
+1	Policemen	policeman	_	NNS	_	11	SBJ	236868	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	riot	riot	_	NN	_	4	NMOD	236869	_
+4	gear	gear	_	NN	_	2	PMOD	236869	_
+5	,	,	_	,	_	11	P	_	_
+6	along with	along with	_	IN	_	11	ADV	_	12
+7	two	two	_	CD	_	8	NMOD	236871	_
+8	police	police	_	NN	_	6	PMOD	236871	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	horseback	horseback	_	NN	_	9	PMOD	236865	_
+11	are	be	_	VBP	_	0	ROOT	_	_
+12	charging	charge	_	VBG	_	11	VC	_	_
+13	a	a	_	DT	_	14	NMOD	236870	_
+14	crowd	crowd	_	NN	_	12	OBJ	236870	_
+15	that	that	_	WDT	_	16	SBJ	0	_
+16	are	be	_	VBP	_	14	NMOD	_	_
+17	behind	behind	_	IN	_	16	LOC-PRD	_	16
+18	a	a	_	DT	_	19	NMOD	236872	_
+19	barrier	barrier	_	NN	_	17	PMOD	236872	_
+20	.	.	_	.	_	11	P	_	_

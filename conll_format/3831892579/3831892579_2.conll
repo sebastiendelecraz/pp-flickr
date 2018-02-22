@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	144834	_
+2	chef	chef	_	NN	_	3	SBJ	144834	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	cutting	cut	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	144836	_
+6	piece	piece	_	NN	_	4	OBJ	144836	_
+7	of	of	_	IN	_	6	NMOD	144836	_
+8	fish	fish	_	NN	_	7	PMOD	144836	_
+9	with	with	_	IN	_	6	NMOD	_	4
+10	a	a	_	DT	_	12	NMOD	144835	_
+11	chefs	chef	_	NNS	_	12	NMOD	144835	_
+12	knife	knife	_	NN	_	9	PMOD	144835	_
+13	.	.	_	.	_	3	P	_	_

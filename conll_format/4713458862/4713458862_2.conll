@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	194041	_
+2	man	man	_	NN	_	0	ROOT	194041	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	an	an	_	DT	_	6	NMOD	194042	_
+5	Egyptian	Egyptian	_	JJ	_	6	NMOD	194042	_
+6	headdress	headdress	_	NN	_	3	PMOD	194042	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	no	no	_	DT	_	9	NMOD	194047	_
+9	shirt	shirt	_	NN	_	7	CONJ	194047	_
+10	on	on	_	IN	_	2	NMOD	_	_
+11	holds	hold	_	NNS	_	10	PMOD	_	_
+12	up	up	_	IN	_	11	NMOD	_	11
+13	a	a	_	DT	_	14	NMOD	194044	_
+14	doll	doll	_	NN	_	12	AMOD	194044	_
+15	and	and	_	CC	_	2	COORD	_	_
+16	smiles	smile	_	VBZ	_	15	CONJ	_	_
+17	.	.	_	.	_	0	ROOT	_	_

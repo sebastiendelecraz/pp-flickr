@@ -1,0 +1,11 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	18815	_
+2	coming	come	_	VBG	_	0	ROOT	_	_
+3	out	out	_	RP	_	2	PRT	_	_
+4	from	from	_	IN	_	2	DIR	_	2
+5	a	a	_	DT	_	6	NMOD	18819	_
+6	building	building	_	NN	_	4	PMOD	18819	_
+7	in	in	_	IN	_	2	LOC	_	_
+8	an	an	_	DT	_	10	NMOD	18820	_
+9	Asian	Asian	_	JJ	_	10	NMOD	18820	_
+10	city	city	_	NN	_	7	PMOD	18820	_
+11	.	.	_	.	_	0	ROOT	_	_

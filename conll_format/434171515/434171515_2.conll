@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	164026	_
+2	group	group	_	NN	_	7	SBJ	164026	_
+3	of	of	_	IN	_	2	NMOD	164026	_
+4	men	man	_	NNS	_	3	PMOD	164026	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	women	woman	_	NNS	_	5	CONJ	164032	_
+7	gather	gather	_	VBP	_	0	ROOT	_	_
+8	around	around	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	164030	_
+10	table	table	_	NN	_	8	PMOD	164030	_
+11	in	in	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	164028	_
+13	restaurant	restaurant	_	NN	_	11	PMOD	164028	_
+14	.	.	_	.	_	7	P	_	_

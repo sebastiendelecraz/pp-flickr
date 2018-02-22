@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	110796	_
+2	woman	woman	_	NN	_	5	SBJ	110796	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	child	child	_	NN	_	3	CONJ	110798	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	110797	_
+8	bench	bench	_	NN	_	6	PMOD	110797	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	110800	_
+11	yard	yard	_	NN	_	9	PMOD	110800	_
+12	covered	cover	_	VBN	_	11	APPO	_	_
+13	with	with	_	IN	_	12	ADV	_	_
+14	fallen	fall	_	VBN	_	15	NMOD	110800	_
+15	leaves	leaf	_	NNS	_	13	PMOD	110800	_
+16	.	.	_	.	_	5	P	_	_

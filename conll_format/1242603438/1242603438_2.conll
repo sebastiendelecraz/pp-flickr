@@ -1,0 +1,16 @@
+1	In	in	_	IN	_	5	TMP	_	8
+2	this	this	_	DT	_	3	NMOD	6098	_
+3	picture	picture	_	NN	_	1	PMOD	6098	_
+4	we	we	_	PRP	_	5	SBJ	6099	_
+5	have	have	_	VBP	_	0	ROOT	_	_
+6	about	about	_	IN	_	7	DEP	6093	_
+7	11	11	_	CD	_	8	NMOD	6093	_
+8	girls	girl	_	NNS	_	5	OBJ	6093	_
+9	posing	pose	_	VBG	_	8	APPO	_	_
+10	for	for	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	6100	_
+12	picture	picture	_	NN	_	10	PMOD	6100	_
+13	in	in	_	IN	_	9	LOC	_	_
+14	a	a	_	DT	_	15	NMOD	6095	_
+15	pool	pool	_	NN	_	13	PMOD	6095	_
+16	.	.	_	.	_	5	P	_	_

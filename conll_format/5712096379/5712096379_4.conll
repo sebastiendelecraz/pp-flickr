@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	241458	_
+2	worker	worker	_	NN	_	3	NMOD	241458	_
+3	washers	washer	_	NNS	_	5	NMOD	_	_
+4	the	the	_	DT	_	5	NMOD	241461	_
+5	side	side	_	NN	_	0	ROOT	241461	_
+6	of	of	_	IN	_	5	NMOD	241461	_
+7	a	a	_	DT	_	8	NMOD	241461	_
+8	train	train	_	NN	_	6	PMOD	241461	_
+9	with	with	_	IN	_	8	NMOD	_	3
+10	a	a	_	DT	_	11	NMOD	241463	_
+11	brush	brush	_	NN	_	9	PMOD	241463	_
+12	.	.	_	.	_	0	ROOT	_	_

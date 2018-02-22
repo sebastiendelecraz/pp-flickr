@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	230031	_
+2	lady	lady	_	NN	_	3	SBJ	230031	_
+3	standing	stand	_	VBG	_	12	NMOD	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	an	an	_	DT	_	7	NMOD	230037	_
+6	exhibition	exhibition	_	NN	_	7	NMOD	230037	_
+7	table	table	_	NN	_	4	PMOD	230037	_
+8	for	for	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	10	NMOD	230039	_
+10	ring	ring	_	NN	_	8	PMOD	230039	_
+11	tossing	toss	_	VBG	_	12	NMOD	_	_
+12	game	game	_	NN	_	0	ROOT	230042	_
+13	.	.	_	.	_	0	ROOT	_	_

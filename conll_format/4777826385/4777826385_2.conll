@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	201877	_
+2	man	man	_	NN	_	3	SBJ	201877	_
+3	leans	lean	_	VBZ	_	0	ROOT	_	_
+4	against	against	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	201879	_
+6	statue	statue	_	NN	_	4	PMOD	201879	_
+7	in front of	in front of	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	201878	_
+9	building	building	_	NN	_	7	PMOD	201878	_
+10	.	.	_	.	_	3	P	_	_

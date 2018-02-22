@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	190892	_
+2	young	young	_	JJ	_	3	NMOD	190892	_
+3	woman	woman	_	NN	_	7	SBJ	190892	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	athletic	athletic	_	JJ	_	6	NMOD	190897	_
+6	gear	gear	_	NN	_	4	PMOD	190897	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	taking	take	_	VBG	_	7	VC	_	_
+9	her	her	_	PRP$	_	10	NMOD	190893	_
+10	bike	bike	_	NN	_	8	OBJ	190893	_
+11	on	on	_	IN	_	8	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	190898	_
+13	stroll	stroll	_	NN	_	11	PMOD	190898	_
+14	near	near	_	IN	_	13	LOC	_	8
+15	a	a	_	DT	_	16	NMOD	190896	_
+16	lake	lake	_	NN	_	14	PMOD	190896	_
+17	.	.	_	.	_	7	P	_	_

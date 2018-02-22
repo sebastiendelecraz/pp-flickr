@@ -1,0 +1,17 @@
+1	At	at	_	IN	_	12	LOC	_	_
+2	the	the	_	DT	_	3	NMOD	220745	_
+3	end	end	_	NN	_	1	PMOD	220745	_
+4	of	of	_	IN	_	3	NMOD	220745	_
+5	a	a	_	DT	_	7	NMOD	220745	_
+6	long	long	_	JJ	_	7	NMOD	220745	_
+7	alleyway	alleyway	_	NN	_	4	PMOD	220745	_
+8	between	between	_	IN	_	7	NMOD	_	12
+9	two	two	_	CD	_	11	NMOD	220744	_
+10	city	city	_	NN	_	11	NMOD	220744	_
+11	buildings	building	_	NNS	_	8	PMOD	220744	_
+12	are	be	_	VBP	_	0	ROOT	_	_
+13	two	two	_	CD	_	14	NMOD	220742	_
+14	people	people	_	NN	_	12	SBJ	220742	_
+15	walking	walk	_	VBG	_	14	APPO	_	_
+16	side-by-side	side-by-side	_	CD	_	15	OBJ	220749	_
+17	.	.	_	.	_	12	P	_	_

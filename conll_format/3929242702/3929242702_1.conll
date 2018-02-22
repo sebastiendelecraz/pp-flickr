@@ -1,0 +1,16 @@
+1	Little	Little	_	NNP	_	2	NMOD	148471	_
+2	boy	boy	_	NN	_	3	SBJ	148471	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	next to	next to	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	148472	_
+6	pillar	pillar	_	NN	_	4	PMOD	148472	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	arms	arm	_	NNS	_	7	PMOD	148474	_
+9	outstretched	outstretch	_	VBN	_	6	APPO	_	_
+10	while	while	_	IN	_	9	ADV	_	_
+11	his	his	_	PRP$	_	12	NMOD	148475	_
+12	family	family	_	NN	_	13	SBJ	148475	_
+13	sits	sit	_	VBZ	_	10	SUB	_	_
+14	along	along	_	RP	_	13	PRT	_	_
+15	side	side	_	NN	_	13	OBJ	_	_
+16	.	.	_	.	_	0	ROOT	_	_

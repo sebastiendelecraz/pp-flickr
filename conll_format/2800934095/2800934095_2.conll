@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	73711	_
+2	dog	dog	_	NN	_	3	SBJ	73711	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	running	run	_	VBG	_	3	VC	_	_
+5	through	through	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	73713	_
+7	low-cut	low-cut	_	JJ	_	8	NMOD	73713	_
+8	field	field	_	NN	_	5	PMOD	73713	_
+9	with	with	_	IN	_	4	ADV	_	4
+10	a	a	_	DT	_	11	NMOD	73712	_
+11	ball	ball	_	NN	_	9	PMOD	73712	_
+12	.	.	_	.	_	3	P	_	_

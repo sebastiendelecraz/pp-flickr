@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	3	NMOD	95856	_
+2	smiling	smile	_	VBG	_	3	NMOD	95856	_
+3	people	people	_	NN	_	9	SBJ	95856	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	drinks	drink	_	NNS	_	4	PMOD	95849	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	their	their	_	PRP$	_	8	NMOD	95852	_
+8	hands	hand	_	NNS	_	6	PMOD	95852	_
+9	face	face	_	VBP	_	0	ROOT	_	_
+10	each	each	_	DT	_	11	NMOD	0	_
+11	other	other	_	JJ	_	9	OBJ	0	_
+12	for	for	_	IN	_	9	ADV	_	9
+13	a	a	_	DT	_	14	NMOD	95857	_
+14	picture	picture	_	NN	_	12	PMOD	95857	_
+15	.	.	_	.	_	9	P	_	_

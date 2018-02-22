@@ -1,0 +1,16 @@
+1	Three	Three	_	CD	_	2	NMOD	201758	_
+2	people	people	_	NN	_	3	SBJ	201758	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	sitting	sit	_	VBG	_	3	VC	_	_
+5	bright	bright	_	JJ	_	6	NMOD	201761	_
+6	orange	orange	_	NN	_	4	OBJ	201761	_
+7	in	in	_	IN	_	4	LOC	_	_
+8	a	a	_	DT	_	11	NMOD	201761	_
+9	horse	horse	_	NN	_	11	NMOD	201761	_
+10	drawn	draw	_	VBN	_	11	NMOD	201761	_
+11	carriage	carriage	_	NN	_	7	PMOD	201761	_
+12	in	in	_	IN	_	11	LOC	_	4
+13	a	a	_	DT	_	15	NMOD	201759	_
+14	downtown	downtown	_	JJ	_	15	NMOD	201759	_
+15	area	area	_	NN	_	12	PMOD	201759	_
+16	.	.	_	.	_	3	P	_	_

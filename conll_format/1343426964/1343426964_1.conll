@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	9271	_
+2	blond	blond	_	JJ	_	3	NMOD	9271	_
+3	boy	boy	_	NN	_	8	SBJ	9271	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	9272	_
+6	blue	blue	_	JJ	_	7	NMOD	9272	_
+7	t-shirt	t-shirt	_	NN	_	4	PMOD	9272	_
+8	stands	stand	_	VBZ	_	0	ROOT	_	_
+9	smiling	smile	_	VBG	_	8	OPRD	_	_
+10	before	before	_	IN	_	8	TMP	_	8
+11	a	a	_	DT	_	12	NMOD	9273	_
+12	craft	craft	_	NN	_	10	PMOD	9273	_
+13	of	of	_	IN	_	12	NMOD	9273	_
+14	green	green	_	JJ	_	16	NMOD	9273	_
+15	nylon	nylon	_	NN	_	16	NMOD	9273	_
+16	fabric	fabric	_	NN	_	13	PMOD	9273	_
+17	.	.	_	.	_	8	P	_	_

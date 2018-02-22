@@ -1,0 +1,11 @@
+1	Man	Man	_	NNP	_	2	SBJ	113911	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	113912	_
+5	black	black	_	JJ	_	7	NMOD	113912	_
+6	chair	chair	_	NN	_	7	NMOD	113912	_
+7	smoking	smoking	_	NN	_	3	PMOD	_	_
+8	at	at	_	IN	_	2	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	113916	_
+10	restaurant	restaurant	_	NN	_	8	PMOD	113916	_
+11	.	.	_	.	_	0	ROOT	_	_

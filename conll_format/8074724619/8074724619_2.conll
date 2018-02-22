@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	278614	_
+2	boy	boy	_	NN	_	6	SBJ	278614	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	278615	_
+5	bike	bike	_	NN	_	3	PMOD	278615	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	PRD	_	_
+8	midair	midair	_	NN	_	7	PMOD	278618	_
+9	over	over	_	IN	_	8	NMOD	_	6
+10	a	a	_	DT	_	11	NMOD	278617	_
+11	staircase	staircase	_	NN	_	9	PMOD	278617	_
+12	in front of	in front of	_	IN	_	0	ROOT	_	_
+13	an	an	_	DT	_	15	NMOD	278616	_
+14	old-style	old-style	_	JJ	_	15	NMOD	278616	_
+15	building	building	_	NN	_	12	PMOD	278616	_
+16	in	in	_	IN	_	15	LOC	_	6
+17	a	a	_	DT	_	18	NMOD	278620	_
+18	city	city	_	NN	_	16	PMOD	278620	_
+19	.	.	_	.	_	0	ROOT	_	_

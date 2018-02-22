@@ -1,0 +1,13 @@
+1	Scene	Scene	_	NNP	_	0	ROOT	185552	_
+2	of	of	_	IN	_	0	ROOT	185552	_
+3	two	two	_	CD	_	4	NMOD	185552	_
+4	children	child	_	NNS	_	2	PMOD	185552	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	amongst	amongst	_	IN	_	5	LOC	_	5
+7	the	the	_	DT	_	8	NMOD	185554	_
+8	contents	content	_	NNS	_	6	PMOD	185554	_
+9	of	of	_	IN	_	8	NMOD	185554	_
+10	a	a	_	DT	_	12	NMOD	185554	_
+11	produce	produce	_	NN	_	12	NMOD	185554	_
+12	stand	stand	_	NN	_	9	PMOD	185554	_
+13	.	.	_	.	_	0	ROOT	_	_

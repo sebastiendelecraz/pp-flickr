@@ -1,0 +1,11 @@
+1	Men	Men	_	NNPS	_	2	NAME	34293	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	around	around	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	34291	_
+5	car	car	_	NN	_	3	PMOD	34291	_
+6	with	with	_	IN	_	2	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	34294	_
+8	lamp	lamp	_	NN	_	6	PMOD	34294	_
+9	behind	behind	_	IN	_	2	LOC	_	_
+10	them	them	_	PRP	_	9	PMOD	0	_
+11	.	.	_	.	_	0	ROOT	_	_

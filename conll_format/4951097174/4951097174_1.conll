@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	222476	_
+2	group	group	_	NN	_	9	SBJ	222476	_
+3	of	of	_	IN	_	2	NMOD	222476	_
+4	small	small	_	JJ	_	6	NMOD	222476	_
+5	school	school	_	NN	_	6	NMOD	222476	_
+6	boys	boy	_	NNS	_	3	PMOD	222476	_
+7	wearing	wear	_	VBG	_	6	APPO	_	_
+8	uniforms	uniform	_	NNS	_	7	OBJ	222486	_
+9	take	take	_	VBP	_	0	ROOT	_	_
+10	a	a	_	DT	_	11	NMOD	222483	_
+11	break	break	_	NN	_	9	OBJ	222483	_
+12	in front of	in front of	_	IN	_	9	ADV	_	_
+13	a	a	_	DT	_	16	NMOD	222480	_
+14	large	large	_	JJ	_	16	NMOD	222480	_
+15	monkey	monkey	_	NN	_	16	NMOD	222480	_
+16	statue	statue	_	NN	_	12	PMOD	222480	_
+17	next to	next to	_	IN	_	9	ADV	_	9
+18	the	the	_	DT	_	19	NMOD	222482	_
+19	ocean	ocean	_	NN	_	17	PMOD	222482	_
+20	.	.	_	.	_	9	P	_	_

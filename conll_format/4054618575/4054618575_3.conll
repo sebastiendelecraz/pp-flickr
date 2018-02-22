@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	153527	_
+2	construction	construction	_	NN	_	3	NMOD	153527	_
+3	worker	worker	_	NN	_	4	NMOD	153527	_
+4	talks	talk	_	NNS	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	NMOD	_	_
+6	the	the	_	DT	_	7	NMOD	153528	_
+7	radio	radio	_	NN	_	5	PMOD	153528	_
+8	in the middle of	in the middle of	_	IN	_	4	NMOD	153537	4
+9	a	a	_	DT	_	11	NMOD	153537	_
+10	job	job	_	NN	_	11	NMOD	153537	_
+11	site	site	_	NN	_	8	PMOD	153537	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	21158	_
+2	group	group	_	NN	_	0	ROOT	21158	_
+3	of	of	_	IN	_	2	NMOD	21158	_
+4	young	young	_	JJ	_	5	NMOD	21158	_
+5	girls	girl	_	NNS	_	3	PMOD	21158	_
+6	in	in	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	21159	_
+8	dance	dance	_	NN	_	9	NMOD	21159	_
+9	studio	studio	_	NN	_	6	PMOD	21159	_
+10	.	.	_	.	_	0	ROOT	_	_

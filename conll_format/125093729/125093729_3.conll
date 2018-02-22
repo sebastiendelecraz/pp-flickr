@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	6321	_
+2	little	little	_	JJ	_	3	NMOD	6321	_
+3	boy	boy	_	NN	_	6	SBJ	6321	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	girl	girl	_	NN	_	4	CONJ	6325	_
+6	riding	ride	_	VBG	_	0	ROOT	_	_
+7	their	their	_	PRP$	_	8	NMOD	6327	_
+8	bikes	bike	_	NNS	_	6	OBJ	6327	_
+9	down	down	_	IN	_	6	ADV	_	6
+10	the	the	_	DT	_	11	NMOD	6329	_
+11	sidewalk	sidewalk	_	NN	_	9	PMOD	6329	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	training	training	_	NN	_	14	NMOD	6328	_
+14	wheels	wheel	_	NNS	_	12	PMOD	6328	_
+15	on	on	_	IN	_	14	NMOD	_	_
+16	.	.	_	.	_	0	ROOT	_	_

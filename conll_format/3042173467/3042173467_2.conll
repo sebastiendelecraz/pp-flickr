@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	89526	_
+2	women	woman	_	NNS	_	6	SBJ	89526	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	bare-back	bare-back	_	CD	_	5	NMOD	89527	_
+5	dresses	dress	_	NNS	_	3	OBJ	89527	_
+6	look	look	_	VBP	_	0	ROOT	_	_
+7	over	over	_	IN	_	6	ADV	_	6
+8	their	their	_	PRP$	_	9	NMOD	89530	_
+9	shoulder	shoulder	_	NN	_	7	PMOD	89530	_
+10	for	for	_	IN	_	9	NMOD	_	6
+11	a	a	_	DT	_	12	NMOD	89531	_
+12	picture	picture	_	NN	_	10	PMOD	89531	_
+13	.	.	_	.	_	6	P	_	_

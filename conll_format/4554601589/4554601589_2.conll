@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	177927	_
+2	police	police	_	NN	_	3	NMOD	177927	_
+3	officer	officer	_	NN	_	7	SBJ	177927	_
+4	on	on	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	177928	_
+6	bicycle	bicycle	_	NN	_	4	PMOD	177928	_
+7	rests	rest	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	177932	_
+10	stone	stone	_	JJ	_	11	NMOD	177932	_
+11	pathway	pathway	_	NN	_	8	PMOD	177932	_
+12	in	in	_	IN	_	7	LOC	_	_
+13	a	a	_	DT	_	16	NMOD	177930	_
+14	lightly	lightly	_	RB	_	15	AMOD	177930	_
+15	crowded	crowded	_	JJ	_	16	NMOD	177930	_
+16	area	area	_	NN	_	12	PMOD	177930	_
+17	.	.	_	.	_	7	P	_	_

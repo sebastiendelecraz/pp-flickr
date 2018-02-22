@@ -1,0 +1,22 @@
+1	An	an	_	DT	_	3	NMOD	269247	_
+2	old	old	_	JJ	_	3	NMOD	269247	_
+3	man	man	_	NN	_	7	SBJ	269247	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	white	white	_	JJ	_	6	NMOD	269256	_
+6	garb	garb	_	NN	_	4	PMOD	269256	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	7	VC	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	12	NMOD	269252	_
+11	stone	stone	_	NN	_	12	NMOD	269252	_
+12	wall	wall	_	NN	_	9	PMOD	269252	_
+13	and	and	_	CC	_	8	COORD	_	_
+14	shaping	shape	_	VBG	_	13	CONJ	_	_
+15	a	a	_	DT	_	16	NMOD	269250	_
+16	piece	piece	_	NN	_	14	OBJ	269250	_
+17	of	of	_	IN	_	16	NMOD	269250	_
+18	metal	metal	_	NN	_	17	PMOD	269250	_
+19	with	with	_	IN	_	16	NMOD	_	14
+20	a	a	_	DT	_	21	NMOD	269248	_
+21	hammer	hammer	_	NN	_	19	PMOD	269248	_
+22	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,15 @@
+1	Many	many	_	DT	_	2	NMOD	101140	_
+2	people	people	_	NN	_	3	SBJ	101140	_
+3	run	run	_	VBP	_	0	ROOT	_	_
+4	down	down	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	101141	_
+6	street	street	_	NN	_	4	PMOD	101141	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	101142	_
+9	marathon	marathon	_	NN	_	10	NMOD	101142	_
+10	race	race	_	NN	_	7	PMOD	101142	_
+11	,	,	_	,	_	3	P	_	_
+12	as	as	_	IN	_	3	ADV	_	_
+13	onlookers	onlooker	_	NNS	_	14	SBJ	101148	_
+14	watch	watch	_	VBP	_	12	SUB	_	_
+15	.	.	_	.	_	3	P	_	_

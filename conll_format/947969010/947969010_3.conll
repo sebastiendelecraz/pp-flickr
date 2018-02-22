@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	283929	_
+2	brown	brown	_	JJ	_	3	NMOD	283929	_
+3	dog	dog	_	NN	_	4	SBJ	283929	_
+4	climbing	climb	_	VBG	_	0	ROOT	_	_
+5	out of	out of	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	283930	_
+7	pool	pool	_	NN	_	5	PMOD	283930	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	283931	_
+10	stick	stick	_	NN	_	8	PMOD	283931	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	his	his	_	PRP$	_	13	NMOD	283932	_
+13	mouth	mouth	_	NN	_	11	PMOD	283932	_
+14	.	.	_	.	_	0	ROOT	_	_

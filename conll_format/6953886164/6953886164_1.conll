@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	262358	_
+2	man	man	_	NN	_	0	ROOT	262358	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	262360	_
+5	wetsuit	wetsuit	_	CD	_	6	NMOD	262360	_
+6	surfing	surfing	_	NN	_	3	PMOD	_	_
+7	in the middle of	in the middle of	_	IN	_	2	NMOD	262361	6
+8	a	a	_	DT	_	9	NMOD	262361	_
+9	wave	wave	_	NN	_	7	PMOD	262361	_
+10	.	.	_	.	_	0	ROOT	_	_

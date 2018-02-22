@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	212871	_
+2	young	young	_	JJ	_	3	NMOD	212871	_
+3	man	man	_	NN	_	4	SBJ	212871	_
+4	sits	sit	_	VBZ	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	212874	_
+7	bench	bench	_	NN	_	5	PMOD	212874	_
+8	in	in	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	11	NMOD	212878	_
+10	downtown	downtown	_	JJ	_	11	NMOD	212878	_
+11	setting	setting	_	NN	_	8	PMOD	_	_
+12	.	.	_	.	_	4	P	_	_

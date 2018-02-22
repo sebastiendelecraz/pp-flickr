@@ -1,0 +1,9 @@
+1	Two	Two	_	CD	_	2	NMOD	109340	_
+2	ladies	lady	_	NNS	_	0	ROOT	109340	_
+3	at	at	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	109344	_
+5	store	store	_	NN	_	6	NMOD	109344	_
+6	shopping	shopping	_	NN	_	3	PMOD	_	_
+7	for	for	_	IN	_	6	NMOD	_	6
+8	hosiery	hosiery	_	NN	_	7	PMOD	109347	_
+9	.	.	_	.	_	0	ROOT	_	_

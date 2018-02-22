@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	189849	_
+2	man	man	_	NN	_	3	SBJ	189849	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	crouching	crouch	_	VBG	_	3	VC	_	_
+5	down	down	_	RP	_	4	PRT	_	_
+6	next to	next to	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	189851	_
+8	collection	collection	_	NN	_	6	PMOD	189851	_
+9	of	of	_	IN	_	8	NMOD	189851	_
+10	shaped	shape	_	VBN	_	11	NMOD	189851	_
+11	rocks	rock	_	NNS	_	9	PMOD	189851	_
+12	.	.	_	.	_	3	P	_	_

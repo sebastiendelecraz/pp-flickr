@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	1798	_
+2	child	child	_	NN	_	9	SBJ	1798	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	1801	_
+5	helmet	helmet	_	NN	_	3	PMOD	1801	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	his	his	_	PRP$	_	8	NMOD	1805	_
+8	head	head	_	NN	_	6	PMOD	1805	_
+9	rides	ride	_	VBZ	_	0	ROOT	_	_
+10	a	a	_	DT	_	11	NMOD	1800	_
+11	bike	bike	_	NN	_	9	OBJ	1800	_
+12	.	.	_	.	_	9	P	_	_

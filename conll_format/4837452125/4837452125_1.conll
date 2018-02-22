@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	209265	_
+2	woman	woman	_	NN	_	3	SBJ	209265	_
+3	holding	hold	_	VBG	_	6	SBJ	_	_
+4	a	a	_	DT	_	5	NMOD	209267	_
+5	saxophone	saxophone	_	NN	_	3	OBJ	209267	_
+6	looks	look	_	VBZ	_	0	ROOT	_	_
+7	away from	away from	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	209266	_
+9	building	building	_	NN	_	7	PMOD	209266	_
+10	on	on	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	13	NMOD	209269	_
+12	bright	bright	_	JJ	_	13	NMOD	209269	_
+13	day	day	_	NN	_	10	PMOD	209269	_
+14	.	.	_	.	_	6	P	_	_

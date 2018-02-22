@@ -1,0 +1,26 @@
+1	A	a	_	DT	_	3	NMOD	222457	_
+2	long	long	_	JJ	_	3	NMOD	222457	_
+3	line	line	_	NN	_	6	SBJ	222457	_
+4	of	of	_	IN	_	3	NMOD	222457	_
+5	children	child	_	NNS	_	4	PMOD	222457	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	walking	walk	_	VBG	_	6	VC	_	_
+8	along	along	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	11	NMOD	222458	_
+10	dirt	dirt	_	NN	_	11	NMOD	222458	_
+11	path	path	_	NN	_	8	PMOD	222458	_
+12	in front of	in front of	_	IN	_	7	ADV	_	7
+13	a	a	_	DT	_	14	NMOD	222460	_
+14	building	building	_	NN	_	12	PMOD	222460	_
+15	as	as	_	IN	_	7	TMP	_	_
+16	adults	adult	_	NNS	_	17	SBJ	222459	_
+17	are	be	_	VBP	_	15	SUB	_	_
+18	sporadically	sporadically	_	RB	_	17	ADV	_	_
+19	placed	place	_	VBN	_	17	VC	_	_
+20	along	along	_	IN	_	19	ADV	_	19
+21	the	the	_	DT	_	22	NMOD	222463	_
+22	path	path	_	NN	_	20	PMOD	222463	_
+23	to	to	_	TO	_	19	PRP	_	_
+24	watch	watch	_	VB	_	23	IM	_	_
+25	them	them	_	PRP	_	24	OBJ	0	_
+26	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	SBJ	61213	_
+2	run	run	_	VBP	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	61209	_
+4	marathon	marathon	_	NN	_	2	OBJ	61209	_
+5	for	for	_	IN	_	4	NMOD	_	2
+6	the	the	_	DT	_	7	NMOD	61212	_
+7	Race	Race	_	NNP	_	5	PMOD	61212	_
+8	for	for	_	IN	_	4	NMOD	_	7
+9	the	the	_	DT	_	11	NMOD	61216	_
+10	Cure	Cure	_	NNP	_	11	NMOD	61216	_
+11	foundation	foundation	_	NN	_	8	PMOD	61216	_
+12	.	.	_	.	_	2	P	_	_

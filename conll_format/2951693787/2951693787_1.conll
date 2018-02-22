@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	83600	_
+2	man	man	_	NN	_	8	SBJ	83600	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	glasses	glass	_	NNS	_	3	PMOD	83601	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	a	a	_	DT	_	7	NMOD	83602	_
+7	beard	beard	_	NN	_	5	CONJ	83602	_
+8	sits	sit	_	VBZ	_	0	ROOT	_	_
+9	next to	next to	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	83603	_
+11	girl	girl	_	NN	_	9	PMOD	83603	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	a	a	_	DT	_	15	NMOD	83604	_
+14	pink	pink	_	NN	_	15	NMOD	83604	_
+15	sweater	sweater	_	NN	_	12	PMOD	83604	_
+16	with	with	_	IN	_	8	ADV	_	_
+17	three	three	_	CD	_	18	NMOD	83605	_
+18	children	child	_	NNS	_	16	PMOD	83605	_
+19	in front of	in front of	_	IN	_	8	ADV	_	_
+20	them	them	_	PRP	_	19	PMOD	0	_
+21	.	.	_	.	_	8	P	_	_

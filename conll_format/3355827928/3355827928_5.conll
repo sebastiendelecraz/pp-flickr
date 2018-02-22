@@ -1,0 +1,8 @@
+1	A	a	_	DT	_	2	NMOD	112253	_
+2	man	man	_	NN	_	0	ROOT	112253	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	112254	_
+5	bike	bike	_	NN	_	3	PMOD	112254	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	midair	midair	_	NN	_	6	PMOD	112255	_
+8	.	.	_	.	_	0	ROOT	_	_

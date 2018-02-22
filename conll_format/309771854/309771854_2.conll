@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	DEP	93382	_
+2	black-robed	black-robed	_	CD	_	4	NMOD	93382	_
+3	young	young	_	JJ	_	4	NMOD	93382	_
+4	men	man	_	NNS	_	5	SBJ	93382	_
+5	stand	stand	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	93384	_
+8	steps	step	_	NNS	_	6	PMOD	93384	_
+9	in front of	in front of	_	IN	_	8	NMOD	_	5
+10	a	a	_	DT	_	11	NMOD	93383	_
+11	building	building	_	NN	_	9	PMOD	93383	_
+12	.	.	_	.	_	5	P	_	_

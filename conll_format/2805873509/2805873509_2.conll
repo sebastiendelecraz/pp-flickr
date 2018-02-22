@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	73942	_
+2	hiker	hiker	_	NN	_	3	SBJ	73942	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	by	by	_	IN	_	4	MNR	_	4
+6	a	a	_	DT	_	7	NMOD	73944	_
+7	mound	mound	_	NN	_	5	PMOD	73944	_
+8	of	of	_	IN	_	7	NMOD	73944	_
+9	rocks	rock	_	NNS	_	8	PMOD	73944	_
+10	on	on	_	IN	_	7	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	73946	_
+12	path	path	_	NN	_	10	PMOD	73946	_
+13	.	.	_	.	_	3	P	_	_

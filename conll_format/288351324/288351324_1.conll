@@ -1,0 +1,26 @@
+1	A	a	_	DT	_	2	NMOD	78852	_
+2	woman	woman	_	NN	_	3	SBJ	78852	_
+3	smiles	smile	_	VBZ	_	23	SBJ	_	_
+4	tightly	tightly	_	RB	_	5	PMOD	_	_
+5	at	at	_	IN	_	3	ADV	_	3
+6	a	a	_	DT	_	7	NMOD	78856	_
+7	camera	camera	_	NN	_	5	PMOD	78856	_
+8	as	as	_	IN	_	3	ADV	_	_
+9	another	another	_	DT	_	11	NMOD	78852	_
+10	woman	woman	_	NN	_	11	NMOD	78852	_
+11	gestures	gesture	_	NNS	_	8	PMOD	_	_
+12	to the right of	to the right of	_	IN	_	3	ADV	0	_
+13	her	her	_	PRP$	_	14	NMOD	0	_
+14	for	for	_	IN	_	12	PMOD	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	camera	camera	_	NN	_	14	PMOD	0	_
+17	as	as	_	IN	_	3	ADV	_	_
+18	a	a	_	DT	_	20	NMOD	78854	_
+19	large	large	_	JJ	_	20	NMOD	78854	_
+20	group	group	_	NN	_	17	PMOD	78854	_
+21	of	of	_	IN	_	20	NMOD	78854	_
+22	people	people	_	NN	_	21	PMOD	78854	_
+23	mingle	mingle	_	VBP	_	0	ROOT	_	_
+24	behind	behind	_	IN	_	23	LOC	_	_
+25	them	them	_	PRP	_	24	PMOD	0	_
+26	.	.	_	.	_	23	P	_	_

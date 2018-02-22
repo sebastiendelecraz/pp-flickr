@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	93376	_
+2	greyhounds	greyhound	_	NNS	_	5	SBJ	93376	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	muzzles	muzzle	_	NNS	_	3	PMOD	93378	_
+5	race	race	_	VBP	_	0	ROOT	93378	_
+6	along	along	_	IN	_	5	LOC	_	5
+7	the	the	_	DT	_	9	NMOD	93381	_
+8	inside	inside	_	JJ	_	9	NMOD	93381	_
+9	curb	curb	_	NN	_	6	PMOD	93381	_
+10	of	of	_	IN	_	9	NMOD	93381	_
+11	a	a	_	DT	_	14	NMOD	93381	_
+12	railed	rail	_	VBN	_	14	NMOD	93381	_
+13	dirt	dirt	_	NN	_	14	NMOD	93381	_
+14	track	track	_	NN	_	10	PMOD	93381	_
+15	.	.	_	.	_	5	P	_	_

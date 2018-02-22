@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	71070	_
+2	dog	dog	_	NN	_	0	ROOT	71070	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	71071	_
+5	leash	leash	_	NN	_	3	PMOD	71071	_
+6	near	near	_	IN	_	5	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	71072	_
+8	tree	tree	_	NN	_	6	PMOD	71072	_
+9	.	.	_	.	_	0	ROOT	_	_

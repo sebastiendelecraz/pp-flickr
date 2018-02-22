@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	214176	_
+2	men	man	_	NNS	_	8	SBJ	214176	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	214182	_
+5	village	village	_	NN	_	3	PMOD	214182	_
+6	in	in	_	IN	_	5	LOC	_	2
+7	India	India	_	NNP	_	6	PMOD	214179	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	playing	play	_	VBG	_	8	VC	_	_
+10	stick	stick	_	NN	_	11	NMOD	214177	_
+11	ball	ball	_	NN	_	9	OBJ	214177	_
+12	.	.	_	.	_	8	P	_	_

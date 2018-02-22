@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	260498	_
+2	girls	girl	_	NNS	_	0	ROOT	260498	_
+3	kissing	kiss	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	260497	_
+5	man	man	_	NN	_	3	OBJ	260497	_
+6	with	with	_	IN	_	5	NMOD	_	5
+7	a	a	_	DT	_	9	NMOD	260501	_
+8	black	black	_	JJ	_	9	NMOD	260501	_
+9	shirt	shirt	_	NN	_	6	PMOD	260501	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	brown	brown	_	JJ	_	12	NMOD	260500	_
+12	hair	hair	_	NN	_	10	CONJ	260500	_
+13	on	on	_	IN	_	5	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	260499	_
+15	cheeks	cheek	_	NNS	_	13	PMOD	260499	_
+16	.	.	_	.	_	0	ROOT	_	_

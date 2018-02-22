@@ -1,0 +1,20 @@
+1	One	One	_	CD	_	3	NMOD	111416	_
+2	basketball	basketball	_	NN	_	3	NMOD	111416	_
+3	player	player	_	NN	_	8	SBJ	111416	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	111425	_
+6	white	white	_	JJ	_	7	NMOD	111425	_
+7	uniform	uniform	_	NN	_	4	PMOD	111425	_
+8	jumps	jump	_	VBZ	_	0	ROOT	_	_
+9	up to	up to	_	IN	_	8	ADV	_	8
+10	block	block	_	NN	_	12	NMOD	_	_
+11	another	another	_	DT	_	12	NMOD	111416	_
+12	player	player	_	NN	_	9	PMOD	111416	_
+13	in	in	_	IN	_	12	LOC	_	12
+14	a	a	_	DT	_	16	NMOD	111419	_
+15	blue	blue	_	JJ	_	16	NMOD	111419	_
+16	uniform	uniform	_	NN	_	13	PMOD	111419	_
+17	with	with	_	IN	_	16	NMOD	_	_
+18	the	the	_	DT	_	19	NMOD	111426	_
+19	ball	ball	_	NN	_	17	PMOD	111426	_
+20	.	.	_	.	_	8	P	_	_

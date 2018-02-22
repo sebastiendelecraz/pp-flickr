@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	177881	_
+2	hispanic	hispanic	_	JJ	_	3	NMOD	177881	_
+3	man	man	_	NN	_	0	ROOT	177881	_
+4	under	under	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	177882	_
+6	picture	picture	_	NN	_	4	PMOD	177882	_
+7	of	of	_	IN	_	6	NMOD	177882	_
+8	a	a	_	DT	_	9	NMOD	177882	_
+9	man	man	_	NN	_	7	PMOD	177882	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	uniform	uniform	_	NN	_	10	PMOD	177884	_
+12	.	.	_	.	_	0	ROOT	_	_

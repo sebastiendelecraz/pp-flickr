@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	2	NMOD	280902	_
+2	dog	dog	_	NN	_	10	SBJ	280902	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	280903	_
+5	Frisbee	Frisbee	_	NNP	_	3	PMOD	280903	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	its	its	_	PRP$	_	8	NMOD	280906	_
+8	mouth	mouth	_	NN	_	6	PMOD	280906	_
+9	,	,	_	,	_	2	P	_	_
+10	jumps	jump	_	VBZ	_	0	ROOT	_	_
+11	over	over	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	280904	_
+13	man	man	_	NN	_	11	PMOD	280904	_
+14	.	.	_	.	_	10	P	_	_

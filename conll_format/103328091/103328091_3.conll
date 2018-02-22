@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	952	_
+2	man	man	_	NN	_	7	SBJ	952	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	954	_
+5	red	red	_	JJ	_	6	NMOD	954	_
+6	shirt	shirt	_	NN	_	3	PMOD	954	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	sitting	sit	_	VBG	_	7	VC	_	_
+9	by	by	_	IN	_	8	MNR	_	_
+10	fruit	fruit	_	NN	_	9	PMOD	955	_
+11	for	for	_	IN	_	10	NMOD	_	10
+12	sale	sale	_	NN	_	11	PMOD	956	_
+13	.	.	_	.	_	7	P	_	_

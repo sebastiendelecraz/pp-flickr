@@ -1,0 +1,10 @@
+1	football	football	_	NN	_	2	NMOD	115215	_
+2	player	player	_	NN	_	3	SBJ	115215	_
+3	leaping	leap	_	VBG	_	0	ROOT	_	_
+4	over	over	_	IN	_	3	DIR	_	3
+5	another	another	_	DT	_	6	NMOD	115216	_
+6	player	player	_	NN	_	4	PMOD	115216	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	9	NMOD	0	_
+9	ground	ground	_	NN	_	7	PMOD	0	_
+10	.	.	_	.	_	0	ROOT	_	_

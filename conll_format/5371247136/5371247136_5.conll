@@ -1,0 +1,13 @@
+1	One	One	_	CD	_	2	NMOD	234762	_
+2	woman	woman	_	NN	_	6	SBJ	234762	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	two	two	_	CD	_	5	NMOD	234769	_
+5	kids	kid	_	NNS	_	3	CONJ	234769	_
+6	looking	look	_	VBG	_	0	ROOT	_	_
+7	out of	out of	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	234766	_
+9	telescope	telescope	_	NN	_	7	PMOD	234766	_
+10	on	on	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	12	NMOD	234763	_
+12	boat	boat	_	NN	_	10	PMOD	234763	_
+13	.	.	_	.	_	0	ROOT	_	_

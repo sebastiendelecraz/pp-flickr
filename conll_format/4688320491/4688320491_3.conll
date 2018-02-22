@@ -1,0 +1,16 @@
+1	Five	Five	_	CD	_	2	NMOD	191008	_
+2	people	people	_	NN	_	5	SBJ	191008	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	lanyards	lanyard	_	NNS	_	3	OBJ	191016	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	sitting	sit	_	VBG	_	5	VC	_	_
+7	in front of	in front of	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	12	NMOD	191010	_
+9	green	green	_	JJ	_	12	NMOD	191010	_
+10	and	and	_	CC	_	9	COORD	191010	_
+11	white	white	_	JJ	_	10	CONJ	191010	_
+12	wheel	wheel	_	NN	_	7	PMOD	191010	_
+13	inside	inside	_	IN	_	6	LOC	_	6
+14	a	a	_	DT	_	15	NMOD	191011	_
+15	room	room	_	NN	_	13	PMOD	191011	_
+16	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	123002	_
+2	man	man	_	NN	_	3	SBJ	123002	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	over	over	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	123003	_
+6	bridge	bridge	_	NN	_	4	PMOD	123003	_
+7	with	with	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	9	NMOD	123000	_
+9	child	child	_	NN	_	7	PMOD	123000	_
+10	on	on	_	IN	_	3	ADV	_	_
+11	his	his	_	PRP$	_	12	NMOD	123007	_
+12	shoulders	shoulder	_	NNS	_	10	PMOD	123007	_
+13	.	.	_	.	_	0	ROOT	_	_

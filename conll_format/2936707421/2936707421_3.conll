@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	82546	_
+2	child	child	_	NN	_	3	NMOD	82546	_
+3	soccer	soccer	_	NN	_	4	NMOD	82546	_
+4	player	player	_	NN	_	5	SBJ	82546	_
+5	runs	run	_	VBZ	_	0	ROOT	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	82547	_
+8	ball	ball	_	NN	_	6	PMOD	82547	_
+9	near	near	_	IN	_	8	LOC	_	5
+10	the	the	_	DT	_	11	NMOD	82548	_
+11	goal	goal	_	NN	_	9	PMOD	82548	_
+12	.	.	_	.	_	5	P	_	_

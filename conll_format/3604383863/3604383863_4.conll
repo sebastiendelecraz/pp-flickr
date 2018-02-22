@@ -1,0 +1,12 @@
+1	an	an	_	DT	_	3	NMOD	130904	_
+2	excited	excite	_	VBN	_	3	NMOD	130904	_
+3	couple	couple	_	NN	_	0	ROOT	130904	_
+4	reaching	reach	_	VBG	_	3	APPO	_	_
+5	for	for	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	9	NMOD	130901	_
+7	large	large	_	JJ	_	9	NMOD	130901	_
+8	black	black	_	JJ	_	9	NMOD	130901	_
+9	set	set	_	NN	_	5	PMOD	130901	_
+10	of	of	_	IN	_	9	NMOD	130901	_
+11	earphones	earphone	_	NNS	_	10	PMOD	130901	_
+12	.	.	_	.	_	0	ROOT	_	_

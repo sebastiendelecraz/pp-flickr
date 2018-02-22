@@ -1,0 +1,15 @@
+1	Several	several	_	DT	_	2	NMOD	41841	_
+2	people	people	_	NN	_	11	SBJ	41841	_
+3	,	,	_	,	_	11	P	_	_
+4	of	of	_	IN	_	11	ADV	_	_
+5	various	various	_	JJ	_	6	NMOD	41849	_
+6	ages	age	_	NNS	_	4	PMOD	41849	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	clothing	clothing	_	NN	_	9	NMOD	41842	_
+9	styles	style	_	NNS	_	7	CONJ	41842	_
+10	,	,	_	,	_	11	P	_	_
+11	stand	stand	_	VBP	_	0	ROOT	_	_
+12	near	near	_	IN	_	11	LOC	_	11
+13	a	a	_	DT	_	14	NMOD	41843	_
+14	sidewalk	sidewalk	_	NN	_	12	PMOD	41843	_
+15	.	.	_	.	_	11	P	_	_

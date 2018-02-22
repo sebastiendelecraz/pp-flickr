@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	96457	_
+2	group	group	_	NN	_	0	ROOT	96457	_
+3	of	of	_	IN	_	2	NMOD	96457	_
+4	people	people	_	NN	_	3	PMOD	96457	_
+5	at	at	_	IN	_	4	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	96458	_
+7	beach	beach	_	NN	_	5	PMOD	96458	_
+8	jumping	jump	_	VBG	_	7	APPO	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	air	air	_	NN	_	9	PMOD	0	_
+12	simultaneously	simultaneously	_	RB	_	8	TMP	_	_
+13	for	for	_	IN	_	8	TMP	_	8
+14	the	the	_	DT	_	15	NMOD	0	_
+15	camera	camera	_	NN	_	13	PMOD	0	_
+16	.	.	_	.	_	0	ROOT	_	_

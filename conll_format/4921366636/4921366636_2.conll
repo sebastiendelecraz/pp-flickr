@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	218536	_
+2	McDonald	McDonald	_	NNP	_	5	NMOD	218536	_
+3	'	'	_	POS	_	2	SUFFIX	218536	_
+4	s	s	_	NN	_	5	NMOD	218536	_
+5	sign	sign	_	NN	_	0	ROOT	218536	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	0	_
+8	distance	distance	_	NN	_	6	PMOD	0	_
+9	beyond	beyond	_	IN	_	5	NMOD	_	5
+10	a	a	_	DT	_	11	NMOD	218530	_
+11	pair	pair	_	NN	_	9	PMOD	218530	_
+12	of	of	_	IN	_	11	NMOD	218530	_
+13	people	people	_	NN	_	12	PMOD	218530	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	colored	colored	_	JJ	_	16	NMOD	218535	_
+16	umbrellas	umbrella	_	NNS	_	14	PMOD	218535	_
+17	.	.	_	.	_	0	ROOT	_	_

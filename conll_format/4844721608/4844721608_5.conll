@@ -1,0 +1,12 @@
+1	Many	many	_	DT	_	2	NMOD	209883	_
+2	people	people	_	NN	_	3	SBJ	209883	_
+3	walk	walk	_	VBP	_	0	ROOT	_	_
+4	along	along	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	209888	_
+6	sidewalk	sidewalk	_	NN	_	4	PMOD	209888	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	11	NMOD	209884	_
+9	red	red	_	JJ	_	11	NMOD	209884	_
+10	metal	metal	_	NN	_	11	NMOD	209884	_
+11	item	item	_	NN	_	7	PMOD	209884	_
+12	.	.	_	.	_	3	P	_	_

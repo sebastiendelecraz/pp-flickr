@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	91117	_
+2	smiling	smile	_	VBG	_	3	NMOD	91117	_
+3	man	man	_	NN	_	4	SBJ	91117	_
+4	leaning	lean	_	VBG	_	0	ROOT	_	_
+5	back	back	_	RB	_	4	DIR	_	_
+6	from	from	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	91118	_
+8	table	table	_	NN	_	6	PMOD	91118	_
+9	with	with	_	IN	_	4	ADV	_	_
+10	an	an	_	DT	_	11	NMOD	91119	_
+11	ashtray	ashtray	_	NN	_	9	PMOD	91119	_
+12	on	on	_	IN	_	11	NMOD	_	_
+13	top	top	_	JJ	_	12	PMOD	91122	_
+14	.	.	_	.	_	0	ROOT	_	_

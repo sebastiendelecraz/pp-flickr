@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	135188	_
+2	blond	blond	_	JJ	_	3	NMOD	135188	_
+3	girl	girl	_	NN	_	6	SBJ	135188	_
+4	in	in	_	IN	_	6	ADV	_	_
+5	white	white	_	JJ	_	4	PMOD	135194	_
+6	has	have	_	VBZ	_	0	ROOT	_	_
+7	her	her	_	PRP$	_	8	NMOD	135196	_
+8	arms	arm	_	NNS	_	6	OBJ	135196	_
+9	around	around	_	IN	_	6	LOC	_	6
+10	a	a	_	DT	_	11	NMOD	135189	_
+11	girl	girl	_	NN	_	9	PMOD	135189	_
+12	in	in	_	IN	_	6	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	135190	_
+14	helmet	helmet	_	NN	_	12	PMOD	135190	_
+15	.	.	_	.	_	6	P	_	_

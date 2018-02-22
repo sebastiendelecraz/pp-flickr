@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	232561	_
+2	long	long	_	JJ	_	4	NMOD	232561	_
+3	blond-haired	blond-haired	_	JJ	_	4	NMOD	232561	_
+4	dancer	dancer	_	NN	_	0	ROOT	232561	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	exotic	exotic	_	JJ	_	8	NMOD	232562	_
+7	costume	costume	_	NN	_	8	NMOD	232562	_
+8	leaps	leap	_	NNS	_	5	PMOD	_	_
+9	through	through	_	IN	_	4	TMP	_	8
+10	the	the	_	DT	_	11	NMOD	0	_
+11	air	air	_	NN	_	9	PMOD	0	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	Man	Man	_	NNP	_	2	SBJ	49851	_
+2	cutting	cut	_	VBG	_	0	ROOT	_	_
+3	into	into	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	49852	_
+5	piece	piece	_	NN	_	3	PMOD	49852	_
+6	of	of	_	IN	_	5	NMOD	49852	_
+7	meat	meat	_	NN	_	6	PMOD	49852	_
+8	with	with	_	IN	_	5	NMOD	_	2
+9	a	a	_	DT	_	10	NMOD	49856	_
+10	fork	fork	_	NN	_	8	PMOD	49856	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	knife	knife	_	NN	_	11	CONJ	49855	_
+13	.	.	_	.	_	0	ROOT	_	_

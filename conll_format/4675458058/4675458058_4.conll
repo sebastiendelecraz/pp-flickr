@@ -1,0 +1,9 @@
+1	This	this	_	DT	_	2	SBJ	0	_
+2	looks	look	_	VBZ	_	0	ROOT	_	_
+3	like	like	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	189347	_
+5	city	city	_	NN	_	6	NMOD	189347	_
+6	street	street	_	NN	_	3	PMOD	189347	_
+7	in	in	_	IN	_	6	LOC	_	2
+8	Japan	Japan	_	NNP	_	7	PMOD	189349	_
+9	.	.	_	.	_	2	P	_	_

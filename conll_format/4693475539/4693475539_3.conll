@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	191794	_
+2	man	man	_	NN	_	7	SBJ	191794	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	191796	_
+5	black	black	_	JJ	_	6	NMOD	191796	_
+6	dress	dress	_	NN	_	3	PMOD	191796	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	walking	walk	_	VBG	_	7	VC	_	_
+9	near	near	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	191795	_
+11	poster	poster	_	NN	_	9	PMOD	191795	_
+12	in	in	_	IN	_	8	TMP	_	_
+13	a	a	_	DT	_	14	NMOD	191797	_
+14	platform	platform	_	NN	_	12	PMOD	191797	_
+15	.	.	_	.	_	7	P	_	_

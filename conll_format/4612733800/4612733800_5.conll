@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	182709	_
+2	man	man	_	NN	_	0	ROOT	182709	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	182718	_
+5	broom	broom	_	NN	_	3	PMOD	182718	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	a	a	_	DT	_	9	NMOD	182714	_
+8	smoky	smoky	_	JJ	_	9	NMOD	182714	_
+9	road	road	_	NN	_	6	PMOD	182714	_
+10	.	.	_	.	_	0	ROOT	_	_

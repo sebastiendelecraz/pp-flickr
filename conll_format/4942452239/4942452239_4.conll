@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	2	NMOD	221381	_
+2	men	man	_	NNS	_	5	SBJ	221381	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	overalls	overall	_	NNS	_	3	PMOD	221384	_
+5	walk	walk	_	VBP	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	9	NMOD	221382	_
+8	crowded	crowded	_	JJ	_	9	NMOD	221382	_
+9	crosswalk	crosswalk	_	NN	_	6	PMOD	221382	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	busy	busy	_	JJ	_	12	NMOD	221383	_
+12	street	street	_	NN	_	10	PMOD	221383	_
+13	.	.	_	.	_	5	P	_	_

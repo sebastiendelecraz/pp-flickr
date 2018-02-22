@@ -1,0 +1,26 @@
+1	Two	Two	_	CD	_	3	NMOD	275490	_
+2	young	young	_	JJ	_	3	NMOD	275490	_
+3	ladies	lady	_	NNS	_	7	SBJ	275490	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	pink	pink	_	NN	_	6	NMOD	275499	_
+6	items	item	_	NNS	_	4	OBJ	275499	_
+7	look	look	_	VBP	_	0	ROOT	_	_
+8	to	to	_	TO	_	7	OPRD	_	_
+9	be	be	_	VB	_	8	IM	_	_
+10	in the middle of	in the middle of	_	IN	_	9	PRD	275502	9
+11	some	some	_	DT	_	12	NMOD	275502	_
+12	sort	sort	_	NN	_	10	PMOD	275502	_
+13	of	of	_	IN	_	12	NMOD	275502	_
+14	choreography	choreography	_	NN	_	13	PMOD	275502	_
+15	and	and	_	CC	_	7	COORD	_	_
+16	are	be	_	VBP	_	15	CONJ	_	_
+17	pointing	point	_	VBG	_	16	VC	_	_
+18	at	at	_	IN	_	17	ADV	_	_
+19	someone	someone	_	NN	_	18	PMOD	275494	_
+20	to	to	_	TO	_	19	NMOD	_	_
+21	the	the	_	DT	_	22	NMOD	275503	_
+22	side	side	_	NN	_	20	PMOD	275503	_
+23	of	of	_	IN	_	22	NMOD	275503	_
+24	the	the	_	DT	_	25	NMOD	275503	_
+25	picture	picture	_	NN	_	23	PMOD	275503	_
+26	.	.	_	.	_	7	P	_	_

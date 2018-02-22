@@ -1,0 +1,14 @@
+1	Six	Six	_	NNP	_	2	NMOD	144125	_
+2	monks	monk	_	NNS	_	7	SBJ	144125	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	bright	bright	_	JJ	_	6	NMOD	144127	_
+5	orange	orange	_	JJ	_	6	NMOD	144127	_
+6	robes	robe	_	NNS	_	3	PMOD	144127	_
+7	walk	walk	_	VBP	_	0	ROOT	_	_
+8	through	through	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	144131	_
+10	park	park	_	NN	_	8	PMOD	144131	_
+11	next to	next to	_	IN	_	7	TMP	_	7
+12	a	a	_	DT	_	13	NMOD	144126	_
+13	lake	lake	_	NN	_	11	PMOD	144126	_
+14	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	132181	_
+2	person	person	_	NN	_	3	SBJ	132181	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC-PRD	_	_
+5	the	the	_	DT	_	6	NMOD	0	_
+6	air	air	_	NN	_	4	PMOD	0	_
+7	on	on	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	132182	_
+9	bike	bike	_	NN	_	7	PMOD	132182	_
+10	near	near	_	IN	_	9	LOC	_	3
+11	a	a	_	DT	_	12	NMOD	132183	_
+12	body	body	_	NN	_	10	PMOD	132183	_
+13	of	of	_	IN	_	12	NMOD	132183	_
+14	water	water	_	NN	_	13	PMOD	132183	_
+15	.	.	_	.	_	3	P	_	_

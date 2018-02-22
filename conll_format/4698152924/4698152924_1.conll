@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	192485	_
+2	man	man	_	NN	_	0	ROOT	192485	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	192486	_
+5	white	white	_	JJ	_	6	NMOD	192486	_
+6	shirt	shirt	_	NN	_	3	PMOD	192486	_
+7	with	with	_	IN	_	6	NMOD	_	2
+8	a	a	_	DT	_	9	NMOD	192487	_
+9	helmet	helmet	_	NN	_	7	PMOD	192487	_
+10	riding	ride	_	VBG	_	9	APPO	_	_
+11	his	his	_	PRP$	_	13	NMOD	192484	_
+12	big	big	_	JJ	_	13	NMOD	192484	_
+13	motorbike	motorbike	_	NN	_	10	OBJ	192484	_
+14	next to	next to	_	IN	_	10	ADV	_	10
+15	a	a	_	DT	_	18	NMOD	192474	_
+16	pink	pink	_	NN	_	18	NMOD	192474	_
+17	old	old	_	JJ	_	18	NMOD	192474	_
+18	car	car	_	NN	_	14	PMOD	192474	_
+19	.	.	_	.	_	0	ROOT	_	_

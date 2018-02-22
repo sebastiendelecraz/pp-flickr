@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	2	NMOD	245649	_
+2	man	man	_	NN	_	9	NMOD	245649	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	245650	_
+5	broom	broom	_	NN	_	3	PMOD	245650	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	hand	hand	_	NN	_	6	PMOD	245657	_
+8	,	,	_	,	_	2	P	_	_
+9	safety	safety	_	NN	_	10	SBJ	245654	_
+10	vest	vest	_	VBD	_	0	ROOT	245654	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	hard	hard	_	JJ	_	13	NMOD	245652	_
+13	hat	hat	_	NN	_	11	CONJ	245652	_
+14	on	on	_	IN	_	10	ADV	_	_
+15	as well as	as well as	_	IN	_	14	PMOD	_	_
+16	a	a	_	DT	_	18	NMOD	245651	_
+17	face	face	_	NN	_	18	NMOD	245651	_
+18	mask	mask	_	NN	_	15	PMOD	245651	_
+19	.	.	_	.	_	10	P	_	_

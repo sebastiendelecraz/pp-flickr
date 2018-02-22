@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	139621	_
+2	men	man	_	NNS	_	3	SBJ	139621	_
+3	work	work	_	VBP	_	0	ROOT	_	_
+4	under	under	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	139623	_
+6	hood	hood	_	NN	_	4	PMOD	139623	_
+7	of	of	_	IN	_	6	NMOD	139623	_
+8	a	a	_	DT	_	11	NMOD	139623	_
+9	white	white	_	JJ	_	11	NMOD	139623	_
+10	race	race	_	NN	_	11	NMOD	139623	_
+11	car	car	_	NN	_	7	PMOD	139623	_
+12	.	.	_	.	_	3	P	_	_

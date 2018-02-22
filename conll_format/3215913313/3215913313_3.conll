@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	101784	_
+2	security	security	_	NN	_	3	NMOD	101784	_
+3	guard	guard	_	NN	_	4	SBJ	101784	_
+4	standing	stand	_	VBG	_	0	ROOT	_	_
+5	next to	next to	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	101787	_
+7	sculpture	sculpture	_	NN	_	5	PMOD	101787	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	101790	_
+10	museum	museum	_	NN	_	8	PMOD	101790	_
+11	.	.	_	.	_	0	ROOT	_	_

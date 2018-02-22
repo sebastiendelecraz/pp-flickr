@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	105369	_
+2	woman	woman	_	NN	_	8	SBJ	105369	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	105370	_
+5	cart	cart	_	NN	_	3	PMOD	105370	_
+6	of	of	_	IN	_	5	NMOD	105370	_
+7	eggs	egg	_	NNS	_	6	PMOD	105370	_
+8	walks	walk	_	VBZ	_	0	ROOT	_	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	105371	_
+11	market	market	_	NN	_	9	PMOD	105371	_
+12	.	.	_	.	_	8	P	_	_

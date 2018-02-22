@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	193595	_
+2	middle	middle	_	NN	_	4	NMOD	193595	_
+3	eastern	eastern	_	JJ	_	4	NMOD	193595	_
+4	woman	woman	_	NN	_	5	SBJ	193595	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	talking	talk	_	VBG	_	5	VC	_	_
+7	into	into	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	193598	_
+9	microphone	microphone	_	NN	_	7	PMOD	193598	_
+10	at	at	_	IN	_	6	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	193601	_
+12	protest	protest	_	NN	_	13	NMOD	193601	_
+13	event	event	_	NN	_	10	PMOD	193601	_
+14	.	.	_	.	_	5	P	_	_

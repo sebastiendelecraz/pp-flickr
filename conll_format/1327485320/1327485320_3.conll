@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	8690	_
+2	woman	woman	_	NN	_	3	SBJ	8690	_
+3	grilling	grill	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	8694	_
+5	variety	variety	_	NN	_	3	OBJ	8694	_
+6	of	of	_	IN	_	5	NMOD	8694	_
+7	different	different	_	JJ	_	8	NMOD	8694	_
+8	kinds	kind	_	NNS	_	6	PMOD	8694	_
+9	of	of	_	IN	_	8	NMOD	8694	_
+10	meats	meat	_	NNS	_	9	PMOD	8694	_
+11	at	at	_	IN	_	5	LOC	_	3
+12	a	a	_	DT	_	13	NMOD	8697	_
+13	cookout	cookout	_	NN	_	11	PMOD	8697	_
+14	.	.	_	.	_	0	ROOT	_	_

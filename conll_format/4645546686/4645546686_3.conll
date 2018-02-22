@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	186182	_
+2	women	woman	_	NNS	_	3	SBJ	186182	_
+3	work	work	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	their	their	_	PRP$	_	7	NMOD	186185	_
+6	rural	rural	_	JJ	_	7	NMOD	186185	_
+7	farm	farm	_	NN	_	4	PMOD	186185	_
+8	near	near	_	IN	_	7	LOC	_	3
+9	the	the	_	DT	_	10	NMOD	186190	_
+10	mountains	mountain	_	NNS	_	8	PMOD	186190	_
+11	while	while	_	IN	_	3	TMP	_	_
+12	their	their	_	PRP$	_	14	NMOD	186187	_
+13	two	two	_	CD	_	14	NMOD	186187	_
+14	dogs	dog	_	NNS	_	15	SBJ	186187	_
+15	watch	watch	_	VBP	_	11	SUB	_	_
+16	nearby	nearby	_	JJ	_	15	PRD	_	_
+17	.	.	_	.	_	3	P	_	_

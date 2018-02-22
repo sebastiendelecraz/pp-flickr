@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	190331	_
+2	men	man	_	NNS	_	3	SBJ	190331	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	walking	walk	_	VBG	_	3	VC	_	_
+5	at	at	_	IN	_	4	ADV	_	_
+6	an	an	_	DT	_	7	NMOD	190332	_
+7	intersection	intersection	_	NN	_	5	PMOD	190332	_
+8	through	through	_	IN	_	4	MNR	_	4
+9	a	a	_	DT	_	10	NMOD	190338	_
+10	market	market	_	NN	_	8	PMOD	190338	_
+11	.	.	_	.	_	3	P	_	_

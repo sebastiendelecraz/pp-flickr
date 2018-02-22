@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	123725	_
+2	tourist	tourist	_	NN	_	3	SBJ	123725	_
+3	waits	wait	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	her	her	_	PRP$	_	6	NMOD	123729	_
+6	order	order	_	NN	_	4	PMOD	123729	_
+7	at	at	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	123727	_
+9	counter	counter	_	NN	_	7	PMOD	123727	_
+10	of	of	_	IN	_	9	NMOD	123727	_
+11	a	a	_	DT	_	13	NMOD	123727	_
+12	local	local	_	JJ	_	13	NMOD	123727	_
+13	cafe	cafe	_	NN	_	10	PMOD	123727	_
+14	.	.	_	.	_	3	P	_	_

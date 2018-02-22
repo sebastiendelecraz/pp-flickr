@@ -1,0 +1,13 @@
+1	Kids	kid	_	NNS	_	5	SBJ	219839	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	colorful	colorful	_	JJ	_	4	NMOD	219841	_
+4	clothing	clothing	_	NN	_	2	PMOD	219841	_
+5	relax	relax	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	219842	_
+8	grass	grass	_	NN	_	6	PMOD	219842	_
+9	under	under	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	12	NMOD	219840	_
+11	multicolored	multicolored	_	JJ	_	12	NMOD	219840	_
+12	umbrella	umbrella	_	NN	_	9	PMOD	219840	_
+13	.	.	_	.	_	5	P	_	_

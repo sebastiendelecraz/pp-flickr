@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	218412	_
+2	woman	woman	_	NN	_	0	ROOT	218412	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	218414	_
+5	busy	busy	_	JJ	_	7	NMOD	218414	_
+6	city	city	_	NN	_	7	NMOD	218414	_
+7	street	street	_	NN	_	3	PMOD	218414	_
+8	under	under	_	IN	_	2	LOC	_	2
+9	an	an	_	DT	_	10	NMOD	218413	_
+10	umbrella	umbrella	_	NN	_	8	PMOD	218413	_
+11	.	.	_	.	_	0	ROOT	_	_

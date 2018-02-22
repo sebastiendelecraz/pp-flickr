@@ -1,0 +1,11 @@
+1	Young	Young	_	NNP	_	2	NMOD	17186	_
+2	woman	woman	_	NN	_	0	ROOT	17186	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	17191	_
+5	city	city	_	NN	_	6	NMOD	17191	_
+6	park	park	_	NN	_	3	PMOD	17191	_
+7	near	near	_	IN	_	6	LOC	_	2
+8	a	a	_	DT	_	10	NMOD	17189	_
+9	water	water	_	NN	_	10	NMOD	17189	_
+10	feature	feature	_	NN	_	7	PMOD	17189	_
+11	.	.	_	.	_	0	ROOT	_	_

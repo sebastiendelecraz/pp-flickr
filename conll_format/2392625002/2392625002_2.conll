@@ -1,0 +1,10 @@
+1	Dog	Dog	_	NNP	_	2	SBJ	46067	_
+2	running	run	_	VBG	_	0	ROOT	_	_
+3	though	though	_	IN	_	2	ADV	_	2
+4	the	the	_	DT	_	5	NMOD	46070	_
+5	snow	snow	_	NN	_	3	PMOD	46070	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	46068	_
+8	green	green	_	JJ	_	9	NMOD	46068	_
+9	cover	cover	_	NN	_	6	PMOD	46068	_
+10	.	.	_	.	_	0	ROOT	_	_

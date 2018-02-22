@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	147809	_
+2	young	young	_	JJ	_	3	NMOD	147809	_
+3	woman	woman	_	NN	_	4	SBJ	147809	_
+4	holds	hold	_	VBZ	_	0	ROOT	_	_
+5	a	a	_	DT	_	6	NMOD	147812	_
+6	beer	beer	_	NN	_	4	OBJ	147812	_
+7	during	during	_	IN	_	4	TMP	_	4
+8	a	a	_	DT	_	9	NMOD	147816	_
+9	party	party	_	NN	_	7	PMOD	147816	_
+10	in	in	_	IN	_	4	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	147811	_
+12	messy	messy	_	JJ	_	13	NMOD	147811	_
+13	bedroom	bedroom	_	NN	_	10	PMOD	147811	_
+14	.	.	_	.	_	4	P	_	_

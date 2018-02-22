@@ -1,0 +1,13 @@
+1	An	an	_	DT	_	3	NMOD	209305	_
+2	old	old	_	JJ	_	3	NMOD	209305	_
+3	man	man	_	NN	_	4	SBJ	209305	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	sitting	sit	_	VBG	_	4	VC	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	209307	_
+8	rock	rock	_	NN	_	6	PMOD	209307	_
+9	in	in	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	11	NMOD	209306	_
+11	courtyard	courtyard	_	NN	_	9	PMOD	209306	_
+12	eating	eat	_	VBG	_	11	APPO	_	_
+13	.	.	_	.	_	4	P	_	_

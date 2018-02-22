@@ -1,0 +1,12 @@
+1	Old	Old	_	NNP	_	2	NMOD	38352	_
+2	man	man	_	NN	_	3	SBJ	38352	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	7	NMOD	38353	_
+6	park	park	_	NN	_	7	NMOD	38353	_
+7	bench	bench	_	NN	_	4	PMOD	38353	_
+8	with	with	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	11	NMOD	38354	_
+10	black	black	_	JJ	_	11	NMOD	38354	_
+11	dog	dog	_	NN	_	8	PMOD	38354	_
+12	.	.	_	.	_	0	ROOT	_	_

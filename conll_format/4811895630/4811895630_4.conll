@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	205665	_
+2	man	man	_	NN	_	3	SBJ	205665	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	205666	_
+6	blue	blue	_	JJ	_	7	NMOD	205666	_
+7	stool	stool	_	NN	_	4	PMOD	205666	_
+8	at	at	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	205673	_
+10	booth	booth	_	NN	_	8	PMOD	205673	_
+11	underneath	underneath	_	IN	_	0	ROOT	_	_
+12	a	a	_	DT	_	13	NMOD	205669	_
+13	banner	banner	_	JJ	_	11	PMOD	205669	_
+14	.	.	_	.	_	0	ROOT	_	_

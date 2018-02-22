@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	177164	_
+2	man	man	_	NN	_	3	SBJ	177164	_
+3	stands	stand	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	177165	_
+6	cardboard	cardboard	_	JJ	_	7	NMOD	177165	_
+7	sign	sign	_	NN	_	4	PMOD	177165	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	a	a	_	DT	_	10	NMOD	177168	_
+10	road	road	_	NN	_	8	PMOD	177168	_
+11	.	.	_	.	_	3	P	_	_

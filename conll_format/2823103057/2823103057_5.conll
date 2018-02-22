@@ -1,0 +1,10 @@
+1	Friends	friend	_	NNS	_	2	SBJ	74911	_
+2	pose	pose	_	VBP	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	74913	_
+5	group	group	_	NN	_	6	NMOD	74913	_
+6	picture	picture	_	NN	_	3	PMOD	74913	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	summer	summer	_	NN	_	9	NMOD	74909	_
+9	clothing	clothing	_	NN	_	7	PMOD	74909	_
+10	.	.	_	.	_	2	P	_	_

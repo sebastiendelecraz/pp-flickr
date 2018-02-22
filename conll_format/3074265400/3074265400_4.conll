@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	91570	_
+2	group	group	_	NN	_	5	SBJ	91570	_
+3	of	of	_	IN	_	2	NMOD	91570	_
+4	people	people	_	NN	_	3	PMOD	91570	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	in front of	in front of	_	IN	_	5	LOC-PRD	_	5
+7	a	a	_	DT	_	8	NMOD	91571	_
+8	building	building	_	NN	_	6	PMOD	91571	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	flags	flag	_	NNS	_	9	PMOD	91573	_
+11	.	.	_	.	_	5	P	_	_

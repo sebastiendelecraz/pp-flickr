@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	16424	_
+2	men	man	_	NNS	_	0	ROOT	16424	_
+3	under	under	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	16423	_
+5	dog	dog	_	NN	_	3	PMOD	16423	_
+6	hanging	hang	_	VBG	_	5	APPO	_	_
+7	by	by	_	IN	_	6	MNR	_	_
+8	its	its	_	PRP$	_	9	NMOD	16426	_
+9	mouth	mouth	_	NN	_	7	PMOD	16426	_
+10	from	from	_	IN	_	9	NMOD	_	6
+11	a	a	_	DT	_	12	NMOD	16425	_
+12	rope	rope	_	NN	_	10	PMOD	16425	_
+13	.	.	_	.	_	0	ROOT	_	_

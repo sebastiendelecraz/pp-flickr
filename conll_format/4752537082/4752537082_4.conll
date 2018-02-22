@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	198774	_
+2	man	man	_	NN	_	0	ROOT	198774	_
+3	using	use	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	198778	_
+5	scaffold	scaffold	_	NN	_	3	OBJ	198778	_
+6	to	to	_	TO	_	3	OPRD	_	_
+7	work	work	_	VB	_	6	IM	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	198775	_
+10	roof	roof	_	NN	_	8	PMOD	198775	_
+11	of	of	_	IN	_	10	NMOD	198775	10
+12	a	a	_	DT	_	13	NMOD	198775	_
+13	building	building	_	NN	_	11	PMOD	198775	_
+14	.	.	_	.	_	0	ROOT	_	_

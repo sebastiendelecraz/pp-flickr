@@ -1,0 +1,12 @@
+1	Teens	teen	_	NNS	_	2	SBJ	279063	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	riding	ride	_	VBG	_	2	VC	_	_
+4	their	their	_	PRP$	_	5	NMOD	279074	_
+5	bikes	bike	_	NNS	_	3	OBJ	279074	_
+6	through	through	_	IN	_	3	MNR	_	3
+7	the	the	_	DT	_	8	NMOD	279070	_
+8	park	park	_	NN	_	6	PMOD	279070	_
+9	near	near	_	IN	_	8	LOC	_	3
+10	the	the	_	DT	_	11	NMOD	279064	_
+11	fountains	fountain	_	NNS	_	9	PMOD	279064	_
+12	.	.	_	.	_	2	P	_	_

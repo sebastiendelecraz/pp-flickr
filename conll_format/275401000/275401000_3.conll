@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	70765	_
+2	dogs	dog	_	NNS	_	3	SBJ	70765	_
+3	play	play	_	VBP	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	70766	_
+6	green	green	_	JJ	_	7	NMOD	70766	_
+7	ball	ball	_	NN	_	4	PMOD	70766	_
+8	on	on	_	IN	_	3	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	70767	_
+10	wooden	wooden	_	JJ	_	11	NMOD	70767	_
+11	deck	deck	_	NN	_	8	PMOD	70767	_
+12	.	.	_	.	_	3	P	_	_

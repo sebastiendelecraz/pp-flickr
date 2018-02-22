@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	68149	_
+2	boy	boy	_	NN	_	3	SBJ	68149	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	swimming	swim	_	VBG	_	6	NMOD	68154	_
+5	trunks	trunk	_	NNS	_	6	NMOD	68154	_
+6	jumps	jump	_	NNS	_	3	OBJ	_	_
+7	over	over	_	IN	_	3	LOC	_	6
+8	some	some	_	DT	_	10	NMOD	68150	_
+9	sprinkler	sprinkler	_	NN	_	10	NMOD	68150	_
+10	water	water	_	NN	_	7	PMOD	68150	_
+11	in	in	_	IN	_	3	LOC	_	6
+12	a	a	_	DT	_	13	NMOD	68153	_
+13	backyard	backyard	_	NN	_	11	PMOD	68153	_
+14	.	.	_	.	_	0	ROOT	_	_

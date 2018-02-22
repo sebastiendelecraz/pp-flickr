@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	SBJ	221023	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	across	across	_	IN	_	2	LOC	_	2
+4	the	the	_	DT	_	5	NMOD	221029	_
+5	street	street	_	NN	_	3	PMOD	221029	_
+6	under	under	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	221027	_
+8	bridge	bridge	_	NN	_	6	PMOD	221027	_
+9	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	180475	_
+2	young	young	_	JJ	_	3	NMOD	180475	_
+3	man	man	_	NN	_	10	SBJ	180475	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	unusual	unusual	_	JJ	_	6	NMOD	180476	_
+6	writing	writing	_	NN	_	4	PMOD	180476	_
+7	on	on	_	IN	_	3	NMOD	_	_
+8	his	his	_	PRP$	_	9	NMOD	180477	_
+9	arm	arm	_	NN	_	7	PMOD	180477	_
+10	stands	stand	_	VBZ	_	0	ROOT	_	_
+11	in	in	_	IN	_	10	LOC	_	10
+12	a	a	_	DT	_	13	NMOD	180481	_
+13	crowd	crowd	_	NN	_	11	PMOD	180481	_
+14	.	.	_	.	_	10	P	_	_

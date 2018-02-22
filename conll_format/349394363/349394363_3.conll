@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	122390	_
+2	people	people	_	NN	_	3	SBJ	122390	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	outside	outside	_	IN	_	4	LOC	_	_
+6	with	with	_	IN	_	4	ADV	_	4
+7	a	a	_	DT	_	8	NMOD	122392	_
+8	dog	dog	_	NN	_	6	PMOD	122392	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	122396	_
+11	snow	snow	_	NN	_	9	PMOD	122396	_
+12	.	.	_	.	_	3	P	_	_

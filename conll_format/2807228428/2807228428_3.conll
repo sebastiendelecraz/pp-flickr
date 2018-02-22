@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	74059	_
+2	man	man	_	NN	_	3	SBJ	74059	_
+3	does	do	_	VBZ	_	0	ROOT	_	_
+4	construction	construction	_	NN	_	3	OBJ	74064	_
+5	work	work	_	VB	_	3	VC	74064	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	74060	_
+8	roof	roof	_	NN	_	6	PMOD	74060	_
+9	of	of	_	IN	_	8	NMOD	74060	8
+10	a	a	_	DT	_	11	NMOD	74060	_
+11	building	building	_	NN	_	9	PMOD	74060	_
+12	.	.	_	.	_	3	P	_	_

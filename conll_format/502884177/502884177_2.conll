@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	227261	_
+2	older	old	_	JJR	_	3	NMOD	227261	_
+3	woman	woman	_	NN	_	0	ROOT	227261	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	227263	_
+6	red	red	_	JJ	_	7	NMOD	227263	_
+7	vest	vest	_	NN	_	4	PMOD	227263	_
+8	with	with	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	10	NMOD	227262	_
+10	group	group	_	NN	_	8	PMOD	227262	_
+11	of	of	_	IN	_	10	NMOD	227262	_
+12	other	other	_	JJ	_	13	NMOD	227262	_
+13	people	people	_	NN	_	11	PMOD	227262	_
+14	at	at	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	227264	_
+16	street	street	_	NN	_	14	PMOD	227264	_
+17	.	.	_	.	_	0	ROOT	_	_

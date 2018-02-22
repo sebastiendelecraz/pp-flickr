@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	236612	_
+2	man	man	_	NN	_	6	SBJ	236612	_
+3	without	without	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	236620	_
+5	shirt	shirt	_	NN	_	3	PMOD	236620	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	working	work	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	236613	_
+10	roof	roof	_	NN	_	8	PMOD	236613	_
+11	of	of	_	IN	_	10	NMOD	236613	_
+12	a	a	_	DT	_	13	NMOD	236613	_
+13	house	house	_	NN	_	11	PMOD	236613	_
+14	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,14 @@
+1	The	the	_	DT	_	3	NMOD	26594	_
+2	little	little	_	JJ	_	3	NMOD	26594	_
+3	boy	boy	_	NN	_	7	SBJ	26594	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	no	no	_	DT	_	6	NMOD	26597	_
+6	shirt	shirt	_	NN	_	4	OBJ	26597	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	running	run	_	VBG	_	7	VC	_	_
+9	by	by	_	IN	_	8	MNR	_	8
+10	a	a	_	DT	_	11	NMOD	26596	_
+11	crowd	crowd	_	NN	_	9	PMOD	26596	_
+12	of	of	_	IN	_	11	NMOD	26596	_
+13	people	people	_	NN	_	12	PMOD	26596	_
+14	.	.	_	.	_	7	P	_	_

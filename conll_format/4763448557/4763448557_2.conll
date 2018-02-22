@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	200360	_
+2	colored	color	_	VBN	_	4	NMOD	200360	_
+3	couple	couple	_	NN	_	4	NMOD	200360	_
+4	rides	ride	_	NNS	_	5	SBJ	_	_
+5	bicycles	bicycle	_	VBZ	_	0	ROOT	200365	_
+6	with	with	_	IN	_	5	ADV	_	_
+7	white	white	_	JJ	_	9	NMOD	200368	_
+8	wall	wall	_	NN	_	9	NMOD	200368	_
+9	tires	tire	_	NNS	_	6	PMOD	_	_
+10	along	along	_	IN	_	5	LOC	_	4
+11	a	a	_	DT	_	13	NMOD	200363	_
+12	city	city	_	NN	_	13	NMOD	200363	_
+13	street	street	_	NN	_	10	PMOD	200363	_
+14	.	.	_	.	_	5	P	_	_

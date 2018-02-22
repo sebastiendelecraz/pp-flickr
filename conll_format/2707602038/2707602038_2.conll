@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	67640	_
+2	group	group	_	NN	_	5	SBJ	67640	_
+3	of	of	_	IN	_	2	NMOD	67640	_
+4	people	people	_	NN	_	3	PMOD	67640	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	behind	behind	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	10	NMOD	67643	_
+9	fence	fence	_	NN	_	10	NMOD	67643	_
+10	watch	watch	_	NN	_	7	PMOD	_	_
+11	two	two	_	CD	_	12	NMOD	67641	_
+12	cyclists	cyclist	_	NNS	_	6	OBJ	67641	_
+13	in	in	_	IN	_	6	LOC	_	_
+14	a	a	_	DT	_	15	NMOD	67645	_
+15	race	race	_	NN	_	13	PMOD	67645	_
+16	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,13 @@
+1	People	People	_	NNPS	_	0	ROOT	100654	_
+2	with	with	_	IN	_	0	ROOT	_	_
+3	bags	bag	_	NNS	_	4	SBJ	100657	_
+4	walk	walk	_	VBP	_	2	SUB	_	_
+5	along	along	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	100655	_
+7	dirt	dirt	_	NN	_	8	NMOD	100655	_
+8	road	road	_	NN	_	5	PMOD	100655	_
+9	in front of	in front of	_	IN	_	4	ADV	_	4
+10	a	a	_	DT	_	12	NMOD	100656	_
+11	green	green	_	JJ	_	12	NMOD	100656	_
+12	building	building	_	NN	_	9	PMOD	100656	_
+13	.	.	_	.	_	0	ROOT	_	_

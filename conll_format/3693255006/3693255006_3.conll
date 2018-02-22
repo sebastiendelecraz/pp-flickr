@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	137339	_
+2	group	group	_	NN	_	6	SBJ	137339	_
+3	of	of	_	IN	_	2	NMOD	137339	_
+4	five	five	_	CD	_	5	NMOD	137339	_
+5	boys	boy	_	NNS	_	3	PMOD	137339	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	sitting	sit	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	LOC	_	_
+9	rocks	rock	_	NNS	_	8	PMOD	137344	_
+10	near	near	_	IN	_	7	LOC	_	7
+11	a	a	_	DT	_	12	NMOD	137342	_
+12	waterfall	waterfall	_	NN	_	10	PMOD	137342	_
+13	.	.	_	.	_	6	P	_	_

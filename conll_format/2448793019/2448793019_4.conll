@@ -1,0 +1,9 @@
+1	Distorted	distort	_	VBN	_	2	NMOD	50505	_
+2	photograph	photograph	_	NN	_	0	ROOT	50505	_
+3	of	of	_	IN	_	2	NMOD	50505	_
+4	a	a	_	DT	_	5	NMOD	50505	_
+5	child	child	_	NN	_	3	PMOD	50505	_
+6	at the bottom of	at the bottom of	_	IN	_	2	NMOD	50506	5
+7	a	a	_	DT	_	8	NMOD	50506	_
+8	slide	slide	_	NN	_	6	PMOD	50506	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	108400	_
+2	snowboarder	snowboarder	_	NN	_	3	SBJ	108400	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	making	make	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	0	_
+6	jump	jump	_	NN	_	4	OBJ	0	_
+7	over	over	_	IN	_	6	NMOD	_	4
+8	a	a	_	DT	_	9	NMOD	108403	_
+9	hillside	hillside	_	NN	_	7	PMOD	108403	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	deep	deep	_	JJ	_	12	NMOD	108404	_
+12	powder	powder	_	NN	_	10	PMOD	108404	_
+13	located	locate	_	VBN	_	12	APPO	_	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	108405	_
+16	woods	wood	_	NNS	_	14	PMOD	108405	_
+17	.	.	_	.	_	3	P	_	_

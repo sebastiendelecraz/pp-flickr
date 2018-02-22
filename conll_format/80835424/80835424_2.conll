@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	278732	_
+2	men	man	_	NNS	_	6	SBJ	278732	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	two	two	_	CD	_	5	NMOD	278737	_
+5	women	woman	_	NNS	_	3	CONJ	278737	_
+6	looking	look	_	VBG	_	0	ROOT	_	_
+7	over	over	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	278730	_
+9	fence	fence	_	NN	_	7	PMOD	278730	_
+10	at	at	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	14	NMOD	278729	_
+12	big	big	_	JJ	_	14	NMOD	278729	_
+13	green	green	_	JJ	_	14	NMOD	278729	_
+14	mountain	mountain	_	NN	_	10	PMOD	278729	_
+15	.	.	_	.	_	0	ROOT	_	_

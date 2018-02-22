@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	7467	_
+2	little	little	_	JJ	_	3	NMOD	7467	_
+3	girl	girl	_	NN	_	0	ROOT	7467	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	8	NMOD	7471	_
+6	pink	pink	_	NN	_	8	NMOD	7471	_
+7	top	top	_	JJ	_	8	NMOD	7471	_
+8	plays	play	_	NNS	_	4	PMOD	_	_
+9	with	with	_	IN	_	3	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	7469	_
+11	hoe	hoe	_	NN	_	9	PMOD	7469	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	15	NMOD	7468	_
+14	hay	hay	_	NN	_	15	NMOD	7468	_
+15	bale	bale	_	NN	_	12	PMOD	7468	_
+16	.	.	_	.	_	0	ROOT	_	_

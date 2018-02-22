@@ -1,0 +1,14 @@
+1	Five	Five	_	CD	_	2	NMOD	72739	_
+2	women	woman	_	NNS	_	0	ROOT	72739	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	6	NMOD	72740	_
+5	man	man	_	NN	_	6	NMOD	72740	_
+6	pose	pose	_	NN	_	3	CONJ	_	_
+7	for	for	_	IN	_	2	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	72745	_
+9	photograph	photograph	_	NN	_	7	PMOD	72745	_
+10	near	near	_	IN	_	9	LOC	_	6
+11	a	a	_	DT	_	13	NMOD	72742	_
+12	purple	purple	_	NN	_	13	NMOD	72742	_
+13	bed	bed	_	NN	_	10	PMOD	72742	_
+14	.	.	_	.	_	0	ROOT	_	_

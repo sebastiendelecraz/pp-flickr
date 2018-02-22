@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	4	NMOD	129168	_
+2	dark-haired	dark-haired	_	JJ	_	4	NMOD	129168	_
+3	young	young	_	JJ	_	4	NMOD	129168	_
+4	man	man	_	NN	_	9	SBJ	129168	_
+5	in	in	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	129169	_
+7	striped	stripe	_	VBN	_	8	NMOD	129169	_
+8	shirt	shirt	_	NN	_	5	PMOD	129169	_
+9	stands	stand	_	VBZ	_	0	ROOT	_	_
+10	in front of	in front of	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	129171	_
+12	picture	picture	_	NN	_	10	PMOD	129171	_
+13	of	of	_	IN	_	12	NMOD	129171	12
+14	WC	WC	_	NNP	_	15	NAME	129171	_
+15	Fields	Fields	_	NNP	_	13	PMOD	129171	_
+16	.	.	_	.	_	9	P	_	_

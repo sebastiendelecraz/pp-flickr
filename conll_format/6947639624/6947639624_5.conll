@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	262196	_
+2	cyclist	cyclist	_	NN	_	3	SBJ	262196	_
+3	braces	brace	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	impact	impact	_	NN	_	4	PMOD	262205	_
+6	as	as	_	IN	_	5	NMOD	_	_
+7	his	his	_	PRP$	_	8	NMOD	262200	_
+8	bike	bike	_	NN	_	6	PMOD	262200	_
+9	loses	lose	_	VBZ	_	0	ROOT	_	_
+10	control	control	_	NN	_	9	OBJ	262199	_
+11	.	.	_	.	_	9	P	_	_

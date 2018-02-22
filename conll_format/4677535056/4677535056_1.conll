@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	189576	_
+2	black	black	_	JJ	_	3	NMOD	189576	_
+3	man	man	_	NN	_	0	ROOT	189576	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	189577	_
+6	hat	hat	_	NN	_	4	PMOD	189577	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	shades	shade	_	NNS	_	7	CONJ	189582	_
+9	frowning	frown	_	VBG	_	6	APPO	_	_
+10	with	with	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	189579	_
+12	yellow	yellow	_	JJ	_	13	NMOD	189579	_
+13	taxi	taxi	_	NN	_	10	PMOD	189579	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	background	background	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

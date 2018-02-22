@@ -1,0 +1,15 @@
+1	An	an	_	DT	_	3	NMOD	40145	_
+2	black	black	_	JJ	_	3	NMOD	40145	_
+3	man	man	_	NN	_	5	SBJ	40145	_
+4	,	,	_	,	_	3	P	_	_
+5	walks	walk	_	VBZ	_	0	ROOT	_	_
+6	past	past	_	JJ	_	8	NMOD	40147	_
+7	political	political	_	JJ	_	8	NMOD	40147	_
+8	graffiti	graffito	_	NNS	_	5	OBJ	40147	_
+9	on	on	_	IN	_	5	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	40147	_
+11	side	side	_	NN	_	9	PMOD	40147	_
+12	of	of	_	IN	_	11	NMOD	40147	11
+13	a	a	_	DT	_	14	NMOD	40147	_
+14	building	building	_	NN	_	12	PMOD	40147	_
+15	.	.	_	.	_	5	P	_	_

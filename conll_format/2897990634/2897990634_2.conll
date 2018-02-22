@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	79987	_
+2	man	man	_	NN	_	11	SBJ	79987	_
+3	wrapped	wrap	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	79988	_
+6	cloth	cloth	_	NN	_	4	PMOD	79988	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	shorts	short	_	NNS	_	7	PMOD	79990	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	sandals	sandal	_	NNS	_	9	CONJ	79992	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	walking	walk	_	VBG	_	11	VC	_	_
+13	up	up	_	RP	_	12	PRT	_	_
+14	a	a	_	DT	_	15	NMOD	79989	_
+15	stairwell	stairwell	_	NN	_	12	OBJ	79989	_
+16	.	.	_	.	_	11	P	_	_

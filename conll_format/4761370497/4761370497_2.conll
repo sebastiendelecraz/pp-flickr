@@ -1,0 +1,14 @@
+1	People	People	_	NNPS	_	2	SBJ	200056	_
+2	walk	walk	_	VBP	_	0	ROOT	_	_
+3	near	near	_	IN	_	2	LOC	_	2
+4	the	the	_	DT	_	6	NMOD	200063	_
+5	yellow	yellow	_	JJ	_	6	NMOD	200063	_
+6	line	line	_	NN	_	3	PMOD	200063	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	the	the	_	DT	_	9	NMOD	200057	_
+9	platform	platform	_	NN	_	7	PMOD	200057	_
+10	of	of	_	IN	_	9	NMOD	200057	_
+11	a	a	_	DT	_	13	NMOD	200057	_
+12	subway	subway	_	NN	_	13	NMOD	200057	_
+13	station	station	_	NN	_	10	PMOD	200057	_
+14	.	.	_	.	_	2	P	_	_

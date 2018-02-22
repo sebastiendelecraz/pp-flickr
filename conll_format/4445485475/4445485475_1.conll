@@ -1,0 +1,11 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	many	many	_	DT	_	4	NMOD	168990	_
+4	people	people	_	NN	_	2	SBJ	168990	_
+5	sitting	sit	_	VBG	_	4	APPO	_	_
+6	outside of	outside of	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	168992	_
+8	building	building	_	NN	_	6	PMOD	168992	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	statues	statue	_	NNS	_	9	PMOD	168995	_
+11	.	.	_	.	_	2	P	_	_

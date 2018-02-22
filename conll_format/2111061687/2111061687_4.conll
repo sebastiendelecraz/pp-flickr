@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	29360	_
+2	man	man	_	NN	_	3	SBJ	29360	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	29362	_
+6	red	red	_	JJ	_	7	NMOD	29362	_
+7	sofa	sofa	_	NN	_	4	PMOD	29362	_
+8	next to	next to	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	29364	_
+10	cat	cat	_	NN	_	8	PMOD	29364	_
+11	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	5	NMOD	74836	_
+2	brown	brown	_	JJ	_	5	NMOD	74836	_
+3	and	and	_	CC	_	2	COORD	74836	_
+4	white	white	_	JJ	_	3	CONJ	74836	_
+5	dog	dog	_	NN	_	6	SBJ	74836	_
+6	looking	look	_	VBG	_	0	ROOT	_	_
+7	into	into	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	74838	_
+9	pool	pool	_	NN	_	7	PMOD	74838	_
+10	at	at	_	IN	_	6	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	74837	_
+12	tennis	tennis	_	NN	_	13	NMOD	74837	_
+13	ball	ball	_	NN	_	10	PMOD	74837	_
+14	.	.	_	.	_	0	ROOT	_	_

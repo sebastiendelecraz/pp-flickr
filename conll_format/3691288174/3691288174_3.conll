@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	137145	_
+2	juggler	juggler	_	NN	_	0	ROOT	137145	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	137147	_
+5	boy	boy	_	NN	_	3	CONJ	137147	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	137149	_
+8	top	top	_	JJ	_	9	NMOD	137149	_
+9	hat	hat	_	NN	_	6	PMOD	137149	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	a	a	_	DT	_	13	NMOD	137148	_
+12	sword	sword	_	NN	_	13	NMOD	137148	_
+13	stand	stand	_	NN	_	10	PMOD	_	_
+14	in front of	in front of	_	IN	_	2	NMOD	_	13
+15	a	a	_	DT	_	16	NMOD	137146	_
+16	crowd	crowd	_	NN	_	14	PMOD	137146	_
+17	.	.	_	.	_	0	ROOT	_	_

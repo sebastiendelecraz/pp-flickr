@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	5	NMOD	57192	_
+2	black	black	_	JJ	_	5	NMOD	57192	_
+3	and	and	_	CC	_	2	COORD	57192	_
+4	white	white	_	JJ	_	3	CONJ	57192	_
+5	dog	dog	_	NN	_	0	ROOT	57192	_
+6	near	near	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	11	NMOD	57194	_
+8	gray	gray	_	JJ	_	11	NMOD	57194	_
+9	and	and	_	CC	_	8	COORD	57194	_
+10	white	white	_	JJ	_	9	CONJ	57194	_
+11	dog	dog	_	NN	_	6	PMOD	57194	_
+12	on	on	_	IN	_	11	NMOD	_	_
+13	beige	beige	_	JJ	_	14	NMOD	57199	_
+14	carpet	carpet	_	NN	_	12	PMOD	57199	_
+15	.	.	_	.	_	0	ROOT	_	_

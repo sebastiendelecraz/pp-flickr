@@ -1,0 +1,14 @@
+1	Workers	worker	_	NNS	_	5	SBJ	56860	_
+2	in	in	_	IN	_	1	LOC	_	_
+3	blue	blue	_	JJ	_	4	NMOD	56862	_
+4	jumpsuits	jumpsuit	_	NNS	_	2	PMOD	56862	_
+5	wave	wave	_	VBP	_	0	ROOT	_	_
+6	to	to	_	TO	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	0	_
+8	camera	camera	_	NN	_	6	PMOD	0	_
+9	outside	outside	_	IN	_	5	LOC	_	5
+10	their	their	_	PRP$	_	11	NMOD	56868	_
+11	place	place	_	NN	_	9	PMOD	56868	_
+12	of	of	_	IN	_	11	NMOD	56868	_
+13	work	work	_	NN	_	12	PMOD	56868	_
+14	.	.	_	.	_	5	P	_	_

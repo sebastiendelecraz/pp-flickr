@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	71170	_
+2	man	man	_	NN	_	4	NMOD	71170	_
+3	wearing	wear	_	VBG	_	4	NMOD	_	_
+4	sandals	sandal	_	NNS	_	5	SBJ	71181	_
+5	sits	sit	_	VBZ	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	71172	_
+8	sidewalk	sidewalk	_	NN	_	6	PMOD	71172	_
+9	near	near	_	IN	_	8	LOC	_	5
+10	some	some	_	DT	_	11	NMOD	71173	_
+11	bags	bag	_	NNS	_	9	PMOD	71173	_
+12	.	.	_	.	_	5	P	_	_

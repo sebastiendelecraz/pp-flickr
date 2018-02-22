@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	243163	_
+2	girl	girl	_	NN	_	3	SBJ	243163	_
+3	tossing	toss	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	243165	_
+5	hula	hula	_	NN	_	6	NMOD	243165	_
+6	hoop	hoop	_	NN	_	3	OBJ	243165	_
+7	into	into	_	IN	_	3	DIR	_	3
+8	the	the	_	DT	_	9	NMOD	0	_
+9	air	air	_	NN	_	7	PMOD	0	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	her	her	_	PRP$	_	12	NMOD	243167	_
+12	yard	yard	_	NN	_	10	PMOD	243167	_
+13	.	.	_	.	_	0	ROOT	_	_

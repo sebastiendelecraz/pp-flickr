@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	210751	_
+2	group	group	_	NN	_	5	SBJ	210751	_
+3	of	of	_	IN	_	2	NMOD	210751	_
+4	people	people	_	NN	_	3	PMOD	210751	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	210754	_
+8	wall	wall	_	NN	_	6	PMOD	210754	_
+9	above	above	_	IN	_	8	NMOD	_	5
+10	a	a	_	DT	_	13	NMOD	210752	_
+11	large	large	_	JJ	_	13	NMOD	210752	_
+12	bas-relief	bas-relief	_	NN	_	13	NMOD	210752	_
+13	sculpture	sculpture	_	NN	_	9	PMOD	210752	_
+14	and	and	_	CC	_	8	COORD	_	_
+15	reflecting	reflect	_	VBG	_	16	NMOD	_	_
+16	pond	pond	_	NN	_	14	CONJ	210756	_
+17	.	.	_	.	_	5	P	_	_

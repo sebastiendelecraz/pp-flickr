@@ -1,0 +1,14 @@
+1	Three	Three	_	CD	_	3	NMOD	55292	_
+2	sheep	sheep	_	NN	_	3	NMOD	55292	_
+3	graze	graze	_	NN	_	0	ROOT	55292	_
+4	on	on	_	IN	_	3	NMOD	_	_
+5	the	the	_	DT	_	7	NMOD	55293	_
+6	grassy	grassy	_	JJ	_	7	NMOD	55293	_
+7	field	field	_	NN	_	4	PMOD	55293	_
+8	with	with	_	IN	_	3	NMOD	_	3
+9	a	a	_	DT	_	10	NMOD	55291	_
+10	dog	dog	_	NN	_	8	PMOD	55291	_
+11	walking	walk	_	VBG	_	3	APPO	_	_
+12	behind	behind	_	IN	_	11	LOC	_	_
+13	them	them	_	PRP	_	12	PMOD	0	_
+14	.	.	_	.	_	0	ROOT	_	_

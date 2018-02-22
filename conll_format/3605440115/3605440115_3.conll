@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	3	NMOD	131037	_
+2	baseball	baseball	_	NN	_	3	NMOD	131037	_
+3	player	player	_	NN	_	8	SBJ	131037	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	131038	_
+6	green	green	_	JJ	_	7	NMOD	131038	_
+7	jersey	jersey	_	NN	_	4	PMOD	131038	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	in the middle of	in the middle of	_	IN	_	8	PRD	131048	8
+10	a	a	_	DT	_	11	NMOD	131048	_
+11	play	play	_	NN	_	9	PMOD	131048	_
+12	,	,	_	,	_	8	P	_	_
+13	with	with	_	IN	_	8	ADV	_	_
+14	the	the	_	DT	_	16	NMOD	131040	_
+15	official	official	_	JJ	_	16	NMOD	131040	_
+16	standing	standing	_	NN	_	13	PMOD	131040	_
+17	in	in	_	IN	_	16	LOC	_	_
+18	the	the	_	DT	_	19	NMOD	131041	_
+19	frame	frame	_	NN	_	17	PMOD	131041	_
+20	.	.	_	.	_	8	P	_	_

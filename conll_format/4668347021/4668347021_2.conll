@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	3	NMOD	188442	_
+2	older	old	_	JJR	_	3	NMOD	188442	_
+3	people	people	_	NN	_	4	SBJ	188442	_
+4	hold	hold	_	VBP	_	0	ROOT	_	_
+5	hands	hand	_	NNS	_	4	OBJ	188445	_
+6	while	while	_	IN	_	4	ADV	_	_
+7	walking	walk	_	VBG	_	6	SUB	_	_
+8	down	down	_	RP	_	7	PRT	_	_
+9	a	a	_	DT	_	11	NMOD	188444	_
+10	street	street	_	NN	_	11	NMOD	188444	_
+11	alley	alley	_	NN	_	7	OBJ	188444	_
+12	with	with	_	IN	_	11	NMOD	_	7
+13	a	a	_	DT	_	14	NMOD	188446	_
+14	group	group	_	NN	_	12	PMOD	188446	_
+15	of	of	_	IN	_	14	NMOD	188446	_
+16	people	people	_	NN	_	15	PMOD	188446	_
+17	.	.	_	.	_	4	P	_	_

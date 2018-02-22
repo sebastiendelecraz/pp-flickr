@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	97107	_
+2	blond	blond	_	JJ	_	3	NMOD	97107	_
+3	woman	woman	_	NN	_	0	ROOT	97107	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	her	her	_	PRP$	_	6	NMOD	97110	_
+6	hand	hand	_	NN	_	4	PMOD	97110	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	97114	_
+9	throat	throat	_	NN	_	7	PMOD	97114	_
+10	of	of	_	IN	_	9	NMOD	97114	9
+11	a	a	_	DT	_	13	NMOD	97114	_
+12	blond	blond	_	JJ	_	13	NMOD	97114	_
+13	girl	girl	_	NN	_	10	PMOD	97114	_
+14	.	.	_	.	_	0	ROOT	_	_

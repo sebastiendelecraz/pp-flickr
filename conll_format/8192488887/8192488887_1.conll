@@ -1,0 +1,17 @@
+1	Three	Three	_	CD	_	3	NMOD	280279	_
+2	older	old	_	JJR	_	3	NMOD	280279	_
+3	men	man	_	NNS	_	0	ROOT	280279	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	one	one	_	CD	_	6	NMOD	280280	_
+6	woman	woman	_	NN	_	4	CONJ	280280	_
+7	sitting	sit	_	VBG	_	6	APPO	_	_
+8	at	at	_	IN	_	7	ADV	_	_
+9	an	an	_	DT	_	12	NMOD	280281	_
+10	outdoor	outdoor	_	JJ	_	12	NMOD	280281	_
+11	coffee	coffee	_	NN	_	12	NMOD	280281	_
+12	house	house	_	NN	_	8	PMOD	280281	_
+13	against	against	_	IN	_	12	NMOD	_	7
+14	the	the	_	DT	_	16	NMOD	280285	_
+15	stone	stone	_	JJ	_	16	NMOD	280285	_
+16	wall	wall	_	NN	_	13	PMOD	280285	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	2	NMOD	233987	_
+2	boy	boy	_	NN	_	3	SBJ	233987	_
+3	drinks	drink	_	VBZ	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	233991	_
+6	plastic	plastic	_	NN	_	7	NMOD	233991	_
+7	glass	glass	_	NN	_	4	PMOD	233991	_
+8	while	while	_	IN	_	3	ADV	_	_
+9	sitting	sit	_	VBG	_	8	SUB	_	_
+10	at	at	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	233988	_
+12	table	table	_	NN	_	10	PMOD	233988	_
+13	with	with	_	IN	_	12	NMOD	_	_
+14	food	food	_	NN	_	13	PMOD	233992	_
+15	on	on	_	IN	_	9	ADV	_	_
+16	it	it	_	PRP	_	15	PMOD	0	_
+17	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,10 @@
+1	Police	Police	_	NNP	_	2	NMOD	271074	_
+2	officer	officer	_	NN	_	8	SBJ	271074	_
+3	looking	look	_	VBG	_	2	APPO	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	paperwork	paperwork	_	NN	_	4	PMOD	271075	_
+6	as	as	_	IN	_	3	ADV	_	_
+7	women	woman	_	NNS	_	6	PMOD	271073	_
+8	looks	look	_	VBZ	_	0	ROOT	_	_
+9	on	on	_	IN	_	8	ADV	_	_
+10	.	.	_	.	_	8	P	_	_

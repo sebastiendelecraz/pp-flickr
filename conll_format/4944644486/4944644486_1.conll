@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	221634	_
+2	crowd	crowd	_	NN	_	5	SBJ	221634	_
+3	of	of	_	IN	_	2	NMOD	221634	_
+4	people	people	_	NN	_	3	PMOD	221634	_
+5	looking	look	_	VBG	_	0	ROOT	_	_
+6	towards	towards	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	221639	_
+8	person	person	_	NN	_	6	PMOD	221639	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	221642	_
+11	gorilla	gorilla	_	NN	_	12	NMOD	221642	_
+12	costume	costume	_	NN	_	9	PMOD	221642	_
+13	inside	inside	_	IN	_	5	ADV	_	5
+14	a	a	_	DT	_	15	NMOD	221643	_
+15	building	building	_	NN	_	13	PMOD	221643	_
+16	.	.	_	.	_	0	ROOT	_	_

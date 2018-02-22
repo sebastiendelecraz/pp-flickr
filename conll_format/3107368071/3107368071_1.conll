@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	94084	_
+2	crowd	crowd	_	NN	_	5	SBJ	94084	_
+3	of	of	_	IN	_	2	NMOD	94084	_
+4	children	child	_	NNS	_	3	PMOD	94084	_
+5	point	point	_	VBP	_	0	ROOT	_	_
+6	towards	towards	_	IN	_	5	ADV	_	5
+7	an	an	_	DT	_	8	NMOD	94087	_
+8	object	object	_	NN	_	6	PMOD	94087	_
+9	to the right of	to the right of	_	IN	_	5	TMP	94086	5
+10	the	the	_	DT	_	11	NMOD	94086	_
+11	frame	frame	_	NN	_	9	PMOD	94086	_
+12	.	.	_	.	_	5	P	_	_

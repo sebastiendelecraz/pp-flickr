@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	132550	_
+2	child	child	_	NN	_	3	SBJ	132550	_
+3	plays	play	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	132553	_
+6	costumed	costume	_	VBN	_	7	NMOD	132553	_
+7	adult	adult	_	NN	_	4	PMOD	132553	_
+8	at	at	_	IN	_	3	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	132553	_
+10	parade	parade	_	NN	_	8	PMOD	132553	_
+11	.	.	_	.	_	3	P	_	_

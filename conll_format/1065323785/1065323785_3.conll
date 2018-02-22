@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	1630	_
+2	group	group	_	NN	_	5	SBJ	1630	_
+3	of	of	_	IN	_	2	NMOD	1630	_
+4	boys	boy	_	NNS	_	3	PMOD	1630	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	riding	ride	_	VBG	_	5	VC	_	_
+7	their	their	_	PRP$	_	8	NMOD	1633	_
+8	bikes	bike	_	NNS	_	6	OBJ	1633	_
+9	around	around	_	IN	_	6	ADV	_	6
+10	a	a	_	DT	_	12	NMOD	1631	_
+11	big	big	_	JJ	_	12	NMOD	1631	_
+12	pile	pile	_	NN	_	9	PMOD	1631	_
+13	of	of	_	IN	_	12	NMOD	1631	_
+14	dirt	dirt	_	NN	_	13	PMOD	1631	_
+15	.	.	_	.	_	5	P	_	_

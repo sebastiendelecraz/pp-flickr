@@ -1,0 +1,17 @@
+1	Young	Young	_	NNP	_	2	NMOD	63219	_
+2	man	man	_	NN	_	6	SBJ	63219	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	63222	_
+5	beard	beard	_	NN	_	3	PMOD	63222	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	sitting	sit	_	VBG	_	6	VC	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	the	the	_	DT	_	10	NMOD	63220	_
+10	edge	edge	_	NN	_	8	PMOD	63220	_
+11	of	of	_	IN	_	10	NMOD	63220	_
+12	the	the	_	DT	_	13	NMOD	63220	_
+13	bed	bed	_	NN	_	11	PMOD	63220	_
+14	reading	read	_	VBG	_	13	APPO	_	_
+15	a	a	_	DT	_	16	NMOD	63221	_
+16	manual	manual	_	JJ	_	14	OBJ	63221	_
+17	.	.	_	.	_	6	P	_	_

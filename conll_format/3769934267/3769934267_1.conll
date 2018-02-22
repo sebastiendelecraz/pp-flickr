@@ -1,0 +1,19 @@
+1	An	an	_	DT	_	3	NMOD	141838	_
+2	older	old	_	JJR	_	3	NMOD	141838	_
+3	gentleman	gentleman	_	NN	_	4	SBJ	141838	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	selling	sell	_	VBG	_	4	VC	_	_
+6	produce	produce	_	NN	_	5	OBJ	141842	_
+7	out of	out of	_	IN	_	5	ADV	_	5
+8	the	the	_	DT	_	9	NMOD	141841	_
+9	back	back	_	NN	_	7	PMOD	141841	_
+10	of	of	_	IN	_	9	NMOD	141841	_
+11	his	his	_	PRP$	_	12	NMOD	141841	_
+12	truck	truck	_	NN	_	10	PMOD	141841	_
+13	as	as	_	IN	_	5	ADV	_	_
+14	a	a	_	DT	_	15	NMOD	141839	_
+15	woman	woman	_	NN	_	16	SBJ	141839	_
+16	peruses	peruse	_	VBZ	_	13	SUB	_	_
+17	his	his	_	PRP$	_	18	NMOD	141844	_
+18	products	product	_	NNS	_	16	OBJ	141844	_
+19	.	.	_	.	_	4	P	_	_

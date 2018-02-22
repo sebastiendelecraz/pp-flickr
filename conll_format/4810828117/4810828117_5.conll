@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	205506	_
+2	man	man	_	NN	_	0	ROOT	205506	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	8	NMOD	205508	_
+5	blue	blue	_	JJ	_	8	NMOD	205508	_
+6	striped	stripe	_	VBN	_	8	NMOD	205508	_
+7	shirt	shirt	_	NN	_	8	NMOD	205508	_
+8	strands	strand	_	NNS	_	3	PMOD	_	_
+9	next to	next to	_	IN	_	2	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	205509	_
+11	woman	woman	_	NN	_	9	PMOD	205509	_
+12	.	.	_	.	_	0	ROOT	_	_

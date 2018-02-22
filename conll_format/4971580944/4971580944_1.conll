@@ -1,0 +1,17 @@
+1	Phone	Phone	_	NNP	_	8	NAME	224803	_
+2	to	to	_	TO	_	8	ADV	_	_
+3	her	her	_	PRP$	_	4	NMOD	224806	_
+4	ear	ear	_	NN	_	2	PMOD	224806	_
+5	,	,	_	,	_	8	P	_	_
+6	a	a	_	DT	_	7	NMOD	224802	_
+7	woman	woman	_	NN	_	8	SBJ	224802	_
+8	bends	bend	_	VBZ	_	0	ROOT	_	_
+9	forward	forward	_	RB	_	10	PMOD	_	_
+10	at	at	_	IN	_	8	ADV	_	_
+11	the	the	_	DT	_	12	NMOD	224807	_
+12	side	side	_	NN	_	10	PMOD	224807	_
+13	of	of	_	IN	_	12	NMOD	224807	12
+14	a	a	_	DT	_	16	NMOD	224807	_
+15	busy	busy	_	JJ	_	16	NMOD	224807	_
+16	street	street	_	NN	_	13	PMOD	224807	_
+17	.	.	_	.	_	8	P	_	_

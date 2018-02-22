@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	64210	_
+2	dog	dog	_	NN	_	3	SBJ	64210	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	64211	_
+6	grassy	grassy	_	JJ	_	7	NMOD	64211	_
+7	lawn	lawn	_	NN	_	4	PMOD	64211	_
+8	near	near	_	IN	_	7	LOC	_	3
+9	some	some	_	DT	_	10	NMOD	64212	_
+10	flowers	flower	_	NNS	_	8	PMOD	64212	_
+11	.	.	_	.	_	3	P	_	_

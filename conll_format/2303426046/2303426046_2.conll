@@ -1,0 +1,12 @@
+1	Large	large	_	JJ	_	3	NMOD	40317	_
+2	brown	brown	_	JJ	_	3	NMOD	40317	_
+3	dog	dog	_	NN	_	4	SBJ	40317	_
+4	jumping	jump	_	VBG	_	0	ROOT	_	_
+5	over	over	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	40318	_
+7	bush	bush	_	NN	_	5	PMOD	40318	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	40318	_
+10	grassy	grassy	_	JJ	_	11	NMOD	40318	_
+11	area	area	_	NN	_	8	PMOD	40318	_
+12	.	.	_	.	_	0	ROOT	_	_

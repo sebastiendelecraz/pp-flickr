@@ -1,0 +1,17 @@
+1	Old	Old	_	NNP	_	2	NMOD	13498	_
+2	man	man	_	NN	_	0	ROOT	13498	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	13499	_
+5	DSLR	DSLR	_	NNP	_	6	NMOD	13499	_
+6	camera	camera	_	NN	_	3	PMOD	13499	_
+7	in	in	_	IN	_	2	LOC	_	_
+8	one	one	_	CD	_	9	NMOD	13503	_
+9	hand	hand	_	NN	_	7	PMOD	13503	_
+10	sitting	sit	_	VBG	_	9	APPO	_	_
+11	on	on	_	IN	_	10	LOC	_	_
+12	a	a	_	DT	_	13	NMOD	13500	_
+13	curb	curb	_	NN	_	11	PMOD	13500	_
+14	pondering	ponder	_	VBG	_	13	APPO	_	_
+15	an	an	_	DT	_	16	NMOD	13502	_
+16	idea	idea	_	NN	_	14	OBJ	13502	_
+17	.	.	_	.	_	0	ROOT	_	_

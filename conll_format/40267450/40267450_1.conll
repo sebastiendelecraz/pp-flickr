@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	152404	_
+2	man	man	_	NN	_	0	ROOT	152404	_
+3	balancing	balance	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	152405	_
+5	green	green	_	JJ	_	6	NMOD	152405	_
+6	ball	ball	_	NN	_	3	OBJ	152405	_
+7	on	on	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	152407	_
+9	pole	pole	_	NN	_	7	PMOD	152407	_
+10	for	for	_	IN	_	3	ADV	_	3
+11	a	a	_	DT	_	12	NMOD	152403	_
+12	crowd	crowd	_	NN	_	10	PMOD	152403	_
+13	on	on	_	IN	_	12	LOC	_	_
+14	the	the	_	DT	_	15	NMOD	152406	_
+15	street	street	_	NN	_	13	PMOD	152406	_
+16	.	.	_	.	_	0	ROOT	_	_

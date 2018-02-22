@@ -1,0 +1,15 @@
+1	Construction	construction	_	NN	_	2	NMOD	178644	_
+2	workers	worker	_	NNS	_	0	ROOT	178644	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	orange	orange	_	JJ	_	6	NMOD	178652	_
+5	traffic	traffic	_	NN	_	6	NMOD	178652	_
+6	cones	cone	_	NNS	_	3	PMOD	178652	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	a	a	_	DT	_	10	NMOD	178653	_
+9	crane	crane	_	NN	_	10	NMOD	178653	_
+10	work	work	_	NN	_	7	CONJ	178653	_
+11	under	under	_	IN	_	2	LOC	_	10
+12	a	a	_	DT	_	14	NMOD	178649	_
+13	highway	highway	_	NN	_	14	NMOD	178649	_
+14	overpass	overpass	_	NN	_	11	PMOD	178649	_
+15	.	.	_	.	_	0	ROOT	_	_

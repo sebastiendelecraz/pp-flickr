@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	3	NMOD	90661	_
+2	male	male	_	JJ	_	3	NMOD	90661	_
+3	gymnast	gymnast	_	NN	_	0	ROOT	90661	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	white	white	_	JJ	_	6	NMOD	90663	_
+6	hanging	hanging	_	NN	_	4	PMOD	_	_
+7	from	from	_	IN	_	6	NMOD	_	6
+8	bars	bar	_	NNS	_	7	PMOD	90665	_
+9	.	.	_	.	_	0	ROOT	_	_

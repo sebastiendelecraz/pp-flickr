@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	130256	_
+2	young	young	_	JJ	_	3	NMOD	130256	_
+3	boy	boy	_	NN	_	4	SBJ	130256	_
+4	jumping	jump	_	VBG	_	0	ROOT	_	_
+5	from	from	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	130260	_
+7	height	height	_	NN	_	5	PMOD	130260	_
+8	into	into	_	IN	_	4	DIR	_	4
+9	the	the	_	DT	_	10	NMOD	130259	_
+10	arms	arm	_	NNS	_	8	PMOD	130259	_
+11	of	of	_	IN	_	10	NMOD	130259	_
+12	an	an	_	DT	_	13	NMOD	130259	_
+13	man	man	_	NN	_	11	PMOD	130259	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	131017	_
+2	big	big	_	JJ	_	3	NMOD	131017	_
+3	dog	dog	_	NN	_	0	ROOT	131017	_
+4	barking	bark	_	VBG	_	3	APPO	_	_
+5	at	at	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	8	NMOD	131019	_
+7	small	small	_	JJ	_	8	NMOD	131019	_
+8	dog	dog	_	NN	_	5	PMOD	131019	_
+9	through	through	_	IN	_	4	MNR	_	4
+10	a	a	_	DT	_	11	NMOD	131018	_
+11	fence	fence	_	NN	_	9	PMOD	131018	_
+12	.	.	_	.	_	0	ROOT	_	_

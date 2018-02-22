@@ -1,0 +1,17 @@
+1	People	People	_	NNPS	_	2	SBJ	283528	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	ice-skating	ice-skate	_	VBG	_	2	VC	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	walking	walk	_	VBG	_	4	CONJ	_	_
+6	across	across	_	IN	_	3	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	283530	_
+8	frozen	freeze	_	VBN	_	9	NMOD	283530	_
+9	surface	surface	_	NN	_	6	PMOD	283530	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	the	the	_	DT	_	13	NMOD	283529	_
+12	Adobe	Adobe	_	NNP	_	13	NMOD	283529	_
+13	building	building	_	NN	_	10	PMOD	283529	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	background	background	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	2	P	_	_

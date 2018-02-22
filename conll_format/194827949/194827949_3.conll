@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	23871	_
+2	man	man	_	NN	_	0	ROOT	23871	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	5	NMOD	23876	_
+5	handles	handle	_	NNS	_	3	PMOD	23876	_
+6	a	a	_	DT	_	7	NMOD	23873	_
+7	fishing	fishing	_	NN	_	5	ADV	23873	_
+8	net	net	_	JJ	_	9	DEP	23873	_
+9	on	on	_	IN	_	2	NMOD	_	5
+10	a	a	_	DT	_	11	NMOD	23872	_
+11	boat	boat	_	NN	_	9	PMOD	23872	_
+12	.	.	_	.	_	0	ROOT	_	_

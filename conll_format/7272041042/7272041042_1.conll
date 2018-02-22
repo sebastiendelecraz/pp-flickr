@@ -1,0 +1,16 @@
+1	Three	Three	_	CD	_	2	NMOD	267727	_
+2	men	man	_	NNS	_	3	SBJ	267727	_
+3	smile	smile	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	TMP	_	_
+5	the	the	_	DT	_	6	NMOD	0	_
+6	camera	camera	_	NN	_	4	PMOD	0	_
+7	surrounded	surround	_	VBN	_	6	APPO	_	_
+8	by	by	_	IN	_	7	LGS	_	7
+9	a	a	_	DT	_	10	NMOD	267728	_
+10	pile	pile	_	NN	_	8	PMOD	267728	_
+11	of	of	_	IN	_	10	NMOD	267728	_
+12	green	green	_	JJ	_	15	NMOD	267728	_
+13	and	and	_	CC	_	12	COORD	267728	_
+14	yellow	yellow	_	JJ	_	13	CONJ	267728	_
+15	fruits	fruit	_	NNS	_	11	PMOD	267728	_
+16	.	.	_	.	_	3	P	_	_

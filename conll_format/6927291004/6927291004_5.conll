@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	261677	_
+2	band	band	_	NN	_	3	SBJ	261677	_
+3	singing	sing	_	VBG	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	261678	_
+6	crowd	crowd	_	NN	_	4	PMOD	261678	_
+7	of	of	_	IN	_	6	NMOD	261678	_
+8	people	people	_	NN	_	7	PMOD	261678	_
+9	.	.	_	.	_	0	ROOT	_	_

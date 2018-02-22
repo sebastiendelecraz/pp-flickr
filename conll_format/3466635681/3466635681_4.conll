@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	120214	_
+2	woman	woman	_	NN	_	3	SBJ	120214	_
+3	cleans	clean	_	VBZ	_	0	ROOT	_	_
+4	white	white	_	JJ	_	5	NMOD	120219	_
+5	pillars	pillar	_	NNS	_	3	OBJ	120219	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	120215	_
+8	temple	temple	_	NN	_	6	PMOD	120215	_
+9	in	in	_	IN	_	8	LOC	_	3
+10	Thailand	Thailand	_	NNP	_	9	PMOD	120220	_
+11	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	Cars	car	_	NNS	_	2	SBJ	220316	_
+2	line	line	_	VBP	_	0	ROOT	_	_
+3	up	up	_	RP	_	2	PRT	_	_
+4	in	in	_	IN	_	2	LOC	_	_
+5	a	a	_	DT	_	8	NMOD	220319	_
+6	very	very	_	RB	_	7	AMOD	220319	_
+7	busy	busy	_	JJ	_	8	NMOD	220319	_
+8	road	road	_	NN	_	4	PMOD	220319	_
+9	in the middle of	in the middle of	_	IN	_	2	LOC	220314	2
+10	the	the	_	DT	_	11	NMOD	220314	_
+11	city	city	_	NN	_	9	PMOD	220314	_
+12	.	.	_	.	_	2	P	_	_

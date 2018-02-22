@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	2	NMOD	207365	_
+2	men	man	_	NNS	_	6	SBJ	207365	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	207368	_
+5	straw	straw	_	NN	_	3	PMOD	207368	_
+6	hats	hat	_	VBZ	_	0	ROOT	207368	_
+7	are	be	_	VBP	_	6	OBJ	_	_
+8	standing	stand	_	VBG	_	7	VC	_	_
+9	near	near	_	IN	_	8	LOC	_	8
+10	the	the	_	DT	_	11	NMOD	207367	_
+11	pile	pile	_	NN	_	9	PMOD	207367	_
+12	of	of	_	IN	_	11	NMOD	207367	_
+13	straw	straw	_	NN	_	12	PMOD	207367	_
+14	on	on	_	IN	_	11	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	207366	_
+16	pavement	pavement	_	NN	_	14	PMOD	207366	_
+17	.	.	_	.	_	6	P	_	_

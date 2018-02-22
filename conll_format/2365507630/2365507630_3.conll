@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	44320	_
+2	girl	girl	_	NN	_	13	SBJ	44320	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	44324	_
+5	black	black	_	JJ	_	6	NMOD	44324	_
+6	hat	hat	_	NN	_	3	PMOD	44324	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	10	NMOD	44327	_
+9	pink	pink	_	NN	_	10	NMOD	44327	_
+10	flower	flower	_	NN	_	7	PMOD	44327	_
+11	on	on	_	IN	_	2	TMP	_	_
+12	it	it	_	PRP	_	11	PMOD	0	_
+13	plays	play	_	VBZ	_	0	ROOT	_	_
+14	the	the	_	DT	_	15	NMOD	44326	_
+15	keyboard	keyboard	_	NN	_	13	OBJ	44326	_
+16	.	.	_	.	_	13	P	_	_

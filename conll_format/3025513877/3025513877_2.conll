@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	88275	_
+2	boy	boy	_	NN	_	6	SBJ	88275	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	88277	_
+5	hat	hat	_	NN	_	3	PMOD	88277	_
+6	stands	stand	_	VBZ	_	0	ROOT	_	_
+7	barefoot	barefoot	_	RB	_	8	PMOD	_	_
+8	at	at	_	IN	_	6	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	88276	_
+10	edge	edge	_	NN	_	8	PMOD	88276	_
+11	of	of	_	IN	_	10	NMOD	88276	10
+12	a	a	_	DT	_	13	NMOD	88276	_
+13	body	body	_	NN	_	11	PMOD	88276	_
+14	of	of	_	IN	_	13	NMOD	88276	_
+15	water	water	_	NN	_	14	PMOD	88276	_
+16	.	.	_	.	_	6	P	_	_

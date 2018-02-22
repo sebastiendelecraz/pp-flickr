@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	64939	_
+2	cowboy	cowboy	_	NN	_	3	SBJ	64939	_
+3	tries	try	_	VBZ	_	0	ROOT	_	_
+4	to	to	_	TO	_	3	OPRD	_	_
+5	adapt	adapt	_	VB	_	4	IM	_	_
+6	with	with	_	IN	_	5	ADV	_	_
+7	society	society	_	NN	_	12	NMOD	64944	_
+8	'	'	_	''	_	12	P	64944	_
+9	s	s	_	NN	_	12	NMOD	64944	_
+10	desperate	desperate	_	JJ	_	12	NMOD	64944	_
+11	infantile	infantile	_	JJ	_	12	NMOD	64944	_
+12	need	need	_	NN	_	6	PMOD	64944	_
+13	for	for	_	IN	_	12	NMOD	_	12
+14	technology	technology	_	NN	_	13	PMOD	64945	_
+15	.	.	_	.	_	3	P	_	_

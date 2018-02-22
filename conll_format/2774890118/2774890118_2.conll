@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	72303	_
+2	group	group	_	NN	_	10	SBJ	72303	_
+3	of	of	_	IN	_	2	NMOD	72303	_
+4	young	young	_	JJ	_	5	NMOD	72303	_
+5	children	child	_	NNS	_	3	PMOD	72303	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	many	many	_	DT	_	9	NMOD	72308	_
+8	bright	bright	_	JJ	_	9	NMOD	72308	_
+9	colors	color	_	NNS	_	6	PMOD	72308	_
+10	run	run	_	VBP	_	0	ROOT	_	_
+11	along	along	_	IN	_	10	LOC	_	10
+12	the	the	_	DT	_	13	NMOD	72306	_
+13	sand	sand	_	NN	_	11	PMOD	72306	_
+14	.	.	_	.	_	10	P	_	_

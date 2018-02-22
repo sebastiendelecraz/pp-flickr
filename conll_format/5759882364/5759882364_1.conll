@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	242562	_
+2	man	man	_	NN	_	7	SBJ	242562	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	242563	_
+5	dark	dark	_	JJ	_	6	NMOD	242563	_
+6	bodysuit	bodysuit	_	NN	_	3	PMOD	242563	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	surfing	surf	_	VBG	_	7	VC	_	_
+9	through	through	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	242564	_
+11	spray	spray	_	NN	_	9	PMOD	242564	_
+12	of	of	_	IN	_	11	NMOD	242564	_
+13	a	a	_	DT	_	15	NMOD	242564	_
+14	powerful	powerful	_	JJ	_	15	NMOD	242564	_
+15	wave	wave	_	NN	_	12	PMOD	242564	_
+16	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	165711	_
+2	girl	girl	_	NN	_	0	ROOT	165711	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	165714	_
+5	hat	hat	_	NN	_	6	NMOD	165714	_
+6	sit	sit	_	NN	_	3	PMOD	_	_
+7	on	on	_	IN	_	2	NMOD	_	6
+8	a	a	_	DT	_	9	NMOD	165712	_
+9	beach	beach	_	NN	_	7	PMOD	165712	_
+10	while	while	_	IN	_	0	ROOT	_	_
+11	talking	talk	_	VBG	_	10	SUB	_	_
+12	on	on	_	IN	_	11	ADV	_	_
+13	her	her	_	PRP$	_	14	NMOD	165713	_
+14	cellphone	cellphone	_	NN	_	12	PMOD	165713	_
+15	.	.	_	.	_	0	ROOT	_	_

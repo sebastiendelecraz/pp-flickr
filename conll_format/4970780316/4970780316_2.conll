@@ -1,0 +1,12 @@
+1	Woman	Woman	_	NNP	_	5	SBJ	224602	_
+2	in	in	_	IN	_	5	TMP	_	_
+3	tan	tan	_	NN	_	4	NMOD	224606	_
+4	dress	dress	_	NN	_	2	PMOD	224606	_
+5	gazes	gaze	_	VBZ	_	0	ROOT	_	_
+6	into	into	_	IN	_	5	ADV	_	5
+7	the	the	_	DT	_	8	NMOD	0	_
+8	distance	distance	_	NN	_	6	PMOD	0	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	curious	curious	_	JJ	_	11	NMOD	224609	_
+11	expression	expression	_	NN	_	9	PMOD	224609	_
+12	.	.	_	.	_	5	P	_	_

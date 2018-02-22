@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	67681	_
+2	person	person	_	NN	_	0	ROOT	67681	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	67682	_
+5	brown	brown	_	JJ	_	6	NMOD	67682	_
+6	horse	horse	_	NN	_	3	PMOD	67682	_
+7	in	in	_	IN	_	2	LOC	_	_
+8	a	a	_	DT	_	9	NMOD	67683	_
+9	prairie	prairie	_	NN	_	7	PMOD	67683	_
+10	in front of	in front of	_	IN	_	2	NMOD	_	_
+11	tall	tall	_	JJ	_	12	NMOD	67684	_
+12	mountains	mountain	_	NNS	_	10	PMOD	67684	_
+13	.	.	_	.	_	0	ROOT	_	_

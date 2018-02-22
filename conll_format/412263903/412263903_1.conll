@@ -1,0 +1,20 @@
+1	Two	Two	_	CD	_	2	NMOD	156331	_
+2	kids	kid	_	NNS	_	6	SBJ	156331	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	hooded	hood	_	VBN	_	5	NMOD	156336	_
+5	sweatshirts	sweatshirt	_	NNS	_	3	OBJ	156336	_
+6	stand	stand	_	VBP	_	0	ROOT	_	_
+7	next to	next to	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	156334	_
+9	body	body	_	NN	_	7	PMOD	156334	_
+10	of	of	_	IN	_	9	NMOD	156334	_
+11	water	water	_	NN	_	10	PMOD	156334	_
+12	,	,	_	,	_	6	P	_	_
+13	as	as	_	IN	_	0	ROOT	_	_
+14	one	one	_	CD	_	15	SBJ	156337	_
+15	throws	throw	_	VBZ	_	13	SUB	_	_
+16	something	something	_	NN	_	15	OBJ	156340	_
+17	into	into	_	IN	_	15	DIR	_	15
+18	the	the	_	DT	_	19	NMOD	156332	_
+19	water	water	_	NN	_	17	PMOD	156332	_
+20	.	.	_	.	_	0	ROOT	_	_

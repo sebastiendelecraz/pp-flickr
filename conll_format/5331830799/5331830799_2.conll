@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	233807	_
+2	guitarist	guitarist	_	NN	_	5	SBJ	233807	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	drummer	drummer	_	NN	_	3	CONJ	233809	_
+5	appear	appear	_	VBP	_	0	ROOT	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	stage	stage	_	NN	_	6	PMOD	233808	_
+8	in front of	in front of	_	IN	_	5	LOC	_	5
+9	a	a	_	DT	_	11	NMOD	233811	_
+10	giant	giant	_	NN	_	11	NMOD	233811	_
+11	screen	screen	_	NN	_	8	PMOD	233811	_
+12	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	51267	_
+2	boy	boy	_	NN	_	3	SBJ	51267	_
+3	jumps	jump	_	VBZ	_	0	ROOT	_	_
+4	into	into	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	51268	_
+6	pool	pool	_	NN	_	4	PMOD	51268	_
+7	on	on	_	IN	_	3	ADV	_	3
+8	a	a	_	DT	_	11	NMOD	51269	_
+9	bright	bright	_	JJ	_	11	NMOD	51269	_
+10	sunny	sunny	_	JJ	_	11	NMOD	51269	_
+11	day	day	_	NN	_	7	PMOD	51269	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	16446	_
+2	man	man	_	NN	_	3	SBJ	16446	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	16447	_
+6	beach	beach	_	NN	_	4	PMOD	16447	_
+7	outside	outside	_	IN	_	3	LOC	_	3
+8	his	his	_	PRP$	_	9	NMOD	16449	_
+9	tent	tent	_	NN	_	7	PMOD	16449	_
+10	and	and	_	CC	_	3	COORD	_	_
+11	makes	make	_	VBZ	_	10	CONJ	_	_
+12	something	something	_	NN	_	11	OBJ	16448	_
+13	to	to	_	TO	_	12	NMOD	_	_
+14	eat	eat	_	VB	_	13	IM	_	_
+15	.	.	_	.	_	3	P	_	_

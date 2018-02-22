@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	218614	_
+2	bright	bright	_	JJ	_	4	NMOD	218614	_
+3	yellow	yellow	_	NN	_	4	NMOD	218614	_
+4	taxi	taxi	_	NN	_	5	SBJ	218614	_
+5	passes	pass	_	VBZ	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	MNR	_	5
+7	a	a	_	DT	_	9	NMOD	218615	_
+8	busy	busy	_	JJ	_	9	NMOD	218615	_
+9	street	street	_	NN	_	6	PMOD	218615	_
+10	in	in	_	IN	_	5	LOC	_	5
+11	a	a	_	DT	_	13	NMOD	218619	_
+12	crowded	crowd	_	VBN	_	13	NMOD	218619	_
+13	neighborhood	neighborhood	_	NN	_	10	PMOD	218619	_
+14	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,11 @@
+1	Race	Race	_	NNP	_	2	NMOD	85215	_
+2	cars	car	_	NNS	_	0	ROOT	85215	_
+3	driving	drive	_	VBG	_	2	APPO	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	rain	rain	_	NN	_	4	PMOD	85218	_
+6	on	on	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	85216	_
+8	racetrack	racetrack	_	NN	_	6	PMOD	85216	_
+9	at	at	_	IN	_	3	ADV	_	_
+10	night	night	_	NN	_	9	PMOD	85217	_
+11	.	.	_	.	_	0	ROOT	_	_

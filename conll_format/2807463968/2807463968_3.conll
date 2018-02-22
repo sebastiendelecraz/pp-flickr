@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	74098	_
+2	young	young	_	JJ	_	3	NMOD	74098	_
+3	woman	woman	_	NN	_	0	ROOT	74098	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	high	high	_	JJ	_	6	NMOD	74101	_
+6	heels	heel	_	NNS	_	4	PMOD	74101	_
+7	sitting	sit	_	VBG	_	6	APPO	_	_
+8	along	along	_	IN	_	7	LOC	_	7
+9	the	the	_	DT	_	10	NMOD	74099	_
+10	edge	edge	_	NN	_	8	PMOD	74099	_
+11	of	of	_	IN	_	10	NMOD	74099	_
+12	a	a	_	DT	_	13	NMOD	74099	_
+13	sidewalk	sidewalk	_	NN	_	11	PMOD	74099	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	74104	_
+16	city	city	_	NN	_	14	PMOD	74104	_
+17	.	.	_	.	_	0	ROOT	_	_

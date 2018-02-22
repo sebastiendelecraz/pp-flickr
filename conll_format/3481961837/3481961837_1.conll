@@ -1,0 +1,27 @@
+1	Person	Person	_	NNP	_	18	NAME	121521	_
+2	in	in	_	IN	_	18	LOC	_	_
+3	snorkeling	snorkel	_	VBG	_	2	PMOD	_	_
+4	gear	gear	_	NN	_	3	OBJ	121529	_
+5	,	,	_	,	_	18	P	_	_
+6	black	black	_	JJ	_	8	NMOD	121526	_
+7	hip	hip	_	NN	_	8	NMOD	121526	_
+8	boots	boot	_	NNS	_	18	SBJ	121526	_
+9	,	,	_	,	_	8	P	_	_
+10	red	red	_	JJ	_	8	APPO	121522	_
+11	and	and	_	CC	_	10	COORD	121522	_
+12	yellow	yellow	_	JJ	_	11	CONJ	121522	_
+13	attire	attire	_	NN	_	8	APPO	121522	_
+14	and	and	_	CC	_	13	COORD	_	_
+15	white	white	_	JJ	_	16	NMOD	121523	_
+16	helmet	helmet	_	NN	_	14	CONJ	121523	_
+17	,	,	_	,	_	8	P	_	_
+18	is	be	_	VBZ	_	0	ROOT	_	_
+19	poised	poise	_	VBN	_	18	VC	_	_
+20	next to	next to	_	IN	_	19	ADV	_	19
+21	iron	iron	_	NN	_	22	NMOD	121527	_
+22	fence	fence	_	NN	_	20	PMOD	121527	_
+23	with	with	_	IN	_	22	NMOD	_	_
+24	water	water	_	NN	_	23	PMOD	121524	_
+25	behind	behind	_	IN	_	22	LOC	_	_
+26	him	him	_	PRP	_	25	PMOD	0	_
+27	.	.	_	.	_	18	P	_	_

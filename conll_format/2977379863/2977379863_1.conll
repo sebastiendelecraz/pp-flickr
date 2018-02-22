@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	85169	_
+2	group	group	_	NN	_	0	ROOT	85169	_
+3	of	of	_	IN	_	2	NMOD	85169	_
+4	children	child	_	NNS	_	3	PMOD	85169	_
+5	dressed	dress	_	VBN	_	4	APPO	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	halloween	halloween	_	NN	_	8	NMOD	85175	_
+8	stand	stand	_	NN	_	6	PMOD	_	_
+9	in line with	in line with	_	IN	_	5	TMP	85170	8
+10	the	the	_	DT	_	11	NMOD	85176	_
+11	exception	exception	_	NN	_	9	PMOD	85176	_
+12	of	of	_	IN	_	11	NMOD	85176	_
+13	one	one	_	CD	_	14	NMOD	85176	_
+14	girl	girl	_	NN	_	12	PMOD	85176	_
+15	.	.	_	.	_	0	ROOT	_	_

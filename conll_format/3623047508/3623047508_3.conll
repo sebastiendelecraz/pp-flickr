@@ -1,0 +1,15 @@
+1	Musicians	musician	_	NNS	_	0	ROOT	132305	_
+2	playing	play	_	VBG	_	1	APPO	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	132306	_
+5	group	group	_	NN	_	3	PMOD	132306	_
+6	of	of	_	IN	_	5	NMOD	132306	_
+7	people	people	_	NN	_	6	PMOD	132306	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	blue	blue	_	JJ	_	10	NMOD	132308	_
+10	hats	hat	_	NNS	_	8	PMOD	132308	_
+11	on	on	_	IN	_	2	LOC	_	_
+12	in	in	_	IN	_	11	PMOD	_	_
+13	outdoor	outdoor	_	JJ	_	14	NMOD	132307	_
+14	settings	setting	_	NNS	_	12	PMOD	132307	_
+15	.	.	_	.	_	0	ROOT	_	_

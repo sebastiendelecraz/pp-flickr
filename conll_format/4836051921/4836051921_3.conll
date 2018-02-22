@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	2	NMOD	209198	_
+2	girls	girl	_	NNS	_	6	SBJ	209198	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	209201	_
+5	guy	guy	_	NN	_	3	CONJ	209201	_
+6	looking	look	_	VBG	_	0	ROOT	_	_
+7	through	through	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	209205	_
+9	window	window	_	NN	_	7	PMOD	209205	_
+10	at	at	_	IN	_	6	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	209199	_
+12	store	store	_	NN	_	10	PMOD	209199	_
+13	.	.	_	.	_	0	ROOT	_	_

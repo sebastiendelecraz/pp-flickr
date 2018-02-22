@@ -1,0 +1,8 @@
+1	Crowd	Crowd	_	NNP	_	2	NMOD	223616	_
+2	gathers	gather	_	NNS	_	0	ROOT	_	_
+3	near	near	_	IN	_	2	LOC	_	2
+4	adobe	adobe	_	NN	_	5	NMOD	223622	_
+5	building	building	_	NN	_	3	PMOD	_	_
+6	under	under	_	IN	_	2	NMOD	_	2
+7	cliff	cliff	_	NN	_	6	PMOD	223623	_
+8	.	.	_	.	_	0	ROOT	_	_

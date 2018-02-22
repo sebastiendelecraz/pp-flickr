@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	60721	_
+2	dogs	dog	_	NNS	_	5	SBJ	60721	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	collars	collar	_	NNS	_	3	OBJ	60726	_
+5	stand	stand	_	VBP	_	0	ROOT	_	_
+6	outdoors	outdoors	_	RB	_	7	PMOD	60725	_
+7	in	in	_	IN	_	5	ADV	_	_
+8	water	water	_	NN	_	7	PMOD	60722	_
+9	up to	up to	_	IN	_	5	LOC	_	8
+10	their	their	_	PRP$	_	11	NMOD	60727	_
+11	chests	chest	_	NNS	_	9	PMOD	60727	_
+12	.	.	_	.	_	5	P	_	_

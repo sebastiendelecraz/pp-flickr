@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	3	NMOD	54944	_
+2	young	young	_	JJ	_	3	NMOD	54944	_
+3	boy	boy	_	NN	_	0	ROOT	54944	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	a	a	_	DT	_	8	NMOD	54947	_
+6	samll	samll	_	CD	_	8	NMOD	54947	_
+7	cardboard	cardboard	_	JJ	_	8	NMOD	54947	_
+8	box	box	_	NN	_	4	PMOD	54947	_
+9	atop	atop	_	IN	_	3	NMOD	_	8
+10	his	his	_	PRP$	_	11	NMOD	54948	_
+11	head	head	_	NN	_	9	PMOD	54948	_
+12	.	.	_	.	_	0	ROOT	_	_

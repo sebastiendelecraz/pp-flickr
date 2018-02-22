@@ -1,0 +1,13 @@
+1	Three	Three	_	CD	_	2	NMOD	128883	_
+2	people	people	_	NN	_	3	SBJ	128883	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	around	around	_	IN	_	3	LOC	_	3
+5	the	the	_	DT	_	6	NMOD	128876	_
+6	bed	bed	_	NN	_	4	PMOD	128876	_
+7	of	of	_	IN	_	6	NMOD	128876	_
+8	a	a	_	DT	_	9	NMOD	128876	_
+9	truck	truck	_	NN	_	7	PMOD	128876	_
+10	filled	fill	_	VBN	_	9	APPO	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	produce	produce	_	NN	_	11	PMOD	128880	_
+13	.	.	_	.	_	0	ROOT	_	_

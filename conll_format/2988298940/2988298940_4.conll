@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	3	NMOD	85773	_
+2	large	large	_	JJ	_	3	NMOD	85773	_
+3	group	group	_	NN	_	0	ROOT	85773	_
+4	of	of	_	IN	_	3	NMOD	85773	_
+5	people	people	_	NN	_	4	PMOD	85773	_
+6	at	at	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	8	NMOD	85770	_
+8	concert	concert	_	NN	_	6	PMOD	85770	_
+9	.	.	_	.	_	0	ROOT	_	_

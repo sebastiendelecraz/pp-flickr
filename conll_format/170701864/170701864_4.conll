@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	19155	_
+2	children	child	_	NNS	_	3	SBJ	19155	_
+3	look	look	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	3
+5	Thomas	Thomas	_	NNP	_	4	PMOD	19151	_
+6	the	the	_	DT	_	7	NMOD	19152	_
+7	Train	Train	_	NNP	_	3	OBJ	19152	_
+8	from	from	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	10	NMOD	19156	_
+10	bench	bench	_	NN	_	8	PMOD	19156	_
+11	.	.	_	.	_	3	P	_	_

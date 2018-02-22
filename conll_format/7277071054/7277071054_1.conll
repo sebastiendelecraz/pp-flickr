@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	267758	_
+2	man	man	_	NN	_	0	ROOT	267758	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	267762	_
+5	white	white	_	JJ	_	6	NMOD	267762	_
+6	shirt	shirt	_	NN	_	3	PMOD	267762	_
+7	,	,	_	,	_	0	ROOT	_	_
+8	breakdances	breakdance	_	NNS	_	0	ROOT	267758	_
+9	in front of	in front of	_	IN	_	8	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	267760	_
+11	crowd	crowd	_	NN	_	9	PMOD	267760	_
+12	of	of	_	IN	_	11	NMOD	267760	_
+13	young	young	_	JJ	_	14	NMOD	267760	_
+14	boys	boy	_	NNS	_	12	PMOD	267760	_
+15	.	.	_	.	_	0	ROOT	_	_

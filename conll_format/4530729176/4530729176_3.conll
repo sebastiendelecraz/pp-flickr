@@ -1,0 +1,12 @@
+1	An	an	_	DT	_	3	NMOD	175858	_
+2	elderly	elderly	_	NN	_	3	NMOD	175858	_
+3	man	man	_	NN	_	4	SBJ	175858	_
+4	snips	snip	_	VBZ	_	0	ROOT	_	_
+5	tin	tin	_	NN	_	4	OBJ	175860	_
+6	in	in	_	IN	_	4	ADV	_	_
+7	preparation	preparation	_	NN	_	6	PMOD	175867	_
+8	for	for	_	IN	_	7	NMOD	_	7
+9	his	his	_	PRP$	_	11	NMOD	175866	_
+10	next	next	_	JJ	_	11	NMOD	175866	_
+11	project	project	_	NN	_	8	PMOD	175866	_
+12	.	.	_	.	_	4	P	_	_

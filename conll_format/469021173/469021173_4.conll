@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	191411	_
+2	man	man	_	NN	_	0	ROOT	191411	_
+3	walking	walk	_	VBG	_	2	APPO	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	brush	brush	_	NN	_	4	PMOD	191415	_
+6	with	with	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	10	NMOD	191412	_
+8	big	big	_	JJ	_	10	NMOD	191412	_
+9	orange	orange	_	JJ	_	10	NMOD	191412	_
+10	backpack	backpack	_	NN	_	6	PMOD	191412	_
+11	.	.	_	.	_	0	ROOT	_	_

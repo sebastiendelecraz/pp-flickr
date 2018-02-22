@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	256512	_
+2	family	family	_	NN	_	8	SBJ	256512	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	256515	_
+5	sleigh	sleigh	_	NN	_	3	PMOD	256515	_
+6	with	with	_	IN	_	2	NMOD	_	_
+7	Santa	Santa	_	NNP	_	6	PMOD	256514	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	pulled	pull	_	VBN	_	8	VC	_	_
+10	behind	behind	_	IN	_	9	LOC	_	9
+11	a	a	_	DT	_	12	NMOD	256510	_
+12	horse	horse	_	NN	_	10	PMOD	256510	_
+13	.	.	_	.	_	8	P	_	_

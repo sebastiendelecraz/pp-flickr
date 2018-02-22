@@ -1,0 +1,13 @@
+1	The	the	_	DT	_	2	NMOD	230011	_
+2	man	man	_	NN	_	3	SBJ	230011	_
+3	holds	hold	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	6	NMOD	230015	_
+5	wooden	wooden	_	JJ	_	6	NMOD	230015	_
+6	paddle	paddle	_	NN	_	3	OBJ	230015	_
+7	in	in	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	230012	_
+9	canoe	canoe	_	NN	_	7	PMOD	230012	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	his	his	_	PRP$	_	12	NMOD	230013	_
+12	dog	dog	_	NN	_	10	PMOD	230013	_
+13	.	.	_	.	_	3	P	_	_

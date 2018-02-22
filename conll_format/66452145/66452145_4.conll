@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	5	NMOD	256467	_
+2	large	large	_	JJ	_	5	NMOD	256467	_
+3	white	white	_	JJ	_	5	NMOD	256467	_
+4	cruise	cruise	_	NN	_	5	NMOD	256467	_
+5	ship	ship	_	NN	_	0	ROOT	256467	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	0	_
+8	background	background	_	NN	_	6	PMOD	0	_
+9	behind	behind	_	IN	_	5	NMOD	_	5
+10	a	a	_	DT	_	12	NMOD	256468	_
+11	black	black	_	JJ	_	12	NMOD	256468	_
+12	gate	gate	_	NN	_	9	PMOD	256468	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	117176	_
+2	officers	officer	_	NNS	_	3	SBJ	117176	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	riding	ride	_	VBG	_	3	VC	_	_
+5	horses	horse	_	NNS	_	4	OBJ	117181	_
+6	in	in	_	IN	_	4	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	117179	_
+8	city	city	_	NN	_	6	PMOD	117179	_
+9	near	near	_	IN	_	8	LOC	_	4
+10	some	some	_	DT	_	11	NMOD	117183	_
+11	trees	tree	_	NNS	_	9	PMOD	117183	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	flowers	flower	_	NNS	_	12	CONJ	117177	_
+14	.	.	_	.	_	3	P	_	_

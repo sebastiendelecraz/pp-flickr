@@ -1,0 +1,17 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	4	NMOD	90652	_
+4	silhouette	silhouette	_	NN	_	2	PRD	90652	_
+5	of	of	_	IN	_	4	NMOD	90652	_
+6	a	a	_	DT	_	7	NMOD	90652	_
+7	man	man	_	NN	_	5	PMOD	90652	_
+8	with	with	_	IN	_	7	NMOD	_	7
+9	a	a	_	DT	_	10	NMOD	90657	_
+10	backpack	backpack	_	NN	_	8	PMOD	90657	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	German	German	_	JJ	_	13	NMOD	90648	_
+13	Shepard	Shepard	_	NNP	_	11	CONJ	90648	_
+14	in	in	_	IN	_	10	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	90649	_
+16	snow	snow	_	NN	_	14	PMOD	90649	_
+17	.	.	_	.	_	2	P	_	_

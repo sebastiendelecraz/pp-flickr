@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	119393	_
+2	person	person	_	NN	_	6	SBJ	119393	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	119394	_
+5	bike	bike	_	NN	_	3	PMOD	119394	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	riding	ride	_	VBG	_	6	VC	_	_
+8	through	through	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	119395	_
+10	rocky	rocky	_	JJ	_	11	NMOD	119395	_
+11	trail	trail	_	NN	_	8	PMOD	119395	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	119399	_
+14	woods	wood	_	NNS	_	12	PMOD	119399	_
+15	.	.	_	.	_	6	P	_	_

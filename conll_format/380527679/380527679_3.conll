@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	3	NMOD	143324	_
+2	fruit	fruit	_	NN	_	3	NMOD	143324	_
+3	stand	stand	_	NN	_	0	ROOT	143324	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	143323	_
+6	group	group	_	NN	_	4	PMOD	143323	_
+7	of	of	_	IN	_	6	NMOD	143323	_
+8	people	people	_	NN	_	7	PMOD	143323	_
+9	standing	stand	_	VBG	_	6	APPO	_	_
+10	around	around	_	IN	_	9	ADV	_	_
+11	it	it	_	PRP	_	10	PMOD	0	_
+12	.	.	_	.	_	0	ROOT	_	_

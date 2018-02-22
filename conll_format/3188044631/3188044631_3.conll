@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	99613	_
+2	man	man	_	NN	_	0	ROOT	99613	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	99615	_
+5	woman	woman	_	NN	_	3	CONJ	99615	_
+6	in	in	_	IN	_	2	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	99621	_
+8	apron	apron	_	NN	_	9	NMOD	99621	_
+9	stand	stand	_	NN	_	6	PMOD	_	_
+10	near	near	_	IN	_	9	LOC	_	9
+11	a	a	_	DT	_	12	NMOD	99622	_
+12	fireplace	fireplace	_	NN	_	10	PMOD	99622	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	Christmas	Christmas	_	NNP	_	15	NMOD	99614	_
+15	tree	tree	_	NN	_	13	CONJ	99614	_
+16	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	186228	_
+2	man	man	_	NN	_	7	SBJ	186228	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	186230	_
+5	white	white	_	JJ	_	6	NMOD	186230	_
+6	jacket	jacket	_	NN	_	3	PMOD	186230	_
+7	sits	sit	_	VBZ	_	0	ROOT	_	_
+8	behind	behind	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	11	NMOD	186229	_
+10	large	large	_	JJ	_	11	NMOD	186229	_
+11	machine	machine	_	NN	_	8	PMOD	186229	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	the	the	_	DT	_	14	NMOD	186231	_
+14	logo	logo	_	NN	_	12	PMOD	186231	_
+15	DBS	DBS	_	NNPS	_	14	APPO	186231	_
+16	.	.	_	.	_	7	P	_	_

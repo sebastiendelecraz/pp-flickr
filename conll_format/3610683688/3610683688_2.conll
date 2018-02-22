@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	2	NMOD	131433	_
+2	dog	dog	_	NN	_	3	SBJ	131433	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	stepping	step	_	VBG	_	3	VC	_	_
+5	out	out	_	RP	_	4	PRT	_	_
+6	into	into	_	IN	_	4	ADV	_	4
+7	the	the	_	DT	_	8	NMOD	131435	_
+8	water	water	_	NN	_	6	PMOD	131435	_
+9	towards	towards	_	IN	_	4	ADV	_	4
+10	the	the	_	DT	_	11	NMOD	131434	_
+11	sun	sun	_	NN	_	14	NMOD	131434	_
+12	'	'	_	POS	_	11	SUFFIX	131434	_
+13	s	s	_	NN	_	14	NMOD	131434	_
+14	reflection	reflection	_	NN	_	9	PMOD	131434	_
+15	.	.	_	.	_	3	P	_	_

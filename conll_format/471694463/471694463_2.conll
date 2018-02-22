@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	194418	_
+2	woman	woman	_	NN	_	0	ROOT	194418	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	194422	_
+5	microphone	microphone	_	NN	_	3	PMOD	194422	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	194417	_
+8	man	man	_	NN	_	6	CONJ	194417	_
+9	with	with	_	IN	_	2	NMOD	_	_
+10	a	a	_	DT	_	12	NMOD	194421	_
+11	laptop	laptop	_	JJ	_	12	NMOD	194421	_
+12	stand	stand	_	NN	_	9	PMOD	_	_
+13	behind	behind	_	IN	_	12	LOC	_	12
+14	a	a	_	DT	_	15	NMOD	194424	_
+15	table	table	_	NN	_	13	PMOD	194424	_
+16	.	.	_	.	_	0	ROOT	_	_

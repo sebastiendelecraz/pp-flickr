@@ -1,0 +1,10 @@
+1	Group	Group	_	NNP	_	0	ROOT	101631	_
+2	of	of	_	IN	_	1	NMOD	101631	_
+3	people	people	_	NN	_	2	PMOD	101631	_
+4	setting	set	_	VBG	_	3	APPO	_	_
+5	in	in	_	IN	_	4	LOC	_	4
+6	a	a	_	DT	_	7	NMOD	101635	_
+7	circle	circle	_	NN	_	5	PMOD	101635	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	chairs	chair	_	NNS	_	8	PMOD	101636	_
+10	.	.	_	.	_	0	ROOT	_	_

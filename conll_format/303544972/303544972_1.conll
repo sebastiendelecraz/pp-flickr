@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	89102	_
+2	woman	woman	_	NN	_	3	SBJ	89102	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	89109	_
+6	porch	porch	_	NN	_	4	PMOD	89109	_
+7	next to	next to	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	89107	_
+9	motorcycle	motorcycle	_	NN	_	7	PMOD	89107	_
+10	sewing	sew	_	VBG	_	9	APPO	_	_
+11	some	some	_	DT	_	13	NMOD	89105	_
+12	pink	pink	_	NN	_	13	NMOD	89105	_
+13	fabric	fabric	_	NN	_	10	OBJ	89105	_
+14	.	.	_	.	_	0	ROOT	_	_

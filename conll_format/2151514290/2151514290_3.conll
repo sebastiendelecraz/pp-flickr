@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	31363	_
+2	black-haired	black-haired	_	JJ	_	3	NMOD	31363	_
+3	woman	woman	_	NN	_	8	SBJ	31363	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	31364	_
+6	brown	brown	_	JJ	_	7	NMOD	31364	_
+7	coat	coat	_	NN	_	4	PMOD	31364	_
+8	looks	look	_	VBZ	_	0	ROOT	_	_
+9	at	at	_	IN	_	8	ADV	_	_
+10	the	the	_	DT	_	11	NMOD	31370	_
+11	sky	sky	_	NN	_	9	PMOD	31370	_
+12	through	through	_	IN	_	8	ADV	_	8
+13	broken	break	_	VBN	_	14	NMOD	31368	_
+14	windows	window	_	NNS	_	12	PMOD	31368	_
+15	.	.	_	.	_	8	P	_	_

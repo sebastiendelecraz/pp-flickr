@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	226318	_
+2	bare-chested	bare-chested	_	CD	_	3	NMOD	226318	_
+3	man	man	_	NN	_	10	SBJ	226318	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	6	NMOD	226320	_
+6	cigarette	cigarette	_	NN	_	4	PMOD	226320	_
+7	in	in	_	IN	_	3	LOC	_	_
+8	his	his	_	PRP$	_	9	NMOD	226323	_
+9	mouth	mouth	_	NN	_	7	PMOD	226323	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	tying	tie	_	VBG	_	10	VC	_	_
+12	a	a	_	DT	_	15	NMOD	226319	_
+13	green	green	_	JJ	_	15	NMOD	226319	_
+14	trash	trash	_	NN	_	15	NMOD	226319	_
+15	bag	bag	_	NN	_	11	OBJ	226319	_
+16	.	.	_	.	_	10	P	_	_

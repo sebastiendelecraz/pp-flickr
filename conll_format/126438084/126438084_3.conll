@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	6660	_
+2	man	man	_	NN	_	0	ROOT	6660	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	6660	_
+6	lotus	lotus	_	NN	_	7	NMOD	6660	_
+7	position	position	_	NN	_	4	PMOD	6660	_
+8	among	among	_	IN	_	7	LOC	_	3
+9	several	several	_	DT	_	11	NMOD	6662	_
+10	large	large	_	JJ	_	11	NMOD	6662	_
+11	baskets	basket	_	NNS	_	8	PMOD	6662	_
+12	of	of	_	IN	_	11	NMOD	6662	_
+13	vegetables	vegetable	_	NNS	_	12	PMOD	6662	_
+14	.	.	_	.	_	0	ROOT	_	_

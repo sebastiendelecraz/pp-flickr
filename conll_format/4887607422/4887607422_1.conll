@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	4	NMOD	214915	_
+2	light	light	_	JJ	_	4	NMOD	214915	_
+3	tan	tan	_	NN	_	4	NMOD	214915	_
+4	cat	cat	_	NN	_	5	SBJ	214915	_
+5	laying	lay	_	VBG	_	0	ROOT	_	_
+6	down	down	_	RP	_	5	PRT	_	_
+7	on	on	_	IN	_	5	ADV	_	_
+8	a	a	_	DT	_	10	NMOD	214916	_
+9	concrete	concrete	_	JJ	_	10	NMOD	214916	_
+10	ledge	ledge	_	NN	_	7	PMOD	214916	_
+11	next to	next to	_	IN	_	5	ADV	_	5
+12	the	the	_	DT	_	13	NMOD	214918	_
+13	bushes	bush	_	NNS	_	11	PMOD	214918	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	109682	_
+2	large	large	_	JJ	_	3	NMOD	109682	_
+3	group	group	_	NN	_	0	ROOT	109682	_
+4	of	of	_	IN	_	3	NMOD	109682	_
+5	Asians	Asians	_	JJ	_	6	NMOD	109682	_
+6	standing	standing	_	NN	_	4	PMOD	_	_
+7	under	under	_	IN	_	3	LOC	_	6
+8	a	a	_	DT	_	11	NMOD	109683	_
+9	large	large	_	JJ	_	11	NMOD	109683	_
+10	red	red	_	JJ	_	11	NMOD	109683	_
+11	banner	banner	_	NN	_	7	PMOD	109683	_
+12	.	.	_	.	_	0	ROOT	_	_

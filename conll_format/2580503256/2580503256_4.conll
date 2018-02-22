@@ -1,0 +1,12 @@
+1	Someone	someone	_	NN	_	0	ROOT	59424	_
+2	on	on	_	IN	_	1	NMOD	_	_
+3	a	a	_	DT	_	4	NMOD	59430	_
+4	skateboard	skateboard	_	NN	_	2	PMOD	59430	_
+5	around	around	_	IN	_	1	LOC	_	1
+6	a	a	_	DT	_	7	NMOD	59426	_
+7	ramp	ramp	_	NN	_	5	PMOD	59426	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	59427	_
+10	skate	skate	_	NN	_	11	NMOD	59427	_
+11	park	park	_	NN	_	8	PMOD	59427	_
+12	.	.	_	.	_	0	ROOT	_	_

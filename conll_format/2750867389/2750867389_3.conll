@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	70404	_
+2	man	man	_	NN	_	3	SBJ	70404	_
+3	drives	drive	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	70406	_
+5	vehicle	vehicle	_	NN	_	3	OBJ	70406	_
+6	with	with	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	70405	_
+8	child	child	_	NN	_	6	PMOD	70405	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	his	his	_	PRP$	_	11	NMOD	70407	_
+11	lap	lap	_	NN	_	9	PMOD	70407	_
+12	.	.	_	.	_	3	P	_	_

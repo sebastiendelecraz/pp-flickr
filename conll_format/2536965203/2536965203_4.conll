@@ -1,0 +1,9 @@
+1	Two	Two	_	CD	_	2	NMOD	56123	_
+2	men	man	_	NNS	_	0	ROOT	56123	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	56124	_
+5	dolly	dolly	_	NN	_	3	PMOD	56124	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	an	an	_	DT	_	8	NMOD	56125	_
+8	escalator	escalator	_	NN	_	6	PMOD	56125	_
+9	.	.	_	.	_	0	ROOT	_	_

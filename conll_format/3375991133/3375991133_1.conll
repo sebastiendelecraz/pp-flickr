@@ -1,0 +1,15 @@
+1	People	People	_	NNPS	_	2	NAME	113981	_
+2	in	in	_	IN	_	5	LOC	_	_
+3	bathing	bath	_	VBG	_	2	PMOD	113983	_
+4	suits	suit	_	NNS	_	3	OBJ	113983	_
+5	bend	bend	_	VBP	_	0	ROOT	_	_
+6	down	down	_	RP	_	5	PRT	_	_
+7	and	and	_	CC	_	5	COORD	_	_
+8	reach	reach	_	VB	_	7	CONJ	_	_
+9	into	into	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	113982	_
+11	water	water	_	NN	_	9	PMOD	113982	_
+12	of	of	_	IN	_	11	NMOD	113982	_
+13	a	a	_	DT	_	14	NMOD	113982	_
+14	lake	lake	_	NN	_	12	PMOD	113982	_
+15	.	.	_	.	_	5	P	_	_

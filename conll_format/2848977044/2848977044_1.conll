@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	76722	_
+2	rodeo	rodeo	_	NN	_	3	NMOD	76722	_
+3	rider	rider	_	NN	_	4	SBJ	76722	_
+4	doing	do	_	VBG	_	15	SBJ	_	_
+5	a	a	_	DT	_	7	NMOD	0	_
+6	vertical	vertical	_	JJ	_	7	NMOD	0	_
+7	trick	trick	_	NN	_	4	OBJ	0	_
+8	on	on	_	IN	_	7	NMOD	_	4
+9	a	a	_	DT	_	11	NMOD	76724	_
+10	brown	brown	_	JJ	_	11	NMOD	76724	_
+11	horse	horse	_	NN	_	8	PMOD	76724	_
+12	as	as	_	IN	_	7	NMOD	_	_
+13	an	an	_	DT	_	14	NMOD	76726	_
+14	audience	audience	_	NN	_	12	PMOD	76726	_
+15	looks	look	_	VBZ	_	0	ROOT	_	_
+16	on	on	_	IN	_	15	ADV	_	_
+17	.	.	_	.	_	15	P	_	_

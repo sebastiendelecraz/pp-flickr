@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	167034	_
+2	large	large	_	JJ	_	3	NMOD	167034	_
+3	group	group	_	NN	_	6	SBJ	167034	_
+4	of	of	_	IN	_	3	NMOD	167034	_
+5	Africans	Africans	_	JJ	_	4	PMOD	167034	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	having	have	_	VBG	_	6	VC	_	_
+8	their	their	_	PRP$	_	9	NMOD	167045	_
+9	picture	picture	_	NN	_	7	OBJ	167045	_
+10	taken	take	_	VBN	_	9	APPO	_	_
+11	in	in	_	IN	_	10	LOC	_	10
+12	a	a	_	DT	_	13	NMOD	167035	_
+13	clearing	clearing	_	NN	_	11	PMOD	167035	_
+14	in	in	_	IN	_	10	TMP	_	_
+15	a	a	_	DT	_	16	NMOD	167036	_
+16	jungle	jungle	_	NN	_	14	PMOD	167036	_
+17	.	.	_	.	_	6	P	_	_

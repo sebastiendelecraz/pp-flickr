@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	182911	_
+2	large	large	_	JJ	_	3	NMOD	182911	_
+3	group	group	_	NN	_	6	SBJ	182911	_
+4	of	of	_	IN	_	3	NMOD	182911	_
+5	individuals	individual	_	NNS	_	4	PMOD	182911	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	gathered	gather	_	VBN	_	6	VC	_	_
+8	around	around	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	11	NMOD	182912	_
+10	bright	bright	_	JJ	_	11	NMOD	182912	_
+11	light	light	_	NN	_	8	PMOD	182912	_
+12	at	at	_	IN	_	11	LOC	_	_
+13	night	night	_	NN	_	12	PMOD	182918	_
+14	.	.	_	.	_	6	P	_	_

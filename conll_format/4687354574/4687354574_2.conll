@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	190803	_
+2	woman	woman	_	NN	_	9	SBJ	190803	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	8	NMOD	190804	_
+5	blue	blue	_	JJ	_	8	NMOD	190804	_
+6	and	and	_	CC	_	5	COORD	190804	_
+7	green	green	_	JJ	_	6	CONJ	190804	_
+8	dress	dress	_	NN	_	3	PMOD	190804	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	standing	stand	_	VBG	_	9	VC	_	_
+11	in front of	in front of	_	IN	_	10	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	190810	_
+13	woman	woman	_	NN	_	11	PMOD	190810	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	a	a	_	DT	_	17	NMOD	190808	_
+16	purple	purple	_	NN	_	17	NMOD	190808	_
+17	dress	dress	_	NN	_	14	PMOD	190808	_
+18	with	with	_	IN	_	17	NMOD	_	_
+19	a	a	_	DT	_	22	NMOD	190809	_
+20	white	white	_	JJ	_	22	NMOD	190809	_
+21	lace	lace	_	NN	_	22	NMOD	190809	_
+22	collar	collar	_	NN	_	18	PMOD	190809	_
+23	.	.	_	.	_	9	P	_	_

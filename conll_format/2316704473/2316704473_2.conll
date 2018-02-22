@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	41187	_
+2	man	man	_	NN	_	3	SBJ	41187	_
+3	poses	pose	_	VBZ	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	41195	_
+6	picture	picture	_	NN	_	4	PMOD	41195	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	41190	_
+9	crowd	crowd	_	NN	_	7	PMOD	41190	_
+10	and	and	_	CC	_	6	COORD	_	_
+11	the	the	_	DT	_	13	NMOD	41189	_
+12	eiffel	eiffel	_	CD	_	13	NMOD	41189	_
+13	tower	tower	_	NN	_	10	CONJ	41189	_
+14	providing	provide	_	VBG	_	13	APPO	_	_
+15	a	a	_	DT	_	16	NMOD	41192	_
+16	backdrop	backdrop	_	NN	_	14	OBJ	41192	_
+17	.	.	_	.	_	3	P	_	_

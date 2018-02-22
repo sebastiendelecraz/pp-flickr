@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	160287	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	watching	watch	_	VBG	_	2	VC	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	traffic	traffic	_	NN	_	4	PMOD	160292	_
+6	in front of	in front of	_	IN	_	3	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	160294	_
+8	police	police	_	NN	_	9	NMOD	160294	_
+9	car	car	_	NN	_	6	PMOD	160294	_
+10	.	.	_	.	_	2	P	_	_

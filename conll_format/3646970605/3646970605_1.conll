@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	2	NMOD	134000	_
+2	group	group	_	NN	_	5	SBJ	134000	_
+3	of	of	_	IN	_	2	NMOD	134000	_
+4	adults	adult	_	NNS	_	3	PMOD	134000	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	standing	stand	_	VBG	_	5	VC	_	_
+7	under	under	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	134004	_
+9	tree	tree	_	NN	_	7	PMOD	134004	_
+10	in front of	in front of	_	IN	_	6	LOC	_	_
+11	a	a	_	DT	_	14	NMOD	134002	_
+12	red	red	_	JJ	_	14	NMOD	134002	_
+13	brick	brick	_	NN	_	14	NMOD	134002	_
+14	house	house	_	NN	_	10	PMOD	134002	_
+15	.	.	_	.	_	5	P	_	_

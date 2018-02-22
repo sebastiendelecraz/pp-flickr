@@ -1,0 +1,35 @@
+1	A	a	_	DT	_	2	NMOD	126921	_
+2	man	man	_	NN	_	11	SBJ	126921	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	126933	_
+5	hard	hard	_	JJ	_	6	NMOD	126933	_
+6	hat	hat	_	NN	_	3	PMOD	126933	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	blue	blue	_	JJ	_	10	NMOD	126934	_
+9	jean	jean	_	NN	_	10	NMOD	126934	_
+10	overalls	overall	_	NNS	_	7	CONJ	126934	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	standing	stand	_	VBG	_	11	VC	_	_
+13	in the middle of	in the middle of	_	IN	_	12	ADV	126924	12
+14	the	the	_	DT	_	15	NMOD	126924	_
+15	road	road	_	NN	_	13	PMOD	126924	_
+16	next to	next to	_	IN	_	12	ADV	_	12
+17	a	a	_	DT	_	20	NMOD	126929	_
+18	white	white	_	JJ	_	20	NMOD	126929	_
+19	work	work	_	NN	_	20	NMOD	126929	_
+20	van	van	_	NN	_	16	PMOD	126929	_
+21	and	and	_	CC	_	20	COORD	_	_
+22	an	an	_	DT	_	26	NMOD	126923	_
+23	dark	dark	_	JJ	_	26	NMOD	126923	_
+24	colored	color	_	VBN	_	26	NMOD	126923	_
+25	expensive	expensive	_	JJ	_	26	NMOD	126923	_
+26	sedan	sedan	_	NN	_	21	CONJ	126923	_
+27	,	,	_	,	_	12	P	_	_
+28	with	with	_	IN	_	12	ADV	_	_
+29	another	another	_	DT	_	30	NMOD	126926	_
+30	man	man	_	NN	_	28	PMOD	126926	_
+31	leaning	lean	_	VBG	_	30	APPO	_	_
+32	down	down	_	RP	_	31	PRT	_	_
+33	behind	behind	_	IN	_	31	LOC	_	_
+34	him	him	_	PRP	_	33	PMOD	0	_
+35	.	.	_	.	_	11	P	_	_

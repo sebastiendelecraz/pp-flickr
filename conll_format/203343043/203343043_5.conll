@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	25285	_
+2	man	man	_	NN	_	0	ROOT	25285	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	no	no	_	DT	_	5	NMOD	25289	_
+5	shirt	shirt	_	NN	_	3	PMOD	25289	_
+6	above	above	_	IN	_	5	NMOD	_	2
+7	a	a	_	DT	_	8	NMOD	25290	_
+8	dumpster	dumpster	_	NN	_	6	PMOD	25290	_
+9	.	.	_	.	_	0	ROOT	_	_

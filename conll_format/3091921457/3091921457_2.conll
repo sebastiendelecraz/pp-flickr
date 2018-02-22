@@ -1,0 +1,14 @@
+1	Children	child	_	NNS	_	2	SBJ	92912	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	staring	stare	_	VBG	_	2	VC	_	_
+4	out	out	_	RP	_	3	PRT	_	_
+5	the	the	_	DT	_	6	NMOD	92914	_
+6	window	window	_	NN	_	3	OBJ	92914	_
+7	of	of	_	IN	_	6	NMOD	92914	6
+8	a	a	_	DT	_	10	NMOD	92914	_
+9	blue	blue	_	JJ	_	10	NMOD	92914	_
+10	building	building	_	NN	_	7	PMOD	92914	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	red	red	_	JJ	_	13	NMOD	92914	_
+13	shutters	shutter	_	NNS	_	11	PMOD	92914	_
+14	.	.	_	.	_	2	P	_	_

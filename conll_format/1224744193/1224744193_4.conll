@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	5582	_
+2	people	people	_	NN	_	3	SBJ	5582	_
+3	fishing	fish	_	VBG	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	5584	_
+6	boat	boat	_	NN	_	4	PMOD	5584	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	5585	_
+9	river	river	_	NN	_	7	PMOD	5585	_
+10	.	.	_	.	_	0	ROOT	_	_

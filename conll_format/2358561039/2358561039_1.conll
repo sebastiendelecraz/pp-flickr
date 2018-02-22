@@ -1,0 +1,16 @@
+1	The	the	_	DT	_	2	NMOD	43950	_
+2	dogs	dog	_	NNS	_	3	SBJ	43950	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	pulling	pull	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	43952	_
+6	man	man	_	NN	_	4	OBJ	43952	_
+7	on	on	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	43951	_
+9	type	type	_	NN	_	7	PMOD	43951	_
+10	of	of	_	IN	_	9	NMOD	43951	_
+11	bike	bike	_	NN	_	10	PMOD	43951	_
+12	,	,	_	,	_	4	P	_	_
+13	through	through	_	IN	_	4	ADV	_	4
+14	the	the	_	DT	_	15	NMOD	43953	_
+15	snow	snow	_	NN	_	13	PMOD	43953	_
+16	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	197665	_
+2	woman	woman	_	NN	_	0	ROOT	197665	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	197667	_
+5	green	green	_	JJ	_	6	NMOD	197667	_
+6	blouse	blouse	_	NN	_	3	PMOD	197667	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	black	black	_	JJ	_	9	NMOD	197672	_
+9	skirt	skirt	_	NN	_	7	CONJ	197672	_
+10	sitting	sit	_	VBG	_	9	APPO	_	_
+11	on	on	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	197666	_
+13	bench	bench	_	NN	_	11	PMOD	197666	_
+14	in front of	in front of	_	IN	_	10	LOC	_	_
+15	an	an	_	DT	_	17	NMOD	197670	_
+16	elephant	elephant	_	NN	_	17	NMOD	197670	_
+17	model	model	_	NN	_	14	PMOD	197670	_
+18	.	.	_	.	_	0	ROOT	_	_

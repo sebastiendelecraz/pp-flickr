@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	151607	_
+2	solitary	solitary	_	JJ	_	4	NMOD	151607	_
+3	guitar	guitar	_	NN	_	4	NMOD	151607	_
+4	player	player	_	NN	_	7	SBJ	151607	_
+5	with	with	_	IN	_	4	NMOD	_	_
+6	dreadlocks	dreadlock	_	NNS	_	5	PMOD	151611	_
+7	sings	sing	_	VBZ	_	0	ROOT	_	_
+8	into	into	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	151609	_
+10	microphone	microphone	_	NN	_	8	PMOD	151609	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	stage	stage	_	NN	_	11	PMOD	151610	_
+13	.	.	_	.	_	7	P	_	_

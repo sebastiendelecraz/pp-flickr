@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	3	NMOD	256550	_
+2	para	para	_	NN	_	3	NMOD	256550	_
+3	jumpers	jumper	_	NNS	_	4	SBJ	256550	_
+4	are	be	_	VBP	_	0	ROOT	_	_
+5	gliding	glide	_	VBG	_	4	VC	_	_
+6	through	through	_	IN	_	5	DIR	_	5
+7	the	the	_	DT	_	8	NMOD	0	_
+8	air	air	_	NN	_	6	PMOD	0	_
+9	over	over	_	IN	_	5	ADV	_	5
+10	a	a	_	DT	_	13	NMOD	256544	_
+11	beautiful	beautiful	_	JJ	_	13	NMOD	256544	_
+12	blue	blue	_	JJ	_	13	NMOD	256544	_
+13	ocean	ocean	_	NN	_	9	PMOD	256544	_
+14	.	.	_	.	_	4	P	_	_

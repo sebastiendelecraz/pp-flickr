@@ -1,0 +1,8 @@
+1	man	man	_	NN	_	0	ROOT	29787	_
+2	on	on	_	IN	_	1	NMOD	_	1
+3	a	a	_	DT	_	4	NMOD	29783	_
+4	beach	beach	_	NN	_	2	PMOD	29783	_
+5	with	with	_	IN	_	1	NMOD	_	_
+6	a	a	_	DT	_	7	NMOD	29782	_
+7	baby	baby	_	NN	_	5	PMOD	29782	_
+8	.	.	_	.	_	0	ROOT	_	_

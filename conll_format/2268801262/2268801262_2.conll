@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	37990	_
+2	young	young	_	JJ	_	3	NMOD	37990	_
+3	girl	girl	_	NN	_	0	ROOT	37990	_
+4	folding	fold	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	37994	_
+6	white	white	_	JJ	_	7	NMOD	37994	_
+7	piece	piece	_	NN	_	4	OBJ	37994	_
+8	of	of	_	IN	_	7	NMOD	37994	_
+9	clothing	clothing	_	NN	_	8	PMOD	37994	_
+10	from	from	_	IN	_	7	NMOD	_	4
+11	a	a	_	DT	_	13	NMOD	37992	_
+12	laundry	laundry	_	NN	_	13	NMOD	37992	_
+13	basket	basket	_	NN	_	10	PMOD	37992	_
+14	.	.	_	.	_	0	ROOT	_	_

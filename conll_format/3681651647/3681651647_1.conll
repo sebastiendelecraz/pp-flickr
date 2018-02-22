@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	136502	_
+2	person	person	_	NN	_	3	SBJ	136502	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	dressed	dress	_	VBN	_	3	VC	_	_
+5	in	in	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	8	NMOD	136504	_
+7	black	black	_	JJ	_	8	NMOD	136504	_
+8	vest	vest	_	NN	_	5	PMOD	136504	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	hat	hat	_	NN	_	9	CONJ	136505	_
+11	with	with	_	IN	_	8	NMOD	_	_
+12	lots	lot	_	NNS	_	11	PMOD	136507	_
+13	of	of	_	IN	_	12	NMOD	136507	_
+14	flowers	flower	_	NNS	_	13	PMOD	136507	_
+15	attached	attach	_	VBN	_	14	APPO	_	_
+16	.	.	_	.	_	3	P	_	_

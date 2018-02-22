@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	41187	_
+2	man	man	_	NN	_	0	ROOT	41187	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	41191	_
+5	suit	suit	_	NN	_	3	PMOD	41191	_
+6	posing	pose	_	VBG	_	5	APPO	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	41196	_
+9	photo	photo	_	NN	_	7	PMOD	41196	_
+10	in front of	in front of	_	IN	_	6	LOC	_	_
+11	the	the	_	DT	_	13	NMOD	41189	_
+12	Eiffel	Eiffel	_	NNP	_	13	NAME	41189	_
+13	Tower	Tower	_	NNP	_	10	PMOD	41189	_
+14	.	.	_	.	_	0	ROOT	_	_

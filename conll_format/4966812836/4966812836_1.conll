@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	224106	_
+2	young	young	_	JJ	_	3	NMOD	224106	_
+3	boy	boy	_	NN	_	7	SBJ	224106	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	224108	_
+6	backpack	backpack	_	NN	_	4	OBJ	224108	_
+7	stands	stand	_	VBZ	_	0	ROOT	_	_
+8	in front of	in front of	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	224107	_
+10	vegetable	vegetable	_	JJ	_	11	NMOD	224107	_
+11	vendor	vendor	_	NN	_	8	PMOD	224107	_
+12	in	in	_	IN	_	11	LOC	_	7
+13	a	a	_	DT	_	15	NMOD	224110	_
+14	dirty	dirty	_	JJ	_	15	NMOD	224110	_
+15	street	street	_	NN	_	12	PMOD	224110	_
+16	.	.	_	.	_	7	P	_	_

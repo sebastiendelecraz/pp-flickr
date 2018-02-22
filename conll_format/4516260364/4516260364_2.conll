@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	174823	_
+2	woman	woman	_	NN	_	7	SBJ	174823	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	174826	_
+5	red	red	_	JJ	_	6	NMOD	174826	_
+6	jacket	jacket	_	NN	_	3	PMOD	174826	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	having	have	_	VBG	_	7	VC	_	_
+9	a	a	_	DT	_	10	NMOD	174825	_
+10	drink	drink	_	NN	_	8	OBJ	174825	_
+11	on	on	_	IN	_	8	ADV	_	_
+12	the	the	_	DT	_	13	NMOD	174827	_
+13	hood	hood	_	NN	_	11	PMOD	174827	_
+14	of	of	_	IN	_	13	NMOD	174827	13
+15	a	a	_	DT	_	16	NMOD	174827	_
+16	car	car	_	NN	_	14	PMOD	174827	_
+17	.	.	_	.	_	7	P	_	_

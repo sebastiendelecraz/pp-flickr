@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	137710	_
+2	man	man	_	NN	_	0	ROOT	137710	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	jeans	jean	_	NNS	_	3	PMOD	137719	_
+5	looking	look	_	VBG	_	4	APPO	_	_
+6	in	in	_	IN	_	5	ADV	_	_
+7	the	the	_	DT	_	8	NMOD	137713	_
+8	back	back	_	NN	_	6	PMOD	137713	_
+9	of	of	_	IN	_	8	NMOD	137713	_
+10	his	his	_	PRP$	_	11	NMOD	137713	_
+11	truck	truck	_	NN	_	9	PMOD	137713	_
+12	for	for	_	IN	_	11	NMOD	_	5
+13	something	something	_	NN	_	12	PMOD	137720	_
+14	.	.	_	.	_	0	ROOT	_	_

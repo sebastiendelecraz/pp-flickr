@@ -1,0 +1,11 @@
+1	Giant	Giant	_	NNP	_	2	NMOD	205075	_
+2	plastic	plastic	_	NN	_	3	SBJ	205075	_
+3	bears	bear	_	VBZ	_	0	ROOT	205075	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	205079	_
+6	downtown	downtown	_	JJ	_	7	NMOD	205079	_
+7	area	area	_	NN	_	4	PMOD	205079	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	candy	candy	_	NN	_	8	PMOD	205081	_
+10	inside	inside	_	IN	_	7	LOC	205081	_
+11	.	.	_	.	_	3	P	_	_

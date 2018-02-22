@@ -1,0 +1,11 @@
+1	Teens	teen	_	NNS	_	2	SBJ	128123	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	posing	pose	_	VBG	_	2	VC	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	128130	_
+6	picture	picture	_	NN	_	4	PMOD	128130	_
+7	at	at	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	128131	_
+9	crowded	crowded	_	JJ	_	10	NMOD	128131	_
+10	event	event	_	NN	_	7	PMOD	128131	_
+11	.	.	_	.	_	2	P	_	_

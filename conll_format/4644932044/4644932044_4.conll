@@ -1,0 +1,14 @@
+1	Bystanders	bystander	_	NNS	_	2	SBJ	186071	_
+2	watch	watch	_	VBP	_	0	ROOT	_	_
+3	the	the	_	DT	_	4	NMOD	186073	_
+4	aftermath	aftermath	_	NN	_	2	OBJ	186073	_
+5	of	of	_	IN	_	4	NMOD	186073	_
+6	an	an	_	DT	_	7	NMOD	186073	_
+7	accident	accident	_	NN	_	5	PMOD	186073	_
+8	between	between	_	IN	_	7	NMOD	_	7
+9	a	a	_	DT	_	13	NMOD	186077	_
+10	red	red	_	JJ	_	13	NMOD	186077	_
+11	and	and	_	CC	_	10	COORD	186077	_
+12	black	black	_	JJ	_	11	CONJ	186077	_
+13	car	car	_	NN	_	8	PMOD	186077	_
+14	.	.	_	.	_	2	P	_	_

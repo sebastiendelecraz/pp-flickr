@@ -1,0 +1,15 @@
+1	a	a	_	DT	_	3	NMOD	74040	_
+2	black	black	_	JJ	_	3	NMOD	74040	_
+3	dog	dog	_	NN	_	4	SBJ	74040	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	out of	out of	_	IN	_	4	DIR	_	4
+6	the	the	_	DT	_	7	NMOD	74044	_
+7	water	water	_	NN	_	5	PMOD	74044	_
+8	with	with	_	IN	_	4	ADV	_	_
+9	a	a	_	DT	_	11	NMOD	74041	_
+10	white	white	_	JJ	_	11	NMOD	74041	_
+11	ball	ball	_	NN	_	8	PMOD	74041	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	his	his	_	PRP$	_	14	NMOD	74042	_
+14	mouth	mouth	_	NN	_	12	PMOD	74042	_
+15	.	.	_	.	_	0	ROOT	_	_

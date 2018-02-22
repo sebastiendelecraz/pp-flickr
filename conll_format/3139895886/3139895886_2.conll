@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	5	NMOD	96175	_
+2	black	black	_	JJ	_	5	NMOD	96175	_
+3	and	and	_	CC	_	2	COORD	96175	_
+4	white	white	_	JJ	_	3	CONJ	96175	_
+5	dog	dog	_	NN	_	6	SBJ	96175	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	jumping	jump	_	VBG	_	6	VC	_	_
+8	through	through	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	96176	_
+10	field	field	_	NN	_	8	PMOD	96176	_
+11	of	of	_	IN	_	10	NMOD	96176	_
+12	brown	brown	_	JJ	_	13	NMOD	96176	_
+13	grass	grass	_	NN	_	11	PMOD	96176	_
+14	.	.	_	.	_	6	P	_	_

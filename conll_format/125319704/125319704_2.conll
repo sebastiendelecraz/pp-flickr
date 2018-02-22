@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	6422	_
+2	bicyclists	bicyclist	_	NNS	_	3	SBJ	6422	_
+3	pose	pose	_	VBP	_	0	ROOT	_	_
+4	by	by	_	IN	_	3	LGS	_	3
+5	a	a	_	DT	_	6	NMOD	6426	_
+6	stream	stream	_	NN	_	4	PMOD	6426	_
+7	for	for	_	IN	_	6	NMOD	_	3
+8	a	a	_	DT	_	9	NMOD	6430	_
+9	picture	picture	_	NN	_	7	PMOD	6430	_
+10	.	.	_	.	_	3	P	_	_

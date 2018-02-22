@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	162102	_
+2	stand	stand	_	VBP	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	162103	_
+5	park	park	_	NN	_	3	PMOD	162103	_
+6	behind	behind	_	IN	_	2	LOC	_	2
+7	an	an	_	DT	_	9	NMOD	162103	_
+8	ornamental	ornamental	_	JJ	_	9	NMOD	162103	_
+9	boat	boat	_	NN	_	6	PMOD	162103	_
+10	.	.	_	.	_	2	P	_	_

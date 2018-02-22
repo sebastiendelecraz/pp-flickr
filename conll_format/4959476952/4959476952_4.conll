@@ -1,0 +1,8 @@
+1	Indian	Indian	_	JJ	_	2	NMOD	223375	_
+2	women	woman	_	NNS	_	3	SBJ	223375	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	near	near	_	IN	_	3	LOC-PRD	_	3
+5	piles	pile	_	NNS	_	4	PMOD	223378	_
+6	of	of	_	IN	_	5	NMOD	223378	_
+7	dirt	dirt	_	NN	_	6	PMOD	223378	_
+8	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	205744	_
+2	man	man	_	NN	_	0	ROOT	205744	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	205750	_
+5	striped	stripe	_	VBN	_	6	NMOD	205750	_
+6	shirt	shirt	_	NN	_	3	PMOD	205750	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	behind	behind	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	11	NMOD	205745	_
+10	large	large	_	JJ	_	11	NMOD	205745	_
+11	pile	pile	_	NN	_	8	PMOD	205745	_
+12	of	of	_	IN	_	11	NMOD	205745	_
+13	fruits	fruit	_	NNS	_	12	PMOD	205745	_
+14	.	.	_	.	_	0	ROOT	_	_

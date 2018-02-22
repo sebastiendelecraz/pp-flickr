@@ -1,0 +1,11 @@
+1	It	it	_	PRP	_	2	SBJ	0	_
+2	looks	look	_	VBZ	_	0	ROOT	_	_
+3	like	like	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	76652	_
+5	school	school	_	NN	_	3	PMOD	76652	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	children	child	_	NNS	_	6	PMOD	76653	_
+8	sitting	sit	_	VBG	_	5	APPO	_	_
+9	outside of	outside of	_	IN	_	8	ADV	_	_
+10	it	it	_	PRP	_	9	PMOD	0	_
+11	.	.	_	.	_	2	P	_	_

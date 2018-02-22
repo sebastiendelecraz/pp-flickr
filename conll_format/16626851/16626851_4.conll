@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	2	NMOD	18236	_
+2	people	people	_	NN	_	3	SBJ	18236	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	18238	_
+6	grassy	grassy	_	JJ	_	7	NMOD	18238	_
+7	lawn	lawn	_	NN	_	4	PMOD	18238	_
+8	in front of	in front of	_	IN	_	3	TMP	_	3
+9	a	a	_	DT	_	10	NMOD	18237	_
+10	building	building	_	NN	_	8	PMOD	18237	_
+11	.	.	_	.	_	3	P	_	_

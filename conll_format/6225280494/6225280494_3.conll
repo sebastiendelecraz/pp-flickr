@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	250536	_
+2	man	man	_	NN	_	0	ROOT	250536	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	9	NMOD	250537	_
+5	green	green	_	JJ	_	9	NMOD	250537	_
+6	and	and	_	CC	_	5	COORD	250537	_
+7	red	red	_	JJ	_	6	CONJ	250537	_
+8	top	top	_	NN	_	9	NMOD	250537	_
+9	jumps	jump	_	NNS	_	3	PMOD	_	_
+10	over	over	_	IN	_	2	NMOD	_	9
+11	a	a	_	DT	_	12	NMOD	250538	_
+12	hurdle	hurdle	_	NN	_	10	PMOD	250538	_
+13	on	on	_	IN	_	2	LOC	_	_
+14	a	a	_	DT	_	16	NMOD	250539	_
+15	running	run	_	VBG	_	16	NMOD	250539	_
+16	track	track	_	NN	_	13	PMOD	250539	_
+17	.	.	_	.	_	0	ROOT	_	_

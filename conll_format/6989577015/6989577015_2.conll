@@ -1,0 +1,14 @@
+1	Three	Three	_	CD	_	3	NMOD	263294	_
+2	young	young	_	JJ	_	3	NMOD	263294	_
+3	boys	boy	_	NNS	_	5	SBJ	263294	_
+4	,	,	_	,	_	5	P	_	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	playing	play	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	263295	_
+9	sand	sand	_	NN	_	7	PMOD	263295	_
+10	along	along	_	IN	_	9	LOC	_	6
+11	the	the	_	DT	_	13	NMOD	0	_
+12	beach	beach	_	NN	_	13	NMOD	0	_
+13	side	side	_	NN	_	10	PMOD	0	_
+14	.	.	_	.	_	5	P	_	_

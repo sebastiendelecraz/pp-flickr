@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	86203	_
+2	man	man	_	NN	_	3	SBJ	86203	_
+3	rests	rest	_	VBZ	_	0	ROOT	_	_
+4	against	against	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	86206	_
+6	cement	cement	_	NN	_	7	NMOD	86206	_
+7	pillar	pillar	_	NN	_	4	PMOD	86206	_
+8	with	with	_	IN	_	7	NMOD	_	_
+9	his	his	_	PRP$	_	10	NMOD	86210	_
+10	hands	hand	_	NNS	_	8	PMOD	86210	_
+11	on	on	_	IN	_	7	NMOD	_	_
+12	metal	metal	_	NN	_	13	NMOD	86204	_
+13	equipment	equipment	_	NN	_	11	PMOD	86204	_
+14	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,12 @@
+1	Man	Man	_	NNP	_	6	SBJ	267331	_
+2	in	in	_	IN	_	6	LOC	_	1
+3	a	a	_	DT	_	5	NMOD	267336	_
+4	blue	blue	_	JJ	_	5	NMOD	267336	_
+5	shirt	shirt	_	NN	_	2	PMOD	267336	_
+6	fires	fire	_	VBZ	_	0	ROOT	_	_
+7	a	a	_	DT	_	8	NMOD	267334	_
+8	gun	gun	_	NN	_	6	OBJ	267334	_
+9	at	at	_	IN	_	6	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	267338	_
+11	target	target	_	NN	_	9	PMOD	267338	_
+12	.	.	_	.	_	6	P	_	_

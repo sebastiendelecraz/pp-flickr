@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	SBJ	216286	_
+2	gathered	gather	_	VBD	_	0	ROOT	_	_
+3	outside of	outside of	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	216288	_
+5	church	church	_	NN	_	3	PMOD	216288	_
+6	on	on	_	IN	_	2	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	216287	_
+8	stairs	stair	_	NNS	_	6	PMOD	216287	_
+9	.	.	_	.	_	2	P	_	_

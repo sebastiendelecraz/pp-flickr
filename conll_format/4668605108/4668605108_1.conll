@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	188462	_
+2	blond	blond	_	JJ	_	3	NMOD	188462	_
+3	woman	woman	_	NN	_	0	ROOT	188462	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	9	NMOD	188463	_
+6	blue	blue	_	JJ	_	9	NMOD	188463	_
+7	tank	tank	_	NN	_	8	NMOD	188463	_
+8	top	top	_	NN	_	9	NMOD	188463	_
+9	glances	glance	_	NNS	_	4	PMOD	_	_
+10	at	at	_	IN	_	3	LOC	_	_
+11	an	an	_	DT	_	13	NMOD	188467	_
+12	unidentified	unidentified	_	JJ	_	13	NMOD	188467	_
+13	figure	figure	_	NN	_	10	PMOD	188467	_
+14	in front of	in front of	_	IN	_	3	NMOD	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	camera	camera	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

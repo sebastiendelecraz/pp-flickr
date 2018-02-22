@@ -1,0 +1,19 @@
+1	A	a	_	DT	_	3	NMOD	91055	_
+2	small	small	_	JJ	_	3	NMOD	91055	_
+3	child	child	_	NN	_	7	SBJ	91055	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	91056	_
+6	coat	coat	_	NN	_	4	PMOD	91056	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	running	run	_	VBG	_	7	VC	_	_
+9	through	through	_	IN	_	8	DIR	_	8
+10	some	some	_	DT	_	12	NMOD	91057	_
+11	dead	dead	_	JJ	_	12	NMOD	91057	_
+12	leaves	leaf	_	NNS	_	9	PMOD	91057	_
+13	on	on	_	IN	_	8	TMP	_	_
+14	the	the	_	DT	_	15	NMOD	0	_
+15	ground	ground	_	NN	_	13	PMOD	0	_
+16	next to	next to	_	IN	_	8	TMP	_	8
+17	a	a	_	DT	_	18	NMOD	91060	_
+18	road	road	_	NN	_	16	PMOD	91060	_
+19	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	35414	_
+2	view	view	_	NN	_	0	ROOT	35414	_
+3	of	of	_	IN	_	2	NMOD	35414	_
+4	the	the	_	DT	_	5	NMOD	35414	_
+5	water	water	_	NN	_	3	PMOD	35414	_
+6	from	from	_	IN	_	2	NMOD	_	2
+7	inside	inside	_	RB	_	9	NMOD	_	_
+8	a	a	_	DT	_	9	NMOD	35419	_
+9	ferry	ferry	_	NN	_	6	PMOD	35419	_
+10	.	.	_	.	_	0	ROOT	_	_

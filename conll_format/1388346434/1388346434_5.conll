@@ -1,0 +1,8 @@
+1	Man	Man	_	NNP	_	2	SBJ	10829	_
+2	leaning	lean	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	ledge	ledge	_	NN	_	3	PMOD	10832	_
+5	of	of	_	IN	_	4	NMOD	10832	4
+6	a	a	_	DT	_	7	NMOD	10832	_
+7	balcony	balcony	_	NN	_	5	PMOD	10832	_
+8	.	.	_	.	_	0	ROOT	_	_

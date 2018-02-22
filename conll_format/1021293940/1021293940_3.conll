@@ -1,0 +1,9 @@
+1	Two	Two	_	CD	_	2	NMOD	622	_
+2	hikers	hiker	_	NNS	_	3	SBJ	622	_
+3	resting	rest	_	VBG	_	0	ROOT	_	_
+4	by	by	_	IN	_	3	MNR	_	3
+5	a	a	_	DT	_	6	NMOD	623	_
+6	patch	patch	_	NN	_	4	PMOD	623	_
+7	of	of	_	IN	_	6	NMOD	623	_
+8	snow	snow	_	NN	_	7	PMOD	623	_
+9	.	.	_	.	_	0	ROOT	_	_

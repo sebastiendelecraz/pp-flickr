@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	188585	_
+2	blond	blond	_	JJ	_	3	NMOD	188585	_
+3	businessman	businessman	_	NN	_	7	SBJ	188585	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	188586	_
+6	suit	suit	_	NN	_	4	PMOD	188586	_
+7	walks	walk	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	188588	_
+10	sidewalk	sidewalk	_	NN	_	8	PMOD	188588	_
+11	in	in	_	IN	_	7	LOC	_	7
+12	a	a	_	DT	_	13	NMOD	188587	_
+13	city	city	_	NN	_	11	PMOD	188587	_
+14	.	.	_	.	_	7	P	_	_

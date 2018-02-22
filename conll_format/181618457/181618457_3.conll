@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	21352	_
+2	man	man	_	NN	_	6	SBJ	21352	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	21362	_
+5	beard	beard	_	NN	_	3	PMOD	21362	_
+6	rides	ride	_	VBZ	_	0	ROOT	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	21357	_
+9	bed	bed	_	NN	_	7	PMOD	21357	_
+10	of	of	_	IN	_	9	NMOD	21357	_
+11	a	a	_	DT	_	12	NMOD	21357	_
+12	trunk	trunk	_	NN	_	10	PMOD	21357	_
+13	decorated	decorate	_	VBN	_	12	APPO	_	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	American	American	_	NNP	_	16	NMOD	21353	_
+16	flags	flag	_	NNS	_	14	PMOD	21353	_
+17	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	99731	_
+2	dog	dog	_	NN	_	3	SBJ	99731	_
+3	jumps	jump	_	VBZ	_	0	ROOT	_	_
+4	over	over	_	IN	_	3	ADV	_	3
+5	twigs	twig	_	NNS	_	4	PMOD	99733	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	99732	_
+8	snow	snow	_	NN	_	6	PMOD	99732	_
+9	.	.	_	.	_	3	P	_	_

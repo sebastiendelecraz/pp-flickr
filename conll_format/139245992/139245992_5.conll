@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	10988	_
+2	man	man	_	NN	_	3	SBJ	10988	_
+3	plays	play	_	VBZ	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	10989	_
+6	ball	ball	_	NN	_	4	PMOD	10989	_
+7	at	at	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	10990	_
+9	beach	beach	_	NN	_	7	PMOD	10990	_
+10	.	.	_	.	_	3	P	_	_

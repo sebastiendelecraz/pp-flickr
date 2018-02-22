@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	67690	_
+2	group	group	_	NN	_	5	SBJ	67690	_
+3	of	of	_	IN	_	2	NMOD	67690	_
+4	people	people	_	NN	_	3	PMOD	67690	_
+5	ride	ride	_	VBP	_	0	ROOT	67690	_
+6	bicycles	bicycle	_	NNS	_	5	OBJ	67690	_
+7	around	around	_	IN	_	5	ADV	_	5
+8	a	a	_	DT	_	9	NMOD	67698	_
+9	curve	curve	_	NN	_	7	PMOD	67698	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	a	a	_	DT	_	12	NMOD	67699	_
+12	racetrack	racetrack	_	NN	_	10	PMOD	67699	_
+13	.	.	_	.	_	5	P	_	_

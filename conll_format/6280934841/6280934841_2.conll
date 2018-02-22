@@ -1,0 +1,17 @@
+1	Twenty	Twenty	_	CD	_	2	DEP	251540	_
+2	four	four	_	CD	_	5	NMOD	251540	_
+3	excited	excite	_	VBN	_	5	NMOD	251540	_
+4	teenage	teenage	_	NN	_	5	NMOD	251540	_
+5	girls	girl	_	NNS	_	0	ROOT	251540	_
+6	,	,	_	,	_	0	ROOT	_	_
+7	posing	pose	_	VBG	_	0	ROOT	_	_
+8	for	for	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	251548	_
+10	photo	photo	_	NN	_	8	PMOD	251548	_
+11	at	at	_	IN	_	7	LOC	_	_
+12	a	a	_	DT	_	16	NMOD	251544	_
+13	high	high	_	JJ	_	16	NMOD	251544	_
+14	school	school	_	NN	_	15	NMOD	251544	_
+15	football	football	_	NN	_	16	NMOD	251544	_
+16	stadium	stadium	_	NN	_	11	PMOD	251544	_
+17	.	.	_	.	_	0	ROOT	_	_

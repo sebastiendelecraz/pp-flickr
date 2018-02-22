@@ -1,0 +1,13 @@
+1	An	an	_	DT	_	3	NMOD	213612	_
+2	Asian	Asian	_	JJ	_	3	NMOD	213612	_
+3	child	child	_	NN	_	4	SBJ	213612	_
+4	leans	lean	_	VBZ	_	0	ROOT	_	_
+5	against	against	_	IN	_	4	ADV	_	4
+6	green	green	_	JJ	_	7	NMOD	213615	_
+7	metal	metal	_	NN	_	5	PMOD	213615	_
+8	in front of	in front of	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	12	NMOD	213613	_
+10	large	large	_	JJ	_	12	NMOD	213613	_
+11	dirt	dirt	_	NN	_	12	NMOD	213613	_
+12	pile	pile	_	NN	_	8	PMOD	213613	_
+13	.	.	_	.	_	4	P	_	_

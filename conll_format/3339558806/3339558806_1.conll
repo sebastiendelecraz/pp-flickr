@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	110796	_
+2	woman	woman	_	NN	_	16	SBJ	110796	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	110804	_
+5	red	red	_	JJ	_	6	NMOD	110804	_
+6	shirt	shirt	_	NN	_	3	PMOD	110804	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	bandanna	bandanna	_	NN	_	7	CONJ	110805	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	a	a	_	DT	_	11	NMOD	110798	_
+11	girl	girl	_	NN	_	9	CONJ	110798	_
+12	in	in	_	IN	_	6	LOC	_	11
+13	a	a	_	DT	_	15	NMOD	110806	_
+14	blue	blue	_	JJ	_	15	NMOD	110806	_
+15	shirt	shirt	_	NN	_	12	PMOD	110806	_
+16	are	be	_	VBP	_	0	ROOT	_	_
+17	sitting	sit	_	VBG	_	16	VC	_	_
+18	on	on	_	IN	_	17	ADV	_	_
+19	a	a	_	DT	_	21	NMOD	110797	_
+20	large	large	_	JJ	_	21	NMOD	110797	_
+21	swing	swing	_	NN	_	18	PMOD	110797	_
+22	in front of	in front of	_	IN	_	17	LOC	_	_
+23	a	a	_	DT	_	24	NMOD	110801	_
+24	house	house	_	NN	_	22	PMOD	110801	_
+25	.	.	_	.	_	16	P	_	_

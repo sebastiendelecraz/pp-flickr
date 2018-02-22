@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	4478	_
+2	man	man	_	NN	_	6	NMOD	4478	_
+3	,	,	_	,	_	6	P	_	_
+4	his	his	_	PRP$	_	6	NMOD	4482	_
+5	little	little	_	JJ	_	6	NMOD	4482	_
+6	son	son	_	NN	_	10	SBJ	4482	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	their	their	_	PRP$	_	9	NMOD	4480	_
+9	dog	dog	_	NN	_	7	CONJ	4480	_
+10	going	go	_	VBG	_	0	ROOT	_	_
+11	for	for	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	13	NMOD	4484	_
+13	walk	walk	_	NN	_	11	PMOD	4484	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	4481	_
+16	mountains	mountain	_	NNS	_	14	PMOD	4481	_
+17	.	.	_	.	_	0	ROOT	_	_

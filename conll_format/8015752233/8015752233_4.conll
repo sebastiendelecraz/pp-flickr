@@ -1,0 +1,12 @@
+1	2	2	_	CD	_	2	NMOD	277727	_
+2	men	man	_	NNS	_	0	ROOT	277727	_
+3	washing	wash	_	VBG	_	2	APPO	_	_
+4	the	the	_	DT	_	5	NMOD	277725	_
+5	deck	deck	_	NN	_	3	OBJ	277725	_
+6	of	of	_	IN	_	5	NMOD	277725	5
+7	a	a	_	DT	_	8	NMOD	277725	_
+8	boat	boat	_	NN	_	6	PMOD	277725	_
+9	with	with	_	IN	_	8	NMOD	_	3
+10	a	a	_	DT	_	11	NMOD	277724	_
+11	hose	hose	_	NN	_	9	PMOD	277724	_
+12	.	.	_	.	_	0	ROOT	_	_

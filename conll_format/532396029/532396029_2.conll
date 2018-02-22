@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	233658	_
+2	little	little	_	JJ	_	3	NMOD	233658	_
+3	girl	girl	_	NN	_	4	SBJ	233658	_
+4	finds	find	_	VBZ	_	0	ROOT	_	_
+5	joy	joy	_	NN	_	4	OBJ	233661	_
+6	in	in	_	IN	_	4	LOC	_	_
+7	playing	play	_	VBG	_	6	PMOD	_	_
+8	in	in	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	13	NMOD	233659	_
+10	big	big	_	JJ	_	13	NMOD	233659	_
+11	,	,	_	,	_	13	P	233659	_
+12	sloppy	sloppy	_	JJ	_	13	NMOD	233659	_
+13	area	area	_	NN	_	8	PMOD	233659	_
+14	of	of	_	IN	_	13	NMOD	233659	_
+15	mud	mud	_	NN	_	14	PMOD	233659	_
+16	!	!	_	.	_	4	P	_	_
+17	.	.	_	.	_	4	P	_	_

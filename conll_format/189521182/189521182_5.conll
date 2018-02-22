@@ -1,0 +1,8 @@
+1	girl	girl	_	NN	_	0	ROOT	22816	_
+2	sitting	sit	_	VBG	_	1	APPO	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	fire	fire	_	NN	_	3	PMOD	22817	_
+5	for	for	_	IN	_	2	TMP	_	2
+6	a	a	_	DT	_	7	NMOD	22820	_
+7	show	show	_	NN	_	5	PMOD	22820	_
+8	.	.	_	.	_	0	ROOT	_	_

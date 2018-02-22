@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	271268	_
+2	shriner	shriner	_	CD	_	3	NMOD	271268	_
+3	rides	ride	_	NNS	_	7	NMOD	_	_
+4	a	a	_	DT	_	7	NMOD	271269	_
+5	large	large	_	JJ	_	7	NMOD	271269	_
+6	green	green	_	JJ	_	7	NMOD	271269	_
+7	tractor	tractor	_	NN	_	0	ROOT	271269	_
+8	down	down	_	IN	_	7	NMOD	_	3
+9	the	the	_	DT	_	10	NMOD	271274	_
+10	road	road	_	NN	_	8	PMOD	271274	_
+11	during	during	_	IN	_	7	TMP	_	3
+12	a	a	_	DT	_	13	NMOD	271271	_
+13	parade	parade	_	NN	_	11	PMOD	271271	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	3	NMOD	117581	_
+2	woman	woman	_	NN	_	3	NMOD	117581	_
+3	shops	shop	_	NNS	_	0	ROOT	_	_
+4	for	for	_	IN	_	3	NMOD	_	3
+5	bananas	banana	_	NNS	_	4	PMOD	117584	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	an	an	_	DT	_	9	NMOD	117583	_
+8	open-air	open-air	_	JJ	_	9	NMOD	117583	_
+9	market	market	_	NN	_	6	PMOD	117583	_
+10	.	.	_	.	_	0	ROOT	_	_

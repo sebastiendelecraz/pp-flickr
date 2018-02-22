@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	4	NMOD	54281	_
+2	dark	dark	_	JJ	_	4	NMOD	54281	_
+3	colored	color	_	VBN	_	4	NMOD	54281	_
+4	dogs	dog	_	NNS	_	5	SBJ	54281	_
+5	romp	romp	_	VBP	_	0	ROOT	_	_
+6	in	in	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	54285	_
+8	grass	grass	_	NN	_	6	PMOD	54285	_
+9	with	with	_	IN	_	8	NMOD	_	5
+10	a	a	_	DT	_	12	NMOD	54282	_
+11	blue	blue	_	JJ	_	12	NMOD	54282	_
+12	Frisbee	Frisbee	_	NNP	_	9	PMOD	54282	_
+13	.	.	_	.	_	5	P	_	_

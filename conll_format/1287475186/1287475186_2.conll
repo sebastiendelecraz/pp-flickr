@@ -1,0 +1,14 @@
+1	Little	Little	_	NNP	_	2	NMOD	7358	_
+2	boy	boy	_	NN	_	0	ROOT	7358	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	water	water	_	NN	_	4	PMOD	7360	_
+6	with	with	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	7359	_
+8	fountain	fountain	_	NN	_	6	PMOD	7359	_
+9	coming	come	_	VBG	_	3	ADV	_	_
+10	up	up	_	RP	_	9	PRT	_	_
+11	through	through	_	IN	_	9	DIR	_	9
+12	his	his	_	PRP$	_	13	NMOD	7361	_
+13	lap	lap	_	NN	_	11	PMOD	7361	_
+14	.	.	_	.	_	0	ROOT	_	_

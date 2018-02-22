@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	248591	_
+2	man	man	_	NN	_	8	SBJ	248591	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	black	black	_	JJ	_	5	NMOD	248596	_
+5	pants	pant	_	NNS	_	3	PMOD	248596	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	shirt	shirt	_	NN	_	6	CONJ	248594	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	holding	hold	_	VBG	_	8	VC	_	_
+10	a	a	_	DT	_	11	NMOD	248592	_
+11	guitar	guitar	_	NN	_	9	OBJ	248592	_
+12	and	and	_	CC	_	9	COORD	_	_
+13	standing	stand	_	VBG	_	12	CONJ	_	_
+14	next to	next to	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	248593	_
+16	microphone	microphone	_	NN	_	14	PMOD	248593	_
+17	in front of	in front of	_	IN	_	13	LOC	_	_
+18	a	a	_	DT	_	20	NMOD	0	_
+19	pink	pink	_	NN	_	20	NMOD	0	_
+20	background	background	_	NN	_	17	PMOD	0	_
+21	.	.	_	.	_	8	P	_	_

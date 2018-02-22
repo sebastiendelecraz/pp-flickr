@@ -1,0 +1,16 @@
+1	Closeup	Closeup	_	NNP	_	0	ROOT	5323	_
+2	of	of	_	IN	_	0	ROOT	5323	_
+3	a	a	_	DT	_	4	NMOD	5323	_
+4	man	man	_	NN	_	2	PMOD	5323	_
+5	in	in	_	IN	_	12	TMP	_	4
+6	a	a	_	DT	_	7	NMOD	5327	_
+7	bar	bar	_	NN	_	5	PMOD	5327	_
+8	,	,	_	,	_	12	P	_	_
+9	holding	hold	_	VBG	_	12	SBJ	_	_
+10	his	his	_	PRP$	_	11	NMOD	5322	_
+11	glasses	glass	_	NNS	_	9	OBJ	5322	_
+12	slanted	slant	_	VBD	_	0	ROOT	_	_
+13	in front of	in front of	_	IN	_	12	ADV	_	_
+14	his	his	_	PRP$	_	15	NMOD	5328	_
+15	face	face	_	NN	_	13	PMOD	5328	_
+16	.	.	_	.	_	12	P	_	_

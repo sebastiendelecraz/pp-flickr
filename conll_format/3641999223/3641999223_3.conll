@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	133606	_
+2	man	man	_	NN	_	3	SBJ	133606	_
+3	runs	run	_	VBZ	_	0	ROOT	_	_
+4	after	after	_	IN	_	3	TMP	_	3
+5	a	a	_	DT	_	7	NMOD	133607	_
+6	cricket	cricket	_	NN	_	7	NMOD	133607	_
+7	ball	ball	_	NN	_	4	PMOD	133607	_
+8	on	on	_	IN	_	3	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	133613	_
+10	grass	grass	_	NN	_	11	NMOD	133613	_
+11	field	field	_	NN	_	8	PMOD	133613	_
+12	.	.	_	.	_	3	P	_	_

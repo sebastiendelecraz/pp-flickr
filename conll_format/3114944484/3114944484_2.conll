@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	94637	_
+2	young	young	_	JJ	_	3	NMOD	94637	_
+3	girl	girl	_	NN	_	4	SBJ	94637	_
+4	wearing	wear	_	VBG	_	0	ROOT	_	_
+5	red	red	_	JJ	_	6	NMOD	94640	_
+6	faces	face	_	NNS	_	4	OBJ	94640	_
+7	the	the	_	DT	_	9	NMOD	0	_
+8	opposite	opposite	_	JJ	_	9	NMOD	0	_
+9	direction	direction	_	NN	_	4	OBJ	0	_
+10	from	from	_	IN	_	4	ADV	_	9
+11	the	the	_	DT	_	12	NMOD	94636	_
+12	rest	rest	_	NN	_	10	PMOD	94636	_
+13	of	of	_	IN	_	12	NMOD	94636	_
+14	a	a	_	DT	_	16	NMOD	94636	_
+15	seated	seat	_	VBN	_	16	NMOD	94636	_
+16	audience	audience	_	NN	_	13	PMOD	94636	_
+17	.	.	_	.	_	0	ROOT	_	_

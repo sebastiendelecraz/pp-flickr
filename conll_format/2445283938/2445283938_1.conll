@@ -1,0 +1,14 @@
+1	Little	Little	_	NNP	_	2	NMOD	50049	_
+2	girls	girl	_	NNS	_	0	ROOT	50049	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	6	NMOD	50052	_
+6	circle	circle	_	NN	_	4	PMOD	50052	_
+7	on	on	_	IN	_	6	NMOD	_	_
+8	wooden	wooden	_	JJ	_	9	NMOD	50050	_
+9	floor	floor	_	NN	_	7	PMOD	50050	_
+10	surrounded	surround	_	VBN	_	9	APPO	_	_
+11	by	by	_	IN	_	10	LGS	_	_
+12	observer	observer	_	NN	_	13	NMOD	50053	_
+13	area	area	_	NN	_	11	PMOD	50053	_
+14	.	.	_	.	_	0	ROOT	_	_

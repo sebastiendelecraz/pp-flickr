@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	43641	_
+2	man	man	_	NN	_	3	SBJ	43641	_
+3	singing	sing	_	VBG	_	0	ROOT	_	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	playing	play	_	VBG	_	4	CONJ	_	_
+6	his	his	_	PRP$	_	7	NMOD	43642	_
+7	guitar	guitar	_	NN	_	5	OBJ	43642	_
+8	amidst	amidst	_	IN	_	3	LOC	_	5
+9	the	the	_	DT	_	11	NMOD	43645	_
+10	blaring	blare	_	VBG	_	11	NMOD	43645	_
+11	lights	light	_	NNS	_	8	PMOD	43645	_
+12	of	of	_	IN	_	11	NMOD	43645	_
+13	the	the	_	DT	_	14	NMOD	43645	_
+14	bar	bar	_	NN	_	12	PMOD	43645	_
+15	.	.	_	.	_	0	ROOT	_	_

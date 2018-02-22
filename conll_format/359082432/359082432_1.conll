@@ -1,0 +1,17 @@
+1	a	a	_	DT	_	3	NMOD	130019	_
+2	tan	tan	_	NN	_	3	NMOD	130019	_
+3	dog	dog	_	NN	_	4	SBJ	130019	_
+4	climbing	climb	_	VBG	_	0	ROOT	_	_
+5	over	over	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	9	NMOD	130022	_
+7	bare	bare	_	JJ	_	9	NMOD	130022	_
+8	tree	tree	_	NN	_	9	NMOD	130022	_
+9	trunk	trunk	_	NN	_	5	PMOD	130022	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	a	a	_	DT	_	12	NMOD	130020	_
+12	man	man	_	NN	_	10	PMOD	130020	_
+13	standing	stand	_	VBG	_	12	APPO	_	_
+14	in	in	_	IN	_	13	LOC	_	_
+15	the	the	_	DT	_	16	NMOD	0	_
+16	background	background	_	NN	_	14	PMOD	0	_
+17	.	.	_	.	_	0	ROOT	_	_

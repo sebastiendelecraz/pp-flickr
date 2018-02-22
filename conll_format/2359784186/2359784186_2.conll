@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	44005	_
+2	man	man	_	NN	_	8	SBJ	44005	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	44006	_
+5	long	long	_	JJ	_	7	NMOD	44006	_
+6	gray	gray	_	NN	_	7	NMOD	44006	_
+7	overcoat	overcoat	_	NN	_	3	PMOD	44006	_
+8	stands	stand	_	VBZ	_	0	ROOT	_	_
+9	in	in	_	IN	_	8	LOC	_	8
+10	a	a	_	DT	_	11	NMOD	44012	_
+11	courtyard	courtyard	_	NN	_	9	PMOD	44012	_
+12	as	as	_	IN	_	8	ADV	_	_
+13	snowfalls	snowfall	_	NNS	_	12	PMOD	44013	_
+14	.	.	_	.	_	8	P	_	_

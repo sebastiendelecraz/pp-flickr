@@ -1,0 +1,26 @@
+1	An	an	_	DT	_	3	NMOD	223260	_
+2	older	old	_	JJR	_	3	NMOD	223260	_
+3	man	man	_	NN	_	12	NMOD	223260	_
+4	with	with	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	223261	_
+6	graying	gray	_	VBG	_	7	NMOD	223261	_
+7	beard	beard	_	NN	_	4	PMOD	223261	_
+8	,	,	_	,	_	12	P	_	_
+9	possibly	possibly	_	RB	_	12	NMOD	_	_
+10	a	a	_	DT	_	12	NMOD	223264	_
+11	homeless	homeless	_	JJ	_	12	NMOD	223264	_
+12	person	person	_	NN	_	14	SBJ	223264	_
+13	,	,	_	,	_	12	P	_	_
+14	sleeps	sleep	_	VBZ	_	0	ROOT	_	_
+15	on	on	_	IN	_	14	ADV	_	_
+16	the	the	_	DT	_	17	NMOD	223263	_
+17	grass	grass	_	NN	_	15	PMOD	223263	_
+18	in front of	in front of	_	IN	_	14	ADV	_	_
+19	an	an	_	DT	_	21	NMOD	223262	_
+20	ancient	ancient	_	JJ	_	21	NMOD	223262	_
+21	tree	tree	_	NN	_	18	PMOD	223262	_
+22	in	in	_	IN	_	21	LOC	_	_
+23	a	a	_	DT	_	25	NMOD	223265	_
+24	public	public	_	JJ	_	25	NMOD	223265	_
+25	park	park	_	NN	_	22	PMOD	223265	_
+26	.	.	_	.	_	14	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	82045	_
+2	room	room	_	NN	_	6	SBJ	82045	_
+3	full	full	_	JJ	_	2	APPO	82045	_
+4	of	of	_	IN	_	3	AMOD	82045	_
+5	worshippers	worshipper	_	NNS	_	4	PMOD	82045	_
+6	bows	bow	_	VBZ	_	0	ROOT	82045	_
+7	toward	toward	_	IN	_	6	DIR	_	6
+8	an	an	_	DT	_	10	NMOD	82041	_
+9	extravagant	extravagant	_	JJ	_	10	NMOD	82041	_
+10	display	display	_	NN	_	7	PMOD	82041	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	the	the	_	DT	_	13	NMOD	82039	_
+13	center	center	_	NN	_	11	PMOD	82039	_
+14	of	of	_	IN	_	13	NMOD	82039	_
+15	the	the	_	DT	_	16	NMOD	82039	_
+16	crowd	crowd	_	NN	_	14	PMOD	82039	_
+17	.	.	_	.	_	6	P	_	_

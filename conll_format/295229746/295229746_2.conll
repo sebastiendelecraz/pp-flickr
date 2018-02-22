@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	83632	_
+2	view	view	_	NN	_	0	ROOT	83632	_
+3	from	from	_	IN	_	0	ROOT	_	_
+4	above	above	_	JJ	_	3	PMOD	83628	_
+5	of	of	_	IN	_	4	AMOD	83628	_
+6	someone	someone	_	NN	_	5	PMOD	83628	_
+7	tending	tend	_	VBG	_	0	ROOT	_	_
+8	to	to	_	TO	_	7	ADV	_	_
+9	trays	tray	_	NNS	_	8	PMOD	83631	_
+10	of	of	_	IN	_	9	NMOD	83631	_
+11	fish	fish	_	NN	_	10	PMOD	83631	_
+12	for	for	_	IN	_	9	NMOD	_	11
+13	sale	sale	_	NN	_	12	PMOD	83637	_
+14	.	.	_	.	_	0	ROOT	_	_

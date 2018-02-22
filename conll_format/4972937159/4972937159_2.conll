@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	224954	_
+2	man	man	_	NN	_	10	SBJ	224954	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	6	NMOD	224961	_
+5	leather	leather	_	NN	_	6	NMOD	224961	_
+6	jacket	jacket	_	NN	_	3	OBJ	224961	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	denim	denim	_	NN	_	9	NMOD	224965	_
+9	jeans	jean	_	NNS	_	7	CONJ	224965	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	standing	stand	_	VBG	_	10	VC	_	_
+12	in front of	in front of	_	IN	_	11	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	224958	_
+14	store	store	_	NN	_	12	PMOD	224958	_
+15	while	while	_	IN	_	11	TMP	_	_
+16	holding	hold	_	VBG	_	15	SUB	_	_
+17	a	a	_	DT	_	18	NMOD	224957	_
+18	leash	leash	_	NN	_	16	OBJ	224957	_
+19	with	with	_	IN	_	16	ADV	_	18
+20	a	a	_	DT	_	21	NMOD	224956	_
+21	cat	cat	_	NN	_	19	PMOD	224956	_
+22	on	on	_	IN	_	16	TMP	_	_
+23	the	the	_	DT	_	24	NMOD	0	_
+24	end	end	_	NN	_	22	PMOD	0	_
+25	of	of	_	IN	_	24	NMOD	0	_
+26	it	it	_	PRP	_	25	PMOD	0	_
+27	.	.	_	.	_	10	P	_	_

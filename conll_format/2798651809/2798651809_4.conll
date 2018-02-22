@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	73581	_
+2	man	man	_	NN	_	6	SBJ	73581	_
+3	holding	hold	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	73579	_
+5	baby	baby	_	NN	_	3	OBJ	73579	_
+6	is	be	_	VBZ	_	0	ROOT	_	_
+7	beside	beside	_	IN	_	6	LOC-PRD	_	6
+8	a	a	_	DT	_	9	NMOD	73582	_
+9	bowl	bowl	_	NN	_	7	PMOD	73582	_
+10	of	of	_	IN	_	9	NMOD	73582	_
+11	corn	corn	_	NN	_	10	PMOD	73582	_
+12	.	.	_	.	_	6	P	_	_

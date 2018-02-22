@@ -1,0 +1,15 @@
+1	Footballers	footballer	_	NNS	_	2	SBJ	29468	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	scrambling	scramble	_	VBG	_	2	VC	_	_
+4	around	around	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	29465	_
+6	goal	goal	_	NN	_	4	PMOD	29465	_
+7	as	as	_	IN	_	3	ADV	_	_
+8	the	the	_	DT	_	10	NMOD	29470	_
+9	goal	goal	_	NN	_	10	NMOD	29470	_
+10	keeper	keeper	_	NN	_	7	PMOD	29470	_
+11	reaches	reach	_	VBZ	_	0	ROOT	_	_
+12	for	for	_	IN	_	11	ADV	_	11
+13	the	the	_	DT	_	14	NMOD	29471	_
+14	ball	ball	_	NN	_	12	PMOD	29471	_
+15	.	.	_	.	_	11	P	_	_

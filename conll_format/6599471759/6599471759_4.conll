@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	256060	_
+2	bride	bride	_	NN	_	3	SBJ	256060	_
+3	gets	get	_	VBZ	_	0	ROOT	_	_
+4	out of	out of	_	IN	_	3	ADV	_	3
+5	her	her	_	PRP$	_	6	NMOD	256061	_
+6	car	car	_	NN	_	4	PMOD	256061	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	her	her	_	PRP$	_	11	NMOD	256063	_
+9	white	white	_	JJ	_	11	NMOD	256063	_
+10	wedding	wedding	_	NN	_	11	NMOD	256063	_
+11	dress	dress	_	NN	_	7	PMOD	256063	_
+12	.	.	_	.	_	3	P	_	_

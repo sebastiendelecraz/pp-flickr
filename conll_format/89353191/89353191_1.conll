@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	283080	_
+2	man	man	_	NN	_	6	SBJ	283080	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	283082	_
+5	ladder	ladder	_	NN	_	3	PMOD	283082	_
+6	passes	pass	_	VBZ	_	0	ROOT	_	_
+7	something	something	_	NN	_	6	OBJ	283081	_
+8	to	to	_	TO	_	7	NMOD	_	_
+9	another	another	_	DT	_	10	NMOD	283080	_
+10	man	man	_	NN	_	8	PMOD	283080	_
+11	up to	up to	_	IN	_	6	TMP	_	6
+12	the	the	_	DT	_	14	NMOD	283083	_
+13	second	second	_	JJ	_	14	NMOD	283083	_
+14	story	story	_	NN	_	11	PMOD	283083	_
+15	of	of	_	IN	_	14	NMOD	283083	14
+16	a	a	_	DT	_	17	NMOD	283083	_
+17	building	building	_	NN	_	15	PMOD	283083	_
+18	.	.	_	.	_	6	P	_	_

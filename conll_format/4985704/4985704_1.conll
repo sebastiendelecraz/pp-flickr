@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	226175	_
+2	man	man	_	NN	_	7	SBJ	226175	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	an	an	_	DT	_	6	NMOD	226178	_
+5	orange	orange	_	JJ	_	6	NMOD	226178	_
+6	jumpsuit	jumpsuit	_	NN	_	3	PMOD	226178	_
+7	performs	perform	_	VBZ	_	0	ROOT	_	_
+8	on	on	_	IN	_	7	ADV	_	_
+9	his	his	_	PRP$	_	11	NMOD	226177	_
+10	giant	giant	_	NN	_	11	NMOD	226177	_
+11	unicycle	unicycle	_	NN	_	8	PMOD	226177	_
+12	in front of	in front of	_	IN	_	7	ADV	_	7
+13	a	a	_	DT	_	15	NMOD	226176	_
+14	captivated	captivate	_	VBN	_	15	NMOD	226176	_
+15	crowd	crowd	_	NN	_	12	PMOD	226176	_
+16	.	.	_	.	_	7	P	_	_

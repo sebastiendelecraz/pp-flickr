@@ -1,0 +1,13 @@
+1	Man	Man	_	NNP	_	2	SBJ	261749	_
+2	looking	look	_	VBG	_	0	ROOT	_	_
+3	over	over	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	261750	_
+5	large	large	_	JJ	_	6	NMOD	261750	_
+6	stove	stove	_	NN	_	3	PMOD	261750	_
+7	full	full	_	JJ	_	6	APPO	_	_
+8	of	of	_	IN	_	7	AMOD	_	_
+9	coal	coal	_	NN	_	8	PMOD	261755	_
+10	while	while	_	IN	_	2	ADV	_	_
+11	bursting	burst	_	VBG	_	12	NMOD	_	_
+12	flames	flame	_	NNS	_	10	PMOD	261756	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	142768	_
+2	man	man	_	NN	_	3	SBJ	142768	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	142771	_
+5	kilt	kilt	_	NN	_	3	OBJ	142771	_
+6	,	,	_	,	_	5	P	_	_
+7	black	black	_	JJ	_	8	NMOD	142774	_
+8	shirt	shirt	_	NN	_	5	COORD	142774	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	black	black	_	JJ	_	11	NMOD	142782	_
+11	boots	boot	_	NNS	_	9	CONJ	142782	_
+12	standing	stand	_	VBG	_	5	APPO	_	_
+13	next to	next to	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	142773	_
+15	man	man	_	NN	_	13	PMOD	142773	_
+16	in	in	_	IN	_	12	LOC	_	_
+17	a	a	_	DT	_	19	NMOD	142781	_
+18	white	white	_	JJ	_	19	NMOD	142781	_
+19	shirt	shirt	_	NN	_	16	PMOD	142781	_
+20	and	and	_	CC	_	19	COORD	_	_
+21	jeans	jean	_	NNS	_	20	CONJ	142784	_
+22	.	.	_	.	_	0	ROOT	_	_

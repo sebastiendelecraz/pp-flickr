@@ -1,0 +1,9 @@
+1	Two	Two	_	CD	_	2	NMOD	64525	_
+2	men	man	_	NNS	_	0	ROOT	64525	_
+3	under	under	_	IN	_	2	LOC	_	2
+4	umbrellas	umbrella	_	NNS	_	3	PMOD	64529	_
+5	at	at	_	IN	_	2	LOC	_	_
+6	a	a	_	DT	_	8	NMOD	64531	_
+7	yard	yard	_	NN	_	8	NMOD	64531	_
+8	sale	sale	_	NN	_	5	PMOD	64531	_
+9	.	.	_	.	_	0	ROOT	_	_

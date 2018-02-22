@@ -1,0 +1,10 @@
+1	Someone	someone	_	NN	_	2	SBJ	115502	_
+2	runs	run	_	VBZ	_	0	ROOT	_	_
+3	along	along	_	IN	_	2	ADV	_	2
+4	the	the	_	DT	_	5	NMOD	115503	_
+5	beach	beach	_	NN	_	3	PMOD	115503	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	the	the	_	DT	_	9	NMOD	115507	_
+8	bright	bright	_	JJ	_	9	NMOD	115507	_
+9	sun	sun	_	NN	_	6	PMOD	115507	_
+10	.	.	_	.	_	2	P	_	_

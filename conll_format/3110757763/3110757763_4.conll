@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	94318	_
+2	man	man	_	NN	_	0	ROOT	94318	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	blue	blue	_	JJ	_	6	NMOD	94319	_
+5	dress	dress	_	NN	_	6	NMOD	94319	_
+6	walks	walk	_	NNS	_	3	PMOD	_	_
+7	near	near	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	94317	_
+9	pond	pond	_	NN	_	7	PMOD	94317	_
+10	.	.	_	.	_	0	ROOT	_	_

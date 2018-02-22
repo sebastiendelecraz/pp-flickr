@@ -1,0 +1,11 @@
+1	Folks	folk	_	NNS	_	2	SBJ	213509	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	PRD	_	_
+4	line	line	_	NN	_	3	PMOD	213514	_
+5	for	for	_	IN	_	4	NMOD	_	2
+6	tickets	ticket	_	NNS	_	5	PMOD	213515	_
+7	at	at	_	IN	_	2	LOC	_	_
+8	an	an	_	DT	_	10	NMOD	213507	_
+9	amusement	amusement	_	NN	_	10	NMOD	213507	_
+10	park	park	_	NN	_	7	PMOD	213507	_
+11	.	.	_	.	_	2	P	_	_

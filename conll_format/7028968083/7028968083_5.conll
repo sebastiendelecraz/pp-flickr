@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	SBJ	264312	_
+2	sit	sit	_	VBP	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	5	NMOD	264315	_
+5	lawn	lawn	_	NN	_	3	PMOD	264315	_
+6	outside of	outside of	_	IN	_	2	TMP	_	2
+7	a	a	_	DT	_	8	NMOD	264314	_
+8	greenhouse	greenhouse	_	NN	_	6	PMOD	264314	_
+9	.	.	_	.	_	2	P	_	_

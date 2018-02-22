@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	160363	_
+2	man	man	_	NN	_	0	ROOT	160363	_
+3	near	near	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	160364	_
+5	bridge	bridge	_	NN	_	3	PMOD	160364	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	160370	_
+8	act	act	_	NN	_	6	PMOD	160370	_
+9	of	of	_	IN	_	8	NMOD	160370	_
+10	throwing	throw	_	VBG	_	9	PMOD	160370	_
+11	.	.	_	.	_	0	ROOT	_	_

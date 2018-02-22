@@ -1,0 +1,13 @@
+1	Black	Black	_	NNP	_	2	NMOD	82398	_
+2	dog	dog	_	NN	_	3	SBJ	82398	_
+3	jumping	jump	_	VBG	_	0	ROOT	_	_
+4	out of	out of	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	82399	_
+6	water	water	_	NN	_	4	PMOD	82399	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	82400	_
+9	stick	stick	_	NN	_	7	PMOD	82400	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	his	his	_	PRP$	_	12	NMOD	82401	_
+12	mouth	mouth	_	NN	_	10	PMOD	82401	_
+13	.	.	_	.	_	0	ROOT	_	_

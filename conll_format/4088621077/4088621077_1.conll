@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	154824	_
+2	small	small	_	JJ	_	3	NMOD	154824	_
+3	boy	boy	_	NN	_	0	ROOT	154824	_
+4	sitting	sit	_	VBG	_	3	APPO	_	_
+5	with	with	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	154825	_
+7	group	group	_	NN	_	5	PMOD	154825	_
+8	of	of	_	IN	_	7	NMOD	154825	_
+9	troops	troop	_	NNS	_	8	PMOD	154825	_
+10	wearing	wear	_	VBG	_	7	APPO	_	_
+11	a	a	_	DT	_	13	NMOD	154829	_
+12	combat	combat	_	NN	_	13	NMOD	154829	_
+13	helmet	helmet	_	NN	_	10	OBJ	154829	_
+14	.	.	_	.	_	0	ROOT	_	_

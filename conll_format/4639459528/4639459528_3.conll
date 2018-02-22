@@ -1,0 +1,16 @@
+1	People	People	_	NNPS	_	2	NAME	185537	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	concrete	concrete	_	NN	_	5	NMOD	185538	_
+5	benches	bench	_	NNS	_	3	PMOD	185538	_
+6	and	and	_	CC	_	2	COORD	_	_
+7	walking	walk	_	VBG	_	6	CONJ	_	_
+8	,	,	_	,	_	7	P	_	_
+9	with	with	_	IN	_	7	ADV	_	7
+10	a	a	_	DT	_	12	NMOD	185536	_
+11	headless	headless	_	JJ	_	12	NMOD	185536	_
+12	mannequin	mannequin	_	NN	_	9	PMOD	185536	_
+13	next to	next to	_	IN	_	2	LOC	_	12
+14	a	a	_	DT	_	15	NMOD	185540	_
+15	lamp	lamp	_	NN	_	13	PMOD	185540	_
+16	.	.	_	.	_	0	ROOT	_	_

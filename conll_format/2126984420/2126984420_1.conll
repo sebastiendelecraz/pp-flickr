@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	30187	_
+2	lady	lady	_	NN	_	3	SBJ	30187	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	walking	walk	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	9	NMOD	30190	_
+7	crudely	crudely	_	RB	_	8	AMOD	30190	_
+8	built	build	_	VBN	_	9	NMOD	_	_
+9	sidewalk	sidewalk	_	NN	_	5	PMOD	30193	_
+10	next to	next to	_	IN	_	4	ADV	_	4
+11	a	a	_	DT	_	13	NMOD	30188	_
+12	yellow	yellow	_	JJ	_	13	NMOD	30188	_
+13	building	building	_	NN	_	10	PMOD	30188	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	blue	blue	_	JJ	_	16	NMOD	30189	_
+16	doors	door	_	NNS	_	14	PMOD	30189	_
+17	.	.	_	.	_	3	P	_	_

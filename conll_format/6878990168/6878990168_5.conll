@@ -1,0 +1,8 @@
+1	Two	Two	_	CD	_	2	NMOD	260196	_
+2	men	man	_	NNS	_	0	ROOT	260196	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	mud	mud	_	NN	_	3	PMOD	260201	_
+5	during	during	_	IN	_	2	TMP	_	2
+6	a	a	_	DT	_	7	NMOD	260206	_
+7	race	race	_	NN	_	5	PMOD	260206	_
+8	.	.	_	.	_	0	ROOT	_	_

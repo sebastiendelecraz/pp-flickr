@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	183064	_
+2	women	woman	_	NNS	_	0	ROOT	183064	_
+3	,	,	_	,	_	0	ROOT	_	_
+4	one	one	_	CD	_	0	ROOT	183069	_
+5	wearing	wear	_	VBG	_	0	ROOT	_	_
+6	a	a	_	DT	_	8	NMOD	183071	_
+7	patterned	pattern	_	VBN	_	8	NMOD	183071	_
+8	headscarf	headscarf	_	NN	_	5	OBJ	183071	_
+9	,	,	_	,	_	8	P	_	_
+10	converse	converse	_	NN	_	8	APPO	_	_
+11	while	while	_	IN	_	5	ADV	_	_
+12	sitting	sit	_	VBG	_	11	SUB	_	_
+13	behind	behind	_	IN	_	12	LOC	_	12
+14	baskets	basket	_	NNS	_	13	PMOD	183066	_
+15	of	of	_	IN	_	14	NMOD	183066	_
+16	flowers	flower	_	NNS	_	15	PMOD	183066	_
+17	.	.	_	.	_	0	ROOT	_	_

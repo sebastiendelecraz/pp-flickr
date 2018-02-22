@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	181587	_
+2	brown-haired	brown-haired	_	JJ	_	3	NMOD	181587	_
+3	child	child	_	NN	_	4	SBJ	181587	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	posing	pose	_	VBG	_	4	VC	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	181593	_
+8	picture	picture	_	NN	_	6	PMOD	181593	_
+9	in the middle of	in the middle of	_	IN	_	5	LOC	181588	5
+10	a	a	_	DT	_	12	NMOD	181588	_
+11	Sunflower	Sunflower	_	NNP	_	12	NMOD	181588	_
+12	field	field	_	NN	_	9	PMOD	181588	_
+13	.	.	_	.	_	4	P	_	_

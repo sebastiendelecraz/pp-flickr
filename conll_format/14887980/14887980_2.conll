@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	14655	_
+2	women	woman	_	NNS	_	3	SBJ	14655	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	PRD	_	_
+5	work	work	_	NN	_	4	PMOD	14658	_
+6	along	along	_	IN	_	5	NMOD	_	3
+7	a	a	_	DT	_	8	NMOD	14659	_
+8	balcony	balcony	_	NN	_	6	PMOD	14659	_
+9	on	on	_	IN	_	5	NMOD	_	_
+10	the	the	_	DT	_	11	NMOD	14656	_
+11	edge	edge	_	NN	_	9	PMOD	14656	_
+12	of	of	_	IN	_	11	NMOD	14656	11
+13	a	a	_	DT	_	15	NMOD	14656	_
+14	bamboo	bamboo	_	JJ	_	15	NMOD	14656	_
+15	forest	forest	_	NN	_	12	PMOD	14656	_
+16	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	225337	_
+2	man	man	_	NN	_	9	SBJ	225337	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	225341	_
+5	cigarette	cigarette	_	NN	_	3	PMOD	225341	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	his	his	_	PRP$	_	8	NMOD	225343	_
+8	mouth	mouth	_	NN	_	6	PMOD	225343	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	riding	ride	_	VBG	_	9	VC	_	_
+11	a	a	_	DT	_	13	NMOD	225346	_
+12	green	green	_	JJ	_	13	NMOD	225346	_
+13	scooter	scooter	_	NN	_	10	OBJ	225346	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	the	the	_	DT	_	16	NMOD	225339	_
+16	grass	grass	_	NN	_	14	PMOD	225339	_
+17	.	.	_	.	_	9	P	_	_

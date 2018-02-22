@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	130752	_
+2	motorcycle	motorcycle	_	NN	_	3	NMOD	130752	_
+3	rider	rider	_	NN	_	4	SBJ	130752	_
+4	drives	drive	_	VBZ	_	0	ROOT	_	_
+5	fast	fast	_	RB	_	4	MNR	_	_
+6	around	around	_	IN	_	4	LOC	_	4
+7	a	a	_	DT	_	8	NMOD	130755	_
+8	curve	curve	_	NN	_	6	PMOD	130755	_
+9	on	on	_	IN	_	8	NMOD	_	_
+10	a	a	_	DT	_	11	NMOD	130756	_
+11	track	track	_	NN	_	9	PMOD	130756	_
+12	.	.	_	.	_	4	P	_	_

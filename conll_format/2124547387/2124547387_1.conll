@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	30063	_
+2	dark-skinned	dark-skinned	_	JJ	_	3	NMOD	30063	_
+3	man	man	_	NN	_	8	SBJ	30063	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	30066	_
+6	blue	blue	_	JJ	_	7	NMOD	30066	_
+7	shirt	shirt	_	NN	_	4	PMOD	30066	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	standing	stand	_	VBG	_	8	VC	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	13	NMOD	30067	_
+12	wooden	wooden	_	JJ	_	13	NMOD	30067	_
+13	ladder	ladder	_	NN	_	10	PMOD	30067	_
+14	next to	next to	_	IN	_	9	TMP	_	9
+15	a	a	_	DT	_	16	NMOD	30068	_
+16	building	building	_	NN	_	14	PMOD	30068	_
+17	.	.	_	.	_	8	P	_	_

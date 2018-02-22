@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	3	NMOD	223939	_
+2	young	young	_	JJ	_	3	NMOD	223939	_
+3	women	woman	_	NNS	_	9	SBJ	223939	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	numbers	number	_	NNS	_	4	PMOD	223945	_
+6	on	on	_	IN	_	3	NMOD	_	_
+7	their	their	_	PRP$	_	8	NMOD	223949	_
+8	shirts	shirt	_	NNS	_	6	PMOD	223949	_
+9	run	run	_	VBP	_	0	ROOT	_	_
+10	along	along	_	IN	_	9	LOC	_	9
+11	a	a	_	DT	_	12	NMOD	223947	_
+12	street	street	_	NN	_	10	PMOD	223947	_
+13	.	.	_	.	_	9	P	_	_

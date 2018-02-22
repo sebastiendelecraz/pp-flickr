@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	232619	_
+2	streetcar	streetcar	_	NN	_	3	SBJ	232619	_
+3	moves	move	_	VBZ	_	0	ROOT	_	_
+4	up	up	_	RP	_	3	PRT	_	_
+5	a	a	_	DT	_	7	NMOD	232620	_
+6	narrow	narrow	_	JJ	_	7	NMOD	232620	_
+7	road	road	_	NN	_	3	OBJ	232620	_
+8	while	while	_	IN	_	0	ROOT	_	_
+9	a	a	_	DT	_	10	NMOD	232618	_
+10	group	group	_	NN	_	0	ROOT	232618	_
+11	of	of	_	IN	_	10	NMOD	232618	_
+12	people	people	_	NN	_	13	NMOD	232618	_
+13	gathers	gather	_	NNS	_	11	PMOD	_	_
+14	at the bottom of	at the bottom of	_	IN	_	10	LOC	232621	13
+15	the	the	_	DT	_	16	NMOD	232621	_
+16	hill	hill	_	NN	_	14	PMOD	232621	_
+17	.	.	_	.	_	0	ROOT	_	_

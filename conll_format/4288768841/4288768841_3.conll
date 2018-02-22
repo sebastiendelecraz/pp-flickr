@@ -1,0 +1,14 @@
+1	View	View	_	NNP	_	3	NAME	161699	_
+2	over	over	_	IN	_	3	NAME	_	_
+3	people	people	_	NN	_	6	NMOD	161693	_
+4	'	'	_	''	_	6	P	161693	_
+5	s	s	_	POS	_	6	SUFFIX	161693	_
+6	heads	head	_	NNS	_	0	ROOT	161693	_
+7	down	down	_	IN	_	6	NMOD	_	1
+8	an	an	_	DT	_	9	NMOD	161696	_
+9	escalator	escalator	_	NN	_	7	PMOD	161696	_
+10	toward	toward	_	IN	_	9	NMOD	_	6
+11	a	a	_	DT	_	13	NMOD	161703	_
+12	subway	subway	_	NN	_	13	NMOD	161703	_
+13	entrance	entrance	_	NN	_	10	PMOD	161703	_
+14	.	.	_	.	_	0	ROOT	_	_

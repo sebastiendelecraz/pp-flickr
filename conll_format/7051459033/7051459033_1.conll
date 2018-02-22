@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	264617	_
+2	man	man	_	NN	_	11	SBJ	264617	_
+3	,	,	_	,	_	11	P	_	_
+4	wearing	wear	_	VBG	_	11	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	264620	_
+6	black	black	_	JJ	_	7	NMOD	264620	_
+7	hat	hat	_	NN	_	4	OBJ	264620	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	glasses	glass	_	NNS	_	8	CONJ	264619	_
+10	,	,	_	,	_	11	P	_	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	juggling	juggle	_	VBG	_	11	VC	_	_
+13	in front of	in front of	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	264618	_
+15	crowd	crowd	_	NN	_	13	PMOD	264618	_
+16	of	of	_	IN	_	15	NMOD	264618	_
+17	children	child	_	NNS	_	16	PMOD	264618	_
+18	.	.	_	.	_	11	P	_	_

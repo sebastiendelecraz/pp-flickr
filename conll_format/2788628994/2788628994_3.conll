@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	73016	_
+2	man	man	_	NN	_	0	ROOT	73016	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	7	NMOD	73025	_
+5	blue	blue	_	JJ	_	7	NMOD	73025	_
+6	jacket	jacket	_	NN	_	7	NMOD	73025	_
+7	bikes	bike	_	NNS	_	3	PMOD	_	_
+8	down	down	_	IN	_	7	NMOD	_	7
+9	a	a	_	DT	_	11	NMOD	73018	_
+10	forest	forest	_	NN	_	11	NMOD	73018	_
+11	path	path	_	NN	_	8	PMOD	73018	_
+12	.	.	_	.	_	0	ROOT	_	_

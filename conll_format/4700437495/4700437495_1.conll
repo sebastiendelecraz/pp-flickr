@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	192647	_
+2	lady	lady	_	NN	_	3	SBJ	192647	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	wearing	wear	_	VBG	_	3	VC	_	_
+5	all	all	_	PDT	_	6	NMOD	192648	_
+6	black	black	_	JJ	_	4	OBJ	192648	_
+7	with	with	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	192649	_
+9	whistle	whistle	_	NN	_	7	PMOD	192649	_
+10	in the middle of	in the middle of	_	IN	_	4	TMP	192644	4
+11	rollerskaters	rollerskater	_	NNS	_	10	PMOD	192644	_
+12	.	.	_	.	_	3	P	_	_

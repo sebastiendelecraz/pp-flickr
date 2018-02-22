@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	191668	_
+2	people	people	_	NN	_	3	SBJ	191668	_
+3	walk	walk	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	night	night	_	NN	_	4	PMOD	191676	_
+6	past	past	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	191670	_
+8	building	building	_	NN	_	6	PMOD	191670	_
+9	that	that	_	WDT	_	10	SBJ	_	_
+10	glows	glow	_	VBZ	_	8	NMOD	191675	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	purple	purple	_	NN	_	13	NMOD	191677	_
+13	light	light	_	NN	_	11	PMOD	191677	_
+14	.	.	_	.	_	3	P	_	_

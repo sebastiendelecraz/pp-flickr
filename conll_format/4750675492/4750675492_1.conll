@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	198491	_
+2	multitude	multitude	_	NN	_	0	ROOT	198491	_
+3	of	of	_	IN	_	2	NMOD	198491	_
+4	people	people	_	NN	_	3	PMOD	198491	_
+5	in	in	_	IN	_	0	ROOT	_	_
+6	swim-wear	swim-wear	_	CD	_	7	NMOD	198494	_
+7	play	play	_	NN	_	5	PMOD	_	_
+8	in	in	_	IN	_	7	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	198493	_
+10	water	water	_	NN	_	8	PMOD	198493	_
+11	in front of	in front of	_	IN	_	0	ROOT	_	_
+12	a	a	_	DT	_	14	NMOD	198496	_
+13	white	white	_	JJ	_	14	NMOD	198496	_
+14	wall	wall	_	NN	_	11	PMOD	198496	_
+15	while	while	_	IN	_	0	ROOT	_	_
+16	people	people	_	NN	_	22	SBJ	198495	_
+17	behind	behind	_	IN	_	16	LOC	_	16
+18	a	a	_	DT	_	19	NMOD	198492	_
+19	row	row	_	NN	_	17	PMOD	198492	_
+20	of	of	_	IN	_	19	NMOD	198492	_
+21	bicycles	bicycle	_	NNS	_	20	PMOD	198492	_
+22	look	look	_	VBP	_	15	SUB	_	_
+23	on	on	_	IN	_	22	ADV	_	_
+24	.	.	_	.	_	0	ROOT	_	_

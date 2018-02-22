@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	3	NMOD	276415	_
+2	rock	rock	_	NN	_	3	NMOD	276415	_
+3	artist	artist	_	NN	_	0	ROOT	276415	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	pants	pant	_	NNS	_	4	OBJ	276423	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	stars	star	_	NNS	_	6	PMOD	276421	_
+8	down	down	_	IN	_	5	NMOD	_	7
+9	the	the	_	DT	_	10	NMOD	0	_
+10	side	side	_	NN	_	8	AMOD	0	_
+11	playing	play	_	VBG	_	5	APPO	_	_
+12	the	the	_	DT	_	13	NMOD	276417	_
+13	guitar	guitar	_	NN	_	11	OBJ	276417	_
+14	on	on	_	IN	_	13	NMOD	_	_
+15	stage	stage	_	NN	_	14	PMOD	276418	_
+16	.	.	_	.	_	0	ROOT	_	_

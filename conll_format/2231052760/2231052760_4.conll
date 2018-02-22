@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	35741	_
+2	couple	couple	_	NN	_	3	SBJ	35741	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	under	under	_	IN	_	3	LOC	_	3
+5	an	an	_	DT	_	6	NMOD	35743	_
+6	umbrella	umbrella	_	NN	_	4	PMOD	35743	_
+7	at	at	_	IN	_	3	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	35742	_
+9	beach	beach	_	NN	_	7	PMOD	35742	_
+10	.	.	_	.	_	3	P	_	_

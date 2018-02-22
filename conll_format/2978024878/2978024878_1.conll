@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	3	NMOD	85188	_
+2	white	white	_	JJ	_	3	NMOD	85188	_
+3	dogs	dog	_	NNS	_	6	SBJ	85188	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	muzzles	muzzle	_	NNS	_	4	PMOD	85189	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	jumping	jump	_	VBG	_	6	VC	_	_
+8	over	over	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	85190	_
+10	small	small	_	JJ	_	11	NMOD	85190	_
+11	barrier	barrier	_	NN	_	8	PMOD	85190	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	85193	_
+14	race	race	_	NN	_	12	PMOD	85193	_
+15	.	.	_	.	_	6	P	_	_

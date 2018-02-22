@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	34586	_
+2	work	work	_	NN	_	3	NMOD	34586	_
+3	crew	crew	_	NN	_	7	SBJ	34586	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	orange	orange	_	JJ	_	6	NMOD	34587	_
+6	vasts	vast	_	NNS	_	4	OBJ	34587	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	working	work	_	VBG	_	7	VC	_	_
+9	at	at	_	IN	_	8	ADV	_	_
+10	night	night	_	NN	_	9	PMOD	34584	_
+11	under	under	_	IN	_	8	LOC	_	8
+12	some	some	_	DT	_	13	NMOD	34582	_
+13	lights	light	_	NNS	_	11	PMOD	34582	_
+14	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	3	NMOD	12491	_
+2	young	young	_	JJ	_	3	NMOD	12491	_
+3	child	child	_	NN	_	4	SBJ	12491	_
+4	stands	stand	_	VBZ	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	8	NMOD	12493	_
+7	wood	wood	_	NN	_	8	NMOD	12493	_
+8	dock	dock	_	NN	_	5	PMOD	12493	_
+9	next to	next to	_	IN	_	4	LOC	_	4
+10	the	the	_	DT	_	11	NMOD	12494	_
+11	water	water	_	NN	_	9	PMOD	12494	_
+12	.	.	_	.	_	4	P	_	_

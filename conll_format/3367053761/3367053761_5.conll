@@ -1,0 +1,9 @@
+1	Person	Person	_	NNP	_	2	SBJ	113333	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	at	at	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	113335	_
+5	desk	desk	_	NN	_	3	PMOD	113335	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	8	NMOD	113334	_
+8	library	library	_	NN	_	6	PMOD	113334	_
+9	.	.	_	.	_	0	ROOT	_	_

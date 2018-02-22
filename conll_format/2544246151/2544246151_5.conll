@@ -1,0 +1,9 @@
+1	a	a	_	DT	_	2	NMOD	57139	_
+2	girl	girl	_	NN	_	0	ROOT	57139	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	5	NMOD	57140	_
+5	runs	run	_	NNS	_	3	PMOD	_	_
+6	across	across	_	IN	_	5	LOC	_	5
+7	the	the	_	DT	_	8	NMOD	57143	_
+8	grass	grass	_	NN	_	6	PMOD	57143	_
+9	.	.	_	.	_	0	ROOT	_	_

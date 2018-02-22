@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	45256	_
+2	street	street	_	NN	_	3	NMOD	45256	_
+3	performer	performer	_	NN	_	0	ROOT	45256	_
+4	playing	play	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	6	NMOD	45260	_
+6	drum	drum	_	NN	_	4	OBJ	45260	_
+7	set	set	_	VBN	_	6	APPO	45260	_
+8	in front of	in front of	_	IN	_	7	ADV	_	4
+9	a	a	_	DT	_	10	NMOD	45259	_
+10	crowd	crowd	_	NN	_	8	PMOD	45259	_
+11	of	of	_	IN	_	10	NMOD	45259	_
+12	people	people	_	NN	_	11	PMOD	45259	_
+13	.	.	_	.	_	0	ROOT	_	_

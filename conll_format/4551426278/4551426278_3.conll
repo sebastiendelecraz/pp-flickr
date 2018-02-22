@@ -1,0 +1,17 @@
+1	a	a	_	DT	_	2	NMOD	177495	_
+2	man	man	_	NN	_	3	SBJ	177495	_
+3	standing	stand	_	VBG	_	10	SBJ	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	177496	_
+6	post	post	_	NN	_	4	PMOD	177496	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	his	his	_	PRP$	_	9	NMOD	177499	_
+9	arms	arm	_	NNS	_	7	PMOD	177499	_
+10	outstretched	outstretch	_	VBD	_	0	ROOT	177502	_
+11	and	and	_	CC	_	0	ROOT	_	_
+12	his	his	_	PRP$	_	13	NMOD	177498	_
+13	shirt	shirt	_	NN	_	0	ROOT	177498	_
+14	over	over	_	IN	_	13	NMOD	_	13
+15	his	his	_	PRP$	_	16	NMOD	177501	_
+16	head	head	_	NN	_	14	PMOD	177501	_
+17	.	.	_	.	_	0	ROOT	_	_

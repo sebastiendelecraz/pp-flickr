@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	73393	_
+2	blond	blond	_	JJ	_	3	NMOD	73393	_
+3	girl	girl	_	NN	_	0	ROOT	73393	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	73399	_
+6	black	black	_	JJ	_	7	NMOD	73399	_
+7	shirt	shirt	_	NN	_	8	NMOD	73399	_
+8	shield	shield	_	NN	_	4	PMOD	73399	_
+9	her	her	_	PRP$	_	10	NMOD	0	_
+10	laptop	laptop	_	NN	_	8	APPO	73397	_
+11	from	from	_	IN	_	8	NMOD	_	8
+12	the	the	_	DT	_	13	NMOD	73398	_
+13	sun	sun	_	NN	_	11	PMOD	73398	_
+14	with	with	_	IN	_	13	NMOD	_	_
+15	a	a	_	DT	_	16	NMOD	73394	_
+16	newspaper	newspaper	_	NN	_	14	PMOD	73394	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	165613	_
+2	marathon	marathon	_	NN	_	3	NMOD	165613	_
+3	runner	runner	_	NN	_	5	SBJ	165613	_
+4	either	either	_	RB	_	5	ADV	_	_
+5	starting	start	_	VBG	_	0	ROOT	_	_
+6	or	or	_	CC	_	5	COORD	_	_
+7	passing	pass	_	VBG	_	6	CONJ	_	_
+8	through	through	_	IN	_	5	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	165620	_
+10	checkpoint	checkpoint	_	NN	_	8	PMOD	165620	_
+11	at	at	_	IN	_	5	LOC	_	_
+12	a	a	_	DT	_	14	NMOD	165617	_
+13	fundraiser	fundraiser	_	NN	_	14	NMOD	165617	_
+14	marathon	marathon	_	NN	_	11	PMOD	165617	_
+15	.	.	_	.	_	0	ROOT	_	_

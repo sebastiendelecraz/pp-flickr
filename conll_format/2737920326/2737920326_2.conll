@@ -1,0 +1,12 @@
+1	The	the	_	DT	_	3	NMOD	69592	_
+2	street	street	_	NN	_	3	NMOD	69592	_
+3	performers	performer	_	NNS	_	4	SBJ	69592	_
+4	perform	perform	_	VBP	_	0	ROOT	_	_
+5	live	live	_	JJ	_	6	NMOD	69599	_
+6	music	music	_	NN	_	4	OBJ	69599	_
+7	in front of	in front of	_	IN	_	4	ADV	_	4
+8	a	a	_	DT	_	9	NMOD	69595	_
+9	crowd	crowd	_	NN	_	7	PMOD	69595	_
+10	of	of	_	IN	_	9	NMOD	69595	_
+11	spectators	spectator	_	NNS	_	10	PMOD	69595	_
+12	.	.	_	.	_	4	P	_	_

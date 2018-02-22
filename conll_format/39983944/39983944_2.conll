@@ -1,0 +1,12 @@
+1	Someone	someone	_	NN	_	0	ROOT	151377	_
+2	suspended	suspend	_	VBN	_	1	APPO	_	_
+3	high	high	_	JJ	_	2	OPRD	_	_
+4	on	on	_	IN	_	2	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	151378	_
+6	wire	wire	_	NN	_	4	PMOD	151378	_
+7	near	near	_	IN	_	6	LOC	_	2
+8	a	a	_	DT	_	11	NMOD	151379	_
+9	large	large	_	JJ	_	11	NMOD	151379	_
+10	metal	metal	_	NN	_	11	NMOD	151379	_
+11	structure	structure	_	NN	_	7	PMOD	151379	_
+12	.	.	_	.	_	0	ROOT	_	_

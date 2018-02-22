@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	86278	_
+2	man	man	_	NN	_	3	SBJ	86278	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	singing	sing	_	VBG	_	3	VC	_	_
+5	in the middle of	in the middle of	_	IN	_	4	ADV	86281	4
+6	a	a	_	DT	_	8	NMOD	86281	_
+7	glass	glass	_	NN	_	8	NMOD	86281	_
+8	room	room	_	NN	_	5	PMOD	86281	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	lights	light	_	NNS	_	9	PMOD	86279	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	people	people	_	NN	_	11	CONJ	86280	_
+13	all	all	_	DT	_	14	DEP	_	_
+14	around	around	_	IN	_	4	ADV	_	_
+15	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	281392	_
+2	man	man	_	NN	_	3	SBJ	281392	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	walking	walk	_	VBG	_	3	VC	_	_
+5	on top of	on top of	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	9	NMOD	281393	_
+7	large	large	_	JJ	_	9	NMOD	281393	_
+8	sand	sand	_	NN	_	9	NMOD	281393	_
+9	dune	dune	_	NN	_	5	PMOD	281393	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	281394	_
+12	desert	desert	_	NN	_	10	PMOD	281394	_
+13	.	.	_	.	_	3	P	_	_

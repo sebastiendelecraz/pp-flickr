@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	25745	_
+2	group	group	_	NN	_	5	SBJ	25745	_
+3	of	of	_	IN	_	2	NMOD	25745	_
+4	teenagers	teenager	_	NNS	_	3	PMOD	25745	_
+5	talk	talk	_	VBP	_	0	ROOT	_	_
+6	next to	next to	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	25744	_
+8	building	building	_	NN	_	6	PMOD	25744	_
+9	with	with	_	IN	_	8	NMOD	_	_
+10	sandy	sandy	_	JJ	_	11	NMOD	25746	_
+11	columns	column	_	NNS	_	9	PMOD	25746	_
+12	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,11 @@
+1	Someone	someone	_	NN	_	2	SBJ	57759	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	kayaking	kayak	_	VBG	_	2	VC	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	57760	_
+6	yellow	yellow	_	JJ	_	7	NMOD	57760	_
+7	kayak	kayak	_	NN	_	4	PMOD	57760	_
+8	over	over	_	IN	_	7	NMOD	_	3
+9	choppy	choppy	_	JJ	_	10	NMOD	57761	_
+10	waters	water	_	NNS	_	8	PMOD	57761	_
+11	.	.	_	.	_	2	P	_	_

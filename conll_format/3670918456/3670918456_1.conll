@@ -1,0 +1,17 @@
+1	The	the	_	DT	_	3	NMOD	135711	_
+2	blond-haired	blond-haired	_	JJ	_	3	NMOD	135711	_
+3	girl	girl	_	NN	_	8	SBJ	135711	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	the	the	_	DT	_	7	NMOD	135716	_
+6	flowered	flower	_	VBN	_	7	NMOD	135716	_
+7	dress	dress	_	NN	_	4	OBJ	135716	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	swinging	swing	_	VBG	_	8	VC	_	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	135712	_
+12	swing	swing	_	NN	_	10	PMOD	135712	_
+13	towards	towards	_	IN	_	9	TMP	_	9
+14	the	the	_	DT	_	16	NMOD	135713	_
+15	blue	blue	_	JJ	_	16	NMOD	135713	_
+16	sky	sky	_	NN	_	13	PMOD	135713	_
+17	.	.	_	.	_	8	P	_	_

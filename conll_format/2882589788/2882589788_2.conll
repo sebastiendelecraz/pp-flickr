@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	4	NMOD	78781	_
+2	young	young	_	JJ	_	4	NMOD	78781	_
+3	female	female	_	JJ	_	4	NMOD	78781	_
+4	cheerleader	cheerleader	_	NN	_	10	SBJ	78781	_
+5	dressed	dress	_	VBN	_	4	APPO	_	_
+6	in	in	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	9	NMOD	78782	_
+8	blue	blue	_	JJ	_	9	NMOD	78782	_
+9	uniform	uniform	_	NN	_	6	PMOD	78782	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	cheering	cheer	_	VBG	_	10	VC	_	_
+12	in front of	in front of	_	IN	_	11	ADV	_	_
+13	a	a	_	DT	_	14	NMOD	78786	_
+14	group	group	_	NN	_	12	PMOD	78786	_
+15	of	of	_	IN	_	14	NMOD	78786	_
+16	band	band	_	NN	_	17	NMOD	78786	_
+17	members	member	_	NNS	_	15	PMOD	78786	_
+18	.	.	_	.	_	10	P	_	_

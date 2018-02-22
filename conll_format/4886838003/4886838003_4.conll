@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	214784	_
+2	man	man	_	NN	_	3	SBJ	214784	_
+3	takes	take	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	214786	_
+5	photograph	photograph	_	NN	_	3	OBJ	214786	_
+6	of	of	_	IN	_	5	NMOD	214786	_
+7	a	a	_	DT	_	8	NMOD	214786	_
+8	woman	woman	_	NN	_	6	PMOD	214786	_
+9	near	near	_	IN	_	8	LOC	_	3
+10	a	a	_	DT	_	11	NMOD	214788	_
+11	fence	fence	_	NN	_	9	PMOD	214788	_
+12	.	.	_	.	_	3	P	_	_

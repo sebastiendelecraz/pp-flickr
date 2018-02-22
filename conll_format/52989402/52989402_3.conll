@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	233157	_
+2	happy	happy	_	JJ	_	3	NMOD	233157	_
+3	group	group	_	NN	_	6	SBJ	233157	_
+4	of	of	_	IN	_	3	NMOD	233157	_
+5	people	people	_	NN	_	4	PMOD	233157	_
+6	smile	smile	_	VBP	_	0	ROOT	_	_
+7	for	for	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	233162	_
+9	picture	picture	_	NN	_	7	PMOD	233162	_
+10	at	at	_	IN	_	6	TMP	_	_
+11	a	a	_	DT	_	12	NMOD	233159	_
+12	restaurant	restaurant	_	NN	_	10	PMOD	233159	_
+13	.	.	_	.	_	6	P	_	_

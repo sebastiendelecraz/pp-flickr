@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	269991	_
+2	young	young	_	JJ	_	3	NMOD	269991	_
+3	boy	boy	_	NN	_	0	ROOT	269991	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	269993	_
+6	dress	dress	_	NN	_	7	NMOD	269993	_
+7	jacket	jacket	_	NN	_	4	PMOD	269993	_
+8	and	and	_	CC	_	7	COORD	_	_
+9	kilt	kilt	_	NN	_	10	NMOD	269994	_
+10	jumps	jump	_	NNS	_	8	CONJ	_	_
+11	off	off	_	IN	_	3	NMOD	_	10
+12	a	a	_	DT	_	14	NMOD	269992	_
+13	green	green	_	JJ	_	14	NMOD	269992	_
+14	bench	bench	_	NN	_	11	PMOD	269992	_
+15	.	.	_	.	_	0	ROOT	_	_

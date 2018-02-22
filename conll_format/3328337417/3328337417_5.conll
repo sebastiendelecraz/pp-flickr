@@ -1,0 +1,9 @@
+1	Four	Four	_	CD	_	2	NMOD	109731	_
+2	workers	worker	_	NNS	_	3	SBJ	109731	_
+3	pose	pose	_	VBP	_	0	ROOT	_	_
+4	between	between	_	IN	_	3	ADV	_	3
+5	beams	beam	_	NNS	_	4	PMOD	109735	_
+6	of	of	_	IN	_	5	NMOD	109735	_
+7	a	a	_	DT	_	8	NMOD	109735	_
+8	house	house	_	NN	_	6	PMOD	109735	_
+9	.	.	_	.	_	3	P	_	_

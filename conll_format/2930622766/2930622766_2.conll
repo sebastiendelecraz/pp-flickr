@@ -1,0 +1,15 @@
+1	Several	several	_	DT	_	2	NMOD	82175	_
+2	people	people	_	NN	_	3	SBJ	82175	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	standing	stand	_	VBG	_	3	VC	_	_
+5	on	on	_	IN	_	4	ADV	_	_
+6	a	a	_	DT	_	7	NMOD	82178	_
+7	sidewalk	sidewalk	_	NN	_	5	PMOD	82178	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	82174	_
+10	man	man	_	NN	_	8	PMOD	82174	_
+11	leaning	lean	_	VBG	_	10	APPO	_	_
+12	against	against	_	IN	_	11	ADV	_	11
+13	a	a	_	DT	_	14	NMOD	82176	_
+14	pole	pole	_	NN	_	12	PMOD	82176	_
+15	.	.	_	.	_	3	P	_	_

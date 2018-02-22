@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	236499	_
+2	man	man	_	NN	_	0	ROOT	236499	_
+3	on	on	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	236501	_
+5	horse	horse	_	NN	_	3	PMOD	236501	_
+6	galloping	gallop	_	VBG	_	5	APPO	_	_
+7	onto	onto	_	IN	_	6	DIR	_	6
+8	its	its	_	PRP$	_	9	NMOD	236503	_
+9	back	back	_	NN	_	7	PMOD	236503	_
+10	two	two	_	CD	_	11	NMOD	236503	_
+11	feet	foot	_	NNS	_	7	TMP	236503	_
+12	.	.	_	.	_	0	ROOT	_	_

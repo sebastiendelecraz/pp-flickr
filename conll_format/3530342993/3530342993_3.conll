@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	125220	_
+2	man	man	_	NN	_	0	ROOT	125220	_
+3	riding	ride	_	VBG	_	2	APPO	_	_
+4	a	a	_	DT	_	5	NMOD	125221	_
+5	bicycle	bicycle	_	NN	_	3	OBJ	125221	_
+6	down	down	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	125222	_
+8	ramp	ramp	_	NN	_	6	PMOD	125222	_
+9	towards	towards	_	IN	_	3	LOC	_	3
+10	a	a	_	DT	_	13	NMOD	125226	_
+11	dirt	dirt	_	NN	_	13	NMOD	125226	_
+12	bike	bike	_	NN	_	13	NMOD	125226	_
+13	course	course	_	NN	_	9	PMOD	125226	_
+14	.	.	_	.	_	0	ROOT	_	_

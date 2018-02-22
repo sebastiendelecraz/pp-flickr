@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	198106	_
+2	woman	woman	_	NN	_	0	ROOT	198106	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	198107	_
+5	bottle	bottle	_	NN	_	3	PMOD	198107	_
+6	of	of	_	IN	_	5	NMOD	198107	_
+7	champagne	champagne	_	NN	_	6	PMOD	198107	_
+8	and	and	_	CC	_	5	COORD	_	_
+9	a	a	_	DT	_	10	NMOD	198112	_
+10	man	man	_	NN	_	8	CONJ	198112	_
+11	with	with	_	IN	_	5	NMOD	_	_
+12	wild	wild	_	JJ	_	13	NMOD	198113	_
+13	hair	hair	_	NN	_	11	PMOD	198113	_
+14	standing	stand	_	VBG	_	13	APPO	_	_
+15	in front of	in front of	_	IN	_	14	ADV	_	14
+16	a	a	_	DT	_	17	NMOD	198108	_
+17	crowd	crowd	_	NN	_	15	PMOD	198108	_
+18	of	of	_	IN	_	17	NMOD	198108	_
+19	people	people	_	NN	_	18	PMOD	198108	_
+20	in	in	_	IN	_	19	LOC	_	_
+21	the	the	_	DT	_	22	NMOD	198114	_
+22	street	street	_	NN	_	20	PMOD	198114	_
+23	.	.	_	.	_	0	ROOT	_	_

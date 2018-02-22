@@ -1,0 +1,13 @@
+1	The	the	_	DT	_	2	NMOD	4171	_
+2	man	man	_	NN	_	3	SBJ	4171	_
+3	takes	take	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	4177	_
+5	leap	leap	_	NN	_	3	OBJ	4177	_
+6	into	into	_	IN	_	3	ADV	_	3
+7	the	the	_	DT	_	8	NMOD	4172	_
+8	water	water	_	NN	_	6	PMOD	4172	_
+9	with	with	_	IN	_	3	ADV	_	_
+10	his	his	_	PRP$	_	11	NMOD	4176	_
+11	shoes	shoe	_	NNS	_	9	PMOD	4176	_
+12	on	on	_	IN	_	11	NMOD	_	_
+13	.	.	_	.	_	3	P	_	_

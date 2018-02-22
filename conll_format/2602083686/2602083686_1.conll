@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	60819	_
+2	ladies	lady	_	NNS	_	3	SBJ	60819	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	wearing	wear	_	VBG	_	3	VC	_	_
+5	nothing	nothing	_	NN	_	4	OBJ	_	_
+6	except	except	_	IN	_	5	NMOD	_	5
+7	body	body	_	NN	_	8	NMOD	60820	_
+8	paint	paint	_	NN	_	6	PMOD	60820	_
+9	and	and	_	CC	_	4	COORD	_	_
+10	riding	ride	_	VBG	_	9	CONJ	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	bicycles	bicycle	_	NNS	_	11	PMOD	60821	_
+13	in	in	_	IN	_	10	LOC	_	_
+14	a	a	_	DT	_	15	NMOD	60825	_
+15	street	street	_	NN	_	13	PMOD	60825	_
+16	fair	fair	_	JJ	_	10	MNR	60825	_
+17	.	.	_	.	_	3	P	_	_

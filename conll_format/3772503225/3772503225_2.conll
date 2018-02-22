@@ -1,0 +1,14 @@
+1	Two	Two	_	CD	_	2	NMOD	141923	_
+2	guys	guy	_	NNS	_	3	SBJ	141923	_
+3	setting	set	_	VBG	_	0	ROOT	_	_
+4	up	up	_	RP	_	3	PRT	_	_
+5	some	some	_	DT	_	6	NMOD	141925	_
+6	kind	kind	_	NN	_	3	OBJ	141925	_
+7	of	of	_	IN	_	6	NMOD	141925	_
+8	canopy	canopy	_	NN	_	7	PMOD	141925	_
+9	near	near	_	IN	_	6	LOC	_	3
+10	the	the	_	DT	_	11	NMOD	141931	_
+11	waters	water	_	NNS	_	13	NMOD	141931	_
+12	'	'	_	POS	_	11	SUFFIX	141930	_
+13	edge	edge	_	NN	_	9	PMOD	141930	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	110716	_
+2	man	man	_	NN	_	6	SBJ	110716	_
+3	on	on	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	110717	_
+5	bicycle	bicycle	_	NN	_	3	PMOD	110717	_
+6	sits	sit	_	VBZ	_	0	ROOT	_	_
+7	at	at	_	IN	_	6	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	110718	_
+9	stoplight	stoplight	_	NN	_	7	PMOD	110718	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	headphones	headphone	_	NNS	_	10	PMOD	110719	_
+12	on	on	_	IN	_	11	NMOD	_	_
+13	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	42503	_
+2	fisherman	fisherman	_	NN	_	0	ROOT	42503	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	42504	_
+5	field	field	_	NN	_	3	PMOD	42504	_
+6	near	near	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	42506	_
+8	lake	lake	_	NN	_	6	PMOD	42506	_
+9	.	.	_	.	_	0	ROOT	_	_

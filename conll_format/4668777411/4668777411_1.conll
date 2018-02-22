@@ -1,0 +1,20 @@
+1	An	an	_	DT	_	3	NMOD	188518	_
+2	oriental	oriental	_	NN	_	3	NMOD	188518	_
+3	woman	woman	_	NN	_	0	ROOT	188518	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	red	red	_	JJ	_	6	NMOD	188521	_
+6	shoes	shoe	_	NNS	_	4	PMOD	188521	_
+7	standing	stand	_	VBG	_	6	APPO	_	_
+8	next to	next to	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	188519	_
+10	car	car	_	NN	_	8	PMOD	188519	_
+11	with	with	_	IN	_	7	ADV	_	_
+12	a	a	_	DT	_	15	NMOD	188524	_
+13	red	red	_	JJ	_	15	NMOD	188524	_
+14	bull	bull	_	NN	_	15	NMOD	188524	_
+15	logo	logo	_	NN	_	11	PMOD	188524	_
+16	in	in	_	IN	_	7	LOC	_	_
+17	an	an	_	DT	_	19	NMOD	188525	_
+18	asian	asian	_	JJ	_	19	NMOD	188525	_
+19	city	city	_	NN	_	16	PMOD	188525	_
+20	.	.	_	.	_	0	ROOT	_	_

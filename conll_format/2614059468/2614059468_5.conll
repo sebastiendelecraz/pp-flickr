@@ -1,0 +1,10 @@
+1	group	group	_	NN	_	0	ROOT	61693	_
+2	of	of	_	IN	_	1	NMOD	61693	_
+3	people	people	_	NN	_	2	PMOD	61693	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	red	red	_	JJ	_	6	NMOD	61690	_
+6	walking	walking	_	NN	_	4	PMOD	_	_
+7	through	through	_	IN	_	1	DEP-GAP	_	6
+8	forest	forest	_	NN	_	9	NMOD	61699	_
+9	area	area	_	NN	_	7	PMOD	61699	_
+10	.	.	_	.	_	0	ROOT	_	_

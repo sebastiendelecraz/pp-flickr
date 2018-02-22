@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	74000	_
+2	man	man	_	NN	_	7	SBJ	74000	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	black	black	_	JJ	_	3	PRD	74005	_
+5	and	and	_	CC	_	4	COORD	74005	_
+6	gold	gold	_	NN	_	5	CONJ	74005	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	preparing	prepare	_	VBG	_	7	VC	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	competition	competition	_	NN	_	9	PMOD	74011	_
+11	at	at	_	IN	_	10	LOC	_	_
+12	medieval	medieval	_	JJ	_	14	NMOD	74014	_
+13	times	time	_	NNS	_	14	NMOD	74014	_
+14	event	event	_	NN	_	11	PMOD	74014	_
+15	.	.	_	.	_	7	P	_	_

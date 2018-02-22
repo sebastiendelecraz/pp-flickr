@@ -1,0 +1,18 @@
+1	Beige	Beige	_	NNP	_	2	NMOD	68392	_
+2	dog	dog	_	NN	_	3	SBJ	68392	_
+3	running	run	_	VBG	_	0	ROOT	_	_
+4	toward	toward	_	IN	_	3	DIR	_	3
+5	camera	camera	_	NN	_	4	PMOD	68398	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	brown	brown	_	JJ	_	8	NMOD	0	_
+8	ground	ground	_	NN	_	6	PMOD	0	_
+9	and	and	_	CC	_	5	COORD	_	_
+10	a	a	_	DT	_	11	NMOD	68394	_
+11	man	man	_	NN	_	9	CONJ	68394	_
+12	in	in	_	IN	_	3	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	0	_
+14	background	background	_	NN	_	12	PMOD	0	_
+15	moving	move	_	VBG	_	3	ADV	_	_
+16	away from	away from	_	IN	_	15	ADV	_	15
+17	camera	camera	_	NN	_	16	PMOD	68400	_
+18	.	.	_	.	_	0	ROOT	_	_

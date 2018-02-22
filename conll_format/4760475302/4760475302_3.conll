@@ -1,0 +1,17 @@
+1	Two	Two	_	CD	_	2	NMOD	199938	_
+2	boats	boat	_	NNS	_	3	SBJ	199938	_
+3	speed	speed	_	VBP	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	the	the	_	DT	_	6	NMOD	199940	_
+6	water	water	_	NN	_	4	PMOD	199940	_
+7	at	at	_	IN	_	3	TMP	_	_
+8	excessive	excessive	_	JJ	_	9	NMOD	199946	_
+9	speeds	speed	_	NNS	_	7	PMOD	199946	_
+10	as	as	_	IN	_	3	TMP	_	_
+11	they	they	_	PRP	_	12	SBJ	0	_
+12	rush	rush	_	VBP	_	10	SUB	_	_
+13	for	for	_	IN	_	12	ADV	_	12
+14	the	the	_	DT	_	16	NMOD	199948	_
+15	finish	finish	_	NN	_	16	NMOD	199948	_
+16	line	line	_	NN	_	13	PMOD	199948	_
+17	.	.	_	.	_	3	P	_	_

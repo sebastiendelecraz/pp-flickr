@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	228651	_
+2	guy	guy	_	NN	_	0	ROOT	228651	_
+3	wearing	wear	_	VBG	_	6	SBJ	_	_
+4	cargo	cargo	_	NN	_	5	NMOD	228653	_
+5	pants	pant	_	NNS	_	3	OBJ	228653	_
+6	stands	stand	_	VBZ	_	2	NMOD	_	_
+7	on top of	on top of	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	228652	_
+9	car	car	_	NN	_	7	PMOD	228652	_
+10	with	with	_	IN	_	6	ADV	_	6
+11	a	a	_	DT	_	13	NMOD	228655	_
+12	dented	dent	_	VBN	_	13	NMOD	228655	_
+13	hood	hood	_	NN	_	10	PMOD	228655	_
+14	.	.	_	.	_	0	ROOT	_	_

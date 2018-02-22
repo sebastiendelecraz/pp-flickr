@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	3	NMOD	49545	_
+2	black	black	_	JJ	_	3	NMOD	49545	_
+3	gentleman	gentleman	_	NN	_	7	SBJ	49545	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	49546	_
+6	suit	suit	_	NN	_	4	PMOD	49546	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	sing	sing	_	VBG	_	7	VC	_	_
+9	before	before	_	IN	_	8	TMP	_	8
+10	a	a	_	DT	_	11	NMOD	49549	_
+11	stand	stand	_	NN	_	9	PMOD	49549	_
+12	up	up	_	IN	_	11	NMOD	_	11
+13	mike	mike	_	NN	_	12	PMOD	49547	_
+14	.	.	_	.	_	7	P	_	_

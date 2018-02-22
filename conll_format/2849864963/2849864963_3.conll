@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	76770	_
+2	group	group	_	NN	_	7	SBJ	76770	_
+3	of	of	_	IN	_	2	NMOD	76770	_
+4	men	man	_	NNS	_	3	PMOD	76770	_
+5	in	in	_	IN	_	2	LOC	_	_
+6	jumpsuits	jumpsuit	_	NNS	_	5	PMOD	76777	_
+7	walk	walk	_	VBP	_	0	ROOT	_	_
+8	along	along	_	IN	_	7	LOC	_	7
+9	the	the	_	DT	_	10	NMOD	76778	_
+10	dock	dock	_	NN	_	8	PMOD	76778	_
+11	of	of	_	IN	_	10	NMOD	76778	_
+12	the	the	_	DT	_	14	NMOD	76778	_
+13	Bumi	Bumi	_	NNP	_	14	NAME	76778	_
+14	Jaya	Jaya	_	NNP	_	11	PMOD	76778	_
+15	.	.	_	.	_	7	P	_	_

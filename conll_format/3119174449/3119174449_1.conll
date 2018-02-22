@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	94832	_
+2	boy	boy	_	NN	_	3	SBJ	94832	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC-PRD	_	_
+5	a	a	_	DT	_	6	NMOD	94839	_
+6	rock	rock	_	NN	_	4	PMOD	94839	_
+7	near	near	_	IN	_	6	LOC	_	3
+8	calm	calm	_	NN	_	9	NMOD	94833	_
+9	waters	water	_	NNS	_	7	PMOD	94833	_
+10	taking	take	_	VBG	_	9	APPO	_	_
+11	a	a	_	DT	_	12	NMOD	94834	_
+12	photograph	photograph	_	NN	_	10	OBJ	94834	_
+13	of	of	_	IN	_	12	NMOD	94834	_
+14	the	the	_	DT	_	15	NMOD	94834	_
+15	scenery	scenery	_	NN	_	13	PMOD	94834	_
+16	.	.	_	.	_	3	P	_	_

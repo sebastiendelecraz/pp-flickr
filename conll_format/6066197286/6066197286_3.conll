@@ -1,0 +1,13 @@
+1	Young	Young	_	NNP	_	2	NMOD	247337	_
+2	children	child	_	NNS	_	3	SBJ	247337	_
+3	getting	get	_	VBG	_	0	ROOT	_	_
+4	swimming	swim	_	VBG	_	5	NMOD	247347	_
+5	lessons	lesson	_	NNS	_	3	OBJ	247347	_
+6	from	from	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	8	NMOD	247338	_
+8	man	man	_	NN	_	6	PMOD	247338	_
+9	in	in	_	IN	_	3	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	247341	_
+11	red	red	_	JJ	_	12	NMOD	247341	_
+12	hat	hat	_	NN	_	9	PMOD	247341	_
+13	.	.	_	.	_	0	ROOT	_	_

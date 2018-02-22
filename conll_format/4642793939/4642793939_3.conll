@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	185865	_
+2	balding	bald	_	VBG	_	4	NMOD	185865	_
+3	shirtless	shirtless	_	JJ	_	4	NMOD	185865	_
+4	guy	guy	_	NN	_	5	SBJ	185865	_
+5	stand	stand	_	VB	_	0	ROOT	_	_
+6	against	against	_	IN	_	5	ADV	_	5
+7	a	a	_	DT	_	8	NMOD	185867	_
+8	pole	pole	_	NN	_	6	PMOD	185867	_
+9	in	in	_	IN	_	5	LOC	_	_
+10	a	a	_	DT	_	11	NMOD	185869	_
+11	park	park	_	NN	_	9	PMOD	185869	_
+12	.	.	_	.	_	0	ROOT	_	_

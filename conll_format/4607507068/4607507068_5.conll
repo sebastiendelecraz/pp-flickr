@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	182154	_
+2	woman	woman	_	NN	_	3	SBJ	182154	_
+3	dances	dance	_	VBZ	_	0	ROOT	_	_
+4	next to	next to	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	182157	_
+6	stage	stage	_	NN	_	4	PMOD	182157	_
+7	during	during	_	IN	_	3	TMP	_	3
+8	a	a	_	DT	_	9	NMOD	182162	_
+9	music	music	_	NN	_	7	PMOD	182162	_
+10	festival	festival	_	JJ	_	0	ROOT	182162	_
+11	.	.	_	.	_	0	ROOT	_	_

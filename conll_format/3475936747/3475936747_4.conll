@@ -1,0 +1,14 @@
+1	One	One	_	CD	_	2	NMOD	121132	_
+2	adult	adult	_	NN	_	0	ROOT	121132	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	three	three	_	CD	_	6	NMOD	121131	_
+5	small	small	_	JJ	_	6	NMOD	121131	_
+6	children	child	_	NNS	_	3	CONJ	121131	_
+7	paddling	paddle	_	VBG	_	6	APPO	_	_
+8	in	in	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	121134	_
+10	canoe	canoe	_	NN	_	8	PMOD	121134	_
+11	down	down	_	IN	_	10	NMOD	_	7
+12	a	a	_	DT	_	13	NMOD	121135	_
+13	river	river	_	NN	_	11	PMOD	121135	_
+14	.	.	_	.	_	0	ROOT	_	_

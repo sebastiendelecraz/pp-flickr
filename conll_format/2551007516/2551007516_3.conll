@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	57612	_
+2	woman	woman	_	NN	_	3	SBJ	57612	_
+3	hangs	hang	_	VBZ	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	57615	_
+6	rope	rope	_	NN	_	4	PMOD	57615	_
+7	on	on	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	57614	_
+9	grassy	grassy	_	JJ	_	10	NMOD	57614	_
+10	patch	patch	_	NN	_	7	PMOD	57614	_
+11	overlooking	overlook	_	VBG	_	10	APPO	_	_
+12	a	a	_	DT	_	14	NMOD	57613	_
+13	distant	distant	_	JJ	_	14	NMOD	57613	_
+14	city	city	_	NN	_	11	OBJ	57613	_
+15	.	.	_	.	_	3	P	_	_

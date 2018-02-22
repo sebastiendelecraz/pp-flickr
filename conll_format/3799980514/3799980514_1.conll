@@ -1,0 +1,20 @@
+1	One	One	_	CD	_	2	NMOD	143104	_
+2	man	man	_	NN	_	3	SBJ	143104	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	holding	hold	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	6	NMOD	143105	_
+6	guitar	guitar	_	NN	_	4	OBJ	143105	_
+7	in front of	in front of	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	143106	_
+9	microphone	microphone	_	NN	_	7	PMOD	143106	_
+10	while	while	_	IN	_	4	TMP	_	_
+11	there	there	_	EX	_	12	SBJ	0	_
+12	are	be	_	VBP	_	10	SUB	_	_
+13	people	people	_	NN	_	12	PRD	143107	_
+14	standing	stand	_	VBG	_	13	APPO	_	_
+15	behind	behind	_	IN	_	14	LOC	_	14
+16	tables	table	_	NNS	_	15	PMOD	143108	_
+17	at	at	_	IN	_	14	LOC	_	_
+18	an	an	_	DT	_	19	NMOD	143109	_
+19	event	event	_	NN	_	17	PMOD	143109	_
+20	.	.	_	.	_	3	P	_	_

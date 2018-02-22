@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	95695	_
+2	friends	friend	_	NNS	_	3	SBJ	95695	_
+3	chat	chat	_	VBP	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	95697	_
+6	backyard	backyard	_	NN	_	4	PMOD	95697	_
+7	during	during	_	IN	_	3	TMP	_	3
+8	a	a	_	DT	_	11	NMOD	95700	_
+9	hot	hot	_	JJ	_	11	NMOD	95700	_
+10	summer	summer	_	NN	_	11	NMOD	95700	_
+11	day	day	_	NN	_	7	PMOD	95700	_
+12	.	.	_	.	_	3	P	_	_

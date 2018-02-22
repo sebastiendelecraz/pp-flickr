@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	83336	_
+2	girl	girl	_	NN	_	0	ROOT	83336	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	10	NMOD	83337	_
+5	blue	blue	_	JJ	_	10	NMOD	83337	_
+6	and	and	_	CC	_	5	COORD	83337	_
+7	white	white	_	JJ	_	6	CONJ	83337	_
+8	uniform	uniform	_	NN	_	9	NMOD	83337	_
+9	tags	tag	_	NNS	_	10	NMOD	_	_
+10	someone	someone	_	NN	_	3	PMOD	83338	_
+11	in	in	_	IN	_	10	LOC	_	10
+12	a	a	_	DT	_	16	NMOD	83340	_
+13	black	black	_	JJ	_	16	NMOD	83340	_
+14	and	and	_	CC	_	13	COORD	83340	_
+15	red	red	_	JJ	_	14	CONJ	83340	_
+16	uniform	uniform	_	NN	_	11	PMOD	83340	_
+17	.	.	_	.	_	0	ROOT	_	_

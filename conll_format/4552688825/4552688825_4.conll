@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	177612	_
+2	band	band	_	NN	_	3	SBJ	177612	_
+3	playing	play	_	VBG	_	0	ROOT	_	_
+4	in front of	in front of	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	177615	_
+6	sculpture	sculpture	_	NN	_	4	PMOD	177615	_
+7	for	for	_	IN	_	6	NMOD	_	3
+8	people	people	_	NN	_	7	PMOD	177613	_
+9	at	at	_	IN	_	3	LOC	_	3
+10	a	a	_	DT	_	11	NMOD	177614	_
+11	concert	concert	_	NN	_	9	PMOD	177614	_
+12	.	.	_	.	_	0	ROOT	_	_

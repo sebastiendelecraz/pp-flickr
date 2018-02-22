@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	39180	_
+2	gray-haired	gray-haired	_	JJ	_	3	NMOD	39180	_
+3	man	man	_	NN	_	9	SBJ	39180	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	8	NMOD	39181	_
+6	black	black	_	JJ	_	8	NMOD	39181	_
+7	Adidas	Adidas	_	NNP	_	8	NMOD	39181	_
+8	shirt	shirt	_	NN	_	4	PMOD	39181	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	looking	look	_	VBG	_	9	VC	_	_
+11	at	at	_	IN	_	10	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	39182	_
+13	menu	menu	_	NN	_	11	PMOD	39182	_
+14	in	in	_	IN	_	10	TMP	_	_
+15	a	a	_	DT	_	16	NMOD	39185	_
+16	restaurant	restaurant	_	NN	_	14	PMOD	39185	_
+17	.	.	_	.	_	9	P	_	_

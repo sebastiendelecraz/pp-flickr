@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	69283	_
+2	girl	girl	_	NN	_	3	SBJ	69283	_
+3	drinks	drink	_	VBZ	_	0	ROOT	_	_
+4	from	from	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	69290	_
+6	straw	straw	_	NN	_	4	PMOD	69290	_
+7	while	while	_	IN	_	3	ADV	_	_
+8	sitting	sit	_	VBG	_	7	SUB	_	_
+9	near	near	_	IN	_	8	LOC	_	8
+10	the	the	_	DT	_	11	NMOD	69292	_
+11	glass	glass	_	NN	_	9	PMOD	69292	_
+12	of	of	_	IN	_	11	NMOD	69292	_
+13	a	a	_	DT	_	15	NMOD	69292	_
+14	dolphin	dolphin	_	NN	_	15	NMOD	69292	_
+15	enclosure	enclosure	_	NN	_	12	PMOD	69292	_
+16	.	.	_	.	_	3	P	_	_

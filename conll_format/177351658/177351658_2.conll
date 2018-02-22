@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	20178	_
+2	man	man	_	NN	_	6	SBJ	20178	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	20182	_
+5	microphone	microphone	_	NN	_	3	PMOD	20182	_
+6	reads	read	_	VBZ	_	0	ROOT	_	_
+7	from	from	_	IN	_	6	ADV	_	6
+8	a	a	_	DT	_	9	NMOD	20179	_
+9	piece	piece	_	NN	_	7	PMOD	20179	_
+10	of	of	_	IN	_	9	NMOD	20179	_
+11	paper	paper	_	NN	_	10	PMOD	20179	_
+12	as	as	_	IN	_	6	TMP	_	_
+13	he	he	_	PRP	_	14	SBJ	0	_
+14	stands	stand	_	VBZ	_	12	SUB	_	_
+15	in front of	in front of	_	IN	_	14	TMP	_	_
+16	two	two	_	CD	_	17	NMOD	20180	_
+17	men	man	_	NNS	_	18	SBJ	20180	_
+18	holding	hold	_	VBG	_	15	PMOD	_	_
+19	tubas	tubas	_	NN	_	18	OBJ	20181	_
+20	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	177279	_
+2	woman	woman	_	NN	_	13	SBJ	177279	_
+3	in	in	_	IN	_	5	PMOD	_	_
+4	white	white	_	JJ	_	3	PMOD	177282	_
+5	with	with	_	IN	_	2	NMOD	_	2
+6	a	a	_	DT	_	9	NMOD	177280	_
+7	big	big	_	JJ	_	9	NMOD	177280	_
+8	white	white	_	JJ	_	9	NMOD	177280	_
+9	flower	flower	_	NN	_	5	PMOD	177280	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	her	her	_	PRP$	_	12	NMOD	177283	_
+12	hair	hair	_	NN	_	10	PMOD	177283	_
+13	poses	pose	_	VBZ	_	0	ROOT	_	_
+14	on	on	_	IN	_	13	ADV	_	_
+15	a	a	_	DT	_	17	NMOD	177281	_
+16	city	city	_	NN	_	17	NMOD	177281	_
+17	street	street	_	NN	_	14	PMOD	177281	_
+18	in front of	in front of	_	IN	_	13	ADV	_	_
+19	a	a	_	DT	_	20	NMOD	177285	_
+20	wall	wall	_	NN	_	18	PMOD	177285	_
+21	and	and	_	CC	_	20	COORD	_	_
+22	a	a	_	DT	_	23	NMOD	177284	_
+23	tree	tree	_	NN	_	21	CONJ	177284	_
+24	.	.	_	.	_	13	P	_	_

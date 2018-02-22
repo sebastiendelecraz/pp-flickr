@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	9588	_
+2	firefighter	firefighter	_	NN	_	3	SBJ	9588	_
+3	extinguishes	extinguish	_	VBZ	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	9590	_
+5	fire	fire	_	NN	_	3	OBJ	9590	_
+6	under	under	_	IN	_	3	LOC	_	3
+7	the	the	_	DT	_	8	NMOD	9584	_
+8	hood	hood	_	NN	_	6	PMOD	9584	_
+9	of	of	_	IN	_	8	NMOD	9584	8
+10	a	a	_	DT	_	11	NMOD	9584	_
+11	car	car	_	NN	_	9	PMOD	9584	_
+12	.	.	_	.	_	3	P	_	_

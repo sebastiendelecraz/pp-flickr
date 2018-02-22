@@ -1,0 +1,12 @@
+1	Young	Young	_	NNP	_	2	SBJ	218286	_
+2	sitting	sit	_	VBG	_	0	ROOT	218286	_
+3	male	male	_	JJ	_	2	PRD	218286	_
+4	in	in	_	IN	_	2	LOC	_	_
+5	t-shirt	t-shirt	_	NN	_	6	NMOD	218289	_
+6	stares	stare	_	NNS	_	4	PMOD	_	_
+7	into	into	_	IN	_	2	ADV	_	6
+8	camera	camera	_	NN	_	7	PMOD	218292	_
+9	as	as	_	IN	_	2	TMP	_	_
+10	he	he	_	PRP	_	11	SBJ	0	_
+11	eats	eat	_	VBZ	_	9	SUB	_	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	284148	_
+2	men	man	_	NNS	_	3	SBJ	284148	_
+3	sit	sit	_	VBP	_	0	ROOT	_	_
+4	against	against	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	284149	_
+6	stone	stone	_	JJ	_	7	NMOD	284149	_
+7	monument	monument	_	NN	_	4	PMOD	284149	_
+8	among	among	_	IN	_	7	LOC	_	3
+9	snow	snow	_	NN	_	11	NMOD	284151	_
+10	covered	cover	_	VBN	_	11	NMOD	284151	_
+11	peaks	peak	_	NNS	_	8	PMOD	284151	_
+12	.	.	_	.	_	3	P	_	_

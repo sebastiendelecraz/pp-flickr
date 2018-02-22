@@ -1,0 +1,9 @@
+1	Man	Man	_	NNP	_	2	SBJ	125986	_
+2	caring	care	_	VBG	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	several	several	_	DT	_	5	NMOD	125987	_
+5	cats	cat	_	NNS	_	3	PMOD	125987	_
+6	on	on	_	IN	_	2	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	125988	_
+8	sidewalk	sidewalk	_	NN	_	6	PMOD	125988	_
+9	.	.	_	.	_	0	ROOT	_	_

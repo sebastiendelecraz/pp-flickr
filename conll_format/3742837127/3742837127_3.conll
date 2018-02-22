@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	4	NMOD	140774	_
+2	Indian	Indian	_	JJ	_	4	NMOD	140774	_
+3	police	police	_	NN	_	4	NMOD	140774	_
+4	stand	stand	_	NN	_	0	ROOT	_	_
+5	on	on	_	IN	_	4	LOC	_	_
+6	a	a	_	DT	_	7	NMOD	140779	_
+7	street	street	_	NN	_	5	PMOD	140779	_
+8	near	near	_	IN	_	4	LOC	_	4
+9	a	a	_	DT	_	10	NMOD	140780	_
+10	university	university	_	NN	_	8	PMOD	140780	_
+11	.	.	_	.	_	0	ROOT	_	_

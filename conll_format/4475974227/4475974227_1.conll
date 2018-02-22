@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	171483	_
+2	man	man	_	NN	_	6	SBJ	171483	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	red	red	_	JJ	_	5	NMOD	171487	_
+5	jacket	jacket	_	NN	_	3	PMOD	171487	_
+6	waking	wake	_	VBG	_	0	ROOT	_	_
+7	down	down	_	RP	_	6	PRT	_	_
+8	sidewalk	sidewalk	_	NN	_	6	OBJ	171486	_
+9	next to	next to	_	IN	_	6	MNR	_	6
+10	a	a	_	DT	_	11	NMOD	171484	_
+11	man	man	_	NN	_	9	PMOD	171484	_
+12	working	work	_	VBG	_	11	APPO	_	_
+13	by	by	_	IN	_	12	MNR	_	_
+14	side	side	_	NN	_	13	PMOD	171490	_
+15	of	of	_	IN	_	14	NMOD	171490	14
+16	a	a	_	DT	_	17	NMOD	171490	_
+17	building	building	_	NN	_	15	PMOD	171490	_
+18	.	.	_	.	_	0	ROOT	_	_

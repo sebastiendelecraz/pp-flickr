@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	214070	_
+2	black	black	_	JJ	_	3	NMOD	214070	_
+3	man	man	_	NN	_	0	ROOT	214070	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	6	NMOD	214069	_
+6	tux	tux	_	NN	_	4	PMOD	214069	_
+7	surrounded	surround	_	VBN	_	6	APPO	_	_
+8	by	by	_	IN	_	7	LGS	_	_
+9	five	five	_	CD	_	11	NMOD	214075	_
+10	other	other	_	JJ	_	11	NMOD	214075	_
+11	men	man	_	NNS	_	8	PMOD	214075	_
+12	behind	behind	_	IN	_	11	LOC	_	3
+13	a	a	_	DT	_	15	NMOD	214068	_
+14	metal	metal	_	NN	_	15	NMOD	214068	_
+15	gate	gate	_	NN	_	12	PMOD	214068	_
+16	.	.	_	.	_	0	ROOT	_	_

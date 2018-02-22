@@ -1,0 +1,12 @@
+1	people	people	_	NN	_	2	SBJ	77188	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	posing	pose	_	VBG	_	2	VC	_	_
+4	for	for	_	IN	_	3	ADV	_	3
+5	fans	fan	_	NNS	_	4	PMOD	77193	_
+6	at	at	_	IN	_	5	LOC	_	_
+7	the	the	_	DT	_	9	NMOD	77194	_
+8	horse	horse	_	NN	_	9	NMOD	77194	_
+9	hurdle	hurdle	_	NN	_	6	PMOD	77194	_
+10	jumping	jump	_	VBG	_	9	APPO	_	_
+11	games	game	_	NNS	_	10	OBJ	77195	_
+12	.	.	_	.	_	2	P	_	_

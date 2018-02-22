@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	3	NMOD	257638	_
+2	casually-dressed	casually-dressed	_	CD	_	3	NMOD	257638	_
+3	man	man	_	NN	_	6	SBJ	257638	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	woman	woman	_	NN	_	4	CONJ	257641	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	dancing	dance	_	VBG	_	6	VC	_	_
+8	together	together	_	RB	_	7	ADV	_	_
+9	in front of	in front of	_	IN	_	7	ADV	_	_
+10	a	a	_	DT	_	11	NMOD	257645	_
+11	group	group	_	NN	_	9	PMOD	257645	_
+12	of	of	_	IN	_	11	NMOD	257645	_
+13	people	people	_	NN	_	12	PMOD	257645	_
+14	with	with	_	IN	_	13	NMOD	_	7
+15	a	a	_	DT	_	17	NMOD	257640	_
+16	brick	brick	_	NN	_	17	NMOD	257640	_
+17	wall	wall	_	NN	_	14	PMOD	257640	_
+18	in	in	_	IN	_	17	LOC	_	_
+19	the	the	_	DT	_	20	NMOD	0	_
+20	background	background	_	NN	_	18	PMOD	0	_
+21	.	.	_	.	_	6	P	_	_

@@ -1,0 +1,11 @@
+1	Men	Men	_	NNPS	_	2	NAME	270960	_
+2	working	work	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	270962	_
+5	warehouse	warehouse	_	NN	_	3	PMOD	270962	_
+6	,	,	_	,	_	2	P	_	_
+7	putting	put	_	VBG	_	8	NMOD	_	_
+8	rice	rice	_	NN	_	2	OBJ	270966	_
+9	into	into	_	IN	_	2	ADV	_	7
+10	barrels	barrel	_	NNS	_	9	PMOD	270961	_
+11	.	.	_	.	_	0	ROOT	_	_

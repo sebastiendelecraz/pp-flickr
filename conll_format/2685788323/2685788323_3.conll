@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	66087	_
+2	man	man	_	NN	_	4	NMOD	66087	_
+3	wearing	wear	_	VBG	_	4	NMOD	_	_
+4	sunglasses	sunglass	_	NNS	_	5	SBJ	66088	_
+5	stands	stand	_	VBZ	_	0	ROOT	_	_
+6	by	by	_	IN	_	5	MNR	_	5
+7	a	a	_	DT	_	8	NMOD	66090	_
+8	table	table	_	NN	_	6	PMOD	66090	_
+9	at	at	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	11	NMOD	66093	_
+11	cafe	cafe	_	NN	_	9	PMOD	66093	_
+12	.	.	_	.	_	5	P	_	_

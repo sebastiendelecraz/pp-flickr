@@ -1,0 +1,13 @@
+1	Man	Man	_	NNP	_	2	SBJ	130442	_
+2	waits	wait	_	VBZ	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	ADV	_	_
+4	his	his	_	PRP$	_	5	NMOD	130443	_
+5	chair	chair	_	NN	_	3	PMOD	130443	_
+6	for	for	_	IN	_	2	ADV	_	2
+7	a	a	_	DT	_	8	NMOD	130446	_
+8	barber	barber	_	NN	_	6	PMOD	130446	_
+9	to	to	_	TO	_	2	PRP	_	_
+10	shave	shave	_	VB	_	9	IM	_	_
+11	his	his	_	PRP$	_	12	NMOD	130445	_
+12	face	face	_	NN	_	10	OBJ	130445	_
+13	.	.	_	.	_	2	P	_	_

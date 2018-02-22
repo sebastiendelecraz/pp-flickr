@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	12084	_
+2	husband	husband	_	NN	_	5	SBJ	12084	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	wife	wife	_	NN	_	3	CONJ	12083	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	swinging	swing	_	VBG	_	5	VC	_	_
+7	their	their	_	PRP$	_	9	NMOD	12085	_
+8	toddler	toddler	_	NN	_	9	NMOD	12085	_
+9	son	son	_	NN	_	6	OBJ	12085	_
+10	along	along	_	IN	_	6	LOC	_	6
+11	a	a	_	DT	_	12	NMOD	12088	_
+12	pathway	pathway	_	NN	_	10	PMOD	12088	_
+13	in	in	_	IN	_	6	LOC	_	_
+14	a	a	_	DT	_	15	NMOD	12093	_
+15	park	park	_	NN	_	13	PMOD	12093	_
+16	.	.	_	.	_	5	P	_	_

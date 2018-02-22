@@ -1,0 +1,14 @@
+1	a	a	_	DT	_	3	NMOD	198574	_
+2	black	black	_	JJ	_	3	NMOD	198574	_
+3	girl	girl	_	NN	_	4	SBJ	198574	_
+4	walking	walk	_	VBG	_	0	ROOT	_	_
+5	down	down	_	RP	_	4	PRT	_	_
+6	the	the	_	DT	_	7	NMOD	198576	_
+7	sidewalk	sidewalk	_	NN	_	4	OBJ	198576	_
+8	with	with	_	IN	_	7	NMOD	_	4
+9	a	a	_	DT	_	10	NMOD	198578	_
+10	cellphone	cellphone	_	NN	_	8	PMOD	198578	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	her	her	_	PRP$	_	13	NMOD	198584	_
+13	hand	hand	_	NN	_	11	PMOD	198584	_
+14	.	.	_	.	_	0	ROOT	_	_

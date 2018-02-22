@@ -1,0 +1,9 @@
+1	Kid	Kid	_	NNP	_	2	SBJ	28872	_
+2	running	run	_	VBG	_	0	ROOT	_	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	28875	_
+5	race	race	_	NN	_	3	PMOD	28875	_
+6	with	with	_	IN	_	5	NMOD	_	2
+7	a	a	_	DT	_	8	NMOD	28873	_
+8	baton	baton	_	NN	_	6	PMOD	28873	_
+9	.	.	_	.	_	0	ROOT	_	_

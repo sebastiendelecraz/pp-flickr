@@ -1,0 +1,17 @@
+1	An	an	_	DT	_	3	NMOD	173217	_
+2	older	old	_	JJR	_	3	NMOD	173217	_
+3	woman	woman	_	NN	_	7	SBJ	173217	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	brown	brown	_	JJ	_	6	NMOD	173223	_
+6	hair	hair	_	NN	_	4	PMOD	173223	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	walking	walk	_	VBG	_	7	VC	_	_
+9	her	her	_	PRP$	_	10	NMOD	173219	_
+10	bike	bike	_	NN	_	8	OBJ	173219	_
+11	through	through	_	IN	_	8	ADV	_	8
+12	a	a	_	DT	_	13	NMOD	173218	_
+13	gate	gate	_	NN	_	11	PMOD	173218	_
+14	of	of	_	IN	_	13	NMOD	173218	_
+15	a	a	_	DT	_	16	NMOD	173218	_
+16	garden	garden	_	NN	_	14	PMOD	173218	_
+17	.	.	_	.	_	7	P	_	_

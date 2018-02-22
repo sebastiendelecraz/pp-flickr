@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	144517	_
+2	person	person	_	NN	_	3	SBJ	144517	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	down	down	_	RP	_	3	PRT	_	_
+5	the	the	_	DT	_	6	NMOD	144522	_
+6	street	street	_	NN	_	3	OBJ	144522	_
+7	in	in	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	144519	_
+9	brown	brown	_	JJ	_	10	NMOD	144519	_
+10	jacket	jacket	_	NN	_	7	PMOD	144519	_
+11	and	and	_	CC	_	10	COORD	_	_
+12	orange	orange	_	JJ	_	13	NMOD	144521	_
+13	hat	hat	_	NN	_	11	CONJ	144521	_
+14	in front of	in front of	_	IN	_	3	ADV	_	3
+15	a	a	_	DT	_	16	NMOD	144520	_
+16	building	building	_	NN	_	14	PMOD	144520	_
+17	with	with	_	IN	_	3	ADV	_	16
+18	a	a	_	DT	_	20	NMOD	144523	_
+19	blue	blue	_	JJ	_	20	NMOD	144523	_
+20	balcony	balcony	_	NN	_	17	PMOD	144523	_
+21	.	.	_	.	_	0	ROOT	_	_

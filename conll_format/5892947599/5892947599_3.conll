@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	244604	_
+2	baseball	baseball	_	NN	_	3	NMOD	244604	_
+3	player	player	_	NN	_	0	ROOT	244604	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	244613	_
+6	act	act	_	NN	_	4	PMOD	244613	_
+7	of	of	_	IN	_	6	NMOD	244613	_
+8	pick	pick	_	NN	_	7	PMOD	244613	_
+9	up	up	_	IN	_	3	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	244605	_
+11	baseball	baseball	_	NN	_	9	PMOD	244605	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	his	his	_	PRP$	_	14	NMOD	244616	_
+14	hand	hand	_	NN	_	12	PMOD	244616	_
+15	.	.	_	.	_	0	ROOT	_	_

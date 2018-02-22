@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	272876	_
+2	hockey	hockey	_	NN	_	3	NMOD	272876	_
+3	player	player	_	NN	_	0	ROOT	272876	_
+4	in	in	_	IN	_	3	LOC	_	3
+5	a	a	_	DT	_	7	NMOD	272886	_
+6	blue	blue	_	JJ	_	7	NMOD	272886	_
+7	shirt	shirt	_	NN	_	4	PMOD	272886	_
+8	scoring	score	_	VBG	_	7	APPO	_	_
+9	a	a	_	DT	_	10	NMOD	272879	_
+10	goal	goal	_	NN	_	8	OBJ	272879	_
+11	against	against	_	IN	_	10	NMOD	_	8
+12	a	a	_	DT	_	13	NMOD	272881	_
+13	team	team	_	NN	_	11	PMOD	272881	_
+14	in	in	_	IN	_	10	LOC	_	_
+15	white	white	_	JJ	_	16	NMOD	272887	_
+16	shirts	shirt	_	NNS	_	14	PMOD	272887	_
+17	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	101174	_
+2	man	man	_	NN	_	0	ROOT	101174	_
+3	standing	stand	_	VBG	_	2	APPO	_	_
+4	in the middle of	in the middle of	_	IN	_	3	ADV	101179	3
+5	traffic	traffic	_	NN	_	6	NMOD	101179	_
+6	cones	cone	_	NNS	_	4	PMOD	101179	_
+7	in front of	in front of	_	IN	_	3	LOC	_	_
+8	a	a	_	DT	_	10	NMOD	101175	_
+9	Volvo	Volvo	_	NNP	_	10	NMOD	101175	_
+10	dealership	dealership	_	NN	_	7	PMOD	101175	_
+11	.	.	_	.	_	0	ROOT	_	_

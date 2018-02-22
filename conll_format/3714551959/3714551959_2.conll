@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	138913	_
+2	person	person	_	NN	_	13	NMOD	138913	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	green	green	_	JJ	_	5	NMOD	138916	_
+5	pants	pant	_	NNS	_	3	PMOD	138916	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	a	a	_	DT	_	8	NMOD	138915	_
+8	snowboard	snowboard	_	NN	_	6	PMOD	138915	_
+9	above	above	_	IN	_	2	NMOD	_	2
+10	the	the	_	DT	_	11	NMOD	0	_
+11	snow	snow	_	NN	_	9	PMOD	0	_
+12	covered	cover	_	VBN	_	13	NMOD	0	_
+13	ground	ground	_	NN	_	0	ROOT	0	_
+14	.	.	_	.	_	0	ROOT	_	_

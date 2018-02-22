@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	SBJ	209516	_
+2	walking	walk	_	VBG	_	0	ROOT	_	_
+3	along	along	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	209522	_
+5	path	path	_	NN	_	3	PMOD	209522	_
+6	on	on	_	IN	_	2	LOC	_	_
+7	a	a	_	DT	_	9	NMOD	209519	_
+8	sunny	sunny	_	JJ	_	9	NMOD	209519	_
+9	day	day	_	NN	_	6	PMOD	209519	_
+10	.	.	_	.	_	0	ROOT	_	_

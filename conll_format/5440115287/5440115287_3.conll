@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	236592	_
+2	man	man	_	NN	_	8	NMOD	236592	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	236597	_
+5	woman	woman	_	NN	_	3	CONJ	236597	_
+6	,	,	_	,	_	2	P	_	_
+7	both	both	_	DT	_	8	NMOD	236598	_
+8	musicians	musician	_	NNS	_	10	SBJ	236598	_
+9	,	,	_	,	_	8	P	_	_
+10	stand	stand	_	VBP	_	0	ROOT	_	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	stage	stage	_	NN	_	11	PMOD	236599	_
+13	behind	behind	_	IN	_	12	NMOD	_	10
+14	a	a	_	DT	_	15	NMOD	236594	_
+15	keyboard	keyboard	_	NN	_	13	PMOD	236594	_
+16	.	.	_	.	_	10	P	_	_

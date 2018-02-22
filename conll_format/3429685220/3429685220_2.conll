@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	117633	_
+2	man	man	_	NN	_	7	SBJ	117633	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	117634	_
+5	blue	blue	_	JJ	_	6	NMOD	117634	_
+6	shirt	shirt	_	NN	_	3	PMOD	117634	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	building	build	_	VBG	_	7	VC	_	_
+9	a	a	_	DT	_	10	NMOD	117635	_
+10	boat	boat	_	NN	_	8	OBJ	117635	_
+11	out of	out of	_	IN	_	8	ADV	_	8
+12	wood	wood	_	NN	_	11	PMOD	117639	_
+13	in	in	_	IN	_	8	LOC	_	8
+14	a	a	_	DT	_	17	NMOD	117636	_
+15	cramped	cramp	_	VBN	_	17	NMOD	117636	_
+16	work	work	_	NN	_	17	NMOD	117636	_
+17	space	space	_	NN	_	13	PMOD	117636	_
+18	.	.	_	.	_	7	P	_	_

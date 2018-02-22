@@ -1,0 +1,17 @@
+1	Lady	Lady	_	NNP	_	2	SBJ	202898	_
+2	wearing	wear	_	VBG	_	0	ROOT	_	_
+3	orange	orange	_	JJ	_	7	NMOD	202902	_
+4	top	top	_	JJ	_	7	NMOD	202902	_
+5	,	,	_	,	_	7	P	_	_
+6	brown	brown	_	JJ	_	7	NMOD	202900	_
+7	pants	pant	_	NNS	_	2	OBJ	202900	_
+8	sitting	sit	_	VBG	_	2	OPRD	_	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	talking	talk	_	VBG	_	9	CONJ	_	_
+11	with	with	_	IN	_	10	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	202899	_
+13	lady	lady	_	NN	_	11	PMOD	202899	_
+14	upon	upon	_	IN	_	10	TMP	_	10
+15	a	a	_	DT	_	16	NMOD	202896	_
+16	bench	bench	_	NN	_	14	PMOD	202896	_
+17	.	.	_	.	_	0	ROOT	_	_

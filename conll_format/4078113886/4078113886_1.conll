@@ -1,0 +1,17 @@
+1	There	There	_	EX	_	2	SBJ	0	_
+2	is	be	_	VBZ	_	0	ROOT	_	_
+3	a	a	_	DT	_	5	NMOD	154448	_
+4	dark-haired	dark-haired	_	JJ	_	5	NMOD	154448	_
+5	woman	woman	_	NN	_	2	SBJ	154448	_
+6	sitting	sit	_	VBG	_	5	APPO	_	_
+7	behind	behind	_	IN	_	6	LOC	_	6
+8	a	a	_	DT	_	9	NMOD	154449	_
+9	computer	computer	_	NN	_	7	PMOD	154449	_
+10	with	with	_	IN	_	6	ADV	_	_
+11	her	her	_	PRP$	_	12	NMOD	154455	_
+12	hands	hand	_	NNS	_	10	PMOD	154455	_
+13	resting	rest	_	VBG	_	12	APPO	_	_
+14	on	on	_	IN	_	13	ADV	_	_
+15	the	the	_	DT	_	16	NMOD	154450	_
+16	keyboard	keyboard	_	NN	_	14	PMOD	154450	_
+17	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,27 @@
+1	While	while	_	IN	_	14	ADV	_	_
+2	standing	stand	_	VBG	_	1	SUB	_	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	215061	_
+5	crowd	crowd	_	NN	_	3	PMOD	215061	_
+6	of	of	_	IN	_	5	NMOD	215061	_
+7	people	people	_	NN	_	6	PMOD	215061	_
+8	,	,	_	,	_	14	P	_	_
+9	a	a	_	DT	_	10	NMOD	215059	_
+10	man	man	_	NN	_	14	SBJ	215059	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	dark	dark	_	JJ	_	13	NMOD	215064	_
+13	hair	hair	_	NN	_	11	PMOD	215064	_
+14	is	be	_	VBZ	_	0	ROOT	_	_
+15	holding	hold	_	VBG	_	14	VC	_	_
+16	a	a	_	DT	_	19	NMOD	215058	_
+17	blond-haired	blond-haired	_	JJ	_	19	NMOD	215058	_
+18	little	little	_	JJ	_	19	NMOD	215058	_
+19	boy	boy	_	NN	_	15	OBJ	215058	_
+20	on top of	on top of	_	IN	_	15	ADV	_	15
+21	his	his	_	PRP$	_	22	NMOD	215060	_
+22	shoulders	shoulder	_	NNS	_	20	PMOD	215060	_
+23	who	who	_	WP	_	24	SBJ	0	_
+24	looks	look	_	VBZ	_	22	NMOD	_	_
+25	very	very	_	RB	_	26	AMOD	_	_
+26	tired	tire	_	VBN	_	24	PRD	_	_
+27	.	.	_	.	_	14	P	_	_

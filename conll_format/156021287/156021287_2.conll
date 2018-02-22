@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	16346	_
+2	boy	boy	_	NN	_	3	SBJ	16346	_
+3	jumps	jump	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	8	NMOD	16347	_
+6	blue	blue	_	JJ	_	8	NMOD	16347	_
+7	water	water	_	NN	_	8	NMOD	16347	_
+8	slide	slide	_	NN	_	4	PMOD	16347	_
+9	amongst	amongst	_	IN	_	3	ADV	_	3
+10	the	the	_	DT	_	12	NMOD	16350	_
+11	green	green	_	JJ	_	12	NMOD	16350	_
+12	trees	tree	_	NNS	_	9	PMOD	16350	_
+13	.	.	_	.	_	3	P	_	_

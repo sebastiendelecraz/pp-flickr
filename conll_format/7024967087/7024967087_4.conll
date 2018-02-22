@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	4	NMOD	264223	_
+2	muscular	muscular	_	JJ	_	4	NMOD	264223	_
+3	black	black	_	JJ	_	4	NMOD	264223	_
+4	man	man	_	NN	_	5	SBJ	264223	_
+5	runs	run	_	VBZ	_	0	ROOT	_	_
+6	through	through	_	IN	_	5	MNR	_	5
+7	a	a	_	DT	_	9	NMOD	264233	_
+8	muddy	muddy	_	NN	_	9	NMOD	264233	_
+9	track	track	_	NN	_	6	PMOD	264233	_
+10	during	during	_	IN	_	5	TMP	_	5
+11	a	a	_	DT	_	12	NMOD	264229	_
+12	race	race	_	NN	_	10	PMOD	264229	_
+13	.	.	_	.	_	5	P	_	_

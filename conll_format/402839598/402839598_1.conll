@@ -1,0 +1,26 @@
+1	The	the	_	DT	_	3	NMOD	152445	_
+2	young	young	_	JJ	_	3	NMOD	152445	_
+3	girl	girl	_	NN	_	8	SBJ	152445	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	152450	_
+6	pink	pink	_	NN	_	7	NMOD	152450	_
+7	shirt	shirt	_	NN	_	4	OBJ	152450	_
+8	is	be	_	VBZ	_	0	ROOT	_	_
+9	putting	put	_	VBG	_	8	VC	_	_
+10	a	a	_	DT	_	11	NMOD	152446	_
+11	box	box	_	NN	_	9	OBJ	152446	_
+12	,	,	_	,	_	9	P	_	_
+13	with	with	_	IN	_	9	ADV	_	11
+14	a	a	_	DT	_	16	NMOD	152449	_
+15	drawn	draw	_	VBN	_	16	NMOD	152449	_
+16	face	face	_	NN	_	13	PMOD	152449	_
+17	and	and	_	CC	_	16	COORD	_	_
+18	bow	bow	_	JJ	_	17	CONJ	_	_
+19	,	,	_	,	_	9	P	_	_
+20	on	on	_	IN	_	9	ADV	_	_
+21	a	a	_	DT	_	22	NMOD	152448	_
+22	shelf	shelf	_	NN	_	20	PMOD	152448	_
+23	along with	along with	_	IN	_	9	ADV	_	9
+24	other	other	_	JJ	_	25	NMOD	152454	_
+25	food	food	_	NN	_	23	PMOD	152454	_
+26	.	.	_	.	_	8	P	_	_

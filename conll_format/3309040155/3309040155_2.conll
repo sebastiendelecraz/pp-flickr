@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	108392	_
+2	child	child	_	NN	_	7	SBJ	108392	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	108397	_
+5	brown	brown	_	JJ	_	3	PMOD	108397	_
+6	,	,	_	,	_	7	P	108397	_
+7	patterned	pattern	_	VBD	_	0	ROOT	108397	_
+8	jacket	jacket	_	NN	_	9	NMOD	108397	_
+9	lays	lay	_	NNS	_	7	OBJ	_	_
+10	on	on	_	IN	_	7	ADV	_	_
+11	a	a	_	DT	_	12	NMOD	108394	_
+12	couch	couch	_	NN	_	10	PMOD	108394	_
+13	with	with	_	IN	_	12	NMOD	_	9
+14	a	a	_	DT	_	16	NMOD	108393	_
+15	blue	blue	_	JJ	_	16	NMOD	108393	_
+16	blanket	blanket	_	NN	_	13	PMOD	108393	_
+17	.	.	_	.	_	7	P	_	_

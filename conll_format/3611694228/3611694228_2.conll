@@ -1,0 +1,15 @@
+1	Two	Two	_	CD	_	2	NMOD	131514	_
+2	men	man	_	NNS	_	6	SBJ	131514	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	5	NMOD	131517	_
+5	cage	cage	_	NN	_	3	PMOD	131517	_
+6	are	be	_	VBP	_	0	ROOT	_	_
+7	boxing	box	_	VBG	_	6	VC	_	_
+8	with	with	_	IN	_	7	ADV	_	_
+9	each	each	_	DT	_	10	NMOD	0	_
+10	other	other	_	JJ	_	8	PMOD	0	_
+11	in front of	in front of	_	IN	_	7	ADV	_	_
+12	tons	ton	_	NNS	_	11	PMOD	131515	_
+13	of	of	_	IN	_	12	NMOD	131515	_
+14	people	people	_	NN	_	13	PMOD	131515	_
+15	.	.	_	.	_	6	P	_	_

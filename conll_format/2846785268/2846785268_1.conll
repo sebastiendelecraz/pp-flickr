@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	76614	_
+2	boy	boy	_	NN	_	3	SBJ	76614	_
+3	doing	do	_	VBG	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	0	_
+5	trick	trick	_	NN	_	3	OBJ	0	_
+6	on top of	on top of	_	IN	_	3	ADV	_	3
+7	a	a	_	DT	_	9	NMOD	76616	_
+8	guard	guard	_	NN	_	9	NMOD	76616	_
+9	rail	rail	_	NN	_	6	PMOD	76616	_
+10	on	on	_	IN	_	9	NMOD	_	_
+11	inline	inline	_	JJ	_	12	NMOD	76615	_
+12	skates	skates	_	NNS	_	10	PMOD	76615	_
+13	.	.	_	.	_	0	ROOT	_	_

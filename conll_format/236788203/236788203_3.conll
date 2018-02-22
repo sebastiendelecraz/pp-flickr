@@ -1,0 +1,12 @@
+1	Several	several	_	DT	_	2	NMOD	44533	_
+2	people	people	_	NN	_	3	SBJ	44533	_
+3	are	be	_	VBP	_	0	ROOT	_	_
+4	outside of	outside of	_	IN	_	3	LOC-PRD	_	3
+5	a	a	_	DT	_	7	NMOD	44537	_
+6	fruit	fruit	_	NN	_	7	NMOD	44537	_
+7	market	market	_	NN	_	4	PMOD	44537	_
+8	on	on	_	IN	_	3	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	44539	_
+10	hot	hot	_	JJ	_	11	NMOD	44539	_
+11	day	day	_	NN	_	8	PMOD	44539	_
+12	.	.	_	.	_	3	P	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	132202	_
+2	horse	horse	_	NN	_	3	NMOD	132202	_
+3	rider	rider	_	NN	_	0	ROOT	132202	_
+4	on	on	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	132201	_
+6	brown	brown	_	JJ	_	7	NMOD	132201	_
+7	horse	horse	_	NN	_	4	PMOD	132201	_
+8	jumping	jump	_	VBG	_	7	APPO	_	_
+9	in	in	_	IN	_	8	ADV	_	_
+10	midair	midair	_	NN	_	9	PMOD	132208	_
+11	over	over	_	IN	_	3	NMOD	_	8
+12	jump	jump	_	NN	_	13	NMOD	132204	_
+13	bars	bar	_	NNS	_	11	PMOD	132204	_
+14	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,20 @@
+1	A	a	_	DT	_	2	NMOD	96539	_
+2	woman	woman	_	NN	_	3	SBJ	96539	_
+3	rows	row	_	VBZ	_	7	SBJ	_	_
+4	a	a	_	DT	_	6	NMOD	96540	_
+5	small	small	_	JJ	_	6	NMOD	96540	_
+6	boat	boat	_	NN	_	3	OBJ	96540	_
+7	loaded	load	_	VBD	_	0	ROOT	_	_
+8	with	with	_	IN	_	7	ADV	_	_
+9	plants	plant	_	NNS	_	8	PMOD	96542	_
+10	down	down	_	IN	_	9	NMOD	_	3
+11	a	a	_	DT	_	12	NMOD	96544	_
+12	waterway	waterway	_	NN	_	10	PMOD	96544	_
+13	,	,	_	,	_	7	P	_	_
+14	next to	next to	_	IN	_	7	ADV	_	3
+15	a	a	_	DT	_	16	NMOD	96541	_
+16	display	display	_	NN	_	14	PMOD	96541	_
+17	of	of	_	IN	_	16	NMOD	96541	_
+18	potted	pot	_	VBN	_	19	NMOD	96541	_
+19	plants	plant	_	NNS	_	17	PMOD	96541	_
+20	.	.	_	.	_	7	P	_	_

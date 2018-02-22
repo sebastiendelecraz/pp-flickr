@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	158818	_
+2	group	group	_	NN	_	0	ROOT	158818	_
+3	of	of	_	IN	_	2	NMOD	158818	_
+4	people	people	_	NN	_	3	PMOD	158818	_
+5	huddled	huddle	_	VBN	_	4	APPO	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	158819	_
+8	map	map	_	NN	_	6	PMOD	158819	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	dresses	dress	_	NNS	_	9	CONJ	158822	_
+11	with	with	_	IN	_	8	NMOD	_	_
+12	backpacks	backpack	_	NNS	_	11	PMOD	158820	_
+13	and	and	_	CC	_	12	COORD	_	_
+14	other	other	_	JJ	_	16	NMOD	158821	_
+15	outdoor	outdoor	_	JJ	_	16	NMOD	158821	_
+16	gear	gear	_	NN	_	13	CONJ	158821	_
+17	.	.	_	.	_	0	ROOT	_	_

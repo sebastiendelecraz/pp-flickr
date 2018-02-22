@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	95950	_
+2	person	person	_	NN	_	6	SBJ	95950	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	95954	_
+5	sweater	sweater	_	NN	_	3	PMOD	95954	_
+6	sits	sit	_	VBZ	_	0	ROOT	_	_
+7	looking	look	_	VBG	_	6	OBJ	_	_
+8	at	at	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	95952	_
+10	book	book	_	NN	_	8	PMOD	95952	_
+11	with	with	_	IN	_	10	NMOD	_	6
+12	a	a	_	DT	_	13	NMOD	95948	_
+13	child	child	_	NN	_	11	PMOD	95948	_
+14	on	on	_	IN	_	10	NMOD	_	_
+15	their	their	_	PRP$	_	16	NMOD	95957	_
+16	lap	lap	_	NN	_	14	PMOD	95957	_
+17	.	.	_	.	_	6	P	_	_

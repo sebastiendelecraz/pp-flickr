@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	77920	_
+2	man	man	_	NN	_	0	ROOT	77920	_
+3	sitting	sit	_	VBG	_	2	APPO	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	construction	construction	_	NN	_	6	NMOD	77919	_
+6	equipment	equipment	_	NN	_	4	PMOD	77919	_
+7	behind	behind	_	IN	_	6	LOC	_	3
+8	a	a	_	DT	_	11	NMOD	77924	_
+9	chain	chain	_	NN	_	10	NMOD	77924	_
+10	link	link	_	NN	_	11	NMOD	77924	_
+11	fence	fence	_	NN	_	7	PMOD	77924	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,8 @@
+1	A	a	_	DT	_	3	NMOD	150446	_
+2	busy	busy	_	JJ	_	3	NMOD	150446	_
+3	street	street	_	NN	_	0	ROOT	150446	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	locals	local	_	NNS	_	4	PMOD	150456	_
+6	in	in	_	IN	_	5	LOC	_	3
+7	India	India	_	NNP	_	6	PMOD	150450	_
+8	.	.	_	.	_	0	ROOT	_	_

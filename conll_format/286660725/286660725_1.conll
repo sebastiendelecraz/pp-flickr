@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	77720	_
+2	burst	burst	_	NN	_	5	SBJ	77720	_
+3	of	of	_	IN	_	2	NMOD	77720	_
+4	fire	fire	_	NN	_	3	PMOD	77720	_
+5	emerges	emerge	_	VBZ	_	0	ROOT	_	_
+6	from	from	_	IN	_	5	ADV	_	5
+7	an	an	_	DT	_	8	NMOD	77721	_
+8	experimenter	experimenter	_	NN	_	6	PMOD	77721	_
+9	in	in	_	IN	_	5	LOC	_	5
+10	a	a	_	DT	_	12	NMOD	77724	_
+11	darkened	darken	_	VBN	_	12	NMOD	77724	_
+12	backyard	backyard	_	NN	_	9	PMOD	77724	_
+13	.	.	_	.	_	5	P	_	_

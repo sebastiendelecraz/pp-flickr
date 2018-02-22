@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	88709	_
+2	man	man	_	NN	_	3	SBJ	88709	_
+3	lies	lie	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	88710	_
+6	blue	blue	_	JJ	_	7	NMOD	88710	_
+7	blanket	blanket	_	NN	_	4	PMOD	88710	_
+8	with	with	_	IN	_	7	NMOD	_	3
+9	a	a	_	DT	_	10	NMOD	88708	_
+10	child	child	_	NN	_	8	PMOD	88708	_
+11	on	on	_	IN	_	7	NMOD	_	_
+12	his	his	_	PRP$	_	13	NMOD	88711	_
+13	back	back	_	RB	_	11	PMOD	88711	_
+14	.	.	_	.	_	3	P	_	_

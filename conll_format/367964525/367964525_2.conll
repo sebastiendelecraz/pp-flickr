@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	5	NMOD	136394	_
+2	brown	brown	_	JJ	_	5	NMOD	136394	_
+3	and	and	_	CC	_	2	COORD	136394	_
+4	white	white	_	JJ	_	3	CONJ	136394	_
+5	dog	dog	_	NN	_	6	SBJ	136394	_
+6	running	run	_	VBG	_	0	ROOT	_	_
+7	out of	out of	_	IN	_	6	ADV	_	6
+8	the	the	_	DT	_	9	NMOD	136396	_
+9	woods	wood	_	NNS	_	7	PMOD	136396	_
+10	through	through	_	IN	_	6	MNR	_	6
+11	snow	snow	_	NN	_	10	PMOD	136395	_
+12	.	.	_	.	_	0	ROOT	_	_

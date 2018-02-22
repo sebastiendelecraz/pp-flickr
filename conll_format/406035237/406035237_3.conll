@@ -1,0 +1,12 @@
+1	Boy	Boy	_	NNP	_	2	SBJ	153765	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	looking	look	_	VBG	_	2	PMOD	_	_
+4	through	through	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	7	NMOD	153768	_
+6	glass	glass	_	NN	_	7	NMOD	153768	_
+7	window	window	_	NN	_	4	PMOD	153768	_
+8	at	at	_	IN	_	7	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	153767	_
+10	train	train	_	NN	_	11	NMOD	153767	_
+11	station	station	_	NN	_	8	PMOD	153767	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	Girl	Girl	_	NNP	_	2	SBJ	51302	_
+2	running	run	_	VBG	_	0	ROOT	_	_
+3	through	through	_	IN	_	2	DIR	_	2
+4	a	a	_	DT	_	5	NMOD	51307	_
+5	field	field	_	NN	_	3	PMOD	51307	_
+6	with	with	_	IN	_	2	ADV	_	2
+7	a	a	_	DT	_	9	NMOD	51303	_
+8	brown	brown	_	JJ	_	9	NMOD	51303	_
+9	dog	dog	_	NN	_	6	PMOD	51303	_
+10	and	and	_	CC	_	9	COORD	_	_
+11	a	a	_	DT	_	13	NMOD	51305	_
+12	white	white	_	JJ	_	13	NMOD	51305	_
+13	dog	dog	_	NN	_	10	CONJ	51305	_
+14	.	.	_	.	_	0	ROOT	_	_

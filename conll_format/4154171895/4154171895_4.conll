@@ -1,0 +1,14 @@
+1	An	an	_	DT	_	3	NMOD	157307	_
+2	old	old	_	JJ	_	3	NMOD	157307	_
+3	man	man	_	NN	_	0	ROOT	157307	_
+4	reading	read	_	VBG	_	3	APPO	_	_
+5	a	a	_	DT	_	7	NMOD	157311	_
+6	periodical	periodical	_	JJ	_	7	NMOD	157311	_
+7	sitting	sit	_	VBG	_	4	OBJ	157311	_
+8	in	in	_	IN	_	7	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	157309	_
+10	bus	bus	_	NN	_	8	PMOD	157309	_
+11	beside	beside	_	IN	_	7	LOC	_	7
+12	a	a	_	DT	_	13	NMOD	157310	_
+13	houseplant	houseplant	_	NN	_	11	PMOD	157310	_
+14	.	.	_	.	_	0	ROOT	_	_

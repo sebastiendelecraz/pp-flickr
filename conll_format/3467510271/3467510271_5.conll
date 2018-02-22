@@ -1,0 +1,7 @@
+1	Diver	Diver	_	NNP	_	2	SBJ	120275	_
+2	jumping	jump	_	VBG	_	0	ROOT	_	_
+3	into	into	_	IN	_	2	ADV	_	2
+4	ocean	ocean	_	NN	_	3	PMOD	120276	_
+5	from	from	_	IN	_	4	NMOD	_	2
+6	helicopter	helicopter	_	NN	_	5	PMOD	120273	_
+7	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	34796	_
+2	woman	woman	_	NN	_	3	SBJ	34796	_
+3	sits	sit	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	34799	_
+6	dock	dock	_	NN	_	9	NMOD	34799	_
+7	'	'	_	POS	_	6	SUFFIX	34799	_
+8	s	s	_	NN	_	9	NMOD	34799	_
+9	edge	edge	_	NN	_	4	PMOD	34799	_
+10	near	near	_	IN	_	9	LOC	_	3
+11	a	a	_	DT	_	13	NMOD	34797	_
+12	large	large	_	JJ	_	13	NMOD	34797	_
+13	boat	boat	_	NN	_	10	PMOD	34797	_
+14	.	.	_	.	_	3	P	_	_

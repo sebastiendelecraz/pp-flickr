@@ -1,0 +1,9 @@
+1	A	a	_	DT	_	2	NMOD	190083	_
+2	dog	dog	_	NN	_	3	SBJ	190083	_
+3	running	run	_	VBG	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	190084	_
+6	grass	grass	_	NN	_	4	PMOD	190084	_
+7	around	around	_	IN	_	3	ADV	_	3
+8	sheep	sheep	_	NN	_	7	PMOD	190085	_
+9	.	.	_	.	_	0	ROOT	_	_

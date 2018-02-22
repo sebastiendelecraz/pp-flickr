@@ -1,0 +1,10 @@
+1	Girl	Girl	_	NNP	_	0	ROOT	145188	_
+2	in	in	_	IN	_	0	ROOT	_	_
+3	red	red	_	JJ	_	4	NMOD	145195	_
+4	shirt	shirt	_	NN	_	2	PMOD	145195	_
+5	standing	stand	_	VBG	_	0	ROOT	_	_
+6	over	over	_	IN	_	5	ADV	_	5
+7	rows	row	_	NNS	_	6	PMOD	145196	_
+8	of	of	_	IN	_	7	NMOD	145196	_
+9	oranges	orange	_	NNS	_	8	PMOD	145196	_
+10	.	.	_	.	_	0	ROOT	_	_

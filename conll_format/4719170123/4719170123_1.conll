@@ -1,0 +1,20 @@
+1	Many	many	_	DT	_	2	NMOD	195013	_
+2	onlookers	onlooker	_	NNS	_	3	SBJ	195013	_
+3	look	look	_	VBP	_	0	ROOT	_	_
+4	upon	upon	_	IN	_	3	ADV	_	3
+5	some	some	_	DT	_	6	NMOD	195014	_
+6	firefighters	firefighter	_	NNS	_	4	PMOD	195014	_
+7	behind	behind	_	IN	_	6	NMOD	_	3
+8	caution	caution	_	NN	_	9	NMOD	195016	_
+9	tape	tape	_	NN	_	7	PMOD	195016	_
+10	,	,	_	,	_	3	P	_	_
+11	along with	along with	_	IN	_	3	ADV	_	2
+12	a	a	_	DT	_	13	NMOD	195021	_
+13	man	man	_	NN	_	11	PMOD	195021	_
+14	in	in	_	IN	_	3	LOC	_	_
+15	a	a	_	DT	_	16	NMOD	195023	_
+16	suit	suit	_	NN	_	14	PMOD	195023	_
+17	on	on	_	IN	_	3	ADV	_	_
+18	a	a	_	DT	_	19	NMOD	195019	_
+19	cellphone	cellphone	_	NN	_	17	PMOD	195019	_
+20	.	.	_	.	_	3	P	_	_

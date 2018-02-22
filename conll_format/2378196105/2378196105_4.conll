@@ -1,0 +1,11 @@
+1	An	an	_	DT	_	5	NMOD	45126	_
+2	African	African	_	JJ	_	5	NMOD	45126	_
+3	American	American	_	JJ	_	5	NMOD	45126	_
+4	boy	boy	_	NN	_	5	NMOD	45126	_
+5	jumps	jump	_	NNS	_	0	ROOT	_	_
+6	over	over	_	IN	_	5	NMOD	_	5
+7	boxes	boxes	_	NNS	_	6	PMOD	45128	_
+8	at	at	_	IN	_	5	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	45127	_
+10	track	track	_	NN	_	8	PMOD	45127	_
+11	.	.	_	.	_	0	ROOT	_	_

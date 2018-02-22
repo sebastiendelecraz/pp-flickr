@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	189071	_
+2	man	man	_	NN	_	3	SBJ	189071	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	the	the	_	DT	_	6	NMOD	189073	_
+6	back	back	_	NN	_	4	PMOD	189073	_
+7	of	of	_	IN	_	6	NMOD	189073	6
+8	a	a	_	DT	_	10	NMOD	189073	_
+9	blue	blue	_	JJ	_	10	NMOD	189073	_
+10	vehicle	vehicle	_	NN	_	7	PMOD	189073	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	the	the	_	DT	_	13	NMOD	189074	_
+13	door	door	_	NN	_	11	PMOD	189074	_
+14	open	open	_	JJ	_	3	OPRD	_	_
+15	.	.	_	.	_	0	ROOT	_	_

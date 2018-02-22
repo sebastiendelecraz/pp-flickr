@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	74958	_
+2	woman	woman	_	NN	_	3	SBJ	74958	_
+3	wearing	wear	_	VBG	_	0	ROOT	_	_
+4	orange	orange	_	JJ	_	5	NMOD	74960	_
+5	stands	stand	_	NNS	_	3	OBJ	_	_
+6	in	in	_	IN	_	3	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	74964	_
+8	crowd	crowd	_	NN	_	6	PMOD	74964	_
+9	and	and	_	CC	_	8	COORD	_	_
+10	talks	talk	_	NNS	_	9	CONJ	_	_
+11	on	on	_	IN	_	3	ADV	_	_
+12	the	the	_	DT	_	13	NMOD	74959	_
+13	phone	phone	_	NN	_	11	PMOD	74959	_
+14	.	.	_	.	_	0	ROOT	_	_

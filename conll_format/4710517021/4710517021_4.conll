@@ -1,0 +1,9 @@
+1	People	People	_	NNPS	_	2	SBJ	193781	_
+2	sit	sit	_	VBP	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	193783	_
+5	bench	bench	_	NN	_	3	PMOD	193783	_
+6	in front of	in front of	_	IN	_	2	TMP	_	_
+7	a	a	_	DT	_	8	NMOD	193784	_
+8	restaurant	restaurant	_	NN	_	6	PMOD	193784	_
+9	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,23 @@
+1	A	a	_	DT	_	2	NMOD	42607	_
+2	girl	girl	_	NN	_	13	SBJ	42607	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	dark	dark	_	JJ	_	6	NMOD	42609	_
+5	brown	brown	_	JJ	_	6	NMOD	42609	_
+6	hair	hair	_	NN	_	3	PMOD	42609	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	eyes	eye	_	NNS	_	7	CONJ	42610	_
+9	in	in	_	IN	_	2	LOC	_	2
+10	a	a	_	DT	_	12	NMOD	42611	_
+11	blue	blue	_	JJ	_	12	NMOD	42611	_
+12	scarf	scarf	_	NN	_	9	PMOD	42611	_
+13	is	be	_	VBZ	_	0	ROOT	_	_
+14	standing	stand	_	VBG	_	13	VC	_	_
+15	next to	next to	_	IN	_	14	ADV	_	14
+16	a	a	_	DT	_	17	NMOD	42606	_
+17	girl	girl	_	NN	_	15	PMOD	42606	_
+18	in	in	_	IN	_	14	LOC	_	_
+19	a	a	_	DT	_	20	NMOD	42607	_
+20	fur	fur	_	NN	_	18	PMOD	42607	_
+21	edged	edge	_	VBD	_	0	ROOT	_	_
+22	coat	coat	_	NN	_	21	OBJ	42607	_
+23	.	.	_	.	_	21	P	_	_

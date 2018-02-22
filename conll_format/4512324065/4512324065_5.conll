@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	174468	_
+2	woman	woman	_	NN	_	7	SBJ	174468	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	174472	_
+5	blue	blue	_	JJ	_	6	NMOD	174472	_
+6	sweater	sweater	_	NN	_	3	PMOD	174472	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	begging	beg	_	VBG	_	7	VC	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	money	money	_	NN	_	9	PMOD	174475	_
+11	for	for	_	IN	_	10	NMOD	_	8
+12	her	her	_	PRP$	_	13	NMOD	174474	_
+13	family	family	_	NN	_	11	PMOD	174474	_
+14	.	.	_	.	_	7	P	_	_

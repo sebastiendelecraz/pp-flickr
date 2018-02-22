@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	72890	_
+2	woman	woman	_	NN	_	5	SBJ	72890	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	pink	pink	_	NN	_	3	PMOD	72896	_
+5	prepares	prepare	_	VBZ	_	0	ROOT	_	_
+6	food	food	_	NN	_	5	OBJ	72893	_
+7	as	as	_	IN	_	5	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	72891	_
+9	child	child	_	NN	_	7	PMOD	72891	_
+10	in	in	_	IN	_	5	LOC	_	_
+11	blue	blue	_	JJ	_	12	NMOD	72895	_
+12	sits	sit	_	NNS	_	10	PMOD	_	_
+13	under	under	_	IN	_	12	LOC	_	12
+14	the	the	_	DT	_	15	NMOD	72892	_
+15	table	table	_	NN	_	13	PMOD	72892	_
+16	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,12 @@
+1	An	an	_	DT	_	5	NMOD	100882	_
+2	older	old	_	JJR	_	5	NMOD	100882	_
+3	newlywed	newlywed	_	NN	_	5	NMOD	100882	_
+4	couple	couple	_	NN	_	5	NMOD	100882	_
+5	stand	stand	_	NN	_	0	ROOT	_	_
+6	under	under	_	IN	_	5	LOC	_	5
+7	an	an	_	DT	_	8	NMOD	100883	_
+8	umbrella	umbrella	_	NN	_	6	PMOD	100883	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	100886	_
+11	rain	rain	_	NN	_	9	PMOD	100886	_
+12	.	.	_	.	_	0	ROOT	_	_

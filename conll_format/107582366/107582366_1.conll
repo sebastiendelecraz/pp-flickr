@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	1806	_
+2	group	group	_	NN	_	5	SBJ	1806	_
+3	of	of	_	IN	_	2	NMOD	1806	_
+4	people	people	_	NN	_	3	PMOD	1806	_
+5	sit	sit	_	VBP	_	0	ROOT	_	_
+6	around	around	_	IN	_	5	LOC	_	5
+7	a	a	_	DT	_	8	NMOD	1807	_
+8	table	table	_	NN	_	6	PMOD	1807	_
+9	outside	outside	_	IN	_	5	LOC	_	_
+10	on	on	_	IN	_	9	PMOD	_	_
+11	a	a	_	DT	_	12	NMOD	1812	_
+12	porch	porch	_	NN	_	10	PMOD	1812	_
+13	at	at	_	IN	_	5	TMP	_	_
+14	night	night	_	NN	_	13	PMOD	1809	_
+15	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,16 @@
+1	Three	Three	_	CD	_	2	NMOD	219839	_
+2	children	child	_	NNS	_	3	SBJ	219839	_
+3	play	play	_	VBP	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	6	NMOD	219842	_
+6	grass	grass	_	NN	_	4	PMOD	219842	_
+7	under	under	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	219840	_
+9	multicolored	multicolored	_	JJ	_	10	NMOD	219840	_
+10	umbrella	umbrella	_	NN	_	7	PMOD	219840	_
+11	and	and	_	CC	_	3	COORD	_	_
+12	wearing	wear	_	VBG	_	13	NMOD	_	_
+13	rainbow	rainbow	_	NN	_	15	NMOD	219841	_
+14	colored	color	_	VBN	_	15	NMOD	219841	_
+15	outfits	outfit	_	NNS	_	11	CONJ	219841	_
+16	.	.	_	.	_	3	P	_	_

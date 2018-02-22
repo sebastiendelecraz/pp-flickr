@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	45192	_
+2	girl	girl	_	NN	_	12	SBJ	45192	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	45198	_
+5	backpack	backpack	_	NN	_	3	PMOD	45198	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	8	NMOD	45194	_
+8	boy	boy	_	NN	_	6	CONJ	45194	_
+9	on	on	_	IN	_	2	NMOD	_	8
+10	a	a	_	DT	_	11	NMOD	45193	_
+11	bike	bike	_	NN	_	9	PMOD	45193	_
+12	are	be	_	VBP	_	0	ROOT	_	_
+13	standing	stand	_	VBG	_	12	VC	_	_
+14	at	at	_	IN	_	13	ADV	_	13
+15	a	a	_	DT	_	16	NMOD	45196	_
+16	crosswalk	crosswalk	_	NN	_	14	PMOD	45196	_
+17	.	.	_	.	_	12	P	_	_

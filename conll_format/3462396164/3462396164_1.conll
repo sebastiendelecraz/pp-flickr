@@ -1,0 +1,16 @@
+1	a	a	_	DT	_	2	NMOD	119973	_
+2	group	group	_	NN	_	5	SBJ	119973	_
+3	of	of	_	IN	_	2	NMOD	119973	_
+4	tourists	tourist	_	NNS	_	3	PMOD	119973	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	gathered	gather	_	VBN	_	5	VC	_	_
+7	together	together	_	RB	_	6	ADV	_	_
+8	in front of	in front of	_	IN	_	6	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	119977	_
+10	restroom	restroom	_	NN	_	8	PMOD	119977	_
+11	in	in	_	IN	_	6	LOC	_	6
+12	a	a	_	DT	_	14	NMOD	119976	_
+13	busy	busy	_	JJ	_	14	NMOD	119976	_
+14	city	city	_	NN	_	11	PMOD	119976	_
+15	square	square	_	JJ	_	6	ADV	119976	_
+16	.	.	_	.	_	5	P	_	_

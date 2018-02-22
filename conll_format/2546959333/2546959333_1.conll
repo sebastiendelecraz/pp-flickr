@@ -1,0 +1,14 @@
+1	The	the	_	DT	_	4	NMOD	57272	_
+2	large	large	_	JJ	_	4	NMOD	57272	_
+3	brown	brown	_	JJ	_	4	NMOD	57272	_
+4	dog	dog	_	NN	_	5	SBJ	57272	_
+5	is	be	_	VBZ	_	0	ROOT	_	_
+6	playing	play	_	VBG	_	5	VC	_	_
+7	in	in	_	IN	_	6	LOC	_	_
+8	the	the	_	DT	_	9	NMOD	57275	_
+9	grass	grass	_	NN	_	7	PMOD	57275	_
+10	with	with	_	IN	_	9	NMOD	_	6
+11	a	a	_	DT	_	13	NMOD	57274	_
+12	brown	brown	_	JJ	_	13	NMOD	57274	_
+13	cow	cow	_	NN	_	10	PMOD	57274	_
+14	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	71942	_
+2	woman	woman	_	NN	_	13	SBJ	71942	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	black	black	_	JJ	_	4	PMOD	71951	_
+6	with	with	_	IN	_	3	ADV	_	_
+7	a	a	_	DT	_	9	NMOD	71943	_
+8	hula	hula	_	NN	_	9	NMOD	71943	_
+9	hoop	hoop	_	NN	_	6	PMOD	71943	_
+10	around	around	_	IN	_	3	LOC	_	9
+11	her	her	_	PRP$	_	12	NMOD	71952	_
+12	waist	waist	_	NN	_	10	PMOD	71952	_
+13	performs	perform	_	VBZ	_	0	ROOT	_	_
+14	in front of	in front of	_	IN	_	0	ROOT	_	_
+15	diners	diner	_	NNS	_	14	PMOD	71948	_
+16	.	.	_	.	_	0	ROOT	_	_

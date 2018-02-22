@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	18831	_
+2	group	group	_	NN	_	5	SBJ	18831	_
+3	of	of	_	IN	_	2	NMOD	18831	_
+4	people	people	_	NN	_	3	PMOD	18831	_
+5	have	have	_	VBP	_	0	ROOT	_	_
+6	gathered	gather	_	VBN	_	5	VC	_	_
+7	behind	behind	_	IN	_	6	LOC	_	6
+8	two	two	_	CD	_	9	NMOD	18832	_
+9	men	man	_	NNS	_	7	PMOD	18832	_
+10	in	in	_	IN	_	6	LOC	_	_
+11	turbans	turban	_	NNS	_	10	PMOD	18837	_
+12	.	.	_	.	_	5	P	_	_

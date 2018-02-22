@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	16538	_
+2	woman	woman	_	NN	_	7	SBJ	16538	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	16548	_
+5	black	black	_	JJ	_	6	NMOD	16548	_
+6	dress	dress	_	NN	_	3	PMOD	16548	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	pushing	push	_	VBG	_	7	VC	_	_
+9	a	a	_	DT	_	10	NMOD	16539	_
+10	cart	cart	_	NN	_	8	OBJ	16539	_
+11	with	with	_	IN	_	10	NMOD	_	_
+12	thermos	thermos	_	NN	_	11	PMOD	16541	_
+13	down	down	_	IN	_	10	NMOD	_	8
+14	a	a	_	DT	_	16	NMOD	16543	_
+15	paved	pave	_	VBN	_	16	NMOD	16543	_
+16	walkway	walkway	_	NN	_	13	PMOD	16543	_
+17	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,13 @@
+1	Man	Man	_	NNP	_	5	SBJ	209208	_
+2	in	in	_	IN	_	5	TMP	_	_
+3	white	white	_	JJ	_	4	NMOD	209211	_
+4	sweater	sweater	_	NN	_	2	PMOD	209211	_
+5	looks	look	_	VBZ	_	0	ROOT	_	_
+6	from	from	_	IN	_	5	ADV	_	5
+7	his	his	_	PRP$	_	9	NMOD	209214	_
+8	press	press	_	NN	_	9	NMOD	209214	_
+9	box	box	_	NN	_	6	PMOD	209214	_
+10	onto	onto	_	IN	_	5	LOC	_	5
+11	the	the	_	DT	_	12	NMOD	209209	_
+12	pitch	pitch	_	NN	_	10	PMOD	209209	_
+13	.	.	_	.	_	5	P	_	_

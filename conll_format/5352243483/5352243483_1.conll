@@ -1,0 +1,12 @@
+1	Two	Two	_	CD	_	2	NMOD	234329	_
+2	gentlemen	gentleman	_	NNS	_	3	SBJ	234329	_
+3	gaze	gaze	_	VBP	_	0	ROOT	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	their	their	_	PRP$	_	6	NMOD	234331	_
+6	crops	crop	_	NNS	_	4	PMOD	234331	_
+7	just	just	_	RB	_	8	PMOD	_	_
+8	outside of	outside of	_	IN	_	3	ADV	_	3
+9	a	a	_	DT	_	11	NMOD	234330	_
+10	forested	forest	_	VBN	_	11	NMOD	234330	_
+11	area	area	_	NN	_	8	PMOD	234330	_
+12	.	.	_	.	_	3	P	_	_

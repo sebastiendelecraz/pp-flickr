@@ -1,0 +1,13 @@
+1	Women	woman	_	NNS	_	0	ROOT	166476	_
+2	with	with	_	IN	_	1	NMOD	_	_
+3	dark	dark	_	JJ	_	4	NMOD	166479	_
+4	hair	hair	_	NN	_	2	PMOD	166479	_
+5	sitting	sit	_	VBG	_	1	APPO	_	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	standing	stand	_	VBG	_	6	CONJ	_	_
+8	near	near	_	IN	_	5	LOC	_	7
+9	a	a	_	DT	_	10	NMOD	166477	_
+10	pile	pile	_	NN	_	8	PMOD	166477	_
+11	of	of	_	IN	_	10	NMOD	166477	_
+12	trash	trash	_	NN	_	11	PMOD	166477	_
+13	.	.	_	.	_	0	ROOT	_	_

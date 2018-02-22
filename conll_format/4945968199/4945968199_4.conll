@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	3	NMOD	221805	_
+2	blond	blond	_	JJ	_	3	NMOD	221805	_
+3	woman	woman	_	NN	_	4	SBJ	221805	_
+4	sits	sit	_	VBZ	_	13	SBJ	_	_
+5	next to	next to	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	221810	_
+7	pool	pool	_	NN	_	5	PMOD	221810	_
+8	of	of	_	IN	_	7	NMOD	221810	_
+9	water	water	_	NN	_	8	PMOD	221810	_
+10	with	with	_	IN	_	7	NMOD	_	_
+11	her	her	_	PRP$	_	12	NMOD	221807	_
+12	eyes	eye	_	NNS	_	10	PMOD	221807	_
+13	closed	close	_	VBD	_	0	ROOT	_	_
+14	.	.	_	.	_	13	P	_	_

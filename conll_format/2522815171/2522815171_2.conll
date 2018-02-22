@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	2	NAME	55087	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	outside	outside	_	IN	_	2	PMOD	_	_
+4	with	with	_	IN	_	2	ADV	_	2
+5	a	a	_	DT	_	7	NMOD	55093	_
+6	big	big	_	JJ	_	7	NMOD	55093	_
+7	tree	tree	_	NN	_	4	PMOD	55093	_
+8	on	on	_	IN	_	2	LOC	_	_
+9	the	the	_	DT	_	11	NMOD	0	_
+10	left	left	_	VBN	_	11	NMOD	0	_
+11	side	side	_	NN	_	8	PMOD	0	_
+12	.	.	_	.	_	0	ROOT	_	_

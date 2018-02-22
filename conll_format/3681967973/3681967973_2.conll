@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	3	NMOD	136514	_
+2	young	young	_	JJ	_	3	NMOD	136514	_
+3	woman	woman	_	NN	_	8	SBJ	136514	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	a	a	_	DT	_	7	NMOD	136513	_
+6	young	young	_	JJ	_	7	NMOD	136513	_
+7	man	man	_	NN	_	4	CONJ	136513	_
+8	are	be	_	VBP	_	0	ROOT	_	_
+9	stretching	stretch	_	VBG	_	8	VC	_	_
+10	for	for	_	IN	_	9	ADV	_	9
+11	a	a	_	DT	_	12	NMOD	136519	_
+12	lesson	lesson	_	NN	_	10	PMOD	136519	_
+13	in	in	_	IN	_	12	LOC	_	_
+14	dance	dance	_	NN	_	15	NMOD	136512	_
+15	class	class	_	NN	_	13	PMOD	136512	_
+16	.	.	_	.	_	8	P	_	_

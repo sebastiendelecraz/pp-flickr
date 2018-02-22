@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	124667	_
+2	dog	dog	_	NN	_	0	ROOT	124667	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	5	NMOD	124668	_
+5	stick	stick	_	NN	_	3	PMOD	124668	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	his	his	_	PRP$	_	8	NMOD	124669	_
+8	mouth	mouth	_	NN	_	6	PMOD	124669	_
+9	walking	walk	_	VBG	_	8	APPO	_	_
+10	through	through	_	IN	_	9	DIR	_	9
+11	water	water	_	NN	_	10	PMOD	124670	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,25 @@
+1	A	a	_	DT	_	2	NMOD	228152	_
+2	group	group	_	NN	_	16	SBJ	228152	_
+3	of	of	_	IN	_	2	NMOD	228152	_
+4	people	people	_	NN	_	3	PMOD	228152	_
+5	wearing	wear	_	VBG	_	4	APPO	_	_
+6	white	white	_	JJ	_	7	NMOD	228156	_
+7	robes	robe	_	NNS	_	5	OBJ	228156	_
+8	with	with	_	IN	_	5	ADV	_	7
+9	a	a	_	DT	_	11	NMOD	228154	_
+10	flame	flame	_	NN	_	11	NMOD	228154	_
+11	design	design	_	NN	_	8	PMOD	228154	_
+12	and	and	_	CC	_	11	COORD	_	_
+13	shiny	shiny	_	JJ	_	14	NMOD	228159	_
+14	badges	badge	_	NNS	_	12	CONJ	228159	_
+15	reflecting	reflect	_	VBG	_	5	OPRD	_	_
+16	are	be	_	VBP	_	0	ROOT	_	_
+17	posing	pose	_	VBG	_	16	VC	_	_
+18	in front of	in front of	_	IN	_	17	ADV	_	17
+19	a	a	_	DT	_	20	NMOD	228157	_
+20	building	building	_	NN	_	18	PMOD	228157	_
+21	with	with	_	IN	_	17	ADV	_	_
+22	two	two	_	CD	_	24	NMOD	228162	_
+23	man	man	_	NN	_	24	NMOD	228162	_
+24	statues	statue	_	NNS	_	21	PMOD	_	_
+25	.	.	_	.	_	16	P	_	_

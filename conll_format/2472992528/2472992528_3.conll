@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	52055	_
+2	young	young	_	JJ	_	3	NMOD	52055	_
+3	boy	boy	_	NN	_	10	SBJ	52055	_
+4	in	in	_	IN	_	10	LOC	_	_
+5	red	red	_	JJ	_	6	NMOD	52062	_
+6	Crocs	Crocs	_	NNP	_	4	PMOD	52062	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	a	a	_	DT	_	9	NMOD	52057	_
+9	helmet	helmet	_	NN	_	7	CONJ	52057	_
+10	hangs	hang	_	VBZ	_	0	ROOT	_	_
+11	from	from	_	IN	_	10	ADV	_	10
+12	a	a	_	DT	_	14	NMOD	52056	_
+13	climbing	climb	_	VBG	_	14	NMOD	52056	_
+14	wall	wall	_	NN	_	11	PMOD	52056	_
+15	.	.	_	.	_	10	P	_	_

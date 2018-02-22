@@ -1,0 +1,22 @@
+1	A	a	_	DT	_	2	NMOD	74863	_
+2	man	man	_	NN	_	10	SBJ	74863	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	noise-cancelling	noise-cancelling	_	CD	_	5	NMOD	74869	_
+5	headphones	headphone	_	NNS	_	3	PMOD	74869	_
+6	in	in	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	9	NMOD	74868	_
+8	black	black	_	JJ	_	9	NMOD	74868	_
+9	t-shirt	t-shirt	_	NN	_	6	PMOD	74868	_
+10	is	be	_	VBZ	_	0	ROOT	_	_
+11	using	use	_	VBG	_	10	VC	_	_
+12	a	a	_	DT	_	13	NMOD	74864	_
+13	chainsaw	chainsaw	_	NN	_	11	OBJ	74864	_
+14	to	to	_	TO	_	11	OPRD	_	_
+15	sculpt	sculpt	_	VB	_	14	IM	_	_
+16	a	a	_	DT	_	17	NMOD	74865	_
+17	bird	bird	_	NN	_	15	OBJ	74865	_
+18	out of	out of	_	IN	_	15	ADV	_	15
+19	a	a	_	DT	_	21	NMOD	74866	_
+20	tree	tree	_	NN	_	21	NMOD	74866	_
+21	stump	stump	_	NN	_	18	PMOD	74866	_
+22	.	.	_	.	_	10	P	_	_

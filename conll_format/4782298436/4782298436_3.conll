@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	3	NMOD	202252	_
+2	young	young	_	JJ	_	3	NMOD	202252	_
+3	man	man	_	NN	_	11	SBJ	202252	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	fake	fake	_	NN	_	6	NMOD	202255	_
+6	blood	blood	_	NN	_	4	PMOD	202255	_
+7	on	on	_	IN	_	3	NMOD	_	_
+8	his	his	_	PRP$	_	10	NMOD	202256	_
+9	maniacal	maniacal	_	JJ	_	10	NMOD	202256	_
+10	face	face	_	NN	_	7	PMOD	202256	_
+11	makes	make	_	VBZ	_	0	ROOT	_	_
+12	his	his	_	PRP$	_	13	NMOD	202260	_
+13	way	way	_	NN	_	11	OBJ	202260	_
+14	through	through	_	IN	_	11	MNR	_	11
+15	a	a	_	DT	_	16	NMOD	202251	_
+16	crowd	crowd	_	NN	_	14	PMOD	202251	_
+17	.	.	_	.	_	11	P	_	_

@@ -1,0 +1,18 @@
+1	An	an	_	DT	_	3	NMOD	64123	_
+2	older	old	_	JJR	_	3	NMOD	64123	_
+3	man	man	_	NN	_	8	SBJ	64123	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	a	a	_	DT	_	7	NMOD	64128	_
+6	white	white	_	JJ	_	7	NMOD	64128	_
+7	shirt	shirt	_	NN	_	4	PMOD	64128	_
+8	walks	walk	_	VBZ	_	0	ROOT	_	_
+9	out of	out of	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	64131	_
+11	building	building	_	NN	_	9	PMOD	64131	_
+12	through	through	_	IN	_	8	MNR	_	8
+13	a	a	_	DT	_	14	NMOD	64129	_
+14	pair	pair	_	NN	_	12	PMOD	64129	_
+15	of	of	_	IN	_	14	NMOD	64129	_
+16	wooden	wooden	_	JJ	_	17	NMOD	64129	_
+17	doors	door	_	NNS	_	15	PMOD	64129	_
+18	.	.	_	.	_	8	P	_	_

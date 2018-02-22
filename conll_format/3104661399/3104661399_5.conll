@@ -1,0 +1,8 @@
+1	Women	woman	_	NNS	_	0	ROOT	93862	_
+2	walking	walk	_	VBG	_	1	APPO	_	_
+3	with	with	_	IN	_	2	ADV	_	_
+4	children	child	_	NNS	_	3	PMOD	93860	_
+5	down	down	_	IN	_	4	NMOD	_	2
+6	a	a	_	DT	_	7	NMOD	93861	_
+7	walkway	walkway	_	NN	_	5	PMOD	93861	_
+8	.	.	_	.	_	0	ROOT	_	_

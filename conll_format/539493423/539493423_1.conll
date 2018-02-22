@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	235329	_
+2	man	man	_	NN	_	3	SBJ	235329	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	holding	hold	_	VBG	_	3	VC	_	_
+5	three	three	_	CD	_	6	NMOD	235333	_
+6	things	thing	_	NNS	_	4	OBJ	235333	_
+7	on	on	_	IN	_	4	ADV	_	_
+8	fire	fire	_	NN	_	7	PMOD	235332	_
+9	in front of	in front of	_	IN	_	8	NMOD	_	4
+10	a	a	_	DT	_	11	NMOD	235330	_
+11	child	child	_	NN	_	14	NMOD	235330	_
+12	'	'	_	POS	_	11	SUFFIX	235330	_
+13	s	s	_	NN	_	14	NMOD	235330	_
+14	playground	playground	_	NN	_	9	PMOD	235330	_
+15	.	.	_	.	_	3	P	_	_

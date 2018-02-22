@@ -1,0 +1,16 @@
+1	Two	Two	_	CD	_	2	NMOD	217205	_
+2	people	people	_	NN	_	3	SBJ	217205	_
+3	ride	ride	_	VBP	_	0	ROOT	_	_
+4	a	a	_	DT	_	5	NMOD	217207	_
+5	motorcycle	motorcycle	_	NN	_	3	OBJ	217207	_
+6	on	on	_	IN	_	5	NMOD	_	_
+7	a	a	_	DT	_	9	NMOD	217206	_
+8	city	city	_	NN	_	9	NMOD	217206	_
+9	street	street	_	NN	_	6	PMOD	217206	_
+10	in front of	in front of	_	IN	_	3	ADV	_	3
+11	a	a	_	DT	_	12	NMOD	217210	_
+12	cafe	cafe	_	NN	_	10	PMOD	217210	_
+13	with	with	_	IN	_	12	NMOD	_	_
+14	outdoor	outdoor	_	JJ	_	15	NMOD	217211	_
+15	seats	seat	_	NNS	_	13	PMOD	217211	_
+16	.	.	_	.	_	3	P	_	_

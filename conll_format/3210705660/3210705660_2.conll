@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	101372	_
+2	children	child	_	NNS	_	0	ROOT	101372	_
+3	playing	play	_	VBG	_	2	APPO	_	_
+4	jump	jump	_	NN	_	5	NMOD	101374	_
+5	rope	rope	_	NN	_	3	OBJ	101374	_
+6	in	in	_	IN	_	3	LOC	_	_
+7	the	the	_	DT	_	8	NMOD	101373	_
+8	grass	grass	_	NN	_	6	PMOD	101373	_
+9	among	among	_	IN	_	8	LOC	_	3
+10	the	the	_	DT	_	11	NMOD	101380	_
+11	trees	tree	_	NNS	_	9	PMOD	101380	_
+12	.	.	_	.	_	0	ROOT	_	_

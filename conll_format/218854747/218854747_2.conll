@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	33001	_
+2	boy	boy	_	NN	_	0	ROOT	33001	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	a	a	_	DT	_	5	NMOD	33002	_
+5	girl	girl	_	NN	_	3	CONJ	33002	_
+6	with	with	_	IN	_	2	NMOD	_	_
+7	a	a	_	DT	_	11	NMOD	33004	_
+8	stuffed	stuff	_	VBN	_	11	NMOD	33004	_
+9	pink	pink	_	NN	_	10	NMOD	33004	_
+10	bear	bear	_	NN	_	11	NMOD	33004	_
+11	walk	walk	_	NN	_	6	PMOD	_	_
+12	along	along	_	IN	_	11	LOC	_	11
+13	the	the	_	DT	_	14	NMOD	33005	_
+14	sidewalk	sidewalk	_	NN	_	12	PMOD	33005	_
+15	.	.	_	.	_	0	ROOT	_	_

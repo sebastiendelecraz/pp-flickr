@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	130009	_
+2	people	people	_	NN	_	3	SBJ	130009	_
+3	standing	stand	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	boardwalk	boardwalk	_	NN	_	4	PMOD	130016	_
+6	looking	look	_	VBG	_	3	ADV	_	_
+7	at	at	_	IN	_	6	ADV	_	_
+8	buildings	building	_	NNS	_	7	PMOD	130012	_
+9	across	across	_	IN	_	8	LOC	_	6
+10	the	the	_	DT	_	11	NMOD	130011	_
+11	water	water	_	NN	_	9	PMOD	130011	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	228924	_
+2	man	man	_	NN	_	11	NMOD	228924	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	wild	wild	_	JJ	_	5	NMOD	228927	_
+5	hair	hair	_	NN	_	3	PMOD	228927	_
+6	,	,	_	,	_	11	P	_	_
+7	wearing	wear	_	VBG	_	11	SBJ	_	_
+8	a	a	_	DT	_	10	NMOD	228931	_
+9	gray	gray	_	JJ	_	10	NMOD	228931	_
+10	sweater	sweater	_	NN	_	7	OBJ	228931	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	speaking	speak	_	VBG	_	11	VC	_	_
+13	into	into	_	IN	_	12	ADV	_	12
+14	a	a	_	DT	_	15	NMOD	228926	_
+15	microphone	microphone	_	NN	_	13	PMOD	228926	_
+16	in front of	in front of	_	IN	_	12	ADV	_	_
+17	an	an	_	DT	_	19	NMOD	228925	_
+18	orange	orange	_	JJ	_	19	NMOD	228925	_
+19	graphic	graphic	_	NN	_	16	PMOD	_	_
+20	that	that	_	WDT	_	21	SBJ	0	_
+21	says	say	_	VBZ	_	19	NMOD	_	_
+22	Pop	Pop	_	NNP	_	23	NAME	228925	_
+23	Tech	Tech	_	NNP	_	21	OBJ	228925	_
+24	.	.	_	.	_	11	P	_	_

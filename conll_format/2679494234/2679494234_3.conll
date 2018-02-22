@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	65765	_
+2	shirtless	shirtless	_	JJ	_	3	NMOD	65765	_
+3	man	man	_	NN	_	0	ROOT	65765	_
+4	and	and	_	CC	_	3	COORD	_	_
+5	a	a	_	DT	_	6	NMOD	65766	_
+6	woman	woman	_	NN	_	4	CONJ	65766	_
+7	in	in	_	IN	_	3	LOC	_	6
+8	a	a	_	DT	_	11	NMOD	65772	_
+9	bikini	bikini	_	NN	_	11	NMOD	65772	_
+10	top	top	_	JJ	_	11	NMOD	65772	_
+11	embrace	embrace	_	NN	_	7	PMOD	65772	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	a	a	_	DT	_	14	NMOD	65768	_
+14	fountain	fountain	_	NN	_	12	PMOD	65768	_
+15	.	.	_	.	_	0	ROOT	_	_

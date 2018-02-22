@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	172012	_
+2	man	man	_	NN	_	10	SBJ	172012	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	172016	_
+5	orange	orange	_	JJ	_	6	NMOD	172016	_
+6	vest	vest	_	NN	_	3	PMOD	172016	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	black	black	_	JJ	_	9	NMOD	172020	_
+9	pants	pant	_	NNS	_	7	CONJ	172020	_
+10	works	work	_	VBZ	_	0	ROOT	172020	_
+11	on	on	_	IN	_	10	ADV	_	_
+12	tracks	track	_	NNS	_	11	PMOD	172014	_
+13	in	in	_	IN	_	12	LOC	_	10
+14	a	a	_	DT	_	15	NMOD	172013	_
+15	city	city	_	NN	_	13	PMOD	172013	_
+16	.	.	_	.	_	10	P	_	_

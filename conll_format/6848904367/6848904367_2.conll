@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	259294	_
+2	woman	woman	_	NN	_	0	ROOT	259294	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	8	NMOD	259299	_
+5	black	black	_	JJ	_	8	NMOD	259299	_
+6	short-sleeved	short-sleeved	_	CD	_	8	NMOD	259299	_
+7	shirt	shirt	_	NN	_	8	NMOD	259299	_
+8	smiles	smile	_	NNS	_	3	PMOD	_	_
+9	at	at	_	IN	_	2	LOC	_	_
+10	the	the	_	DT	_	11	NMOD	0	_
+11	camera	camera	_	NN	_	9	PMOD	0	_
+12	as	as	_	IN	_	0	ROOT	_	_
+13	she	she	_	PRP	_	14	SBJ	0	_
+14	mixes	mix	_	VBZ	_	12	SUB	_	_
+15	a	a	_	DT	_	16	NMOD	259295	_
+16	drink	drink	_	NN	_	14	OBJ	259295	_
+17	.	.	_	.	_	0	ROOT	_	_

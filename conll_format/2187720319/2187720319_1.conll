@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	3	NMOD	32963	_
+2	black	black	_	JJ	_	3	NMOD	32963	_
+3	dog	dog	_	NN	_	0	ROOT	32963	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	white	white	_	JJ	_	6	NMOD	32965	_
+6	paws	paw	_	NNS	_	4	PMOD	32965	_
+7	jumping	jump	_	VBG	_	6	APPO	_	_
+8	from	from	_	IN	_	7	ADV	_	7
+9	a	a	_	DT	_	10	NMOD	32964	_
+10	bale	bale	_	NN	_	8	PMOD	32964	_
+11	of	of	_	IN	_	10	NMOD	32964	_
+12	hay	hay	_	NN	_	11	PMOD	32964	_
+13	.	.	_	.	_	0	ROOT	_	_

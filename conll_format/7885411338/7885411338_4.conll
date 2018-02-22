@@ -1,0 +1,14 @@
+1	Young	Young	_	NNP	_	2	NMOD	276342	_
+2	girl	girl	_	NN	_	3	SBJ	276342	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	DIR	_	3
+5	the	the	_	DT	_	6	NMOD	276346	_
+6	sand	sand	_	NN	_	4	PMOD	276346	_
+7	in	in	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	10	NMOD	276343	_
+9	blue	blue	_	JJ	_	10	NMOD	276343	_
+10	dress	dress	_	NN	_	7	PMOD	276343	_
+11	carrying	carry	_	VBG	_	10	APPO	_	_
+12	her	her	_	PRP$	_	13	NMOD	276344	_
+13	shoes	shoe	_	NNS	_	11	OBJ	276344	_
+14	.	.	_	.	_	0	ROOT	_	_

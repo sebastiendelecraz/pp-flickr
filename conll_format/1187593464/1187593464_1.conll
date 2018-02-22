@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	4797	_
+2	dog	dog	_	NN	_	3	SBJ	4797	_
+3	running	run	_	VBG	_	0	ROOT	_	_
+4	across	across	_	IN	_	3	DIR	_	3
+5	a	a	_	DT	_	7	NMOD	4799	_
+6	grassy	grassy	_	JJ	_	7	NMOD	4799	_
+7	field	field	_	NN	_	4	PMOD	4799	_
+8	with	with	_	IN	_	3	ADV	_	_
+9	a	a	_	DT	_	10	NMOD	4798	_
+10	stick	stick	_	NN	_	8	PMOD	4798	_
+11	in	in	_	IN	_	10	LOC	_	_
+12	its	its	_	PRP$	_	13	NMOD	4801	_
+13	mouth	mouth	_	NN	_	11	PMOD	4801	_
+14	.	.	_	.	_	0	ROOT	_	_

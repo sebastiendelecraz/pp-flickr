@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	213373	_
+2	crowd	crowd	_	NN	_	0	ROOT	213373	_
+3	of	of	_	IN	_	2	NMOD	213373	_
+4	people	people	_	NN	_	3	PMOD	213373	_
+5	near	near	_	IN	_	4	LOC	_	2
+6	a	a	_	DT	_	7	NMOD	213374	_
+7	beach	beach	_	NN	_	5	PMOD	213374	_
+8	on	on	_	IN	_	2	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	213379	_
+10	sunny	sunny	_	JJ	_	11	NMOD	213379	_
+11	day	day	_	NN	_	8	PMOD	213379	_
+12	.	.	_	.	_	0	ROOT	_	_

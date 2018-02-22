@@ -1,0 +1,17 @@
+1	4	4	_	CD	_	2	NMOD	97580	_
+2	children	child	_	NNS	_	0	ROOT	97580	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	1	1	_	CD	_	6	NMOD	97582	_
+5	adult	adult	_	JJ	_	6	NMOD	97582	_
+6	look	look	_	NN	_	3	CONJ	_	_
+7	at	at	_	IN	_	2	LOC	_	_
+8	an	an	_	DT	_	9	NMOD	97586	_
+9	armadillo	armadillo	_	NN	_	7	PMOD	97586	_
+10	on	on	_	IN	_	2	NMOD	_	_
+11	a	a	_	DT	_	13	NMOD	97581	_
+12	grassy	grassy	_	JJ	_	13	NMOD	97581	_
+13	hill	hill	_	NN	_	10	PMOD	97581	_
+14	with	with	_	IN	_	2	NMOD	_	13
+15	2	2	_	CD	_	16	NMOD	97579	_
+16	trees	tree	_	NNS	_	14	PMOD	97579	_
+17	.	.	_	.	_	0	ROOT	_	_

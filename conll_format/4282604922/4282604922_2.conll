@@ -1,0 +1,17 @@
+1	People	People	_	NNPS	_	2	SBJ	161480	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	in front of	in front of	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	6	NMOD	161489	_
+5	gray	gray	_	JJ	_	6	NMOD	161489	_
+6	building	building	_	NN	_	3	PMOD	161489	_
+7	with	with	_	IN	_	2	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	161485	_
+9	sign	sign	_	NN	_	7	PMOD	161485	_
+10	that	that	_	WDT	_	11	SBJ	_	_
+11	reads	read	_	VBZ	_	9	NMOD	_	_
+12	'	'	_	''	_	9	P	161492	_
+13	Tickets	ticket	_	NNS	_	16	NMOD	161492	_
+14	Available	available	_	JJ	_	16	NMOD	161492	_
+15	Here	here	_	RB	_	16	NMOD	161492	_
+16	'	'	_	''	_	9	APPO	161492	_
+17	.	.	_	.	_	0	ROOT	_	_

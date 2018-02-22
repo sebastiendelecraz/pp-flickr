@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	NAME	196739	_
+2	protesting	protest	_	VBG	_	0	ROOT	_	_
+3	for	for	_	IN	_	2	ADV	_	2
+4	a	a	_	DT	_	5	NMOD	196742	_
+5	cause	cause	_	NN	_	3	PMOD	196742	_
+6	in	in	_	IN	_	2	LOC	_	_
+7	the	the	_	DT	_	9	NMOD	196747	_
+8	early	early	_	JJ	_	9	NMOD	196747	_
+9	morning	morning	_	NN	_	6	PMOD	196747	_
+10	.	.	_	.	_	0	ROOT	_	_

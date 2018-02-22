@@ -1,0 +1,15 @@
+1	two	two	_	CD	_	3	NMOD	139600	_
+2	crew	crew	_	NN	_	3	NMOD	139600	_
+3	people	people	_	NN	_	4	SBJ	139600	_
+4	talk	talk	_	VBP	_	0	ROOT	_	_
+5	about	about	_	IN	_	4	ADV	_	4
+6	an	an	_	DT	_	9	NMOD	139602	_
+7	race	race	_	NN	_	9	NMOD	139602	_
+8	car	car	_	NN	_	9	NMOD	139602	_
+9	engine	engine	_	NN	_	5	PMOD	139602	_
+10	during	during	_	IN	_	4	TMP	_	4
+11	a	a	_	DT	_	14	NMOD	139604	_
+12	race	race	_	NN	_	13	NMOD	139604	_
+13	car	car	_	NN	_	14	NMOD	139604	_
+14	show	show	_	NN	_	10	PMOD	139604	_
+15	.	.	_	.	_	4	P	_	_

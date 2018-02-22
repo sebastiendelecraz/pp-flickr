@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	282292	_
+2	worker	worker	_	NN	_	3	SBJ	282292	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	PRD	_	_
+5	their	their	_	PRP$	_	6	NMOD	282293	_
+6	hands	hand	_	NNS	_	4	PMOD	282293	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	knees	knee	_	NNS	_	7	CONJ	282294	_
+9	at	at	_	IN	_	3	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	282297	_
+11	work	work	_	NN	_	12	NMOD	282297	_
+12	site	site	_	NN	_	9	PMOD	282297	_
+13	by	by	_	IN	_	12	NMOD	_	3
+14	a	a	_	DT	_	16	NMOD	282296	_
+15	white	white	_	JJ	_	16	NMOD	282296	_
+16	fence	fence	_	NN	_	13	PMOD	282296	_
+17	.	.	_	.	_	3	P	_	_

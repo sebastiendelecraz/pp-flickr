@@ -1,0 +1,12 @@
+1	Three	Three	_	CD	_	2	NMOD	201572	_
+2	windsurfers	windsurfer	_	NNS	_	3	SBJ	201572	_
+3	ride	ride	_	VBP	_	0	ROOT	_	_
+4	the	the	_	DT	_	5	NMOD	201577	_
+5	waves	wave	_	NNS	_	3	OBJ	201577	_
+6	in	in	_	IN	_	3	LOC	_	3
+7	a	a	_	DT	_	9	NMOD	201573	_
+8	choppy	choppy	_	JJ	_	9	NMOD	201573	_
+9	body	body	_	NN	_	6	PMOD	201573	_
+10	of	of	_	IN	_	9	NMOD	201573	_
+11	water	water	_	NN	_	10	PMOD	201573	_
+12	.	.	_	.	_	3	P	_	_

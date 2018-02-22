@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	86135	_
+2	man	man	_	NN	_	9	SBJ	86135	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	5	NMOD	86142	_
+5	goatee	goatee	_	NN	_	3	PMOD	86142	_
+6	on	on	_	IN	_	2	NMOD	_	_
+7	his	his	_	PRP$	_	8	NMOD	86143	_
+8	face	face	_	NN	_	6	PMOD	86143	_
+9	is	be	_	VBZ	_	0	ROOT	_	_
+10	looking	look	_	VBG	_	9	VC	_	_
+11	at	at	_	IN	_	10	ADV	_	_
+12	a	a	_	DT	_	13	NMOD	86139	_
+13	plate	plate	_	NN	_	11	PMOD	86139	_
+14	of	of	_	IN	_	13	NMOD	86139	_
+15	toast	toast	_	NN	_	14	PMOD	86139	_
+16	with	with	_	IN	_	13	NMOD	_	_
+17	eggs	egg	_	NNS	_	16	PMOD	86138	_
+18	on top of	on top of	_	IN	_	10	ADV	_	17
+19	the	the	_	DT	_	20	NMOD	86137	_
+20	toast	toast	_	NN	_	18	PMOD	86137	_
+21	.	.	_	.	_	9	P	_	_

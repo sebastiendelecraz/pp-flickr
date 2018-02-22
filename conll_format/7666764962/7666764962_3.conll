@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	273003	_
+2	lady	lady	_	NN	_	0	ROOT	273003	_
+3	with	with	_	IN	_	2	NMOD	_	_
+4	a	a	_	DT	_	6	NMOD	273008	_
+5	yellow	yellow	_	JJ	_	6	NMOD	273008	_
+6	blouse	blouse	_	NN	_	3	PMOD	273008	_
+7	and	and	_	CC	_	6	COORD	_	_
+8	glasses	glass	_	NNS	_	7	CONJ	273009	_
+9	at	at	_	IN	_	2	LOC	_	2
+10	a	a	_	DT	_	11	NMOD	273004	_
+11	desk	desk	_	NN	_	9	PMOD	273004	_
+12	with	with	_	IN	_	11	NMOD	_	_
+13	a	a	_	DT	_	15	NMOD	273005	_
+14	laptop	laptop	_	JJ	_	15	NMOD	273005	_
+15	computer	computer	_	NN	_	12	PMOD	273005	_
+16	.	.	_	.	_	0	ROOT	_	_

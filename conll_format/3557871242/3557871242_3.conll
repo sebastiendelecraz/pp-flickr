@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	127414	_
+2	group	group	_	NN	_	0	ROOT	127414	_
+3	of	of	_	IN	_	2	NMOD	127414	_
+4	friends	friend	_	NNS	_	3	PMOD	127414	_
+5	smiling	smile	_	VBG	_	4	APPO	_	_
+6	for	for	_	IN	_	5	ADV	_	5
+7	the	the	_	DT	_	8	NMOD	0	_
+8	camera	camera	_	NN	_	6	PMOD	0	_
+9	before	before	_	IN	_	5	TMP	_	5
+10	the	the	_	DT	_	11	NMOD	127420	_
+11	races	race	_	NNS	_	9	PMOD	127420	_
+12	.	.	_	.	_	0	ROOT	_	_

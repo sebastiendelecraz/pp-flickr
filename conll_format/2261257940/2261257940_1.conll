@@ -1,0 +1,17 @@
+1	a	a	_	DT	_	3	NMOD	37531	_
+2	brown	brown	_	JJ	_	3	NMOD	37531	_
+3	dog	dog	_	NN	_	4	SBJ	37531	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	chasing	chase	_	VBG	_	4	VC	_	_
+6	a	a	_	DT	_	8	NMOD	37533	_
+7	black	black	_	JJ	_	8	NMOD	37533	_
+8	dog	dog	_	NN	_	5	OBJ	37533	_
+9	through	through	_	IN	_	5	ADV	_	5
+10	the	the	_	DT	_	11	NMOD	37534	_
+11	snow	snow	_	NN	_	9	PMOD	37534	_
+12	in front of	in front of	_	IN	_	5	ADV	_	_
+13	a	a	_	DT	_	16	NMOD	37536	_
+14	wire	wire	_	NN	_	15	NMOD	37536	_
+15	mesh	mesh	_	NN	_	16	NMOD	37536	_
+16	fence	fence	_	NN	_	12	PMOD	37536	_
+17	.	.	_	.	_	4	P	_	_

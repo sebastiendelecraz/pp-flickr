@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	52011	_
+2	man	man	_	NN	_	3	SBJ	52011	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	ducking	duck	_	VBG	_	3	VC	_	_
+5	down	down	_	RP	_	4	PRT	_	_
+6	between	between	_	IN	_	4	ADV	_	4
+7	the	the	_	DT	_	9	NMOD	52013	_
+8	red	red	_	JJ	_	9	NMOD	52013	_
+9	tulips	tulip	_	NNS	_	6	PMOD	52013	_
+10	in	in	_	IN	_	9	LOC	_	_
+11	a	a	_	DT	_	13	NMOD	52011	_
+12	flower	flower	_	NN	_	13	NMOD	52011	_
+13	field	field	_	NN	_	10	PMOD	52011	_
+14	.	.	_	.	_	3	P	_	_

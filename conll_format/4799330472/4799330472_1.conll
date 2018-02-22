@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	203902	_
+2	woman	woman	_	NN	_	7	SBJ	203902	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	203904	_
+5	red	red	_	JJ	_	6	NMOD	203904	_
+6	dress	dress	_	NN	_	3	PMOD	203904	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	looking	look	_	VBG	_	7	VC	_	_
+9	at	at	_	IN	_	8	ADV	_	_
+10	something	something	_	NN	_	9	PMOD	203908	_
+11	down	down	_	IN	_	10	NMOD	_	8
+12	the	the	_	DT	_	13	NMOD	203906	_
+13	street	street	_	NN	_	11	PMOD	203906	_
+14	.	.	_	.	_	7	P	_	_

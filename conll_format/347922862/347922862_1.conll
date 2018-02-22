@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	121401	_
+2	man	man	_	NN	_	3	SBJ	121401	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	pulling	pull	_	VBG	_	3	VC	_	_
+5	two	two	_	CD	_	6	NMOD	121402	_
+6	children	child	_	NNS	_	4	OBJ	121402	_
+7	on	on	_	IN	_	4	ADV	_	_
+8	a	a	_	DT	_	9	NMOD	121403	_
+9	sled	sled	_	NN	_	7	PMOD	121403	_
+10	in	in	_	IN	_	4	LOC	_	_
+11	the	the	_	DT	_	12	NMOD	121404	_
+12	snow	snow	_	NN	_	10	PMOD	121404	_
+13	behind	behind	_	IN	_	12	LOC	_	4
+14	other	other	_	JJ	_	15	NMOD	121405	_
+15	people	people	_	NN	_	13	PMOD	121405	_
+16	.	.	_	.	_	3	P	_	_

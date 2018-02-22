@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	168121	_
+2	group	group	_	NN	_	5	SBJ	168121	_
+3	of	of	_	IN	_	2	NMOD	168121	_
+4	people	people	_	NN	_	3	PMOD	168121	_
+5	are	be	_	VBP	_	0	ROOT	_	_
+6	walking	walk	_	VBG	_	5	VC	_	_
+7	around	around	_	IN	_	6	LOC	_	6
+8	the	the	_	DT	_	9	NMOD	168122	_
+9	front	front	_	NN	_	7	PMOD	168122	_
+10	of	of	_	IN	_	9	NMOD	168122	_
+11	a	a	_	DT	_	15	NMOD	168122	_
+12	very	very	_	RB	_	13	AMOD	168122	_
+13	tall	tall	_	JJ	_	15	NMOD	168122	_
+14	brown	brown	_	JJ	_	15	NMOD	168122	_
+15	building	building	_	NN	_	10	PMOD	168122	_
+16	.	.	_	.	_	5	P	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	171837	_
+2	road	road	_	NN	_	0	ROOT	171837	_
+3	next to	next to	_	IN	_	2	NMOD	_	2
+4	an	an	_	DT	_	6	NMOD	171839	_
+5	interesting	interesting	_	JJ	_	6	NMOD	171839	_
+6	place	place	_	NN	_	3	PMOD	171839	_
+7	with	with	_	IN	_	6	NMOD	_	_
+8	lots	lot	_	NNS	_	7	PMOD	171841	_
+9	of	of	_	IN	_	8	NMOD	171841	_
+10	pillars	pillar	_	NNS	_	9	PMOD	171841	_
+11	.	.	_	.	_	0	ROOT	_	_

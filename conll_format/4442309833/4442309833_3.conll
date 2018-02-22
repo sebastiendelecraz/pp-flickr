@@ -1,0 +1,18 @@
+1	A	a	_	DT	_	2	NMOD	168544	_
+2	man	man	_	NN	_	3	SBJ	168544	_
+3	is	be	_	VBZ	_	0	ROOT	_	_
+4	carrying	carry	_	VBG	_	3	VC	_	_
+5	a	a	_	DT	_	7	NMOD	168549	_
+6	white	white	_	JJ	_	7	NMOD	168549	_
+7	pole	pole	_	NN	_	4	OBJ	168549	_
+8	next to	next to	_	IN	_	4	ADV	_	4
+9	a	a	_	DT	_	11	NMOD	168550	_
+10	big	big	_	JJ	_	11	NMOD	168550	_
+11	fan	fan	_	NN	_	8	PMOD	168550	_
+12	on	on	_	IN	_	4	ADV	_	_
+13	the	the	_	DT	_	14	NMOD	168554	_
+14	side	side	_	NN	_	12	PMOD	168554	_
+15	of	of	_	IN	_	14	NMOD	168554	_
+16	the	the	_	DT	_	17	NMOD	168554	_
+17	road	road	_	NN	_	15	PMOD	168554	_
+18	.	.	_	.	_	3	P	_	_

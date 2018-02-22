@@ -1,0 +1,15 @@
+1	An	an	_	DT	_	3	NMOD	209777	_
+2	Asian	Asian	_	JJ	_	3	NMOD	209777	_
+3	man	man	_	NN	_	4	SBJ	209777	_
+4	is	be	_	VBZ	_	0	ROOT	_	_
+5	removing	remove	_	VBG	_	4	VC	_	_
+6	food	food	_	NN	_	5	OBJ	209782	_
+7	from	from	_	IN	_	5	ADV	_	5
+8	a	a	_	DT	_	9	NMOD	209783	_
+9	wok	wok	_	NN	_	7	PMOD	209783	_
+10	into	into	_	IN	_	5	DIR	_	5
+11	a	a	_	DT	_	12	NMOD	209784	_
+12	carry	carry	_	NN	_	10	PMOD	209784	_
+13	away	away	_	RB	_	14	NMOD	_	_
+14	container	container	_	NN	_	5	OBJ	209782	_
+15	.	.	_	.	_	4	P	_	_

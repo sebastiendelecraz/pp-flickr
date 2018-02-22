@@ -1,0 +1,10 @@
+1	A	a	_	DT	_	2	NMOD	33653	_
+2	man	man	_	NN	_	3	SBJ	33653	_
+3	pulling	pull	_	VBG	_	0	ROOT	_	_
+4	around	around	_	IN	_	3	LOC	_	3
+5	some	some	_	DT	_	7	NMOD	33654	_
+6	odd	odd	_	JJ	_	7	NMOD	33654	_
+7	thing	thing	_	NN	_	4	PMOD	33654	_
+8	on	on	_	IN	_	7	NMOD	_	_
+9	wheels	wheel	_	NNS	_	8	PMOD	33657	_
+10	.	.	_	.	_	0	ROOT	_	_

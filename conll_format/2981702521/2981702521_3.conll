@@ -1,0 +1,10 @@
+1	People	People	_	NNPS	_	2	NMOD	85447	_
+2	trackside	trackside	_	NN	_	0	ROOT	85447	_
+3	at	at	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	85449	_
+5	subway	subway	_	NN	_	6	NMOD	85449	_
+6	station	station	_	NN	_	3	PMOD	85449	_
+7	by	by	_	IN	_	2	NMOD	_	1
+8	a	a	_	DT	_	9	NMOD	85448	_
+9	train	train	_	NN	_	7	PMOD	85448	_
+10	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,24 @@
+1	A	a	_	DT	_	2	NMOD	259824	_
+2	person	person	_	NN	_	0	ROOT	259824	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	6	NMOD	259825	_
+5	flying	fly	_	VBG	_	6	NMOD	259825	_
+6	helicopter	helicopter	_	NN	_	3	PMOD	259825	_
+7	watching	watch	_	VBG	_	6	APPO	_	_
+8	someone	someone	_	NN	_	7	OBJ	259821	_
+9	in	in	_	IN	_	8	LOC	_	_
+10	a	a	_	DT	_	12	NMOD	259829	_
+11	multicolored	multicolored	_	JJ	_	12	NMOD	259829	_
+12	snowsuit	snowsuit	_	NN	_	9	PMOD	259829	_
+13	on	on	_	IN	_	12	LOC	_	8
+14	a	a	_	DT	_	15	NMOD	259826	_
+15	board	board	_	NN	_	13	PMOD	259826	_
+16	who	who	_	WP	_	17	SBJ	0	_
+17	might	may	_	MD	_	15	NMOD	_	_
+18	have	have	_	VB	_	17	VC	_	_
+19	just	just	_	RB	_	20	ADV	_	_
+20	jumped	jump	_	VBN	_	18	VC	_	_
+21	out of	out of	_	IN	_	20	ADV	_	20
+22	the	the	_	DT	_	23	NMOD	259825	_
+23	helicopter	helicopter	_	NN	_	21	PMOD	259825	_
+24	.	.	_	.	_	0	ROOT	_	_

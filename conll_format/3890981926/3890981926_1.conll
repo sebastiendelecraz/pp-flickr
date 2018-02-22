@@ -1,0 +1,15 @@
+1	Woman	Woman	_	NNP	_	0	ROOT	147172	_
+2	in	in	_	IN	_	9	LOC	_	_
+3	black	black	_	JJ	_	4	NMOD	147174	_
+4	jacket	jacket	_	NN	_	2	PMOD	147174	_
+5	and	and	_	CC	_	4	COORD	_	_
+6	blue	blue	_	JJ	_	7	NMOD	147178	_
+7	pants	pant	_	NNS	_	5	CONJ	147178	_
+8	rides	ride	_	NNS	_	9	SBJ	_	_
+9	bike	bike	_	VBP	_	1	NMOD	147173	_
+10	on	on	_	IN	_	9	ADV	_	_
+11	shoulder	shoulder	_	NN	_	10	PMOD	147181	_
+12	through	through	_	IN	_	9	TMP	_	8
+13	construction	construction	_	NN	_	14	NMOD	147179	_
+14	area	area	_	NN	_	12	PMOD	147179	_
+15	.	.	_	.	_	0	ROOT	_	_

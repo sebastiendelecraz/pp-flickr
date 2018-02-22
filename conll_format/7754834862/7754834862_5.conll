@@ -1,0 +1,10 @@
+1	Two	Two	_	CD	_	2	NMOD	274592	_
+2	people	people	_	NN	_	3	SBJ	274592	_
+3	going	go	_	VBG	_	0	ROOT	_	_
+4	through	through	_	IN	_	3	DIR	_	3
+5	the	the	_	DT	_	6	NMOD	0	_
+6	air	air	_	NN	_	4	PMOD	0	_
+7	with	with	_	IN	_	3	ADV	_	_
+8	there	there	_	EX	_	9	NMOD	274593	_
+9	bikes	bike	_	NNS	_	7	PMOD	274593	_
+10	.	.	_	.	_	0	ROOT	_	_

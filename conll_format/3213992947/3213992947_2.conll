@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	101639	_
+2	woman	woman	_	NN	_	8	SBJ	101639	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	7	NMOD	101640	_
+5	puffy	puffy	_	JJ	_	7	NMOD	101640	_
+6	red	red	_	JJ	_	7	NMOD	101640	_
+7	jacket	jacket	_	NN	_	3	PMOD	101640	_
+8	poses	pose	_	VBZ	_	0	ROOT	_	_
+9	for	for	_	IN	_	8	ADV	_	8
+10	a	a	_	DT	_	11	NMOD	101645	_
+11	picture	picture	_	NN	_	9	PMOD	101645	_
+12	at	at	_	IN	_	8	LOC	_	_
+13	an	an	_	DT	_	16	NMOD	101643	_
+14	ice	ice	_	NN	_	16	NMOD	101643	_
+15	skating	skate	_	VBG	_	16	NMOD	_	_
+16	rink	rink	_	NN	_	12	PMOD	101643	_
+17	.	.	_	.	_	8	P	_	_

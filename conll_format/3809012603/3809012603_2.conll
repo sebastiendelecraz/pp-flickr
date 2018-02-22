@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	143459	_
+2	sparsely	sparsely	_	RB	_	3	AMOD	143459	_
+3	populated	populate	_	VBN	_	4	NMOD	143459	_
+4	crowd	crowd	_	NN	_	0	ROOT	143459	_
+5	at	at	_	IN	_	4	LOC	_	_
+6	the	the	_	DT	_	7	NMOD	143463	_
+7	stadium	stadium	_	NN	_	5	PMOD	143463	_
+8	for	for	_	IN	_	7	NMOD	_	4
+9	a	a	_	DT	_	11	NMOD	143464	_
+10	sports	sport	_	NNS	_	11	NMOD	143464	_
+11	event	event	_	NN	_	8	PMOD	143464	_
+12	.	.	_	.	_	0	ROOT	_	_

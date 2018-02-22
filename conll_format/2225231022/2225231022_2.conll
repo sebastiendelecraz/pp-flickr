@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	35184	_
+2	man	man	_	NN	_	6	SBJ	35184	_
+3	and	and	_	CC	_	2	COORD	_	_
+4	two	two	_	CD	_	5	NMOD	35186	_
+5	women	woman	_	NNS	_	3	CONJ	35186	_
+6	standing	stand	_	VBG	_	0	ROOT	_	_
+7	by	by	_	IN	_	6	MNR	_	6
+8	a	a	_	DT	_	10	NMOD	35189	_
+9	wood	wood	_	NN	_	10	NMOD	35189	_
+10	pole	pole	_	NN	_	7	PMOD	35189	_
+11	in front of	in front of	_	IN	_	6	ADV	_	_
+12	steps	step	_	NNS	_	11	PMOD	35187	_
+13	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,14 @@
+1	A	a	_	DT	_	2	NMOD	206337	_
+2	man	man	_	NN	_	0	ROOT	206337	_
+3	dressed	dress	_	VBN	_	2	APPO	_	_
+4	as	as	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	6	NMOD	206337	_
+6	clown	clown	_	NN	_	4	PMOD	206337	_
+7	with	with	_	IN	_	6	NMOD	_	2
+8	a	a	_	DT	_	10	NMOD	206341	_
+9	colorful	colorful	_	JJ	_	10	NMOD	206341	_
+10	wig	wig	_	NN	_	7	PMOD	206341	_
+11	on	on	_	IN	_	10	NMOD	_	_
+12	his	his	_	PRP$	_	13	NMOD	206342	_
+13	head	head	_	NN	_	11	PMOD	206342	_
+14	.	.	_	.	_	0	ROOT	_	_

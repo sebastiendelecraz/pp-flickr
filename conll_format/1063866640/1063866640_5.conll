@@ -1,0 +1,11 @@
+1	Five	Five	_	CD	_	2	NMOD	1615	_
+2	men	man	_	NNS	_	3	SBJ	1615	_
+3	sitting	sit	_	VBG	_	0	ROOT	_	_
+4	with	with	_	IN	_	3	ADV	_	3
+5	a	a	_	DT	_	6	NMOD	1613	_
+6	body	body	_	NN	_	4	PMOD	1613	_
+7	of	of	_	IN	_	6	NMOD	1613	_
+8	water	water	_	NN	_	7	PMOD	1613	_
+9	behind	behind	_	IN	_	6	LOC	_	_
+10	them	them	_	PRP	_	9	PMOD	0	_
+11	.	.	_	.	_	0	ROOT	_	_

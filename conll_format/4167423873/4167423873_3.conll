@@ -1,0 +1,12 @@
+1	Children	child	_	NNS	_	2	SBJ	157773	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	playing	play	_	VBG	_	2	VC	_	_
+4	under	under	_	IN	_	3	LOC	_	3
+5	an	an	_	DT	_	6	NMOD	157774	_
+6	umbrella	umbrella	_	NN	_	4	PMOD	157774	_
+7	in	in	_	IN	_	3	LOC	_	3
+8	a	a	_	DT	_	9	NMOD	157775	_
+9	body	body	_	NN	_	7	PMOD	157775	_
+10	of	of	_	IN	_	9	NMOD	157775	_
+11	water	water	_	NN	_	10	PMOD	157775	_
+12	.	.	_	.	_	2	P	_	_

@@ -1,0 +1,25 @@
+1	a	a	_	DT	_	3	NMOD	1176	_
+2	blond-haired	blond-haired	_	JJ	_	3	NMOD	1176	_
+3	man	man	_	NN	_	11	SBJ	1176	_
+4	with	with	_	IN	_	3	NMOD	_	_
+5	glasses	glass	_	NNS	_	4	PMOD	1177	_
+6	and	and	_	CC	_	5	COORD	_	_
+7	a	a	_	DT	_	10	NMOD	1178	_
+8	blank	blank	_	JJ	_	10	NMOD	1178	_
+9	tank	tank	_	NN	_	10	NMOD	1178	_
+10	top	top	_	NN	_	6	CONJ	1178	_
+11	is	be	_	VBZ	_	0	ROOT	_	_
+12	sitting	sit	_	VBG	_	11	VC	_	_
+13	next to	next to	_	IN	_	12	ADV	_	12
+14	another	another	_	DT	_	15	NMOD	1179	_
+15	man	man	_	NN	_	13	PMOD	1179	_
+16	with	with	_	IN	_	15	NMOD	_	_
+17	glasses	glass	_	NNS	_	16	PMOD	1180	_
+18	and	and	_	CC	_	17	COORD	_	_
+19	headphones	headphone	_	NNS	_	18	CONJ	1181	_
+20	while	while	_	IN	_	12	TMP	_	_
+21	sitting	sit	_	VBG	_	20	SUB	_	_
+22	on	on	_	IN	_	21	LOC	_	_
+23	a	a	_	DT	_	24	NMOD	1182	_
+24	train	train	_	NN	_	22	PMOD	1182	_
+25	.	.	_	.	_	11	P	_	_

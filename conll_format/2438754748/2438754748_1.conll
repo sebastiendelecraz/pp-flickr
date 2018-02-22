@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	49532	_
+2	female	female	_	JJ	_	3	NMOD	49532	_
+3	couple	couple	_	NN	_	0	ROOT	49532	_
+4	lean	lean	_	JJ	_	3	APPO	_	_
+5	on	on	_	IN	_	4	AMOD	_	_
+6	each	each	_	DT	_	7	NMOD	0	_
+7	other	other	_	JJ	_	5	PMOD	0	_
+8	in	in	_	IN	_	3	LOC	_	_
+9	the	the	_	DT	_	10	NMOD	49534	_
+10	outdoors	outdoors	_	NN	_	8	PMOD	49534	_
+11	after	after	_	IN	_	3	TMP	_	4
+12	a	a	_	DT	_	14	NMOD	49536	_
+13	good	good	_	JJ	_	14	NMOD	49536	_
+14	swim	swim	_	NN	_	11	PMOD	49536	_
+15	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	2	NMOD	256665	_
+2	man	man	_	NN	_	3	SBJ	256665	_
+3	walking	walk	_	VBG	_	0	ROOT	_	_
+4	on	on	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	7	NMOD	256669	_
+6	tight	tight	_	JJ	_	7	NMOD	256669	_
+7	robe	robe	_	NN	_	4	PMOD	256669	_
+8	at	at	_	IN	_	3	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	256668	_
+10	carnival	carnival	_	NN	_	8	PMOD	256668	_
+11	.	.	_	.	_	0	ROOT	_	_

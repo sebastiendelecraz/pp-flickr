@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	2	NMOD	119454	_
+2	man	man	_	NN	_	0	ROOT	119454	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	119461	_
+5	gray	gray	_	JJ	_	6	NMOD	119461	_
+6	hat	hat	_	NN	_	3	PMOD	119461	_
+7	painting	paint	_	VBG	_	6	APPO	_	_
+8	a	a	_	DT	_	9	NMOD	119463	_
+9	scene	scene	_	NN	_	7	OBJ	119463	_
+10	of	of	_	IN	_	9	NMOD	119463	_
+11	people	people	_	NN	_	10	PMOD	119463	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	119456	_
+14	park	park	_	NN	_	12	PMOD	119456	_
+15	.	.	_	.	_	0	ROOT	_	_

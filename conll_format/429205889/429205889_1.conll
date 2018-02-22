@@ -1,0 +1,12 @@
+1	Woman	Woman	_	NNP	_	2	SBJ	161896	_
+2	standing	stand	_	VBG	_	0	ROOT	_	_
+3	next to	next to	_	IN	_	2	ADV	_	2
+4	wire	wire	_	NN	_	5	NMOD	161897	_
+5	tree	tree	_	NN	_	3	PMOD	161897	_
+6	with	with	_	IN	_	5	NMOD	_	_
+7	ornamental	ornamental	_	JJ	_	8	NMOD	161897	_
+8	balls	ball	_	NNS	_	6	PMOD	161897	_
+9	hanging	hang	_	VBG	_	8	APPO	_	_
+10	from	from	_	IN	_	9	ADV	_	_
+11	it	it	_	PRP	_	10	PMOD	0	_
+12	.	.	_	.	_	0	ROOT	_	_

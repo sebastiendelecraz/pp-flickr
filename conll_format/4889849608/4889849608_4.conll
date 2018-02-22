@@ -1,0 +1,16 @@
+1	A	a	_	DT	_	2	NMOD	215286	_
+2	female	female	_	JJ	_	3	ADV	215286	_
+3	dressed	dress	_	VBN	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	ADV	_	_
+5	a	a	_	DT	_	9	NMOD	215294	_
+6	gray	gray	_	JJ	_	9	NMOD	215294	_
+7	tank	tank	_	NN	_	8	NMOD	215294	_
+8	top	top	_	NN	_	9	NMOD	215294	_
+9	rides	ride	_	NNS	_	4	PMOD	_	_
+10	down	down	_	IN	_	3	ADV	_	9
+11	the	the	_	DT	_	12	NMOD	215290	_
+12	sidewalk	sidewalk	_	NN	_	10	PMOD	215290	_
+13	on	on	_	IN	_	12	NMOD	_	_
+14	her	her	_	PRP$	_	15	NMOD	215289	_
+15	bicycle	bicycle	_	NN	_	13	PMOD	215289	_
+16	.	.	_	.	_	0	ROOT	_	_

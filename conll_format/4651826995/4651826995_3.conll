@@ -1,0 +1,14 @@
+1	One	One	_	CD	_	2	NMOD	186897	_
+2	woman	woman	_	NN	_	0	ROOT	186897	_
+3	with	with	_	IN	_	2	NMOD	_	2
+4	a	a	_	DT	_	6	NMOD	186903	_
+5	dark	dark	_	JJ	_	6	NMOD	186903	_
+6	coat	coat	_	NN	_	3	PMOD	186903	_
+7	on	on	_	IN	_	2	NMOD	_	_
+8	walking	walk	_	VBG	_	7	PMOD	_	_
+9	by	by	_	IN	_	2	NMOD	_	_
+10	herself	herself	_	PRP	_	9	PMOD	0	_
+11	in	in	_	IN	_	2	LOC	_	8
+12	a	a	_	DT	_	13	NMOD	186898	_
+13	city	city	_	NN	_	11	PMOD	186898	_
+14	.	.	_	.	_	0	ROOT	_	_

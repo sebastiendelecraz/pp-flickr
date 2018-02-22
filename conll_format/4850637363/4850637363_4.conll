@@ -1,0 +1,13 @@
+1	Two	Two	_	CD	_	2	NMOD	210487	_
+2	people	people	_	NN	_	0	ROOT	210487	_
+3	wearing	wear	_	VBG	_	2	APPO	_	_
+4	costumes	costume	_	NNS	_	3	OBJ	210492	_
+5	in	in	_	IN	_	3	LOC	_	_
+6	a	a	_	DT	_	7	NMOD	210489	_
+7	group	group	_	NN	_	5	PMOD	210489	_
+8	of	of	_	IN	_	7	NMOD	210489	_
+9	people	people	_	NN	_	8	PMOD	210489	_
+10	in	in	_	IN	_	3	LOC	_	2
+11	a	a	_	DT	_	12	NMOD	210496	_
+12	city	city	_	NN	_	10	PMOD	210496	_
+13	.	.	_	.	_	0	ROOT	_	_

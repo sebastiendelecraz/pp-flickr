@@ -1,0 +1,27 @@
+1	A	a	_	DT	_	2	NMOD	10192	_
+2	toddler	toddler	_	NN	_	0	ROOT	10192	_
+3	grasping	grasp	_	VBG	_	2	APPO	_	_
+4	the	the	_	DT	_	5	NMOD	10200	_
+5	handle	handle	_	NN	_	3	OBJ	10200	_
+6	of	of	_	IN	_	5	NMOD	10200	_
+7	a	a	_	DT	_	8	NMOD	10200	_
+8	tool	tool	_	NN	_	6	PMOD	10200	_
+9	to	to	_	TO	_	3	OPRD	_	_
+10	stir	stir	_	VB	_	9	IM	_	_
+11	food	food	_	NN	_	10	OBJ	10194	_
+12	in	in	_	IN	_	10	LOC	_	10
+13	a	a	_	DT	_	14	NMOD	10194	_
+14	bowl	bowl	_	NN	_	12	PMOD	10194	_
+15	along with	along with	_	IN	_	10	ADV	_	10
+16	another	another	_	DT	_	17	NMOD	10193	_
+17	person	person	_	NN	_	15	PMOD	10193	_
+18	whose	whose	_	WP$	_	19	NMOD	10202	_
+19	arms	arm	_	NNS	_	20	SBJ	10202	_
+20	are	be	_	VBP	_	17	NMOD	_	_
+21	seen	see	_	VBN	_	20	VC	_	_
+22	holding	hold	_	VBG	_	21	OPRD	_	_
+23	the	the	_	DT	_	24	NMOD	10194	_
+24	bowl	bowl	_	NN	_	22	OBJ	10194	_
+25	and	and	_	CC	_	24	COORD	_	_
+26	tool	tool	_	NN	_	25	CONJ	10201	_
+27	.	.	_	.	_	0	ROOT	_	_

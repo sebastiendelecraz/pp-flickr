@@ -1,0 +1,11 @@
+1	A	a	_	DT	_	3	NMOD	253959	_
+2	little	little	_	JJ	_	3	NMOD	253959	_
+3	girl	girl	_	NN	_	0	ROOT	253959	_
+4	on	on	_	IN	_	3	NMOD	_	3
+5	a	a	_	DT	_	7	NMOD	253960	_
+6	blue	blue	_	JJ	_	7	NMOD	253960	_
+7	slide	slide	_	NN	_	4	PMOD	253960	_
+8	at	at	_	IN	_	7	LOC	_	_
+9	a	a	_	DT	_	10	NMOD	253963	_
+10	playground	playground	_	NN	_	8	PMOD	253963	_
+11	.	.	_	.	_	0	ROOT	_	_

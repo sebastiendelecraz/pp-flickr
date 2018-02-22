@@ -1,0 +1,13 @@
+1	A	a	_	DT	_	2	NMOD	274426	_
+2	man	man	_	NN	_	3	SBJ	274426	_
+3	frolics	frolic	_	VBZ	_	0	ROOT	_	_
+4	in	in	_	IN	_	3	LOC	_	_
+5	the	the	_	DT	_	7	NMOD	274429	_
+6	golden	golden	_	JJ	_	7	NMOD	274429	_
+7	surf	surf	_	NN	_	4	PMOD	274429	_
+8	along	along	_	IN	_	7	LOC	_	3
+9	a	a	_	DT	_	10	NMOD	274427	_
+10	beach	beach	_	NN	_	8	PMOD	274427	_
+11	at	at	_	IN	_	12	AMOD	_	_
+12	sunset	sunset	_	JJ	_	3	OPRD	274428	_
+13	.	.	_	.	_	3	P	_	_

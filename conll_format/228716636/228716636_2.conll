@@ -1,0 +1,17 @@
+1	A	a	_	DT	_	2	NMOD	39102	_
+2	man	man	_	NN	_	7	SBJ	39102	_
+3	in	in	_	IN	_	2	LOC	_	2
+4	a	a	_	DT	_	6	NMOD	39103	_
+5	blue	blue	_	JJ	_	6	NMOD	39103	_
+6	hat	hat	_	NN	_	3	PMOD	39103	_
+7	has	have	_	VBZ	_	0	ROOT	_	_
+8	his	his	_	PRP$	_	9	NMOD	39106	_
+9	foot	foot	_	NN	_	7	OBJ	39106	_
+10	on	on	_	IN	_	7	LOC	_	_
+11	the	the	_	DT	_	13	NMOD	39107	_
+12	front	front	_	NN	_	13	NMOD	39107	_
+13	bumper	bumper	_	NN	_	10	PMOD	39107	_
+14	of	of	_	IN	_	13	NMOD	39107	_
+15	a	a	_	DT	_	16	NMOD	39107	_
+16	van	van	_	NN	_	14	PMOD	39107	_
+17	.	.	_	.	_	7	P	_	_

@@ -1,0 +1,12 @@
+1	People	People	_	NNPS	_	0	ROOT	187792	_
+2	crossing	cross	_	VBG	_	0	ROOT	_	_
+3	the	the	_	DT	_	4	NMOD	187801	_
+4	street	street	_	NN	_	2	OBJ	187801	_
+5	in	in	_	IN	_	2	LOC	_	2
+6	a	a	_	DT	_	9	NMOD	187794	_
+7	busy	busy	_	JJ	_	9	NMOD	187794	_
+8	downtown	downtown	_	NN	_	9	NMOD	187794	_
+9	area	area	_	NN	_	5	PMOD	187794	_
+10	with	with	_	IN	_	9	NMOD	_	_
+11	backpacks	backpack	_	NNS	_	10	PMOD	187802	_
+12	.	.	_	.	_	0	ROOT	_	_

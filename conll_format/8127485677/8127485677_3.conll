@@ -1,0 +1,11 @@
+1	Two	Two	_	CD	_	3	NMOD	279335	_
+2	soccer	soccer	_	NN	_	3	NMOD	279335	_
+3	players	player	_	NNS	_	4	SBJ	279335	_
+4	fighting	fight	_	VBG	_	0	ROOT	_	_
+5	over	over	_	IN	_	4	ADV	_	4
+6	possession	possession	_	NN	_	5	PMOD	279345	_
+7	of	of	_	IN	_	6	NMOD	279345	_
+8	the	the	_	DT	_	10	NMOD	279345	_
+9	soccer	soccer	_	NN	_	10	NMOD	279345	_
+10	ball	ball	_	NN	_	7	PMOD	279345	_
+11	.	.	_	.	_	0	ROOT	_	_

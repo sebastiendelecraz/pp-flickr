@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	4	NMOD	91380	_
+2	young	young	_	JJ	_	4	NMOD	91380	_
+3	boy	boy	_	NN	_	4	NMOD	91380	_
+4	paddles	paddle	_	NNS	_	0	ROOT	_	_
+5	across	across	_	IN	_	4	LOC	_	4
+6	the	the	_	DT	_	7	NMOD	91382	_
+7	water	water	_	NN	_	5	PMOD	91382	_
+8	in	in	_	IN	_	4	LOC	_	_
+9	a	a	_	DT	_	11	NMOD	91381	_
+10	makeshift	makeshift	_	JJ	_	11	NMOD	91381	_
+11	boat	boat	_	NN	_	8	PMOD	91381	_
+12	.	.	_	.	_	0	ROOT	_	_

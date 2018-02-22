@@ -1,0 +1,9 @@
+1	Three	Three	_	CD	_	2	NMOD	137234	_
+2	dogs	dog	_	NNS	_	0	ROOT	137234	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	the	the	_	DT	_	5	NMOD	137237	_
+5	snow	snow	_	NN	_	3	PMOD	137237	_
+6	by	by	_	IN	_	2	NMOD	_	2
+7	a	a	_	DT	_	8	NMOD	137236	_
+8	fence	fence	_	NN	_	6	PMOD	137236	_
+9	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	A	a	_	DT	_	2	NMOD	65224	_
+2	group	group	_	NN	_	0	ROOT	65224	_
+3	of	of	_	IN	_	2	NMOD	65224	_
+4	children	child	_	NNS	_	3	PMOD	65224	_
+5	climbing	climb	_	VBG	_	4	APPO	_	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	65225	_
+8	statue	statue	_	NN	_	6	PMOD	65225	_
+9	of	of	_	IN	_	8	NMOD	65225	8
+10	a	a	_	DT	_	11	NMOD	65225	_
+11	bear	bear	_	NN	_	9	PMOD	65225	_
+12	.	.	_	.	_	0	ROOT	_	_

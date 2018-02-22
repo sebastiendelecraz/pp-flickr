@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	2	NMOD	174211	_
+2	couple	couple	_	NN	_	3	SBJ	174211	_
+3	taking	take	_	VBG	_	0	ROOT	_	_
+4	there	there	_	EX	_	5	SBJ	174209	_
+5	dogs	dog	_	VBZ	_	3	OBJ	174209	_
+6	on	on	_	IN	_	5	ADV	_	_
+7	a	a	_	DT	_	8	NMOD	174216	_
+8	walk	walk	_	NN	_	6	PMOD	174216	_
+9	through	through	_	IN	_	5	DIR	_	3
+10	the	the	_	DT	_	11	NMOD	174213	_
+11	park	park	_	NN	_	9	PMOD	174213	_
+12	.	.	_	.	_	0	ROOT	_	_

@@ -1,0 +1,12 @@
+1	a	a	_	DT	_	3	NMOD	4568	_
+2	brown	brown	_	JJ	_	3	NMOD	4568	_
+3	dog	dog	_	NN	_	4	SBJ	4568	_
+4	jumping	jump	_	VBG	_	0	ROOT	_	_
+5	into	into	_	IN	_	4	DIR	_	4
+6	a	a	_	DT	_	7	NMOD	4569	_
+7	pool	pool	_	NN	_	5	PMOD	4569	_
+8	after	after	_	IN	_	4	TMP	_	4
+9	a	a	_	DT	_	11	NMOD	4571	_
+10	bloe	bloe	_	CD	_	11	NMOD	4571	_
+11	ball	ball	_	NN	_	8	PMOD	4571	_
+12	.	.	_	.	_	0	ROOT	_	_

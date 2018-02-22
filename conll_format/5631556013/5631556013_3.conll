@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	3	NMOD	240045	_
+2	young	young	_	JJ	_	3	NMOD	240045	_
+3	man	man	_	NN	_	7	SBJ	240045	_
+4	wearing	wear	_	VBG	_	3	APPO	_	_
+5	only	only	_	RB	_	6	NMOD	240050	_
+6	shorts	short	_	NNS	_	4	OBJ	240050	_
+7	is	be	_	VBZ	_	0	ROOT	_	_
+8	jumping	jump	_	VBG	_	7	VC	_	_
+9	from	from	_	IN	_	8	ADV	_	8
+10	the	the	_	DT	_	11	NMOD	240051	_
+11	pier	pier	_	NN	_	9	PMOD	240051	_
+12	into	into	_	IN	_	8	DIR	_	8
+13	the	the	_	DT	_	14	NMOD	240046	_
+14	water	water	_	NN	_	12	PMOD	240046	_
+15	.	.	_	.	_	7	P	_	_

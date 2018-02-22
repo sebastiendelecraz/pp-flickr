@@ -1,0 +1,11 @@
+1	An	an	_	DT	_	3	NMOD	61316	_
+2	elderly	elderly	_	NN	_	3	NMOD	61316	_
+3	man	man	_	NN	_	0	ROOT	61316	_
+4	sitting	sit	_	VBG	_	3	APPO	_	_
+5	on	on	_	IN	_	4	ADV	_	4
+6	a	a	_	DT	_	7	NMOD	61317	_
+7	bench	bench	_	NN	_	5	PMOD	61317	_
+8	near	near	_	IN	_	7	LOC	_	4
+9	the	the	_	DT	_	10	NMOD	61318	_
+10	water	water	_	NN	_	8	PMOD	61318	_
+11	.	.	_	.	_	0	ROOT	_	_

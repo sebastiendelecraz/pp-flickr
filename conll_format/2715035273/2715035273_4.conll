@@ -1,0 +1,9 @@
+1	Women	woman	_	NNS	_	2	SBJ	68155	_
+2	are	be	_	VBP	_	0	ROOT	_	_
+3	walking	walk	_	VBG	_	2	VC	_	_
+4	at	at	_	IN	_	3	ADV	_	_
+5	night	night	_	NN	_	4	PMOD	68160	_
+6	under	under	_	IN	_	3	LOC	_	3
+7	neon	neon	_	NN	_	8	NMOD	68158	_
+8	lights	light	_	NNS	_	6	PMOD	68158	_
+9	.	.	_	.	_	2	P	_	_

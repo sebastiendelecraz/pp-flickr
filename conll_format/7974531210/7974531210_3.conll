@@ -1,0 +1,15 @@
+1	A	a	_	DT	_	4	NMOD	277127	_
+2	dirt	dirt	_	NN	_	4	NMOD	277127	_
+3	bike	bike	_	NN	_	4	NMOD	277127	_
+4	racer	racer	_	NN	_	5	SBJ	277127	_
+5	rides	ride	_	VBZ	_	0	ROOT	_	_
+6	number	number	_	NN	_	7	NMOD	277134	_
+7	63	63	_	CD	_	5	OBJ	277134	_
+8	across	across	_	IN	_	5	LOC	_	5
+9	a	a	_	DT	_	11	NMOD	277129	_
+10	dirt	dirt	_	NN	_	11	NMOD	277129	_
+11	path	path	_	NN	_	8	PMOD	277129	_
+12	in	in	_	IN	_	11	LOC	_	_
+13	the	the	_	DT	_	14	NMOD	277132	_
+14	woods	wood	_	NNS	_	12	PMOD	277132	_
+15	.	.	_	.	_	5	P	_	_

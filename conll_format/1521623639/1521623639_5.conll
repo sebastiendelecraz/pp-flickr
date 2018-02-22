@@ -1,0 +1,9 @@
+1	Bum	Bum	_	NNP	_	2	SBJ	15587	_
+2	sitting	sit	_	VBG	_	0	ROOT	_	_
+3	on	on	_	IN	_	2	ADV	_	_
+4	a	a	_	DT	_	5	NMOD	15589	_
+5	couch	couch	_	NN	_	3	PMOD	15589	_
+6	next to	next to	_	IN	_	2	LOC	_	2
+7	a	a	_	DT	_	8	NMOD	15588	_
+8	bridge	bridge	_	NN	_	6	PMOD	15588	_
+9	.	.	_	.	_	0	ROOT	_	_

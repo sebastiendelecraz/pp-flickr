@@ -1,0 +1,21 @@
+1	A	a	_	DT	_	2	NMOD	170372	_
+2	male	male	_	JJ	_	0	ROOT	170372	_
+3	in	in	_	IN	_	2	LOC	_	_
+4	a	a	_	DT	_	5	NMOD	170377	_
+5	suit	suit	_	NN	_	3	PMOD	170377	_
+6	holding	hold	_	VBG	_	5	APPO	_	_
+7	a	a	_	DT	_	8	NMOD	170373	_
+8	beverage	beverage	_	NN	_	6	OBJ	170373	_
+9	in	in	_	IN	_	6	LOC	_	6
+10	a	a	_	DT	_	11	NMOD	170373	_
+11	cup	cup	_	NN	_	9	PMOD	170373	_
+12	walking	walk	_	VBG	_	6	OPRD	_	_
+13	down	down	_	RP	_	12	PRT	_	_
+14	the	the	_	DT	_	15	NMOD	170375	_
+15	sidewalk	sidewalk	_	NN	_	12	OBJ	170375	_
+16	,	,	_	,	_	6	P	_	_
+17	next to	next to	_	IN	_	6	ADV	_	12
+18	a	a	_	DT	_	20	NMOD	170374	_
+19	city	city	_	NN	_	20	NMOD	170374	_
+20	bus	bus	_	NN	_	17	PMOD	170374	_
+21	.	.	_	.	_	0	ROOT	_	_
