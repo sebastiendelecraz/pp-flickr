@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	111743	_
-2	man	man	_	NN	_	0	ROOT	111743	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	orange	orange	_	JJ	_	5	NMOD	111747	_
-5	working	working	_	NN	_	3	PMOD	_	_
-6	under	under	_	IN	_	2	LOC	_	5
-7	dim	dim	_	JJ	_	8	NMOD	111749	_
-8	lighting	lighting	_	NN	_	6	PMOD	111749	_
-9	.	.	_	.	_	0	ROOT	_	_

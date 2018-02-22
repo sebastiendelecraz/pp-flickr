@@ -1,7 +1,0 @@
-1	Dog	Dog	_	NNP	_	2	SBJ	74218	_
-2	runs	run	_	VBZ	_	0	ROOT	_	_
-3	through	through	_	IN	_	2	MNR	_	2
-4	trees	tree	_	NNS	_	3	PMOD	74219	_
-5	toward	toward	_	IN	_	4	NMOD	_	2
-6	camera	camera	_	NN	_	5	PMOD	74221	_
-7	.	.	_	.	_	2	P	_	_

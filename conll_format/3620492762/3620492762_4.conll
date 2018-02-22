@@ -1,8 +1,0 @@
-1	Man	Man	_	NNP	_	3	NMOD	132093	_
-2	riding	ride	_	VBG	_	3	NMOD	_	_
-3	motorcycle	motorcycle	_	NN	_	0	ROOT	132094	_
-4	through	through	_	IN	_	3	NMOD	_	2
-5	pile	pile	_	NN	_	4	PMOD	132095	_
-6	of	of	_	IN	_	5	NMOD	132095	_
-7	dirt	dirt	_	NN	_	6	PMOD	132095	_
-8	.	.	_	.	_	0	ROOT	_	_

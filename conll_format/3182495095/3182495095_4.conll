@@ -1,9 +1,0 @@
-1	children	child	_	NNS	_	2	SBJ	99046	_
-2	sit	sit	_	VBP	_	0	ROOT	_	_
-3	on top of	on top of	_	IN	_	2	ADV	_	2
-4	somebody	somebody	_	NN	_	3	PMOD	99048	_
-5	in	in	_	IN	_	2	LOC	_	4
-6	a	a	_	DT	_	8	NMOD	99049	_
-7	banana	banana	_	NN	_	8	NMOD	99049	_
-8	suit	suit	_	NN	_	5	PMOD	99049	_
-9	.	.	_	.	_	2	P	_	_

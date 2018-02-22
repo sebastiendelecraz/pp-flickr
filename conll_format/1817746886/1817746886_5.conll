@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	21391	_
-2	girl	girl	_	NN	_	0	ROOT	21391	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	a	a	_	DT	_	5	NMOD	21398	_
-5	jacket	jacket	_	NN	_	3	PMOD	21398	_
-6	on	on	_	IN	_	2	NMOD	_	2
-7	a	a	_	DT	_	8	NMOD	21392	_
-8	bed	bed	_	NN	_	6	PMOD	21392	_
-9	.	.	_	.	_	0	ROOT	_	_

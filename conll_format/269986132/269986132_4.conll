@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	66881	_
-2	group	group	_	NN	_	0	ROOT	66881	_
-3	of	of	_	IN	_	2	NMOD	66881	_
-4	soccer	soccer	_	NN	_	5	NMOD	66881	_
-5	players	player	_	NNS	_	3	PMOD	66881	_
-6	after	after	_	IN	_	2	TMP	_	2
-7	a	a	_	DT	_	8	NMOD	66883	_
-8	ball	ball	_	NN	_	6	PMOD	66883	_
-9	.	.	_	.	_	0	ROOT	_	_

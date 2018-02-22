@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	3	NMOD	183064	_
-2	old	old	_	JJ	_	3	NMOD	183064	_
-3	women	woman	_	NNS	_	4	SBJ	183064	_
-4	sitting	sit	_	VBG	_	0	ROOT	_	_
-5	on	on	_	IN	_	4	ADV	_	_
-6	curb	curb	_	NN	_	5	PMOD	183065	_
-7	next to	next to	_	IN	_	4	LOC	_	4
-8	flowers	flower	_	NNS	_	7	PMOD	183066	_
-9	.	.	_	.	_	0	ROOT	_	_

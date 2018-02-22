@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	261846	_
-2	dog	dog	_	NN	_	0	ROOT	261846	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	the	the	_	DT	_	5	NMOD	261850	_
-5	grass	grass	_	NN	_	3	PMOD	261850	_
-6	in front of	in front of	_	IN	_	2	NMOD	_	2
-7	a	a	_	DT	_	8	NMOD	261849	_
-8	building	building	_	NN	_	6	PMOD	261849	_
-9	.	.	_	.	_	0	ROOT	_	_

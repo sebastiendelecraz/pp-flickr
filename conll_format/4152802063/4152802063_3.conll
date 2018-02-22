@@ -1,9 +1,0 @@
-1	Tourist	Tourist	_	NNP	_	3	NMOD	157211	_
-2	taken	take	_	VBN	_	3	NMOD	157211	_
-3	pictures	picture	_	NNS	_	0	ROOT	157211	_
-4	at	at	_	IN	_	3	LOC	_	2
-5	a	a	_	DT	_	6	NMOD	157209	_
-6	building	building	_	NN	_	4	PMOD	157209	_
-7	in	in	_	IN	_	6	LOC	_	3
-8	China	China	_	NNP	_	7	PMOD	157207	_
-9	.	.	_	.	_	0	ROOT	_	_

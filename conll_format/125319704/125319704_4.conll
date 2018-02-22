@@ -1,7 +1,0 @@
-1	Person	Person	_	NNP	_	2	SBJ	6428	_
-2	standing	stand	_	VBG	_	0	ROOT	_	_
-3	beside	beside	_	IN	_	2	ADV	_	2
-4	bike	bike	_	NN	_	3	PMOD	6429	_
-5	in	in	_	IN	_	2	LOC	_	_
-6	stream	stream	_	NN	_	5	PMOD	6426	_
-7	.	.	_	.	_	0	ROOT	_	_

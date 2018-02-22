@@ -1,8 +1,0 @@
-1	Construction	construction	_	NN	_	2	NMOD	56566	_
-2	workers	worker	_	NNS	_	3	SBJ	56566	_
-3	stand	stand	_	VBP	_	0	ROOT	_	_
-4	near	near	_	IN	_	3	LOC	_	3
-5	tracks	track	_	NNS	_	4	PMOD	56567	_
-6	at	at	_	IN	_	3	ADV	_	_
-7	night	night	_	NN	_	6	PMOD	56568	_
-8	.	.	_	.	_	3	P	_	_

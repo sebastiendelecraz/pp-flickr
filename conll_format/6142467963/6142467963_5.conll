@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	248560	_
-2	women	woman	_	NNS	_	3	SBJ	248560	_
-3	are	be	_	VBP	_	0	ROOT	_	_
-4	in	in	_	IN	_	3	LOC-PRD	_	3
-5	a	a	_	DT	_	6	NMOD	248563	_
-6	bubble	bubble	_	NN	_	4	PMOD	248563	_
-7	inside of	inside of	_	IN	_	3	ADV	_	3
-8	pool	pool	_	NN	_	7	PMOD	248561	_
-9	.	.	_	.	_	3	P	_	_

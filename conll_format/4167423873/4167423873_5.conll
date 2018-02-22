@@ -1,9 +1,0 @@
-1	Children	child	_	NNS	_	2	SBJ	157773	_
-2	stand	stand	_	VBP	_	0	ROOT	_	_
-3	under	under	_	IN	_	2	LOC	_	2
-4	an	an	_	DT	_	5	NMOD	157774	_
-5	umbrella	umbrella	_	NN	_	3	PMOD	157774	_
-6	in	in	_	IN	_	2	LOC	_	_
-7	a	a	_	DT	_	8	NMOD	157775	_
-8	river	river	_	NN	_	6	PMOD	157775	_
-9	.	.	_	.	_	2	P	_	_

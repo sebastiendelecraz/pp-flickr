@@ -1,8 +1,0 @@
-1	people	people	_	NN	_	0	ROOT	216909	_
-2	standing	stand	_	VBG	_	1	APPO	_	_
-3	at	at	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	5	NMOD	216911	_
-5	beach	beach	_	NN	_	3	PMOD	216911	_
-6	with	with	_	IN	_	5	NMOD	_	2
-7	Cameras	Cameras	_	NNPS	_	6	PMOD	216910	_
-8	.	.	_	.	_	0	ROOT	_	_

@@ -1,8 +1,0 @@
-1	Male	Male	_	NNP	_	2	NMOD	220353	_
-2	skateboarder	skateboarder	_	NN	_	3	SBJ	220353	_
-3	jumping	jump	_	VBG	_	0	ROOT	_	_
-4	over	over	_	IN	_	3	ADV	_	3
-5	steps	step	_	NNS	_	4	PMOD	220354	_
-6	during	during	_	IN	_	3	TMP	_	3
-7	dusk	dusk	_	NN	_	6	PMOD	220359	_
-8	.	.	_	.	_	0	ROOT	_	_

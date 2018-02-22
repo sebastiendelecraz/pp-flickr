@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	NAME	215691	_
-2	walking	walk	_	VBG	_	0	ROOT	_	_
-3	in	in	_	IN	_	2	LOC	_	2
-4	a	a	_	DT	_	5	NMOD	215695	_
-5	city	city	_	NN	_	3	PMOD	215695	_
-6	outside of	outside of	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	215692	_
-8	McDonalds	McDonalds	_	NNP	_	6	PMOD	215692	_
-9	.	.	_	.	_	0	ROOT	_	_

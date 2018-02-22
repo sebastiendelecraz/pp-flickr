@@ -1,9 +1,0 @@
-1	Man	Man	_	NNP	_	2	SBJ	196708	_
-2	is	be	_	VBZ	_	0	ROOT	_	_
-3	in	in	_	IN	_	2	LOC-PRD	_	2
-4	a	a	_	DT	_	5	NMOD	196707	_
-5	boat	boat	_	NN	_	3	PMOD	196707	_
-6	in	in	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	196714	_
-8	city	city	_	NN	_	6	PMOD	196714	_
-9	.	.	_	.	_	2	P	_	_

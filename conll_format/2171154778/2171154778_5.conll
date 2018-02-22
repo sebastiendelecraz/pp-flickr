@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	32134	_
-2	boy	boy	_	NN	_	0	ROOT	32134	_
-3	playing	play	_	VBG	_	2	APPO	_	_
-4	with	with	_	IN	_	3	ADV	_	_
-5	toys	toy	_	NNS	_	4	PMOD	32137	_
-6	in	in	_	IN	_	5	LOC	_	3
-7	a	a	_	DT	_	8	NMOD	32135	_
-8	bedroom	bedroom	_	NN	_	6	PMOD	32135	_
-9	.	.	_	.	_	0	ROOT	_	_

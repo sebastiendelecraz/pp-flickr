@@ -1,9 +1,0 @@
-1	kids	kid	_	NNS	_	2	SBJ	51570	_
-2	running	run	_	VBG	_	0	ROOT	_	_
-3	after	after	_	IN	_	2	TMP	_	2
-4	soccer	soccer	_	NN	_	5	NMOD	51573	_
-5	ball	ball	_	NN	_	3	PMOD	51573	_
-6	in	in	_	IN	_	2	LOC	_	_
-7	their	their	_	PRP$	_	8	NMOD	51574	_
-8	game	game	_	NN	_	6	PMOD	51574	_
-9	.	.	_	.	_	0	ROOT	_	_

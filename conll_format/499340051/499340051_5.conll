@@ -1,8 +1,0 @@
-1	male	male	_	JJ	_	2	NMOD	226428	_
-2	working	working	_	NN	_	0	ROOT	_	_
-3	on	on	_	IN	_	2	NMOD	_	_
-4	a	a	_	DT	_	5	NMOD	226429	_
-5	computer	computer	_	NN	_	3	PMOD	226429	_
-6	under	under	_	IN	_	2	LOC	_	2
-7	surveillance	surveillance	_	NN	_	6	PMOD	226437	_
-8	.	.	_	.	_	0	ROOT	_	_

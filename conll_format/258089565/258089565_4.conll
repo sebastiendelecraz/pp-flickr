@@ -1,9 +1,0 @@
-1	Strange	strange	_	JJ	_	2	NMOD	59486	_
-2	man	man	_	NN	_	0	ROOT	59486	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	interesting	interesting	_	JJ	_	6	NMOD	59489	_
-5	wardrobe	wardrobe	_	NN	_	6	NMOD	59489	_
-6	walks	walk	_	NNS	_	3	PMOD	_	_
-7	through	through	_	IN	_	2	MNR	_	6
-8	crowd	crowd	_	NN	_	7	PMOD	59493	_
-9	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	33373	_
-2	employees	employee	_	NNS	_	3	SBJ	33373	_
-3	working	work	_	VBG	_	0	ROOT	_	_
-4	at	at	_	IN	_	3	ADV	_	_
-5	a	a	_	DT	_	6	NMOD	33379	_
-6	restaurant	restaurant	_	NN	_	4	PMOD	33379	_
-7	during	during	_	IN	_	3	TMP	_	3
-8	Dinnertime	Dinnertime	_	NNP	_	7	PMOD	33381	_
-9	.	.	_	.	_	0	ROOT	_	_

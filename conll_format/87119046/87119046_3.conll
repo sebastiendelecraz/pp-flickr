@@ -1,9 +1,0 @@
-1	Grandparents	grandparent	_	NNS	_	0	ROOT	282571	_
-2	sitting	sit	_	VBG	_	1	APPO	_	_
-3	on	on	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	5	NMOD	282572	_
-5	bench	bench	_	NN	_	3	PMOD	282572	_
-6	with	with	_	IN	_	2	ADV	_	_
-7	their	their	_	PRP$	_	8	NMOD	282570	_
-8	grandchild	grandchild	_	NN	_	6	PMOD	282570	_
-9	.	.	_	.	_	0	ROOT	_	_

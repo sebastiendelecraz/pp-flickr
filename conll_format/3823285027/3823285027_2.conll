@@ -1,9 +1,0 @@
-1	Children	child	_	NNS	_	2	SBJ	144165	_
-2	recite	recite	_	VBP	_	0	ROOT	_	_
-3	something	something	_	NN	_	2	OBJ	144167	_
-4	from	from	_	IN	_	3	NMOD	_	3
-5	white	white	_	JJ	_	6	NMOD	144166	_
-6	sheet	sheet	_	NN	_	4	PMOD	144166	_
-7	of	of	_	IN	_	6	NMOD	144166	_
-8	paper	paper	_	NN	_	7	PMOD	144166	_
-9	.	.	_	.	_	2	P	_	_

@@ -1,9 +1,0 @@
-1	Man	Man	_	NNP	_	2	NMOD	283298	_
-2	chops	chop	_	NNS	_	0	ROOT	283298	_
-3	up	up	_	IN	_	2	NMOD	_	2
-4	an	an	_	DT	_	5	NMOD	283300	_
-5	onion	onion	_	NN	_	3	PMOD	283300	_
-6	in	in	_	IN	_	5	LOC	_	_
-7	the	the	_	DT	_	8	NMOD	283293	_
-8	kitchen	kitchen	_	NN	_	6	PMOD	283293	_
-9	.	.	_	.	_	0	ROOT	_	_

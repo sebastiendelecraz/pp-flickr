@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	227907	_
-2	couple	couple	_	NN	_	0	ROOT	227907	_
-3	outside	outside	_	IN	_	2	LOC	_	2
-4	a	a	_	DT	_	5	NMOD	227908	_
-5	church	church	_	NN	_	3	PMOD	227908	_
-6	after	after	_	IN	_	2	TMP	_	2
-7	a	a	_	DT	_	8	NMOD	227912	_
-8	wedding	wedding	_	NN	_	6	PMOD	227912	_
-9	.	.	_	.	_	0	ROOT	_	_

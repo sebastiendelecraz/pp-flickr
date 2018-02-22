@@ -1,7 +1,0 @@
-1	Dog	Dog	_	NNP	_	2	SBJ	25985	_
-2	runs	run	_	VBZ	_	0	ROOT	_	_
-3	through	through	_	IN	_	2	ADV	_	2
-4	field	field	_	NN	_	3	PMOD	25986	_
-5	of	of	_	IN	_	4	NMOD	25986	_
-6	flowers	flower	_	NNS	_	5	PMOD	25986	_
-7	.	.	_	.	_	2	P	_	_

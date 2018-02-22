@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	229189	_
-2	girl	girl	_	NN	_	0	ROOT	229189	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	red	red	_	JJ	_	5	NMOD	229191	_
-5	sits	sit	_	NNS	_	3	PMOD	_	_
-6	near	near	_	IN	_	2	LOC	_	5
-7	a	a	_	DT	_	8	NMOD	229190	_
-8	fountain	fountain	_	NN	_	6	PMOD	229190	_
-9	.	.	_	.	_	0	ROOT	_	_

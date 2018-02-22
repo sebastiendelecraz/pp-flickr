@@ -1,7 +1,0 @@
-1	Women	woman	_	NNS	_	0	ROOT	198639	_
-2	in	in	_	IN	_	1	NMOD	_	_
-3	market	market	_	NN	_	2	PMOD	198642	_
-4	behind	behind	_	IN	_	1	NMOD	_	1
-5	flower	flower	_	NN	_	6	NMOD	198645	_
-6	stand	stand	_	NN	_	4	PMOD	_	_
-7	.	.	_	.	_	0	ROOT	_	_

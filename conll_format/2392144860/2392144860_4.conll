@@ -1,9 +1,0 @@
-1	Four	Four	_	CD	_	2	NMOD	46022	_
-2	girls	girl	_	NNS	_	3	SBJ	46022	_
-3	look	look	_	VBP	_	0	ROOT	_	_
-4	at	at	_	IN	_	3	ADV	_	_
-5	objects	object	_	NNS	_	4	PMOD	46025	_
-6	under	under	_	IN	_	3	LOC	_	5
-7	a	a	_	DT	_	8	NMOD	46024	_
-8	microscope	microscope	_	NN	_	6	PMOD	46024	_
-9	.	.	_	.	_	3	P	_	_

@@ -1,9 +1,0 @@
-1	Kids	kid	_	NNS	_	0	ROOT	208084	_
-2	riding	ride	_	VBG	_	1	APPO	_	_
-3	behind	behind	_	IN	_	2	LOC	_	2
-4	an	an	_	DT	_	5	NMOD	208086	_
-5	adult	adult	_	NN	_	3	PMOD	208086	_
-6	on	on	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	208085	_
-8	bike	bike	_	NN	_	6	PMOD	208085	_
-9	.	.	_	.	_	0	ROOT	_	_

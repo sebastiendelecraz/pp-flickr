@@ -1,9 +1,0 @@
-1	Woman	Woman	_	NNP	_	3	NMOD	244224	_
-2	buying	buy	_	VBG	_	3	NMOD	_	_
-3	cups	cup	_	NNS	_	0	ROOT	244228	_
-4	of	of	_	IN	_	3	NMOD	244228	_
-5	fruit	fruit	_	NN	_	4	PMOD	244228	_
-6	from	from	_	IN	_	3	NMOD	_	2
-7	street	street	_	NN	_	8	NMOD	244227	_
-8	vendor	vendor	_	NN	_	6	PMOD	244227	_
-9	.	.	_	.	_	0	ROOT	_	_

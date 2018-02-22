@@ -1,8 +1,0 @@
-1	Woman	Woman	_	NNP	_	2	SBJ	179977	_
-2	standing	stand	_	VBG	_	0	ROOT	_	_
-3	inside	inside	_	IN	_	2	LOC	_	2
-4	a	a	_	DT	_	5	NMOD	179978	_
-5	window	window	_	NN	_	3	PMOD	179978	_
-6	with	with	_	IN	_	5	NMOD	_	_
-7	artwork	artwork	_	NN	_	6	PMOD	179979	_
-8	.	.	_	.	_	0	ROOT	_	_

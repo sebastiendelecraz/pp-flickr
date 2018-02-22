@@ -1,9 +1,0 @@
-1	Angry	Angry	_	NNP	_	2	NMOD	179041	_
-2	people	people	_	NN	_	3	SBJ	179041	_
-3	are	be	_	VBP	_	0	ROOT	_	_
-4	protesting	protest	_	VBG	_	3	VC	_	_
-5	for	for	_	IN	_	4	ADV	_	4
-6	jobs	job	_	NNS	_	5	PMOD	179042	_
-7	with	with	_	IN	_	6	NMOD	_	_
-8	justice	justice	_	NN	_	7	PMOD	179043	_
-9	.	.	_	.	_	3	P	_	_

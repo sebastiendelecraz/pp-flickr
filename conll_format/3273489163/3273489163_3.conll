@@ -1,8 +1,0 @@
-1	People	People	_	NNPS	_	2	NAME	106080	_
-2	waiting	wait	_	VBG	_	0	ROOT	_	_
-3	for	for	_	IN	_	2	ADV	_	2
-4	train	train	_	NN	_	3	PMOD	106082	_
-5	on	on	_	IN	_	4	NMOD	_	_
-6	tiled	tile	_	VBN	_	7	NMOD	106081	_
-7	platform	platform	_	NN	_	5	PMOD	106081	_
-8	.	.	_	.	_	0	ROOT	_	_

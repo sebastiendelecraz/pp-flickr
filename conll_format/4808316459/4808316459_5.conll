@@ -1,9 +1,0 @@
-1	a	a	_	DT	_	2	NMOD	205099	_
-2	man	man	_	NN	_	0	ROOT	205099	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	green	green	_	JJ	_	5	NMOD	205110	_
-5	pants	pant	_	NNS	_	3	PMOD	205110	_
-6	on	on	_	IN	_	2	NMOD	_	2
-7	a	a	_	DT	_	8	NMOD	205102	_
-8	bicycle	bicycle	_	NN	_	6	PMOD	205102	_
-9	.	.	_	.	_	0	ROOT	_	_

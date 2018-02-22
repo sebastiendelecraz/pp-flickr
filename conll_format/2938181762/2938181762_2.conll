@@ -1,8 +1,0 @@
-1	small	small	_	JJ	_	2	NMOD	82736	_
-2	child	child	_	NN	_	0	ROOT	82736	_
-3	playing	play	_	VBG	_	2	APPO	_	_
-4	in	in	_	IN	_	3	LOC	_	_
-5	grass	grass	_	NN	_	4	PMOD	82740	_
-6	near	near	_	IN	_	3	LOC	_	3
-7	sprinklers	sprinkler	_	NNS	_	6	PMOD	82742	_
-8	.	.	_	.	_	0	ROOT	_	_

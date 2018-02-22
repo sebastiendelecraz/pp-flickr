@@ -1,9 +1,0 @@
-1	people	people	_	NN	_	2	SBJ	192669	_
-2	are	be	_	VBP	_	0	ROOT	_	_
-3	sitting	sit	_	VBG	_	2	VC	_	_
-4	on	on	_	IN	_	3	ADV	_	3
-5	a	a	_	DT	_	6	NMOD	192670	_
-6	bench	bench	_	NN	_	4	PMOD	192670	_
-7	in front of	in front of	_	IN	_	3	LOC	_	_
-8	buildings	building	_	NNS	_	7	PMOD	192674	_
-9	.	.	_	.	_	2	P	_	_

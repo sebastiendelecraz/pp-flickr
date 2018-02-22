@@ -1,9 +1,0 @@
-1	Children	child	_	NNS	_	2	SBJ	163978	_
-2	sit	sit	_	VBP	_	0	ROOT	_	_
-3	on	on	_	IN	_	2	ADV	_	_
-4	a	a	_	DT	_	5	NMOD	163980	_
-5	wall	wall	_	NN	_	3	PMOD	163980	_
-6	inside	inside	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	163979	_
-8	cemetery	cemetery	_	NN	_	6	PMOD	163979	_
-9	.	.	_	.	_	2	P	_	_

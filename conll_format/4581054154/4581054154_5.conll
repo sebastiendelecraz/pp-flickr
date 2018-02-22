@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	180280	_
-2	man	man	_	NN	_	3	SBJ	180280	_
-3	hopping	hop	_	VBG	_	0	ROOT	_	_
-4	across	across	_	IN	_	3	DIR	_	3
-5	rocks	rock	_	NNS	_	4	PMOD	180282	_
-6	in	in	_	IN	_	3	LOC	_	_
-7	a	a	_	DT	_	8	NMOD	180281	_
-8	river	river	_	NN	_	6	PMOD	180281	_
-9	.	.	_	.	_	0	ROOT	_	_

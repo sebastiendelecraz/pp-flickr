@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	153547	_
-2	man	man	_	NN	_	3	SBJ	153547	_
-3	hammering	hammer	_	VBG	_	0	ROOT	_	_
-4	in	in	_	IN	_	3	LOC	_	_
-5	nails	nail	_	NNS	_	4	PMOD	153551	_
-6	on	on	_	IN	_	3	ADV	_	3
-7	a	a	_	DT	_	8	NMOD	153548	_
-8	building	building	_	NN	_	6	PMOD	153548	_
-9	.	.	_	.	_	0	ROOT	_	_

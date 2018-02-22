@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	91583	_
-2	boy	boy	_	NN	_	3	SBJ	91583	_
-3	kicks	kick	_	VBZ	_	0	ROOT	_	_
-4	through	through	_	IN	_	3	ADV	_	3
-5	a	a	_	DT	_	6	NMOD	91585	_
-6	pile	pile	_	NN	_	4	PMOD	91585	_
-7	of	of	_	IN	_	6	NMOD	91585	_
-8	leaves	leaf	_	NNS	_	7	PMOD	91585	_
-9	.	.	_	.	_	3	P	_	_

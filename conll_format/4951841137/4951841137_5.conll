@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	3	NMOD	222560	_
-2	quiet	quiet	_	JJ	_	3	NMOD	222560	_
-3	marina	marina	_	NN	_	0	ROOT	222560	_
-4	with	with	_	IN	_	3	NMOD	_	3
-5	a	a	_	DT	_	6	NMOD	222556	_
-6	handful	handful	_	NN	_	4	PMOD	222556	_
-7	of	of	_	IN	_	6	NMOD	222556	_
-8	people	people	_	NN	_	7	PMOD	222556	_
-9	.	.	_	.	_	0	ROOT	_	_

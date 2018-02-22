@@ -1,9 +1,0 @@
-1	Group	Group	_	NNP	_	6	SBJ	29587	_
-2	of	of	_	IN	_	1	NMOD	29587	_
-3	women	woman	_	NNS	_	2	PMOD	29587	_
-4	in	in	_	IN	_	3	LOC	_	1
-5	HSBC	HSBC	_	NNP	_	4	PMOD	29588	_
-6	shirts	shirt	_	VBZ	_	0	ROOT	29588	_
-7	preparing	prepare	_	VBG	_	8	NMOD	_	_
-8	pastries	pastry	_	NNS	_	6	OBJ	29590	_
-9	.	.	_	.	_	6	P	_	_

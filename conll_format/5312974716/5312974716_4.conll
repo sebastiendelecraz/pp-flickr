@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	233473	_
-2	man	man	_	NN	_	0	ROOT	233473	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	orange	orange	_	JJ	_	5	NMOD	233477	_
-5	snowboarding	snowboarding	_	NN	_	3	PMOD	_	_
-6	away from	away from	_	IN	_	2	NMOD	_	5
-7	the	the	_	DT	_	8	NMOD	0	_
-8	camera	camera	_	NN	_	6	PMOD	0	_
-9	.	.	_	.	_	0	ROOT	_	_

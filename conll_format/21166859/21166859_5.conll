@@ -1,9 +1,0 @@
-1	a	a	_	DT	_	2	NMOD	29668	_
-2	band	band	_	NN	_	3	SBJ	29668	_
-3	playing	play	_	VBG	_	0	ROOT	_	_
-4	on	on	_	IN	_	3	ADV	_	_
-5	stage	stage	_	NN	_	4	PMOD	29670	_
-6	for	for	_	IN	_	5	NMOD	_	3
-7	a	a	_	DT	_	8	NMOD	29669	_
-8	crowd	crowd	_	NN	_	6	PMOD	29669	_
-9	.	.	_	.	_	0	ROOT	_	_

@@ -1,7 +1,0 @@
-1	Woman	Woman	_	NNP	_	2	SBJ	280150	_
-2	running	run	_	VBG	_	0	ROOT	_	_
-3	through	through	_	IN	_	2	DIR	_	2
-4	field	field	_	NN	_	3	PMOD	280151	_
-5	in	in	_	IN	_	2	MNR	_	_
-6	rain	rain	_	NN	_	5	PMOD	280152	_
-7	.	.	_	.	_	0	ROOT	_	_

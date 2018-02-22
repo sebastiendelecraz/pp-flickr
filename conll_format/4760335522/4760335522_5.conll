@@ -1,9 +1,0 @@
-1	Pedestrians	pedestrian	_	NNS	_	2	SBJ	199912	_
-2	walking	walk	_	VBG	_	0	ROOT	_	_
-3	past	past	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	6	NMOD	199909	_
-5	50	50	_	CD	_	6	NMOD	199909	_
-6	%	%	_	NN	_	3	PMOD	199909	_
-7	off	off	_	IN	_	2	ADV	_	6
-8	sale	sale	_	NN	_	7	PMOD	199915	_
-9	.	.	_	.	_	0	ROOT	_	_

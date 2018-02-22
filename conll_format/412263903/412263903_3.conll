@@ -1,8 +1,0 @@
-1	Young	Young	_	NNP	_	2	NMOD	156331	_
-2	children	child	_	NNS	_	0	ROOT	156331	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	silhouette	silhouette	_	NN	_	5	NMOD	156339	_
-5	play	play	_	NN	_	3	PMOD	_	_
-6	near	near	_	IN	_	5	LOC	_	5
-7	water	water	_	NN	_	6	PMOD	156332	_
-8	.	.	_	.	_	0	ROOT	_	_

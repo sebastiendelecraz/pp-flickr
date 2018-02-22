@@ -1,9 +1,0 @@
-1	four	four	_	CD	_	2	NMOD	263685	_
-2	girls	girl	_	NNS	_	3	SBJ	263685	_
-3	running	run	_	VBG	_	0	ROOT	_	_
-4	through	through	_	IN	_	3	MNR	_	3
-5	water	water	_	NN	_	4	PMOD	263679	_
-6	on	on	_	IN	_	3	ADV	_	_
-7	a	a	_	DT	_	8	NMOD	263678	_
-8	track	track	_	NN	_	6	PMOD	263678	_
-9	.	.	_	.	_	0	ROOT	_	_

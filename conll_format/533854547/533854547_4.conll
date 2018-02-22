@@ -1,9 +1,0 @@
-1	Three	Three	_	CD	_	2	NMOD	233999	_
-2	kids	kid	_	NNS	_	3	SBJ	233999	_
-3	play	play	_	VBP	_	0	ROOT	_	_
-4	in	in	_	IN	_	3	LOC	_	_
-5	a	a	_	DT	_	6	NMOD	234001	_
-6	park	park	_	NN	_	4	PMOD	234001	_
-7	near	near	_	IN	_	6	LOC	_	3
-8	ducks	duck	_	NNS	_	7	PMOD	234000	_
-9	.	.	_	.	_	3	P	_	_

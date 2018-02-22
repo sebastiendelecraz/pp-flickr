@@ -1,9 +1,0 @@
-1	Male	Male	_	NNP	_	3	NMOD	237142	_
-2	bass	bass	_	NN	_	3	NMOD	237142	_
-3	player	player	_	NN	_	0	ROOT	237142	_
-4	on	on	_	IN	_	3	NMOD	_	_
-5	stage	stage	_	NN	_	4	PMOD	237146	_
-6	at	at	_	IN	_	3	LOC	_	3
-7	a	a	_	DT	_	8	NMOD	237144	_
-8	concert	concert	_	NN	_	6	PMOD	237144	_
-9	.	.	_	.	_	0	ROOT	_	_

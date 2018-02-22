@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	95814	_
-2	people	people	_	NN	_	0	ROOT	95814	_
-3	with	with	_	IN	_	2	NMOD	_	_
-4	silly	silly	_	JJ	_	5	NMOD	95814	_
-5	disguises	disguise	_	NNS	_	3	PMOD	95814	_
-6	at	at	_	IN	_	2	LOC	_	2
-7	Christmas	Christmas	_	NNP	_	8	NMOD	95815	_
-8	time	time	_	NN	_	6	PMOD	95815	_
-9	.	.	_	.	_	0	ROOT	_	_

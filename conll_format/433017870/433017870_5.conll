@@ -1,8 +1,0 @@
-1	Singers	singer	_	NNS	_	0	ROOT	163593	_
-2	performing	perform	_	VBG	_	1	APPO	_	_
-3	for	for	_	IN	_	2	ADV	_	2
-4	an	an	_	DT	_	5	NMOD	163590	_
-5	audience	audience	_	NN	_	3	PMOD	163590	_
-6	of	of	_	IN	_	5	NMOD	163590	_
-7	people	people	_	NN	_	6	PMOD	163590	_
-8	.	.	_	.	_	0	ROOT	_	_

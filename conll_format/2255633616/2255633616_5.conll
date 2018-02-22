@@ -1,8 +1,0 @@
-1	Guy	Guy	_	NNP	_	5	SBJ	37225	_
-2	outside of	outside of	_	IN	_	5	TMP	_	1
-3	his	his	_	PRP$	_	4	NMOD	37229	_
-4	car	car	_	NN	_	2	PMOD	37229	_
-5	stuck	stick	_	VBD	_	0	ROOT	_	_
-6	in	in	_	IN	_	5	ADV	_	_
-7	snow	snow	_	NN	_	6	PMOD	37228	_
-8	.	.	_	.	_	5	P	_	_

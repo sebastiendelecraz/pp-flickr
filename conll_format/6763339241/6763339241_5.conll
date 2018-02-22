@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	257722	_
-2	person	person	_	NN	_	0	ROOT	257722	_
-3	on	on	_	IN	_	2	NMOD	_	_
-4	skis	ski	_	NNS	_	5	NMOD	257731	_
-5	jumps	jump	_	NNS	_	3	PMOD	_	_
-6	through	through	_	IN	_	2	TMP	_	5
-7	the	the	_	DT	_	8	NMOD	0	_
-8	air	air	_	NN	_	6	PMOD	0	_
-9	.	.	_	.	_	0	ROOT	_	_

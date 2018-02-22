@@ -1,8 +1,0 @@
-1	Woman	Woman	_	NNP	_	2	SBJ	251524	_
-2	looking	look	_	VBG	_	0	ROOT	_	_
-3	through	through	_	IN	_	2	ADV	_	2
-4	microscope	microscope	_	NN	_	3	PMOD	251526	_
-5	with	with	_	IN	_	4	NMOD	_	_
-6	gloves	glove	_	NNS	_	5	PMOD	251528	_
-7	on	on	_	IN	_	6	NMOD	_	_
-8	.	.	_	.	_	0	ROOT	_	_

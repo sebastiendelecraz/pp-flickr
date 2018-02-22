@@ -1,9 +1,0 @@
-1	two	two	_	CD	_	2	NMOD	218446	_
-2	men	man	_	NNS	_	0	ROOT	218446	_
-3	with	with	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	218442	_
-5	bike	bike	_	NN	_	3	PMOD	218442	_
-6	on	on	_	IN	_	2	NMOD	_	_
-7	a	a	_	DT	_	8	NMOD	218443	_
-8	stand	stand	_	NN	_	6	PMOD	218443	_
-9	.	.	_	.	_	0	ROOT	_	_

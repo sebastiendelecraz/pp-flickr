@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	115323	_
-2	ladies	lady	_	NNS	_	0	ROOT	115323	_
-3	next to	next to	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	115324	_
-5	stroller	stroller	_	NN	_	3	PMOD	115324	_
-6	inside	inside	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	115325	_
-8	building	building	_	NN	_	6	PMOD	115325	_
-9	.	.	_	.	_	0	ROOT	_	_

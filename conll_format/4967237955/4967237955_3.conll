@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	3	NMOD	224188	_
-2	buying	buy	_	VBG	_	3	NMOD	_	_
-3	beverages	beverage	_	NNS	_	0	ROOT	224187	_
-4	from	from	_	IN	_	3	NMOD	_	2
-5	cashiers	cashier	_	NNS	_	4	PMOD	224189	_
-6	in	in	_	IN	_	5	LOC	_	_
-7	orange	orange	_	JJ	_	8	NMOD	224195	_
-8	shirts	shirt	_	NNS	_	6	PMOD	224195	_
-9	.	.	_	.	_	0	ROOT	_	_

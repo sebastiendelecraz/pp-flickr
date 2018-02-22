@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	NAME	166362	_
-2	cheering	cheer	_	VBG	_	0	ROOT	_	_
-3	in	in	_	IN	_	2	LOC	_	2
-4	a	a	_	DT	_	5	NMOD	166362	_
-5	crowd	crowd	_	NN	_	3	PMOD	166362	_
-6	for	for	_	IN	_	5	NMOD	_	2
-7	a	a	_	DT	_	8	NMOD	166367	_
-8	parade	parade	_	NN	_	6	PMOD	166367	_
-9	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	Three	Three	_	CD	_	2	NMOD	10475	_
-2	women	woman	_	NNS	_	0	ROOT	10475	_
-3	huddling	huddle	_	VBG	_	2	APPO	_	_
-4	for	for	_	IN	_	3	ADV	_	3
-5	warmth	warmth	_	NN	_	4	PMOD	10484	_
-6	under	under	_	IN	_	3	LOC	_	3
-7	a	a	_	DT	_	8	NMOD	10476	_
-8	blanket	blanket	_	NN	_	6	PMOD	10476	_
-9	.	.	_	.	_	0	ROOT	_	_

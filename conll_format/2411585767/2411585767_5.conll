@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	47068	_
-2	man	man	_	NN	_	0	ROOT	47068	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	a	a	_	DT	_	5	NMOD	47070	_
-5	suit	suit	_	NN	_	3	PMOD	47070	_
-6	by	by	_	IN	_	2	NMOD	_	2
-7	a	a	_	DT	_	8	NMOD	47073	_
-8	stoplight	stoplight	_	NN	_	6	PMOD	47073	_
-9	.	.	_	.	_	0	ROOT	_	_

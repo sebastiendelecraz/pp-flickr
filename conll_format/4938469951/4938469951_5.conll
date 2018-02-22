@@ -1,9 +1,0 @@
-1	Some	some	_	DT	_	2	NMOD	220792	_
-2	people	people	_	NN	_	0	ROOT	220792	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	shadow	shadow	_	NN	_	5	NMOD	220800	_
-5	walk	walk	_	NN	_	3	PMOD	_	_
-6	by	by	_	IN	_	2	NMOD	_	5
-7	an	an	_	DT	_	8	NMOD	220793	_
-8	escalator	escalator	_	NN	_	6	PMOD	220793	_
-9	.	.	_	.	_	0	ROOT	_	_

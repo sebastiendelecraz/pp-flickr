@@ -1,8 +1,0 @@
-1	Little	Little	_	NNP	_	2	NMOD	274402	_
-2	kid	kid	_	NN	_	0	ROOT	274402	_
-3	with	with	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	274403	_
-5	bucket	bucket	_	NN	_	3	PMOD	274403	_
-6	of	of	_	IN	_	5	NMOD	274403	_
-7	roses	rose	_	NNS	_	6	PMOD	274403	_
-8	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	163123	_
-2	kid	kid	_	NN	_	3	SBJ	163123	_
-3	looking	look	_	VBG	_	0	ROOT	_	_
-4	at	at	_	IN	_	3	ADV	_	_
-5	cookies	cookie	_	NNS	_	4	PMOD	163127	_
-6	in	in	_	IN	_	5	LOC	_	3
-7	a	a	_	DT	_	8	NMOD	163124	_
-8	bakery	bakery	_	NN	_	6	PMOD	163124	_
-9	.	.	_	.	_	0	ROOT	_	_

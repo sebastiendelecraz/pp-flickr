@@ -1,8 +1,0 @@
-1	Friends	friend	_	NNS	_	0	ROOT	109594	_
-2	sitting	sit	_	VBG	_	1	APPO	_	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	the	the	_	DT	_	5	NMOD	109595	_
-5	rocks	rock	_	NNS	_	3	PMOD	109595	_
-6	for	for	_	IN	_	5	NMOD	_	2
-7	photo	photo	_	NN	_	6	PMOD	109600	_
-8	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	Several	several	_	DT	_	2	NMOD	150383	_
-2	people	people	_	NN	_	3	SBJ	150383	_
-3	sorting	sort	_	VBG	_	0	ROOT	_	_
-4	through	through	_	IN	_	3	ADV	_	3
-5	bottles	bottle	_	NNS	_	4	PMOD	150385	_
-6	on	on	_	IN	_	5	NMOD	_	_
-7	the	the	_	DT	_	8	NMOD	150390	_
-8	floor	floor	_	NN	_	6	PMOD	150390	_
-9	.	.	_	.	_	0	ROOT	_	_

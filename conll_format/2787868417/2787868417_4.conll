@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	72988	_
-2	girl	girl	_	NN	_	3	SBJ	72988	_
-3	runs	run	_	VBZ	_	0	ROOT	_	_
-4	through	through	_	IN	_	3	MNR	_	3
-5	sprinklers	sprinkler	_	NNS	_	4	PMOD	72992	_
-6	on	on	_	IN	_	5	NMOD	_	_
-7	a	a	_	DT	_	8	NMOD	72989	_
-8	lawn	lawn	_	NN	_	6	PMOD	72989	_
-9	.	.	_	.	_	3	P	_	_

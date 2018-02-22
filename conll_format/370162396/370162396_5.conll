@@ -1,9 +1,0 @@
-1	family	family	_	NN	_	2	SBJ	137912	_
-2	walking	walk	_	VBG	_	0	ROOT	_	_
-3	next to	next to	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	5	NMOD	137909	_
-5	wall	wall	_	NN	_	3	PMOD	137909	_
-6	with	with	_	IN	_	5	NMOD	_	_
-7	graffitied	graffitied	_	CD	_	8	NMOD	137909	_
-8	wall	wall	_	NN	_	6	PMOD	137909	_
-9	.	.	_	.	_	0	ROOT	_	_

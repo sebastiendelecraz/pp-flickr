@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	78548	_
-2	performers	performer	_	NNS	_	0	ROOT	78548	_
-3	in front of	in front of	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	78550	_
-5	crowd	crowd	_	NN	_	3	PMOD	78550	_
-6	in	in	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	78549	_
-8	city	city	_	NN	_	6	PMOD	78549	_
-9	.	.	_	.	_	0	ROOT	_	_

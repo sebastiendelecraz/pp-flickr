@@ -1,9 +1,0 @@
-1	African	African	_	JJ	_	2	NMOD	100753	_
-2	people	people	_	NN	_	0	ROOT	100753	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	tribal	tribal	_	JJ	_	5	NMOD	100755	_
-5	wear	wear	_	NN	_	3	PMOD	100755	_
-6	in	in	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	100756	_
-8	desert	desert	_	NN	_	6	PMOD	100756	_
-9	.	.	_	.	_	0	ROOT	_	_

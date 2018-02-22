@@ -1,8 +1,0 @@
-1	People	People	_	NNPS	_	0	ROOT	111914	_
-2	in	in	_	IN	_	0	ROOT	_	_
-3	line	line	_	NN	_	2	PMOD	111918	_
-4	for	for	_	IN	_	3	NMOD	_	1
-5	plates	plate	_	NNS	_	4	PMOD	111916	_
-6	of	of	_	IN	_	5	NMOD	111916	_
-7	rice	rice	_	NN	_	6	PMOD	111916	_
-8	.	.	_	.	_	0	ROOT	_	_

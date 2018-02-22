@@ -1,9 +1,0 @@
-1	camel	camel	_	NN	_	0	ROOT	53626	_
-2	standing	stand	_	VBG	_	1	APPO	_	_
-3	next to	next to	_	IN	_	2	ADV	_	2
-4	tree	tree	_	NN	_	3	PMOD	53627	_
-5	in	in	_	IN	_	2	LOC	_	_
-6	desert	desert	_	NN	_	8	NMOD	53631	_
-7	carrying	carrying	_	NN	_	8	NMOD	_	_
-8	water	water	_	NN	_	5	PMOD	53629	_
-9	.	.	_	.	_	0	ROOT	_	_

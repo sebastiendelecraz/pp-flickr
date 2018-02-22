@@ -1,9 +1,0 @@
-1	Factory	Factory	_	NNP	_	2	NMOD	219178	_
-2	workers	worker	_	NNS	_	3	SBJ	219178	_
-3	standing	stand	_	VBG	_	0	ROOT	_	_
-4	in	in	_	IN	_	3	LOC	_	_
-5	uniform	uniform	_	NN	_	4	PMOD	219180	_
-6	next to	next to	_	IN	_	3	ADV	_	3
-7	their	their	_	PRP$	_	8	NMOD	219179	_
-8	product	product	_	NN	_	6	PMOD	219179	_
-9	.	.	_	.	_	0	ROOT	_	_

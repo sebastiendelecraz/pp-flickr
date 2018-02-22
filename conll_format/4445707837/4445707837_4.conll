@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	SBJ	169038	_
-2	walk	walk	_	VBP	_	0	ROOT	_	_
-3	through	through	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	5	NMOD	169043	_
-5	crosswalk	crosswalk	_	NN	_	3	PMOD	169043	_
-6	in	in	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	169041	_
-8	city	city	_	NN	_	6	PMOD	169041	_
-9	.	.	_	.	_	2	P	_	_

@@ -1,8 +1,0 @@
-1	People	People	_	NNPS	_	2	NAME	215125	_
-2	sitting	sit	_	VBG	_	0	ROOT	_	_
-3	next to	next to	_	IN	_	2	ADV	_	2
-4	trees	tree	_	NNS	_	3	PMOD	215133	_
-5	on	on	_	IN	_	4	NMOD	_	2
-6	a	a	_	DT	_	7	NMOD	215126	_
-7	bench	bench	_	NN	_	5	PMOD	215126	_
-8	.	.	_	.	_	0	ROOT	_	_

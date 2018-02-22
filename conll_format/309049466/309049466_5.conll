@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	92679	_
-2	dog	dog	_	NN	_	0	ROOT	92679	_
-3	with	with	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	92680	_
-5	Frisbee	Frisbee	_	NNP	_	3	PMOD	92680	_
-6	in	in	_	IN	_	2	LOC	_	_
-7	the	the	_	DT	_	8	NMOD	92682	_
-8	snow	snow	_	NN	_	6	PMOD	92682	_
-9	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	232236	_
-2	crowd	crowd	_	NN	_	0	ROOT	232236	_
-3	of	of	_	IN	_	2	NMOD	232236	_
-4	young	young	_	JJ	_	5	NMOD	232236	_
-5	adults	adult	_	NNS	_	3	PMOD	232236	_
-6	outside	outside	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	232243	_
-8	nightclub	nightclub	_	NN	_	6	PMOD	232243	_
-9	.	.	_	.	_	0	ROOT	_	_

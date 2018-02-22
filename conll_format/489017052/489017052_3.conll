@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	SBJ	215339	_
-2	are	be	_	VBP	_	0	ROOT	_	_
-3	walking	walk	_	VBG	_	2	VC	_	_
-4	through	through	_	IN	_	3	DIR	_	3
-5	an	an	_	DT	_	6	NMOD	215345	_
-6	alley	alley	_	NN	_	4	PMOD	215345	_
-7	in	in	_	IN	_	6	LOC	_	3
-8	Turkey	Turkey	_	NNP	_	7	PMOD	215347	_
-9	.	.	_	.	_	2	P	_	_

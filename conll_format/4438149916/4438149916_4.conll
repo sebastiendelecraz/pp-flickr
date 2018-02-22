@@ -1,9 +1,0 @@
-1	Person	Person	_	NNP	_	2	SBJ	168051	_
-2	standing	stand	_	VBG	_	0	ROOT	_	_
-3	upon	upon	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	5	NMOD	168052	_
-5	log	log	_	NN	_	3	PMOD	168052	_
-6	in	in	_	IN	_	5	LOC	_	_
-7	the	the	_	DT	_	8	NMOD	168053	_
-8	forest	forest	_	NN	_	6	PMOD	168053	_
-9	.	.	_	.	_	0	ROOT	_	_

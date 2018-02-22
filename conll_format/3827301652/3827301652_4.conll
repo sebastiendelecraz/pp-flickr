@@ -1,9 +1,0 @@
-1	Woman	Woman	_	NNP	_	3	NMOD	144669	_
-2	knitting	knit	_	VBG	_	3	NMOD	_	_
-3	items	item	_	NNS	_	0	ROOT	144670	_
-4	for	for	_	IN	_	3	NMOD	_	3
-5	sale	sale	_	NN	_	4	PMOD	144678	_
-6	in	in	_	IN	_	5	LOC	_	2
-7	South	South	_	NNP	_	8	NAME	144671	_
-8	America	America	_	NNP	_	6	PMOD	144671	_
-9	.	.	_	.	_	0	ROOT	_	_

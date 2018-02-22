@@ -1,9 +1,0 @@
-1	girl	girl	_	NN	_	2	SBJ	223730	_
-2	posing	pose	_	VBG	_	0	ROOT	_	_
-3	against	against	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	5	NMOD	223731	_
-5	wall	wall	_	NN	_	3	PMOD	223731	_
-6	in	in	_	IN	_	5	LOC	_	_
-7	the	the	_	DT	_	8	NMOD	223737	_
-8	city	city	_	NN	_	6	PMOD	223737	_
-9	.	.	_	.	_	0	ROOT	_	_

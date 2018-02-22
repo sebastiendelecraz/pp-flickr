@@ -1,7 +1,0 @@
-1	Boys	Boys	_	NNP	_	2	SBJ	218171	_
-2	dancing	dance	_	VBG	_	0	ROOT	_	_
-3	for	for	_	IN	_	2	ADV	_	2
-4	group	group	_	NN	_	3	PMOD	218172	_
-5	of	of	_	IN	_	4	NMOD	218172	_
-6	onlookers	onlooker	_	NNS	_	5	PMOD	218172	_
-7	.	.	_	.	_	0	ROOT	_	_

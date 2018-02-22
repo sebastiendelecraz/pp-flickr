@@ -1,8 +1,0 @@
-1	Old	Old	_	NNP	_	2	NMOD	155271	_
-2	couple	couple	_	NN	_	0	ROOT	155271	_
-3	with	with	_	IN	_	2	NMOD	_	_
-4	shopping	shopping	_	NN	_	5	NMOD	155273	_
-5	bags	bag	_	NNS	_	3	PMOD	155273	_
-6	outside of	outside of	_	IN	_	2	NMOD	_	2
-7	storefront	storefront	_	NN	_	6	PMOD	155280	_
-8	.	.	_	.	_	0	ROOT	_	_

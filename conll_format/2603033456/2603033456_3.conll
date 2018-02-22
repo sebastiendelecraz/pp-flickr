@@ -1,9 +1,0 @@
-1	Boy	Boy	_	NNP	_	2	SBJ	60945	_
-2	running	run	_	VBG	_	0	ROOT	_	_
-3	through	through	_	IN	_	2	DIR	_	2
-4	the	the	_	DT	_	5	NMOD	60948	_
-5	water	water	_	NN	_	3	PMOD	60948	_
-6	at	at	_	IN	_	2	TMP	_	_
-7	the	the	_	DT	_	8	NMOD	60947	_
-8	beach	beach	_	NN	_	6	PMOD	60947	_
-9	.	.	_	.	_	0	ROOT	_	_

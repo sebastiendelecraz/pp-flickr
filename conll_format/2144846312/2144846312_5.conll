@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	30985	_
-2	baby	baby	_	NN	_	0	ROOT	30985	_
-3	with	with	_	IN	_	2	NMOD	_	_
-4	food	food	_	NN	_	3	PMOD	30987	_
-5	all	all	_	DT	_	6	DEP	_	_
-6	over	over	_	IN	_	2	NMOD	_	4
-7	its	its	_	PRP$	_	8	NMOD	30988	_
-8	mouth	mouth	_	NN	_	6	PMOD	30988	_
-9	.	.	_	.	_	0	ROOT	_	_

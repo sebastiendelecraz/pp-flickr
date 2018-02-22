@@ -1,9 +1,0 @@
-1	One	One	_	CD	_	2	NMOD	268922	_
-2	man	man	_	NN	_	0	ROOT	268922	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	the	the	_	DT	_	5	NMOD	0	_
-5	distance	distance	_	NN	_	3	PMOD	0	_
-6	on	on	_	IN	_	2	NMOD	_	2
-7	a	a	_	DT	_	8	NMOD	268923	_
-8	bicycle	bicycle	_	NN	_	6	PMOD	268923	_
-9	.	.	_	.	_	0	ROOT	_	_

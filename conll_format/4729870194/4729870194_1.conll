@@ -1,9 +1,0 @@
-1	Men	Men	_	NNPS	_	2	NMOD	196337	_
-2	fishing	fishing	_	NN	_	0	ROOT	_	_
-3	on	on	_	IN	_	2	NMOD	_	_
-4	a	a	_	DT	_	6	NMOD	196339	_
-5	village	village	_	NN	_	6	NMOD	196339	_
-6	pier	pier	_	NN	_	3	PMOD	196339	_
-7	near	near	_	IN	_	6	LOC	_	2
-8	downtown	downtown	_	NN	_	7	PMOD	196341	_
-9	.	.	_	.	_	0	ROOT	_	_

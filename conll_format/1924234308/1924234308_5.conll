@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	23223	_
-2	girl	girl	_	NN	_	0	ROOT	23223	_
-3	in	in	_	IN	_	2	LOC	_	2
-4	a	a	_	DT	_	5	NMOD	23224	_
-5	bikini	bikini	_	NN	_	3	PMOD	23224	_
-6	in	in	_	IN	_	2	LOC	_	_
-7	climbing	climb	_	VBG	_	8	NMOD	23227	_
-8	rocks	rock	_	NNS	_	6	PMOD	23227	_
-9	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	4097	_
-2	man	man	_	NN	_	3	SBJ	4097	_
-3	walking	walk	_	VBG	_	0	ROOT	_	_
-4	beside	beside	_	IN	_	3	DIR	_	3
-5	a	a	_	DT	_	6	NMOD	4098	_
-6	house	house	_	NN	_	4	PMOD	4098	_
-7	with	with	_	IN	_	3	ADV	_	_
-8	bags	bag	_	NNS	_	7	PMOD	4102	_
-9	.	.	_	.	_	0	ROOT	_	_

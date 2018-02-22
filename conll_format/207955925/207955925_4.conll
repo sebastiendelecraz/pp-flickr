@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	27427	_
-2	girls	girl	_	NNS	_	3	SBJ	27427	_
-3	hugging	hug	_	VBG	_	0	ROOT	_	_
-4	at	at	_	IN	_	3	ADV	_	3
-5	a	a	_	DT	_	6	NMOD	27428	_
-6	bar	bar	_	NN	_	4	PMOD	27428	_
-7	with	with	_	IN	_	6	NMOD	_	_
-8	friends	friend	_	NNS	_	7	PMOD	27429	_
-9	.	.	_	.	_	0	ROOT	_	_

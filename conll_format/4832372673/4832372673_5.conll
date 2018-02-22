@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	208725	_
-2	land	land	_	NN	_	0	ROOT	208725	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	black	black	_	JJ	_	5	NMOD	208724	_
-5	walks	walk	_	NNS	_	3	PMOD	_	_
-6	through	through	_	IN	_	2	TMP	_	5
-7	a	a	_	DT	_	8	NMOD	208723	_
-8	corridor	corridor	_	NN	_	6	PMOD	208723	_
-9	.	.	_	.	_	0	ROOT	_	_

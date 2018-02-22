@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	61423	_
-2	bride	bride	_	NN	_	3	SBJ	61423	_
-3	looking	look	_	VBG	_	0	ROOT	_	_
-4	at	at	_	IN	_	3	ADV	_	3
-5	a	a	_	DT	_	6	NMOD	61425	_
-6	bouquet	bouquet	_	NN	_	4	PMOD	61425	_
-7	of	of	_	IN	_	6	NMOD	61425	_
-8	flowers	flower	_	NNS	_	7	PMOD	61425	_
-9	.	.	_	.	_	0	ROOT	_	_

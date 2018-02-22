@@ -1,9 +1,0 @@
-1	Several	several	_	DT	_	2	NMOD	115698	_
-2	people	people	_	NN	_	3	SBJ	115698	_
-3	sit	sit	_	VBP	_	0	ROOT	_	_
-4	in	in	_	IN	_	3	LOC	_	_
-5	chairs	chair	_	NNS	_	4	PMOD	115701	_
-6	near	near	_	IN	_	3	LOC	_	3
-7	a	a	_	DT	_	8	NMOD	115699	_
-8	canyon	canyon	_	NN	_	6	PMOD	115699	_
-9	.	.	_	.	_	3	P	_	_

@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	SBJ	218327	_
-2	walk	walk	_	VBP	_	0	ROOT	_	_
-3	along	along	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	5	NMOD	218328	_
-5	sidewalk	sidewalk	_	NN	_	3	PMOD	218328	_
-6	in	in	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	218326	_
-8	city	city	_	NN	_	6	PMOD	218326	_
-9	.	.	_	.	_	2	P	_	_

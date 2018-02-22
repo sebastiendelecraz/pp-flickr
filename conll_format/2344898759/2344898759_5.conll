@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	43102	_
-2	woman	woman	_	NN	_	3	SBJ	43102	_
-3	talking	talk	_	VBG	_	0	ROOT	_	_
-4	on	on	_	IN	_	3	ADV	_	_
-5	a	a	_	DT	_	6	NMOD	43103	_
-6	cellphone	cellphone	_	NN	_	4	PMOD	43103	_
-7	near	near	_	IN	_	6	LOC	_	3
-8	water	water	_	NN	_	7	PMOD	43105	_
-9	.	.	_	.	_	0	ROOT	_	_

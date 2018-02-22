@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	SBJ	185778	_
-2	walking	walk	_	VBG	_	0	ROOT	_	_
-3	through	through	_	IN	_	2	DIR	_	2
-4	the	the	_	DT	_	5	NMOD	185784	_
-5	underpass	underpass	_	NN	_	3	PMOD	185784	_
-6	of	of	_	IN	_	5	NMOD	185784	5
-7	a	a	_	DT	_	8	NMOD	185784	_
-8	bridge	bridge	_	NN	_	6	PMOD	185784	_
-9	.	.	_	.	_	0	ROOT	_	_

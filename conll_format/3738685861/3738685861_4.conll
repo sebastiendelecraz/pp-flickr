@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	140630	_
-2	child	child	_	NN	_	0	ROOT	140630	_
-3	dressed	dress	_	VBN	_	2	APPO	_	_
-4	in	in	_	IN	_	3	ADV	_	_
-5	blue	blue	_	JJ	_	6	NMOD	140631	_
-6	sits	sit	_	NNS	_	4	PMOD	_	_
-7	next to	next to	_	IN	_	3	ADV	_	6
-8	plants	plant	_	NNS	_	7	PMOD	140635	_
-9	.	.	_	.	_	0	ROOT	_	_

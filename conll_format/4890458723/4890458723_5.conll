@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	SBJ	215371	_
-2	walk	walk	_	VBP	_	0	ROOT	_	_
-3	under	under	_	IN	_	2	LOC	_	2
-4	the	the	_	DT	_	5	NMOD	215375	_
-5	shade	shade	_	NN	_	3	PMOD	215375	_
-6	of	of	_	IN	_	5	NMOD	215375	5
-7	a	a	_	DT	_	8	NMOD	215375	_
-8	building	building	_	NN	_	6	PMOD	215375	_
-9	.	.	_	.	_	2	P	_	_

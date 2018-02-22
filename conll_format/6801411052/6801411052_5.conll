@@ -1,8 +1,0 @@
-1	two	two	_	CD	_	2	NMOD	258336	_
-2	children	child	_	NNS	_	0	ROOT	258336	_
-3	inside	inside	_	IN	_	2	LOC	_	2
-4	a	a	_	DT	_	5	NMOD	258337	_
-5	kitchen	kitchen	_	NN	_	3	PMOD	258337	_
-6	with	with	_	IN	_	5	NMOD	_	_
-7	straws	straw	_	NNS	_	6	PMOD	258339	_
-8	.	.	_	.	_	0	ROOT	_	_

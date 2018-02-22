@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	265201	_
-2	women	woman	_	NNS	_	3	SBJ	265201	_
-3	look	look	_	VBP	_	0	ROOT	_	_
-4	at	at	_	IN	_	3	ADV	_	3
-5	a	a	_	DT	_	6	NMOD	265202	_
-6	camera	camera	_	NN	_	4	PMOD	265202	_
-7	in front of	in front of	_	IN	_	3	ADV	_	_
-8	photographs	photograph	_	NNS	_	7	PMOD	265211	_
-9	.	.	_	.	_	3	P	_	_

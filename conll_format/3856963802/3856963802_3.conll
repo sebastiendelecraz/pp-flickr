@@ -1,8 +1,0 @@
-1	Nurses	nurse	_	NNS	_	2	SBJ	145931	_
-2	look	look	_	VBP	_	0	ROOT	_	_
-3	at	at	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	5	NMOD	145932	_
-5	book	book	_	NN	_	3	PMOD	145932	_
-6	about	about	_	IN	_	5	NMOD	_	_
-7	pediatrics	pediatrics	_	NN	_	6	PMOD	145935	_
-8	.	.	_	.	_	2	P	_	_

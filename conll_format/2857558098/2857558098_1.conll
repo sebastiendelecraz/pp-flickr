@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	77140	_
-2	dog	dog	_	NN	_	0	ROOT	77140	_
-3	with	with	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	77141	_
-5	branch	branch	_	NN	_	3	PMOD	77141	_
-6	in	in	_	IN	_	5	LOC	_	_
-7	its	its	_	PRP$	_	8	NMOD	77142	_
-8	mouth	mouth	_	NN	_	6	PMOD	77142	_
-9	.	.	_	.	_	0	ROOT	_	_

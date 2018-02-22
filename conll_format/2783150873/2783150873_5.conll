@@ -1,9 +1,0 @@
-1	Boy	Boy	_	NNP	_	2	SBJ	72761	_
-2	poses	pose	_	VBZ	_	0	ROOT	_	_
-3	in	in	_	IN	_	2	LOC	_	2
-4	Halloween	Halloween	_	NNP	_	5	NMOD	72762	_
-5	costume	costume	_	NN	_	3	PMOD	72762	_
-6	with	with	_	IN	_	5	NMOD	_	_
-7	funny	funny	_	JJ	_	8	NMOD	72764	_
-8	hat	hat	_	NN	_	6	PMOD	72764	_
-9	.	.	_	.	_	2	P	_	_

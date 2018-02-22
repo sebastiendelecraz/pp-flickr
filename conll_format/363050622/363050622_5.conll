@@ -1,8 +1,0 @@
-1	Old	Old	_	NNP	_	2	NMOD	132684	_
-2	man	man	_	NN	_	3	SBJ	132684	_
-3	stand	stand	_	VBP	_	0	ROOT	_	_
-4	behind	behind	_	IN	_	3	ADV	_	3
-5	counter	counter	_	NN	_	4	PMOD	132686	_
-6	in front of	in front of	_	IN	_	5	NMOD	_	_
-7	pottery	pottery	_	NN	_	6	PMOD	132689	_
-8	.	.	_	.	_	3	P	_	_

@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	109946	_
-2	guy	guy	_	NN	_	0	ROOT	109946	_
-3	on	on	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	109947	_
-5	bike	bike	_	NN	_	3	PMOD	109947	_
-6	in	in	_	IN	_	5	LOC	_	_
-7	the	the	_	DT	_	8	NMOD	109948	_
-8	forest	forest	_	NN	_	6	PMOD	109948	_
-9	.	.	_	.	_	0	ROOT	_	_

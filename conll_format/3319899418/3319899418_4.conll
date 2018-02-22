@@ -1,9 +1,0 @@
-1	Someone	someone	_	NN	_	2	NMOD	109160	_
-2	snowboards	snowboard	_	NNS	_	0	ROOT	_	_
-3	up	up	_	IN	_	2	NMOD	_	2
-4	the	the	_	DT	_	5	NMOD	109154	_
-5	roof	roof	_	NN	_	3	PMOD	109154	_
-6	of	of	_	IN	_	5	NMOD	109154	5
-7	a	a	_	DT	_	8	NMOD	109154	_
-8	barn	barn	_	NN	_	6	PMOD	109154	_
-9	.	.	_	.	_	0	ROOT	_	_

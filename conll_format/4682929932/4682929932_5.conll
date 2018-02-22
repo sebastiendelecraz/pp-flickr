@@ -1,8 +1,0 @@
-1	People	People	_	NNPS	_	2	SBJ	190042	_
-2	crowded	crowd	_	VBD	_	0	ROOT	_	_
-3	around	around	_	IN	_	2	ADV	_	2
-4	toys	toy	_	NNS	_	3	PMOD	190044	_
-5	on	on	_	IN	_	4	NMOD	_	_
-6	a	a	_	DT	_	7	NMOD	190043	_
-7	table	table	_	NN	_	5	PMOD	190043	_
-8	.	.	_	.	_	2	P	_	_

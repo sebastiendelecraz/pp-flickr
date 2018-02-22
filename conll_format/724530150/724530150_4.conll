@@ -1,8 +1,0 @@
-1	Little	Little	_	NNP	_	2	NMOD	267432	_
-2	child	child	_	NN	_	0	ROOT	267432	_
-3	with	with	_	IN	_	2	NMOD	_	2
-4	blue	blue	_	JJ	_	5	NMOD	267434	_
-5	shirt	shirt	_	NN	_	3	PMOD	267434	_
-6	in	in	_	IN	_	2	LOC	_	_
-7	tree	tree	_	NN	_	6	PMOD	267435	_
-8	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	two	two	_	CD	_	2	NMOD	118925	_
-2	men	man	_	NNS	_	3	SBJ	118925	_
-3	look	look	_	VBP	_	0	ROOT	_	_
-4	over	over	_	IN	_	3	ADV	_	3
-5	cliff	cliff	_	NN	_	4	PMOD	118929	_
-6	near	near	_	IN	_	5	LOC	_	3
-7	the	the	_	DT	_	8	NMOD	118926	_
-8	beach	beach	_	NN	_	6	PMOD	118926	_
-9	.	.	_	.	_	3	P	_	_

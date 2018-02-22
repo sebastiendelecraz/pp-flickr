@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	94853	_
-2	person	person	_	NN	_	3	SBJ	94853	_
-3	is	be	_	VBZ	_	0	ROOT	_	_
-4	on	on	_	IN	_	3	LOC-PRD	_	3
-5	a	a	_	DT	_	6	NMOD	94854	_
-6	bike	bike	_	NN	_	4	PMOD	94854	_
-7	in	in	_	IN	_	3	LOC	_	_
-8	midair	midair	_	NN	_	7	PMOD	94856	_
-9	.	.	_	.	_	3	P	_	_

@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	130928	_
-2	man	man	_	NN	_	0	ROOT	130928	_
-3	reaching	reach	_	VBG	_	2	APPO	_	_
-4	for	for	_	IN	_	3	ADV	_	3
-5	someone	someone	_	NN	_	4	PMOD	130929	_
-6	on	on	_	IN	_	5	NMOD	_	_
-7	the	the	_	DT	_	8	NMOD	130930	_
-8	grass	grass	_	NN	_	6	PMOD	130930	_
-9	.	.	_	.	_	0	ROOT	_	_

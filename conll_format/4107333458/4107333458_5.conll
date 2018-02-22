@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	155780	_
-2	women	woman	_	NNS	_	3	SBJ	155780	_
-3	talking	talk	_	VBG	_	0	ROOT	_	_
-4	over	over	_	IN	_	3	ADV	_	3
-5	a	a	_	DT	_	6	NMOD	155782	_
-6	glass	glass	_	NN	_	4	PMOD	155782	_
-7	of	of	_	IN	_	6	NMOD	155782	_
-8	wine	wine	_	NN	_	7	PMOD	155782	_
-9	.	.	_	.	_	0	ROOT	_	_

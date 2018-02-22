@@ -1,9 +1,0 @@
-1	Boys	Boys	_	NNP	_	2	NMOD	26742	_
-2	jump	jump	_	NN	_	0	ROOT	_	_
-3	off	off	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	26743	_
-5	bridge	bridge	_	NN	_	3	PMOD	26743	_
-6	into	into	_	IN	_	2	NMOD	_	2
-7	the	the	_	DT	_	8	NMOD	26744	_
-8	water	water	_	NN	_	6	PMOD	26744	_
-9	.	.	_	.	_	0	ROOT	_	_

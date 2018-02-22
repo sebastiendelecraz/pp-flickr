@@ -1,8 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	27208	_
-2	backpacker	backpacker	_	NN	_	0	ROOT	27208	_
-3	standing	stand	_	VBG	_	2	APPO	_	_
-4	near	near	_	IN	_	3	LOC	_	3
-5	water	water	_	NN	_	4	PMOD	27210	_
-6	at	at	_	IN	_	3	ADV	_	_
-7	dusk	dusk	_	NN	_	6	PMOD	27212	_
-8	.	.	_	.	_	0	ROOT	_	_

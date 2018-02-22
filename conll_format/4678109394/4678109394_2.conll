@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	NAME	189624	_
-2	sitting	sit	_	VBG	_	0	ROOT	_	_
-3	by	by	_	IN	_	2	MNR	_	_
-4	the	the	_	DT	_	5	NMOD	189626	_
-5	water	water	_	NN	_	3	PMOD	189626	_
-6	under	under	_	IN	_	2	LOC	_	2
-7	some	some	_	DT	_	8	NMOD	189629	_
-8	trees	tree	_	NNS	_	6	PMOD	189629	_
-9	.	.	_	.	_	0	ROOT	_	_

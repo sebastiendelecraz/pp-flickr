@@ -1,8 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	155839	_
-2	singer	singer	_	NN	_	0	ROOT	155839	_
-3	of	of	_	IN	_	2	NMOD	155839	2
-4	a	a	_	DT	_	5	NMOD	155839	_
-5	band	band	_	NN	_	3	PMOD	155839	_
-6	on	on	_	IN	_	5	NMOD	_	_
-7	stage	stage	_	NN	_	6	PMOD	155841	_
-8	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	3	NMOD	263647	_
-2	volleyball	volleyball	_	NN	_	3	NMOD	263647	_
-3	player	player	_	NN	_	0	ROOT	263647	_
-4	in	in	_	IN	_	3	LOC	_	3
-5	a	a	_	DT	_	6	NMOD	263653	_
-6	competition	competition	_	NN	_	4	PMOD	263653	_
-7	in	in	_	IN	_	6	LOC	_	3
-8	France	France	_	NNP	_	7	PMOD	263651	_
-9	.	.	_	.	_	0	ROOT	_	_

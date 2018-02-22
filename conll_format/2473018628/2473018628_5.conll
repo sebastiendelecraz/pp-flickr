@@ -1,8 +1,0 @@
-1	Three	Three	_	CD	_	2	NMOD	52069	_
-2	people	people	_	NN	_	3	SBJ	52069	_
-3	sift	sift	_	VBP	_	0	ROOT	_	_
-4	through	through	_	IN	_	3	ADV	_	3
-5	bales	bale	_	NNS	_	4	PMOD	52065	_
-6	of	of	_	IN	_	5	NMOD	52065	_
-7	hay	hay	_	NN	_	6	PMOD	52065	_
-8	.	.	_	.	_	3	P	_	_

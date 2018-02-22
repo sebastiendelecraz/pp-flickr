@@ -1,8 +1,0 @@
-1	Girl	Girl	_	NNP	_	2	SBJ	68210	_
-2	jumping	jump	_	VBG	_	0	ROOT	_	_
-3	into	into	_	IN	_	2	ADV	_	2
-4	water	water	_	NN	_	3	PMOD	68211	_
-5	from	from	_	IN	_	2	ADV	_	2
-6	a	a	_	DT	_	7	NMOD	68212	_
-7	raft	raft	_	NN	_	5	PMOD	68212	_
-8	.	.	_	.	_	0	ROOT	_	_

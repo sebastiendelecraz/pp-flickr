@@ -1,8 +1,0 @@
-1	Dog	Dog	_	NNP	_	2	SBJ	49081	_
-2	runs	run	_	VBZ	_	0	ROOT	_	_
-3	after	after	_	IN	_	2	TMP	_	2
-4	two	two	_	CD	_	5	NMOD	49080	_
-5	geese	geese	_	NN	_	3	PMOD	49080	_
-6	in	in	_	IN	_	2	LOC	_	_
-7	field	field	_	NN	_	6	PMOD	49082	_
-8	.	.	_	.	_	2	P	_	_

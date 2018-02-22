@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	159468	_
-2	kid	kid	_	NN	_	0	ROOT	159468	_
-3	covered	cover	_	VBN	_	2	APPO	_	_
-4	with	with	_	IN	_	3	ADV	_	_
-5	sand	sand	_	NN	_	4	PMOD	159471	_
-6	in	in	_	IN	_	3	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	159469	_
-8	beach	beach	_	NN	_	6	PMOD	159469	_
-9	.	.	_	.	_	0	ROOT	_	_

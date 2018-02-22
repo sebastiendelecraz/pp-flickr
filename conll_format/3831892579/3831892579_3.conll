@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	144835	_
-2	knife	knife	_	NN	_	3	SBJ	144835	_
-3	cutting	cut	_	VBG	_	0	ROOT	_	_
-4	into	into	_	IN	_	3	DIR	_	3
-5	a	a	_	DT	_	6	NMOD	144836	_
-6	piece	piece	_	NN	_	4	PMOD	144836	_
-7	of	of	_	IN	_	6	NMOD	144836	_
-8	fish	fish	_	NN	_	7	PMOD	144836	_
-9	.	.	_	.	_	0	ROOT	_	_

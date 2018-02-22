@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	7287	_
-2	kids	kid	_	NNS	_	0	ROOT	7287	_
-3	with	with	_	IN	_	2	NMOD	_	_
-4	blond-hair	blond-hair	_	CD	_	5	NMOD	7292	_
-5	sit	sit	_	NN	_	3	PMOD	_	_
-6	atop	atop	_	IN	_	2	NMOD	_	5
-7	a	a	_	DT	_	8	NMOD	7288	_
-8	four-wheeler	four-wheeler	_	NN	_	6	PMOD	7288	_
-9	.	.	_	.	_	0	ROOT	_	_

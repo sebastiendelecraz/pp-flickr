@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	47746	_
-2	girl	girl	_	NN	_	3	SBJ	47746	_
-3	dances	dance	_	VBZ	_	0	ROOT	_	_
-4	like	like	_	IN	_	3	ADV	_	3
-5	a	a	_	DT	_	6	NMOD	47747	_
-6	man	man	_	NN	_	4	PMOD	47747	_
-7	in	in	_	IN	_	3	LOC	_	_
-8	costume	costume	_	NN	_	7	PMOD	47748	_
-9	.	.	_	.	_	3	P	_	_

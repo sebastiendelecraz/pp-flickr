@@ -1,9 +1,0 @@
-1	Shoppers	shopper	_	NNS	_	2	SBJ	187751	_
-2	walking	walk	_	VBG	_	0	ROOT	_	_
-3	across	across	_	IN	_	2	DIR	_	2
-4	the	the	_	DT	_	5	NMOD	187749	_
-5	street	street	_	NN	_	3	PMOD	187749	_
-6	in	in	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	187755	_
-8	city	city	_	NN	_	6	PMOD	187755	_
-9	.	.	_	.	_	0	ROOT	_	_

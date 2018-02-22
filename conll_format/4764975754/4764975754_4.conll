@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	3	NMOD	200681	_
-2	hectic	hectic	_	JJ	_	3	NMOD	200681	_
-3	race	race	_	NN	_	0	ROOT	200681	_
-4	between	between	_	IN	_	3	NMOD	_	3
-5	cowboys	cowboy	_	NNS	_	4	PMOD	200684	_
-6	at	at	_	IN	_	5	LOC	_	_
-7	the	the	_	DT	_	8	NMOD	200680	_
-8	rodeo	rodeo	_	NN	_	6	PMOD	200680	_
-9	.	.	_	.	_	0	ROOT	_	_

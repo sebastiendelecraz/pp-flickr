@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	2	NMOD	5468	_
-2	men	man	_	NNS	_	0	ROOT	5468	_
-3	on	on	_	IN	_	2	LOC	_	_
-4	the	the	_	DT	_	5	NMOD	5469	_
-5	side	side	_	NN	_	3	PMOD	5469	_
-6	of	of	_	IN	_	5	NMOD	5469	5
-7	a	a	_	DT	_	8	NMOD	5469	_
-8	barge	barge	_	NN	_	6	PMOD	5469	_
-9	.	.	_	.	_	0	ROOT	_	_

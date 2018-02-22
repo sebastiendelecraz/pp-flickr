@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	280867	_
-2	camp	camp	_	NN	_	3	AMOD	280867	_
-3	out	out	_	IN	_	4	NMOD	280867	4
-4	event	event	_	NN	_	0	ROOT	280867	_
-5	in	in	_	IN	_	4	LOC	_	_
-6	party	party	_	NN	_	8	NMOD	280871	_
-7	cloudy	cloudy	_	JJ	_	8	NMOD	280871	_
-8	weather	weather	_	NN	_	5	PMOD	280871	_
-9	.	.	_	.	_	0	ROOT	_	_

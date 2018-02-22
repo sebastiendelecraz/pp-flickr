@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	NAME	218432	_
-2	walking	walk	_	VBG	_	0	ROOT	_	_
-3	across	across	_	IN	_	2	DIR	_	2
-4	a	a	_	DT	_	5	NMOD	218437	_
-5	footbridge	footbridge	_	NN	_	3	PMOD	218437	_
-6	over	over	_	IN	_	5	NMOD	_	2
-7	a	a	_	DT	_	8	NMOD	218434	_
-8	lake	lake	_	NN	_	6	PMOD	218434	_
-9	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	101579	_
-2	man	man	_	NN	_	0	ROOT	101579	_
-3	on	on	_	IN	_	2	LOC	_	2
-4	a	a	_	DT	_	6	NMOD	101580	_
-5	bucking	buck	_	VBG	_	6	NMOD	101580	_
-6	horse	horse	_	NN	_	3	PMOD	101580	_
-7	at	at	_	IN	_	2	LOC	_	_
-8	rodeo	rodeo	_	NN	_	7	PMOD	101582	_
-9	.	.	_	.	_	0	ROOT	_	_

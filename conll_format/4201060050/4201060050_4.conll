@@ -1,9 +1,0 @@
-1	Men	Men	_	NNPS	_	2	NAME	158967	_
-2	standing	stand	_	VBG	_	0	ROOT	_	_
-3	in	in	_	IN	_	2	LOC	_	2
-4	a	a	_	DT	_	5	NMOD	158969	_
-5	dumpster	dumpster	_	NN	_	3	PMOD	158969	_
-6	in	in	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	158971	_
-8	city	city	_	NN	_	6	PMOD	158971	_
-9	.	.	_	.	_	0	ROOT	_	_

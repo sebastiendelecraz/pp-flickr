@@ -1,8 +1,0 @@
-1	Line	Line	_	NNP	_	0	ROOT	130507	_
-2	of	of	_	IN	_	1	NMOD	130507	_
-3	people	people	_	NN	_	2	PMOD	130507	_
-4	outside	outside	_	IN	_	3	LOC	_	1
-5	a	a	_	DT	_	7	NMOD	130512	_
-6	traveling	travel	_	VBG	_	7	NMOD	130512	_
-7	facility	facility	_	NN	_	4	PMOD	130512	_
-8	.	.	_	.	_	0	ROOT	_	_

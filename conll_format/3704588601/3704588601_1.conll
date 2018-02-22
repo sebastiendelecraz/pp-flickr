@@ -1,9 +1,0 @@
-1	Men	Men	_	NNPS	_	0	ROOT	138087	_
-2	working	work	_	VBG	_	0	ROOT	_	_
-3	with	with	_	IN	_	2	ADV	_	_
-4	electrical	electrical	_	JJ	_	5	NMOD	138088	_
-5	equipment	equipment	_	NN	_	3	PMOD	138088	_
-6	on	on	_	IN	_	2	ADV	_	2
-7	a	a	_	DT	_	8	NMOD	138093	_
-8	building	building	_	NN	_	6	PMOD	138093	_
-9	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	People	People	_	NNPS	_	2	NAME	98630	_
-2	seen	see	_	VBN	_	0	ROOT	_	_
-3	through	through	_	IN	_	2	PMOD	_	2
-4	the	the	_	DT	_	5	NMOD	98633	_
-5	window	window	_	NN	_	3	PMOD	98633	_
-6	of	of	_	IN	_	5	NMOD	98633	5
-7	a	a	_	DT	_	8	NMOD	98633	_
-8	bus	bus	_	NN	_	6	PMOD	98633	_
-9	.	.	_	.	_	0	ROOT	_	_

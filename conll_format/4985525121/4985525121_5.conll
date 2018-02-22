@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	226156	_
-2	dog	dog	_	NN	_	0	ROOT	226156	_
-3	with	with	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	226157	_
-5	frisbee	frisbee	_	NN	_	3	PMOD	226157	_
-6	in	in	_	IN	_	5	LOC	_	_
-7	its	its	_	PRP$	_	8	NMOD	226159	_
-8	mouth	mouth	_	NN	_	6	PMOD	226159	_
-9	.	.	_	.	_	0	ROOT	_	_

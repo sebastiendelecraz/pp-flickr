@@ -1,9 +1,0 @@
-1	Two	Two	_	CD	_	3	NMOD	33627	_
-2	young	young	_	JJ	_	3	NMOD	33627	_
-3	boys	boy	_	NNS	_	0	ROOT	33627	_
-4	amidst	amidst	_	IN	_	3	NMOD	_	3
-5	a	a	_	DT	_	6	NMOD	33634	_
-6	crowd	crowd	_	NN	_	4	PMOD	33634	_
-7	in	in	_	IN	_	6	LOC	_	3
-8	India	India	_	NNP	_	7	PMOD	33635	_
-9	.	.	_	.	_	0	ROOT	_	_

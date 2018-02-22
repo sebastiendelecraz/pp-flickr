@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	4688	_
-2	woman	woman	_	NN	_	0	ROOT	4688	_
-3	in	in	_	IN	_	2	LOC	_	2
-4	a	a	_	DT	_	5	NMOD	4691	_
-5	dress	dress	_	NN	_	3	PMOD	4691	_
-6	with	with	_	IN	_	2	NMOD	_	_
-7	two	two	_	CD	_	8	NMOD	4694	_
-8	children	child	_	NNS	_	6	PMOD	4694	_
-9	.	.	_	.	_	0	ROOT	_	_

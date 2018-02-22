@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	190264	_
-2	soldier	soldier	_	NN	_	3	SBJ	190264	_
-3	ducks	duck	_	VBZ	_	0	ROOT	_	_
-4	behind	behind	_	IN	_	3	LOC	_	3
-5	a	a	_	DT	_	6	NMOD	190266	_
-6	tank	tank	_	NN	_	4	PMOD	190266	_
-7	for	for	_	IN	_	6	NMOD	_	3
-8	cover	cover	_	NN	_	7	PMOD	190268	_
-9	.	.	_	.	_	3	P	_	_

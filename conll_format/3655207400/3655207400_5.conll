@@ -1,9 +1,0 @@
-1	Several	several	_	DT	_	2	NMOD	134581	_
-2	ladies	lady	_	NNS	_	0	ROOT	134581	_
-3	with	with	_	IN	_	2	NMOD	_	2
-4	a	a	_	DT	_	5	NMOD	134583	_
-5	baby	baby	_	NN	_	3	PMOD	134583	_
-6	in	in	_	IN	_	2	LOC	_	2
-7	a	a	_	DT	_	8	NMOD	134584	_
-8	bedroom	bedroom	_	NN	_	6	PMOD	134584	_
-9	.	.	_	.	_	0	ROOT	_	_

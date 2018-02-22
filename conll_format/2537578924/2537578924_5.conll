@@ -1,8 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	56269	_
-2	man	man	_	NN	_	0	ROOT	56269	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	orange	orange	_	JJ	_	5	NMOD	56271	_
-5	cutting	cutting	_	NN	_	3	PMOD	_	_
-6	through	through	_	IN	_	2	TMP	_	5
-7	metal	metal	_	NN	_	6	PMOD	56274	_
-8	.	.	_	.	_	0	ROOT	_	_

@@ -1,9 +1,0 @@
-1	Children	child	_	NNS	_	2	SBJ	72118	_
-2	playing	play	_	VBG	_	0	ROOT	_	_
-3	with	with	_	IN	_	2	ADV	_	2
-4	a	a	_	DT	_	5	NMOD	72120	_
-5	bike	bike	_	NN	_	3	PMOD	72120	_
-6	in	in	_	IN	_	5	LOC	_	_
-7	the	the	_	DT	_	8	NMOD	72119	_
-8	sand	sand	_	NN	_	6	PMOD	72119	_
-9	.	.	_	.	_	0	ROOT	_	_

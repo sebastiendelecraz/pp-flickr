@@ -1,9 +1,0 @@
-1	A	a	_	DT	_	2	NMOD	106718	_
-2	swan	swan	_	NN	_	0	ROOT	106718	_
-3	preparing	prepare	_	VBG	_	2	APPO	_	_
-4	for	for	_	IN	_	3	ADV	_	3
-5	flight	flight	_	NN	_	4	PMOD	106722	_
-6	across	across	_	IN	_	3	LOC	_	3
-7	the	the	_	DT	_	8	NMOD	106719	_
-8	pond	pond	_	NN	_	6	PMOD	106719	_
-9	.	.	_	.	_	0	ROOT	_	_

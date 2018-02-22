@@ -1,9 +1,0 @@
-1	a	a	_	DT	_	2	NMOD	108136	_
-2	snowboarder	snowboarder	_	NN	_	0	ROOT	108136	_
-3	in	in	_	IN	_	2	LOC	_	_
-4	red	red	_	JJ	_	5	NMOD	108137	_
-5	rides	ride	_	NNS	_	3	PMOD	_	_
-6	down	down	_	IN	_	5	NMOD	_	5
-7	the	the	_	DT	_	8	NMOD	108141	_
-8	slope	slope	_	NN	_	6	PMOD	108141	_
-9	.	.	_	.	_	0	ROOT	_	_
