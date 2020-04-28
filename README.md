@@ -2,7 +2,7 @@
 
 Sebastien Delecraz, Alexis Nasr, Frederic Bechet, Benoit Favre
 
-This corpus is an extension of the [Flickr30k Entities](http://web.engr.illinois.edu/~bplumme2/Flickr30kEntities/) corpus created by adding some syntactic annotations in order to study the joint processing of image and language features for the Preposition-Phrase attachment disambiguation task. The annotation has been performed on the English version of the captions and automatically projected on their French and German translations.
+This corpus is an extension of the [Flickr30k Entities](https://github.com/BryanPlummer/flickr30k_entities) corpus created by adding some syntactic annotations in order to study the joint processing of image and language features for the Preposition-Phrase attachment disambiguation task. The annotation has been performed on the English version of the captions and automatically projected on their French and German translations.
 
 
 ## References
